@@ -1,0 +1,178 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122023002744-2         N.° de Depósito PCT:JP2015/073946
+ Data de Depósito:                   26/08/2015
+ Prioridade Unionista:               JP 2014-174062 (28/08/2014); JP 2015-034729 (25/02/2015)
+ Depositante:                        EISAI R&D MANAGEMENT CO., LTD. (JP)
+ Inventor:                           TAIJU NAKAMURA, TAICHI ABE, YUSUKE MIYASHITA, HIROFUMI
+                                     KURODA, YUSUKE AYATA, ATSUSHI AKAO
+ Título:                             DERIVADO DE QUINOLINA ALTAMENTE PURO E MÉTODO PARA
+                                     PRODUÇÃO DO MESMO
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 52               870230013017           14/02/2023
+Quadro Reivindicatório                                      1                870230075224           24/08/2023
+Desenhos                                                   ---                     ---                  ---
+Resumo                                                      1                870230032595           19/04/2023
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                       x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         x
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                Página 1
+                                      BR122023002744-2
+
+
+Comentários/Justificativas
+
+
+                         Quadro 4  Documentos citados no parecer
+
+ Código                              Documento                              Data de publicação
+    D1                      WO2004101526 (US2007117842)                          25/11/2004
+    D2                             WO2006137474                                  28/12/2006
+    D3                             WO2006030826                                  23/03/2006
+    D4                       WO2005063713 (US7612208)                            14/07/2005
+    D5                       WO2005044788 (US7683172)                            19/05/2005
+    D6                        WO0232872 (US7253286)                              25/04/2002
+    D7                             US2004253205                                  16/12/2004
+Comentários/Justificativas
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento               Reivindicações
+                                                   Sim                        1a3
+            Aplicação Industrial
+                                                   Não                         ---
+                                                   Sim                         ---
+                 Novidade
+                                                   Não                        1a3
+
+                                                   Sim                         ---
+            Atividade Inventiva
+                                                   Não                        1a3
+Comentários/Justificativas
+
+         Por meio da petição n°870240040993 de 15/05/2024 a Requerente apresentou
+manifestação ao parecer notificado na RPI2771 de 15/02/2024.
+
+         Em sua manifestação a Requerente mencionou que ao analisar os pedidos de patente
+anteriores relacionados ao composto (IV) ou ao seu sal de metanossulfonato, isto é, D1, D4, D5,
+D6, D7, o técnico no assunto teria entendido que uma síntese melhorada do composto (IV) havia
+sido desenvolvida levando a rendimentos mais elevados que não prosseguem através do
+composto (I) (cf. parágrafos [0003], [0008], [0009] e as reivindicações de D6: EP1683785 B1,
+que é equivalente a US7683172 B2). Além disso, não era conhecido do estado da técnica que o
+composto (I) pudesse ser formado por decomposição do composto (IV), em particular durante a
+formação de sal (cf. parágrafo [0076]). Isto só é conhecido a partir deste pedido de patente. O
+estado da técnica sugeria antes a decomposição do composto (IV) através de uma via diferente
+que não resultava no composto (I) (cf. parágrafo [0010] do documento EP1797881 B1). Portanto,
+o técnico no assunto não tinha expectativa de que o composto (I) estivesse de fato presente
+como uma impureza no composto (IV) ou no seu sal de metanossulfonato do estado da técnica.
+O técnico no assunto não teve, portanto, motivação para avaliar e reduzir o teor do composto (I)
+
+
+                                                                                         Página 2
+                                            BR122023002744-2
+
+
+na base livre de lenvatinib ou no mesilato de lenvatinib. Portanto, um técnico no assunto não
+seria motivado a eliminar e/ou reduzir a quantidade do composto (I) em produtos de sal de
+lenvatinib.
+
+       Com relação ao requisito de novidade a Requerente apontou que o estado da técnica
+anterior representado por EP1894918A1 descreve o sal de metanossulfonato de Lenvatinib
+como       um     dos    exemplos       (sais)   tais   como       metanossulfonato,     etanossulfonato,
+p-toluenossulfonato,      cloridrato,   bromidrato,     sulfato,   tartarato   e   fosfato.   O   sal   de
+metanossulfonato do Composto (IV) não está listado como sal preferido. Nomeadamente, o sal
+de metanossulfonato do Composto (IV) não foi especificamente mencionado entre os preferidos
+no documento do estado da técnica: EP1894918A1 e o documento do estado da técnica:
+EP1894918A1 não especifica o teor de impureza representada pela fórmula (I) no sal de
+metanossulfonato do composto (IV). Portanto, o metanossulfonato do Composto (IV) é
+considerado novo.
+
+       Acerca da alegação da Requerente cabe salientar que o sal de mesilato do composto A
+reivindicado é considerado especificamente revelado no estado da técnica e, portanto, não
+apresenta novidade consoante o item 2.4 da Resolução n° 208/2017. O estado da técnica
+representado por EP1894918A1 descreve o sal de metanossulfonato de lenvatinib nas formas A
+a C (exemplos de referência 8 a 10, página 8), na amorfa (exemplo 1, página 11) e
+especificamente, o exemplo de referência 10 (método de preparação 1) descreve a forma
+cristalina C do mesmo. O fato do o sal de metanossulfonato do composto (IV) apresentar um
+determinado grau de pureza essa característica por si só não é suficiente para conferir novidade
+ao mesmo como acredita a Requerente. Assim, uma vez que o estado da técnica
+(EP1894918A1) revela especificamente o sal de metanossulfonato do composto (IV), a matéria
+das reivindicações 1 a 3 do presente pedido não atende ao artigo 11 da LPI.
+
+       Com relação a atividade inventiva salienta-se que uma vez que o sal de
+metanossulfonato do composto (IV) já é conhecido do estado da técnica (EP1894918A1), um
+técnico no assunto com o objetivo de melhorar sua pureza seria impelido a empregar técnicas
+de purificação convencionais tais como, recristalização, destilação e cromatografia, entre outras
+que normalmente são bem-sucedidas na purificação de um composto e estão dentro do
+conhecimento geral comum do técnico no assunto (Pilaniya et al.). Desta forma, não se observa
+nenhum efeito técnico do sal de metanossulfonato do composto (IV) do presente que não fosse
+observado a partir dos ensinamentos do estado da técnica (EP1894918A e Pilaniya et al) e,
+portanto, a matéria das reivindicações 1 a 3 não apresenta atividade inventiva como disposto no
+art. 13 da LPI.
+
+
+
+Conclusão
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+       -      não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI); e
+
+
+
+                                                                                                   Página 3
+                                      BR122023002744-2
+
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                Publique-se o indeferimento (9.2).
+
+                                                              Rio de Janeiro, 29 de maio de 2024.
+
+
+
+Jaqueline Mendes Soares
+Pesquisador/ Mat. Nº 1568553
+DIRPA / CGPAT I/DIFAR-II
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                         Página 4
+

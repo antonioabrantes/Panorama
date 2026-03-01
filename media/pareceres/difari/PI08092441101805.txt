@@ -1,0 +1,258 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0809244-3                N.° de Depósito PCT:US2008/058530
+ Data de Depósito:                   27/03/2008
+ Prioridade Unionista:               US 60/920496 (27/03/2007)
+ Depositante:                        Omeros Corporation (US)
+ Inventor:                           John E. Bergmann, Neil S. Cutshall, Gregory A. Demopulos, Vincent
+                                     A. Florio, George Gaitanaris, Patrick Gray, John Hohmann, Rene
+                                     Onrust, Hongkui Zeng
+ Título:                             Métodos de tratamento de uma anormalidade de movimento, e para
+                                     identificação de um agente que inibe a atividade pde7. 
+
+                                                                PARECER
+
+
+          A requerente apresentou manifestação ao parecer técnico publicado na RPI 2526 de
+04/06/2019, por meio da petição 870190084917 de 30/08/2019, assim como nova via da página
+1 do relatório descritivo e do resumo com novo título e nova via do quadro reivindicatório com 11
+reivindicações. Para fins de continuidade do exame, as vias consideradas no exame técnico
+estão descritas no quadro 1.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo*                                       1                870190084917     30/08/2019
+Relatório Descritivo                                    2 a 183              020090090483     24/09/2009
+Quadro Reivindicatório                                  1 a 63               870190084917     30/08/2019
+Desenhos                                                1 a 23               020090090483     24/09/2009
+Listagem de Sequências                         Formato eletrônico            020090090483     24/09/2009
+Resumo*                                                     1                870190084917     30/08/2019
+*O título foi modificado para: Uso de um composto inibidor de PDE7.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                               PI0809244-3
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                           Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   x
+O pedido está de acordo com disposto no art. 32 da LPI                    x
+
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                   x
+Comentários/Justificativas
+
+1. As reivindicações 1 a 6, 9 a 11 estão redigidas de forma ampla, com falta de clareza, não
+apresentam suporte no relatório descritivo para o uso de todos os compostos reivindicados, não
+caracterizam a condição a ser tratada de forma clara, pois utilizam sintomas e um mecanismo de
+ação para defini-la, e caracterizam o uso com o efeito dos compostos e sua concentração
+inibitória média comparativamente com mais de um tipo de fosfodiesterase (PDE), o que não é
+uma característica técnica de uso, contrariando o disposto no artigo 25 da LPI;
+
+2. As reivindicações 7 e 8 estão redigidas de forma ampla e indefinida e não possuem suporte
+no relatório descritivo, além de serem reivindicações de composto (produto) que estão redigidas
+como reivindicações dependentes das reivindicações de uso (processo), que são reivindicações
+de categoria diferente, contrariando o disposto no artigo 5º  VI da Instrução Normativa 30/2013
+e no artigo 25 da LPI;
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                  WO02074754                                 26/09/2002
+    D2                                   EP1454897                                 08/09/2004
+    D3                        BMCLetters, v. 14, p. 4607-4613                        2004
+    D4                                US2005/0222138                               06/10/2005
+    D5              Nature Reviews, Drug Discovery, v. 5, p. 660-670                 2006
+
+
+
+
+                                                                                         Página 2
+                                           PI0809244-3
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento                Reivindicações
+                                                    Sim                         1 a 11
+          Aplicação Industrial
+                                                   Não                            -
+                                                    Sim                           -
+                Novidade
+                                                   Não                          1 a 11
+
+                                                    Sim                           -
+           Atividade Inventiva
+                                                   Não                          1 a 11
+Comentários/Justificativas
+
+       Em exame técnico notificado pela RPI 2526 de 04/06/2019, foi constatado que a matéria
+pleiteada no quadro reivindicatório da petição 020110024486 de 15/03/2011 não apresentava
+novidade nem atividade inventiva, contrariando os artigos 8º, 11 e 13 da LPI.
+       Na manifestação da petição 870190084917 de 30/08/2019, a requerente apresentou um
+novo quadro reivindicatório com 11 reivindicações, e os seguintes argumentos em favor da
+patenteabilidade do PI0809244-3:
+
+
+
+- Os documentos D1 a D3 divulgam compostos inibidores de PDE7 para o tratamento de
+esclerose múltipla, mas não ensinam o uso dos mesmos para o tratamento de doença de
+Parkinson, distonia responsiva à dopamina ou parkinsonismo pós-encefalítico, síndrome de Shy-
+Drager como ora reivindicado;
+
+- D4 não ensina que um inibidor de PDE7 poderia ser usado para aliviar uma anormalidade de
+movimento associada à patologia de um distúrbio neurológico do movimento como ora
+reivindicado, apenas especula que um inibidor de PDE7 poderia ser potencialmente útil para o
+tratamento da doença de Parkinson entre outras diversas doenças e que a PDE7 é importante
+na ativação de células T e está implícito que é útil para a prevenção e tratamento de doenças
+dependentes de células T;
+
+- D4 divulga ainda que os compostos inibidores da PDE7 de fórmula (I) atuam especificamente
+no receptor canabinoide 2 (CB2) para modular a inflamação e a função imunológica e que o
+receptor canabinoide 1 (CB1), não modulado pelos compostos, é encontrado no sistema
+nervoso central (SNC) e que CB1 é expresso principalmente no cérebro e CB2 naquelas células
+responsáveis pela imunidade, por exemplo, no baço;
+
+- D4 não fornece motivação para usar os inibidores de PDE7 de uma maneira que explora a
+capacidade de atravessar a barreira hematoencefálica e apresenta dados biológicos que estão
+relacionados à modulação das células T e, portanto, de acordo com o uso de inibidores de PDE7
+que também atuam sobre CB2 para modular inflamação e a função imunológica;
+
+- D5 não ensina nem sugere um inibidor de PDE7 para o tratamento de uma anormalidade de
+movimento associada a um distúrbio neurológico do movimento como reivindicado no presente
+
+
+
+                                                                                          Página 3
+                                          PI0809244-3
+
+
+pedido pois trata de uma revisão do estado da arte no campo da farmacologia da
+fosfodiesterase no SNC;
+
+- D5 não lista inibidores representativos da PDE7 e cita Doença de Parkinson e psicose como
+indicações potenciais do SNC para inibidores de PDE7B, e na tabela 1 especula sobre o uso
+potencial de inibidores teóricos da PDE7 para tratar a doença de Parkinson, mas declara que os
+efeitos dos inibidores de PDE7 ainda não foram descritos na função do SNC;
+
+- Segundo a requerente, o presente pedido fornece a primeira demonstração de que os
+inibidores da PDE7 aliviam os sintomas de um sujeito que sofre de anormalidades de movimento
+associadas a um distúrbio neurológico do movimento por observarem uma melhora significativa
+na função motora de camundongos no modelo de doença de Parkinson induzida por 1-metil,4-
+fenil,1,2,3,6-tetra-hidropiridina (MPTP) com a administração de agentes inibidores seletivos de
+PDE7 em doses menores que a de L-dopa necessária para atingir um nível equivalente de
+resposta;
+
+- A requerente ressalta que o presente pedido apresenta nos exemplos 5-7 evidências
+experimentais demonstrando vantagens significativas em relação ao estado da arte, e mostra
+ainda que após a administração dos inibidores de PDE7 a camundongos tratados com MPTP as
+anormalidades de movimento diminuíram rapidamente.
+
+
+
+       A requerente argumenta que os documentos D1 a D5 não ensinam o uso dos compostos
+para o tratamento de doença de Parkinson, distonia responsiva à dopamina ou parkinsonismo
+pós-encefalítico, e síndrome de Shy-Drager como ora reivindicado. E que D4 e D5 apenas
+especulam que um inibidor de PDE7 poderia ser potencialmente útil para o tratamento de uma
+anormalidade de movimento associada a um distúrbio neurológico do movimento como a
+doença de Parkinson.
+
+       No entanto, o documento D1 já revelava compostos inibidores de PDE7 para o
+tratamento de diversas doenças, entre elas a esclerose múltipla, que é uma doença neurológica
+que apresenta anormalidades de movimento. Em D1, o composto do exemplo 78 corresponde
+ao composto (c) da reivindicação 11 que, portanto, não é novo.
+       O documento D2 revela compostos derivados de pirazolopirimidinona como inibidores
+seletivos de PDE7 para o tratamento de inúmeras doenças, incluindo esclerose múltipla, em que
+o composto (a) da reivindicação 11 está descrito no exemplo 44, página 89, e o composto (b)
+está descrito no exemplo 9, página 80 e, portanto, não são novos.
+
+       O documento D3 revela compostos tiadiazóis como inibidores seletivos de PDE7 úteis no
+tratamento de desordens do sistema nervoso central (página 4607, introdução), no qual o
+composto (d) da reivindicação 11 está descrito como composto 48 na tabela 3, página 4611, e
+portanto, não é novo. O documento D4 já ensinava que compostos inibidores de PDE7 são
+utilizados no tratamento de diversas doenças incluindo depressão, doença de Parkinson,
+demência, entre outras.
+
+
+
+                                                                                        Página 4
+                                           PI0809244-3
+
+
+       Como pode ser observado, um composto inibidor de PDE7 para uso no tratamento de
+anormalidade de movimento neurológico através da inibição da atividade enzimática de PDE7 já
+está descrito no estado da técnica (D1 a D4), e os compostos preferenciais pleiteados na
+reivindicação 11 já estavam especificamente revelados nos documentos D1 a D3 como
+inibidores de PDE7. Portanto, a matéria pleiteada nas reivindicações 1 a 11 não é nova,
+contrariando o disposto no artigo 11 da LPI.
+
+       Apesar da requerente apresentar outros compostos inibidores de PDE7 além dos
+descritos na reivindicação 11, a matéria não apresenta atividade inventiva, uma vez que já foi
+revelada a presença de PDE7 no sistema nervoso central e sua relação com doenças como
+doença de Parkinson e psicose (D5, tabela 1).
+       A partir dessa informação, seria óbvio para um técnico no assunto utilizar um composto
+que tem capacidade de inibir a PDE7 para tratar doenças do sistema nervoso central. Dessa
+forma, a matéria ora reivindicada (reivindicações 1 a 11) não apresenta atividade inventiva,
+contrariando o disposto no artigo 13 da LPI.
+
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 26 de novembro de 2019.
+
+
+
+
+Luana Braga Pontes
+Pesquisador/ Mat. Nº 1783812
+DIRPA / CGPAT I/DIFAR-I
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/15
+
+
+
+
+                                                                                           Página 5
+

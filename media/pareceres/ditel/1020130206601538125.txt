@@ -1,0 +1,195 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102013020660-1          N.° de Depósito PCT:
+ Data de Depósito:                   14/08/2013
+ Prioridade Unionista:               -
+ Depositante:                        FUNDACAO        CPQD      -    CENTRO       DE      PESQUISA E
+                                     DESENVOLVIMENTO EM TELECOMUNICACOES (BRSP)
+ Inventor:                           Juliano João Bazzo
+ Título:                             Processo de escalonamento com controle de potência para uma
+                                     estação rádio base com limitado gap de duplexação 
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição          Data
+
+Relatório Descritivo                                      1-12               870210055685           21/06/21
+Quadro Reivindicatório                                     1-3               870210055685           21/06/21
+Desenhos                                                   1-6               860130001101           14/08/13
+Resumo                                                      1                870210055685           21/06/21
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim      Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                     x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                             x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim      Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                                    x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         x
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                              Página 1
+                                          BR102013020660-1
+
+
+Comentários/Justificativas
+Importante ressaltar que a Requerente não apresentou modificações ao pedido como apresentado
+ao 1o exame pós resposta ao despacho 6.22, se limitando a disputar as conclusões do dito
+parecer, o conteúdo do qual faz parte dos autos do processo.
+A Requerente, na sua manifestação, apresenta nas páginas 3-6 do documento uma cópia do
+parecer de exame do pedido como apresentado em resposta ao 1o exame pós resposta ao
+despacho 6.22.
+Na seqüência, a Requerente disputa as conclusões apresentadas no quadro 3 do dito parecer
+afirmando, in verbis:
+Com todo respeito ao entendimento do D. Examinador, o depositante entende que equações de
+teoria magnética são usuais, assim como algoritmo de aprendizado e algoritmo de otimização;
+no entendimento do depositante podem ser empregados aquelas equações e algoritmos
+conhecidos. E, por não estarem reivindicados, o depositante entendeu que a não citação não
+infringe o Art. 24 da LPI.
+Com o mesmo respeito ao entendimento da Requerente, equações da teoria eletromagnética
+[sic] englobam um conjunto vasto e extremamente diverso de conhecimentos teóricos. Sem
+especificar quais seriam as ferramentas teóricas relevantes para a realização da invenção, o
+técnico no assunto não seria capaz de fazê-lo. A mesma generalidade é vista no uso de algoritmo
+de aprendizado e algoritmo de otimização, os quais também existem em grande variedade na
+técnica. Desta forma, a Requerente não lôgra êxito nas suas argumentações, estando portanto
+mantidas as conclusões do 1o exame técnico, ou seja, falta clareza e suficiência descritiva ao
+relatório descritivo, o que viola o Art. 24 da LPI.
+
+
+                              Quadro 4  Documentos citados no parecer
+
+ Código                                 Documento                           Data de publicação
+    D1      EP1559281                                                                18/04/12
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento            Reivindicações
+                                                      Sim                     1-9
+           Aplicação Industrial
+                                                      Não                      ---
+                                                      Sim                     1-9
+                 Novidade
+                                                      Não                      ---
+
+                                                      Sim                      ---
+            Atividade Inventiva
+                                                      Não                     1-9
+Comentários/Justificativas
+
+
+
+
+                                                                                          Página 2
+                                       BR102013020660-1
+
+A Requerente, desqualifica a anteriordade D1 afirmando que esta não descreve exatamente o teor
+da parte caracterizante da única reivindicação independente (RI) do quadro reivindicatório, em
+especial os passos do algoritmo de escalonamento.
+Como a Requerente não realizou alterações no pedido, temos para esta etapa de exame o quadro
+reivindicatório apresentado ao 1o exame, o qual foi considerado absorvido no estado da técnica
+perante D1, e as alegações apresentadas na manifestação.
+Tendo analisado as ditas alegações, à luz dos ensinamentos de D1 e do teor da parte
+caracterizante da RI1, é conclusão deste exame que, pelos motivos que seguem, e
+respeitosamente, falta razão à Requerente.
+Inicialmente, tanto LTE quanto WiMAX, citadas no preâmbulo, são tecnologias multiportadora
+baseadas em OFDM, o que é de conhecimento notório para um técnico no assunto. O resto da
+matéria contida no preâmbulo é a base do documento D1 (ver, por exemplo [0001]), como deveria
+ser, já que o preâmbulo deve conter apenas matéria já contida no estado da técnica.
+A principal objeção da Requerente quanto a adequação de D1 para antecipar a matéria
+reivindicada reside no seguinte trecho da página 9 da manifestação:
+E as etapas operacionais são exatamente aquelas contidas nos passos [4 a 9] e [11 e 12]. Esses
+passos estão citados na reivindicação independente e detalhados nas demais reivindicações
+dependentes. Esses passos NÃO ESTÃO DESCRITOS EM D1. E o efeito técnico obtido está
+reproduzido acima, e não é verificado em D1.
+Inicialmente, efeitos técnicos não são patenteáveis pois são mero resultado do uso da invenção.
+Desta forma, a fim de não tornar este parecer demasiadamente prolixo, não discutiremos esta
+alegação.
+Cabe aqui ressaltar que o pedido em lide não possui condições de patenteabilidade por não
+atender ao requisito obrigatório de atividade inventiva. Desta forma, basta que o técnico no
+assunto, de posse dos ensinamentos da anterioridade consiga chegar à invenção ora objeto deste
+pedido sem o uso de passo inventivo para que se possa concluir pela falta de atividade inventiva.
+Da leitura do documento D1, que é bastante detalhado e didático no seu relatório descritivo, é
+possível concluir desde muito cedo que se trata de um método de controle de potência para
+sistemas baseados em OFDM, controle de potência este que não só resolve o problema de near-
+far como também, colateralmente, trata do problema da intermodulação, a qual, de acordo com o
+trecho [0005]-[0007] é diretamente ligada a potência transmitida (efeito da não linearidade dos
+amplificadores de potência). Como o nível de intermodulação está ligado ao nível de potência (ver
+figura 1C e [0041]), a medição de um leva ao outro.
+O parágrafo [0004] mostra as vantagens do processamento espacial em relação ao ponto-a-ponto,
+ou seja, o processo de escalonamento (ou controle  são termos intercambiáveis neste contexto)
+é otimizado quando se considera o conjunto de móveis dentro da área de cobertura da base.
+Como o controle de potência ensinado em D1 (ver, por exemplo [0036]-[0042]) mitiga os efeitos da
+intermodulação (ver, por exemplo [0026]), o técnico no assunto não precisaria de passo inventivo
+para atingir este objetivo.
+
+
+                                                                                         Página 3
+                                        BR102013020660-1
+
+Quanto aos passos do algoritmo, temos entre 4 e 9 a estimação das condições do canal em
+termos da potência recebida dada a posição do móvel em relação à base (ver [0050] e figura 3),
+ordenar (priorizar, como no contexto de D1) os móveis (ver [0053]), alocação das portadoras feita
+pela base (ver [0059]), o cálculo da intermodulação dada a potência (ver figura 1C) Já os passos
+11 e 12 dizem respeito ao processamento dinâmico do controle de potência de acordo com as
+condições do meio propagante (ver [0076] e [0077]).
+Quanto a ser ciente das características do duplexador, D1 apresenta esta característica
+implicitamente em [0072].
+Desta forma, a matéria pleiteada na RI1 do presente pedido se encontra absorvida no estado da
+técnica ante os ensinamentos de D1. A Requerente, portanto e respeitosamente, não encontra
+razões para as alegações feitas na manifestação. Cabe ainda ressaltar que as conclusões e
+argumentações feitas neste parecer corroboram integralmente as já proferidas no parecer de 1 o
+exame.
+
+
+Quanto as demais reivindicações, por serem dependentes das reivindicações independentes
+contestadas acima, portanto, pleiteando apenas características adicionais do dito como
+inventivo, as mesmas também não são passíveis de patenteabilidade.
+
+Conclusão
+
+Desta forma, constata-se que a RI1 apresenta arranjos funcionalmente similares aos descritos em
+D1 sendo estes apenas mais uma forma de realização, dos já pertencentes ao estado da técnica,
+para atingir o objetivo pretendido, ou seja, realizar escalonamento com controle de potência para
+uma estação rádio base.
+
+Assim sendo, o BR102013020660-1 carece de atividade inventiva por ser mera decorrência do
+estado da técnica conforme os Art. 8° e 13 da LPI não possuindo condições de patenteabilidade.
+O relatório descritivo não descreve de forma clara o objeto, violando o Art. 24 da LPI.
+
+Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende ao
+requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI) e não apresenta suficiência
+descritiva (Art. 24 da LPI).
+
+De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da data
+de publicação na RPI, para interposição de recurso.
+
+                                                                  Publique-se o indeferimento (9.2).
+
+                                                             Rio de Janeiro, 3 de fevereiro de 2022.
+Erasmus Couto Brazil de Miranda
+Pesquisador/ Mat. Nº 1474157
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+022/12
+
+
+
+
+                                                                                           Página 4
+

@@ -1,0 +1,144 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112020002026-5            N.° de Depósito PCT:IB2018/055037
+ Data de Depósito:                   09/07/2018
+ Prioridade Unionista:               US 62/539,120 (31/07/2017)
+ Depositante:                        3M INNOVATIVE PROPERTIES COMPANY (US)
+ Inventor:                           LIJUN ZU; ANDREW C. ANDERSON; SARAH L. HAGEN; JESSE D.
+                                     LUND; QIHONG NIE; DAVID C. RAITHEL; KIM C. SACHS JR.
+ Título:                             Artigo para tratamento de superfícies 
+
+                                                                PARECER
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1  30               870230040499           15/05/2023
+Quadro Reivindicatório                                   13                 870230040499           15/05/2023
+Desenhos                                                 18                 870210058667           29/06/2021
+Resumo                                                      1                870230040499           15/05/2023
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         x
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                                        BR112020002026-5
+
+                                  Quadro 4  Documentos citados no parecer
+
+  Código                                            Documento                   Data de publicação
+     D1                                             EP1702714                        20/09/2006
+
+
+      Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade                         Cumprimento     Reivindicações
+                                                                 Sim             1  13
+               Aplicação Industrial
+                                                                 Não               ---
+                                                                 Sim             1  13
+                       Novidade
+                                                                 Não               ---
+                                                                 Sim               ---
+               Atividade Inventiva
+                                                                 Não             1  13
+
+
+
+Comentários/Justificativas
+Neste parecer serão utilizados os seguintes símbolos:
+LPI  Lei da Propriedade Industrial (Lei N° 9.279/96)
+IN  Instrução Normativa
+RD  relatório descritivo
+QR  quadro reivindicatório
+R  reivindicação
+
+
+
+
+          Após notificação de despacho de ciência de parecer (7.1) publicado na RPI nº 2719 em
+14/02/2023, a requerente impetrou a petição de n° 870230040499 em 15/05/2023, onde apresenta
+novas vias do relatório descritivo, do quadro reivindicatório e do resumo.
+
+
+          A reivindicação 1 foi emendada para definir que o artigo para tratamento de superfícies é
+caracterizado pelo abrasivo ter uma distribuição de gradiente aleatória radialmente não uniforme.
+
+
+          Primeiramente, cabe observar que a expressão distribuição de gradiente é redundante,
+uma vez que um gradiente é um grau de variação de um determinado parâmetro ao longo de uma
+direção, logo, uma medida da distribuição do referido parâmetro. Além disso, a referida expressão
+não define a qual parâmetro está se fazendo referência. A leitura do relatório descritivo permite
+depreender que trata-se da distribuição de concentração de abrasivo ao longo do raio, ou seja, do
+gradiente de concentração do abrasivo na direção radial do artigo para tratamento de superfícies
+(vide §[00045] do RD). Esta característica técnica não restringe, nem melhor define a dita
+invenção, uma vez que a R1 já define que o abrasivo (130) tem uma primeira concentração em
+um primeiro raio (110) e uma segunda concentração não igual à primeira concentração em um
+                                                                                              Página 2
+                                        BR112020002026-5
+segundo raio. Logo, o gradiente de concentração de abrasivo já é radialmente não uniforme.
+Quanto à aleatoriedade da distribuição de concentração de abrasivo, as características da R1
+sublinhadas acima limitam esta característica, definindo de forma mais clara como ocorre a
+distribuição de concentração na direção radial. Desta forma, as alterações realizadas na R1 não
+são capazes de dotar a matéria nela pleiteada de atividade inventiva.
+
+
+
+
+Conclusão
+
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                                Rio de Janeiro, 7 de junho de 2023.
+
+
+
+
+Rafael Vieira Camerini
+Pesquisador/ Mat. Nº 2317410
+DIRPA / CGPAT IV/DIMAT
+Deleg. Comp. - Port. INPI/DIRPA Nº
+012/18
+
+
+
+
+                                                                                          Página 3
+

@@ -1,0 +1,159 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112013030255-0        N.° de Depósito PCT:KR2012/003614
+ Data de Depósito:                   09/05/2012
+ Prioridade Unionista:               KR 10-2011-0048359 (23/05/2011)
+ Depositante:                        SAMSUNG ELECTRONICS CO., LTD (KR)
+ Inventor:                           JIN YONG KIM, NOBUYOSHI UEYAMA, MASATO WATANABE, YU
+                                     RAN KIM
+ Título:                             Método de gerenciamento de informação e sistema adaptado ao
+                                     mesmo 
+
+                                                                PARECER
+
+
+Em 06/08/2021, por meio da petição 870210072127, a Requerente apresentou modificações no
+pedido em resposta ao parecer emitido, notificado na RPI 2627 de 11/05/2021 (despacho 7.1).
+Estas modificações estão consideradas no Quadro 1.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 63               860150089230           11/05/2015
+Quadro Reivindicatório                                   1a4                 870210072127           06/08/2021
+Desenhos                                                1 a 17               860150089230           11/05/2015
+Resumo                                                      1                860150089230           11/05/2015
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                            X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+Comentários/Justificativas
+
+Em sua Manifestação, a requerente alega ser evidente que a característica de exibir, pelo
+dispositivo móvel, um ou mais objetos, incluindo informações da conta de pagamento
+correspondentes a uma ou mais contas de pagamento selecionáveis na tela de exibição, em que
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR112013030255-0
+
+
+as informações da conta de pagamento compreendem pelo menos um dentre um saldo ou um
+valor disponível de uma conta de pagamento correspondente é realizada por um dispositivo
+móvel e não se refere a um método comercial em que uma conta de pagamento
+apropriada para o preço de um item a ser comprado pode ser facilmente selecionada
+porque um saldo ou o valor disponível da conta de pagamento é exibido.
+
+O fato de um dispositivo móvel realizar o método confere sim um caráter técnico a matéria.
+Entretanto, por compreender etapas de um método comercial como exibir informações de conta
+de pagamento, saldo de conta, seleção de conta de pagamento e autorização de pagamento, a
+matéria reivindicada é considerada método comercial, incidindo no inciso III do Art. 10 da LPI.
+
+Portanto, a matéria das novas reivindicações 1 a 10 não é considerada invenção nem modelo de
+utilidade, pois se trata de métodos comerciais, se enquadrando no disposto no Art. 10(III) da LPI.
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI       X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI     X
+Comentários/Justificativas
+---
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+      D2    US 2003/0216960 A1                                                     20/11/2003
+
+
+      Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade               Cumprimento            Reivindicações
+                                                         Sim                   1 a 10
+            Aplicação Industrial
+                                                        Não                      ---
+                                                         Sim                   1 a 10
+                 Novidade
+                                                        Não                      ---
+
+                                                         Sim                     ---
+            Atividade Inventiva
+                                                        Não                    1 a 10
+
+
+
+Comentários/Justificativas
+
+Na Manifestação apresentada, a requerente destaca características distintivas da matéria
+reivindicada em relação ao documento D2.
+
+
+                                                                                           Página 2
+                                        BR112013030255-0
+
+
+Cabe destacar, como analisado acima, que a matéria das reivindicações 1 a 10 não é
+considerada invenção, por incidir no Art. 10 da LPI.
+
+As características distintivas da matéria reivindicada em relação ao documento D2, apontadas
+na Manifestação, são características do método comercial e não contribuem para a atividade
+inventiva do pedido. Ainda que fossem eliminadas as etapas do método relacionadas ao método
+comercial, o que restaria seria um método compreendendo a obtenção da localização de um
+dispositivo móvel e a relação desta localização com a localização de uma pluralidade de áreas
+geográficas armazenadas, exibindo informações ao usuário. Como analisado no Parecer de
+Ciência, tal aplicação é de amplo conhecimento do técnico no assunto, como ilustrado no
+documento D2, que revela um sistema e método que obtém a localização de um dispositivo
+móvel, relaciona tal localização com uma localização geográfica pré-definida, e apresenta uma
+mensagem ao usuário (D2, resumo).
+
+Assim, a matéria pleiteada nas reivindicações 1 a 10, além de incidir no Art. 10 da LPI como
+analisado acima, não atende ao requisito de atividade inventiva, pois decorre de maneira óbvia
+para um técnico no assunto a partir dos ensinamentos do documento D2.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI);
+
+      -   não é considerado invenção, uma vez que incide no Art. 10 da LPI.
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                            Rio de Janeiro, 26 de agosto de 2021.
+
+
+
+
+Rodrigo de Paula Pereira
+Pesquisador/ Mat. Nº 1742451
+Deleg. Comp. - Port. INPI/DIRPA Nº
+004/15
+
+
+
+
+                                                                                         Página 3
+

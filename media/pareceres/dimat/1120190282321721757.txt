@@ -1,0 +1,174 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112019028232-7           N.° de Depósito PCT:RU2018/000896
+ Data de Depósito:                   28/12/2018
+ Prioridade Unionista:               RU 2018131159 (29/08/2018)
+ Depositante:                        JOINT STOCK COMPANY ATOMENERGOPROEKT (RU)
+ Inventor:                           DMITRIJ VYACHESLAVOVICH SILAEV; BORIS ALEKSEEVICH
+                                     POSTNIKOV;         EVGENIJ     BORISOVICH       MISHIN;     ZINAIDA
+                                     SEMENOVNA KAZACHKOVA; DMITRIJ ALEKSEEVICH VOROBEV;
+                                     ELENA ALEKSANDROVNA NIKITINA
+ Título:                             Invólucro de isolamento de tubulação e método de instalação 
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 11               870190141392           30/12/2019
+Quadro Reivindicatório                                   1a3                 870230030097           10/04/2023
+Desenhos                                                 1a4                 870190141392           30/12/2019
+Resumo                                                      1                870190141392           30/12/2019
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         x
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                      BR112019028232-7
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                              Documento                              Data de publicação
+    D3                              US2016341350                                24/11/2016
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade           Cumprimento               Reivindicações
+                                                  Sim                       1 a 15
+             Aplicação Industrial
+                                                  Não                        -----
+                                                  Sim                       1 a 15
+                   Novidade
+                                                  Não                        -----
+                                                  Sim                        -----
+             Atividade Inventiva
+                                                  Não                       1 a 15
+Comentários/Justificativas
+
+Após notificação de despacho de ciência (código 7.1), na RPI 2714 de 10/01/2023, a
+Requerente impetrou a petição de número 870230030097 em 10/04/2023, em resposta ao
+parecer desfavorável.
+
+Nesta petição, a Requerente apresenta novas vias do quadro reivindicatório (total de 15
+reivindicações).
+
+No que concerne ao mérito de patenteabilidade, item III da petição em tela, a Requerente
+argumenta que os elementos 4 e 12 descritos em D3 não são elementos metálicos cilíndricos
+dispostos sucessivamente. Apenas os elementos 4 podem ser considerados como tal, e a
+posição 12 em D3 designa um invólucro metálico fixado no topo da gacheta da tubulação para
+isolamento; o invólucro 12 tem outra finalidade funcional. Os elementos 11 são divulgados em
+D3 não como gachetas eletricamente isolantes, mas como uma fita adesiva termofusível
+aplicada na gacheta 10 para sua vedação, e a forma de realização da chapa 11 que permite
+preencher eventuais orifícios de perfuração, que é uma característica essencial da matéria
+pleiteada, não é descrita em D3. A Requerente argumenta que nenhuma característica de
+isolamento elétrico de quaisquer elementos é divulgada em D3, uma vez que D3 resolve outro
+problema, ou seja, isolamento térmico de gachetas soldadas de tubulações. Além disso, a
+posição 13 descrita em D3 é referente a prendedores, não furos de perfuração, e nenhuma
+modalidade de tais prendedores na forma de gachetas eletricamente isolantes que preenchem
+furos sob compressão é descrita.
+
+Todos argumentos da Requerente foram levados em consideração e são tratados em detalhe
+doravante.
+
+Os argumentos da Requerente não foram considerados assertivos. Abaixo consta a comparação
+entre a Figura 2 de D3 com a Figura 2 do pedido em tela, respectivamente.
+
+                                                                                        Página 2
+                                       BR112019028232-7
+
+
+
+
+D3 divulga um elemento metálico cilíndrico (4), um invólucro metálico feito de uma chapa de
+metal galvanizado (12), uma fita polimérica termorretrátil (11) aplicada na junta (10) (parágrafos
+[0032], [0039] e [0040] de D3). D3 divulga que a fita polimérica termorretrátil é um material
+isolante de duas camadas que consiste em uma camada polimérica da fita estabilizada ao calor
+e à luz, costurada eletronicamente ou quimicamente, orientada longitudinalmente e uma camada
+adesiva (parágrafo [0049] de D3). D3 divulga que a estrutura compreende uma placa de
+travamento montada na fita polimérica termorretrátil e as correias temporárias apresentam
+mecanismos tensores que são montados nas coberturas dos tubos e do invólucro de metal
+(parágrafo [0042] de D3).
+
+Seria óbvio para um técnico no assunto, face a D3, prover o invólucro de isolamento de
+tubulações com as características pleiteadas pela reivindicação independente 1. Não foi
+apresentado efeito técnico inesperado, logo, a reivindicação 1 não apresenta atividade inventiva,
+segundo o Artigo 8º combinado ao Artigo 13 da LPI.
+Não foram observadas características técnicas adicionais nas reivindicações dependentes 2 a 8
+e 15 que, combinadas às reivindicações as quais se referem, pudessem atender ao critério de
+atividade inventiva, de acordo com o Artigo 8º combinado ao Artigo 13 da LPI.
+
+Seria óbvio para um técnico no assunto, face a D3, prover o Método de montagem do invólucro
+de isolamento de tubulações com as características pleiteadas pela reivindicação independente
+9. Não foi apresentado efeito técnico inesperado, logo, a reivindicação 9 não apresenta atividade
+inventiva, segundo o Artigo 8º combinado ao Artigo 13 da LPI.
+
+Não foram observadas características técnicas adicionais nas reivindicações dependentes 10 a
+14 que, combinadas às reivindicações as quais se referem, pudessem atender ao critério de
+atividade inventiva, de acordo com o Artigo 8º combinado ao Artigo 13 da LPI.
+
+
+
+
+                                                                                          Página 3
+                                       BR112019028232-7
+
+Conclusão
+
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                              Rio de Janeiro, 25 de maio de 2023.
+
+
+
+
+Panmela Pereira Merlo
+Pesquisador/ Mat. Nº 2324531
+DIRPA / CGPAT IV/DIMAT
+Deleg. Comp. - Port. INPI/DIRPA Nº
+012/18
+
+
+
+
+                                                                                         Página 4
+

@@ -1,0 +1,346 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR102012013942-1             N.° de Depósito PCT:-
+ Data de Depósito:                     11/06/2012
+ Prioridade Unionista:                 -
+ Depositante:                          UNIVERSIDADE ESTADUAL DE CAMPINAS - UNICAMP (BRSP) ,
+                                       REDE NACIONAL DE ENSINO E PESQUISA - RNP (BRRJ)
+ Inventor:                             YUZO IANO, RANGEL ARTHUR, DIOGO GARA CAETANO, VICENTE
+                                       IDALBERTO BECERRA SABIÓN
+ Título:                               “Método e ferramenta para coleta de sinais, estatística de acesso,
+                                       auxílio à predição de cobertura de sinal digital terrestre e diagnóstico
+                                       para instalações de tv digital ”
+
+                                                                     PARECER
+           Em 25/09/2020, por meio da petição 870200120545, o Depositante apresentou
+argumentações no pedido em resposta ao parecer emitido no âmbito da Resolução Nº
+240/2019, notificado na RPI 2586 de 28/07/2020 segundo a exigência preliminar (6.22). Não
+foram apresentadas modificações no pedido.
+
+                                         Quadro 1 – Páginas do pedido examinadas
+                 Elemento                                     Páginas          n.o da Petição           Data
+
+Relatório Descritivo                                          1 – 17           018120020653           11/06/2012
+Quadro Reivindicatório                                         1–3             018120020653           11/06/2012
+Desenhos                                                      1, 1 – 5         018120020653           11/06/2012
+Resumo                                                           1             018120020653           11/06/2012
+
+
+  Quadro 2 – Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996 – LPI
+Artigos da LPI                                                                                  Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                        x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                          x
+O pedido está de acordo com disposto no art. 32 da LPI                                           x
+
+
+
+                      Quadro 3 – Considerações referentes aos Artigos 24 e 25 da LPI
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153–versão1.1 –27/01/12                                                Página 1
+                                                         BR102012013942-1
+
+
+Artigos da LPI                                                                Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         x
+Comentários/Justificativas
+
+      As folhas dos desenhos devem ser numeradas consecutivamente de 1 a 6, indicando o
+número da página e o número total de páginas, conforme disposto no Art. 39 (I) da Instrução
+Normativa 31/2013. Os desenhos devem ser numerados consecutivamente, conforme o Art. 18
+(III) da Instrução Normativa 31/2013. A não observância dos citados Artigos acarreta em falta de
+clareza do presente pedido, contrariando o Art. 24 da LPI.
+
+      As reivindicações 3, 9 e 10 possuem em suas características técnicas o uso ou coleta de
+dados de uma “ferramenta”, sem que seja especificado claramente nas citadas reivindicações a
+qual ferramenta estão se referindo. Com isso, o escopo de proteção das citadas reivindicações
+não está claro e preciso, contrariando o disposto nos Art. 25 da LPI e na Instrução Normativa nº
+30/2013 – Art. 4º (III). Para fins de avaliação da atividade inventiva, considerou-se o termo
+“ferramenta” nas citadas reivindicações como sinônimo de set-top-box (STB).
+
+      As reivindicações 9 e 10 contrariam o disposto no Art. 25 da LPI pois, apesar de
+tratarem-se de reivindicação de produto (Sistema de monitoramento de audiência), suas
+características técnicas são descritas como etapas de um método (reivindicação de processo).
+
+
+                                   Quadro 4 – Documentos citados no parecer
+
+ Código                                                Documento                    Data de publicação
+    D1        US2005183130 A1                                                           18/08/2005
+    D2        US7810127 B2                                                              05/10/2010
+    D3        US2010287579 A1                                                           11/11/2010
+    D4        US2010287579 A1                                                           26/08/2010
+    D5        US2010333157 A1                                                           30/12/2010
+Comentários/Justificativas
+
+      Em sua manifestação a Requerente apresentou os seguintes argumentos quanto aos
+documentos citados:
+
+      Argumentação da Requerente: “Em relação ao documento D1, US2005183130, a
+Requerente esclarece que este documento se refere a um método e protótipo para
+monitoramento de redes de TV a cabo, do headend até o assinante. É feito o monitoramento
+dos nós da rede e da qualidade de sinal no receptor. A resolução do problema técnico de D1
+está relacionado ao monitoramento da qualidade de serviço em redes de TV a cabo.”
+
+      Análise da argumentação: De fato, o documento D1 refere-se ao monitoramento de um
+conjunto de STBs em uma rede de distribuição de TV a Cabo. Um técnico no assunto, porém, é
+capaz de adaptar as soluções de monitoramento de STBs de TV a Cabo para um sistema de
+
+
+         Código:5975ce1e23737deeb22c88e902a79153–versão1.3 –19/04/12                          Página 2
+                                                           BR102012013942-1
+
+
+Broadcast dado que diversos dos parâmetros analisados são comuns aos dois sistemas. Além
+disso, o documento D1 prevê que os STB sejam providos de receptor de canais Broadcast
+convencionais (D1, parágrafo [0023]).
+
+       Argumentação da Requerente: “Em relação ao documento D2, US7810127, a
+Requerente esclarece que este trata-se de uma ferramenta de análise de redes híbridas de fibra
+óptica e cabo coaxial. Além disso, verifica o fluxo de vídeo on demand nos nós da rede
+verificando se os assinantes da região têm autorização para receber. D2 atua principalmente no
+fluxo de dados de vídeo sob demanda.”
+
+       Análise da argumentação: Além dos assuntos abordados pela Requerente, o documento
+D2 trata da comunicação entre STBs em uma rede de TV a Cabo com uma central de distribuição,
+para fins de monitoramento, através de uma estrutura de rede independente da estrutura de
+distribuição da TV a Cabo, estrutura de rede que pode ser uma rede cabeada, rede sem fio, rede
+de área local, ou a Internet (D2, coluna 4, linhas 19-24). Assim como D1, um técnico no assunto é
+capaz de adaptar de maneira óbvia as soluções propostas em D2 para um sistema de Broadcast.
+
+       Argumentação da Requerente: “Em relação ao documento D3, US2010287579, a
+Requerente esclarece que este documento trata-se de um amplo sistema de monitoramento de
+mídias, áudio e audiovisual. O método em D3 propõe identificar automaticamente uma
+tecnologia e monitorar os dados transmitidos a fim de se evitar a transmissão de informações
+sem conformidade com os devidos direitos autorais. Considerando características específicas do
+sinal e marca d´água verifica-se em tempo real se o conteúdo está sendo reproduzido
+legalmente. O presente pedido de patente se diferencia de D3 por não ter como objetivo o
+monitoramento de ‘pirataria’ de transmissões e/ou reproduções sem conformidade com os
+direitos autorais.”
+
+       Análise da argumentação: Ao contrário do argumentado pela Requerente, o documento
+D3 não visa exclusivamente o monitoramento de ‘pirataria’ em transmissões. O documento D3
+provê soluções de monitoramento de canais de conteúdo audiovisual (incluindo TV Broadcast)
+com análise de informações como a qualidade de recepção, medição de índices de audiência,
+entre outros. O documento D3 salienta que dentre os parâmetros analisados, estão incluídos
+características de recepção do canal, como SNR, e taxa de perda de pacotes (D3, parágrafo
+[0010]).
+
+       Argumentação da Requerente: “Em relação ao documento D4, US2010218229, a
+Requerente esclarece que este documento trata-se de um método para transmitir metadados de
+um cliente para o servidor de um serviço de TV-Anytime usando o protocolo SOAP. A parte A do
+metadado se refere ao formato de representação do próprio metadado (baseado em MPEG-7) e
+a parte B ser refere ao modelo de fragmentação e módulo de encapsulamento do vídeo
+(baseado também em MPEG-7).”
+
+       Análise da argumentação: O Documento D4 é relevante frente ao presente pedido pois
+apresenta um protocolo de transmissão de metadados do STB para o servidor através de um
+canal de retorno. É óbvio para um técnico no assunto usar os conhecimentos apresentados em D4
+
+
+           Código:5975ce1e23737deeb22c88e902a79153–versão1.3 –19/04/12                  Página 3
+                                                         BR102012013942-1
+
+
+para realizar a comunicação entre o STB e o Headend apresentados nos documentos D1 a D3
+(D4, parágrafo [0017], D1, parágrafo [0028], D2, coluna 4, linhas 19-24 e D3 parágrafo [0055]).
+
+        Argumentação da Requerente: “Por fim, em relação ao documento D5, US2010333157, a
+Requerente esclarece que este documento envolve método, sistema e programa de computador
+para auxílio no suporte de IPTV (Televisão por Protocolo de Internet). O método se baseia em
+testes de comunicação entre o usuário e o servidor. Diferentemente do presente pedido de
+patente, D5 apresenta-se como um método de suporte a usuários de IPTV.”
+
+        Análise da argumentação: De fato, o Documento D5 baseia-se no monitoramento de
+STBs para a recepção de serviçoes de IPTV. O documento salienta que os serviços de IPTV
+monitorados incluem serviços de Broadcast de TV (D5, parágrafo [0022]). É óbvio para um técnico
+no assunto adaptar o sistema e métodos apresentados em D5 para um sistema de Broadcast
+convencional.
+
+        Portanto, apesar dos argumentos apresentados, mantém-se a opinião que os documentos
+D1 a D5 são relevantes na avaliação da atividade inventiva do presente pedido.
+
+    Quadro 5 – Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade                                   Cumprimento   Reivindicações
+                                                                           Sim           1 – 10
+             Aplicação Industrial
+                                                                          Não              –
+
+                                                                           Sim           1 – 10
+                     Novidade
+                                                                          Não              –
+
+                                                                           Sim             –
+             Atividade Inventiva
+                                                                          Não            1 – 10
+Comentários/Justificativas
+
+        As reivindicações foram avaliadas quanto aos critérios de patenteabilidade, conforme
+apresentado abaixo:
+
+   •    Reivindicação Independente 1: É óbvio para um técnico no assunto combinar as
+        informações reveladas por D1, D3 e D4 para obter um método para coleta de sinais,
+        estatística de acesso, auxílio à predição de cobertura de sinal digital terrestre e diagnóstico
+        para instalações de TV digital (D3, parágrafos [0003], [0004], [0010] e [0011]),
+        compreendendo as seguintes etapas: Função Principal: As funções listadas são chamadas
+        a partir de uma função principal chamada stb_scan(); Coleta de Dados: A função de coleta
+        de dados periodicamente recebe valores das medidas coletadas e o período de coleta
+        pode ser alterado pelo usuário (D1, parágrafo [0064]); Comparação: A função de
+        comparação, em seguida, verifica se os dados coletados e armazenados em um Buffer são
+        diferentes dos dados coletados anteriormente, se sim, essas informações devem ser
+        transmitidas, todo pacote de dados deverá conter obrigatoriamente o MAC ADDRESS e
+        TIMESTAMP (D1, parágrafo [0083]); Armazenamento (Buffer): A função de Buffer
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153–versão1.3 –19/04/12                                  Página 4
+                                                BR102012013942-1
+
+
+armazena os últimos dados coletados, todos os dados coletados são armazenados para
+comparação (D1, parágrafo [0083]); Envio de dados: A função de envio de dados
+encapsula o pacote de medidas resultantes da função de comparação utilizando o
+protocolo SOAP e o transmite para a URL de destino, periodicamente essa função deverá
+requisitar ao servidor os parâmetros de controle (D1, parágrafo [0053], e D4, parágrafo
+[0009]); Recebimento de dados STB: Por fim, a função de recebimento de dados no
+Set-Top-Box recebe periodicamente os dados de controle que devem ser armazenados na
+memória flash em formato XML, essa função deve armazenar os dados de controle
+enviados pelo servidor e controlam a função "Coleta de Dados" (D1, parágrafo [0053], e
+D4, parágrafo [0009]), conforme descrito na reivindicação 1.
+
+ Reivindicação Dependente 2: Além das características técnicas já discutidas na
+    reivindicação 1, é óbvio para um técnico no assunto combinar as informações
+    reveladas por D1, D3 e D4 para obter um método no qual os seguintes dados são
+    coletados: Nível de sinal, SNR, C/N, Eb/No, BER, FER, MER, Número de pacotes não
+    corrigidos pelo decodificador de Reed Solomon, Número de pacotes não corrigidos
+    pelo decodificador de Viterbi, Amostras do sinal em fase e quadratura e tipo de
+    modulação, Resposta em freqüência do canal, Taxa de dados em Mbps, Tipo de sinal
+    recebido (HDTV,SDTV, LDTV), Tempo e freqüência sintonizados (D1, parágrafo [0081]
+    e tabela da página 8, e D3, parágrafos [0008], [0010] e [0076]), conforme descrito na
+    reivindicação 2.
+
+ Reivindicação Dependente 3: Além das características técnicas já discutidas na
+    reivindicação 1, é óbvio para um técnico no assunto combinar as informações
+    reveladas por D1, D3, D4 e D5 para obter um método em que a coleta dos valores de
+    parâmetros vêm de 4 fontes disponíveis na Ferramenta: do próprio hardware da
+    Ferramenta, a partir de um GPS conectado pela porta USB, dados sobre a conexão de
+    rede ativa no STB, e pelo telespectador (usuário), por meio de um formulário (D5,
+    parágrafo [0027]), conforme descrito na reivindicação 3.
+
+ Reivindicação Dependente 4: Além das características técnicas já discutidas na
+    reivindicação 1, é óbvio para um técnico no assunto combinar as informações
+    reveladas por D1, D3 e D4 para obter um método no qual as funções listadas rodem
+    em paralelo aos aplicativos já existentes no receptor e o arquivo de boot original deve
+    ser modificado para que execute a rotina principal no momento em que o receptor for
+    ligado (D1, parágrafos [0035] e [0036]), conforme descrito na reivindicação 4.
+
+ Reivindicação Dependente 5: Além das características técnicas já discutidas na
+    reivindicação 1, é óbvio para um técnico no assunto combinar as informações
+    reveladas por D1, D3 e D4 para obter um método que permita a medida dos dados em
+    tempo real por intermédio de um servidor (D1, parágrafo [0059]), conforme descrito na
+    reivindicação 5.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153–versão1.3 –19/04/12                          Página 5
+                                                    BR102012013942-1
+
+
+•   Reivindicação Independente 6: É óbvio para um técnico no assunto combinar as
+    informações reveladas por D1 e D2 para obter uma ferramenta constituída de um tuner;
+    um chipset e conectores para interfaceamento com dispositivos externos que é adaptado
+    para a finalidade de coletar sinais e viabilizar estatísticas de acesso constituído de um
+    banco de dados alimentado com as informações coletadas e uma fonte de comunicação
+    externa sem fio 3G ou wireless (D1, figura 2, e D2, coluna 2, linhas 37-67, coluna 7,
+    linhas 9-12), conforme descrito na reivindicação 6.
+
+     Reivindicação Dependente 7: Além das características técnicas já discutidas na
+        reivindicação 6, é óbvio para um técnico no assunto combinar as informações
+        reveladas por D1, D2 e D5 para obter uma ferramenta na qual sejam executadas as
+        seguintes etapas: capturar os dados de registro do chipset; processar as correções de
+        erros do sistema (codificar); promover a integração desses dados com a localização da
+        ferramenta (dados de localização); fazer o encapsulamento das informações e enviar
+        os dados para o servidor; armazenar as informações em um banco de dados interno à
+        ferramenta (D1, parágrafo [0083], e D5, parágrafo [0027]), conforme descrito na
+        reivindicação 7.
+
+•   Reivindicação Independente 8: É óbvio para um técnico no assunto combinar as
+    informações reveladas por D1 e D2 para obter um sistema de monitoramento de audiência
+    caracterizado por ser constituído de um STB contendo um banco de dados interno e uma
+    fonte de comunicação sem fio e um software embarcado; um servidor e uma interface com
+    o usuário (D1, figura 1, e D2, coluna 2, linhas 37-67, e coluna 7, linhas 9-12), conforme
+    descrito na reivindicação 8.
+
+•   Reivindicação Independente 9: É óbvio para um técnico no assunto combinar as
+    informações reveladas por D1, D3 e D4 para obter um método de monitoramento de
+    audiência (D3, parágrafos [0003], [0004], [0010] e [0011]) no qual, coleta-se os dados
+    pela Ferramenta (D1, parágrafo [0064]), promove-se a comparação dos dados
+    alterando-se os valores dos registros que armazenam as medidas somente quando houver
+    uma mudança nesses valores (D1, parágrafo [0083]); as medidas são encapsuladas e
+    enviadas para o servidor (D1, parágrafo [0053], e D4, parágrafo [0009]); o servidor
+    recebe os valores de medida e os organiza em um banco de dados; a partir disso os dados
+    são disponibilizados em diversos tipos de interfaces que incluem páginas web e Ginga; a
+    interface permite ainda o controle das taxas de aquisição e essas informações de mudança
+    são enviadas aos set-top boxes                           (D1, parágrafo [0053], e D4, parágrafo [0009]),
+    conforme descrito na reivindicação 9.
+
+     Reivindicação Dependente 10: Além das características técnicas já discutidas na
+        reivindicação 9, é óbvio para um técnico no assunto combinar as informações
+        reveladas por D1, D3 e D4 para obter um método no qual a partir das medidas obtidas
+        pela ferramenta desenvolvida, obtém-se resposta em tempo real de modificações em
+
+
+
+
+    Código:5975ce1e23737deeb22c88e902a79153–versão1.3 –19/04/12                                     Página 6
+                                                        BR102012013942-1
+
+
+            antenas, troca de painéis, tilt elétrico, tilt mecânico, variações de potência (D3,
+            parágrafo [0059]), conforme descrito na reivindicação 10.
+
+      A matéria pleiteada nas reivindicações 1 a 10 carece de atividade inventiva, pois decorre
+de maneira óbvia para um técnico no assunto a partir da combinação dos ensinamentos
+contidos nas anterioridades D1 a D5 e não é patenteável por infringir o disposto no artigo 8º,
+combinado com o artigo 13 da Lei nº 9.279/96 (LPI).
+
+Conclusão
+
+      Diante ao exposto nesse parecer, o presente pedido não atende às disposições dos Art. 24,
+25, e 8º combinado com o 13 da LPI, conforme apontado na seção de comentários/justificativas
+dos Quadros 3 e 5 deste parecer.
+      O depositante deve se manifestar quanto ao contido neste parecer em até 90 (noventa)
+dias, a partir da data de publicação na RPI, de acordo com o Art. 36 da LPI.
+
+
+
+                                                                           Publique-se a ciência de parecer (7.1).
+
+
+
+                                                                      Rio de Janeiro, 09 de novembro de 2020.
+
+
+
+
+Marcelo de Azevedo Miguel
+Pesquisador/ Mat. Nº 2041813
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+007/16
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153–versão1.3 –19/04/12                                      Página 7
+

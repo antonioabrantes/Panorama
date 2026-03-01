@@ -1,0 +1,177 @@
+                        SERVIÇO PÚBLICO FEDERAL
+     MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                  RELATÓRIO DE EXAME TÉCNICO
+
+  N.° do Pedido:                          BR112020009272-0                   N.° de Depósito PCT:EP2018/080937
+  Data de Depósito:                       12/11/2018
+  Prioridade Unionista:                   EP 17201324.5 (13/11/2017)
+  Depositante:                            SANDVIK INTELLECTUAL PROPERTY AB (SE)
+  Inventor:                               TERRY MCDEVITT; STUART GRAYDON
+  Título:                                 Montagem de peneiramento e máquina de processamento de
+                                          material móvel 
+
+                                                                      PARECER
+
+
+
+                                           Quadro 1  Páginas do pedido examinadas
+                   Elemento                                   Páginas            n.o da Petição           Data
+
+ Relatório Descritivo                                     1/28 a 28/28           870220086284           21/09/2022
+ Quadro Reivindicatório                                      1/6 a 6/6           870230033804           24/04/2023
+ Desenhos                                                 1/12 a 12/12           870200057833           11/05/2020
+ Resumo                                                           1/1            870220086284           21/09/2022
+
+
+   Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                    maio de 1996  LPI
+ Artigos da LPI                                                                                   Sim       Não
+ A matéria enquadra-se no Art. 10 da LPI (não se considera invenção)                                         x
+ A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                                                 x
+ O pedido apresenta Unidade de Invenção (Art. 22 da LPI)                                           x
+ O pedido está de acordo com disposto no Art. 32 da LPI                                            x
+Comentários/Justificativas
+
+
+
+                       Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+ Artigos da LPI                                                                                   Sim       Não
+ O relatório descritivo está de acordo com disposto no Art. 24 da LPI                              x
+ O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI                                      x
+Comentários/Justificativas
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                   Página 1
+                                       BR112020009272-0
+
+
+Após notificação de despacho de ciência de parecer (7.1) publicada na RPI nº 2716 datada de
+24/01/2023, o Depositante impetrou a petição n° 870230033804 em 24/04/2023, onde apresenta
+novas vias do quadro reivindicatório e argumentos em defesa do mérito de patenteabilidade do
+presente pedido.
+
+
+Sobre a manutenção da redação da antiga reivindicação independente [17] (nova revindicação
+[16]) a Requerente alega que a mesma atenderia ao disposto no Art. 25 da LPI, pois em virtude
+de sua dependência das Reivindicações 1 a 14, inclui todas as características de tais
+reivindicações. A Requerente esclarece que essas características são, de fato, características
+técnicas típicas de uma planta de processamento (uma montagem de peneiramento de várias
+plataformas (decks) pode, por exemplo, ser considerado uma planta de processamento por direito
+próprio) e que as características conforme definidas nas Reivindicações 1 a 14 referidas na
+Reivindicação 16 são claras e precisas.
+
+
+Apesar dos argumentos, entende-se que as características técnicas, ainda que claras e precisas,
+de um primeiro produto (montagem de peneiramento) não são suficientes para definir clara e
+precisamente um segundo produto (planta de processamento), no qual o referido primeiro produto
+está contido. Uma planta de processamento descrita tão somente por meio de características
+técnicas de uma montagem de peneiramento seria não mais que a dita montagem.
+
+
+
+
+                         Quadro 4  Documentos citados no parecer
+  Código                              Documento                            Data de publicação
+    D1                             EP 3 061 533 A2                              31/08/2016
+    D2                              GB 2 309 923 A                              13/08/1997
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade          Cumprimento               Reivindicações
+                                                  Sim                      1 a 15
+           Aplicação Industrial
+                                                  Não                        ----
+                                                  Sim                      1 a 15
+                Novidade
+                                                  Não                        ----
+                                                  Sim                        ----
+           Atividade Inventiva
+                                                  Não                      1 a 15
+Comentários/Justificativas
+
+
+                                                                                       Página 2
+                                       BR112020009272-0
+
+
+Em sua manifestação a Requerente aponta que o documento D2 [...] se refere a uma peneira
+móvel que compreende um transportador de rejeitos que se estende longitudinalmente (30) que é
+móvel entre duas posições (resultando na "formação de dois produtos" da Fig.9, Fig.12 e na
+"formação de três produtos da Fig.10, Fig.14). O transportador de rejeitos (30) não está disposto
+transversalmente em relação à direção longitudinal da peneira móvel de D2, portanto, o
+transportador (30) de D2 não antecipa o primeiro transportador da Reivindicação 1 ora
+apresentada.
+
+
+Acrescenta ainda que em D2 [...] um transportador horizontal (45) que é de fato disposto
+transversalmente à direção longitudinal da tela móvel de D2. No entanto, como em D1, o
+transportador é configurado para receber seletivamente o material da primeira peneira (15) ou
+não, portanto, não opera. A Requerente, então, declara que uma pessoa versada na técnica não
+encontraria nenhuma orientação em D2 que a inspirasse a modificar D1 em algo que se enquadre
+na Reivindicação 1 ora apresentada.
+
+
+Apesar das argumentações apresentadas o entendimento apresentado no primeiro exame técnico
+é mantido. Entende-se que o documento D2 continua sendo impeditivo para a patenteabilidade do
+pedido, pois embora um transportador (30) possa não estar disposto transversalmente em relação
+à direção longitudinal da peneira móvel, essa característica técnica não é considerada distintiva da
+montagem pleiteada. Essa característica estava descrita na antiga reivindicação dependente [2],
+dessa forma, não seria considerada essencial, sendo apenas um detalhamento da montagem
+pleiteada. A inclusão do conteúdo da antiga reivindicação [2] no preâmbulo da nova reivindicação
+[1] não acrescenta qualquer efeito técnico novo ou inesperado por um técnico no assunto.
+Ademais, é apontando no relatório descritivo que um transportador de transferência disposto
+transversalmente em relação à direção longitudinal do dispositivo de peneiramento trata-se de
+uma característica conhecida no estado da técnica (parág. [0005]), o que corrobora com o
+entendimento a cerca da falta de patenteabilidade do presente pedido de patente.
+
+
+Tendo em vista as observações acima apresentadas, bem como aquelas feitas na seção
+Comentários/Justificativas do Quadro 5 no primeiro exame técnico, entende-se que o presente
+está infringindo os Arts. 8º c/c 13 da LPI 9.279/1996, pois a matéria reivindicada é óbvia para um
+técnico no assunto e não acresce nenhum efeito técnico novo ou inesperado ao estado da técnica.
+
+
+
+
+Conclusão
+
+
+Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+                                                                                           Página 3
+                                       BR112020009272-0
+
+
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+      -   as reivindicações estão indefinidas (Art. 25 da LPI)
+
+
+De acordo com o Art. 212 da LPI, o Depositante tem prazo de 60 (sessenta) dias, a partir da data
+de publicação na RPI, para interposição de recurso.
+
+
+
+
+                                                                   Publique-se o indeferimento (9.2).
+
+
+                                                                 Rio de Janeiro, 11 de julho de 2023.
+
+
+
+
+ Douglas Fernandes de Souza
+ Pesquisador/ Mat. Nº 2390342
+ DIRPA / CGPAT IV/DIMAT
+ Deleg. Comp. - Port. INPI/DIRPA Nº 022/2018
+
+
+
+
+                                                                                            Página 4
+

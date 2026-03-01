@@ -1,0 +1,446 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                   RELATÓRIO DE BUSCA
+
+ N.° do Pedido:                      BR122022007908-3            N.° de Depósito PCT:
+ Data de Depósito:                   10/02/2009
+ Prioridade Unionista:               -
+ Depositante:                        FERRING INTERNATIONAL CENTER S.A. (CH)
+ Inventor:                           Tine Kold Olesen, Bo-Eric Persson, Per Cantor, Egbert A. Van Der
+                                     Meulen, Jens-Kristian Slott Jensen
+ Título:                             "COMPOSIÇÃO COMPREENDENDO DEGARELIX ANTAGONISTA
+                                     DO GNRH E USO DO REFERIDO DEGARELIX NA PRODUÇÃO
+                                     DE MEDICAMENTO PARA O TRATAMENTO DO CÂNCER DA
+                                     PRÓSTATA"
+
+
+
+                                     IPC
+ 1  CLASSIFICAÇÃO
+                                     CPC
+ 2 - FERRAMENTAS DE BUSCA
+    EPOQUE      X ESPACENET                                       PATENTSCOPE       X     Google
+    DIALOG         USPTO                                          SINPI
+    CAPES          SITE DO INPI                                   STN
+
+
+3 - REFERÊNCIAS PATENTÁRIAS
+
+                                Número                                       Tipo       Data de Publicação Relevância *
+
+ US 2007/0238647                                                             A1            11/10/2007            N, I
+ WO 2004/087215                                                              A1            14/10/2004            N, I
+
+4 - REFERÊNCIAS NÃO-PATENTÁRIAS
+
+                                Autor/Publicação                                        Data de publicação   Relevância *
+
+H. Van Poppel, J. De La Rosette, B.E. Persson, J.K.                                           2006               N, I
+Jensen, T.K. Olesen. A one-year, multicentre,
+randomised study of degarelix, a gonadatrophin-releasing
+hormone (gnrh) receptor blocker, in prostate cancer patients.
+Eur Urol Suppl 2006;5(2):251.
+
+
+Observações:
+
+                                                                             Rio de Janeiro, 16 de setembro de 2022.
+
+ Renata Stiebler
+ Pesquisador/ Mat. Nº 2390357
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                        Página 1
+                                                  BR122022007908-3
+
+DIRPA / CGPAT II/DIMOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+004/20
+
+
+
+
+* Relevância dos documentos citados:
+A documento que define o estado geral da técnica, mas não é       Y documento de particular relevância; a invenção
+   considerado de particular relevância;                             reivindicada não pode ser considerada dotada de
+N documento de particular relevância; a invenção reivindicada        atividade inventiva quando o documento é combinado
+   não pode ser considerada nova quando o documento é                com um outro documento ou mais de um;
+   considerado isoladamente;                                      PN documento patentário, publicado após a data de depósito
+I documento de particular relevância; a invenção reivindicada        do pedido em exame, ou da prioridade requerida para o
+   não pode ser considerada dotada de atividade inventiva ou de      pedido em exame, cuja data de depósito, ou da prioridade
+   ato inventivo quando o documento é considerado                    reivindicada, é anterior a data de depósito do pedido em
+   isoladamente;                                                     exame, ou da prioridade requerida para o pedido em
+                                                                     exame; esse documento patentário pertence ao estado da
+                                                                     técnica para fins de novidade, se houver correspondente
+                                                                     BR, conforme o Art. 11 §2.º e §3.º da LPI.
+
+
+
+
+                                                                                                                    Página 2
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR122022007908-3            N.° de Depósito PCT:
+ Data de Depósito:                     10/02/2009
+ Prioridade Unionista:                 -
+ Depositante:                          FERRING INTERNATIONAL CENTER S.A. (CH)
+ Inventor:                             Tine Kold Olesen, Bo-Eric Persson, Per Cantor, Egbert A. Van Der
+                                       Meulen, Jens-Kristian Slott Jensen
+ Título:                               "COMPOSIÇÃO COMPREENDENDO DEGARELIX ANTAGONISTA
+                                       DO GNRH E USO DO REFERIDO DEGARELIX NA PRODUÇÃO
+                                       DE MEDICAMENTO PARA O TRATAMENTO DO CÂNCER DA
+                                       PRÓSTATA"
+
+                                                              PARECER
+
+
+                      O pedido de patente de invenção BR122022007908-3 é oriundo da divisão do
+PI0908127-5 (aqui referenciado como pedido original). O pedido original obteve decisão pelo
+indeferimento (notificação de despacho de código 9.2 publicada na RPI nº 2692 de 09/08/2022).
+                      A solicitação voluntária de divisão do pedido original foi feita através da petição nº
+870220035356 de 26/04/2022, ou seja, entre o primeiro parecer técnico (notificação de despacho
+de código 7.1 publicada na RPI nº 2675 de 12/04/2022) e a decisão pelo indeferimento da
+solicitação (RPI nº 2692 de 09/08/2022) do pedido original. A notificação de publicação do pedido
+dividido (código de despacho 2.4) foi publicada na RPI nº 2680 de 17/05/2022.
+
+                      De acordo com o art. 28 da Instrução Normativa INPI nº 31/2013, que reproduziu a
+redação do item 6.6 do Ato Normativo 127/1997, o pedido dividido será considerado como
+estando na mesma fase processual em que se encontra o pedido original, cabendo ao INPI
+reduzir a termo a referência aos documentos e petições que se encontram no pedido original.
+Logo, quando o presente pedido teve a sua tramitação iniciada, ele se encontrava na mesma fase
+processual do pedido original, para o qual já havia sido emitido um parecer técnico.
+
+                      Assim, entende-se que todo o conteúdo que já havia sido discutido até a solicitação
+voluntária de divisão, isto é, no primeiro parecer técnico emitido para o exame do pedido original,
+era de pleno conhecimento da requerente.
+
+                      De acordo com a Resolução INPI/PR nº 124/2013, que instituiu as Diretrizes de
+Exame de Pedidos de Patente  Módulo I (RPI nº 2241, de 17/12/2013), item 3.138, O
+procedimento de divisão de um pedido de patente deve consistir na retirada de parte da matéria
+reivindicada que consta do pedido original para compor o(s) pedido(s) dividido(o). A simples
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                        Página 1
+                                                        BR122022007908-3
+
+replicação de parte da matéria reivindicada no pedido original para compor um pedido dividido,
+na verdade, compõe uma multiplicação de pedido e não uma divisão.
+
+                 Sendo assim, por reivindicar matéria idêntica à pleiteada no pedido original,
+entende-se que o pedido dividido BR122022007908-3 é uma simples replicação do pedido original
+PI0908127-5. Em verdade, não há como concordar que tal pedido de patente corresponderia a
+uma divisão do pedido original PI0908127-5, pois nada foi efetivamente dividido no sentido do art.
+26 da LPI, tendo em vista que seu quadro reivindicatório pleiteia a mesma matéria do quadro
+válido do pedido de origem, o qual já obteve um parecer de ciência de conhecimento da
+requerente no momento da divisão do pedido. Deste modo, presente pedido é indeferido.
+
+
+
+  Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                              Sim    Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                  X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)   X
+
+O pedido refere-se a Sequências Biológicas                                                                    X
+Comentários/Justificativas
+
+ANVISA
+
+                 Por sua aplicação no setor farmacêutico, o pedido ORIGINAL foi encaminhado à
+ANVISA para o provimento das condições estabelecidas no Art. 229-C da Lei Nº 10.196/01 que
+alterou a Lei Nº 9.279/96 (LPI) (cf. despacho 7.4 publicado na RPI nº 2463 de 20/03/2018). Por
+meio do Ofício nº. 285/2021/COOPI/GGMED/ANVISA, de 02/08/2021, a referida Agência
+concedeu        a       prévia         anuência             através   do   parecer   técnico   de     anuência
+(297/21/COOPI/GGMED/ANVISA). Tendo em vista que o pedido foi anuído pela agência,
+publicou-se na RPI nº 2640 a notificação 7.5 em 10/08/2021.
+
+                 A referida agência encaminhou junto ao parecer técnico subsídio ao exame de
+patenteabilidade do INPI, que foi apreciado no presente exame.
+
+Acesso ao patrimônio genético nacional
+
+                 O depositante declarou na petição nº 870220035356 de 26/04/2022 que o objeto
+do presente pedido de patente de invenção não foi obtido em decorrência de acesso à amostra
+de componente do patrimônio genético nacional, realizado a partir de 30/06/2000.
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                       Página 2
+                                                         BR122022007908-3
+
+                                     Quadro 1  Páginas do pedido examinadas
+             Elemento                                   Páginas         n.o da Petição         Data
+Relatório Descritivo                                     1  92         870220035356         26/04/2022
+Listagem de sequências                         Código de Controle              -                 -
+Quadro Reivindicatório                                    15           870220035356         26/04/2022
+Desenhos                                                  16           870220035356         26/04/2022
+Resumo                                                       1          870220035356         26/04/2022
+
+
+                  O Quadro Reivindicatório para o qual foi requerido o presente exame técnico
+possui a mesma matéria de proteção das reivindicações pleiteadas no Quadro Reivindicatório
+analisado em ocasião do primeiro exame técnico do pedido original, que resultou na emissão do
+parecer técnico cuja notificação de despacho (código 7.1) foi publicada na RPI nº 2675 de
+12/04/2022.
+
+                  No referido primeiro parecer técnico emitido no exame do pedido original, foram
+levantadas diversas objeções às matérias pleiteadas, com infrações nos Arts. 10 (VIII), 24, 25,
+8º, 11 e 13 da LPI. Em resposta ao primeiro parecer técnico do pedido original, a requerente
+enviou novo Quadro Reivindicatório (petição nº 870220061015 de 11/07/2022) para o segundo
+exame técnico. No entanto, as objeções levantadas não foram totalmente sanadas e o pedido
+original obteve decisão pelo indeferimento (notificação de despacho de código 9.2 publicada na
+RPI nº 2692 de 09/08/2022).
+
+                  Por fim, por não se tratar efetivamente de uma divisão de um pedido, por tudo o
+que já foi exposto até aqui, as colocações que serão apresentadas a baixo nos Quadros 2, 3, 4 e
+5 são as mesmas já apontadas primeiro parecer técnico (notificação de despacho de código 7.1
+publicada na RPI nº 2675 de 12/04/2022) emitido para o pedido original e já de conhecimento da
+requerente, que optou por não fazer modificações no pedido.
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                       Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                          X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                  X
+O pedido está de acordo com disposto no art. 32 da LPI                                   X
+Comentários/Justificativas
+
+Art. 10 (VIII)
+
+                  De acordo com o Art. 10 (VIII) da LPI não são consideradas invenções técnicas e
+métodos operatórios ou cirúrgicos, bem como métodos terapêuticos ou de diagnóstico, para
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                 Página 3
+                                                          BR122022007908-3
+
+
+aplicação no corpo humano ou animal. A matéria das reivindicações 1  19 não é considerada
+invenção nem modelo de utilidade, pois trata-se de um método terapêutico, para aplicação no
+corpo humano ou animal, se enquadrando no disposto do artigo supracitado. Segundo item 1.29
+da Resolução nº 169/2016 (Diretrizes de Exame de pedidos de Patente  Bloco II), a redação
+Substância (composição) X para uso no tratamento da condição médica Y também é
+considerada método terapêutico.
+
+
+
+                   Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                    Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                                              X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                                            X
+Comentários/Justificativas
+
+Art. 24
+                   O relatório descritivo do presente pedido não descreve suficientemente a
+invenção de forma a possibilitar sua realização por um técnico no assunto, contrariando o
+disposto no Art. 24 da LPI. Conforme bem colocado no parecer técnico de subsídio ao exame de
+patenteabilidade do INPI emitido pela ANVISA, não foi possível identificar, ao longo do relatório
+descritivo, qualquer ensinamento relativo ao preparo de composições, nem mesmo a
+discriminação quali e quantitativa dos componentes da formulação. Também não foi possível
+identificar quaisquer informações referentes à preparação de medicamentos. A ausência de tais
+informações impossibilita a concretização do objeto pleiteado por um técnico no assunto, visto
+que constituem dados considerados essenciais para que um técnico versado na matéria possa
+reproduzir o objeto pleiteado.
+
+Art. 25
+
+                   Segundo parágrafos 7.1 a 7.15 da Resolução nº 169/2016 (Diretrizes de Exame
+de pedidos de Patente  Bloco II), uma composição é usualmente definida somente por seus
+constituintes.        Conforme           expressamente                  determinado   no   item    7.8,   Reivindicações
+independentes de composições definidas exclusivamente pelo seu uso, forma de administração
+ou mecanismo de ação não são precisas, causando indefinição quanto à matéria protegida, e
+devem ser rejeitadas de acordo com o disposto no artigo 25 da LPI. Ainda, uma vez que as
+características        adicionais         das      reivindicações           dependentes    referem-se ao     método    de
+administração da composição farmacêutica, que é parte de um regime terapêutico e não guarda
+relação com o produto, a característica adicionada não acrescenta informações sobre o produto
+per se, o que gera uma inconsistência a matéria reivindicada. Além disso, Segundo item 3.62 da
+Resolução 124/2013 de 04/12/2013, quando uma reivindicação de produto define a invenção por
+referência a características relacionadas ao seu uso, a mesma pode resultar em falta de clareza.
+Ainda, segundo item 9.1.4, em seus exemplos 2 e 3, da Resolução/INPI/PR Nº 208, de
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                             Página 4
+                                                         BR122022007908-3
+
+
+27/12/2017 que institui as Diretrizes de Exame de Pedidos de Patente da Área de Química,
+reivindicações do tipo Produto X caracterizado pelo fato de ser usado como medicamento e
+Produto X caracterizado pelo fato de ser para o tratamento da doença Y não são aceitáveis por
+falta de clareza, uma vez que o produto está sendo denido pelo seu uso e não por suas
+características técnicas. Por todo o exposto, as reivindicações 1  19 não são aceitáveis por
+falta de clareza (art. 25 da LPI). Por fim, as referidas reivindicações não atendem ao disposto na
+Instrução Normativa nº 30/2013  Art. 4º (III), pois pleiteiam uma composição com apenas um
+único elemento distinguível (Degarelix), não caracterizando assim uma composição.
+                  O item 9.1.4 da Resolução/INPI/PR Nº 208, de 27/12/2017 que institui as
+Diretrizes de Exame de Pedidos de Patente da Área de Química também menciona:                            As
+reivindicações de novo uso para preparar um medicamento devem especificar a doença a ser
+tratada. Reivindicações de novo uso que se refiram a distúrbios, síndromes, sintomas ou
+quaisquer outros termos genéricos, como por exemplo, distúrbios gastro-intestinais",
+síndromes respiratórias, não serão aceitas, por causarem indefinição quanto a matéria a ser
+protegida. Nesse sentido, as reivindicações 20 e 21 não caracterizam o uso de um composto
+para preparar um medicamento. Portanto, a matéria pleiteada não atende ao disposto no Art. 25
+da LPI, na Instrução Normativa nº 30/2013  Art. 4º (III) e na Resolução/INPI/PR Nº 208, pois a
+matéria pleiteada não está definida de maneira clara, precisa e positiva.
+
+
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                        Data de publicação
+    D1        H. Van Poppel, J. De La Rosette, B.E. Persson, J.K.                                 2006
+              Jensen, T.K. Olesen. A one-year, multicentre, randomised
+              study of degarelix, a gonadatrophin-releasing hormone (gnrh)
+              receptor blocker, in prostate cancer patients. Eur Urol Suppl
+              2006;5(2):251.
+    D2        US 2007/0238647                                                                  11/10/2007
+    D3        WO 2004/087215                                                                   14/10/2004
+
+
+
+
+    Quadro 5 - Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                     Cumprimento   Reivindicações
+                                                                           Sim           1  22
+             Aplicação Industrial
+                                                                          Não              -
+                                                                           Sim             -
+                     Novidade
+                                                                          Não            1  22
+
+                                                                           Sim             -
+             Atividade Inventiva
+                                                                          Não            1  22
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 5
+                                                        BR122022007908-3
+
+
+Comentários/Justificativas
+                 Através da petição n.º 800220144122, de 27/04/2022, o requerente solicitou o
+exame do presente pedido dividido, o qual apresenta um Quadro Reivindicatório composto por
+22 reivindicações, apresentado na petição n.º 870220035356 de 26/04/2022.
+                 Como no pedido original, o presente pedido refere-se a uma composição
+compreendendo degarelix para o tratamento de câncer de próstata em um paciente.
+                 Como apontado no começo deste parecer, por se tratar da mesma matéria
+pleiteada para o pedido original, os documentos apresentados a seguir já são de conhecimento
+da requerente através da notificação de despacho de código 7.1 publicada na RPI nº 2675 de
+12/04/2022 feita para o pedido original PI0908127-5.
+                 Antes de se discutir os documentos de anterioridade, é preciso destacar o que
+determina o capítulo VII da Resolução nº 169/2016 (Diretrizes de Exame de pedidos de Patente
+ Bloco II). No item Novidade do referido capítulo, determina-se que: parágrafo 7.4: São
+consideradas novas as composições não compreendidas no estado da técnica. A composição
+compreendendo componente(s) já conhecido(s) do estado da técnica será considerada nova se
+apresentar um novo componente na composição ou uma nova razão entre os componentes que
+a diferencie do estado da técnica e parágrafo 7.5: O efeito, o uso, a forma de
+administração/aplicação ou a forma física per se não conferem novidade a uma composição já
+conhecida do estado da técnica. Porém, esses elementos podem ser aceitos na redação das
+reivindicações para conferir clareza e precisão à matéria pleiteada. Nesse sentido, o atual
+quadro reivindicatório, em sua reivindicação principal 1, pleiteia, em última análise, uma
+composição compreendendo apenas o componente degarelix. No entanto, como apontado
+abaixo, os documentos D1 a D3 já revelam composições compreendendo degarelix e, inclusive,
+D1 apresenta resultados utilizando apenas o degarelix, exatamente como o presente pedido.
+                 D1 é um resumo de conferência cujo um dos autores é o próprio inventor do
+presente pedido. Tal documento refere-se a um estudo multicêntrico randomizado de degarelix,
+que é um bloqueador do receptor do hormônio libertador de gonadotrofina (GnRH), em
+pacientes com câncer de próstata na Europa e África do Sul. Foram aplicadas doses de 200 ou
+240 mg de degarelix, administradas por via subcutânea, como uma dose de iniciação e três
+doses de manutenção (80, 120 e 160 mg). O efeito terapêutico foi avaliado medindo os níveis de
+testosterona e PSA. 187 pacientes com câncer de próstata confirmado histologicamente e PSA 
+2 ng / mL receberam degarelix por via subcutânea a cada 28 dias. A mediana da testosterona foi
+de 4,4 ng / mL e PSA de 28 ng / mL. O estudo concluiu que o tratamento com degarelix por um
+ano resultou em uma supressão rápida, profunda e sustentada dos níveis de testosterona (0,5
+ng / mL) e de PSA (Todo o documento).
+                 Tendo em vista o revelado em D1 e o que determina o capítulo VII da Resolução
+nº 169/2016 (Diretrizes de Exame de pedidos de Patente  Bloco II), uma composição contendo
+degarelix não é nova, assim como seu uso na preparação de um medicamento para tratar
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                    Página 6
+                                                           BR122022007908-3
+
+câncer de próstata e, portanto, as reivindicações 1  22 estão em desacordo com Arts. 8º e 11
+da LPI.
+                    D2 é um documento patentário que descreve um tratamento para o câncer de
+próstata. O método terapêutico revelado utiliza composições cujo agente fisiologicamente ativo
+pode ser o degarelix (reivindicações 1 e 7).
+                    D3 é mais um documento patentário que revela antagonistas de GnRH como
+degarelix em composições farmacêuticas e seu uso na preparação de medicamentos para tratar
+indivíduos com câncer de próstata (reivindicações 9, 31, 38, 40).
+                    Tendo em vista o revelado em qualquer um dos documentos supracitados, o
+presente quadro reivindicatório não apresenta atividade inventiva pois um técnico no assunto, de
+posse de conhecimento rotineiro do estado da técnica, conseguiria, sem esforço adicional,
+desenvolver a composição pleiteada. Portanto, as reivindicações 1  22 estão em desacordo
+com Arts. 8º e 13 da LPI.
+
+
+Conclusão
+                    Considerando o quadro reivindicatório apresentado para exame neste pedido
+dividido BR122022007908-3 e o entendimento deste INPI estabelecido:
+
+          no Art. 28 da Instrução Normativa INPI nº 31/2013;
+
+          no item 3.138 da Resolução INPI/PR nº 124/2013;
+
+                    Conclui-se que este pedido não atende aos requisitos de patenteabilidade
+relacionados à novidade (art. 8º c/c 11 da LPI) e atividade inventiva (art. 8º c/c 13 da LPI), com
+infrações adicionais nos Arts. 10 (VIII) e 25 da LPI.
+
+                    Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+       -      não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+       -      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+       -      as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+              descritivo (Art. 25 da LPI)
+
+       -      não é considerado invenção, uma vez que incide no Art. 10 da LPI
+
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                               Publique-se o indeferimento (9.2).
+
+
+                                                                         Rio de Janeiro, 16 de setembro de 2022.
+
+
+
+           Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 7
+                                                      BR122022007908-3
+
+
+
+
+Renata Stiebler
+Pesquisador/ Mat. Nº 2390357
+DIRPA / CGPAT II/DIMOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+004/20
+
+
+
+
+      Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12        Página 8
+

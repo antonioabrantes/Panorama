@@ -1,0 +1,212 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122020013577-8          N.° de Depósito PCT:
+ Data de Depósito:                   21/11/2011
+ Prioridade Unionista:               US 61416656 (23/11/2010)
+ Depositante:                        ABBVIE INC. (US)
+ Inventor:                           Nathaniel D.Catron, Shuang Chen, Yuchuan Gong, Geoff G Zhang
+ Título:                             COMPOSTO         CRISTALINO      QUE      INDUZ     APOPTOSE,
+                                     COMPOSIÇÃO FARMACÊUTICA QUE COMPREENDE O DITO
+                                     COMPOSTO, PROCESSO PARA PREPARAR UMA SOLUÇÃO
+                                     FARMACÊUTICA DO COMPOSTO E USO TERAPÊUTICO DO
+                                     MESMO
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-69               870210041132           06/05/2021
+Quadro Reivindicatório                                     1-3               870210041132           06/05/2021
+Desenhos                                                  1-14               870200082163           01/07/2020
+Resumo                                                      1                870210041132           06/05/2021
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR122020013577-8
+
+
+
+
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+         Em sua manifestação, a requerente chamou atenção para os dados apresentados nas
+Tabelas 5A e 5B do RD, afirmando que foram fornecidos dados de verificação adicionais da
+estrutura cristalina tendo o padrão E.
+
+
+         A tabela 5B se refere aos dados de informação estrutural para solvato de diclorometano de
+bases livres do composto 1 cristal único. Entende-se que tais dados são referentes ao DRX de
+cristal único,    considerado suficiente para a perfeita caracterização da estrutura cristalina do
+solido, de acordo com as diretrizes de exame. Dessa forma, verifica-se que o RD descreve
+suficientemente as formas cristalinas, estando de acordo com o disposto no artigo 24 da LPI.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1       PI1014359-9                                                           24/10/2011
+    D2       WO2010/065824A2                                                       10/06/2010
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                     1-9
+            Aplicação Industrial
+                                                        Não
+                                                         Sim
+                   Novidade
+                                                        Não                      1-9
+
+                                                         Sim
+            Atividade Inventiva
+                                                        Não                      1-9
+Comentários/Justificativas
+
+         De acordo com as Diretrizes de Exame de Pedidos de Patente da Área de
+Química (Resolução No 208, de 27/12/2017), as características distintivas das forma
+cristalinas devem ser baseadas nos parâmetros físico-químicos. Ainda, nos casos em
+que o estado da técnica mais próximo revela o compostos, mas não o caracteriza
+quanto à sua estrutura cristalina, o requerente pode apresentar dados de
+
+
+
+                                                                                          Página 2
+                                     BR122020013577-8
+
+
+caracterização físico-química do compostos sólido descrito no estado da técnica,
+para fins de avaliação da novidade da forma cristalina reivindicada.
+
+      Conforme apresentado no primeiro parecer técnico, o documento D1 revela o
+composto
+4-(4-{[2-(4-clorofenil)-4,4-dimetilcicloex-1-en-1-il]metil}piperazin-1-il)-N-({3-nitro-4-[(
+tetraidro-2H-piran-4-ilmetil)amino]fenil}sulfonil)-2-(1H-pirrolo[2,3-b]piridin-5-ilóxi)ben
+zamida e seus sais (reivindicação 1). O documento D1 não apresenta nenhuma
+caracterização do sólido revelado.
+      Sem os dados físico-químicos do compostos revelado no estado da técnica,
+não é possível afirmar que o composto pleiteado é diferente do compostos descrito
+em D1, uma vez que não é possível uma comparação das características
+físico-químicas. De acordo com as informações disponíveis, não é possível descartar
+a possibilidade de o composto descrito em D1 estar na forma E ora caracterizada no
+presente pedido. Ou seja, a mera apresentação de dados físico-químicos da forma
+cristalina E não confere novidade ao mesmo, tampouco o diferencia do composto de
+D1. Portanto, conclui-se que o o composto pleiteado no presente pedido, assim como
+a composição, processo e uso, não possuem novidade, contrariando o disposto no
+artigo 11 da LPI.
+
+
+
+      Conforme estabelecido nas diretrizes, o requerente pode apresentar dados de
+caracterização físico-químicas do composto sólido descrito no estado da técnica para
+fins de comprovação da novidade. Entretanto, mesmo que tais dados comprovem a
+novidade da forma E pleiteada, verifica-se que a mesma não possui atividade
+inventiva.
+
+      Para verificação da atividade inventiva do compostos pleiteado, D2 é
+considerado o estado da técnica mais próximo. O compostos descrito no presente
+pedido se diferencia dos compostos de D2 por não possui um substituinte na porção
+pirrolo-piridina. Desse modo, assim como destacado pela requerente em sua
+manifestação, não há sobreposição entre o compostos pleiteados e os compostos
+descritos em D2.
+
+      No entanto, partindo do documento D2, o técnico no assunto possui motivação
+para promover pequenas modificações na estrutura dos compostos, com o objetivo
+de fornecer compostos alternativos com a mesma atividade. De fato, o técnico no
+assunto poderia esperar a subtração do substituinte cloro do composto 384E de D2
+poderia gerar um composto indutor de apoptose alternativo. Corrobora o fato de que,
+a partir do ensinamento de D2, nota-se que pequenas alterações em substituintes da
+molécula podem ser realizadas sem a perda da atividade. Assim, entende-se que o
+
+
+
+                                                                                    Página 3
+                                       BR122020013577-8
+
+composto 1 do presente pedido (independente da sua estrutura cristalina) decorre
+de maneira óbvia dos ensinamentos de D2 para o técnico no assunto.
+
+       Com relação à formação de sais e formas cristalinas, destaca-se que a
+obtenção de sais e formas cristalinas alternativas de compostos farmacêuticos é
+sempre desejada e uma atividade rotineira no campo tecnológico, uma vez que o
+técnico no assunto conhece as vantagens gerais de formas cristalinas em relação
+aos amorfos. Assim, a escolha de uma forma cristalina do composto 1 (o qual não
+possui atividade inventiva), sem a apresentação de dados que revelem qualquer
+efeito técnico não óbvio, carece de atividade inventiva. Destaca-se o disposto nas
+Diretrizes de Exame de Pedidos de Química: a mera descrição de um sólido cristalino
+alternativo, quando dissociada de uma propriedade não óbvia do sólido ou de um
+avanço técnico frente ao estado da técnica, não apresenta atividade inventiva.
+
+       Em suma, entende-se que o técnico no assunto chegaria no compostos
+pleiteado trabalhando de forma óbvia e rotineira a partir de D2: propondo alterações
+estruturais nos compostos de D2 que fornecem alta expectativa de sucesso para
+obtenção de compostos com atividade inibidora de Bcl2 e, posteriormente,
+rastreando formas polimórficas do mesmo. Destaca-se que não foram apresentados
+efeitos técnico que possam ser considerados surpreendentes para o técnico no
+assunto quando o composto pleiteado é comparado com os compostos do estado da
+técnica. Conforme já discorrido anteriormente, o versado da técnica já poderia
+esperar, com base em D2, a atividade indutora de apoptose do composto 1 revelada
+no presente pedido.
+
+       Pelo o exposto, conclui-se que a matéria pleiteada nas reivindicações 1-9 não
+possui atividade inventiva, contrariando o disposto no artigo 13 da LPI.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de novidade (Art .8º combinado com Art. 11 da LPI) e não atende ao requisito de
+atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+                                                              Rio de Janeiro, 17 de maio de 2021.
+
+
+
+
+                                                                                         Página 4
+                               BR122020013577-8
+
+
+Carolina Soares Bemvindo Hashimoto
+Pesquisador/ Mat. Nº 2675420
+DIRPA / CGPAT I/DIFAR-II
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/15
+
+
+
+
+                                                  Página 5
+

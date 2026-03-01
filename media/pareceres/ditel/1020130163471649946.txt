@@ -1,0 +1,187 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102013016347-3         N.° de Depósito PCT:
+ Data de Depósito:                   25/06/2013
+ Prioridade Unionista:               -
+ Depositante:                        FUNDAÇÃO       CPQD      -    CENTRO      DE     PESQUISA      E
+                                     DESENVOLVIMENTO EM TELECOMUNICAÇÕES (BRSP)
+ Inventor:                           Edson Jose Bonon
+ Título:                             Métodod de coleta de dados de medição utilizando o movimento de
+                                     elevadores 
+
+                                                                PARECER
+
+          O presente pedido refere-se a método para coletar dados de medição aplicado ao setor
+de concessionárias de serviços públicos e mais particularmente à coleta de dados automática
+no interior de prédios e edifícios a partir do movimento de elevadores.
+
+          Em 14/06/2016, a Requerente apresentou, através da petição 800160164320,
+requerimento de exame do pedido com 2 (duas) reivindicações.
+
+          Em 25/08/2021, por meio da petição 870210078357, a Requerente apresentou
+argumentações em resposta ao parecer emitido no âmbito da Resolução Nº 240/2019, notificado
+na RPI 2630 de 01/06/2021 segundo a exigência preliminar (6.22).
+
+          A requerente, através da petição nº 870220022968 de 17/03/2022, portanto,
+tempestivamente,             apresentou         manifestação           a     respeito   do   parecer   anterior    contendo
+argumentações. Para fins de continuidade do exame estão sendo consideradas as vias abaixo:
+
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                    n.o da Petição                  Data
+
+Relatório Descritivo                                       1-6                    860130000393               25/06/2013
+Quadro Reivindicatório                                      1                     870210078357               25/08/2021
+Desenhos                                                   1-2
+                                                                                  860130000393               25/06/2013
+Resumo                                                      1
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                           Página 1
+                                           BR102013016347-3
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                           Sim              Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                        X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   X
+O pedido está de acordo com disposto no art. 32 da LPI                    X
+Comentários/Justificativas
+
+-x-
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+Comentários/Justificativas
+
+-x-
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+      D1    US7994935                                                                09/08/2011
+      D2    US7417557B2                                                            26/08/2008
+      D3    US8390472 B2                                                           05/03/2013
+
+
+      Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade               Cumprimento           Reivindicações
+                                                         Sim                    1e2
+            Aplicação Industrial
+                                                         Não                     
+                                                         Sim                    1e2
+                 Novidade
+                                                         Não                     
+                                                         Sim                     
+            Atividade Inventiva
+                                                         Não                    1e2
+Comentários/Justificativas
+
+
+
+
+                                                                                           Página 2
+                                        BR102013016347-3
+
+          Na análise exposta no parecer de exame técnico do presente pedido, datado de
+27/12/2021, concluiu-se que a matéria reivindicada pelo mesmo não apresentava atividade
+inventiva frente às matérias reveladas nos documento D1, D2 e D3. Face à tal conclusão, em
+manifestação apresentada por meio da petição nº 870220022968 de 17/03/2022, a requerente
+apresentou argumentações a fim de defender a tese de que a reivindicação independente 1
+define matéria nova e inventiva em relação aos ensinamentos de D1, D2 e D3.
+
+          Em sua manifestação, a requerente reafirma:
+
+Nenhum desses documentos descreve ou sugere um método de coleta de dados de medição
+em que um concentrador é instalado sobre a parte externa do teto de um elevador de edifício,
+de tal modo que, conforme o elevador se movimenta, o concentrador passa por todos os
+andares e também realiza a coleta/leitura dos dados de medição de todos os medidores,
+armazenando-os em uma memória interna.
+
+De fato, nenhum documento apresentado sugere um método de coleta de dados de medição
+em que um concentrador é instalado sobre a parte externa do teto de um elevador de edifício,
+por isso mesmo, no quadro 5 dos pareceres o item Novidade é atestado para o pedido em tela.
+
+          Na sequência, a requerente evoca o item 5.21 das Diretrizes de Exame de Patentes 
+Bloco II:
+
+5.10 O estado da técnica mais próximo é constituído por um ou pela combinação de dois
+documentos, excepcionalmente três, relacionados com a invenção pleiteada em cada
+reivindicação independente, e devem ser a base para avaliar a presença de atividade inventiva
+(...).
+
+E continua, argumentando que A Requerente frisa que a ausência de atividade inventiva ocorre
+quando existe sugestão ou motivação explícita para o técnico no assunto combinar ou modificar
+os ensinamentos do estado da técnica em direção à invenção, não devendo ser meramente
+interpretada como "tudo que é possível ser feito. Em relação a esses pontos, ficou claro que a
+motivação da requerente é adaptar a ideia existente de coleta de dados (medição de energia,
+medição de consumo de água, medição de consumo de gás, etc) através de um meio de
+transporte para a utilização do mesmo em um edifício. É de conhecimento comum que o
+elevador é um meio de transporte, dito isso, um técnico no assunto, ao ser confrontado com o
+desafio de implantar tal sistema (como por exemplo, o drive-by) em um edifício levaria em
+consideração substituir um meio de transporte (carro, caminhão ou moto) por outro (elevador). E
+de posse dos documentos D1, D2 e D3, seria óbvio que o meio de transporte escolhido seria o
+elevador.
+
+          Em sua manifestação, a requerente se preocupa em dizer que as técnicas apresentadas
+em D1, D2 ou D3 não se aplicam a um edifício, sobretudo por limitações das tecnologias a
+
+
+
+
+                                                                                        Página 3
+                                       BR102013016347-3
+
+serem adaptadas sem, contudo, explicar o porque desta conclusão e como a sua própria
+invenção seria diferente.
+
+Conclusão
+
+       Após análise das alegações da requerente, conforme comentários ao Quadro 5, reiteramos
+que a matéria para a qual o pedido em tela pleiteia proteção não pode ser considerada como
+dotada de atividade inventiva, frente aos ensinamentos do documento D1, D2 e D3.
+
+       Assim sendo, apesar das objeções feitas pela requerente, mantemos a opinião de que a
+matéria pleiteada no quadro reivindicatório não é passível de patenteabilidade por ser mera
+decorrência do estado da técnica.
+
+       Desta forma, de acordo com o Art. 37, opino pelo indeferimento do presente pedido, uma
+vez que não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+
+                                                         Rio de Janeiro, 09 de novembro de 2022.
+
+
+
+
+Arthur Henrique Góes Samary
+Pesquisador/ Mat. Nº 2411015
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+010/20
+
+
+
+
+                                                                                         Página 4
+

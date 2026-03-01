@@ -1,0 +1,209 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112014032792-0         N.° de Depósito PCT:US2013/046316
+ Data de Depósito:                   18/06/2013
+ Prioridade Unionista:               US 13/535,890 (28/06/2012); US 13/710,531 (11/12/2012)
+ Depositante:                        JOHNSON & JOHNSON CONSUMER COMPANIES, INC. (US)
+ Inventor:                           SUSAN DALY, ROCCO VINCENT BURGO
+ Título:                             Composição 
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição                Data
+
+Relatório Descritivo                                    1  34               860140215336                29/12/2014
+Quadro Reivindicatório                                   13                 870200000873                03/01/2020
+Desenhos                                                                                                   
+Resumo                                                                                                     
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                           X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                   X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         X
+
+                                    Quadro 4  Documentos citados no parecer
+
+  Código                                               Documento                                    Data de publicação
+      D1         US 2011/0104078                                                                        05/05/2011
+      D2         US 4,897,259                                                                           30/01/1990
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                    Página 1
+                                          BR112014032792-0
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento             Reivindicações
+                                                   Sim                      1  15
+          Aplicação Industrial
+                                                   Não                         
+                                                   Sim                      1  15
+                Novidade
+                                                   Não                         
+
+                                                   Sim                         
+           Atividade Inventiva
+                                                   Não                      1  15
+
+
+
+Comentários/Justificativas
+
+       A matéria é pleiteada como
+
+                     Composição, caracterizada pelo fato de compreender:
+
+                     - uma fase aquosa contínua,
+
+                     - uma fase oleosa descontínua distribuída de modo homogêneo na dita
+                     fase aquosa, (...)
+
+       Um técnico no assunto pode entender que uma fase oleosa descontínua distribuída de
+modo homogêneo tenha o significado de uma emulsão, de forma que a matéria não distingue
+claramente que a composição não é uma emulsão, e será tratada como tal.
+
+       A requerente argumenta que
+
+                     (...) o foco principal do documento D1 é o uso de polímeros absorventes de
+                     UV aqui divulgados para "estabilizar" outros agentes de proteção UV e/ou
+                     outros compostos, por exemplo, constituintes da formulação que podem
+                     ser foto estáveis.
+
+       Entretanto, ignora que os problemas associados à absorção de substâncias
+absorvedores de radiação não poliméricas através da pele são relatados (ver parágrafo [0013]).
+Também, os copolímeros ensinados em D1 podem ter sua estrutura formada por poliésteres (ver
+parágrafo [0027]), e as questões ligadas ao melhoramento da solubilidade dos copolímeros
+absorvedores é mencionada e são trazidos argumentos para que sejam introduzidos
+melhoramentos (ver parágrafo [0036]). Ainda, as composições ensinadas em D1 incluem
+agentes formadores de filme (ver reivindicação 51). Portanto, as afirmações da requerente sobre
+os ensinamentos trazidos em D1 não são precisas, e até mesmo contradizem os ensinamentos
+trazidos na anterioridade. Um técnico no assunto que tivesse acesso aos ensinamentos trazidos
+em D1 teria motivação para tentar solucionar os problemas relatados do uso de absorvedores
+não poliméricos. Teria ainda indicações sobre os problemas de solubilidade dos polímeros
+absorvedores, amplamente conhecida por técnicos no assunto, e sobra a possibilidade de
+
+
+
+
+                                                                                        Página 2
+                                       BR112014032792-0
+
+
+utilização de ingredientes formadores de filme em composições para uso tópico. A requerente
+tem razão quando afirma que
+
+                     (...) o documento D1 falha em divulgar ou sugerir a um técnico no
+                     assunto composições que contenham o poliéster absorvente de UV,
+                     tal   como   reivindicado   pela depositante   e   que   forneça   um   FPS
+                     superior a 20 sem usar mais de 1% em peso de um agente de
+                     proteção solar não polimérico de absorção UV ()
+
+       Entretanto, os argumentos da requerente seriam suficientes para contrariar a opinião
+sobre a falta de novidade da invenção frente ao estado da técnica, e não a falta de atividade
+inventiva frente ao conjunto dos documentos D1 e D2, como apontada no parecer anterior.
+
+       Diferentemente do que argumenta a requerente acerca dos ensinamentos trazidos em
+D2, o documento D2 traz informações que reforçam as indicações e complementam as lacunas
+trazidas em D1 sobre o uso de ingredientes para melhorar a solubilidade e estabilidade das
+composições. D2 ensina composições de protetores solares contendo polivinilpirrolidona
+alquilada, e a melhor capacidade das ditas composições de formar filmes e resistir a água (ver
+linhas 14 a 67 da coluna 2). Ainda ensina sobre a importância de ter composições resistentes a
+água e dos riscos da absorção através da pele associados aos diversos ingredientes
+absorvedores de radiação. Também traz ensinamentos sobre as dificuldades de utilização dos
+ingredientes absorvedores e da necessidade de obter composições com textura adequada para
+melhor aplicação (ver linhas 28 da coluna 1 a 13 da coluna 2). As composições da invenção
+utilizam emulsificadores tais como aqueles da invenção (ver linhas 31 da coluna 4 a 9 da coluna
+5).
+
+       Assim, um técnico no assunto teria a indicações de poder melhorar as características das
+composições combinando ingredientes emulsificantes e formadores de filme como aqueles
+ensinados em D2. Emulsificantes capazes de aumentar a quantidade de agentes como os ditos
+copolímeros absorventes numa composição sem que a dita composição se torne instável, são
+alternativas óbvias para um técnico no assunto interessado em adicionar maiores quantidades
+da substância de lipofilicidade diferente a uma composição. Ainda, Um técnico no assunto
+reconhece que o uso de agentes formadores de filme resulta em composições mais resistentes
+a água, e que composições para proteção contra a radiação solar, que devem ser aplicadas
+sobre a pele, apresentam desempenho vantajoso se são mais resistentes a água. Dessa forma
+teria como propor composições como aquelas ora pleiteadas na reivindicação 1 da invenção
+sem ter que recorrer a conhecimento não disponível no estado da técnica D1 e D2. Também, as
+limitações trazidas nas reivindicações 2 a 15 seriam facilmente obtidas por um técnico no
+assunto familiarizado com a preparação de composições para proteção da pele contra radiação
+solar, sem ter que recorrer a experimentação excessiva.
+
+       A requerente tem razão quando afirma que
+
+                     (...) o documento D2 também não divulga ou sugere a um técnico no
+                     assunto composições que contenham um poliéster absorvente de UV e
+
+
+                                                                                         Página 3
+                                       BR112014032792-0
+
+
+                       que proporcionam um FPS maior que 20 sem usar mais de 1% em
+                       peso de um protetor solar não polimérico absorvente de UV. Uma
+                       simples divulgação de emulsificantes não é suficiente.
+
+       Entretanto, os argumentos da requerente seriam suficientes para contrariar a opinião
+sobre a falta de novidade da invenção frente ao estado da técnica, e não a falta de atividade
+inventiva frente ao conjunto dos documentos D1 e D2, como apontada no parecer anterior.
+Ainda, D2 não divulga simplesmente um ingrediente emulsificante, e sim composições para uso
+como absorventes de UV contendo emulsificantes, e ensinamentos que direcionariam um
+técnico no assunto ao uso dos ditos ingredientes para solucionar o problema técnico
+mencionado em D1. Um técnico no assunto reconhece que a inconveniência do uso agentes
+não poliméricos para absorver raios UV, dos ensinamentos trazidos em D1, pode ser contornada
+pelo uso de agentes poliméricos. Um técnico no assunto reconhece que a inconveniência do uso
+de agentes poliméricos em composições absorvedores de UV decorre, em boa parte, da
+dificuldade de obter composições estáveis contendo altas concentrações dos ditos agentes
+poliméricos. Também, as composições devem apresentar boas características de aplicabilidade
+e baixa oleosidade, melhor aceitas para uso. Os ensinamentos trazidos em D2 trazem a solução
+para o problema técnico do uso de altas concentrações de agentes poliméricos difíceis de
+solubilizar em composições de baixa oleosidade e boa espalhabilidade, como mostram os
+argumentos trazidos no parecer anterior e ora corroborados.
+
+       Portanto, a matéria como ora pleiteada nas reivindicações 1 a 15 da invenção não tem
+atividade inventiva quando confrontada com os ensinamentos trazidos em D1 e D2 de acordo
+como Art. 13 da LPI.
+
+Conclusão
+
+       A matéria como ora pleiteada nas reivindicações 1 a 15 da invenção não tem atividade
+inventiva quando confrontada com os ensinamentos trazidos em D1 e D2 de acordo como Art.
+13 da LPI, e não pode ser patenteada de acordo com o Art. 8º da LPI.
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                 Publique-se o indeferimento (9.2).
+
+                                                                 Rio de Janeiro, 2 de abril de 2020.
+
+
+
+Edilson Grünheidt Borges
+Pesquisador/ Mat. Nº 1550609
+DIRPA / CGPAT II/DIBIO
+Deleg. Comp. - Port. INPI/DIRPA Nº
+003/14
+
+
+
+
+                                                                                          Página 4
+

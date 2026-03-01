@@ -1,0 +1,326 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122019014943-7         N.° de Depósito PCT: US2010/057869
+ Data de Depósito:                   23/11/2010
+ Pedido dividido de:                 BR112012012385-8
+ Prioridade Unionista:               EP 09 014564.0 (23/11/2009); US 61/263,690 (23/11/2009); US
+                                     61/367,227 (23/07/2010)
+ Depositante:                        BAYER CROPSCIENCE NV (BE) ; MS TECHNOLOGIES, LLC (US)
+ Inventor:                           Justin Thomas Mason, Leslie James Lettow, Mark Alan Eby, William H.
+                                     Eby, Günter Welz, Steven Verhaeghe, Marc De Beuckeleer, Veerle
+                                     Habex, Jean-Marc Ferullo
+ Título:                             MÉTODOS DE CONTROLE DE ERVAS DANINHAS, DE IDENTIFICAÇÃO
+                                     DE EVENTO ELITE EE-GM3, DE CONFIRMAR A PUREZA OU RASTREAR
+                                     SEMENTES E DE DETERMINAR O ESTADO DE ZIGOSIDADE DE PLANTA,
+                                     MOLÉCULAS DE ÁCIDO NUCLEICO E KIT COMPREENDENDO AS
+                                     MESMAS
+
+                                         PARECER
+          O presente pedido corresponde a uma divisão do pedido BR112012012385-8 (pedido
+original) solicitada pela requerente por meio da Petição de Depósito nº 870190068621, em
+19/07/2019. A notificação de depósito do pedido dividido foi publicada em 27/08/2019, RPI nº 2538
+(despacho 2.4).
+          Primeiramente, vale esclarecer que de acordo com a Instrução Normativa PR nº 031/2013,
+de 04/12/2013, entende-se que quando um pedido dividido é depositado este pedido entrará na
+mesma fase processual em que se encontra o pedido original. Portanto, serão aproveitados todos
+os documentos, pareceres, petições e despachos constantes no pedido original até a data de
+depósito do pedido dividido. Por isso, antes de iniciar o exame do presente pedido divisional cabe
+fazer uma retrospectiva a respeito do processamento do pedido original (BR112012012385-8), até
+a data da apresentação do presente divisional. Visto que, conforme mencionado, todos os atos
+administrativos precedentes serão válidos para o presente pedido.
+          No primeiro exame técnico do pedido original (BR112012012385-8) foi analisado o quadro
+reivindicatório com o total de 30 reivindicações, apresentado por intermédio da petição
+870180158437, de 04/12/2018, em resposta ao pré-exame de despacho 6.20 emitido por este
+INPI e notificado na RPI nº 2492 de 09/10/2018. As reivindicações se referiam ao método para o
+controle de ervas daninhas (reivindicações 1 a 5); molécula de ácido nucleico (reivindicações 6 a
+8); DNA genômico da soja (reivindicação nº 9); uso de plantas de soja transgênica e suas partes
+(reivindicação nº 10); produto de soja (reivindicação 11); método para produzir um produto de soja
+(reivindicação 12); processo para controlar ervas daninhas num campo de plantas ou sementes de
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                       Página 1
+                                        BR122019014943-7
+
+soja (revindicações 13 a 16); método para a produção de uma planta de soja tolerante aos
+herbicidas glifosato e/ou isoxaflutol (reivindicações 17 e 18); método para identificação de evento
+elite EE=GM3 em amostras biológicas (reivindicações 19, 20, 24, 27 e 29); par de iniciadores
+(reivindicações 21 e 23); sonda específica (reivindicação 25); kit (reivindicação 26); método para
+determinar o estado de zigosidade de uma planta ou material de planta compreendendo e evento
+elite EE-GM3 (reivindicação 28); e invenção (reivindicação 30)
+          Na ocasião do primeiro exame técnico, publicado na RPI nº 2520, de 24/04/2019, a
+requerente tomou conhecimento de que o quadro reivindicatório não atendia as disposições dos
+artigos 18(III), 24 e 25 da LPI.
+         Em 19/07/2019, ou seja, após a publicação do exame técnico mencionado, a requerente
+depositou o presente pedido divisional (petição nº 870190068621). O quadro reivindicatório
+apresentado é composto por 24 reivindicações referentes: ao método para o controle de ervas
+daninhas (reivindicações 1 a 4); molécula de ácido nucleico (reivindicações 5 a 7); DNA genômico
+de soja (reivindicação 8); produto de soja (reivindicação 9); processo para controlar ervas
+daninhas num campo de plantas (reivindicações 10 a 13); método para identificação de evento
+elite EE-GM3 em amostras biológicas (reivindicações 14, 15 e 22); par de iniciadores adequados
+para o uso na detecção específica do evento (reivindicações 16 a 18); método para identificação
+de evento elite EE-GM3 em amostras biológicas (reivindicação 19); sonda específica para
+identificação do evento elite EE-GM3 em amostras biológicas (reivindicação 20); kit (reivindicação
+21); método para determinar a zigosidade de uma planta (reivindicação 23); método para detectar
+a presença de evento elite EE-GM3 em amostras biológicas (reivindicação 24). Adicionalmente, a
+requerente também apresenta esclarecimentos com relação às objeções formuladas no parecer
+de primeiro exame publicado na RPI Nº 2520 de 24/04/2019. Em resumo a requerente ainda
+alega:
+
+
+1- Entender que as disposições do artigo 18 (III) não se aplicam a materiais biológicos, segundo
+a orientação dada pelas Diretrizes publicadas na Resolução PR nº 144/2015 (itens 4.3.2; 6.3.1 e
+6.4.4), e, por isso, as novas reivindicações 8 e 9 que se referem ao genoma da soja e ao produto
+de soja, respectivamente, não se enquadrariam na proibição estabelecida pelo dito artigo da LPI;
+2- Em relação à objeção relativa ao método para controlar ervas daninhas num campo de plantas
+ou sementes de soja, a requerente alega que restringiu a matéria incluindo o trecho: sem lesão
+ou com lesão reduzida a uma cultura de soja. Assim, a Requerente acredita que o propósito dos
+métodos reivindicados é, portanto, diretamente dependente e só pode ser alcançado mediante o
+uso de plantas compreendo o evento EE-GM3 da invenção;
+3- A requerente também discorda da objeção envolvendo o uso do termo compreende, por
+entender que sua utilização é aceitável desde que o elemento compreendido seja essencial à
+concretização da invenção, o que seria o caso da matéria do presente pedido.
+         Em face do exposto, a requerente acredita que o pedido satisfaz todos os requisitos legais
+e solicita o deferimento.
+
+
+                                                                                          Página 2
+                                             BR122019014943-7
+
+
+
+  Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                              Sim      Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                            x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)             x
+
+O pedido refere-se a Sequências Biológicas                                                              x
+
+Comentários/Justificativas
+
+  Quanto ao encaminhamento para ANVISA
+        O presente pedido não se enquadra no estabelecido no art. 229-C da LPI, incluído pela
+Lei 10.196/2001, portanto não foi necessário realizar encaminhamento prévio à ANVISA.
+
+
+
+   Quanto à exigência referente ao acesso ao patrimônio genético nacional
+
+        Na petição de depósito deste pedido divisional (nº 870190068621, de 19/07/2019), a
+requerente declara que o objeto do presente pedido não foi obtido em decorrência de acesso à
+amostra de componente do Patrimônio Genético Brasileiro.
+
+   Quanto às Sequências Biológicas
+        A requerente apresentou a listagem de sequências em formato digital por meio da
+petição 870190068621, de 19/07/2019, no ato do depósito do presente pedido.
+        Na análise foram encontradas irregularidades, a saber: o campo <151> a data da
+prioridade EP09014564.0          está incorreta e a data da prioridade US 61/263690 não está no
+formato dia/mês/ano.
+
+
+                              Quadro 1  Páginas do pedido examinadas
+            Elemento                        Páginas                 n.o da Petição                    Data
+Relatório Descritivo                         1 a 104               870190068621                 19/07/2019
+Listagem de sequências em
+                                                 -                           -                          -
+formato impresso
+Listagem de sequências*                                            870190068621                 19/07/2019
+                                      Código de Controle
+
+Quadro Reivindicatório                                             870190068621                 19/07/2019
+                                              1a9
+
+Desenhos                                      1a3                  870190068621                 19/07/2019
+Resumo                                          1                  870190068621                 19/07/2019
+
+      *Listagem de sequências em formato eletrônico referente ao código de controle
+      405ACA223DA0FBBE (Campo 1) e 09F660D4A46E9367 (Campo 2).
+
+
+
+
+                                                                                                            Página 3
+                                          BR122019014943-7
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                           Sim              Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                        x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                    x
+O pedido está de acordo com disposto no art. 32 da LPI                     x
+Comentários/Justificativas
+
+       Em resumo a requerente alega não concordar com o enquadramento do DNA genômico
+de soja e do produto de soja (matérias das reivindicações 8 e 9) nas disposições do artigo 18
+(III), por entender que são materiais biológicos obtidos a partir de seres vivos não impedidos de
+proteção pelo dito artigo.
+       Em relação ao DNA genômico de soja que está caracterizado por compreender a
+sequência de nucleotídeos de SEQ ID Nº 11 (nosso grifo), considera-se que o uso do termo
+compreender para caracterizar uma molécula de ácido nucleico é considerado impreciso e
+amplo, na medida em que a matéria a ser protegida engloba outros elementos não identificados.
+Neste caso, a única limitação imposta seria conter pelo menos a SEQ ID NO: 11 mencionada.
+Portanto, o termo compreender torna o escopo da matéria tão amplo que pode abarcar o
+genoma completo da planta transformada.
+       Diante da possibilidade de proteção do genoma da planta, entende-se que não se trata
+mais de um simples DNA recombinante, que se enquadraria perfeitamente na definição de
+material biológico, como exposto no item 4.1 das Diretrizes de Exame de Pedidos de Patente na
+Área de Biotecnologia, Resolução PR nº 144/2015, e sim de parte um ser vivo. Pois representar
+o conjunto das informações genéticas daquele ser vivo. Assim, a matéria permanece em
+desacordo com o artigo 18 (III) da LPI.
+       Quanto ao produto de soja (reivindicação nº 9) caracterizado por ser produzido a partir da
+semente compreendendo um evento elite EE-GM3, em que o produto é ou compreende flocos,
+farinha, sementes moídas ou refeição de soja, entende-se que da forma como solicitado, tal
+produto pode ser 100% formado por alguma parte da planta transgênica, como por exemplo, a
+semente. Logo, a referida reivindicação segue incidindo nas proibições do artigo 18 (III) da LPI.
+
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                       x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                     x
+Comentários/Justificativas
+
+
+
+
+                                                                                           Página 4
+                                        BR122019014943-7
+
+       No parecer técnico anterior discutiu-se que um método de controle de ervas daninhas
+depende da interação entre o herbicida que será usado e as ervas daninhas presentes em um
+campo de plantio, cujo crescimento será afetado pela aplicação direta do herbicida. A interação
+entre o herbicida e as ervas daninhas é o que determinará o controle das ervas. Isso independe
+da presença de plantas compreendendo, ou não, o evento EE-GM3 no mesmo campo. Logo, a
+definição do método de controle de ervas daninhas com base em um parâmetro técnico que não
+está diretamente relacionado com a interação entre os agentes envolvidos no método pleiteado,
+especificamente a presença de plantas compreendendo o evento EE-GM3 no mesmo campo, não
+é suficiente para definir de forma clara e precisa o método pleiteado.
+       Visando superar tal objeção a requerente alterou a redação da reivindicação para método
+de controle ervas daninhas num campo de plantas ou sementes de soja que compreendem o
+evento de elite EE-GM3 sem lesão ou com lesão reduzida a uma cultura de soja (nosso
+grifo). Ocorre que apenas indicar que as plantas ou sementes presentes no mesmo campo, em
+que as ervas daninhas serão controlados, não apresentam lesão ou apresentam lesão reduzida,
+em nada modifica o processo de controle da praga. Uma vez que tal controle continua sendo
+dependente da atuação do herbicida sobre as ervas daninhas e que não será afetado pela
+presença de plantas de soja tolerantes a herbicidas, como as plantas do evento de elite EE-GM3.
+Por isso, não é possível definir um processo com base em um parâmetro técnico que não participa
+de forma efetiva do resultado a ser obtido. Logo, a alteração proposta não foi suficiente para
+superar a objeção apontada e a matéria permanece em desacordo com o artigo 25 da LPI.
+       Em sua manifestação a requerente também alega discordar da objeção que envolve o uso
+do termo compreende para caracterizar moléculas de ácidos nucleicos. Pois entende que
+embora o termo seja aberto de definição da invenção, ele pode ser empregado desde que o
+elemento compreendido seja essencial à concretização da invenção, o que seria o caso da
+matéria do presente pedido.
+       Inicialmente deve ser observado que não é questionada a possibilidade de utilização do
+termo compreende para definição de moléculas de ácido nucleico, o que está previsto no item
+3.49 da Resolução Nº 124/2013, mas sim a utilização do termo compreende na definição das
+moléculas de ácido nucleico no contexto da presente invenção. O pedido trata de plantas de soja
+transgênicas de um evento de transformação único caracterizado por compreender uma molécula
+de DNA de SEQ ID 11 integrada no DNA cromossômico de soja em um sítio específico, sendo que
+plantas do evento de transformação EE-GM3 combinam o fenótipo de tolerância a herbicida com
+um desempenho agronômico, estabilidade genética e funcionalidade em diferentes fundos
+genéticos equivalentes para a linhagem da soja não transformada na ausência de herbicida
+(página 1, parágrafo [003] do relatório descritivo). Portanto, as plantas do evento EE-GM3 foram
+selecionadas com base em uma combinação ótima de fenótipos, que é decorrente da inserção do
+transgene em uma região específica do genoma de soja. Dessa forma, não se pode assegurar
+que o mesmo efeito técnico estará presente em uma outra planta que compreenda a SEQ ID NO:
+11, porque se trata de outro contexto genético. Entende-se que é possível proteger sequências de
+
+
+                                                                                       Página 5
+                                            BR122019014943-7
+
+nucleotídeos que possam ser usadas para identificar as plantas de soja do evento EE-GM3 da
+invenção, desde que tais sequências estejam claramente definidas, o que é reconhecido para as
+reivindicações que solicitam proteção de pares de iniciadores e sondas. Por outro lado, não é
+possível proteger sequências de nucleotídeos definidas de forma ampla, caracterizadas tão
+somente pela definição de sequências que delimitam transgene ou a região de interseção entre
+transgene e genoma da planta de soja, visto que inclui no escopo da proteção pleiteada uma
+grande variedade de possíveis sequências, em contextos diversos, que podem estar totalmente
+desvinculados dos efeitos técnicos alcançados nas plantas do evento EE-GM3 identificadas no
+presente pedido. Dessa forma, conclui-se que os argumentos técnicos apresentados pela
+requerente não foram suficientes para supera a objeção envolvendo o uso do termo compreende
+nas reivindicações que solicitam proteção para moléculas de ácido nucleico, e tais reivindicações
+permanecem em desacordo com as disposições dos artigos 24 e 25 da LPI.
+
+
+
+
+                              Quadro 4  Documentos citados no parecer
+
+ Código                                    Documento                             Data de publicação
+     -           -                                                                         -
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                  Cumprimento              Reivindicações
+                                                         Sim                      1 a 24
+                Aplicação Industrial
+                                                         Não                        -
+                                                         Sim                      1 a 24
+                     Novidade
+                                                         Não                        -
+
+                                                         Sim                      1 a 24
+                Atividade Inventiva
+                                                         Não                        -
+Comentários/Justificativas
+
+
+
+Conclusão
+
+             Para concluir, cabe mencionar que o item 3.137 da Resolução nº 124/2013 estabelece
+que em caso de um pedido dividido ter sido gerado a partir de matéria já examinada e que não
+apresente mérito de patenteabilidade, o mesmo deverá ser indeferido, persistindo as mesmas
+objeções relativas a este mérito.
+             Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+         -     não apresenta suficiência descritiva (Art. 24 da LPI)
+
+
+
+
+                                                                                               Página 6
+                                        BR122019014943-7
+
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+      -   não é considerado patenteável, uma vez que incide no Art. 18 da LPI
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 5 de março de 2020.
+
+
+
+
+Nathaly Nunes Uchoa
+Pesquisador/ Mat. Nº 1358886
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                        Página 7
+

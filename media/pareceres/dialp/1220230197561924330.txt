@@ -1,0 +1,343 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122023019756-9      N.° de Depósito PCT:
+ Data de Depósito:                   06/11/2019
+ Pedido dividido de:                 BR102019023319-2
+ Prioridade Unionista:               -
+ Depositante:                        EMBRAPA-EMPRESA BRASILEIRA DE PESQUISA AGROPECUARIA
+                                     (BRDF) ; HELIX SEMENTES E MUDAS LTDA. (BRSP)
+ Inventor:                           ANDRÉA ALMEIDA CARNEIRO; BEATRIZ DE ALMEIDA BARROS;
+                                     CLÁUDIA     TEIXEIRA  GUIMARÃES;      FERNANDO HERCOS
+                                     VALICENTE; MARCOS DE OLIVEIRA PINTO; MEIRE DE CÁSSIA
+                                     ALVES; MYRIAM MAIA NOBRE; NEWTON PORTILHO CARNEIRO;
+                                     ROBERTO WILLIANS NODA; SIMONE MARTINS MENDES; SIDNEY
+                                     NETTO PARENTONI @FIG
+ Título:                             MOLÉCULA DE ÁCIDO NUCLÉICO DO EVENTO TRANSGÊNICO
+                                     DE MILHO ME240913, GENOMA DE MILHO TRANSGÊNICO, USOS
+                                     DE CÉLULAS, PLANTAS E SEMENTES TRANSGÊNICAS, MÉTODO,
+                                     KIT E AMPLICON PARA DETECÇÃO DO EVENTO E MÉTODOS
+                                     PARA PRODUZIR UMA PLANTA TRANSGÊNICA E DE CONTROLE
+                                     DE INSETOS-PRAGAS LEPIDÓPTEROS
+
+                                         PARECER
+          O presente pedido corresponde a uma divisão do pedido BR102019023319-2 (pedido
+original) requerida por meio da Petição de Depósito nº 870230085432, em 26/09/2023. A
+notificação de depósito do pedido dividido foi publicada em 26/12/2023, RPI nº 2764 (despacho
+2.4).
+          Por intermédio da petição nº 870230086933 de 02/10/2023 as requerentes solicitaram o
+exame prioritário do presente pedido. A admissão foi concedida com base no artigo 21 da
+PORTARIA/INPI/PR Nº 79/2022, conforme publicação na RPI nº 2769, de 30/01/2024.
+
+          O quadro reivindicatório analisado é composto por nove reivindicações, a saber: método
+para a produção de uma planta de milho compreendendo o evento ME240913 resistente a
+insetos-pragas lepidópteros (reivindicação 1); método para produção de sementes de milho
+híbridas congênita (reivindicações 2 a 4); método para controle de insetos-pragas lepidópteros de
+plantas de milho (reivindicações 5 a 8); e uso de uma planta, célula de planta, parte de planta ou
+semente compreendendo o DNA do evento ME240913 de SEQ ID NO: 8 para cruzar com uma
+segunda planta (reivindicação nº 9).
+
+          No parecer técnico publicado na RPI nº 2807, de 22/10/2024, as requerentes tomaram
+conhecimento de que o pedido estava em desacordo com as disposições dos artigos 11, 24 e 25
+da LPI.
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@               Página 1
+                                             BR122023019756-9
+
+         Por meio da petição 870250002864, de 14/01/2025, as requerentes se manifestaram em
+relação ao dito parecer apresentando argumentos técnicos em defesa da matéria do presente
+pedido frente ao estado da técnica.
+
+      Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+    Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                          Sim       Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                    -        -
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)              x
+
+O pedido refere-se a Sequências Biológicas                                                              x
+
+Comentários/Justificativas
+
+
+
+
+        Quanto à exigência referente ao acesso ao patrimônio genético nacional
+
+         Por intermédio da petição nº 870240092790, de 30/10/2024, as requerentes declararam
+
+que o Número da Autorização de Acesso é A7A226C, de 19 de abril de 2018.
+
+        Quanto às Sequências Biológicas
+
+         Destaca-se que as requerentes reapresentaram a listagem de sequências em formato
+
+digital por meio da petição 870240068715, de 13/08/2024.
+
+
+                              Quadro 1  Páginas do pedido examinadas
+             Elemento                       Páginas                 n.o da Petição                    Data
+Relatório Descritivo                         1 a 59                 870240068715                 13/08/2024
+Listagem de sequências em
+                                                 -                           -                          -
+formato impresso
+Listagem de sequências*               Código de Controle            870240068715                 13/08/2024
+Quadro Reivindicatório                        1e2                   870240068715                 13/08/2024
+Desenhos                                     1 a 11                 870230085432                 26 /09/ 2023
+Resumo                                          1                   870240068715                 13/08/2024
+        *Listagem de sequências em formato eletrônico referente ao código de controle
+        507E1D5553EE40FF (Campo 1) e BFFEDACD62F11676 (Campo 2).
+
+
+    Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                    maio de 1996  LPI
+Artigos da LPI                                                                      Sim                 Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                         x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                 x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                               x
+
+
+
+                                                                                                            Página 2
+                                          BR122023019756-9
+
+
+O pedido está de acordo com disposto no art. 32 da LPI                    x
+Comentários/Justificativas
+
+
+
+                Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim           Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                    x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                  x
+Comentários/Justificativas
+
+       No parecer técnico anterior discutiu-se que indefinição da segunda planta parental afeta a
+amplitude da matéria a ser protegida. Da forma como apresentada, as matérias protegiam os
+métodos de produção de novas plantas de milho por cruzamentos entre plantas do evento milho
+ME240913 e outras plantas quaisquer. Plantas que segundo o §[134] do relatório podem ser
+qualquer variedade de planta que possa ser reproduzida com milho. Com isso o escopo da
+proteção estava indefinido, impreciso e abarcava possibilidades que extrapolam a matéria que foi
+concretizada e descrita no pedido, além de abranger a proteção para desdobramentos futuros.
+Também foi abordado que as plantas receptoras do evento elite ora revelado podem possuir
+backgrounds genéticos diferentes e ainda que seja óbvio que a molécula de DNA que
+compreende o evento ora revelado será passado com os cruzamentos, não há garantias de que
+os critérios ditos como elite serão obtidos na progênie de plantas descendentes das do evento
+(T3, T4 etc) com plantas de outras linhagens, visto que o background genético tem importância
+primordial durante a introgressão de características específicas em novas linhagens. Por tais
+razões das antigas reivindicações 1 a 4 e 9 foram consideradas em desacordo com os artigos 24
+e 25 da LPI.
+
+       Na manifestação as requerentes alegam discordar da objeção, mas esclarecem que o
+evento ME240913 da presente invenção foi introgredido em diversos background genéticos e
+teve seu efeito técnico demonstrado em todos eles, conforme mostra uma tabela apresentada
+com dados de introgressão do evento ME240913 em diferentes cultivares de diferentes grupos
+heteróticos. As requerentes assumem que com isso foi demonstrado que o evento ME240913
+retém seu efeito técnico em outros backgrounds genéticos, e não há razões para duvidar de que
+o efeito técnico do evento não possa ser obtido em qualquer background genético no qual seja
+introgredido.
+
+       Embora não tenha sido apresentada uma legenda para a tabela, nem mesmo uma
+descrição ou discussão dos dados, ao que tudo indica o evento ME240913 parece ser
+representado pelo EH913, uma designação distinta da mencionada no ato de depósito do
+presente pedido, que indicou a renomeação do evento para EH-BRS913-2. Assumindo-se que
+EH913 é o evento ME240913, os dados indicam a manutenção do efeito técnico após
+
+
+
+                                                                                        Página 3
+                                        BR122023019756-9
+
+introgressão em outros backgrounds genéticos. Contudo, a reivindicação nº 9 permanece
+abarcando a proteção para desdobramentos futuros ao requerer o uso de uma planta
+compreendendo o DNA do evento ME240913 de SEQ ID NO: 8 para cruzar com uma segunda
+planta qualquer, em que a segunda planta, conforme citado no relatório descritivo (§[134]) pode
+ser qualquer variedade de planta que seja capaz de cruzar com uma planta de milho. Como não
+há nenhum indicativo de que este tipo de cruzamento foi concretizado no pedido, considera-se
+que a matéria requerida pela referida reivindicação extrapola o que foi concretizado e, por tal
+razão, as objeções envolvendo os artigos 24 e 25 da LPI não foram superadas.
+
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                                Documento                              Data de publicação
+    D1       WO2019213727 (BR102018009263-4)                                  14/11/2019
+Comentários/Justificativas
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento                Reivindicações
+                                                     Sim                        1a9
+            Aplicação Industrial
+                                                     Não                          -
+                                                     Sim                          -
+                  Novidade
+                                                     Não                        1a9
+
+                                                     Sim                          -
+             Atividade Inventiva
+                                                     Não                          -
+Comentários/Justificativas
+
+         No parecer técnico anterior discutiu-se que o método requerido pelas reivindicações 1 a 8
+e o uso pleiteado na reivindicação nº 9 foram antecipados no relatório do documento D1. Ainda
+que o documento não revele o depósito de sementes de milho contendo o evento ME240913
+nem as sequências polinucleotídicas que flanqueiam o inserto (contidas na SEQ ID NO: 8). Com
+base nos exemplos de ambos os documentos entendeu-se que só seria é reconhecer a
+novidade das matérias pleiteadas no presente pedido, se as requerentes comprovassem que
+embora as plantas (os eventos) tenham a mesma designação (nome), ME240913, elas são
+diferentes em decorrência da integração do inserto em locais distintos do genoma.
+
+         Na manifestação as requerentes alegam que o uso de indícios, probabilidade e inferência
+não é permitido na análise de novidade e que uma divulgação em termos genéricos não afeta a
+novidade de uma invenção definida em termos específicos. A novidade existe quando uma
+matéria não é descrita no estado da técnica, sendo irrelevante se tal matéria de fato existia ou
+existiu em algum momento anterior. Portanto, para as requerentes tanto a LPI quanto a
+normativa vigente do INPI determinam que o que importa na aferição da novidade é se todas as
+
+
+
+                                                                                           Página 4
+                                        BR122023019756-9
+
+
+características técnicas definidas nas reivindicações são explicitamente descritas em D1, o que
+para as requerentes não são, porque as sequências flanqueadoras não constam em D1.
+
+       É importante esclarecer que o fato do presente pedido apresentar as sequências
+flanqueadoras do evento ME240913 por intermédio da SEQ ID NO: 8, isso não é suficiente para
+comprovar que essa sequência também não está presente no evento ME240913 descrito em
+D1, ainda que não tenha sido reportada no referido documento. Em se tratando dos mesmos
+eventos, essa sequência está presente no evento concretizado em D1. Assim como a menção
+dos dados do depósito das sementes do evento ME240913 em um centro depositário
+internacional, também não prova que as sementes são de eventos distintos. Nesse caso,
+ressalta-se ainda que de acordo com a data informada no relatório descritivo do presente
+pedido, as sementes foram depositadas em data posterior a data de depósito do documento D1,
+de modo que nada impede que sejam do mesmo evento. Por isso, é fundamental que as
+requerentes diferenciem o evento do presente pedido do evento de D1, que também foi
+produzido por elas. No entanto, na manifestação não foi apresentada nenhuma informação ou
+evidência de indique a diferenciação.
+
+       Na análise da novidade foi avaliado se a anterioridade revela métodos com as mesmas
+etapas e materiais que os métodos solicitados no presente pedido. Nesse sentido, D1 não
+antecipa apenas termos genéricos da matéria ora requerida. Na verdade, a comparação entre os
+exemplos apresentados em D1 e os do presente pedido mostra a antecipação da matéria aqui
+reivindicada. Como já discutido, o presente pedido e o documento D1 pertencem aos mesmos
+requerentes e têm os mesmos inventores, reportam a geração de eventos de milho contendo a
+mesma molécula de ácido nucleico códon-otimizada cry1Da (SEQ ID NO: 1). Ambos utilizam a
+mesma construção gênica e o mesmo processo de transformação que estão apresentados nos
+exemplos 3 e 4 de D1 e nos exemplos 1 e 2 do presente pedido. O exemplo 5 de anterioridade
+mostra que o evento ME240913 foi gerado a partir da transformação do híbrido temperado Hill
+com a SEQ ID NO: 1, que foi introgredido (por cruzamento) na linhagem tropical L3, igualmente
+como reportado no exemplo 2 do presente pedido (ver §[149]). Além disso, os resultados dos
+bioensaios com S. frugiperda envolvendo plantas do evento ME240913 e plantas controle,
+dispostos na tabela 1 do presente pedido (exemplo 4), também são os mesmos da tabela 3 de
+D1, assim como os dados da tabela 2 do presente pedido (exemplo 4) estão antecipados pela
+tabela 4 de D1 e os dados exemplo 8 do presente pedido, que mostram bioensaios utilizando
+lagartas e o milho transgênico ME240913 são os mesmos do exemplo 9 de D1. Todos esses
+dados mostram que há detalhamento suficiente para que um técnico no assunto conclua que o
+evento ME240913 de D1 e o evento ME240913 do presente pedido são os mesmos e que os
+métodos foram antecipados pela anterioridade.
+
+       A reivindicação nº 1 requer um método para produção de uma planta de milho que
+compreenda o evento ME240913 resistente a insetos-pragas lepidópteros caracterizados pelas
+seguintes etapas: 1 - cruzar sexualmente uma primeira planta progenitora de milho com
+uma segunda planta de milho progenitora, em que uma delas compreende o evento
+ME240913 de SEQ ID NO: 8, assim obter uma pluralidade de plantas descendentes de primeira
+
+
+                                                                                        Página 5
+                                       BR122023019756-9
+
+
+geração e 2- selecionar a partir das plantas descendentes uma planta compreenda o DNA
+do evento ME240913 de SEQ ID NO: 8. As sementes de milho contendo uma molécula de
+ácido nucléico do evento ME240913 foram depositadas na American Type Culture Collection sob
+número de acesso PTA-126224 (nossos grifos). D1 reporta no exemplo nº 5 que o evento
+ME240913     (Evento 01) foi gerado a partir da transformação do híbrido temperado HiII foi
+introgredido (entenda-se cruzado para ser geneticamente incorporado) na linhagem
+tropical L3, para a identificação das plantas descendentes foi usada seleção assistida por
+marcadores moleculares. Sendo assim, esse trecho da anterioridade revela claramente um
+método para obtenção de plantas de milho compreendendo o evento ME240913, em que uma
+planta progenitora de milho compreendendo o evento ME240913 foi cruzada com uma segunda
+planta progenitora de milho (linhagem tropical L3) e assim foram obtidos descendentes, que
+foram selecionados quanto a presença do evento ME240913. (nossos grifos)
+
+       Como a identificação das sequências flanqueadoras do evento ME240913 reportada no
+presente pedido em nada afeta as etapas do método ora requerido, nem servem para
+demonstrar que não estão presentes no evento de D1, conclui-se que as plantas progenitoras
+compreendendo o evento ME240913 são as mesmas e, por isso a matéria da reivindicação 1
+não é considerada nova, conforme as disposições do artigo 11 da LPI.
+
+       O mesmo se aplica ao método para produção de sementes de milho híbridas, objeto das
+reivindicações 2 a 4. Novamente, considera-se que a identificação das sequências flanqueadoras
+do evento ME240913 do presente pedido não é suficiente para demonstrar que elas não estão
+presentes no evento de D1, e como também não alteram em nada as etapas do método
+mencionado, o qual também é baseado no cruzamento sexual entre uma primeira linhagem e
+milho congênita compreendendo DNA evento ME240913 de SEQ ID NO: 8 e uma segunda
+linhagem congênita tendo um genótipo diferente, para se obter as sementes de milho híbridas, tais
+reivindicações também não são consideradas novas.
+
+       Nas reivindicações 5 a 8 é solicitado um método para o controle de insetos-pragas
+lepidópteros de plantas de milho caracterizado pelo plantio de sementes compreendendo o evento
+ME240913 de SEQ ID NO: 8 de modo sejam suscetíveis aos insetos-pragas lepidópteros.
+Também permanece o entendimento de que tal metodologia foi antecipada pelos exemplos 7 a 9
+do documento D1, que demonstram que as plantas do evento ME240913 são capazes de
+controlar eficientemente o desenvolvimento das pragas, quando as sementes do milho contendo o
+evento ME240913 são plantadas e a plantas expostas aos inseto-praga, incluindo S. frugiperda.
+
+       Por fim destaca-se que a matéria a reivindicação nº 9, que pleiteia o uso de uma planta
+compreendendo ME240913 de SEQ ID NO: 8 para cruzar com uma segunda planta, regenerar
+uma planta, plantar ou cultivar, também foi antecipado nos exemplos oferecidos pelo documento
+D1.
+
+       Diante do exposto, considera-se que os argumentos trazidos pelas requerentes não foram
+suficientes para suporta a objeção de falta de novidade, conforme o estabelecido pelo artigo 11 da
+LPI.
+
+
+
+                                                                                         Página 6
+                                        BR122023019756-9
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+      -   não apresenta suficiência descritiva (Art. 24 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+                                                            Rio de Janeiro, 6 de fevereiro de 2025.
+
+
+
+
+Nathaly Nunes Uchôa
+Pesquisador/ Mat. Nº 1358886
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                           Página 7
+

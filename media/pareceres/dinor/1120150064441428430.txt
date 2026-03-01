@@ -1,0 +1,338 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112015006444-2         N.° de Depósito PCT:US2013/060962
+ Data de Depósito:                   20/09/2013
+ Prioridade Unionista:               US 61/703,844 (21/09/2012)
+ Depositante:                        D.C. WATER & SEWER AUTHORITY (US)
+ Inventor:                           SUDHIR N. MURTHY, EUGENIO GIRALDO, NORMAN D. DOCKETT,
+                                     HAYDEE DE CLIPPELEIR, BERNHARD WETT, WALTER F. BAILEY
+ Título:                             "MÉTODO PARA SEPARAR DUAS OU MAIS FRAÇÕES DE
+                                     SÓLIDOS A PARTIR DE LICOR MISTURADO"
+
+                                                              PARECER
+         A requerente apresentou tempestivamente sua manifestação em relação a ciência de
+parecer (7.1) notificadas na RPI 2602, de 17 de novembro de 2021, por meio da petição de
+número 870210015281, de 14 de fevereiro de 2021, acompanhado de novas vias do relatório
+descritivo, quadro reivindicatório (23 reivindicações) e resumo.
+
+         Segundo manifestado pela requerente, o novo quadro reivindicatório, num total de 23
+reivindicações, apresenta-se devidamente adaptado às disposições das Instruções Normativas
+30/2013 e 31/2013 e plenamente de acordo com as disposições da Resolução 93/2013 de
+10/06/2013.
+
+         A requerente argumenta que os documentos citados pelo INPI se referem ao uso
+convencional de telas, onde tais telas são utilizadas nos processos de tratamento, ou seja,
+para remover e rejeitar contaminantes de um fluxo líquido ou sólido. A presente invenção se
+refere a um método para separar múltiplas frações de sólidos a partir de licor misturado, incluindo
+o fornecimento de telas de classificação dentro do citado licor misturado. Os documentos citados
+no parecer sob exame, mesmo quando considerados em conjunto, não revelam ou sugerem
+estes aspectos fundamentais da presente invenção. Por exemplo, D1 se refere a separação de
+sólidos inertes de RAS, e não de licor misturado.
+
+         Além disso, a presente invenção pode ser utilizada para separar, selecionar e reter
+partículas ativas de um fluxo de licor misturado reciclado com uma propriedade específica
+para aumentar o desempenho do processo biológico. D2, por exemplo, é direcionado a um
+sistema onde uma tela para separação de sólidos representa apenas uma                  etapa    de
+pré-tratamento, e lida com a filtragem por meio da adição de um material absorvente tal como
+carbono ativado. Embora D2 se refira a uma zona de separação de líquido e assentamento
+de material com um subsistema de separação que pode ter um aparelho de tela, D2 não sugere
+um sistema no qual partículas e material biologicamente ativo são seletivamente retidos por
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                Página 1
+                                        BR112015006444-2
+
+
+uma tela no licor misturado de um processo de lama ativada e retornados ao tanque de
+processo. D2 pode até reter compostos orgânicos, mas o faz de forma indiscriminada, para
+separar tantos sólidos do fluxo de líquido quanto possível, de modo que uma quantidade
+substancial de contaminantes seja removida, preferencialmente ([p]referably, a substantial
+amont of contaminants are removed (paragrafh 126, lines 10  11)). Ao contrário de D2, a
+presente invenção pode ser utilizada para seleção de tempos de permanência de sólidos
+(SRT) distintos para organismos diferentes.
+
+        Ademais, o ajuste do tempo de retenção de sólidos em D2 não é alcançado mudando o
+tamanho da tela, e nem com base na compressibilidade ou resistência a cisalhamento, uma
+vez que os tempos de retenção de D2 são ajustados por meios diversos, como, por exemplo,
+mudando a taxa de reciclagem RAS.
+
+        D3 se refere ao tratamento de água com amônia e nitrito utilizando bactérias aeróbicas
+oxidantes de amônia. Como visto na figura 1, após a desnitritificação da água, transfere-se
+para um recipiente de aclimatização 14, que contém um material de imobilização, tal como
+pellet ou um leito imóvel. O parágrafo 49 afirma que as bactérias aeróbicas oxidantes de
+amônia são precipitadas e coletadas como uma lama de células de bactéria. Ao mencionar
+uma unidade de separação de membrana, refere-se à sua utilidade para imobilizar as células
+de bactéria de modo que possam seguir para outro recipiente de aclimatização. Não há nada
+nesta referência sobre preferencialmente separar frações de sólidos de um licor misturado, em
+que os tempos de permanência de sólidos na primeira fração de sólidos e na segunda fração
+de sólidos podem ser ajustados e que a mudança de tamanho das telas de classificação e/ou dos
+separadores    líquido-sólido   possa   ser   solicitada, respectivamente, ou em que a seleção
+preferencial ocorre com base na compressibilidade ou na resistência ao cisalhamento, onde uma
+fração menos compressível ou mais resistente ao cisalhamento é retida pela tela.
+
+        Em relação a D4, a Requerente notou que a figura 42 ilustra um sistema que pode
+ser utilizado para controle de odores e como      extremidade    frontal   de   uma   estação     de
+tratamento de água residual. Resíduos brutos 9 passam através de uma tela 900 e, então, por
+um separador de lama 2. Não há mais nada a respeito destes elementos em D4, que,
+portanto, falha em descrever ou sugerir todas as características técnicas da presente invenção.
+
+        Por fim, é notável que D5 e D6 não revelam ou sugerem características técnicas
+referentes à separação preferencial de frações de sólidos de um licor misturado, em que
+os tempos de permanência de sólidos da primeira fração de sólidos e da segunda fração
+de sólidos podem ser ajustados e que seja necessária a mudança no tamanho das telas
+de classificação e/ou dos separadores líquido-sólido, respectivamente, ou mesmo sobre o
+fato de preferencialmente a seleção ocorrer com base na compressibilidade ou na resistência ao
+cisalhamento, onde a fração menos compressível ou mais resistente ao cisalhamento é retida pela
+tela.
+
+        O exame do pedido foi conduzido conforme apontado no Quadro 1 deste parecer e
+considerando o conteúdo da manifestação da requerente.
+
+
+
+                                                                                         Página 2
+                                           BR112015006444-2
+
+
+                            Quadro 1  Páginas do pedido examinadas
+            Elemento                     Páginas                n.o da Petição                Data
+
+Relatório Descritivo                       1-18                 870210015281                14/02/2021
+Quadro Reivindicatório                      1-5                 870210015281                14/02/2021
+Desenhos                                   1-13                 860150047288                23/03/2015
+Resumo                                       1                  870210015281                14/02/2021
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                   Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                              X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                      X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                           X
+O pedido está de acordo com disposto no art. 32 da LPI                            X
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                   Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI              X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI            X
+Comentários/Justificativas
+
+      As emendas apresentadas pela requerente suplantaram as objeções anteriormente feitas
+com base no Art. 25 da LPI. Assim, o quadro reivindicatório emendado está em acordo com os
+critérios de Clareza e Precisão do dito artigo.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                     Data de publicação
+    D1                                   US7569147                                        04/08/2009
+    D2                                 US2011/017664                                       27/01/2011
+    D3                                   EP1595851                                         16/11/2005
+    D4                                 WO1994/24056                                       27/10/1994
+    D5        Joyce et at. Replacement of activated sludge secondary                    Maio de 1975
+                            clarifiers by dynamic straining.
+    D6        Sen et al. Performance of fixed film media integrated in                      1994
+              activated sludge reactors to enhance nitrogen removal. Wat.
+
+
+
+                                                                                                 Página 3
+                                           BR112015006444-2
+
+
+                          Sci Tech., v. 30, n. 11, p. 13-24, 1994.
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade               Cumprimento             Reivindicações
+                                                      Sim                      1-23
+             Aplicação Industrial
+                                                      Não                    Nenhum
+                                                      Sim                    Nenhum
+                  Novidade
+                                                      Não                      1-23
+
+                                                      Sim                    Nenhum
+             Atividade Inventiva
+                                                      Não                      1-23
+
+
+
+Comentários/Justificativas
+
+      Segundo argumentado pela requerente, o presente pedido de patente refere-se a um
+método para separar múltiplas frações de sólidos a partir de licor misturado, não sendo
+considerado um método para remover e rejeitar contaminantes de um fluxo líquido ou sólido. A
+requerente cita que D1       se   refere   a separação de sólidos inertes de RAS, e não de licor
+misturado.
+
+      No entanto, D1 dispõe que a invenção fornece um método de tratamento de águas
+residuais compreendendo a combinação de águas residuais compreendendo sólidos prontamente
+degradáveis e sólidos inertes com lamas carregadas de bactérias em um reator de corrente
+principal para formar um licor misto, passando pelo menos uma porção do licor misturado
+através de um dispositivo de triagem (tela 14  Fig. 2-3) para remover pelo menos uma porção
+dos sólidos inertes, separar o licor misto peneirado em um efluente clarificado e uma lodo ativado,
+reciclar uma primeira porção de lama ativada para o reator de corrente principal e tratar uma
+segunda porção de lodo ativado em um biorreator de fluxo lateral antes para retornar a segunda
+porção de lodo ativado para o reator de corrente principal (Col. 2, l. 54-65). Ademais, a tela 14
+referida em D1 retêm lodo, ou seja, 'partículas ativas', e o retorna para uma 'porção a montante',
+ou seja, para o biorreator (ver resumo, figura 1, 2). Contrariamente ao que afirma a requerente,
+são as partículas ativas que são selecionadas e devolvidas em D1 uma vez que o efluente
+depurado (22) sai do sistema (sólidos inertes). Sendo assim, mantém-se a análise e a opinião
+exarada no parecer anterior com relação ao documento D1. Desta forma, considera-se que o
+pedido não satisfaz o requisito de novidade e atividade inventiva, estando em desacordo com o
+disposto no Art. 8º em combinação com os Art. 11 e 13 da LPI.
+
+      Os documentos D2, D3, D4, D5 e D6 possuem relevância no que diz respeito à atividade
+inventiva. Estes documentos resolvem o mesmo problema técnico que o presente pedido,
+nomeadamente, fornecer um método para seleção/separação de partículas. Sendo assim, o
+presente pedido de patente não apresenta atividade inventiva com vistas nos documentos D2, D3,
+D4, D5 e D6, contrariando o disposto nos Art. 8 e 13 da LPI.
+
+
+
+                                                                                          Página 4
+                                       BR112015006444-2
+
+
+      D1 é o documento mais próximo do estado da técnica do presente pedido e é considerado
+impeditivo para os critérios de patenteabilidade. D1 revela um método e aparelho adequado para
+separar múltiplas frações de sólidos para manter múltiplos tempos de residência de sólidos (figura
+12), o aparelho sendo configurado para usar uma tela (14) de classificação (coluna 6, linha 36-37,
+linha 52 -55 e figura 12, referência 14) e manter as frações com um menor tempo de residência de
+sólidos usando qualquer outro separador sólido-líquido (coluna 5, linha 9-14 e figura 12, referência
+20), em que o aparelho está configurado para ajustar os tempos de residência de sólidos por troca
+de tamanhos de tela de classificação (coluna 6, linha 52-57) ou operação de uma ou mais telas
+(coluna 7 linha 35-39), retornando pelo menos algumas partículas selecionadas para uma porção
+a montante (figura 12). A tela possui um tamanho de malha que pode variar de 10 a 2500
+micrômetros (Coluna 3, linha 6).
+
+      D1 também descreve uma seleção baseada no tamanho de partícula (consulte a coluna 6,
+linha 42-48) e uma série de telas com aberturas de tamanhos diferentes que podem selecionar
+uma faixa de tamanho superior e inferior para seleção (coluna 7, linha 35-39). Diferentes tempos
+de residência podem ser mantidos usando diferentes tamanhos de aberturas das telas. Diferentes
+exemplos de tamanhos de poros das telas, que levam a diferentes tempos de residência, são
+dados na coluna 6, linha 57 à coluna 7, linha 5. Além disso, D1 descreve na coluna 9, linha 1-5 e
+figura 12 que a tela de classificação pode ser aplicada a uma corrente de lodo residual, retirada
+diretamente de um reator de licor misto e que a passagem de sólidos das telas é bioaumentada
+(coluna 6, linha 52-55). D1 também divulga que os sólidos selecionados são de origem biológica
+(coluna 6, linha 42-45) que incluem organismos de crescimento mais lento, como organismos
+aeróbicos, organismos anóxicos, que podem coexistir simbioticamente para desenvolver frações
+de nicho, com base na exposição ao ar (coluna 5, linha 34-54). Por fim, D1 revela implicitamente
+um "instrumento analítico ou de detecção" uma vez que uma quantidade de retorno de lodo é
+controlada. Além disso, se a tela ficar obstruída, situação que deve ser 'detectada', ela pode ser
+lavada (coluna 7).
+
+      D2 descreve um sistema de tratamento de águas residuais que compreende um bioreator
+(202) e um sistema de membrana (204). O material retido na membrana (ou seja, sólidos do
+efluente de reator biológico 202, incluindo lama ativada) é retornado ao reator biológico via
+passagem 214 de retorno de lama ativada. O sistema de membrana (104-504) é o mesmo que
+uma tela de classificação no contexto do presente pedido. D2 descreve ainda um controlador
+e/ou monitor (que são instrumentos de detecção ou analíticos) (vide D2, par. 9). O tamanho de
+malha de acordo com a reivindicação 1 (sem unidade de medida!) deve estar na mesma faixa.
+      D3 descreve um equipamento de tratamento de água residual (100) por oxidação anaeróbia
+de amônio, conforme explicado em detalhes no parágrafo [48] do documento: Aqui, o aparelho
+para coletar células bacterianas consiste de um recipiente de aclimatização e um recipiente de
+precipitação ([0048]  tradução livre). Vide também Fig. 2. O aparelho da Fig. 2 é, portanto, um
+aparelho para separar múltiplas frações sólidas. O equipamento descrito na Fig. 2 compreende
+um aparelho para coletar células bacterianas que consiste de um recipiente de aclimatização (14)
+e um recipiente de precipitação (16). O recipiente (14) da Fig. 2 também aparece na Fig. 1
+
+
+
+                                                                                           Página 5
+                                        BR112015006444-2
+
+
+(vide explicação no par. [0049]). O recipiente de aclimatização (14) inclui uma tela de
+plástico ou metal para reter microorganismos imobilizados (vide par. [0042]). Naturalmente,
+o uso da tela cria uma diferença no tempo de retenção da lama no sistema devido à seleção
+de partículas com tamanhos diferentes, ou seja, o aparelho é configurado para reter pelo
+menos     parte   das partículas selecionadas à montante. O equipamento inclui ainda um
+instrumento analítico ou de detecção (vide par. [0042]: pressure gauge), que permite ajustar o
+tempo de residência dos microorganismos. Por fim, o equipamento da Fig. 2 é configurado para
+retornar parte do material retido (via linha 26) para uma porção a montante (conforme
+descrito no par. [0049]). O tamanho de malha não é fornecido, porém entende-se que seja
+implicitamente o mesmo que no presente pedido uma vez que a tela usada em D3 destina-se ao
+mesmo fim: separação de microorganismos.
+
+      D4 descreve (pág. 74-75) uma planta de tratamento de águas residuais conforme mostrado
+na Fig. 42. O tratamento de águas residuais inclui:
+
+             o uso de pelo menos uma tela de classificação (tela 900, Fig. 42) para receber o
+fluxo da unidade anaeróbia (ou seja, contendo múltiplas frações de sólidos o que inevitavelmente
+leva à uma peneiragem de sólidos com determinado tempo de residência (sólidos maiores),
+enquanto outros sólidos (menores) passam pela tela);
+
+             o uso de um separador sólido-líquido (separador 2, Fig. 2) que recebe o permeado
+da tela 900 e separa a lama (saída 12) da água tratada anaerobicamente (via linha 11), e
+
+             em que a lama do separador (ou seja, a fração de sólidos) é recirculada para uma
+porção à montante (na Fig. 42, para a unidade anaeróbia 35).
+
+      D5 descreve um método (pág. 21 e Fig. 5) em que a água de resíduo é fornecida para um
+tanque de aeração. No tanque de aeração, há uma peneira primária (que é uma tela). O
+segundo tanque reservatório recebe o efluente da peneira primária e contém uma peneira
+secundária (que é um separador sólido-líquido adicional). Um fluxo de retorno é fornecido do
+segundo tanque reservatório para o tanque de aeração, a fim de manter a concentração no
+segundo tanque constante. Pelo menos parte das partículas retidas (ou seja, partículas que não
+passam pela peneira secundária e, portanto, são retidas no tanque secundário) são retornados
+para uma porção à montante (ou seja, para o tanque de aeração). A peneira primária é um
+tambor rotativo (rotary drum- p. 14, 3º par., D5). Tambores rotatórios são telas, conforme descrito
+no par. [0033] do presente pedido.
+
+      D6 (Sen et al) descreve o uso de separadores líquido-sólidos em combinação com
+biorreatores (vide Fig. 23, que mostra um reator com separador gravitacional embutido).
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+
+
+                                                                                            Página 6
+                                       BR112015006444-2
+
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 01 de junho de 2021.
+
+
+
+
+Sandra Maria de Souza Cao
+Pesquisador/ Mat. Nº 2317305
+DIRPA / CGPAT I/DINOR
+Deleg. Comp. - Port. INPI/DIRPA Nº
+003/18
+
+
+
+
+                                                                                         Página 7
+

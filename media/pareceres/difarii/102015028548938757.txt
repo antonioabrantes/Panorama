@@ -1,0 +1,221 @@
+                                SERVIÇO PÚBLICO FEDERAL
+                                 MINISTÉRIO DA ECONOMIA
+                     INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                 RELATÓRIO DE EXAME TÉCNICO
+
+N.° do Pedido:              BR102015028548-5      N.° de Depósito PCT:
+Data de Depósito:           13/11/2015
+Prioridade Unionista:       -
+Depositante:                UNIVERSIDADE DE SÃO PAULO - USP (BRSP)
+Inventor:                   ANTONIO CARLOS SEGURO, PEDRO HENRIQUE FRANÇA GOIS,
+                            MARIA HELOISA MASSOLA SHIMIZU, RILDO APARECIDO
+                            VOLPINI, DANIELE CANALE @FIG
+Título:                     Uso de alopurinol
+
+                                                 PARECER
+
+
+                            Quadro 1  Páginas do pedido examinadas
+             Elemento                    Páginas                n.o da Petição           Data
+
+Relatório Descritivo                       1-24                 860150266771           13/11/2015
+Quadro Reivindicatório                       1                  860150266771           13/11/2015
+Desenhos                                    1-6                 860150266771           13/11/2015
+Resumo                                       1                  860150266771           13/11/2015
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                   Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                         X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                 X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                           X
+O pedido está de acordo com disposto no art. 32 da LPI                            X
+Comentários/Justificativas
+
+
+
+                  Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                   Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI              X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI            X
+
+
+
+@MODELO_SISCAP@                                                                        Página 1 de 5
+                                          BR102015028548-5
+
+
+Comentários/Justificativas
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                 Documento                                Data de publicação
+    D1            Sanchis-Gomar F et al. Effects of allopurinol on exercise-       janeiro de 2015
+                induced muscle damage: new therapeutic approaches?. Cell
+                        Stress and Chaperones (2015a) 20(1): 3-13
+    D2        Sanchis-Gomar F et al. Allopurinol prevents cardiac and skeletal   Fevereiro de 2015
+              muscle damage in professional soccer players. Scand J Med Sci
+                             Sports (2015b) 25: e110e115
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade              Cumprimento                Reivindicações
+                                                      Sim                          1
+             Aplicação Industrial
+                                                      Não                           -
+                                                      Sim                          1
+                   Novidade
+                                                      Não                           -
+                                                      Sim                           -
+              Atividade Inventiva
+                                                      Não                          1
+
+
+
+Comentários/Justificativas
+          O primeiro parecer técnico concluiu que a matéria pleiteada não apresentava atividade
+inventiva (Arts. 8o e 13 da Lei 9279/96) frente a D1 e D2.
+
+          Com base em todos os argumentos apresentados pela Requerente, entende-se que as
+objeções sobre a atividade inventiva frente não foram superadas, pelos motivos discutidos a
+seguir.
+
+          O presente pedido de patente de invenção refere-se ao uso de alopurinol para a
+preparação de um medicamento para prevenir/tratar a disfunção renal aguda secundária à
+rabdomiólise.
+
+
+          Primeiramente, a Requerente destaca que nos estudos do grupo da Dra. Sanchis-Gomar
+(aqui incluídos os documentos D1 e D2), o alopurinol foi usado no contexto de uma lesão
+muscular leve e os benefícios demonstrados foram exclusivamente musculares.
+
+          Contrastando com os estudos acima, a Requerente defende que:
+
+          a) a pesquisa do presente pedido investigou os efeitos benéficos do alopurinol na lesão
+renal induzida pela rabdomiólise grave;
+
+          b) O efeito protetor do alopurinol transcende aqueles relacionados à musculatura lesada;
+
+
+                                                                                        Página 2 de 5
+                                        BR102015028548-5
+
+
+        c) uma importante proteção renal contra os efeitos da rabdomiólise através da redução
+do estresse oxidativo, da morte celular (apoptose) e da inflamação, os dois últimos efeitos
+descritos pela primeira vez na literatura médica.
+
+        d) além disso, o presente pedido também demonstrou que a proteção renal foi
+independente do efeito do alopurinol na lesão muscular;
+
+        e) quando o alopurinol foi utilizado de maneira terapêutica, isto é, após a lesão muscular
+propriamente dita, esta droga não conferiu o mesmo efeito protetor no músculo comparado ao
+alopurinol profilático;
+
+        f) portanto, os resultados do presente pedido suportam a evidência de que alopurinol
+protegeu os rins da lesão associada à rabdomiólise de forma independente da melhora no dano
+muscular.
+
+        Todavia, os argumentos apresentados acima não são convincentes. Respeitosamente,
+não é possível concordar com a Requerente pelos seguintes motivos.
+
+        Aqui, a questão mais crítica e discordante da opinião da Requerente está no fato de que
+a proteção renal promovida pelo alopurinol, seja terapêutico ou preventivo, não está
+desvinculada da ocorrência da rabdomiólise. Em outras palavras, o presente pedido não
+demonstra que esta proteção renal ocorre em outros contextos clínicos diferentes da
+rabdomiólise.
+
+        A este respeito é importante considerar que D1 concluiu que o alopurinol pode provar-se
+útil na prevenção da mioglobinúria induzida por exercício e no subsequente dano renal, além da
+destruição do músculo esquelético em doenças críticas ou em pacientes imobilizados,
+acamados, sarcopênicos ou caquéticos (página 10, último parágrafo).
+
+        Diante do exposto, D1 ensina que o uso de alopurinol é promissor na prevenção do dano
+muscular esquelético e cardíaco induzidos por exercícios desgastantes, ou seja, na rabdomiólise
+induzida por esforço físico. Portanto, como é capaz de prevenir a ocorrência da rabdomiólise, o
+tratamento prévio com alopurinol será inevitavelmente útil na ocorrência de um dano renal agudo
+secundário à rabdomiólise. Em outras palavras, como a radbomiólise será inibida ou reduzida
+pelo tratamento com alopurinol, as consequências deletérias da radbomiólise sobre a função
+renal, tal como a mioglobinúria apontada em D1, serão anuladas ou reduzidas.
+
+        Consequentemente, resta óbvio que a prevenção/tratamento da rabdomiólise pelo uso de
+alopurinol como ensinado em D1 resultará, inevitavelmente, na prevenção/tratamento da lesão
+renal, visto que esta última é uma decorrência óbvia da primeira.
+
+        O documento D2 (Sanchis-Gomar F et al, 2015b), citado no presente pedido, reforça esta
+noção. D2 revela que jogadores de futebol profissionais (um esporte que exige fortes contrações
+e que causa portanto grandes danos musculares), o tratamento com alopurinol antes do jogo
+resultou em reduzida produção de espécies reativas de oxigênio e de reduzidos níveis
+sanguíneos de biomarcadores de dano muscular circulantes (ver resumo; página 113, coluna
+direita, terceiro parágrafo).
+
+
+                                                                                     Página 3 de 5
+                                          BR102015028548-5
+
+
+       Mais adiante, a Requerente esclarece que o presente estudo foi a primeira descrição na
+literatura médica de que os cristais de ácido úrico gerados pela rabdomiólise grave podem
+induzir inflamação renal, como demonstrado na Figura 10, do artigo anexo. Esta via patogênica
+foi significativamente inibida pelo alopurinol, conferindo adicional efeito protetor. Até o presente
+momento, este efeito protetor não poderia ser, sequer especulado, pois o mecanismo acima
+citado não havia ainda sido elucidado.
+
+       A Requerente defende ainda que os seus resultados suportam a evidência de que
+alopurinol protegeu os rins da lesão associada à rabdomiólise, de forma independente da
+melhora no dano muscular, o que não fora mencionado em nenhuma das anterioridades.
+
+       As alegações acima se baseiam em dois pontos: 1) a descoberta de um novo mecanismo
+de ação, ou seja, o alopurinol inibe a formação de ácido úrico na rabdomiólise e a inflamação
+renal dela decorrente; 2) o efeito protetor do alopurinol sobre os rins é independente do dano
+muscular.
+
+       Mais uma vez, não é possível concordar com a Requerente. A descoberta de um
+mecanismo de ação do alopurinol na fisiopatologia da insuficiência renal aguda associada à
+radbomiólise, ainda que não revelado anteriormente na literatura, não confere novidade ou
+atividade inventiva a um uso já conhecido (uso do alopurinol na rabdomiólise).
+
+       Cabe repetir que D1 já sugere que o alopurinol é promissor na prevenção do dano
+muscular decorrente da rabdomiólise, bem como pode provar-se útil na prevenção do
+subsequente dano renal. (página 10, último parágrafo). Portanto, o vínculo entre um uso já
+descrito no estado da técnica (uso do alopurinol na rabdomiólise) e sua consequente proteção
+renal é evidente e inevitável.
+
+
+
+Conclusão
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não
+foram apresentados argumentos técnicos que permitam reverter o entendimento anterior, no
+primeiro parecer técnico (7.1) notificado na RPI 2485 de 21/08/2018, visto que o presente pedido
+encontra-se em desacordo com os Arts. 8o e 13 da Lei 9279/96.
+
+
+
+
+                                                                                       Página 4 de 5
+                                      BR102015028548-5
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+                                                        Rio de Janeiro, 13 de fevereiro de 2019.
+
+                                                              Publique-se o indeferimento (9.2).
+
+
+Dárcio Gomes Pereira
+Pesquisador/ Mat. Nº 1741666
+DIRPA / CGPAT I/DIFAR-II
+Deleg. Comp. - Port. INPI/DIRPA No 001/15
+
+
+
+
+                                                                                   Página 5 de 5
+

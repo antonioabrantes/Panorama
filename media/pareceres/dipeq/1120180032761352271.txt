@@ -1,0 +1,195 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR112018003276-0          N.° de Depósito PCT:US2016/047247
+ Data de Depósito:                     17/08/2016
+ Prioridade Unionista:                 US 62/207,412 (20/08/2015)
+ Depositante:                          THE LUBRIZOL CORPORATION (US)
+ Inventor:                             NGA H. NGUYEN; PETER MIATT
+ Título:                               Derivados de azol como aditivos lubrificantes 
+
+                                                                     PARECER
+
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas          n.o da Petição           Data
+
+Relatório Descritivo                                          1 a 46           870190076628           08/08/2019
+Quadro Reivindicatório                                         1a4             870200153935           07/12/2020
+Desenhos                                                        --                    --                  --
+Resumo                                                          1              870190076628           08/08/2019
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                  Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                        X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                          X
+O pedido está de acordo com disposto no art. 32 da LPI                                           X
+Comentários/Justificativas
+
+XXX
+
+                      Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                  Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                             X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                           X
+Comentários/Justificativas
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                           Página 1 de 4
+                                                         BR112018003276-0
+
+
+XXX
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                        Data de publicação
+    D1                                            WO2013123160A1                            22/08/2013
+    D2                                                US4202783A                            13/05/1980
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                     Cumprimento   Reivindicações
+                                                                           Sim           1 a 14
+             Aplicação Industrial
+                                                                          Não              --
+                                                                           Sim           1 a 14
+                     Novidade
+                                                                          Não              --
+                                                                           Sim             --
+             Atividade Inventiva
+                                                                          Não            1 a 14
+Comentários/Justificativas
+
+      Através da petição INPI-RJ nº 870200153935 de 07/12/2020, a requerente apresentou
+manifestação ao parecer de ciência em 1ª instância, notificado na RPI N° 2592, em 08/09/2020,
+apresentando nova via do quadro reivindicatório, com 14 reivindicações, em que contesta os
+critérios de não atividade inventiva, relativamente à matéria que se pleiteia proteção no presente
+pedido, frente ao quadro reivindicatório emendado, em contraste com os documentos do estado
+da técnica ora considerados ao exame técnico.
+
+      O presente pedido refere-se a uma composição lubrificante caracterizada por
+compreender:
+
+      a. um óleo de uma viscosidade lubrificante;
+
+      b. 0,05% a 0,3% em peso de um tiadiazol; e
+
+      c. 0,05% a 0,3% em peso de um aduto azol-acrilico representado pela fórmula (VI):
+
+
+
+
+      em que R6 é hidrogênio ou um grupo hidrocarbila C1-C20, R7 está ligado a um átomo de
+nitrogênio e é um grupo hidrocarbila C2-C20 linear; e R8 é um grupo hidrocarbila C1-C20 e é
+linear, ramificado, homocíclico, heterocíclico ou uma combinação destes, em que a quantidade
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                              Página 2 de 4
+                                                        BR112018003276-0
+
+agregada de tiadiazol e aduto azol-acrílico é superior a 0,30 e inferior a 1% em peso, com base
+no peso total da composição lubrificante (reivindicação 1).
+
+      Ainda, o presente pedido refere-se a um método de lubrificação de um componente de um
+trator agricola, veiculo fora-de-estrada (veiculo off-highway) ou sistema de tração, o dito método
+caracterizado por compreender colocar o dito componente em contato com a composição
+lubrificante, conforme definida em qualquer uma das reivindicações 1 a 11 (reivindicação 12); ao
+uso de um aduto azol-acrilico na composição lubrificante conforme definida em qualquer uma
+das reivindicações 1 a 11 caracterizado por ser para reduzir a corrosão em um componente de
+um trator agricola, veículo off-highway ou sistema de tração (reivindicação 13); e a um método
+para reduzir a corrosão em um componente de um trator agricola, veiculo off-highway ou
+sistema de tração caracterizado por compreender colocar o componente em contato com a
+composição lubrificante, conforme definida em qualquer uma das reivindicações 1 a 11
+(reivindicação 14).
+
+      Destaca-se das argumentações da requerente que os dados das tabelas 4 e 6 do
+presente pedido mostram que a combinação dos tiadiazóis e adutos azol-acrílicos resulta em
+desempenhos melhores do que os esperados, pois o uso de tiadiazol ou de aduto-acrílico
+sozinho não funciona tão bem quanto a sua combinação. Segundo a requerente,
+aparentemente o uso do aduto acrilico-azol por si só poderia contribuir para a corrosão do
+cobre. A Requerente ressalta que a combinação de D1 e D2 não ensina ou sugere que a
+corrosão do cobre poderia ser significativamente reduzida por meio da combinação de ambos os
+componentes versus o uso de cada um dos componentes individualmente.
+
+      As argumentações da requerente foram aceitas, mas não foram consideradas
+persuasivas pelos seguintes motivos:
+
+      Reitera-se do parecer anterior, parecer de ciência em 1ª instância, notificado na RPI N°
+2592, em 08/09/2020, que D1 revela uma composição de óleo lubrificante compreendendo os
+derivados azo-acrílicos das reivindicações que se pleiteia proteção no presente pedido,
+compreendendo ainda aditivos convencionais, tais como compostos anti-desgaste e compostos
+antioxidantes. D1 ensina, de forma semelhante, lubrificantes com produtos de reação
+semelhantes de compostos azólicos e acrílicos. D1 ensina, ainda, que a composição pode
+compreender aditivos convencionais, tais como desativadores de metal (D1, [0055]), em que
+desativadores de metal bem conhecidos incluem tiadiazol e, portanto, seu uso em tal
+composição com os adutos de azol-acrílico teria sido óbvio e evidente para um técnico no
+assunto, considerando-se, ainda, que tal emprego, em quantidades específicas em faixas ideais,
+seria resultado de um esforço de experimentação não inventiva, de maneira arbitrária e
+totalmente compreendida dentro dos conhecimentos de rotina de uma técnico no assunto.
+Assim, o problema de se apresentar uma composição lubrificante alternativa que compreenda
+faixas específicas de um tiadiazol e de um aduto de azol-acrílico já está solucionado em vista da
+divulgação de D1, pois a consequente otimização a uma faixa de seleção de concentração aos
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                  Página 3 de 4
+                                                          BR112018003276-0
+
+componentes não pode ser considerado como uma passo inventivo, já que D1 ensina que
+aditivos convencionais, como desativadores de metal, podem ser usados em combinação com o
+produto de reação.
+
+      D1 também ensina que tal composição é útil como fluidos de transmissão em
+engrenagens, transmissões automáticas e manuais, embreagem dupla, eixo, óleos hidráulicos,
+etc. e, assim, fornece os métodos de lubrificação de um motor e, ainda, a redução da corrosão
+quando o fluido é aplicado a tais componentes (D1, [0110-0112]). Ainda, D1 ensina que a dita
+composição é útil para lubrificar transmissões, sistemas hidráulicos, etc. e assim teria sido útil
+para lubrificar tais componentes em tratores ou veículos fora de estrada.
+
+      Por fim, as observação quanto ao exame técnico frente ao documento D2 são reiteradas,
+estando explícitas no parecer anterior, parecer de ciência em 1ª instância, notificado na RPI N°
+2592, em 08/09/2020.
+
+Conclusão
+
+      Conclui-se que os argumentos apresentados pela requerente foram aceitos, mas NÃO
+foram considerados persuasivos. Sobre tal, conclui-se, frente aos documentos do estado da
+técnica ora considerados ao presente exame técnico, que a matéria que se pleiteia proteção nas
+reivindicações 1 a 14 NÃO apresenta atividade inventiva, descumprindo o disposto nos artigos
+8°, 11 e 13 da LPI.
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da
+             LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a
+partir da data de publicação na RPI, para interposição de recurso.
+
+
+                                                                             Rio de Janeiro, 15 de janeiro de 2021.
+
+
+
+                                                                                 Publique-se o indeferimento (9.2).
+
+
+
+Josias Azeredo Barbosa
+Pesquisador/ Mat. Nº 1882823
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº
+003/14
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                Página 4 de 4
+

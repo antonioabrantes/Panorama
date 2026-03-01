@@ -1,0 +1,394 @@
+                              SERVIÇO PÚBLICO FEDERAL
+                               MINISTÉRIO DA ECONOMIA
+                   INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+N.° do Pedido:              BR112013003350-9          N.° de Depósito PCT: US2011/047243
+                                                      (10/08/2011)
+
+                        Publicação Nacional:   Publicação Internacional: WO 2012/021613
+                        12/07/2016 (RPI 2375) (16/02/2012)
+Data de Depósito (PCT): 10/08/2011
+Prioridade Unionista:   US 12/856,344 (13/08/2010)
+Depositante:            BLACKBERRY LIMITED (CA)
+Inventor(es):           Takashi Suzuki (JP), Zhijun Cai (US), Jun Li (US), Dinesh Kumar
+                        Arora (IN)
+Título:                 Métodos e aparelhos para limitar relatório de medições de célula
+                        vizinha..
+
+                                PARECER DE EXAME TÉCNICO
+
+
+
+       O presente pedido de Patente de Invenção (PI), refere-se a métodos e dispositivos para
+limitar relatório de medições de célula vizinha são divulgados.
+
+
+
+       Para realização industrial do reivindicado como inventivo no presente pedido de PI, um
+método de exemplo aqui descrito para um dispositivo sem fio para realizar medições em uma
+rede de comunicação móvel compreende receber informação de configuração para medições
+piloto de enlace descendente periódicas a serem realizadas pelo dispositivo sem fio, a
+informação de configuração incluindo um limite superior para um número de células vizinhas
+para as quais periódica medições piloto de enlace descendente são permitidas a serem
+relatadas, e realizar as medições piloto de enlace descendente periódicas de acordo com a
+informação de configuração.
+
+
+
+       Em 17/08/2021, foi publicada através da RPI Nº 2641, notificação de emissão de parecer
+técnico relativo ao pedido de Patente de Invenção (PI), referente a Ciência de Parecer (7.1),
+decorrendo a partir daquela data o prazo de 90 (noventa) dias para manifestação da Requerente
+quanto ao contido no citado parecer técnico.
+
+
+
+       Em 10/04/2013, 17/08/2020 e 16/11/2021, através das Petições 020130030440/RJ e
+870200102889/RJ e 870210105627/RJ, a Requerente apresenta os documentos listados no
+Quadro 1, a seguir, e solicita alteração do título do presente pedido para: MÉTODO PARA UM
+
+
+
+                                                                                                    1
+                                          BR112013003350-9
+
+
+DISPOSITIVO SEM FIO PARA REALIZAR MEDIÇÕES EM UMA REDE DE COMUNICAÇÃO
+MÓVEL E MEIO LEGÍVEL POR COMPUTADOR..
+
+                            Quadro 1  Páginas do pedido examinadas
+            Elemento                     Páginas               N.o da Petição           Data
+
+Relatório Descritivo (RD): com        13/60  48/60           870200102889/RJ         17/08/2020
+36 (Trinta e seis) folhas,
+numerada como 01/36 
+36/36.
+Quadro Reivindicatório (QR):          12/15  15/15           870210105627/RJ         16/11/2021
+com 04 (Quatro) folhas,
+apresentando    07     (Sete)
+reivindicações.
+Desenhos (D´s): com 06 (Seis)         89/95  94/95           020130030440/RJ         10/04/2013
+folhas, apresentando 07 (Sete)
+figuras, numeradas de: Fig. 01
+ Fig. 07.
+Resumo (R): com 01 (Uma)                  53/60               870200102889/RJ         17/08/2020
+folha.
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                  Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                        X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                          X
+O pedido está de acordo com disposto no art. 32 da LPI                           X
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                  Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI             X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI           X
+Comentários/Justificativas
+
+
+        Em pesquisas realizadas em bases de dados de documentos de (e pedidos de) patentes e
+em literatura não patentaria, de acordo com os critérios publicados em 19/05/2020, através da
+RPI 2576, foi encontrado o seguinte documento capaz de indicar arranjos técnicos funcionais
+semelhantes aos pleiteados no QR do presente pedido:
+
+
+
+
+                                                                                                   2
+                                      BR112013003350-9
+
+
+                         Quadro 4  Documentos citados no parecer
+
+ Código                              Documento                             Data de publicação
+(Relevân
+  cia)
+    D1            US2010190488 (A1) (LG ELECTRONICS INC[KR])                  29/07/2010
+Comentários/Justificativas
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15, da LPI)
+     Requisito de Patenteabilidade           Cumprimento               Reivindicações
+                                                  Sim                      01  07
+            Aplicação Industrial
+                                                  Não                         
+
+                                                  Sim                      01  07
+                 Novidade
+                                                  Não                         
+
+                                                  Sim                         
+            Atividade Inventiva
+                                                  Não                      01  07
+
+Comentários/Justificativas
+
+
+
+         Através da análise do QR do presente pedido, apresentado em 17/08/2020, através da
+Petição 870200102889/RJ, e mais especificamente suas Reivindicação Independente do
+Presente Pedido (RI**pp), que é a RI01pp (Método ), quando confrontada com o documento
+D1, constatamos que tanto a parte não caracterizante do pedido sob exame, quanto a parte
+caracterizante, encontram-se contempladas naquele documento, como vimos a seguir.
+
+         Através das Reivindicação Independente 01, do presente pedido, (RI01pp), a
+Requerente reivindica:
+
+         RI01pp. Método para um dispositivo sem fio (105) para realizar medições em uma
+rede de comunicação móvel (100), o método caracterizado pelo fato de que compreende:
+         ETAPA01: receber informação de configuração para medições piloto de enlace
+descendente periódicas a serem realizadas pelo dispositivo sem fio, a informação de
+configuração incluindo um limite superior para um número de células vizinhas (115, 120,
+125) para as quais medições piloto de enlace descendente periódicas são permitidas a serem
+relatadas, em que o limite é um primeiro limite superior para um primeiro número de células
+vizinhas, entre todas as camadas de prioridade absoluta tendo prioridade mais elevada do que
+uma camada de prioridade absoluta de uma célula servindo do dispositivo sem fio, para as quais
+medições piloto de enlace descendente periódicas são permitidas a serem relatadas, e em que a
+informação de configuração inclui ainda:
+         ETAPA02: um segundo limite superior em um segundo número de células vizinhas,
+entre todas as camadas de prioridade absoluta com prioridade mais baixa do que a camada de
+
+
+                                                                                                 3
+                                                BR112013003350-9
+
+
+prioridade absoluta da célula servindo do dispositivo sem fio, para as quais as medições piloto
+de enlace descendente periódicas são permitidas a serem relatadas; e
+         ETAPA03: um terceiro limite superior para um terceiro número de células vizinhas,
+entre todas as camadas de prioridade absoluta tendo prioridade igual à camada de prioridade
+absoluta da célula servindo do dispositivo sem fio, para as quais as medições piloto de enlace
+descendente periódicas são permitidas a serem relatadas; e o método ainda compreende:
+         ETAPA04: realização das medições piloto de enlace descendente periódicas de
+acordo com a informação de configuração.
+
+
+       No que se refere a sua manifestação, de 16/11/2021, através da Petição
+870210105627/RJ, a Requerente entende que o documento D1, não contempla o reivindicado no
+presente pedido, pois:
+          As reivindicações foram emendadas para definir melhor e com maior precisão a matéria reivindicada, com
+base na reivindicação 1 das patentes correspondentes US9161245B2 e US8553563B2. Especificamente, as
+reivindicações independentes 1 e 6 do presente pedido foram emendadas para incluir a etapa de "armazenar, no
+dispositivo sem fio, as medições piloto de enlace descendente periódicas de acordo com a informação de
+configuração".
+         Além disso, as reivindicações 1 e 6 também foram emendadas para definir melhor que "medições piloto de
+enlace descendente periódicas a serem realizadas e armazenadas pelo dispositivo sem fio" e "medições piloto de
+enlace descendente periódicas estão permitidas a serem armazenadas e relatadas".
+         A reivindicação 1 foi emendada para definir que o dispositivo sem fio realiza medições de células vizinhas.
+         A presente invenção se refere a um método para um dispositivo sem fio, em que a informação de configuração
+para medições piloto de enlace descendente periódicas recebidas no dispositivo sem fio inclui um primeiro limite
+superior em um primeiro número de células vizinhas, um segundo limite superior em um segundo número de células
+vizinhas e um terceiro limite superior em um terceiro número de células vizinhas.
+         Adicionalmente, o primeiro, o segundo e o terceiro limites superiores referem-se a células entre todas as
+camadas de prioridade absoluta com prioridade mais elevada, mais baixa e igual, respectivamente, do que uma camada
+de prioridade absoluta de uma célula servindo do dispositivo sem fio, para as quais as medições piloto de enlace
+descendente periódicas são permitidas a serem armazenadas e relatadas.
+         Particularmente, no método da reivindicação 1 do presente pedido, a informação de configuração está
+associada com números de células vizinhas para as quais medições piloto de enlace descendente periódicas são
+permitidas a serem armazenadas e relatadas. Conforme estabelecido no método da reivindicação 1 do presente pedido,
+a informação de configuração inclui:
+                  um primeiro limite superior em um primeiro número de células vizinhas;
+                  um segundo limite superior em um segundo número de células vizinhas; e
+                  um terceiro limite superior em um terceiro número de células vizinhas.
+          alegou que a etapa de agregar pelo menos duas ou mais medições de ambiente de rádio armazenadas da
+reivindicação 1 de D1 significaria atingir dois ou mais limites de número de células vizinhas.
+         Além disso,  considerou que tal etapa da reivindicação 1 de D1 contemplaria as seguintes características das
+etapas 02 e 03 (conforme nomeado pelo Examinador) da reivindicação 1 do presente pedido:
+                  " em que a informação de configuração inclui ainda:
+                           - um segundo limite superior em um segundo número de células vizinhas, entre todas as
+camadas de prioridade absoluta com prioridade mais baixa do que a camada de prioridade absoluta da célula servindo
+do dispositivo sem fio, para as quais as medições piloto de enlace descendente periódicas são permitidas a serem
+relatadas; e
+
+
+
+
+                                                                                                                       4
+                                                  BR112013003350-9
+
+                   - um terceiro limite superior para um terceiro número de células vizinhas, entre todas as camadas de
+prioridade absoluta tendo prioridade igual à camada de prioridade absoluta da célula servindo do dispositivo sem fio,
+para as quais as medições piloto de enlace descendente periódicas são permitidas a serem relatadas.
+        A este respeito, a Requerente discorda respeitosamente da avaliação acima mencionada d... de que a etapa
+de "agregação" da reivindicação 1 de D1 antecipa que a informação de configuração inclui um segundo limite superior
+em um segundo número de células vizinhas e um terceiro limite superior em um terceiro número de células vizinhas,
+como definido na reivindicação 1 do presente pedido.
+        Em primeiro lugar, observa-se que D1 define no parágrafo [0113] que:
+        ... o parâmetro recebido indica um número total de medições que devem ser realizadas por um terminal, a
+condição certa é atendida quando um número total de etapas de medição realizadas pelo terminal é igual ao número
+total de medições indicadas no parâmetro recebido.
+        Portanto, D1 apenas definiu que o parâmetro está associado a um número total de medições que devem ser
+realizadas.
+        No entanto, D1 não ensina ou sugere que seu parâmetro é uma informação de configuração associada a três
+números separados de células vizinhas, isto é, o primeiro número, o segundo número e o terceiro número, conforme
+definido na reivindicação 1 do presente pedido.
+        Além disso, não há menção em D1 de um primeiro, segundo e terceiro limites superiores em relação às
+camadas de prioridade absoluta com prioridade mais elevada, mais baixa e igual, respectivamente, do que uma camada
+de prioridade absoluta de uma célula servindo do dispositivo sem fio, conforme especificado em reivindicação 1 do
+presente pedido.
+        ... também indicou o parágrafo [0085] de D1, que é reproduzido a seguir para consulta imediata, alegando que
+tal parágrafo se antecipa às etapas 02 e 03 da reivindicação 1 do presente pedido.
+        [0085] Como mostrado na FIG. 13, se um número de relatórios de medição suprimidos atingir um número
+limite (ou seja, N = 4) definido por uma rede, um terminal pode mudar seu modo de um RRC inativo para um RRC
+conectado e, em seguida, pode transmitir um relatório de medição agregado para o rede. Mais especificamente, em
+primeiro lugar, a rede (estação base) pode definir o valor N como 4 e, em seguida, pode transmitir este valor N para o
+terminal através de uma sinalização de difusão e / ou uma sinalização dedicada. Depois disso, o terminal pode realizar
+um procedimento de medição no modo RRC inativo. Então, o terminal pode contar um número de relatórios de medição
+suprimidos. Se o número contado de relatórios de medição suprimidos for igual ao valor limite (N), o terminal pode
+transmitir uma solicitação de configuração de conexão RRC para a rede a fim de estabelecer a conexão RRC. Após a
+conexão RRC ser estabelecida e quaisquer configurações necessárias (por exemplo, segurança) entre o terminal e a
+rede serem concluídas, o terminal pode transmitir a mensagem de relatório de medição agregada para a rede.
+        É claramente observado que D1 não revela ou sugere informação de configuração que está associada a
+números de células vizinhas, em que o número de células vizinhas inclui um primeiro número de células vizinhas para
+as quais medições piloto de enlace descendente periódicas são permitidas a serem armazenadas e relatadas, e a
+informação de configuração é ainda associada a um segundo número de células vizinhas para as quais medições piloto
+de enlace descendente periódicas são permitidas a serem relatadas, e um terceiro número de células vizinhas para as
+quais medições piloto de enlace descendente periódicas são permitidas a serem relatadas.
+        Portanto, a reivindicação 1 e a reivindicação 6 do presente pedido são novas e dotadas de atividade inventiva
+em vista de D1.
+        Por fim, fica claro que a presente invenção possui características distintas, não é óbvia e, portanto, apresenta
+os requisitos de novidade e atividade inventiva à luz dos ensinamentos divulgados em D1, atendendo plenamente aos
+requisitos de patenteabilidade estabelecidos nos Artigos 8º, 11 e 13 da LPI.. 
+
+
+
+        Ainda na sua manifestação, de 16/11/2021, através da Petição 870210105627/RJ, a
+Requerente REapresenta o QR, 17/08/2020, através da Petição 870200102889/RJ, com uma RI,
+a saber: RI01pp (Método) para um dispositivo sem fio (105) para realizar medições em uma
+
+
+
+                                                                                                                       5
+                                      BR112013003350-9
+
+
+rede de comunicação móvel (100), com as mesmas ETAPA01 a ETAPA04, acrescentando
+uma ETAPA05, como segue:
+       RI01pp_NEW. Método para um dispositivo sem fio (105) para realizar medições em
+uma rede de comunicação móvel (100), o método caracterizado pelo fato de que
+compreende:
+       ETAPA01_NEW:       receber informação de configuração para medições piloto de
+enlace descendente periódicas a serem realizadas pelo dispositivo sem fio, a informação de
+configuração incluindo um limite superior para um número de células vizinhas (115, 120,
+125) para as quais medições piloto de enlace descendente periódicas são permitidas a serem
+relatadas, em que o limite é um primeiro limite superior para um primeiro número de células
+vizinhas, entre todas as camadas de prioridade absoluta tendo prioridade mais elevada do que
+uma camada de prioridade absoluta de uma célula servindo do dispositivo sem fio, para as quais
+medições piloto de enlace descendente periódicas são permitidas a serem armazenadas e
+relatadas, e em que a informação de configuração inclui ainda:
+       ETAPA02: idem anterior; e
+       ETAPA03: idem anterior:
+       ETAPA04: idem anterior; e
+       ETAPA05: armazenar, no dispositivo sem fio, as medições piloto de enlace descendente
+periódicas de acordo com a informação de configuração.
+
+
+        Face ao disposto acima, e às argumentações da Requerente de 16/11/2021, através da
+Petição 870210105627/RJ, voltamos a sustentar QUE o documento de anterioridade (D1)
+(US2010190488 (A1) (LG ELECTRONICS INC[KR])), ensina tanto através da sua
+Reivindicação Independente (RI) 01, aqui chamada de RI01_D1, juntamente com sua
+respectiva Reivindicação Dependente 04 (RDp04_D1), quanto através do seu relatório
+descritivo, conforme explicado nos parágrafos [0084] e [0085], dispostos na Coluna 02, página
+20/23, de D5, e Fig. 13, de D1, incluindo, na sua RI01_D1, um método para realizar um
+relatório de medição em sistema de comunicação sem fio, que recebe, de uma rede, um
+parâmetro indicando uma configuração de relatório de medição, visando medir um ambiente
+de rádio após receber o parâmetro, em que o ambiente de rádio medido ainda não foi relatado
+para a rede; e, em adição, armazena a medição do ambiente de rádio, contemplando a
+ETAPA05, da RI01pp_NEW. Após isto, o sistema processado pelo método, da RI01_D1,
+executa repetidamente, ou seja, periódicamente, as etapas de medição e armazenamento
+até que uma determinada condição (ou limite) seja atendida(o); contemplando as
+ETAPA01_NEW e ETAPA05, da RI01pp_NEW.
+       Destacamos mais uma vez que o sistema processado pelo método, da RI01_D1,
+agrega pelo menos duas ou mais medições (atingindo dois ou mais limites de número de
+células vizinhas) de ambiente de rádio armazenadas, contemplando as ETAPA02, ETAPA03
+e ETAPA05, da RI01pp_NEW, e termina relatando as medições agregadas do ambiente de
+rádio para a rede. Em adição, frisamos, mais uma vez, que na RDp04_D1, juntamente com a
+RI01_D1, temos que o parâmetro que indica a configuração do relatório de medição é
+recebido da rede periodicamente ou não periodicamente, contemplando a ETAPA04, da
+RI01pp_NEW.
+
+
+                                                                                                 6
+                                     BR112013003350-9
+
+
+      Ressaltamos novamente que, em relação à Fig. 13, de D1, temos que uma série de
+relatórios de medição suprimidos atingir um número limite (ou seja, N = 4) definido por uma
+rede, contemplando as ETAPAS 02 e 03, da RI01pp_NEW, de tal modo que um terminal pode
+mudar seu modo de um RRC inativo para um RRC conectado e, em seguida, pode transmitir
+um relatório de medição agregado para a rede. Destaque deve ser feito para o fato de que,
+prioritariamente, a rede (estação base) pode definir o valor N como 4 e, em seguida, pode
+transmitir este valor N para o terminal através de uma sinalização de difusão e / ou uma
+sinalização dedicada. Após isto, o terminal pode realizar um procedimento de medição no
+modo inativo RRC e então, o terminal pode contabilizar uma série de relatórios de medição
+suprimidos. Por fim, se o número contado de relatórios de medição suprimidos for igual ao
+valor limite (N), o terminal pode transmitir uma solicitação de configuração de conexão
+RRC para a rede a fim de estabelecer a conexão RRC, contemplando as ETAPAS01_NEW e
+ETAPA04, da RI01pp_NEW. Assim, e após este último procedimento, isto é, após a conexão
+RRC ser estabelecida e quaisquer configurações necessárias (por exemplo, segurança) entre o
+terminal e a rede serem concluídas, o terminal pode transmitir a mensagem de relatório de
+medição agregada para a rede. Ainda, nas Fig. 10 e Fig. 11, de D1, descritas nos Parágrafos
+[0079] a [0081], temos que, naquele documento D1, o terminal pode armazenar (ou registrar)
+os relatórios de medição. Sendo que o terminal geralmente armazena o relatório de medição
+em ordem sequencial e o terminal também pode armazenar apenas o número N dos
+relatórios de medição realizados mais recentemente, contemplando a ETAPA05, da
+RI01pp_NEW.
+
+
+
+      Desta forma, a matéria reivindicada através da reivindicações            independentes
+RI01pp_New e RI06pp do presente pedido, encontra-se totalmente absorvida por D1.
+
+
+
+      Quanto às demais reivindicações, as mesmas também não são válidas por serem
+dependentes das reivindicações independentes contestadas acima
+
+
+
+Conclusão
+       Sendo assim, face ao exposto, considerando o QR da forma apresentada, somos de
+opinião que o presente pedido carece de atividade inventiva por ser mera decorrência do estado
+da técnica, representado por D1, não possuindo, pois, condições de patenteabilidade.
+
+
+       Face às conclusões a que se chegou o Exame Técnico, de acordo com o Art. 37, baseado
+no Art. 8º, combinado com o Art. 13, da LPI, INDEFIRO o presente pedido como PATENTE DE
+INVENÇÃO.
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+                                                                                               7
+                 BR112013003350-9
+
+
+
+
+                                          Publique-se o indeferimento (9.2)
+
+
+                                 Rio de Janeiro, 03 de Dezembro de 2021.
+
+
+               Edson Ferreira Suisso
+Pesquisador em Propriedade Industrial / Mat. Nº 1548985
+     Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+       DIRPA / CGPAT III / DIPAT XV (DIPEQ)
+
+
+
+
+                                                                          8
+

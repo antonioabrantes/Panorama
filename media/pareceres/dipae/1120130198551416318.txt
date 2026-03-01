@@ -1,0 +1,549 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112013019855-9          N.° de Depósito PCT: BR2011/000017
+ Data de Depósito:                   04/02/2011
+ Prioridade Unionista:               -
+ Depositante:                        CARLOS AKIO YAMAGUCHI (BRSP) , ROBERTO HERMÍNIO
+                                     MORETTI (BRSP)
+ Inventor:                           CARLOS AKIO YAMAGUCHI, ROBERTO HERMÍNIO MORETTI
+ Título:                             Processo de preparo de café por via úmida com extração de suco de
+                                     café antes da secagem 
+
+                                                              PARECER
+
+
+          Este pedido de Patente de Invenção trata na realidade de um processo obtenção de álcool
+combustível e um processo de obtenção de xarope de café, utilizando, respectivamente, a borra
+de café e o suco de café, obtidos do processamento de café cereja descascado por via úmida
+com extração de café antes da secagem. No caso, o processo de obtenção de álcool combustível
+compreende a fermentação e a destilação da borra de café; enquanto que o processo para
+produzir xarope de café compreende a clarificação, a filtração (opcional) e a concentração do suco
+de café.
+          Por meio da petição 870200143709 de 13/11/2020, o Depositante apresentou
+argumentações no pedido em resposta ao parecer emitido no âmbito da Resolução Nº 241/2019,
+notificado na RPI 2589 de 18/08/2020, segundo a exigência preliminar (6.21).
+          O pedido foi submetido à Exame Técnico e recebeu parecer de Ciência, notificado pela
+RPI 2613 de 02/02/2021.
+          O requerente se manifestou ao parecer desfavorável, mediante petição 870210040192 de
+03/05/2021, em que apresentou MANIFESTAÇÃO AO PARECER TÉCNICO e novas vias do
+quadro reivindicatório.
+          Os comentários a seguir estão baseados:
+         na Lei da Propriedade Industrial (LPI) - Lei nº 9.279, de 14 de maio de 1996;
+         na PORTARIA /INPI / DIRPA Nº 01 de 07/01/2021 (PORT 01/2021), publicada na RPI 2611
+          de 19/01/2021, que estabelece procedimentos para a elaboração dos pareceres das
+          exigências preliminares 6.21 e 6.22 e estabelece procedimentos para o primeiro exame
+          técnico do pedido de patente de invenção após as exigências preliminares (6.21) e (6.22) e
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                 Página 1 de 11
+                                              BR112013019855-9
+
+        após a exigência de pré-exame (6.20), que for realizado na vigência da Resolução
+        241/2019 (6.21);
+       na Instrução Normativa PR nº 030/2013 de 04/12/2013 (IN 30/2013), publicada na RPI
+        2241 de 17/12/2013, que dispõe sobre estabelecimento de normas gerais de
+        procedimentos para explicitar e cumprir dispositivos da Lei de Propriedade Industrial - Lei
+        n° 9279, de 14 de maio de 1996, no que se refere às especificações dos pedidos de
+        patente;
+       na Resolução nº 124/2013 de 04/12/2013 (Resol. 124/2013), publicada na RPI 2241 de
+        17/12/2013, que institui as diretrizes de exame de pedidos de patente  Conteúdo do
+        Pedido de Patente.
+
+
+  Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                 Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida                     x
+
+O pedido refere-se a Sequências Biológicas                                                          x
+
+Comentários/Justificativas
+        O INPI emitiu a exigência de código 6.6.1 na RPI nº 2466 de 10/04/2018, para fins de
+manifestação do depositante quanto à ocorrência de acesso ao Patrimônio Genético nacional e/
+ou Conhecimento Tradicional Associado para obtenção do objeto do presente pedido. Não tendo
+havido manifestação do depositante no prazo de 60 (sessenta) dias contados a partir da
+publicação na RPI, o INPI deu prosseguimento ao exame técnico com o entendimento de que
+não houve acesso ao patrimônio genético nacional e/ou conhecimento tradicional associado,
+conforme consta no texto do despacho de código 6.6.1 publicado na RPI, de acordo com
+entendimento firmado pela Procuradoria Federal Especializada junto ao INPI (PFE-INPI) no
+Parecer nº 00001/2018/PROCGAB/PFE-INPI/PGF/AGU (Processo INPI nº 52400.002142/2018-
+30), publicado nas RPIs nº 2465 (03/04/2018), 2466 (10/04/2018) e 2467 (17/04/2018), ao qual
+foi atribuído caráter normativo na RPI nº 2485 de 21/08/2018.
+
+
+
+                              Quadro 1  Páginas do pedido examinadas
+            Elemento                        Páginas                 n.o da Petição       Data
+Relatório Descritivo                          1a8               NPWB 860130000823      02/08/2013
+Listagem de sequências em
+                                                ---                       ---              ---
+formato impresso
+Listagem de sequências                          ---                       ---              ---
+Quadro Reivindicatório                        1e2                    870210040192      03/05/2021
+Desenhos                                      1e2               NPWB 860130000823      02/08/2013
+Resumo                                        1e2               NPWB 860130000823      02/08/2013
+
+
+
+                                                                                       Página 2 de 11
+                                         BR112013019855-9
+
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                         Sim                Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                        x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                    x
+O pedido está de acordo com disposto no art. 32 da LPI                   x
+Comentários/Justificativas
+
+       O requerente não concorda com a alegada falta de unidade de invenção do pedido, e o
+não atnedimento ao art. 22 da LPI (O pedido de patente de invenção terá de se referir a uma
+única invenção ou a um grupo de invenções inter-relacionadas de maneira a compreenderem
+um único conceito inventivo), alegando que:
+
+       () o processo tem duas etapas, porém o objetivo principal é o preparo de café por via
+       úmida com extração de suco de café antes da secagem, e não a extração de álcool
+       combustível. Álcool é uma consequência do processo (penúltimo parágrafo da p. 24/26
+       da manifestação do requerente).
+
+       Muito embora o requerente alegue que o objetivo principal do processo pleiteado seja o
+preparo de café por via úmida, um técnico no assunto entenderia que é necessária a
+fermentação com Saccharomyces cerevisiae da borra resultante da extração do suco do grão de
+café por prensagem para transformar os açúcares presentes na borra em álcool etílico e CO2, de
+forma que o álcool não pode ser considerado como consequência do processo. Ao contrário,
+para se obter o álcool da borra, dispõe-se da etapa adicional de fermentação com
+Saccharomyces cerevisiae, seguida de destilação, como o próprio requerente demonstra
+entender ao afirmar que o processo tem duas etapas.
+
+       Dessa forma, mantém-se opinião do parecer anterior, quanto à presença dos seguintes
+conceitos inventivos no presente pedido, o que não está de acordo com o art. 22 da LPI:
+
+        conceito inventivo 1: utilização da borra de café, resultante da extração do suco de
+café antes da secagem, para produzir álcool (trecho borra resultante da centrifugação ou
+decantação pode ser fermentada com Saccharomyces cerevisiae, para transformar os açúcares
+em álcool etilico e CO2; o álcool será destilado após a fermentação, numa concentração de 30 a
+70%; o destilado poderá ser retificado até a concentração de 96% da reivindicação 3).
+
+        conceito inventivo 2: utilização do suco de café extraído antes da secagem para
+produzir xarope de café, através de clarificação, filtração e concentração (trechos donde esse
+suco clarificado será opcionalmente filtrado num filtro com terra diatomácea e em seguida
+concentrado à vácuo ou a pressão atmosférica em evaporador até a concentração de 72º Brix a
+
+
+
+                                                                                  Página 3 de 11
+                                           BR112013019855-9
+
+74º Brix e o suco clarificado concentrado é um xarope com mais de 65% de açúcares que
+pode substituir o açúcar sacarose para adoçar o próprio café ou outros produtos da
+reivindicação 3).
+
+       No caso, as matérias das reivindicações 1 e 2, que estão relacionadas à obtenção do
+suco de café antes de ser separado da borra, e o trecho o suco da prensa ou centrífuga ou
+despolpador irá para um decantador contínuo que irá separar um suco clarificado de uma borra,
+ou uma centrífuga que também irá separar um suco clarificado de uma borra da reivindicação 3
+são comuns para ambos os conceitos inventivos. Sendo assim, o fato de as antigas
+reivindicações independentes 2 e 3 terem se tornado reivindicações dependentes da
+reivindicação 1 no novo quadro reivindicatório não amplia o escopo de proteção e não colide
+com o disposto no art. 32 da LPI, cuja redação é:
+
+       Para melhor esclarecer ou definir o pedido de patente, o depositante poderá efetuar
+       alterações até o requerimento do exame, desde que estas se limitem à matéria
+       inicialmente revelada no pedido.
+
+       Apesar da falta de unidade de invenção da matéria pleiteada, colidindo com o art. 22 da
+LPI, foi emitida opinião sobre a patenteabilidade do pedido para ambos os conceitos inventivos,
+conforme Comentários/Justificativas do Quadro 5 deste documento, pois foi observado que os
+documentos de anterioridade citados para emissão do IPER do WO2012/103607 estavam
+relacionados aos dois conceitos inventivos, detectados no pedido.
+
+
+
+                  Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                   x
+Comentários/Justificativas
+
+       O uso de parênteses presentes nos trechos café cereja rompido (polpa com pergaminho
+ou separadamente) (antigas reiv. 1, 2); hidróxido de cálcio (cal hidratada) (antiga reiv. 1);
+resultando numa bebida (café)" e xarope de MAPLE (MAPLE SYRUP) (antiga reiv. 3) foi
+eliminado no novo quadro reivindicatório, corrigindo a irregularidade citada no 2º item da p. 5/10
+do parecer anterior, frente ao art. 25 da LPI.
+
+       Porém, permanecem as seguintes irregularidades no novo quadro reivindicatório, frente ao
+art. 25 da LPI:
+
+      apesar do requerente alegar no penúltimo parágrafo da p. 24/26 de sua manifestação que
+       o objetivo principal [do processo pleiteado] é o preparo de café por via úmida com
+       extração de suco de café antes da secagem, foram mantidos no quadro reivindicatório os
+       trechos relacionados à obtenção de álcool combustível, compreendendo a fermentação
+
+
+                                                                                   Página 4 de 11
+                                     BR112013019855-9
+
+    e a destilação da borra de café (trecho a borra resultante da centrifugação ou decantação
+    pode ser fermentada com Saccharomyces cerevisiae, para transformar os açúcares em
+    álcool etilico e CO2; o álcool será destilado após a fermentação, numa concentração de 30
+    a 70%; o destilado poderá ser retificado até a concentração de 96% da reivindicação 3) e
+    à produção de xarope de café, compreendendo a clarificação, a filtração (opcional) e a
+    concentração do suco de café (trechos suco clarificado será opcionalmente filtrado num
+    filtro com terra diatomácea e em seguida concentrado à vácuo ou a pressão atmosférica
+    em evaporador até a concentração de 72° Brix a 74° Brix e o suco clarificado
+    concentrado é um xarope com mais de 65% de açúcares que pode substituir o açúcar
+    sacarose para adoçar o próprio café ou outros produtos da reivindicação 3), que não se
+    tratam dos produtos obtidos pelo processo de preparo de café por via úmida com extração
+    de suco de café antes da secagem e, além de não comporem o mesmo conceito inventivo
+    (vide Comentários/Justificativas do Quadro 2 deste documento), não definem clara e
+    precisamente a matéria a ser protegida, contrariando o art. 25 da LPI;
+
+   a matéria pleiteada na reivindicação dependente 2 deveria compor a reivindicação
+    independente 1, a fim de cumprir com o item II do art. 5º da IN 30/2013 e com o art. 25 da
+    LPI. Isso porque tal matéria está relacionada à separação do suco de café em uma prensa,
+    centrífuga ou despolpador e obtenção do café prensado ou centrifugado ou despolpado
+    seco até 10-11% de umidade (caminho 1) ou a separação do café pergaminho da polpa,
+    seguido de prensagem ou centrifugação ou despolpagem da polpa, para a obtenção do
+    suco de café (caminho 2), que são etapas essenciais do processo para a obtenção do
+    suco de café, pleiteado na reivindicação 1;
+
+   as reivindicações 1 e 2 não apresentam ponto final ao término de suas respectivas
+    matérias pleiteadas, o que não define clara e precisamente a matéria a ser protegida,
+    contrariando o art. 25 da LPI;
+
+   o trecho impreciso e contrário ao art. 25 da LPI e/ou quaisquer outros álcalis ou sais de
+    cálcio ou magnésio e/ou pectinase foi mantido na nova reivindicação 1;
+
+   foram mantidos os trechos o que reduzirá em muito o tempo de secagem do café
+    prensado em relação ao café cereja integral, resultando numa bebida de café muito
+    superior a normal e que pode substituir o açúcar sacarose para adoçar o próprio café ou
+    outros produtos na nova reivindicação 3, que definem a matéria pleiteada em termos do
+    resultado atingido e não podem ser aceitos, de acordo com o item 3.52 da Resol.
+    124/2013, que diz: Como regra geral, reivindicações que definem a invenção por meio do
+    resultado a ser atingido não devem ser permitidas, em particular se elas se referem tão
+    somente a reivindicar o problema técnico envolvido (...), e com o art. 25 da LPI por não
+    definir clara e precisamente a matéria a ser protegida.
+
+
+
+
+                                                                               Página 5 de 11
+                                         BR112013019855-9
+
+         Quanto à patenteabilidade do pedido, faz-se menção aos Quadros 4 e 5 deste documento.
+
+                          Quadro 4  Documentos citados no parecer*
+
+ Código                                Documento                                 Data de publicação
+    D1       ROLZ, C. ET AL., "Pressing coffee pulp", AGRICULTURAL                       1980
+             WASTES, (1980), vol. 2, no. 3, pages 207  214.
+    D2       ROLZ, C ET AL., "Biotechnology in washed coffee processing",                1982
+             PROCESS BIOCHEMISTRY, (1982), vol. 17, no. 2, pages 8 - 10
+             e 22.
+*Observou-se que os documentos de anterioridade citados para emissão do IPER do WO2012/103607 estavam
+relacionados aos dois conceitos inventivos, detectados no pedido.
+No entanto, não foi possível consultar o seguinte documento, citado na Exigência 6.21:
+        KESTRSON, J.W. ET AL., "By-products and specialty products of Florida citrus", AGRICULTURAL
+         EXPERIMENT STATION, UNIVERSITY OF FLORIDA, (1976), vol. 784, pages 26 - 29, 98 - 99, 101  104.
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade              Cumprimento                  Reivindicações
+                                                      Sim                          1a3
+            Aplicação Industrial
+                                                      Não                       Nenhuma
+                                                      Sim                          1a3
+                 Novidade
+                                                      Não                       Nenhuma
+                                                      Sim                       Nenhuma
+            Atividade Inventiva
+                                                      Não                          1a3
+Comentários/Justificativas
+
+         A reivindicação independente 1 (R1) tem a seguinte redação:
+
+         1 - PROCESSO DE PREPARO DE CAFÉ POR VIA ÚMIDA COM EXTRAÇÃO DE
+         SUCO DE CAFÉ ANTES DA SECAGEM, caracterizado pelo fato do café cereja rompido
+         na temperatura ambiente ser colocado em reatores na forma de tanques cilíndricos ou
+         cônicos munidos de agitador, onde é adicionado hidróxido de cálcio até pH 6,5-7,5 e/ou
+         quaisquer outros álcalis ou sais de cálcio ou magnésio e/ou pectinase na proporção de
+         100 a 300 gramas por 100 kg de café cereja mais 50 ppm de metabissulfito de sódio ou
+         cálcio, permanece por 15 a 60 minutos sob agitação nessa temperatura;
+
+
+
+         A reivindicação dependente 2 (R2) é:
+
+         2 - PROCESSO DE PREPARO DE CAFÉ POR VIA ÚMIDA COM EXTRAÇÃO DE
+         SUCO DE CAFÉ ANTES DA SECAGEM, de acordo com a reivindicação 1, caracterizado
+         pelo fato de que, após esse prétratamento em reatores na forma de tanques cilíndricos
+         ou cônicos munidos de agitador, o café cereja rompido poderá seguir dois caminhos: no
+         caminho 1 o café é conduzido para uma prensa ou centrífuga ou despolpador onde é
+         separado um suco do café com 11-20% de sólidos solúveis num volume que varia de
+
+
+                                                                                        Página 6 de 11
+                                       BR112013019855-9
+
+       20% a 40% do peso original; o produto prensado ou centrifugado ou despolpado é
+       conduzido para terreiros, onde irá secar até umidade final de 10-11%, homogênea; já no
+       caminho 2 irá para um equipamento que separa o café pergaminho da polpa, sendo que
+       essa polpa será prensada ou centrifugada ou despolpada e resultará um suco de café;
+
+
+
+       A reivindicação dependente 3 (R3) possui a seguinte redação:
+
+       3 - PROCESSO DE PREPARO DE CAFÉ POR VIA ÚMIDA COM EXTRAÇÃO DE
+       SUCO DE CAFÉ ANTES DA SECAGEM, de acordo com as reivindicações 1 e 2,
+       caracterizado pelo fato de que o suco da prensa ou centrífuga ou despolpador irá para
+       um decantador contínuo que irá separar um suco clarificado de uma borra, ou uma
+       centrífuga que também irá separar um suco clarificado de uma borra, donde esse suco
+       clarificado será opcionalmente filtrado num filtro com terra diatomácea e em seguida
+       concentrado à vácuo ou a pressão atmosférica em evaporador até a concentração de
+       72° Brix a 74° Brix, de modo que a borra resultante da centrifugação ou decantação
+       pode ser fermentada com Saccharomyces cerevisiae, para transformar os açúcares em
+       álcool etilico e CO2; o álcool será destilado após a fermentação, numa concentração de
+       30 a 70%; o destilado poderá ser retificado até a concentração de 96%; o suco
+       representa de 20-40% da umidade do café cereja, o que reduzirá em muito o tempo de
+       secagem do café prensado em relação ao café cereja integral, resultando numa bebida
+       de café muito superior a normal; o suco clarificado concentrado é um xarope com mais
+       de 65% de açúcares que pode substituir o açúcar sacarose para adoçar o próprio café
+       ou outros produtos.
+
+
+
+       D1 e D2 (vide Quadro 4 deste documento) foram citados no parecer anterior como
+documento impeditivos para a atividade inventiva da matéria pleiteada, considerando o exame
+realizado em outros escritórios de patentes e os documentos apontados no parecer de exigência
+de Pré-exame (6.21), de acordo com o inciso I do art. 3º da Resolução INPI/PR Nº 241 de 03 de
+julho de 2019, publicada na RPI 2531 de 09/07/2019, e o item 5.2.1.1 da PORT 01/2021
+(substituiu e revogou a citada NE 7/2019).
+
+       D1 foi citado como impeditivo para a atividade inventiva da antiga reivindicação 1
+(correspondente à atual R1) e D2 foi considerado documento impeditivo para a atividade
+inventiva das antigas reivindicações 2 e 3 (correspondentes às atuais reivindicações 2 e 3,
+respectivamente).
+
+
+
+       Ao contrariar a opinião do parecer anterior, o requerente alega em sua manifestação que:
+
+
+
+
+                                                                                  Página 7 de 11
+                                        BR112013019855-9
+
+         No processo objeto do presente pedido de patente BR 11 2013 019855 9 é utilizada
+         centrífuga ou pressão para obtenção do suco de café.
+
+         O fato de usar centrífuga torna o suco de café mais natural, além de uma economia
+         considerável no processo, pois o consumo de energia elétrica é muito menor, aliada a
+         um menor desgaste e menor custo manutenção.
+
+         O uso de metabissulfito também previne a multiplicação de microorganismos.
+
+
+
+         Ocorre que já é revelado no 1º parágrafo da p. 208 de D1, conforme citado no último
+parágrafo da p. 7/10 do parecer anterior, que a polpa de café representa cerca de 40% em peso
+do fruto de café maduro e é separado pela ação mecânica e para extrair o suco de café da fibra
+insolúvel, pode ser utilizada a extração líquido-sólido em água quente e a prensagem sólida
+direta, o que já sugere a utilização de centrífuga ou pressão para obtenção do suco de café, tal
+como ocorre no presente pedido.
+
+         Sendo assim, o efeito técnico alegado pelo requerente e decorrente da matéria pleiteada
+de o suco de café se tornar mais natural com o uso de centrífuga e haver menor consumo de
+energia elétrica, menor desgaste e menor custo de manutenção é inerente à matéria revelada
+em D1.
+
+         Em relação ao uso de metabissulfito para a prevenção da multiplicação microbiana,
+mantém-se opinião constante no 2º parágrafo da p. 8/10 do parecer anterior de que a utilização
+de metabissulfito para prevenir o crescimento microbiano já era conhecida por parte de um
+técnico no assunto à época do depósito do presente pedido, não resultando em um efeito
+técnico inesperado.
+
+         Ainda, o requerente alega no 2º parágrafo da p. 22/26 de sua manifestação que é
+reivindicado no presente pedido:
+
+         1º) Uso da polpa ou casca do fruto do café e mucilagem dos pergaminhos como fonte
+         de isoflavonas para alimentação humana através de seu suco.
+
+         2º) Uso de protetores das isoflavonas naturalmente existentes nas polpas ou cascas do
+         café e na mucilagem dos pergaminhos, como o anidrido sulfuroso e ácido ascórbico, que
+         reagem prioritariamente com o oxigênio do ar.
+
+         3º) O uso do anidrido sulfuroso também tem ação contra o crescimento de
+         microrganismos deterioradores do suco de café, tais como fungos, bolores e leveduras.
+
+         4º) O uso da centrífuga na extração do suco de café a cerca de 300 gravidades seguida
+         após o tratamento enzimático com enzimas pectinolíticas no processo reivindicado, que
+         é mais fácil do que o uso de prensas.
+
+
+
+
+                                                                                   Página 8 de 11
+                                        BR112013019855-9
+
+       5º) O uso do suco de café para alimentação humana se deve ao seu alto teor de
+       isoflavonas e alto teor de açúcares disponíveis.
+
+
+
+       Convém observar que a matéria pleiteada em R1 e em suas reivindicações dependentes
+diz respeito ao PROCESSO DE PREPARO DE CAFÉ POR VIA ÚMIDA COM EXTRAÇÃO DE
+SUCO DE CAFÉ ANTES DA SECAGEM, conforme descrito nos preâmbulos de R1, R2 e R3,
+compiladas anteriormente neste documento. Sendo assim, não são pleiteados no quadro
+reivindicatório os usos descritos no 2º parágrafo da p. 22/26 da manifestação do requerente.
+
+
+
+       Portanto, mantém-se a seguinte opinião do parecer anterior de que o processo pleiteado
+é desprovido de atividade inventiva, frente a D1 e D2, pois:
+
+      D1 relata que no processamento de café por via úmida são gerados 3 subprodutos e
+       resíduos: a polpa ou casca, a mucilagem e a água residual (1º parágrafo do item
+       INTRODUCTION da p. 207 de D1). A polpa de café representa cerca de 40% em peso do
+       fruto de café maduro e é separado pela ação mecânica. Para extrair o suco de café da
+       fibra insolúvel, pode ser utilizada a extração líquido-sólido em água quente e a prensagem
+       sólida direta (1º parágrafo da p. 208 de D1). No caso, D1 revela em seu item METHODS
+       da p. 208 um método de extração de suco de café, que compreende a lavagem dos frutos
+       colhidos de café com água, a separação da polpa em um despolpador e a execução dos
+       seguintes tratamentos, antes da prensagem da polpa: (i) descanso a temperatura ambiente
+       (cerca de 23ºC) por um período de tempo definido; (ii) agitação em um misturador, (iii)
+       aquecimento com vapor em um gabinete de bandejas e (iv) adição de enzimas péctinas
+       comerciais, sob agitação em um misturador. Também é prevista a adição de hidróxido de
+       sódio à polpa antes da prensagem para obter pH do suco de 6,5.
+
+      É fato que D1 não revela um processo que utiliza 50 ppm de metabissulfito de sódio ou
+       cálcio, tal como pleiteado em R1. Porém, não foi revelado no presente pedido um efeito
+       inesperado decorrente dessa adição, visto que a utilização de metabissulfito para prevenir
+       o crescimento microbiano já era conhecida por parte de um técnico no assunto à época do
+       depósito do presente pedido.
+
+      Sendo assim, R1 não pode ser considerada inventiva, frente a D1, não atendendo ao
+       requisito de patenteabilidade previsto no art. 8º combinado com o art. 13 da LPI.
+
+      R2 e R3 não apresentam em características técnicas passíveis de proteção patentária,
+       frente a D1 combinado com D2.
+
+      Isso porque D2 revela que quase metade da produção mundial de café é processada por
+       via úmida, em que o café despolpado é fermentado e as etapas de secagem e
+       fermentação dos grãos de café são operações unitárias chaves. No caso, são gerados três
+
+
+
+                                                                                    Página 9 de 11
+                                    BR112013019855-9
+
+    subprodutos: a polpa, a mucilagem e a casca (1º parágrafo do item Introduction da p. 8
+    de D2). A polpa é separada do fruto em despolpadores que espreme os frutos alimentados
+    em suspensão em água, gerando águas residuais, que carregam a maioria dos compostos
+    solúveis, presentes na polpa. A mucilagem é degradada pela ação enzimática ou
+    microbiana em compostos de pesos moleculares menores durante a fermentação. As
+    cascas são separadas mecanicamente do café seco em pergaminho (3º parágrafo do item
+    Introduction da p. 8 e Figura 1 da p. 9 de D2). O item Alternative 2 da p. 9 de D2 revela
+    um método que emprega a combinação de enzimas pécticas e temperatura no pré-
+    tratamento, resultando em 60% de suco com 14º Brix, extração em água quente de 75%
+    dos açúcares presentes na polpa de café, todos os polifenóis, cerca de 50% de nitrogênio
+    e 30% de cafeína, enquanto que o método sem o pré-tratamento sob pressão tem
+    rendimento de 42% de suco, quando a pressão é operada entre 0,44 a 0,51 M Pa. No
+    caso, esse método resulta em dois produtos: o suco de café e um prensado sólido, tal
+    como pleiteado no presente pedido. Apesar de D2 não revelar explicitamente o teor de
+    umidade do café prensado ou centrifugado ou despolpado de 10-11%, tal característica
+    técnica não resulta em um efeito técnico supreendente, frente à matéria revelada em D2,
+    que já prevê a etapa de secagem, posteriormente à fermentação do café despolpado (1º
+    parágrafo do item Introduction da p. 8 de D2).
+
+   Quanto a R3, o item Alternative 6, que começa na p. 9 de D2, revela que o suco de café
+    pode ser utilizado como substrato de fermentação de Aspergillus oryzae, Trichoderma
+    harzianum, Peniccilum crustosaum e Glicodium deliquescens, por exemplo, para obter um
+    caldo que é concentrado para obter um xarope rico em proteínas para alimentação animal.
+
+   No último parágrafo desse mesmo item de D2, é mencionado que é bastante viável a
+    possibilidade de fermentar suco de café para a produzir de etanol, sugerindo que também
+    seria possível obter álcool a partir da fermentação de borra de café com Saccharomyces
+    cerevisiae, tal como pleiteado em R3.
+
+   Embora R3 pleiteie a clarificação do suco de café, que não é revelada em D2, tal etapa é
+    sabidamente relacionada a remoção de pigmentos de cor do suco de café, não resultando
+    em um efeito técnico inesperado na visão de um técnico no assunto e, por isso, não
+    agrega atividade inventiva à R3.
+
+   Aliado a isso, a concentração do suco clarificado concentrado para obter um xarope com
+    mais de 65% de açúcares, que pode substituir o açúcar sacarose para adoçar o próprio
+    café ou outros produtos, conforme pleiteado em R3 não constitui em matéria passível de
+    proteção patentária, frente ao suco de café concentrado e rico em proteínas, destinado à
+    alimentação animal e revelado em D2. No caso, um técnico no assunto prevê, baseado na
+    matéria revelada no pedido, que o fato de o processo pleiteado em R3 resultar em um
+    produto que pode ser utilizado como substituto de sacarose está mais relacionado ao seu
+    teor de açúcares do que a características sensoriais, à não detecção de fatores
+
+
+                                                                                Página 10 de 11
+                                           BR112013019855-9
+
+           antinutricionais e/ou características físico-químicas, o que não resulta em um efeito técnico
+           inesperado, frente à utilização do suco de café concentrado e rico em proteínas em
+           alimentação animal de D2.
+
+          Sendo assim, o processo pleiteado no pedido nada mais é do que uma combinação óbvia
+           de características técnicas reveladas no estado da técnica, aqui representado por D1 e D2,
+           não atendendo ao requisito de patenteabilidade previsto no art. 8º combinado com o art. 13
+           da LPI.
+
+
+
+Conclusão
+
+           Os argumentos apresentados pelo requerente não foram considerados procedentes.
+
+           Assim sendo, de acordo com o Art. 37, indefiro o presente pedido de Patente de
+Invenção, uma vez que:
+
+       -     não apresenta unidade invenção (Art. 22 da LPI)
+
+       -     não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+       -     as reivindicações estão indefinidas (Art. 25 da LPI)
+
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                      Publique-se o indeferimento (9.2).
+
+
+
+                                                                    Rio de Janeiro, 05 de maio de 2021.
+
+
+
+
+Cibele Cristina Osawa
+Pesquisador/ Mat. Nº 1741228
+DIRPA / CGPAT II/DIPAE
+Deleg. Comp. - Port. INPI/DIRPA Nº 006/13
+
+
+
+
+                                                                                       Página 11 de 11
+

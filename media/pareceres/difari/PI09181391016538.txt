@@ -1,0 +1,277 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0918139-3                  N.° de Depósito PCT:US2009/056254
+ Data de Depósito:                   08/09/2009
+ Prioridade Unionista:               US 61/191,696 (10/09/2008)
+ Depositante:                        BIOELECTRON TECHNOLOGY CORPORATION (US)
+ Inventor:                           Guy M. Miller, Viktoria Kheifets
+ Título:                             Composição, alimento medicinal ou funcional, suplemento alimentar
+                                     ou dietético para tratamento de distúrbios de desenvolvimento
+                                     pervasivos com terapêuticos redox-ativos e uso 
+
+                                                              PARECER
+
+
+          O presente pedido de patente de invenção se refere a um composto selecionado do
+grupo que consiste nos compostos de fórmula (Va) e (VIa), e ao uso dos compostos (Ia) e (IIa)
+para preparação de uma composição para reduzir os sintomas associados com, ou para tratar
+ou suprimir um distúrbio de desenvolvimento pervasivos (PDD) em um paciente que necessite
+de tal tratamento.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                      Página 1
+                                                 PI0918139-3
+
+       No parecer notificado na RPI no 2504 de 02/01/2019, concluiu-se que a matéria
+reivindicada no presente pedido não é passível de proteção por não atender ao disposto no art.
+8o, art. 11 e art. 13 da LPI, frente aos documentos de anterioridade D1 a D3 listados do quadro 4
+do presente parecer. Ademais, foram apontadas irregularidades no presente pedido em relação
+ao art. 25 da LPI.
+
+       Através da petição no 870190031695 de 02/04/2019, a requerente respondeu ao parecer
+desfavorável, e apresentou um novo quadro reivindicatório com 16 reivindicações, assim como
+um quadro menos preferido, auxiliar, com 5 reivindicações.
+
+
+
+                            Quadro 1  Páginas do pedido examinadas
+            Elemento                     Páginas                n.o da Petição           Data
+
+Relatório Descritivo                      1 a 57                 20110046478           06/05/2011
+Quadro Reivindicatório                     1 a 4*               870190031695           02/04/2019
+Desenhos                                     ---                         ---               ---
+Resumo                                       1                   20110046478           06/05/2011
+* Foi analisado o quadro reivindicatório mais preferido, com 16 reivindicações.
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                   Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                          x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                  x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                           x
+O pedido está de acordo com disposto no art. 32 da LPI                            x
+Comentários/Justificativas
+
+       É importante ressaltar que entende-se que não houve ampliação/alteração do escopo de
+proteção originalmente reivindicado no presente pedido, com a mudança de categoria das
+reivindicações de composição para composto, uma vez que, pela redação das reivindicações
+anteriores de composição (petição no 20120079293, de 23/08/2012), os compostos já estavam
+pleiteados per se, conforme apontado em parecer anterior de ciência.
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                   Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                         x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                       x
+
+
+
+
+                                                                                             Página 2
+                                            PI0918139-3
+
+
+Comentários/Justificativas
+
+
+       Quanto às objeções levantadas em parecer de ciência em relação aos artigos 24 e 25 da
+LPI, a requerente explicitou o seguinte.
+       O pedido como apresentado fornece um ensaio in vitro e dados nos parágrafos [0125] a
+[0134] que fornecem suporte suficiente para que um composto das antigas reivindicações 6-16
+seja útil para reduzir os sintomas associados, ou para tratar ou suprimir um distúrbio global do
+desenvolvimento.
+       Os modelos celulares, tais como o descrito no pedido de PCT como apresentado nos
+parágrafos, são baseados no conceito de que as células de um paciente doente terão um fenótipo
+diferente das células de um paciente normal. Demonstrar que um composto pode retornar o
+fenótipo da célula doente de volta a um estado mais normal é a base para determinar que o
+composto terá um efeito farmacológico na doença.
+
+       As células de fibroblastos utilizadas neste ensaio são de pacientes com uma ASD. Estas
+células de fibroblastos têm um fenótipo diferente, particularmente em resposta ao estresse
+oxidativo, de células obtidas de humanos saudáveis. Assim, medir o resgate de células de
+fibroblastos estressados por BSO de pacientes com ASD do estresse oxidativo é um modelo
+relevante no tratamento do TEA. Um Composto de Fórmula Ib demonstrou um EC50 de menos de
+150 nM, como demonstrado na página 57, linas 11 a 16, do relatório descritivo como originalmente
+depositado, confirmando a proteção de células de fibroblastos de ASD do stress oxidativo.
+       Ademais, a requerente apresentou novos dados de ensaios de viabilidade celular de
+células obtidas de pacientes autistas, confirmando que essas células são mais sensíveis ao
+estresse oxidativo do que células fibroblásticas normais (Doc. 1). Assim, medindo o resgate de
+fibroblastos doentes do stress oxidativo é um modelo para um ASD, e o efeito farmacológico do
+Composto Ib é confirmado pelos dados no pedido como apresentado, bem como pelos dados
+fornecidos no Doc. 1 e dados adicionais discutidos abaixo.
+       Além disso, o Requerente envia dados que confirmam que as reivindicações são
+direcionadas a uma terapia de aplicação real. Esses dados são de um ensaio clínico
+randomizado, duplo-cego, controlado por placebo onde pacientes com síndrome de Rett foram
+tratados           com            placebo           ou            2-((3R,           6E,           10E)
+-3-hidroxi-3,7,11,15-tetrametil-hexadeca-6,10,14-trien-1-il)-3,5,6-trimetilciclo-hexa-2,5-dieno-1,4-di
+ona (EPI-743), um composto de fórmula Ib, três vezes ao dia durante 6 meses. No ensaio clínico,
+os níveis plasmáticos de F2-isoprostano foram medidos no rastreio e nas visitas 3 e 6. O
+F2-isoprostano é um biomarcador de peroxidação lipídica e um indicador de stress oxidativo e
+inflamação em doentes, incluindo pelo menos a síndrome de Rett e ASD, e em pacientes
+saudáveis. Dados do ensaio clínico randomizado, duplo-cego, placebo-controlado do Requerente
+mostram que este biomarcador de estresse oxidativo é reduzido em uma quantidade
+estatisticamente significativa. Além de demonstrar uma diminuição em um biomarcador para o
+
+
+
+
+                                                                                             Página 3
+                                            PI0918139-3
+
+estresse oxidativo em pacientes com síndrome de Rett, o Requerente observou, no mesmo
+estudo, aumento do perímetro cefálico e melhora em vários aspectos do comportamento em
+pacientes com síndrome de Rett, incluindo retenção da respiração, movimento da mão e humor.
+         Quanto ao exposto acima, cabe ressaltar, inicialmente, que, de acordo com o Parágrafo
+3.89 do Bloco I das Diretrizes de Exame de Pedidos de Patente, o ônus de comprovação do
+suporte das reivindicações é do depositante e, para tal, são aceitas provas adicionais no decorrer
+do exame técnico, desde que se destinem exclusivamente a complementar as informações já
+contidas no pedido conforme inicialmente depositado.
+         Como explicitado pela requerente, no relatório descritivo do presente pedido, foram
+apresentados testes em fibroblastos obtidos de pacientes com autismo, em que foi demonstrado
+que determinados compostos do presente pedido, como o composto Va e o composto Ib (página
+57, linhas 11-16) foram capazes de proteger as citadas células do estresse oxidativo induzido pelo
+composto L-butionina-(S,R)-sulfoximina (BSO). Esses dados, no entanto, apenas demonstram que
+os compostos do presente pedido são úteis como agentes antioxidantes (o que já estava
+verificado no estado da técnica nos documentos D1 e D2 para compostos do presente pedido e
+para compostos congêneres), não comprovando ou fornecendo indícios para o uso pleiteado no
+presente pedido. Ressalta-se que apenas foi evidenciado, em tais testes, que os compostos Va e
+Ib protegem fibroblastos contra o dano oxidativo.
+         Assim, entende-se que os dados apresentados pela requente por ocasião do depósito do
+pedido, não foram suficientes para comprovar o uso em tela nas novas reivindicações 6-16. Dessa
+forma, os novos dados apresentados pela requerente em sua manifestação (para o composto Ib),
+não foram considerados no presente exame, já que não servem apenas para complementar as
+informações já contidas no pedido conforme inicialmente depositado, e sim evidenciar o uso em
+tela, o que não é aceito (item 9.1.3 da Resolução/INPI/PR no 208, de 27/12/2017, que instituiu as
+Diretrizes de Exame de Pedidos de Patente na Área de Química, publicada na RPI 2452, de
+02/01/2018).
+         Face ao exposto acima, considera-se que o uso pleiteado no presente pedido não está
+suficientemente descrito, e que as reivindicações referentes a uso reclamam matéria que não está
+suportada no relatório descritivo. Assim, entende-se que as reivindicações 6 a 16 contrariam o art.
+24 e o art. 25 da LPI, não sendo aceitas.
+
+
+                         Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                              Data de publicação
+    D1                            US2006281809 (A1)                               14/12/2006
+    D2                            US2007072943 (A1)                               29/03/2007
+    D3                           WO2005115478 (A2)                                08/12/2005
+
+
+
+
+                                                                                          Página 4
+                                          PI0918139-3
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade           Cumprimento              Reivindicações
+                                                  Sim                      1a5
+           Aplicação Industrial
+                                                  Não                        ---
+                                                  Sim                      1a5
+                   Novidade
+                                                  Não                        ---
+
+                                                  Sim                        ---
+           Atividade Inventiva
+                                                  Não                      1a5
+Comentários/Justificativas
+
+
+       Em sua manifestação, quanto à novidade e à atividade inventiva da matéria em tela no
+presente pedido em relação aos documentos de anterioridade, a requerente expôs o seguinte.
+
+       Nem D1 nem D2 revelam o tratamento de distúrbios generalizados do desenvolvimento
+em geral, muito menos um ASD especificamente, com quaisquer compostos, muito menos
+aqueles reivindicados pela requerente.
+
+       D1 não ensina nem sugere o truncamento do grupo terminal de um hidrocarboneto C20
+para um C9, nem a substituição de um grupo ramificado por um linear. Assim, as reivindicações
+renumeradas 1-5 são novas e inventivas frente a D1.
+
+       D2 não divulga os compostos específicos de Fórmula Va e VIa das presentes
+reivindicações.
+
+       D3 não cura as deficiências de D1 e D2. D3 concentra-se em compostos contendo
+enxofre que são alegadamente antioxidantes. Nenhum dos compostos do presente pedido
+contém um enxofre, nem existe qualquer orientação em D3 que direcione técnico no assunto
+para a realização de um composto tal como aqui reivindicado para a redução dos sintomas
+associados, ou tratamento ou supressão de um distúrbio generalizado do desenvolvimento.
+
+       Ademais, foram discutidos os dados apresentados no presente pedido obtidos de ensaios
+realizados em fibroblastos, em que ficou evidenciado, segundo a requerente, que o composto de
+fórmula Va é útil para reduzir os sintomas associados com, ou tratar ou suprimir um distúrbio
+generalizado do desenvolvimento.
+
+       Quanto ao exposto acima pela requerente, considera-se que o documento D2 é o
+documento do estado da técnica mais próximo ao presente pedido (novas reivindicações 1-5),
+tendo em vista que antecipa os compostos Va e VIa em fórmulas genéricas Markush
+(reivindicação 1 de D2). Entretanto, tal qual apontado pela requerente, os citados compostos
+pleiteados não se encontram especificamente revelados em D2. Dessa forma, considera-se que
+tais compostos são novos.
+
+
+
+
+                                                                                       Página 5
+                                            PI0918139-3
+
+       Adicionalmente, os compostos de D2 são descritos como úteis para o tratamento de
+doenças mitocondriais, sendo esse documento silente quanto ao uso desses compostos em
+transtornos invasivos do desenvolvimento, tal como autismo.
+
+       No entanto, os compostos descritos em D2 possuem atividade redox (parágrafo 0037 de
+D2). Dessa forma, já era esperado que os compostos Va e VIa possuíssem atividade
+antioxidativa, o que foi confirmado para o composto Va nos ensaios realizados em fibroblastos
+apresentados no relatório descritivo, como já discutido no presente parecer.
+
+       Assim sendo, entende-se que a atividade biológica evidenciada para o composto Va no
+presente pedido decorre de forma óbvia a partir da matéria revelada no documento D2, não
+tendo sido apresentados testes para o composto VIa. Adicionalmente, não restou evidenciado,
+no presente pedido, que os compostos Va e VIa são úteis para tratar ou prevenir transtornos
+invasivos do desenvolvimento.
+
+       Consequentemente, opina-se que a matéria das reivindicações 1 a 5 não possui
+atividade inventiva, o que contraria o art. 13 da LPI.
+
+
+
+Conclusão
+
+
+       De acordo com o art. 37, indefiro o presente pedido por não atender ao disposto nos art.
+8o, art. 13, art. 24 e art. 25 da LPI.
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                              Rio de Janeiro, 25 de julho de 2019.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+Mona Lisa Leal Ferreira
+Pesquisador/ Mat. Nº 1740804
+DIRPA / CGPAT I/DIFAR-I
+Deleg. Comp. - Port. INPI/DIRPA Nº 004/14
+
+
+
+
+                                                                                          Página 6
+

@@ -1,0 +1,192 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102012010956-5         N.° de Depósito PCT:
+ Data de Depósito:                   09/05/2012
+ Prioridade Unionista:               -
+ Depositante:                        ROMA JENSEN COMÉRCIO E INDUSTRIA LTDA (BRSP)
+ Inventor:                           GUSTAVO JENSEN
+ Título:                             Brinquedo com meio para simulação de reação de cócegas 
+
+                                                              PARECER
+
+
+Os diplomas legais nacionais que fundamentaram a elaboração deste parecer foram a Lei nº
+9.279 de 14 de maio de 1996 (Lei da Propriedade Industrial), doravante LPI; a Instrução
+Normativa 030 de 04 de dezembro de 2013, doravante IN30/2013; e a Instrução Normativa 031
+de 04 de dezembro de 2013, doravante IN31/2013.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                  1/3 a 3/3              870210085445           16/09/2021
+Quadro Reivindicatório                                     1/1               870220059093           05/07/2022
+Desenhos                                               1/3 a 3/3             018120016228           09/05/2012
+Resumo                                                     1/1               870210085445           16/09/2021
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                           Página 1 de 4
+                                           BR102012010956-5
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1      BRPI0802671                                                           2009-09-15
+    D2      ES1030036U                                                            1995-07-16
+    D3      CN201370963Y                                                          2009-12-30
+    D4      BR9805226                                                             2000-03-28
+    D5      ES212838U                                                             1976-06-01
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                     1
+           Aplicação Industrial
+                                                        Não
+                                                         Sim                     1
+                 Novidade
+                                                        Não
+                                                         Sim
+           Atividade Inventiva
+                                                        Não                      1
+Comentários/Justificativas
+
+
+
+      O presente pedido foi analisado pela primeira vez em 30/03/2022. Na ocasião, foi
+considerado que o pedido não atendia aos artigos 8° e 13 da LPI. A Requerente foi notificado
+sobre a ciência de parecer por meio da RPI 2675 de 12/04/2022.
+      Através da petição nº 870220059093 de 05/07/2022 a Requerente atendeu ao despacho
+7.1 publicado na RPI nº 2675 de 12/04/2022 e anexou seus esclarecimentos com reformulação no
+quadro reivindicatório do pedido. Portanto, este pedido de Patente de Invenção foi novamente
+analisado com base no conteúdo do pedido descrito nos documentos que constam no Quadro 1
+deste parecer.
+
+
+      A Requerente oferece como a principal linha de argumentação o seguinte:
+
+
+
+
+                                                                                     Página 2 de 4
+                                        BR102012010956-5
+
+
+              O dispositivo do pedido do documento ora analisado apresenta como característica
+              principal o seu processador e sua simplicidade estrutural, apresentando uma boneca de
+              baixo custo para a sua exequibilidade industrial, ao passo que D1, prevê um botão de
+              teste e diversas placas de circuito impresso, D2 é simplesmente uma pantufa com um
+              dispositivo emissor de sons interno acionado manualmente, D3 é uma caixa de som com
+              uma placa de circuito de controle (5) com um botão de borracha. D4, mostra um
+              dispositivo para a geração de sons (3) e um gerador de sinais óticos (4), com
+              temporizadores independentes (1) simultaneamente conectados a um interruptor (7), cujo
+              acionamento ativa os temporizadores e o sensor (5) e, por fim, o documento D5, mostra
+              um dispositivo sensível para o estabelecimento ou para a supressão de um campo
+              magnético alcançado por simples aproximação, sendo o meio de acionamento constituído
+              por um ímã permanente.
+
+              A Requerente afirma ainda que a ausência do processador nos documentos anteriores e o
+              foco em um brinquedo popular de baixo custo integram o propósito deste brinquedo.
+
+
+
+      Considerado os principais argumentos da Requerente e reavaliando a matéria do quadro
+reivindicatório em análise, mantêm-se o entediamento de que os documentos D1 e D2
+descrevem as características pleiteadas na reivindicação 1, tendo em vista que O documento D1
+descreve um sensor (10) é conectado à placa de circuito (6) através de fios (9), o mesmo
+ocorrendo com o alto-falante que está montado em uma tampa (5); sendo o brinquedo com meio
+para emissão de som. Já o documento D2 descreve um dispositivo reprodutor de som é definido
+como uma caixa (1) onde sua tampa (6) é montada contra a caixa (1), sendo que entre a tampa
+(6) e a caixa (1) são incorporadas molas (7); a caixa (1) conta ainda com um compartimento
+para as baterias e placa de circuito (2). O documento D2 descreve um movimento relativo da
+tampa (6) para permitir que um interruptor (4) diretamente montado na placa de circuito (2) seja
+comprimido pelo alto-falante que está montado, por sua vez, na face interna da tampa (6)
+desencadeando assim a reprodução de um som.
+      Observa-se que as características que definem a invenção já estão presentes nos
+documentos D1 e D2. O fato argumentado pela Requerente de que a característica principal é a
+presença de um processador montado na placa de circuito impresso é uma característica
+considerada óbvia para um técnico no assunto. Por exemplo, no documento D1, já é descrito
+como estado da técnica o MU8501265-3 sob o título: Aperfeiçoamento em sistema sonorizado
+aplicado em boneca, o qual compreende um sistema eletrônico gravado num chip, cuja
+sonorização se da retirando-se a chupeta da boca da boneca, emitindo assim um choro seguido
+de uma manhosa frase, (quero chupeta) e quando é colocada a chupeta atendendo à sua
+solicitação ela responde com uma feliz gargalhada seguida de uma frase amorosa (te amo
+mamãe) e outra gargalhada. Consideramos que a escolha do uso de chip ou processador para o
+gerenciamento do som a ser tocado é uma escolha óbvia para um técnico no assunto.
+       Considerando os esclarecimentos apresentados na manifestação da Requerente, o
+presente pedido foi novamente analisado, sendo constatado que as argumentações apresentadas
+
+
+                                                                                        Página 3 de 4
+                                       BR102012010956-5
+
+
+na petição nº 870220059093 de 05/07/2022 NÃO esclareceram as questões relativas à atividade e
+inventiva (artigos 8º e 13 da LPI). Portanto, ratificamos a opinião emitida no primeiro parecer de
+exame técnico de que a matéria reivindicada no presente pedido não é privilegiável por falta de
+atividade inventiva sobre o estado da técnica pesquisado, contrariando as disposições dos artigos
+8º e 13 da LPI.
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                            Rio de Janeiro, 17 de outubro de 2022.
+
+
+
+
+Walter Edgley de Oliveira
+Pesquisador/ Mat. Nº 1568215
+DIRPA / CGPAT IV/DINEC
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                     Página 4 de 4
+

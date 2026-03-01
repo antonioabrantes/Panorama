@@ -1,0 +1,359 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0805969-1                N.° de Depósito PCT:
+ Data de Depósito:                   23/05/2008
+ Prioridade Unionista:               -
+ Depositante:                        Universidade Federal de Uberlândia (BRMG) , Imunoscan Engenharia
+                                     Molecular Ltda-Me (BRMG)
+ Inventor:                           Luiz Ricardo Goulart Filho, Cristina Soares de Sousa, Carlos Ueira
+                                     Vieira, Rone Cardoso, Ana Paula Peres Freschi, Cynara de Melo
+                                     Rodovalho, Fausto Emillio Capparelli, Ana Maria Bonetti
+ Título:                             Seleção e caracterização de peptídeos ligantes a proteínas teciduais
+                                     e sorológicas do câncer de mama 
+
+                                                              PARECER
+          Através da RPI n° 2503 de 26/12/2018, o INPI notificou parecer técnico de ciência de
+parecer (7.1), no qual o seguinte foi levantado:
+
+           A análise do quadro reivindicatório do presente pedido de patente de invenção revelou a
+existência de 96 grupos distintos de conceitos inventivos, a saber:
+
+          Um grupo referente a cada uma das sequências reveladas. Ou seja, o grupo 1 se refere
+à matéria relativa à SEQ ID NO:1, o grupo 2, a matéria relativa à SEQ ID NO: 2 etc.
+
+          De acordo com o disposto no item 3.99 das Diretrizes de Exame de Pedidos de Patente,
+publicadas na RPI n° 2241 de 17 de dezembro de 2013, há conceito inventivo único, ou unidade
+de invenção, quando as matérias reivindicadas apresentam uma relação técnica entre si
+representada por uma ou mais características técnicas especiais, que são as mesmas ou
+correspondentes para todas as matérias reivindicadas.
+
+          Em tempo: características técnicas especiais, conforme a definição estabelecida no item
+3.100 das Diretrizes supracitadas, são quaisquer características técnicas que representam uma
+contribuição que a invenção reivindicada traz em relação ao estado da técnica e que sejam
+comuns ou correlacionadas a cada uma das invenções reivindicadas.
+
+          Neste contexto, cumpre ressaltar que o conceito técnico em comum entre os grupos 1-96
+são peptídeos identificados por phage display que se ligam a proteínas de câncer de mama.
+Porém, como revelam os documentos Askoxylakis, V. et al. Preclinical evaluation of the
+breastcancer cell-binding peptide. P160. 2005. Clin. Cancer Res. 11(18): 6705-6712 e Krag, D.
+N. et al. Selection of tumour-binding ligands in cancer patients with phage display libraries. 2006.
+Cancer Res. 66(15): 7724-8925., peptídeos que se ligam a proteínas de câncer de mama ou a
+seleção destas por phage display já eram conhecidos na técnica. Assim, a características técnica
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                    Página 1 de 7
+                                            PI0805969-1
+
+
+em comum entre os peptídeos pleiteados não pode ser considerada como uma característica
+técnica essencial.
+         Desta maneira, entende-se que o presente pedido de patente não atende ao disposto no
+artigo 22 da Lei 9279 de 14 de maio de 1996 (LPI), já que não apresenta um conceito inventivo
+único.
+         Apesar da objeção apontada supra foi realizada busca para o grupo 1 de conceito invento,
+nos termos do disposto no item 3.115 das Diretrizes de Exame de Pedidos de Patente, publicadas
+na RPI n° 2241 de 17 de dezembro de 2013.
+
+
+         As reivindicações 1-5 e 9 pleiteiam peptídeos isolados da natureza. No caso específico das
+reivindicações 1 e 9, cabe esclarecer que embora a 1 pleiteie, em seu preâmbulo, seleção, ela
+define características técnicas de produto (peptídeos) e que a 8 pleiteia composição caracterizada
+apenas pelo peptídeo, sem qualquer outro componente. Assim, é evidente que a matéria pleiteada
+pelas reivindicações 1-5 e 9 incidem sobre as proibições do artigo 10 (IX) da Lei 9279 de 14 de
+maio de 1996 (LPI).
+
+         A reivindicação 1 falha em definir de maneira clara e precisa as características técnicas
+essenciais da matéria pleiteada. Em verdade, a reivindicação 1 embora pleiteie em seu preâmbulo
+seleção, ou seja, processo, define características técnicas de produtos (SEQ ID NO X). Assim,
+não está claro se a referida reivindicação se refere a um processo ou produto. Ainda, no caso de
+se referir a um processo, a dita reivindicação falha em definir as características técnicas destes
+como etapas, condições e componentes. Portanto, é evidente que a reivindicação 1 não atende ao
+disposto no artigo 25 da LPI.
+
+
+         O item 6.1 da Resolução 144/2015 determina que DNA deve ser definido por sua SEQ ID
+NOX específica, ou seja, pela sua sequência de nucleotídeos específica. As reivindicações 2-8,
+entretanto, utilizam o termo sequências reversas, que não pode ser aceito. Tais sequências
+deveriam estar definidas pela sua SEQ ID NO: X específica. Portanto, é claro que as
+reivindicações 2-8 não atendem ao disposto no artigo 25 da LPI.
+
+         O item 2.3.1 da Resolução 144/2015 determina que o matéria objeto da proteção deve ser
+fundamentado por meio de informações técnicas. Ou seja, não é suficiente a mera menção a uma
+possibilidade ou concretização. Assim, o relatório descritivo do presente pedido não ensina o uso
+dos peptídeos revelados para a preparação de composição vacinal, farmacêutica ou em
+diagnóstico e também não ensina ou revela por informações técnicas uma composição vacinal.
+Portanto, a matéria pleiteada pelas reivindicações 6-8 não encontra suporte no relatório descritivo
+e não atende ao disposto no artigo 25 da LPI.
+
+         Cumpre notificar que a matéria alvo de objeção frente ao disposto no artigo 10 (IX) da LPI
+não será objeto de análise no quadro 5 deste parecer técnico. Entretanto, a matéria pleiteada pela
+reivindicação 1 será alvo apenas de comentário, por conta da maneira imprecisa como está
+redigida a referida reivindicação e visando aproveitar este exame.
+
+
+                                                                                     Página 2 de 7
+                                           PI0805969-1
+
+
+       O documento D1 tata de estudo acerca das propriedades de um peptídeo com afinidade
+para o câncer de mama humano que foi selecionada por meio de Phage display (Resumo). D1
+revela que o peptídeo p160 foi obtido por phage display (Página 6706, coluna 1) e que no estudo
+em pauta investigaram os efeito deste peptídeo na linhagem de câncer de mama humana
+MDA-MB-435, pois os fagos apresentaram alta afinidade para esta linhagem (Página 6706, coluna
+1). De maneira evidente, D1 sugere que o peptídeo p160 é um excelente candidato para técnica
+de imagem e terapia de câncer (Página 6711, coluna 2).
+
+       O documento D2 trata do uso de bibliotecas de phage display em pacientes de câncer para
+identificação de ligantes (Resumo). D2 revela que 8 pacientes foram estudados, sendo que o
+câncer de mama está listado (Resumo). De fato, na tabela 1 há a descrição clara do uso de
+material de câncer de mama para o estudo. A tabela 2, por sua vez, revela possíveis motivos de
+clones de fago obtidos de material de câncer de mama de um paciente. Ainda, a figura 2b revela
+dados de ligação de diversos clones scFv obtidos do paciente 180-08 (câncer de mama).
+
+       Os documentos D1 e D2 revelam que já era conhecido na técnica o uso de phage display
+para obtenção de peptídeos ligantes de câncer da mama. Neste caso, a matéria pleiteada pela
+reivindicação 1 não seria considerada nova (não atenderia ao disposto nos artigos 8° e 11 da
+LPI), caso não incidisse sobre as proibições do artigo 10 (IX) da LPI.
+
+       Ainda, D1 já sugeria o uso destes peptídeos para terapia e diagnóstico. Portanto, um
+técnico no assunto seria fortemente motivado pelo revelado em D1 e D2 de maneira a formular a
+matéria pleiteada pelas reivindicações 6-8. Ainda, neste caso, um peptídeo novo, ligante de
+câncer de mama e obtido por phage display, seria também um desenvolvimento óbvio, uma vez
+que não é possível identificar, no presente momento, um efeito técnico surpreendente decorrente
+do referido peptídeo definido pela SEQ ID NO: 1. Cumpre destacar que conforme o já notificado,
+apenas a matéria relativa ao grupo 1 de conceito inventivo está sendo analisada no quadro 5
+deste parecer técnico. Portanto, compreende-se que a matéria pleiteada pelas reivindicações 6-8
+não atende ao disposto nos artigos 8° e 13 da LPI.
+
+
+
+                          Quadro 1  Páginas do pedido examinadas
+           Elemento                    Páginas             n.o da Petição         Data
+Relatório Descritivo                     1-35               14080003278         23/05/2008
+Listagem de sequências em
+                                         1-28               14080003278         23/05/2008
+formato impresso
+Listagem de sequências*          Código de Controle               ---               ---
+Quadro Reivindicatório                    1                870190028926         26/03/2019
+Desenhos                                 1-4                14080003278         23/05/2008
+Resumo                                    1                 14080003278         23/05/2008
+
+
+
+
+                                                                                 Página 3 de 7
+                                               PI0805969-1
+
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                           Sim           Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)      ---            X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)              ---            X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                  ---            X
+O pedido está de acordo com disposto no art. 32 da LPI                    X             ---
+Comentários/Justificativas
+
+       O novo quadro reivindicatório apresentado por meio da petição n° 870190028926 de 26
+de março de 2019 foi considerado suficiente para fins de superação das objeções relativas ao
+Artigo 10 (IX) da LPI.
+
+       Entretanto, o quadro reivindicatório apresentado através da petição supracitada continua
+pleitando as SEQ ID Nos 1-96. Conforme já notificado, entende-se que não há unidade de
+invenção e que cada uma dessas sequências corresponde a uma invenção separada. Acerca
+disso, por meio da petição n° 870190028926 de 26 de março de 2019, a requerente alegou:
+
+       Do Artigo 22  conceito inventivo As Requerentes entendem que o quadro reivindicatório
+ora apresentado possui um único conceito inventivo ou unidade de invenção. Desta forma,
+entendem que as reivindicações ora apresentadas partilham de características técnicas
+especiais, o que representa uma relação técnica entre si.
+
+       Este parecer técnico não concorda e reitera que o presente pedido de patente de
+invenção não apresenta um conceito inventivo único, não atendendo o disposto no Artigo 22 da
+LPI.
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim           Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X             ---
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI   ---            X
+Comentários/Justificativas
+      Acerca do quadro 3 deste parecer técnico, por meio da petição n° 870190028926 de 26 de
+março de 2019, a requerente alega:
+
+        As Recorrentes respeitosamente discordam de tal opinião. Por exemplo, na página 12 do
+relatório descritivo, linhas 24 a 29, fica claro o uso dos peptídeos revelados pela presente
+invenção, fusionadas ou não com substâncias carreadoras como fagos filamentosos, fármacos,
+substâncias fluorescentes/radioativas, ou qualquer tipo de carreador e sua utilização na detecção
+e identificação de células ou substâncias presentes no câncer, para testes de diagnóstico,
+
+
+
+                                                                                   Página 4 de 7
+                                             PI0805969-1
+
+prognóstico e tratamento. Além disso, nos exemplos 2, 3, 4 e 6, fica demonstrado ainda de forma
+mais clara a capacidade destes peptídeos serem usados isoladamente ou em combinação entre
+eles, bem como adicionados a um carreador, como uma composição para tratamento, diagnóstico
+ou uso vacinal.
+
+        Novamente, o item 2.3.1 da Resolução 144/2015 determina que a matéria objeto da
+proteção deve ser fundamentado por meio de informações técnicas. Ou seja, não é suficiente a
+mera menção a uma possibilidade ou concretização. Assim, o relatório descritivo do presente
+pedido não ensina o uso dos peptídeos revelados para a preparação de composição vacinal,
+farmacêutica ou em diagnóstico e também não ensina ou revela por informações técnicas uma
+composição vacinal. Os exemplos 2,3, 4 e 6 apenas demonstram que estes peptídeos se ligam a
+moléculas tumorais. Um técnico no assunto não esperaria que peptídeos que se ligam a
+moléculas tumorais, mesmo que sejam úteis em técnicas como Imunohistoquímica, sejam
+capazes necessariamente de apresentar ação para proteção imunológica. Nestes termos, este
+parecer técnico reitera que a matéria pleiteada pelas reivindicações 1 e 3-4 não apresentam
+suporte no relatório descritivo, já que este revela apenas uso para detecção. Assim, as
+reivindicações 1 e 3-4 não atendem ao disposto no Artigo 25 da LPI.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                 Documento                                 Data de publicação
+    D1       Askoxylakis, V. et al. Preclinical evaluation of the breast cancer            2005
+             cell-binding peptide. P160. 2005. Clin. Cancer Res. 11(18):
+             6705-6712
+    D2       Krag, D. N. et al. Selection of tumour-binding ligands in cancer              2006
+             patients with phage display libraries. 2006. Cancer Res. 66(15):
+             7724-8925.
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade               Cumprimento                 Reivindicações
+                                                       Sim               1-4 (Grupo 1 de conceito
+            Aplicação Industrial                                                  inventivo)
+                                                      Não                            ---
+                                                       Sim               1-4 (Grupo 1 de conceito
+                 Novidade                                                         inventivo)
+                                                      Não                            ---
+
+                                                       Sim                           ---
+            Atividade Inventiva                       Não                1-4 (Grupo 1 de conceito
+                                                                                inventivo)
+Comentários/Justificativas
+
+         Acerca do quadro 5 deste parecer técnico, a requerente, por meio da petição n°
+870190028926 de 26 de março de 2019 alegou:
+
+         Segundo o Ilmo. Examinador, os documentos D1 e D2 revelam que já era conhecido na
+técnica o uso de phage display para obtenção de peptídeos ligantes de câncer de mama. Além
+
+
+                                                                                           Página 5 de 7
+                                          PI0805969-1
+
+
+disso, que o D1 sugere o uso desses peptídeos para terapia e diagnóstico. Portanto, o Ilmo
+Examinador entende que seria óbvio para um técnico no assunto, face aos ensinamentos de D1
+e D2, formular matéria pleiteada pelas reivindicações examinadas 6 a 8. A matéria, portanto, não
+apresentaria atividade inventiva, não atendendo ao disposto nos artigos 8º e 13º da LPI. As
+Requerentes respeitosamente descorda de tal afirmação. Muito embora a técnica de phage
+display para obtenção de peptídeos seja conhecida na técnica, a mesma pode ser utilizada de
+formas variadas ou os mesmos peptídeos poderiam ter sido desenvolvidos utilizando outras
+técnicas também já conhecidas na técnica. Os fagos obtidos podem ser submetidos à diversos
+tipos de seleção, que nunca são semelhantes, pois depende do alvo, da complexidade, do
+número de ciclos de seleção, da estridência de cada lavagem, do número de subtrações e
+controles usados, entre outras variáveis. Desta forma, os resultados são diferentes, são
+peptídeos diferentes que devem ser validados para a especificidade e por fim são específicos
+para o alvo escolhido. Os documentos D1 e D2 em questão não descrevem a metodologia
+usada no presente pedido de patente, nem utilizam as mesmas bibliotecas, não antecipam as
+mesmas sequências de peptídeos, não usam os mesmos tipos de células e a simples menção
+nos artigos que podem ser usados em diagnóstico ou terapêutica não implica na obtenção de
+marcadores efetivos de maneira bvia, nem muito menos que novas sequências de peptídeos
+pode ser usadas para fins semelhantes. Especificamente, o documento D1 apresenta um ensaio
+pré-clínico de um peptídeo sem qualquer demonstração de eficácia. Além disso, também não
+possui similaridade com as sequências obtidas no referido pedido de patente. O documento D2
+por sua vez demonstra um processo de seleção in vivo em 8 pacientes metastáticos, onde uma
+biblioteca totalmente diferente da usada no pedido de patente em questão foi injetada no sangue
+periférico de pacientes em estado tardio da doença, os tumores foram retirados e os fagos
+obtidos. Em 5 pacientes apenas uma seleção foi feita, e em 3 pacientes foi possível refazer mais
+de uma seleção. Também em D2 não se sabe se tais marcadores possuem reação cruzada em
+outros órgãos e as sequências obtidas são completamente diferentes além de não terem sido
+validadas. O documento D2 também não descreve ou sugere o possível uso de tais peptídeos.
+Portanto, um técnico no assunto seria levado a repetir os protocolos realizados pelos
+documentos D1 e D2, a fim de obter novos peptídeos. No entanto, no presente pedido de
+patente, os fagos foram tratados de forma distinta e usados contra linhagens tumorais
+específicas. Desta forma, estamos tratando de peptídeos que foram selecionados aleatória e
+randomicamente através de técnica já conhecida, mas com protocolo diferente do que foi
+descrito em D1 e/ou D2. Tais peptídeos foram testados contra alvos específicos e,
+surpreendentemente, um número elevado deles foi capaz de se ligar a moléculas tumorais e/ou
+moléculas envolvidas direta ou indiretamente no desenvolvimento de tumores. As sequências
+peptídicas apresentadas na presente invenção não carregam nenhuma relação com as
+sequências peptídicas reveladas pelos documentos D1 e/ou D2. Dessa forma, ao analisarmos
+as sequências de aminoácidos obtidas pela presente invenção e as sequências obtidas pelos
+documentos D1 e/ou D2, não se pode falar em qualquer tipo de relação óbvia que levasse um
+técnico no assunto a testar tais sequências para os mesmos alvos terapêuticos, muito menos
+contra linhagens tumorais específicas. Além disso, nenhum dos documentos D1 e/ou D2
+
+
+                                                                                    Página 6 de 7
+                                           PI0805969-1
+
+
+demonstrou ou sugeriu a possibilidade do uso combinado destes para alcançar resultados
+melhorados quanto ao uso no tratamento, diagnóstico ou vacinal.
+
+         Este parecer técnico analisou os argumentos da requerente e reanalisou os documentos
+D1 e D2 e entende:
+
+         A requerente foi notificada que não há unidade de invenção. Portanto, o exame está
+sendo considerado apenas para o grupo de 1 conceito inventivo, ou seja, SEQ ID NO:1;
+Conforme comunicado em parecer técnico anterior de ciência de parecer (7.1). A requerente
+insistiu em não apresentar quadro reivindicatório restrito a um grupo de conceito inventivo.
+Portanto, apenas o grupo 1 de conceito inventivo continua sendo considerado.
+
+         Nestes termos, cumpre notificar que D1 e D2 já revelavam o uso de phage display (não
+importa se com metodologias ligeiramente distinta) para seleção de peptídeo que se ligue a
+moléculas de câncer de mama humano. Apesar do peptídeo da SEQ ID NO: 1 não estar descrito
+pelos documentos D1 e D2, temos que o presente pedido trata da seleção de mais um peptídeo
+que se liga às moléculas de câncer de mama. Assim, uma vez não está claro se o peptídeo
+definido pela SEQ ID NO: 1 apresenta algum efeito técnico surpreendente, entende-se que
+trata-se de mera alternativa ao que já existe na técnica e que a mesma seria formulada de
+maneira óbvia por um técnico no assunto.
+
+         Portanto, reitera-se que a matéria pleiteada pelas reivindicações 1-4 não atende ao
+disposto nos Artigos 8° e 13 da LPI e não apresenta atividade inventiva, portanto.
+
+         Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -    não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -    as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+           descritivo (Art. 25 da LPI)
+
+     -     não apresenta um conceito inventivo único Art. 22 da LPI)
+
+         De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+                                                           Rio de Janeiro, 19 de fevereiro de 2020.
+
+
+
+Eduardo Garcia Necco Peixoto Regis
+Pesquisador/ Mat. Nº 1880420
+DIRPA / CGPAT II/DIMOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+003/14
+
+
+
+
+                                                                                     Página 7 de 7
+

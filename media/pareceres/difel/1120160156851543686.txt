@@ -1,0 +1,205 @@
+                                         SERVIÇO PÚBLICO FEDERAL
+                                          MINISTÉRIO DA ECONOMIA
+                              INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.º do Pedido:        BR112016015685-4            N.º de Depósito PCT: EP2014/077827
+ Data de Depósito:     15/12/2014
+ Prioridade Unionista: EP 14154554.1 (10/02/2014); EP 14154553.3 (10/02/2014); EP
+                       14154552.5 (10/02/2014)
+ Depositante:          Philip Morris Products S.A. (CH)
+ Inventor:             Rui Batista; Jean-Marc Widmer; Jens Ulrik Poulsen
+ Título:               Conjunto de Aquecedor Permeável a Fluido para um Sistema Gerador
+                       de Aerossol e Método para Montagem de um Aquecedor Permeável a
+                       Fluido para um Sistema Gerador de Aerossol, e Sistema Gerador de
+                       Aerossol
+                                                                      PARECER
+
+      A Requerente recebeu notificação de Ciência de Parecer (7.1) publicada na RPI nº 2653 de
+09/11/2021. Através da petição nº 870220007214 de 27/01/2022, a mesma apresentou
+Manifestação sobre o Parecer Técnico. Para fins de continuidade do exame estão sendo
+consideradas as vias abaixo:
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas           Nº da Petição         Data
+                                                                                870200082901
+ Relatório Descritivo                                          1-31                                 03/07/2020
+                                                                                 Págs. 5 a 35
+                                                                                870200082901
+ Quadro Reivindicatório                                         1-4                                 03/07/2020
+                                                                                Págs. 36 a 39
+                                                                                870160033831
+ Desenhos                                                       1-5                                 05/07/2016
+                                                                                 Págs. 7 a 11
+                                                                                870200082901
+ Resumo                                                         1                                   03/07/2020
+                                                                                   Pág. 40
+
+                  Quadro 2 - Considerações referentes aos Artigos 10, 18, 22 e 32 da LPI
+ Artigos da LPI                                                                             Sim         Não
+ A matéria enquadra-se no Art. 10 da LPI (não se considera invenção)                                     X
+ A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                                             X
+ O pedido apresenta Unidade de Invenção (Art. 22 da LPI)                                        X
+ O pedido está de acordo com disposto no Art. 32 da LPI                                         X
+Comentários/Justificativas: ----
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                               Página 1
+                                            BR112016015685-4
+
+                 Quadro 3 - Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                            Sim                     Não
+O relatório descritivo está de acordo com disposto no Art. 24 da LPI                        X
+O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI                      X
+Comentários/Justificativas: ----
+                            Quadro 4 - Documentos citados no parecer
+ Código                                  Documento                                                Data de publicação
+           JPH11512224
+    D1     Título: Heating Element                                                                     1999-10-19
+           Depositante: Isis Innovation
+           US2013213419
+           Título: Electronic Smoking Article and Improved Heater
+    D2                                                                                                   2013-08-22
+           Element
+           Depositante: Altria Client Services Inc
+
+      Quadro 5 - Análise dos Requisitos de Patenteabilidade (Art. 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento                              Reivindicações
+                                                         Sim                                        1-20
+           Aplicação Industrial
+                                                        Não                                          ----
+                                                         Sim                                        1-20
+                 Novidade
+                                                        Não                                          ----
+                                                         Sim                                         ----
+           Atividade Inventiva
+                                                        Não                                         1-20
+Comentários/Justificativas:
+    Na manifestação a Requerente alega que o documento D1 descreve um aquecedor de malha
+permeável a fluidos. No aquecedor descrito em D1 a malha é soldada a barras de latão, barras de
+latão que são usadas como contatos elétricos. A malha e as barras de contato estão dispostas
+entre duas seções de uma estrutura. Essas seções da estrutura são eletricamente isolantes.
+Assim, em D1 a malha é soldada e não fixada. As barras de latão formam os contatos elétricos,
+mas não são meios de fixação. Se as secções da estrutura forem consideradas meios de fixação,
+então estes meios de fixação não servem como contatos eléctricos. As barras são os contatos
+elétricos e as estruturas são eletricamente isolantes, portanto não podem servir como contatos
+elétricos. Em D1, a malha é fixada às barras (por soldagem) e, em seguida, possivelmente presa
+entre duas estruturas isolantes.
+
+    A Requerente alega que no presente pedido de privilégio de patente de invenção, a malha é
+fixada mecanicamente por meios de fixação a um substrato, onde os meios de fixação servem
+diretamente como contatos elétricos. Não é explicitamente necessário soldar a malha. Com isso,
+um aquecedor pode ser fabricado de maneira barata (apenas algumas peças, poucas etapas de
+
+
+
+
+                                                    Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12     Página 2
+                                         BR112016015685-4
+
+montagem). Assim, a estrutura e configuração do aquecedor de D1 são diferentes do aquecedor
+do presente pedido de privilégio de patente de invenção.
+
+    A Requerente alega que o aquecedor descrito em D1 é usado para aquecer fluido ou gás.
+Embora a maioria dos exemplos se refira ao aquecimento do ar, também é mencionado o
+aquecimento da água. No entanto, o aquecedor é sempre usado apenas para aquecimento, nunca
+para a evaporação de um líquido, como é necessário para produção de aerossol, a temperatura
+de malha de 87° C.
+
+    A Requerente alega que, embora não sejam mencionados tamanhos para o aquecedor
+descrito em D1, a partir dos exemplos de aplicação mencionados, pode-se considerar que o
+aquecedor de D1 é muito grande para ser adequado para um dispositivo gerador de aerossol
+portátil como na presente invenção (isso é basicamente admitido no parecer). A miniaturização de
+dispositivos como o aquecedor conforme descrito em D1 não é simples e não pode ser alcançada
+simplesmente tornando todos os elementos menores. Independentemente disso, em vista das
+diferenças acima mencionadas, nota-se uma hipotética miniaturização não levaria ao conjunto de
+aquecedor descrito no presente pedido de privilégio de patente de invenção.
+
+    A Requerente alega que o documento D2 se refere a tais dispositivos portáteis geradores de
+aerossol, no entanto, o aquecedor descrito em D2 é completamente diferente do aquecedor da
+presente pedido de privilégio de patente de invenção. Em D2, uma faixa de malha é enrolada em
+torno de um pavio. Por ação capilar, o pavio guia o líquido de um reservatório tubular para a área
+onde a faixa de malha está ao redor do pavio. Em D2 não há substrato compreendendo uma
+abertura ou uma faixa de malha disposta sobre a abertura, com meios de fixação que fixam
+mecanicamente a faixa no substrato. Além disso, não são descritos em D2 tais meios de fixação
+que fixam a malha ao substrato que formam contatos eléctricos.
+
+    A Requerente alega que os documentos D1 e D2 não descrevem como se fixar
+mecanicamente os filamentos ao substrato com os meios de fixação, e fornecer um contato
+elétrico aos filamentos através dos meios de fixação.
+
+    A Requerente alega que os documentos D1 e D2 não descrevem a disposição de um conjunto
+aquecedor permeável a fluidos sobre uma extremidade aberta de uma carcaça de uma porção de
+armazenamento.
+
+    Apesar das alegações da Requerente, o documento D1 descreve um aquecedor de malha de
+permeabilidade ao fluido onde a malha é soldada às barras terminais de latão e essas barras
+terminais de latão são conectadas à fonte de alimentação (Linhas 5-9 e Fig. 1 -4). A parte da
+estrutura que um conjunto de malha é colocada entre as partes da estrutura é disposta pelo rebite
+na posição, e contata uma malha é formada com o isolador elétrico (Página 10, Linhas 16-23). A
+malha é soldada e não é fixada por um meio com um feixe para fixar uma malha mecanicamente,
+como descrito no presente pedido de privilégio de patente de invenção. As barras terminais de
+
+
+
+                                                Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 3
+                                         BR112016015685-4
+
+latão que constituem um eletrodo não são meios para fixar uma malha mecanicamente, como no
+presente pedido de privilégio de patente de invenção. O contato elétrico entre o arranjo de
+filamentos, a fixação entre as substâncias de base e o arranjo de filamentos e o contato de uma
+energia externa (por exemplo, célula) é realizado com um feixe mecânico. O meio com um feixe
+fornece uma fixação positiva do arranjo de filamento e o contato confiável entre o arranjo de
+filamento e um meio com um feixe. Ao estabelecer contato elétrico de um feixe mecânico e arranjo
+de filamentos por meios mecânicos, soldagem, soldagem ou gravação de contato elétrico não são
+necessários. Isso é de fácil fabricação e pode reduzir o custo da peça fabricada de um conjunto
+de aquecedor. Isso promove a usinagem de um conjunto de aquecedor ou de sua peça
+novamente. A fixação mecânica pode melhorar o conjunto do aquecedor ou sua parte novamente.
+A fixação mecânica pode melhorar a confiabilidade de um conjunto de aquecedor, evitando o
+problema que muitas vezes existe por soldagem e soldagem de uma junta soldada a frio,
+soldagem entre os resfriados, etc. O arranjo do filamento não entra em contato tão diretamente
+quanto o conector da célula do sistema de geração de aerossol, portanto, após inserir um
+aquecedor em um sistema, evita-se que o arranjo do filamento se rompa. Além disso, o aquecedor
+atualmente divulgado em D1 não é usado para volatilizar um líquido (por exemplo, a temperatura
+usa o aquecedor que será de 87 graus Celsius como um aquecedor de água). Neste ponto, difere
+completamente do presente pedido de privilégio de patente de invenção, que é um conjunto de
+aquecedor de permeabilidade de fluido para sistema de geração de aerossol. Sendo usado para
+comércio, indústria e uso doméstico é assumido, e o aquecedor atualmente divulgado em D1 é
+considerado o que tem um tamanho muito grande em comparação com o conjunto de aquecedor
+de permeabilidade de fluido para o sistema de geração de aerossol da presente invenção que um
+usuário usa com um estoque.
+
+    O documento D2 divulga um gerador de aerossol onde uma malha será torcida em torno de
+uma circunferência. De acordo com a capilaridade, deriva um líquido para a região onde a correia
+de uma malha é torcida em torno da circunferência do tanque de armazenamento tubular. D2 não
+descreve um feixe para fixar o arranjo de filamentos a uma substância de base mecanicamente
+também em torno da substância de base que contém uma abertura. Não é descrito um contato
+elétrico para fornecer a corrente para aquecimento.
+
+Conclusão
+    Face ao exposto, conclui-se que a invenção ora pleiteada decorre de maneira evidente ou
+óbvia, para um técnico no assunto, a partir do estado da técnica, sendo desprovida de atividade
+inventiva, conforme Art. 13 da LPI.
+
+    Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que o mesmo não
+atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+    Rio de Janeiro, 28 de fevereiro de 2022.
+
+    Publique-se o indeferimento (9.2).
+
+
+                                                Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 4
+                                              BR112016015685-4
+CAMILO BRAGA GOMES
+Pesquisador / Mat. Nº 1547071
+DIRPA / CGPAT III / DIFEL
+Deleg. Comp. - Port. INPI / DIRPA Nº 022/12
+
+
+
+
+                                                    Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 5
+

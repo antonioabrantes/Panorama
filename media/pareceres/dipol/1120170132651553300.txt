@@ -1,0 +1,241 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR112017013265-6         N.° de Depósito PCT:EP2015/080876
+ Data de Depósito:                     21/12/2015
+ Prioridade Unionista:                 GB 1422957.9 (22/12/2014)
+ Depositante:                          NORNER VERDANDI AS (NO)
+ Inventor:                             TORE DRENG, MORTEN LUNDQUIST, JARMO LINDROOS
+ Título:                               "POLIETILENO MULTIMODAL DE METALOCENO, TUBO E SEUS
+                                       PROCESSOS DE PREPARAÇÃO 
+
+                                                                    PARECER
+          Em resposta ao parecer técnico de ciência (7.1), notificado na RPI 2653 de 09/11/2021, o
+Depositante apresentou petição n° 870220008731 em 01/02/2022 com esclarecimentos e nova
+via de quadro reivindicatório.
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas         n.o da Petição           Data
+
+Relatório Descritivo                                            1             870180164212           17/12/2018
+Relatório Descritivo                                          2 a 82          870170050090           18/07/2017
+Quadro Reivindicatório                                         1a7            870220008731           01/02/2022
+Desenhos                                                       1a4            870170050090           18/07/2017
+Resumo                                                          1             870180164212           17/12/2018
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                                 Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                       X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                               X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+Comentários/Justificativas
+
+
+
+                      Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                 Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           X
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                               Página 1
+                                                        BR112017013265-6
+
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                   X
+Comentários/Justificativas
+       As alegações apresentadas pela Requerente foram consideradas, porém, não foram
+suficientes para superar as objeções levantadas no último parecer. A reivindicação 1 define a
+matéria pleiteada a partir de declarações genéricas que utilizam termos vagos e imprecisos como
+polimerização em suspensão e peso molecular médio.
+       Sobre a definição do tipo de polimerização como polimerização em suspensão ou
+polimerização em pasta fluida, cabe ressaltar que ao longo do relatório descritivo o meio em que
+ocorre a polimerização da invenção é definido como diluente/solvente (ver parágrafos [00139],
+[00152], [00161], [00171], [00189] e [00205]) ou simplesmente como solvente conforme tabela 1
+com dados experimentais da invenção. Portanto, não há definição inequívoca de que a invenção
+se refere exclusivamente a polimerização em suspensão e não em solução conforme antecipado
+pelos documentos citados do estado da técnica. Além disso, foi feita a análise das ditas condições
+preferenciais da invenção que influenciam a solubilidade do sistema  solvente: hexano e
+isobutano e temperatura: 50-100°C e polimerizações assim como essas foram antecipadas pelos
+documentos D1 ([0052] e [0064]), D2 ([0059] e [0071]) e D3 ([0040] e [0044]), apesar de tais
+documentos não especificarem que, sob essas condições a polimerização passe a ser de
+suspensão. Como observado, o uso desses termos vagos pode levar a extensão da matéria de
+proteção a sistemas já conhecidos. Assim, a falta de clareza e precisão da matéria objeto de
+proteção não pode ser admitida, pois contraria o disposto no Artigo 25 da LPI e na Instrução
+Normativa n°30/2013  Art. 4°(III).
+       Com relação ao parâmetro peso molecular médio, é conhecido para um técnico no
+assunto há diferentes tipos de médias que podem ser empregadas para definir a massa molar de
+um sistema polimérica: massa molar numérica média (Mn), massa molar ponderal média (Mw) e
+massa molar viscosimétrica média (Mv). Ainda, os valores numéricos obtidos para um mesmo
+sistema dependem dos métodos e meios de medição empregados para seu cálculo, mesmo
+quando se referindo ao mesmo tipo de média. Por esse motivo, além de definir a que tipo de peso
+molecular médio as reivindicações se referem, os parâmetros peso molecular médio e Mn
+devem estar acompanhados do método e os meios para sua medição para a definição inequívoca
+da invenção (ver Diretrizes de Exame, Resolução n°124/2013 de 04/12/2013). Cabe destacar que,
+apesar de a Requerente, por um lado, afirmar que as reivindicações definem claramente cada
+elemento, a mesma cita que a dita reivindicação 1 especifica que as partículas têm  peso
+molecular ponderal médio de pelo menos 50.000 g/mol, o que não está de acordo com o texto
+das reivindicações 1, 24 e 27 do quadro reivindicatório apresentado.
+       A definição da morfologia do polímero obtido como partículas permite maior clareza sobre
+o parâmetro densidade aparente, porém, não é suficiente para a definição inequívoca dos
+parâmetros densidade e densidade aparente, este último que se refere ao polímero na forma
+física de pó obtido após a polimerização. Conforme determina as Diretrizes de Exame, Resolução
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                      Página 2
+                                                         BR112017013265-6
+n°124/2013 de 04/12/2013, a invenção deve ser definida completamente na própria reivindicação
+e nela devem ser incluídos o método e os meios de medição, visto que a mesma define a matéria
+pela qual se requer proteção.
+         Perante os problemas de falta de clareza mencionados anteriormente relacionados a
+omissão de características técnicas essenciais da invenção, as reivindicações 1, 22 e 24 não
+podem ser aceitas, pois definem o objeto processo em termos de resultados alcançados, como,
+por exemplo, propriedades do polímero obtido pelo processo pleiteado: polietileno de distribuição
+de peso multimodal, densidade aparente de pelo menos 250 g/dm³, não existe uma
+incrustação do reator no referido primeiro e/ou segundo e/ou terceiro estágio de polimerização,
+um peso molecular de 100 000 a 250 000 g/mol; um Mn de 18 000 a 40 000 g/mol; uma MWD de
+1 a 25; um MFR2 de 0,005 a 0,2 g/10 min; um MFR5 de 0,05 a 1 g/10 min; uma densidade de 920
+a 980 kg/dm³; uma densidade aparente de 250 a 400 g/dm³ ; e/ou um teor de cinzas de 0 a 800
+ppm em peso, e não pelas características técnicas do objeto, em desacordo ao disposto no Art.
+25 da LPI.
+         A reivindicação dependente 17 excede as limitações das características compreendidas na
+reivindicação a qual se refere, o que contraria o disposto no Art. 25 da LPI e na Instrução
+Normativa nº 30/2013  Art. 6º (II), pois se referem a estágios de polimerização que produzem,
+cada um, menos de 5% em peso do referido polietileno multimodal.
+
+
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                        Data de publicação
+    D1        US2012015123 A1                                                                19/01/2012
+    D2        US2010120981 A1                                                                13/05/2010
+    D3        US2010234545 A1                                                                16/09/2010
+    D5        US2011262671 A1                                                                27/10/2011
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                     Cumprimento   Reivindicações
+                                                                           Sim           1 a 30
+             Aplicação Industrial
+                                                                          Não              ---
+                                                                           Sim          27 a 30
+                     Novidade
+                                                                          Não            1 a 26
+
+                                                                           Sim             ---
+             Atividade Inventiva
+                                                                          Não            1 a 30
+
+
+
+Comentários/Justificativas
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 3
+                                                          BR112017013265-6
+
+         Mesmo diante das alegações apresentadas pela Requerente na última manifestação, os
+documentos D1, D2, D3 e D5 ainda são considerados relevantes para a análise dos requisitos
+de patenteabilidade de novidade e atividade inventiva
+
+         Segundo as Diretrizes de Exame, Bloco II (item 4.11), Resolução n°169 de 15/07/2016, a
+falta de novidade deve ser apontada quando a matéria pleiteada está definida de forma genérica
+e ampla  em termos de a polimerização ser do tipo polimerização de suspensão  e quando
+existe documentos no estado da técnica que revelam a matéria de forma específica dentro dos
+parâmetros reivindicados no pedido em exame, conforme se observa a seguir.
+
+         A reivindicação independente 1 referente ao processo para preparação de um polietileno
+multimodal não é considerada nova e não atende ao requisito de atividade inventiva, pois os
+documentos D1, D2 e D3 antecipam as seguintes características pleiteadas:
+
+         (i) polimerização de etileno e opcionalmente um comonômero de -olefina em um
+primeiro estágio de polimerização de suspensão para produzir um primeiro polímero de etileno;
+
+         e (ii) polimerização de etileno e opcionalmente um comonômero de -olefina, na presença
+do referido primeiro polímero de etileno, em um segundo estágio de polimerização de
+suspensão,
+
+         em que os referidos primeiro e segundo estágios de polimerização são realizados na
+presença de um catalisador de metaloceno não suportado,
+
+         uma solução do referido catalisador de metaloceno não suportado em um solvente é
+usado,
+
+         e cada fase de polimerização produz pelo menos 5% em peso do referido polietileno
+multimodal (ver D1: resumo, parágrafos [0050] - [0064] e reivindicações, D2: resumo, D3:
+resumo, parágrafos [0011] - [0014], [0040] e reivindicações).
+
+         No relatório descritivo do presente pedido, parágrafos [00317] e [00318], fica claro que as
+propriedades desejáveis referentes a não incrustação de reator, alta densidade aparente, baixo
+teor de cinzas e alta massa molar (relacionada ao MFR) são resultados alcançados pelo
+processo realizado com catalisadores de metaloceno não suportados em pelo menos dois
+estágios de polimerização. Logo, é evidente para um técnico no assunto que os processos
+revelados por D1, D2 e D3, realizados da mesma forma que as modalidades preferenciais da
+invenção pleiteada  catalisador de metaloceno não suportado, de sítio único, copolimerização
+de etileno e -olefina em dois estágios, solvente de hexano ou isobutano e temperatura:
+50-100°C, alcancem os mesmos resultados. Portanto, D1, D2 e D3 antecipam a matéria
+pleiteada pelas reivindicações 1 a 26.
+
+         O documento D5, apesar de não se referir a um polímero obtido de distribuição
+multimodal, descreve que podem ser empregados reatores múltiplos em série. Portanto, a
+matéria da reivindicação 1 não atende ao requisito de atividade inventiva, pois decorre de
+maneira óbvia para um técnico no assunto a partir dos ensinamentos de D5.
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                       Página 4
+                                                          BR112017013265-6
+
+      Com relação à reivindicação independente 27, cabe ressaltar que as características dos
+produtos obtidos em um processo de obtenção não são suficientes para definir de modo claro e
+preciso o processo. Além disso, apesar de a Requerente afirmar que as partículas pleiteadas se
+diferenciam das reveladas por D1, D2 e D3 por apresentarem densidade aparente de pelo
+menos 250 g/dm³, este parâmetro densidade aparente é considerado incomum e a princípio
+não pode ser aceito, visto que nenhuma comparação significativa com os documentos do estado
+da técnica e por isso pode estar mascarando uma falta de novidade (ver item 3.56, Diretrizes de
+Exame, Resolução n°124/2013 de 04/12/2013). Assim, de forma análoga à reivindicação 1, a
+reivindicação 27 referente a partículas de polietileno multimodal de metaloceno não atende ao
+requisito de atividade inventiva, pois decorre de maneira evidente para um técnico no assunto
+diante dos ensinamentos de D1, D2, D3 e D5, mesmo que considerados isoladamente.
+
+      Nas demais reivindicações dependentes, não foram identificadas características que,
+mesmo quando combinadas com as características de qualquer reivindicação independente a
+que se referem, venham a prover novidade e/ou a atividade inventiva à matéria.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -      não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+      -      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -      as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+             descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                                             Rio de Janeiro, 24 de março de 2022.
+
+
+
+
+Shalimar Pimenta Cheble Caplan
+Pesquisador/ Mat. Nº 2359423
+DIRPA / CGPAT I/DIPOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+008/18
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                    Página 5
+

@@ -1,0 +1,185 @@
+                                       SERVIÇO PÚBLICO FEDERAL
+                                        MINISTÉRIO DA ECONOMIA
+                            INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112012020417-3          N.° de Depósito PCT:BR2010/000073
+ Data de Depósito:                   03/03/2010
+ Prioridade Unionista:               -
+ Depositante:                        UNIVERSIDADE ESTADUAL DE CAMPINAS - UNICAMP (BRSP)
+ Inventor:                           ANDERSON DE REZENDE ROCHA
+ Título:                             Método e sistema para reconhecimento e classificação de objetos em
+                                     ambientes semi controlados 
+
+                                                                PARECER
+       Em 15/01/2021, por meio da petição nº 870210005530, a Requerente apresentou
+modificações no Quadro Reivindicatório, em resposta ao parecer emitido, notificado na RPI nº
+2599 de 27/10/2020 (despacho 7.1), Estas modificações estão consideradas no Quadro 1.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                 n.o da Petição         Data
+Relatório Descritivo                                    1 à 26               018120030119-DESP      15/08/2012
+Quadro Reivindicatório                                   1à2                   870210005530         15/01/2021
+Desenhos                                                 1à7                 018120030119-DESP      15/08/2012
+Resumo                                                      1                018120030119-DESP      15/08/2012
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                              Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                         X
+O pedido está de acordo com disposto no art. 32 da LPI                                          X
+Comentários/Justificativas
+
+                     Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                              Sim         Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                            X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                          X
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                       BR112012020417-3
+
+        A requerente removeu a matéria das antigas reivindicações 16 e 17 e o atual quadro
+reivindicatório encontra-se de acordo com o Artigo 25 da LPI.
+
+                          Quadro 4  Documentos citados no parecer
+ Código                               Documento                               Data de publicação
+    D1                             US 20070122009 A1                                  31/05/2007
+    D6                               US 7577297 B2                                    18/08/2009
+    D7                               US 7218775 B2                                    15/05/2007
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento                Reivindicações
+                                                    Sim                         1à2
+            Aplicação Industrial
+                                                    Não                           -
+                                                    Sim                         1à2
+                 Novidade
+                                                    Não                           -
+                                                    Sim                           -
+            Atividade Inventiva
+                                                    Não                         1à2
+Comentários/Justificativas
+       Por meio da petição n° 870210005530 de 15/01/2021, o depositante apresentou novas
+vias do quadro reivindicatório (2 reivindicações), aceitas e utilizadas no exame. A requerente
+levou para a matéria da reivindicação 1 a matéria das reivindicações dependentes 2 à 15. No
+entanto as matérias presentes nestas reivindicações, somadas à reivindicação 1 foram
+consideradas sem atividade inventiva frente a combinação dos ensinamentos dos documentos
+citados do estado da técnica D1, D6 e D7.
+
+         Como discutido no parecer anterior, o documento D1 revela método e aparelho para
+reconhecimento facial, descrevendo classificador criado por aprendizado de máquina, no qual a
+imagem normalizada é dividida em partes através de PCA para aplicação de LDA (parágrafos
+0003 de D1). O documento D1 revela ser uma prática natural a um técnico no assunto o pré-
+processamento de imagens, com as etapas de redução de resolução de imagem, normalização
+divisão da imagem normalizada em duas ou mais dimensões e subsequente extração de
+características (resumo; figuras 1, 3A; parágrafos 0003, 0008, 0019 à 0021, 0026 à 0040;
+reivindicações 1 à 5 de D1).
+
+         O documento D6 revela método e dispositivo para identificação de padrões de dados em
+imagens (figuras 13 e 14; coluna 21: linha 5 à coluna 22: linha 65 de D6), dividindo um problema
+maior em problemas menores, permitindo extrair diferentes características visuais localmente, no
+qual ao menos uma parte da seção de extração de características utiliza canais (vetores
+unidimensionais) do espaço de cor HSV bem como a separação em diferentes faixas de Hue, o
+que denota diferentes faixas de cores, além de citar também a utilização do canal de saturação S
+(resumo; figuras 1 à 8, 35; página 14: linha 66 à página 15: linha 11; coluna 43: linhas 25 à coluna
+44: linha 38; coluna 45: linhas 26 à 28 de D6). Também é descrito no documento D6 uma fase de
+
+
+                                                                                            Página 2
+                                        BR112012020417-3
+
+
+aprendizado ou treinamento para a rede neural utilizada no método, sendo isso uma prática
+natural a um técnico no assunto de redes neurais (coluna 12: linhas 11 à 18; coluna 13: linhas 9 à
+41 de D6). O documento D6 revela ainda a extração de características em diferentes níveis de
+hierarquia, gerando um determinado número de classes para representar diferentes grupos de
+características extraídas de forma local a cada imagem gerada a partir da divisão da imagem
+original (figura 17A; coluna 23: linha 59 à coluna 24: linha 3; coluna 29: linhas 38 à 44; coluna 41:
+linhas 43 à 50 de D6)
+
+       Em relação ao documento D7, este revela método de reconhecimento de sementes
+(listando também sua aplicação para outros itens alimentícios, inclusive frutas e vegetais), grãos e
+outros pequenos objetos utilizando reconhecimento de imagens e redes neurais, identificando
+diversas características distintas dos grãos (cor, forma, tamanho, integridade), utilizando
+reconhecimento de contornos, operadores morfológicos e correção de cor, com a capacidade de
+separar também elementos não reconhecidos, analisando pixels que podem conter tais elementos
+ou representam alguma anomalia de cor e forma em relação aos elementos reconhecidos e gerar
+uma respostas classificadora para ambos (resumo; figuras 1 e 2; coluna 1: linhas 40 à 65; coluna
+2: linha 17 à coluna 6: linha 11; coluna 9: linhas 12 à 34 e 54 à 65; coluna 10: linhas 4 à 25;
+reivindicações 1 à 11 de D7). É também revelado o uso de sistemas de computador executando
+programas de processamento de imagens e redes neurais recebendo imagens das ditas
+sementes e similares a partir de câmeras digitais (coluna 10: linha 26 à coluna 11: linha 10 de D7)
+e uso de algoritmos de detecção de bordas para separar elementos (grãos) do fundo (coluna 11:
+linhas 40 à 64 de D7). O documento D7 ainda revela o treinamento da rede neural com ao menos
+dois conjuntos de dados, contendo características específicas dos objetos a serem rastreados
+pela rede neural (coluna 11: linhas 19 à 37 de D7) e aplicar uma segunda filtragem sobre os pixels
+representando os objetos, analisando tais pixels em relação a parâmetros geométricos
+representativos do objeto, além de aplicação de máscaras binárias sobre as imagens originais
+(coluna 11: linha 65 à coluna 12: linha de D7). O documento D7 também revela extração de
+características utilizando diferentes canais de cores (coluna 12: linhas 34 à 49 de D7) e a divisão
+de uma classe em subclasses, no qual o treinamento da rede considera esta subdivisão e
+consequente análise de parâmetros indicativos destas subclasses (coluna 15: linhas 34 à 46;
+coluna 16: tabela 1 e linha 53 à coluna 17: linha 11 de D7). Ainda que nenhum dos documentos
+citados revele explicitamente a faixa de imagens específica de 8 à 64 imagens, não é perceptivel
+um efeito técnico específico e distinto nisso, entende-se ser esta uma decisão de projeto de modo
+a ter uma determinada amostragem probabilística, sem necessariamente conter atividade
+inventiva.
+
+       É portanto mantida a análise anterior, a combinação dos ensinamentos do documento D1
+com os ensinamentos do documento D6 e do documento D7 revelam método de reconhecimento
+e classificação de objetos com uma etapa de treinamento e uma etapa de inferência, no qual a
+etapa de treinamento compreende aquisição e pré-processamento de imagens com mudança de
+resolução, mudança de espaços de cor, extração de canais de cor, filtragem e extração de
+características dividindo a imagem em diferente descritores para representar diferentes conjuntos
+
+
+
+                                                                                            Página 3
+                                      BR112012020417-3
+
+
+de dados de imagem a serem processados, com dois ou mais conjuntos de dados distintos para
+treinamento, e combinando características com classificadores, além de um passo de inferência
+com aquisição de imagem, extração de características e classificação de possíveis objetos
+presentes na imagem frente aos dados usados nos classificadores durante o treinamento e
+obtenção de uma classificação para os dados sendo inferidos. Consequentemente, entende-se
+que a matéria das reivindicações 1 à 2 carece de atividade inventiva frente a combinação dos
+ensinamentos dos documentos D1 com D6 e D7, estando em desacordo com o Artigo 8º
+combinado ao 13 da LPI.
+
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                           Rio de Janeiro, 26 de Fevereiro de 2021.
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+Luciano Lauand Viana de Paula
+Pesquisador/ Mat. Nº 2042359
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 001/16
+
+
+
+
+                                                                                          Página 4
+

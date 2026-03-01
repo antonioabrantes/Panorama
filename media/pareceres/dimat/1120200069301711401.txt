@@ -1,0 +1,191 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112020006930-2              N.° de Depósito PCT:AU2018/051082
+ Data de Depósito:                   08/10/2018
+ Prioridade Unionista:               AU 2017904043 (06/10/2017)
+ Depositante:                        MONASH UNIVERSITY (AU)
+ Inventor:                           XINHUA WU; XIGEN ZHOU
+ Título:                             Liga de titânio tratável termicamente melhorada 
+
+                                                                PARECER
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1  12               870200058862           12/05/2020
+Quadro Reivindicatório                                   12                 870230027589           31/03/2023
+Desenhos                                                    1                870200058862           12/05/2020
+Resumo                                                      1                870200044159           06/04/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                                   x
+
+
+
+Comentários/Justificativas
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                                        BR112020006930-2
+Neste parecer serão utilizados os seguintes símbolos:
+LPI  Lei da Propriedade Industrial (Lei N° 9.279/96)
+IN  Instrução Normativa
+RD  relatório descritivo
+QR  quadro reivindicatório
+R  reivindicação
+
+
+
+
+          Após notificação de despacho de ciência de parecer (7.1) publicado na RPI nº 2713 em
+03/01/2023, a requerente impetrou a petição de n° 870230027589 em 31/03/2023, onde apresenta
+novo quadro reivindicatório.
+
+
+          A requerente não saneou o pedido quanto às irregularidades abaixo:
+
+
+          A reivindicação 1 não está em conformidade com o disposto no Art. 25 da LPI, uma vez
+que possibilita que outros elementos sejam incorporados à composição da liga no trecho outras
+impurezas inevitáveis presentes de 0 a 0,15% em peso de cada e 0,40% em peso no agregado. A
+sinergia      destes        elementos       adicionais      com   os   elementos   pleiteados   pode   modificar
+significativamente as propriedades da liga, o que afeta a clareza e precisão da matéria pleiteada.
+
+
+          A requerente alega que é prática comum colocar um limite na quantidade de outros
+elementos prováveis de impurezas considerados aceitáveis. Esta alegação não pode ser
+considerada persuasiva, uma vez que 0,15% em peso de um elemento em uma liga é capaz de
+modificar significativamente as propriedades da liga, em especial quando ainda somada a outros
+elementos não reivindicados até um limite de 0,40% em peso.
+
+
+          A reivindicação dependente 2 é caracterizada pelo fato de o teor de carbono ser fornecido
+por uma adição pretendida de carbono (grifo nosso), o que afeta a clareza e precisão da matéria
+reivindicada, contrariando o disposto no Art. 25 da LPI.
+
+
+
+
+                                  Quadro 4  Documentos citados no parecer
+
+  Código                                            Documento                              Data de publicação
+     D1                                             US5068003                                   26/11/1991
+
+
+
+
+      Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+
+                                                                                                       Página 2
+                                       BR112020006930-2
+
+     Requisito de Patenteabilidade            Cumprimento                Reivindicações
+                                                    Sim                       1  10
+           Aplicação Industrial
+                                                   Não                          ---
+                                                    Sim                       1  10
+                Novidade
+                                                   Não                          ---
+                                                    Sim                         ---
+           Atividade Inventiva
+                                                   Não                        1  10
+
+
+Comentários/Justificativas
+
+
+       Como indicado no exame anterior, D1 ensina (vide col. 4, l. 5 a col. 8, l. 37; exemplo 1 e
+tabela 1 de D1) uma liga de titânio beta-C Ti-3Al-8V-6Cr-4Mo-4Zr contendo 0,9% de carbono (liga
+número 4) e adicionalmente ensina faixas de carbono de 0,2-5% (vide col. 5, l. 26-45 e R6 de D1).
+O documento D1 ainda ensina a adição de carbono na forma de carbonetos a uma liga padrão
+(coluna 4 linhas 51-59).
+
+
+       A requerente alega que D1 claramente não ensina nenhuma das características técnicas
+necessárias para um técnico no assunto alcançar o objeto reivindicado da reivindicação 1. Esta
+alegação não pode ser considerada persuasiva, uma vez que:
+
+
+       1. A liga pleiteada se sobrepõe à liga ensinada por D1;
+
+
+       2. O carbono adicionado conforme os ensinamentos de D1 é facilmente decomposto na
+          fase beta e permite o controle preciso dos beta-formadores e carbonetos cristalizados
+          ou precipitados que estão uniformemente dispersos por toda a matriz (vide col. 4, l.
+          51-59).
+
+
+
+
+       Desta forma, resta reafirmar que a liga pleiteada na reivindicação 1 não atende ao
+requisito de atividade inventiva em relação ao estado da técnica, contrariando o disposto no artigo
+8° c/c 13 da LPI.
+
+
+
+
+                                                                                          Página 3
+                                        BR112020006930-2
+
+
+Conclusão
+
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                              Rio de Janeiro, 27 de abril de 2023.
+
+
+
+
+Rafael Vieira Camerini
+Pesquisador/ Mat. Nº 2317410
+DIRPA / CGPAT IV/DIMAT
+Deleg. Comp. - Port. INPI/DIRPA Nº
+012/18
+
+
+
+
+                                                                                         Página 4
+

@@ -1,0 +1,205 @@
+                              SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA E COMÉRCIO EXTERIOR
+                   INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0009680-6                N.° de Depósito PCT:SE00/00677
+ Data de Depósito:                   07/04/2000
+ Prioridade Unionista:               US 60/128517 (09/04/1999); US 09/537146 (29/03/2000)
+ Depositante:                        Telefonaktiebolaget LM Ericsson (publ) (SE)
+ Inventor:                           Per Beming, Kazuhiko Inoue, Mathias Johansson, Michael Meyer,
+                                     Bela Rathonyi, Christiaan Roobol, Joachim Sachs, Erik Schön
+ Título:                             Método e sistema para minimizar respostas de realimentação em um
+                                     protocolo de ARQ.
+
+                                                                PARECER
+          Em 27/10/2014, através da petição no 860140179655, a Requerente apresentou
+manifestação quanto 1 a ciência de parecer notificada através de publicação na RPI n° 2.276, de
+19/08/2014, ao apresentar novas páginas do Quadro Reivindicatório (21 reivindicações) como
+segue.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                 Nº da Petição          Data
+
+Relatório Descritivo                                    1  19               Petição de depósito     09/10/01
+Quadro Reivindicatório                                   14                   860140179655          27/10/14
+Desenhos                                                 13                 Petição de depósito     09/10/01
+Resumo                                                      1                Petição de depósito     09/10/01
+          O novo Quadro Reivindicatório inclui:
+         reivindicações no 1  20 de método para minimizar respostas de realimentação em um
+          protocolo ARQ;
+         reivindicação no 21 de sistema para minimizar respostas de realimentação em um
+          protocolo ARQ.
+                Quadro 2 - Considerações referentes aos Artigos 10, 18, 22 e 32 da LPI
+Artigos da LPI                                                                                 Sim      Não
+A matéria enquadra-se no Art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (Art. 22 da LPI)                                         X
+O pedido está de acordo com disposto no Art. 32 da LPI                                          X
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                              PI0009680-6
+
+
+                  Quadro 3 - Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                            Sim              Não
+O relatório descritivo está de acordo com disposto no Art. 24 da LPI                        X
+O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI                      X
+Comentários/Justificativas:
+   1) A Requerente alega que o pedido está em condições de merecer o privilégio pretendido,
+      estando a mesma em conformidade com as disposições legais. Requerendo, portanto, que
+      a opinião anterior seja revista e aguarda o pronto deferimento do presente pedido. vários
+      pontos levantados na primeira comunicação do examinador não foram atendidos.
+
+   2) Estes pontos são repetidos para ser exaustivo no caso em que um recurso ser interposto
+      contra a decisão acima:
+       (i)        Reivindicação 1 não é suficientemente clara na medida em que           a segunda
+       unidade de dados não é definida como uma resposta de feedback no protocolo ARQ.
+       Esta é no entanto uma característica essencial que define o contexto no qual a invenção
+       opera, estando em desacordo com o Art. 4o.III da IN 30/2013.
+
+       (ii)       A expressão "dito um de vários campos da mensagem" em reivindicações
+       dependentes 2-5 e 15 não tem antecedente na reivindicação 1 como resultado das
+       alterações introduzidas nas reivindicações independentes na fase internacional. As ditas
+       reivindicações dependentes carecem de clareza e deveriam ter sido alteradas da mesma
+       forma como as reivindicações independentes, em desacordo com o Art. 4o.III da IN
+       30/2013.
+
+       (iii)      As características das reivindicações não são fornecidos com sinais de referência
+       colocados entre parêntese, sem desacordo com o Art. 2o.VIII da IN 30/2013.
+
+       (iv)       A referência ao pedido de prioridade na descrição na página 1 não é considerado
+       válido pela legislação brasileira, sendo desnecessário, e deve ser excluído.
+   3) Quanto a reivindicação 1, esta não mostra de clareza seguinte: A formulação "Em um
+      sistema .... disse segunda entidade par compreendendo ... "carece de clareza quanto ao
+      alcance da proteção solicitada, como não está claro se a proteção é requerida apenas para
+      a segunda entidade par para uso no sistema, ou para o próprio sistema, portanto, em
+      desacordo com o Art. 4o.III da IN 30/2013.
+     Quadro 4 - Análise dos Requisitos de Patenteabilidade (Art. 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento              Reivindicações
+                                                        Sim                     1  21
+               Aplicação Industrial
+                                                        Não
+                                                        Sim                     1  21
+                    Novidade
+                                                        Não
+                                                        Sim
+               Atividade Inventiva
+                                                        Não                     1  21
+
+
+
+                                                                                            Página 2
+                                          PI0009680-6
+
+
+Comentários/Justificativas:
+
+        O presente pedido refere-se ao campo de controle de erro utilizando um protocolo de
+solicitação de repetição automática (ARQ). A técnica anterior mais próxima é considerada estar
+representada na própria descrição do pedido na página 3 e na figura 1 da descrição.
+
+        A este respeito, a figura 1 e a página 3 do presente pedido de patente descrevem um
+método de técnica anterior de minimizar as respostas de realimentação num protocolo de ARQ
+que compreende as características da reivindicação 1, definidas por meio das etapas de
+método.
+
+        Analisando os argumentos apresentados pela Requerente, verifica-se que a solução
+proposta como nova e inventiva encontra-se antecipada no Relatório Descritivo         do próprio
+presente pedido na página 3 na descrição relativa ao diagrama de sequência que ilustra o uso
+de protocolos ARQ como representado na figura 1.
+
+        O método para minimizar respostas de realimentação em um protocolo de ARQ
+(antecipado na página 3, linhas 20  página página 4, linha 10), compreende as etapas de:
+receber uma pluralidade de primeiras unidades de dados (antecipado na fig. 1, ref. D-PDU)
+através de uma ligação de comunicação; e é responsivo à etapa de receber, construir um à
+vários campos de mensagem para uma segunda unidade de dados (antecipado na figura 1, ref.
+S-PDU). Como parte caracterizante do método encontra-se os ditos um de vários campos de
+mensagem incluindo um de um campo de identificador de tipo e pelo menos um dentre um
+campo de número de sequência (antecipado na figura 1, ref. SN), um campo de comprimento
+(página 4, linhas 20  22), um campo de conteúdo, uma pluralidade de campos de número de
+sequência errôneos, e uma pluralidade de campos de comprimento de número de sequência
+errôneos, cada um da dita pluralidade de campos de número de sequência errôneos associado
+com um campo respectivo da dita pluralidade de campos de comprimento de número de
+sequência errôneos(NB: O termo pelo menos um de apresenta uma lista de alternativas
+apenas uma das quais necessita de ser conhecida na técnica anterior para antecipar esta
+característica da reivindicação. Uma vez que a primeira delas já é conhecida (isto é, um campo
+de número de sequência SN), é irrelevante se mais itens da lista, como "campos de
+comprimento de número de sequência de erros", ou a relação entre o comprimento do número
+de sequência de erros de campos e campos de números, são conhecidas ou não (no entanto,
+para a pluralidade de campos de número de sequência de erros, consulte fig. 2, SN = 3, SN = 4,
+etc).
+
+        A única característica remanescente de acordo com a reivindicação 1 é o fato de que o
+campo de mensagem inclui um "campo identificador de tipo".
+
+        No entanto, essa característica é tão amplamente formulada que os campos conhecidos
+descritos na página 3 são abrangidos pelo seu âmbito de aplicação, por exemplo, uma indicação
+sobre se a unidade de dados é um ACK ou um NAK (página 3, linha 1  página 4, linha 3), ou o
+identificador de formato referido na página 3, linha 17, uma vez que este também pode ser
+interpretado como a identificação do tipo de unidade de dados.
+
+
+                                                                                         Página 3
+                                           PI0009680-6
+
+
+       A característica um "campo identificador de tipo" é uma característica óbvia e não revela
+atividade inventiva, pois uma indicação sobre uma unidade de dados ACK ou NAK (página 3,
+linha 1  página 4, linha 3) ou um identificador de formato (página 4, linha 17) podem ser
+interpretados como a identificação do tipo de unidade de dados.
+
+       Portanto, o objeto definido pela reivindicação 1 encontra-se contido no presente pedido,
+por não revelar novidade em relação ao estado da técnica, em desacordo com os Art. 8 e 11 da
+LPI.
+
+       O sistema para minimizar respostas de realimentação em um protocolo de ARQ ,
+proposto pela reivindicação 21, compreende as características para a realização de um sistema
+associadas ao método contido na reivindicação 1 e, portanto, a reivindicação 21 está sujeita as
+mesmas restrições de falta de novidade da reivindicação 1, conforme apontado nos parágrafos
+anteriores.
+
+       O requerente argumentou que as reivindicações são baseadas no "campo identificador
+do tipo", referindo-se à página 13, a tabela 2 da descrição. No entanto, este argumento não pode
+ser aceito, pois as limitações do referido tabela 2 não são parte da reivindicação. Portanto, deve
+ficar claro que essa característica não apresenta novidade em relação da técnica.
+
+Conclusão
+       Desta forma, conclui-se que o presente pedido não possui condições de receber a
+proteção pleiteada, pois o objeto definido nas reivindicações 1 e 21 já se encontra antecipado
+pelo presente pedido por não apresentar novidade em relação ao estado da técnica.
+
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de novidade (Art .8º combinado com Art. 11 da LPI).
+
+                                                               Rio de Janeiro, 17 de abril de 2015.
+
+
+
+
+Luiz Eduardo da Costa Martins
+Pesquisador/ Mat. Nº 1547163
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+                                                                   Publique-se o indeferimento (9.2).
+
+
+Telma Lucia Alcantara da Costa Silva
+Chefe de Divisão/ Mat. Nº 0449217
+DIRPA / CGPAT III/DITEL
+Portaria INPI/PR Nº746/10
+
+
+
+
+                                                                                            Página 4
+

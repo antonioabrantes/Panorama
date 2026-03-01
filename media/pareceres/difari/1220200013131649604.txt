@@ -1,0 +1,642 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122020001313-3         N.° de Depósito PCT: EP2012/073276
+ Data de Depósito:                   21/11/2012
+ Prioridade Unionista:               EP 11190789.5 (25/11/2011); EP 11192301.7 (07/12/2011)
+ Depositante:                        ADVERIO PHARMA GMBH (DE)
+ Inventor:                           PETER FEY, ALFONS GRUNENBERG, DONALD BIERER
+ Título:                             COMPOSTO NAS FORMAS CRISTALINAS DE POLIMORFO I E DE
+                                     SOLVATO DE DI-DIMETIL SULFÓXIDO, SEU PROCESSO DE
+                                     PREPARAÇÃO, E MEDICAMENTO
+
+                                                              PARECER
+
+
+          O pedido BR122020001313-3, apresentado em 21/01/2020, pela petição INPIRJ n°
+870200009939, refere-se à divisão do pedido BR112014012414-0. O depósito do pedido dividido
+foi notificado na RPI n° 2590, de 25/08/2020. Neste sentido, vale lembrar que, de acordo com o
+artigo 28 da Instrução Normativa 031/2013, o pedido dividido será considerado como estando na
+mesma fase processual em que se encontra o pedido original, cabendo ao INPI reduzir a termo a
+referência aos documentos e petições que se encontram no pedido original.
+          O pedido BR122020001313-3 teve trâmite prioritário concedido (RPI 2665 de 01/02/2022),
+haja vista que atende ao disposto nos artigos 3º e 4º, da Portaria INPI PR nº 55, de 15/12/2021,
+publicada na RPI nº 2662, de 11/01/2022.
+
+          O presente pedido se refere ao polimorfo I do composto de fórmula (I), ao processo de
+preparo da forma polimórfica I do referido composto, ao medicamento que compreende o
+polimorfo I.
+
+          Por meio do parecer notificado na RPI nº 2671, de 15/03/2022, a requerente tomou
+conhecimento que o pedido não estava apto a receber a proteção pretendida pois não atendia aos
+artigos 8º, 11, 13, 24 e 25 da LPI.
+
+          Através da petição INPI nº 870220051022, de 10/06/2022, a Requerente apresenta um
+novo relatório descritivo, dois novos quadros reivindicatórios (ambos com 4 reivindicações, sendo
+um PRINCIPAL/preferido e um subsidiário - denominado como DOC.02) e um novo resumo além
+de argumentos em prol da patenteabilidade do presente pedido, os quais serão analisados no
+presente exame.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                Página 1
+                                          BR122020001313-3
+
+
+                            Quadro 1  Páginas do pedido examinadas
+             Elemento                    Páginas                n.o da Petição           Data
+
+Relatório Descritivo                       1-65                 870220051022           10/06/2022
+Quadro Reivindicatório                     1-2*                 870220051022           10/06/2022
+                                           1-2**                870220051022           10/06/2022
+Desenhos                                   1-14                 870200009939           21/01/2020
+Resumo                                       1                  870220051022           10/06/2022
+*PRINCIPAL e **DOC.02
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                   Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                         x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                 x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                           x
+O pedido está de acordo com disposto no art. 32 da LPI                            x
+Comentários/Justificativas:
+
+       Ambos os quadros reivindicatórios (PRINCIPAL E DOC.02) apresentados por meio da
+petição 870220051022, de 10/06/2022, não apresentam matéria que se enquadre nos artigos 10 e
+18 da LPI.
+       Adicionalmente, em ambos os quadros, a matéria reivindicada compreende um único
+conceito inventivo e está limitada ao conteúdo inicialmente revelado no pedido de patente,
+atendendo ao disposto nos artigos 22 e 32 da LPI.
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                   Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI              x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                      x
+Comentários/Justificativas:
+Quadro reivindicatório PRINCIPAL:
+       O quadro reivindicatório ora denominado como PRINCIPAL não atende ao artigo 25 da
+LPI, neste sentido deixamos claro que a reivindicação 2 não define as proporções entre os
+solventes, a temperatura (ou a faixa de) e o tempo de execução das etapas de
+aquecimento/resfriamento as quais são características técnicas essenciais num processo de
+obtenção de uma forma cristalina. Dessa forma, considera-se que a reivindicação 2 não atende
+ao disposto no art. 25 da LPI.
+
+
+
+
+                                                                                            Página 2
+                                       BR122020001313-3
+
+Quadro reivindicatório DOC.02:
+        O quadro reivindicatório ora denominado como DOC.02 não atende ao artigo 25 da LPI,
+neste sentido deixamos claro que a reivindicação 2 não define as proporções entre os solventes
+utilizados no processo de obtenção do polimorfo I as quais são características técnicas essenciais
+num processo de obtenção de uma forma cristalina. Adicionalmente, apesar da referida
+reivindicação indicar a temperatura (ou a faixa de) e o tempo de execução das etapas de
+aquecimento/resfriamento do processo, verifica-se a partir do relatório descritivo de que não há
+fundamentação para um processo deste tipo uma vez que as etapas processuais que englobam a
+obtenção do polimorfo I não definem um resfriamento de 0-5ºC, conforme trecho extraído do
+relatório descritivo:
+
+
+
+
+                                                                                         Página 3
+                                        BR122020001313-3
+
+         Dessa forma, considera-se que a reivindicação 2 não é clara quanto a matéria que
+pretende proteger e também não está fundamentada no relatório descritivo. Portanto, a referida
+reivindicação não atende ao disposto no art. 25 da LPI.
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                                 Data de publicação
+    D1       WO2011147809A1 (correspondente BR112012030010)                     01/12/2011
+    D2       WO 2011064156A2 (correspondente US2011130411)                      06/06/2011
+    D3       WO 2011064189A1 (corresondente BR112012012458)                     03/06/2011
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento               Reivindicações
+                                                     Sim                          1-4
+            Aplicação Industrial
+                                                     Não                           -
+                                                     Sim                           2
+                  Novidade
+                                                     Não                         1, 3-4
+
+            Atividade Inventiva                      Sim                           -
+
+                                                     Não                          1-4
+Comentários/Justificativas
+Alegações da Requerente:
+
+         A Requerente discorda das alegações do INPI de que o pedido não atenda aos artigos 8º,
+11, 13, 24 e 25 da LPI. Assim, apresenta um novo quadro de 4 reivindicações com a finalidade de
+diferenciar ainda mais a sua invenção do estado da técnica e, ato contínuo, superar as objeções
+do INPI.
+
+         No que tange o novo quadro reivindicatório apresentado, afirma que:
+
+ a nova reivindicação independente 1 ora define o polimorfo I caracterizando-o por difração de
+raios X pelo método de pó em associação a outro método de identificação físico-química de
+sólidos  a saber, espectro de na região do infravermelho  em perfeito atendimento ao item 4.1
+das diretrizes de exame de pedidos de patente na área de química;
+
+ na nova reivindicação independente 2 de processo define os parâmetros essenciais do processo
+de obtenção do polimorfo I adicionalmente especificando o solvente utilizado;
+
+ a nova reivindicação independente 3 de medicamento é limitada de forma a incluir o trecho: e
+veículos farmaceuticamente aceitáveis; e
+
+ as antigas reivindicações 6 e 7 foram retiradas.
+
+
+
+
+                                                                                             Página 4
+                                      BR122020001313-3
+
+Do Preenchimento do Requisito Novidade:
+
+       No que concerne o preenchimento do requisito novidade, declara que o polimorfo I e seu
+processo de preparação ora reivindicados preenchem tal requisito novidade frente a
+WO2011147809A1 (D1) na medida em que, no seu entendimento, tal documento definitivamente
+não revela (i) esse polimorfo e (ii) o processo de preparação do mesmo, como definidos no quadro
+reivindicatório PRINCIPAL apenso.
+
+       Adiciona que não se pode olvidar que, à luz do artigo 11 da LPI, uma invenção preenche o
+requisito da novidade quando não está descrita no estado da técnica, isto é, não foi tornada
+pública antes de seu primeiro depósito, ou seja, aponta que segundo o professor FÁBIO ULHOA
+COELHO , [a] novidade, portanto, se define a partir de um conceito negativo, de uma exclusão.
+Novo é o invento que não se encontra no estado da técnica.
+
+       Pontua que conforme item 4.7 das diretrizes de exame de pedidos de patente (bloco II),
+uma invenção apresenta novidade quando todas as suas características definidas em uma
+reivindicação não estão reveladas, de forma integral, em um único documento do estado da
+técnica.
+
+       Apresenta, em apenso como DOC. 01, alguns comentários técnicos preparados, com base
+no affidavit da Dr. Britta Olenik. Pondera que os dados adicionais fornecidos no documento foram
+gerados antes da data de depósito do presente pedido de patente, mas não foram incluídos no
+relatório descritivo. Indica que a maioria desses dados é retirada do Relatório de Pesquisa Bayer
+N.o PH-36732, datado de 16 de março de 2012 com o título "Polymorphism and
+Pseudopolymorphism of BAY 1021189". Declara que BAY 1021189 é o código interno da Bayer
+para o composto e também geralmente conhecido para o composto de fórmula (I).
+
+       No que diz respeito ao documento D1, afirma que:
+
+      D1 descreve o composto de fórmula (I) no Exemplo 1 (página 47);
+
+      O processo de preparação do composto de fórmula (I) na forma sólida descrito no
+       documento D1 é completamente diferente do processo de preparação do polimorfo I da
+       presente invenção (Exemplo 13A).
+
+      D1 não descreve o composto de fórmula (I) em qualquer forma cristalina e, portanto,
+       tampouco o descreve na forma I modificada ora reivindicada.
+
+       Indica que o Vericiguat (base livre) tende a desenvolver pseudopolimorfos e compostos de
+inclusão com vários solventes e que pode solidificar no estado amorfo. O documento D1 descreve
+um processo para a preparação da base livre que inclui os solventes THF e acetato de etila.
+Ambos são conhecidos por desenvolver compostos de inclusão com a base livre do Vericiguat
+(resumido, por exemplo, na página 3 do estudo sobre o polimorfo, copiado abaixo). HPLC
+preparativa adicional pode levar a um material amorfo frequentemente encontrado após
+precipitação rápida.
+
+
+                                                                                        Página 5
+                                              BR122020001313-3
+
+        Afirma que o processo descrito em D1 não leva à modificação I sem otimização adicional.
+Aponta, que no seu entendimento, o fato de D1 não revelar o polimorfo I e seu processo de
+preparação ora reivindicado de forma integral, a matéria pleiteada pelo presente pedido é nova
+frente aos ensinamentos deste documento.
+
+
+
+Do Preenchimento do Requisito Atividade Inventiva:
+
+        No que se refere ao preenchimento do requisito atividade inventiva inicialmente ressalta
+dois pontos, a seu ver, importantes na análise do dito requisito:
+
+       determinar se diante do problema técnico considerado, e partindo-se do estado da técnica
+        mais próximo, a invenção é ou não óbvia para um técnico no assunto, se existe uma
+        motivação para aplicar as ditas características distintivas da invenção ao estado da técnica
+        mais próximo visando solucionar o problema técnico existente;
+
+       o requisito da atividade inventiva deve sempre ser analisado de forma prospectiva de
+        forma que o estado da técnica seja aferido através da perspectiva de um técnico no
+        assunto à data relevante do pedido, ou seja, o problema técnico objetivo seja formulado de
+        modo que não inclua parte da solução técnica oferecida pela invenção.
+
+        Apresenta trechos de declarações dos autores Denis Barbosa e Antônio Abrantes acerca
+da prevenção da análise em retrospectiva desse requisito1.
+
+        A Requerente tece alguns comentários técnicos, com base no affidavit da Dr. Britta Olenik,
+em apenso como DOC. 01, com o objetivo de assegurar que o presente pedido é dotado de
+atividade inventiva, no caso:
+
+    1. D1 e D2 não descrevem o composto de fórmula (I) na forma de polimorfo I;
+
+    2. O problema técnico do presente pedido pode ser visto como fornecer o composto de
+        fórmula (I) em uma forma que tenha um benefício claro, por exemplo, em relação à
+        estabilidade, pureza, processabilidade e facilidade de formulação;
+
+    3. Os efeitos inesperados com base nas propriedades globais superiores do polimorfo I do
+        API adequado para ser formulado como um medicamento incluem: 1) sua estabilidade
+        durante a micronização; e 2) o polimorfo I não é hidroscópico.
+
+        Assim, por uma questão de princípio, alega que mesmo no caso em que uma "triagem de
+polimorfos" fosse considerada como "rotina", as diferentes formas do composto de fórmula (I),
+incluindo o polimorfo I, não seriam consideradas óbvias, uma vez que a a identificação de formas
+cristalinas geralmente não é previsível. Aqueles versados na técnica teriam de realizar um grande
+
+1 Barbosa, Denis Borges, Atividade inventiva: objetividade do exame- http://www.denisbarbosa.addr.com/atividade.pdf
+
+   Abrantes, Antonio, Análise retrospectiva ou prospectiva no exame de patentes -
+   http://patentescomentarios.blogspot.com/2015/04/analise-retrospectiva-ou-prospectiva-no.html
+
+
+                                                                                                         Página 6
+                                          BR122020001313-3
+
+número de estudos e testes sem resultados previsíveis para chegar ao composto de fórmula (I)
+em modificação.
+
+       Pontua que de acordo com o presente pedido, a síntese do composto de fórmula (I)
+através do solvato de di-DMSO como intermediário fornece o composto de fórmula (I) na forma I
+modificada especificamente e em alta pureza. Isto é mostrado no relatório descritivo, por exemplo,
+pelo pico máximo do ângulo 2 teta dos espectros de raios X (Tabela 1, coluna 1 e Figura 5) e os
+picos máximos característicos por IR (Tabela 3 do relatório descritivo, coluna 1 e Figura 1).
+
+       Destaca que fornecer uma substância farmacêutica em constante qualidade e alta pureza
+é de fundamental importância para cada fabricante de substâncias farmacêuticas, uma vez que a
+presença de impurezas  inclusive de diferentes formas polimórficas  pode influenciar a
+segurança, desempenho e eficácia de uma substância farmacêutica. Por esta razão, a pureza
+muito elevada do composto de fórmula (I) é mais uma indicação de uma atividade inventiva.
+
+Da prova experimental da estabilidade do polimorfo I durante micronização, conforme citado no
+relatório descritivo
+
+       Indica que conforme o relatório descritivo, página 2, linhas 13-15 e página 51, linhas 1-3,
+"o polimorfo cristalino do composto da fórmula (I) no polimorfo (I) é notável pela estabilidade e
+particularmente pelo fato de ser estável mesmo no processo de micronização e, portanto, não
+ocorre conversão e recristalização."
+
+       Assinala que as figuras denominadas como 1 e 2 (página 8 da presente manifestação)
+demonstram, através da comparação, que a micronização não altera a estrutura cristalina do
+polimorfo I visto que os picos da figura 1, relativo ao polimorfo I, e a figura 2, relativa ao polimorfo I
+após micronização, possuem os mesmos picos. Acrescenta que os dados comparativos foram
+gerados em maio de 2011, ou seja, antes da data de prioridade dos dados sobre o polimorfo, a
+qual é novembro de 2012. O material micronizado foi liberado para ensaios clínicos Ph1 e Ph2a.
+
+       Adiciona que a figura 3 (página 9 da presente manifestação) mostra na parte superior um
+diagrama por ATR-IR de um lote comparativo de {4,6-diamino-2-[5-fluoro-1-(2-fluorobenzil)-1H-
+pirazolo[3,4-b]piridin-3- il]pirimidin-5-il}carbamato de metila da fórmula (I) na forma cristalina I
+modificada e, na parte inferior, um diagrama por ATR-IR do composto micronizado.
+
+       Explica que "Vergleichsspektrum" é um "diagrama comparativo", BAY 1021189 é o código
+interno da Bayer para o composto e também geralmente conhecido do composto de fórmula (I).
+
+       Aponta que esta figura 3 demonstra que a forma cristalina modificada I é estável durante a
+micronização     pois não houve conversão ou recristalização da mesma após a micronização.
+Especifica que os dados da figura 3 equivalem a figura 1 do relatório descritivo do presente pedido
+e que estes dados foram medidos em 10 de outubro de 2014, confirmam os dados anteriores para
+um lote maior. Assegura que a estabilidade durante a micronização não pode ser derivada a partir
+do documento D1 e foi surpreendente e inesperada e que esta característica de estabilidade
+
+
+
+                                                                                                Página 7
+                                                    BR122020001313-3
+
+mostrada durante a micronização é um aspecto importante para a produção técnica do composto
+de fórmula (I) na forma farmaceuticamente estável.
+
+Da comparação de estabilidade de diferentes formas do composto de fórmula (I)
+
+         A Requerente alerta que em virtude do comportamento muito complexo da base livre do
+Vericiguat de formar pseudopolimorfos e compostos de inclusão, foi muito difícil avaliar as
+estabilidades termodinâmicas das várias formas. Conforme mostrado no Estudo de Polimorfismo,
+um processo para criar a forma amorfa é a moagem de grânulos da base livre de Vericiguat.
+
+         Declara que dados comparativos no teste de pilão2, que é considerado como um teste
+piloto para micronização, demonstraram que Mod. I, III e IV são as únicas formas cristalinas que
+não se converteram em quantidades amorfas durante o teste em pilão, todas as outras formas
+mostram esta amorfização. (Estudo sobre Polimorfo, página 21, Tabela 8  Comportamento sob
+Pressão).
+
+         Então a Requerente informa que para determinar a estabilidade termodinâmica relativa,
+suspensões de BAY 1021189 foram preparadas em vários solventes e depois agitadas em várias
+temperaturas. Após o período de tempo de agitação, os resíduos foram filtrados e secos em
+temperatura ambiente. A Tabela 5 resume os resultados. Neste experimento, denominado
+conversão em suspensão, todas as formas cristalinas, exceto Mod. I, exibiram conversão em
+suspensão para a Mod. I, mesmo em baixas temperaturas entre 0 °C e -20 °C. A Requerente
+conclui, a partir deste experimento, que as formas cristalinas diferentes de Mod. I são
+inadequados para os processos de formulação do Vericiguat. (Estudo sobre Polimorfo, página 16,
+5.3.1 Conversão em Suspensão, Tabela 5).
+
+         Acrescenta que os espectros de TGA-DSC (Figura 4 e Figura 5), os quais mostram o
+polimorfo I após a micronização, não mostram amorfização3. Declara que os dados das Figuras 4
+e 5 foram usados no presente documento para provar que a diminuição das intensidades no
+padrão de XRPD do lote micronizado (Figura 2, lote BXR59JF) comparado com o lote não
+micronizado não é causada por amorfização.
+
+Da Prova Experimental da Ausência de Higroscopicidade
+
+         A Requerente afirma que uma outra característica importante do composto de fórmula (I)
+na modificação I que é decisiva para o uso como composto farmacêutico é sua ausência de
+higroscopicidade. Uma desvantagem significativa das substâncias higroscópicas é a variação na
+quantidade de água nestas substâncias em uma determinada quantidade de substância (amostra
+ponderada). Isto torna difícil ou mesmo impossível ajustar exatamente o teor do ingrediente
+
+
+2 Estes dados são do Estudo de Polimorfismo realizado para o Vericiguat (BAY1021189) datado de março de 2012, ou seja, antes da
+
+data de depósito do presente pedido (ver Tabela 8 das página 10-13; Mod. I é a forma termodinamicamente estável).
+
+3 Um ponto de fusão mais alto e os valores de entalpia de fusão para a amostra micronizada são uma prova geralmente usada de falta
+de amorfização e falta de transição vítrea. Os valores de ponto de fusão e entalpia de fusão são influenciados por impurezas físicas
+e/ou químicas. Ambos os valores diminuem com o aumento da quantidade de impurezas.
+
+
+
+                                                                                                                        Página 8
+                                        BR122020001313-3
+
+farmacêutico ativo em um produto farmacêutico. Além disso, em alguns casos, substâncias
+higroscópicas exibem aglomeração e/ou formação de hidratos.
+
+       Esclarece que foi realizado um experimento de sorção e dessorção de uma pequena
+sonda da forma amorfa do composto de fórmula (I), das formas polimórficas (I), (II), (III) e (IV), das
+formas cristalina monoidratatda e desidratada do compostos d fórmula (I) (figuras 7-12) no qual as
+referidas formas foram expostas a um ambiente que contém água crescente e o peso da sonda é
+monitorado durante o experimento.
+
+       A Requerente indica que a forma amorfa do composto de fórmula (I) mostra um aumento
+de peso até 4% (ver Figura 6). Ainda de acordo com esse experimento, as formas polimórficas (I)
+a (III) não indicaram que estas formas cristalinas de fórmula (I) são higroscópicas 4, enquanto que
+a forma polimórfica (IV) do composto de fórmula (I), as formas mono- e desidratada, também são
+higroscópicas. Para a Requerente isto é muito surpreendente, uma vez que aqueles versados na
+técnica teriam esperado que todas as formas cristalinas mostrassem menos higroscopicidade do
+que a forma amorfa.
+
+       A Requerente entende que o composto de fórmula (I) na forma sólida modificada (I) pode,
+portanto, ser considerado como uma seleção de uma forma sólida (forma modificada (I)) dentre
+várias formas sólidas, o que resolve o problema da invenção, uma vez que é particularmente
+adequado para a produção de um produto farmacêutico. Portanto, considera que a forma
+polimórfica (I) do composto de fórmula (I) é inventiva em relação ao estado da técnica.
+
+       Justifica que estes dados foram gerados antes de janeiro de 2012 e, portanto, antes da
+data de prioridade dos polimorfos do presente pedido de patente. Estes dados também foram
+apresentados no processamento do correspondente caso Europeu e se originam das Figura 33 e
+34 do Estudo sobre Polimorfo.
+
+       Salienta que as reivindicações do polimorfo (I) e os processos para prepará-los foram
+concedidas em inúmeras jurisdições, incluindo AU, CA, CL, CO, EA, EP (EP3421470B1), IL, JP,
+KR, MX, NZ, TW e US (Patentes Norte-Americanas Nos 9.604.948 e 10.364.229) o que, no seu
+entendimento, constitui subsídio para comprovação de que a presente invenção é patenteável
+frente aos documentos listados pelo INPI.
+
+
+
+Da Clareza e precisão das reivindicações:
+       No que se refere a clareza e precisão das reivindicações, apesar de discordar das
+diretrizes do INPI de que a técnica de difração de Raio-X deve ser combinada com pelo menos
+uma dentre as demais técnicas disponíveis de análise, indica que definiu a forma polimórfica
+pleiteada pelo DRX de pó associado ao infravermelho, o que no seu entendimento contempla o
+exigido pelo INPI.
+4 De acordo com a Requerente uma substância é considerada higroscópica se seu peso aumentar em
+  pelo menos 2-5% se a umidade ambiente for de 50%.
+
+
+                                                                                            Página 9
+                                         BR122020001313-3
+
+       Esclarece que a reivindicação 2 define precisamente todos os parâmetros necessários do
+processo de preparação da forma cristalina de polimorfo I, permitindo que um técnico no assunto
+consiga colocar em prática, sem experimentação indevida, tal processo.
+
+       Assinala que o INPI considerou que as patentes citadas, a saber PI0719209-6B1,
+PI0111140-0, atendiam ao requisito de suficiência descrita, de forma que, por corolário lógico,
+considerou não ser necessária qualquer descrição acerca de características de temperatura e
+tempo de execução das etapas de aquecimento/resfriamento. De outra forma, no entendimento
+da Requerente, o entendimento do INPI para com o presente pedido de patente quanto ao
+requisito da precisão está equivocado.
+
+       Assim, sustenta que as características técnicas essenciais à concretização da presente
+invenção, que representam a contribuição trazida com relação ao estado da técnica, são clara e
+precisamente definidas nas reivindicações ora apensas, e fundamentadas no presente pedido de
+patente como originalmente depositado de forma que o técnico no assunto pode imediatamente
+reproduzir a invenção tal como definida nas reivindicações apensas e obter o efeito técnico da
+mesma sem recorrer a experimentação adicional.
+
+
+
+Dos quadros reivindicatórios apresentados:
+       A Requerente espera confiante que o INPI constate que o presente pedido de patente deva
+ser deferido com o aludido quadro PRINCIPAL de 4 reivindicações. No entanto, de forma
+subsidiária, apresenta um quadro reivindicatório, adaptado às disposições da IN n° 30/2013 e
+inteiramente fundamentado no pedido de patente como originalmente depositado, para ser
+sucessivamente considerado e analisado pelo INPI.
+
+       Assegura que o primeiro quadro reivindicatório subsidiário (DOC. 02) é fruto de ajustes
+restritivos no quadro PRINCIPAL de 4 reivindicações proposto.
+
+       Face a todo exposto, por considerar que o pedido preenche os requisitos e condições de
+patenteabilidade, solicita o deferimento do mesmo.
+
+
+
+Análise     das   alegações     da   Requerente      e   preenchimento      dos    requisitos    de
+patenteabilidade:
+
+Aplicação Industrial:
+
+       A matéria das reivindicações 1-4 é passível de ser aplicada industrialmente.
+
+Novidade:
+       Inicialmente deve ser ratificado que as prioridades reivindicadas para o presente pedido, a
+saber: EP 11190789.5 (25/11/2011); EP 11192301.7 (07/12/2011) não revelam o polimorfo I do
+{4,6-diamino-2-[5-flúor-1-(2-fluorbenzil)-1 H-pirazolo[3,4-b]piridin-3-il]pirimidin-5-il} carbamato de
+
+
+
+                                                                                           Página 10
+                                        BR122020001313-3
+
+metila. Assim, reiteramos que a data válida para busca de anterioridade para o presente pedido é
+a data de depósito, ou seja, 21/11/2012.
+
+       Subsequentemente, reiteramos que como o estado da técnica representado por
+documento      D1     revela     {4,6-diamino-2-[5-flúor-1-(2-fluorbenzil)-1H-pirazolo[3,4-b]piridin-3-
+il]pirimidin-5-il} carbamato de metila na forma sólida cristalina e não há dados físico-químicos que
+permitam diferenciar a forma polimórfica cristalina I ora pleiteada daquela revelada pelo referido
+documento5 (ver D1 composto do exemplo 1 da página 47 do correspondente BR), considera-se
+que o polimorfo I não é novo.
+
+       Assim, a reivindicação 1, que se refere a forma polimórfica I, não é nova e não pode
+receber proteção patentaria por não atender aos arts. 8º e 11 da LPI. Além do exposto, percebe-
+se que o documento D1 revela tanto {4,6-diamino-2-[5-flúor-1-(2-fluorbenzil)-1H-pirazolo[3,4-
+b]piridin-3-il]pirimidin-5-il} carbamato de metila na forma sólida (ver D1 composto do exemplo 1 da
+página 47) quanto uma composição que compreende o referido composto na forma sólida (ver
+reivindicação 1 e parágrafo 0060 de D1) e sua utilização no preparo de um medicamento para o
+tratamento e/ou profilaxia de distúrbios cardiovasculares (ver resumo de D1). Portanto, as
+reivindicações 3 e 4, que se referem a um medicamento que compreende a forma polimórfica
+cristalina I e sua utilização no tratamento de distúrbios cardiovasculares também não são novas e
+não podem receber proteção patentaria por não atenderem aos arts. 8º e 11 da LPI.
+
+       Cumpre adicionar que apesar da Requerente afirmar que D1 não revela a forma
+polimórfica I presentemente pleiteada de forma integral, discordamos de sua opinião na medida
+que não foi fornecido, até o presente momento, dados ou parâmetros que comprovem tal
+afirmativa. Neste contexto também deve ser mencionado que a Diretriz deste INPI
+(Resolução/INPI/PR/Nº208 de 27/12/2017) preconiza que os sólidos pleiteados sejam
+devidamente diferenciados daqueles existentes no estado da técnica, conforme noticiado no texto
+a seguir:
+
+
+
+
+5 Ver páginas 17 e 18 da Diretriz de Exame de pedidos de Patente na Área de Química
+  (Resolução/INPI/PR/Nº208 de 27/12/2017)
+
+
+                                                                                            Página 11
+                                          BR122020001313-3
+
+       Assim, apesar do processo de obtenção do composto de fórmula (I) de D1 ser diferente
+daquele do presente pedido, existe a possibilidade que o polimorfo I ora reivindicado esteja na
+forma sólida de D1, e, como não foram apresentados dados que comprovem a novidade da forma
+polimórfica I ora reivindicada, reitera-se, pelas razões supracitadas, que o polimorfo I
+(reivindicação 1) e o medicamento que o compreende (reivindicações 3 e 4) não são novos e não
+atendem aos artigos 8º e 11 da LPI.
+
+       A reivindicação 2 é nova pois o estado da técnica não utiliza especificamente como
+intermediário o solvato de dimetilsulfóxido de {4,6-diamino-2-[5-flúor-1-(2-fluorbenzil)-1 H-
+pirazolo[3,4-b]piridin-3-il]pirimidin-5-il} carbamato de metila para a obtenção do composto de
+fórmula I na forma cristalina.
+
+Atividade Inventiva:
+       Inicialmente reitera-se que o polimorfo I do composto {4,6-diamino-2-[5-flúor-1-(2-
+fluorbenzil)-1 H-pirazolo[3,4-b]piridin-3-il]pirimidin-5-il} carbamato de metila, suas composições
+farmacêuticas e seu uso no preparo de um medicamento para o tratamento de distúrbios
+cardiovasculares são destituídos de novidade. Assim, ratifica-se que as reivindicações 1, 3-4 são
+destituídas de atividade inventiva.
+
+       Ainda que fosse possível atribuir novidade a forma polimórfica I do composto {4,6-diamino-
+2-[5-flúor-1-(2-fluorbenzil)-1 H-pirazolo[3,4-b]piridin-3-il]pirimidin-5-il} carbamato de metila pela
+comparação dos dados espectroscópicos6 e inequívoca diferenciação entre o sólido revelado em
+D1 com aquele ora pleiteado, o polimorfo I não possui atividade inventiva.
+
+       A Requerente apresenta na sua manifestação dados comparativos dos polimorfos I, II, III,
+IV, de alguns solvatos e hidratos do composto de fórmula (I) entre si. Neste contexto, afirma que o
+polimorfo I é mais estável a micronização que os solvatos, hidrato e que o polimorfo IV (ver tabela
+8 desta manifestação em análise). Afirma também que o polimorfo I é mais estável em suspensão
+pois os demais polimorfos tendem a recristalizar e tomar a forma de polimorfo I (ver tabela 5).
+Adiciona ainda que o polimorfo I é inesperadamente menos higroscópico que o polimorfo IV e que
+a forma amorfa do composto de fórmula (I) e que possui higroscopicidade similar aos polimorfos II
+e III e que por essa razão seria inventivo.
+
+       Consecutivamente, com relação ao processo de obtenção do polimorfo I pleiteado na
+reivindicação 2, apesar de novo este processo não é inventivo. Neste sentido cumpre reafirmar
+que o documento D2 revela o composto Metil{4,6-diamino-2-[1-(2-fluorobenzil)-1H-pirazo|o[3,4-
+b]piridin-3-i|]pirimidin-5-iI}carbamato e seu solvato de di-dimetilsulfóxido o qual difere do composto
+do presente pedido apenas pelo fato de não possuir um átomo de flúor no anel piridina. O referido
+documento revela também um processo para obtenção deste di-solvato de dimetilsulfóxido (ver
+parágrafo 0013, páginas 6, 7 e exemplo 2 de D2) indicando que este permite a purificação do
+composto               Metil{4,6-diamino-2-[1-(2-fluorobenzil)-1H-pirazo|o[3,4-b]piridin-3-i|]pirimidin-5-
+
+6 A Requerente não apresentou esses dados até o presente momento.
+
+
+                                                                                               Página 12
+                                         BR122020001313-3
+
+iI}carbamato na forma de base livre, analogamente ao solvato de di-dimetilsulfóxido do presente
+pedido (parágrafo 0072 de D2) e o documento D3 revela formas polimórficas do composto
+Metil{4,6-diamino-2-[1-(2-fluorobenzil)-1H-pirazo|o[3,4-b]piridin-3-i|]pirimidin-5-iI}carbamato
+corroborando com o fato de que o estado da técnica busca formas polimórficas mais estáveis e
+puras neste campo técnico.
+
+       Assim, ratifica-se que o técnico no assunto desejando purificar o composto {4,6-diamino-2-
+[5-flúor-1-(2-fluorbenzil)-1 H-pirazolo[3,4-b]piridin-3-il]pirimidin-5-il} carbamato de metila (obtido
+em D1) e obter um polimorfo mais puro lançaria mão dos ensinamentos de D2, chegaria ao
+solvato de di-dimetilsulfóxido e utilizaria o dito composto, assim como em D2, para obtenção de
+um composto de fórmula (I) mais puro. O processo de obtenção do solvato de di-dimetil sufóxido
+do presente pedido é similar àquele revelado em D2 (ver exemplo 2 de D2) diferindo daquele
+processo apenas pelo composto a ser transformado em solvato e purificado, visto que o composto
+do presente pedido possui um átomo de flúor no anel piridina e o composto de D2 não o possui.
+
+       Portanto, assim como mencionado no parecer anterior o problema técnico que o pedido
+pretende solucionar é a apresentação de uma forma cristalina, polimorfo I, do composto {4,6-
+diamino-2-[5-flúor-1-(2-fluorbenzil)-1 H-pirazolo[3,4-b]piridin-3-il]pirimidin-5-il} carbamato de metila,
+mais pura e estável (ver página 3 parágrafos 003 e 006 do relatório descritivo). Quanto à
+estabilidade, é prática comum do estado da técnica buscar polimorfos mais estáveis, tanto que D1
+indica a obtenção de vários sais cristalinos do composto {4,6-diamino-2-[5-flúor-1-(2-fluorbenzil)-1
+H-pirazolo[3,4-b]piridin-3-il]pirimidin-5-il} carbamato de metila (ver exemplos 4-10 de D1). Todavia,
+não há evidências no relatório descritivo, nem na manifestação ora apresentada, do efeito técnico
+não óbvio do polimorfo I ora pleiteado com relação aos sais cristalinos e sólidos revelados em D1,
+e como D1 é o estado da técnica mais próximo da matéria pleiteada, essa comparação seria
+essencial para avaliação deste requisito, obviamente no caso em que a falta de novidade pudesse
+ser superada.
+       Com relação a pureza, ratifica-se que o estado da técnica D2 já indicava que a obtenção
+de um composto similar ao do presente pedido passando por um intermediário de solvato de
+dimetilsulfóxido conduzia ao composto mais puro.
+
+       Face a todo exposto, ratifica-se que a matéria ora pleiteada (reivindicações 1-4) é
+destituída de atividade inventiva e não pode receber proteção patentaria por não atender aos
+artigos 8º e 13 da LPI.
+
+
+
+Conclusão:
+       Os argumentos da Requerente foram analisados, no entanto não foram capazes de
+superar as objeções levantadas no parecer sob resposta.
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+
+                                                                                              Página 13
+                                        BR122020001313-3
+
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   não apresenta suficiência descritiva (Art. 24 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+                                                           Rio de Janeiro, 24 de novembro de 2022.
+
+
+
+
+Nilda de Moraes Silva
+Pesquisador/ Mat. Nº 1316871
+DIRPA / CGPAT I/DIFAR-I
+Deleg. Comp.-Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                         Página 14
+

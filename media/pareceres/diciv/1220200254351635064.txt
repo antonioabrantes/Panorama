@@ -1,0 +1,333 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122020025435-1         N.° de Depósito PCT: CA2013/000845
+ Data de Depósito:                   04/10/2013
+ Prioridade Unionista:               US 61/710,393 (05/10/2012); US 13/804,906 (14/03/2013)
+ Depositante:                        EVOLUTION WELL SERVICES , LLC (US)
+ Inventor:                           TODD COLI, ELDON SCHELSKE
+ Título:                             SISTEMA PARA USO NA ENTREGA DE FLUIDO PRESSURIZADO A
+                                     UM FURO DE POÇO E MÉTODO PARA ENTREGA DE FLUIDO DE
+                                     FRATURA A UM FURO DE POÇO
+
+                                                              PARECER
+                O presente pedido corresponde a uma divisão do pedido BR112015007587-8,
+solicitada pelo Depositante por meio da petição n° 870200156050 de 11/12/2020 e cuja
+notificação da divisão (código 2.4) foi publicada na RPI 2616 de 23/02/2021. Conforme Art.28 da
+IN 31/2013, o pedido original e o pedido dividido estão na mesma fase processual.
+
+                Tendo em vista que as anterioridades contidas no relatório de busca emitido no
+despacho 6.21, (notificado na RPI 2563 de 18/02/2020 para o pedido original) são pertinentes
+para esse pedido, as mesmas foram consideradas para a elaboração deste parecer.
+
+                O pedido foi examinado em 28/04/2022 quando se verificou que existia dupla
+proteção no pedido dividido, em relação ao pedido original BR112015007587-8, contrariando o
+Art. 6°, da LPI.
+
+                Em 08/08/2022, por meio da petição 870220070292, a Requerente apresentou
+modificações no pedido em resposta ao parecer emitido, notificado na RPI 2679 de 10/05/2022
+(despacho 7.1). Estas modificações estão consideradas no Quadro 1.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                 1/37-37/37              870220070292     08/08/2022
+Quadro Reivindicatório                                  1/6-6/6              870220070292     08/08/2022
+Desenhos                                             1/12-12/12              870220070292     08/08/2022
+Resumo                                                     1/1               870220070292     08/08/2022
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                           BR122020025435-1
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                   Sim                Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                    X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                            X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                           X
+O pedido está de acordo com disposto no art. 32 da LPI                            X
+Comentários/Justificativas
+
+                Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                   Sim                Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI              X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI            X
+Comentários/Justificativas
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                     Data de publicação
+    ---                                        ---                                               ---
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                   Cumprimento                 Reivindicações
+                                                          Sim                           1-15
+           Aplicação Industrial
+                                                          Não                          Nenhuma
+                                                          Sim                           1-15
+                  Novidade
+                                                          Não                          Nenhuma
+                                                          Sim                           1-15
+           Atividade Inventiva
+                                                          Não                          Nenhuma
+Comentários/Justificativas
+
+           Não foram encontrados documentos considerados relevantes à novidade e atividade
+inventiva da matéria reivindicada. A matéria das reivindicações 1 a 15 possui novidade e
+atividade inventiva perante os documentos encontrados no estado da técnica para o presente
+pedido, cumprindo o disposto no Art. 11 e Art. 13 da LPI, respectivamente.
+
+           No    pedido    BR122020025435-1,          o   qual   consiste   da    divisão      da      patente
+BR112015007587-8 (Pedido-Mãe), a matéria das Reivindicações independentes 1 e 9 do
+presente Pedido Dividido ainda engloba a mesma matéria das reivindicações independentes 1,
+10, 16 e 18 do pedido BR112015007587-8. Conforme a seguir:
+
+
+
+
+                                                                                                       Página 2
+                                       BR122020025435-1
+
+
+        Reivindicações n° 1, 10, 16 e 18 como deferidas do pedido mãe
+(BR112015007587-8, petição 870220049747 de 06/06/2022).
+
+
+Reivindicação independente 1: Sistema para fraturamento hidráulico, caracterizado por
+compreender:
+
+     pelo menos uma bomba (22) adaptada para pressurizar e bombear fluido de fratura em um
+furo de poço em um local de poço;
+
+     pelo menos um motor elétrico (21) acoplado operativamente a pelo menos uma bomba
+(22), de forma que o pelo menos um motor elétrico (21) seja adaptado para alimentar pelo
+menos uma bomba (22);
+
+     pelo menos uma fonte dedicada de eletricidade para operações de fraturamento no local
+de poço, em que, pelo menos uma fonte dedicada de eletricidade compreende um gerador de
+turbina (30), e em que, pelo menos uma fonte dedicada de eletricidade é acoplada
+operativamente a pelo menos um motor elétrico (21), de modo que a fonte dedicada de
+eletricidade seja adaptada para fornecer eletricidade a pelo menos um motor elétrico (21) para
+acionar pelo menos uma bomba (22); e
+
+     pelo menos um misturador elétrico (47) acoplado operativamente à fonte dedicada de
+eletricidade, de modo que a fonte dedicada de eletricidade seja adaptada para fornecer
+eletricidade a pelo menos um misturador elétrico (47) para a produção do fluido de fraturamento,
+em que, pelo menos um misturador elétrico (47) compreende adicionalmente um primeiro motor
+elétrico de entrada (43a), um segundo motor elétrico de entrada (43b), um primeiro motor de
+descarga elétrico (41a), e um segundo motor de descarga elétrico (41b), e em que, pelo menos
+uma fonte dedicada de eletricidade fornece energia elétrica para o primeiro motor elétrico de
+entrada (43a), para o segundo motor elétrico de entrada (43b), para o primeiro motor de
+descarga elétrico (41a) e para o segundo motor de descarga elétrico (41b).
+
+
+
+Reivindicação independente 10: Método para fraturamento hidráulico, caracterizado por
+compreender:
+
+     fornecer pelo menos uma fonte dedicada de energia elétrica para operações de
+fraturamento em um local de poço que compreende um furo de poço a ser fraturado, em que a
+fonte dedicada de energia elétrica é um gerador de turbina (30) que converte uma fonte de
+combustível de hidrocarboneto em eletricidade;
+
+     pressurizar um fluido de fraturamento usando pelo menos uma bomba (22) acionada por,
+pelo menos, um motor elétrico (21) no local de poço, em que a fonte dedicada de energia
+elétrica fornece energia elétrica para o pelo menos um motor elétrico (21);
+
+
+
+
+                                                                                         Página 3
+                                          BR122020025435-1
+
+
+      operar a pelo menos uma bomba (22) e o pelo menos um motor elétrico (21) usando
+energia elétrica a partir de, pelo menos, uma fonte dedicada de energia elétrica para bombear o
+fluido de fraturamento no furo de poço;
+
+      misturar utilizando pelo menos um misturador elétrico (47), um fluido recebido a partir de
+uma primeira tubulação de fonte de fluido(48a) do pelo menos um misturador elétrico (47) e uma
+segunda tubulação de fonte de fluido (48b) do pelo menos um misturador elétrico (47) com um
+aditivo fluido a partir de, pelo menos, uma fonte de aditivo fluido (44) para produzir o fluido de
+fraturamento, em que, pelo menos, uma fonte dedicada de energia elétrica fornece a energia
+elétrica para o pelo menos um misturador elétrico (47);
+
+      descarregar, utilizando um primeiro motor de descarga (41a) do pelo menos um misturador
+elétrico (47), o fluido de fraturamento a partir de um primeiro tanque de mistura alimentado
+eletricamente (46a) do pelo menos um misturador elétrico (47) tanto para uma primeira
+tubulação de saída (49a) do pelo menos um misturador elétrico (47) como uma segunda
+tubulação de saída (49a) do pelo menos um misturador elétrico (47); e
+
+      descarregar, utilizando um segundo motor de descarga (41b) do pelo menos um
+misturador elétrico (47), o fluido de fraturamento a partir de um segundo tanque de mistura
+alimentado eletricamente (46b) do pelo menos um misturador elétrico (47) para uma primeira
+tubulação de saída (49a) do pelo menos um misturador elétrico (47) e uma segunda tubulação
+de saída (49b) do pelo menos um misturador elétrico (47).
+
+
+
+Reivindicação independente 16: Sistema para fraturamento hidráulico, caracterizado por
+compreender:
+
+      pelo menos uma fonte dedicada de eletricidade para operações de fraturamento no local
+de poço, em que, pelo menos, uma fonte dedicada de eletricidade compreende um gerador de
+turbina (30);
+
+      pelo menos um motor elétrico (21) conectado a pelo menos uma fonte dedicada de
+eletricidade, de modo que a fonte dedicada de eletricidade seja capaz de fornecer energia
+elétrica a pelo menos um motor elétrico (21);
+
+      pelo menos um misturador elétrico (47) compreendendo uma primeira tubulação de
+entrada (48a) e uma segunda tubulação de entrada (48b), um primeiro motor elétrico de entrada
+(43a) acoplado operativamente tanto a primeira tubulação de entrada (48a) quanto a segunda
+tubulação de entrada (48b), e um segundo motor elétrico de entrada (43b) acoplado
+operativamente tanto a primeira tubulação de entrada (48a) quanto a segunda tubulação de
+entrada (48b); e
+
+      pelo menos uma bomba (22) fixada a pelo menos um motor elétrico (21) de modo que o
+pelo menos um motor elétrico (21) é capaz de acionar a pelo menos uma bomba (22) para
+pressurizar e bombear fluido de fraturamento em um furo de poço em um local de poço, em que
+o fluido de fraturamento compreende gás de petróleo líquido.
+
+
+                                                                                          Página 4
+                                           BR122020025435-1
+
+
+
+
+Reivindicação independente 18: Sistema para fraturamento hidráulico, caracterizado por
+compreender:
+
+        pelo menos uma fonte dedicada de energia elétrica para operações de fraturamento em
+um local de poço, em que a pelo menos uma fonte dedicada de energia elétrica compreende um
+gerador de turbina (30); e
+
+        pelo menos um misturador elétrico (47) acoplado operativamente a pelo menos uma fonte
+dedicada de energia elétrica, em que, pelo menos, uma fonte dedicada de energia elétrica
+fornece energia elétrica a pelo menos um misturador elétrico (47) para produzir fluido de
+fraturamento para operações de fraturamento, e em que, pelo menos, um misturador elétrico
+(47) compreende:
+
+           um primeiro tanque de mistura alimentado eletricamente (46a) acoplado operativamente
+tanto a uma primeira tubulação de entrada (48a) quanto uma segunda tubulação de entrada
+(48b); e
+
+           um   segundo      tanque   de   mistura   alimentado   eletricamente   (46b)   acoplado
+operativamente à primeira tubulação de entrada (48a) e à segunda tubulação de entrada (48b).
+
+
+
+          Reivindicações n° 1 e 9 do presente pedido BR122020025435-1,
+petição 870220070292 de 08/08/2022.
+
+
+Reivindicação independente 1: Sistema para uso na entrega de fluido pressurizado a
+um furo de poço, compreendendo:
+
+             pelo menos uma bomba (22) adaptada para pressurizar e bombear fluido de fratura
+em um furo de poço em um local de poço, em que o fluido de fratura compreende gás liquefeito
+de petróleo;
+
+             pelo menos um motor elétrico (21) associado operativamente a pelo menos uma
+bomba, de modo que pelo menos um motor elétrico seja adaptado para acionar pelo menos uma
+bomba;
+
+             um acionamento de frequência variável conectado a pelo menos um motor elétrico; e
+
+pelo menos uma fonte dedicada de eletricidade para operações de fraturamento no local de
+poço,
+
+             caracterizado pelo fato de que pelo menos uma fonte dedicada de eletricidade
+compreende um gerador de turbina (30), e em que pelo menos uma fonte dedicada de
+eletricidade é associada operativamente a pelo menos um motor elétrico, de modo que a fonte
+dedicada de eletricidade seja adaptada para suprir eletricidade para pelo menos um motor
+elétrico para acionamento de pelo menos uma bomba (22).
+
+
+
+                                                                                           Página 5
+                                       BR122020025435-1
+
+
+
+
+Reivindicação independente 9: Método de entrega de um fluido de fratura a um furo de
+poço, compreendendo as etapas de:
+
+            fornecer pelo menos uma fonte dedicada de energia elétrica para operações de
+fraturamento em um local de poço que compreende um furo de poço a ser fraturado, em que a
+fonte dedicada de energia elétrica é um gerador de turbina (30) que converte uma fonte de
+combustível de hidrocarboneto em eletricidade;
+
+            fornecer um acionamento de frequência variável conectado a pelo menos um motor
+elétrico;
+
+            pressurizar um fluido de fraturamento usando pelo menos uma bomba (22) acionada
+por pelo menos um motor elétrico (21) no local de poço, e em que a fonte dedicada de energia
+elétrica fornece energia elétrica para pelo menos um motor elétrico que é operativamente
+controlado com um acionamento de frequência variável;
+
+            caracterizado pelo fato de operar pelo menos uma bomba e pelo menos um motor
+elétrico usando energia elétrica a partir de pelo menos uma fonte dedicada de energia elétrica
+para bombear o fluido de fratura para o furo de poço.
+
+
+
+            Como se pode observar, as novas reivindicações apresentadas são similares às da
+petição n° 870200156053 de 11/12/2020 e já estão protegidas pelo pedido mãe. Assim, há uma
+evidente duplicidade das referidas matérias, que pode vir a infringir o disposto no Art. 6º da LPI
+em caso de deferimento de ambos os pedidos.
+
+            Ressaltamos, mais uma vez que, de acordo com a Resolução PR INPI nº124/2013, o
+procedimento de divisão de um pedido de patente não deve ter como consequência a replicação
+ou a multiplicação da matéria reivindicada (item 3.138). Adicionalmente, para a mesma matéria
+reivindicada não devem ser concedidas duas patentes (item 3.140). Na hipótese do pedido
+dividido não atender ao Art. 6º da LPI, o pedido dividido é passível de indeferimento (itens 3.141
+e 3.142).
+
+Conclusão
+
+       Desta forma, mantemos a opinião de que existe dupla proteção no pedido dividido
+BR122020025435-3, em relação ao pedido original BR112015007587-8, contrariando o Art. 6°, da
+LPI.
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao disposto no artigo 6º da LPI.
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                                                           Página 6
+                                    BR122020025435-1
+
+
+                                                  Rio de Janeiro, 30 de setembro de 2022.
+
+
+
+
+Marcilio Haddad Andrino
+Pesquisador/ Mat. Nº 1568950
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                Página 7
+

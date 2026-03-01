@@ -1,0 +1,267 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112015030335-8        N.° de Depósito PCT:CN2013/076809
+ Data de Depósito:                   05/06/2013
+ Prioridade Unionista:               -
+ Depositante:                        HUAWEI TECHNOLOGIES CO., LTD. (CN)
+ Inventor:                           XIAYUN CHEN, GUOYU NI, XUEJING WAN
+ Título:                             Método de transmissão de informação, método de modificação de
+                                     informação e aparelhos
+
+                                                                PARECER
+
+
+      Em 06/09/2022 foi publicado, através da RPI nº 2696, notificação de ciência (7.1) conforme
+parecer de exame técnico do presente pedido datado de 08/08/2022.
+      O Depositante, através da petição nº 870220110909 de 30/11/2022, apresentou
+manifestação a respeito do parecer técnico, com novas vias do pedido.
+        O exame do pedido foi solicitado através do protocolo 800160122506 de 06/05/2016 para
+19 reivindicações.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 59               870220110909           30/11/2022
+                                                     1 a 6 (QR)              870220110909           30/11/2022
+Quadro Reivindicatório
+                                                    1 a 6 (QRv)              860160009932           12/01/2016
+Desenhos                                                 1a7                 870200127166           08/10/2020
+Resumo                                                      1                870220110909           30/11/2022
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                                   x
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                       BR112015030335-8
+
+
+Comentários/Justificativas
+        O parecer de exame anterior deu ciência ao Depositante de que o quadro reivindicatório
+apresentou ampliação de escopo com relação ao quadro reivindicatório válido (QRv), contrariando
+o Art. 32 da LPI com entendimento no item 2.3 da Resolução INPI n° 093/2013, devido a remoção
+das seguintes características técnicas (a) e (b) das reivindicações independentes 1 e 12 do QRv:
+       Reivindicação Independente 1: (a) para que a estação de base possa atualizar (602) a
+informação sobre a capacidade de SRVCC local do EU de acordo com a primeira informação;
+        Reivindicação Independente 12: (b) um módulo de envio (702), configurado para atualizar
+(602) a informação sobre a capacidade da SRVCC do EU armazenada em uma estação de
+base,...  (características grifadas).
+         Em sua manifestação, o Depositante apresenta um novo quadro reivindicatório
+(identificado como QR no Quadro 1). O Depositante argumenta que a seguinte característica
+técnica (c) presente nas reivindicações independentes 1 e 10 do QR já contempla as
+características técnicas (a) e (b) removidas: (c) enviar (502), pela entidade de gerenciamento de
+mobilidade primeiras informações para uma estação base à qual o UE pertence para
+determinação de se inicia-se um processo de SRVCC de acordo com que a capacidade de
+SRVCC do UE é a segunda capacidade quando a capacidade de SRVCC mudou da primeira
+capacidade para a segunda capacidade. (Grifos do Depositante).
+      Segundo o Depositante: as características da reivindicação independente 1 ora
+apresentada acima expostas especificam adicionalmente como as informações de capacidade de
+SRVCC local podem ser atualizadas com base nas primeiras informações.
+        Primeiramente, constatamos que a referida característica (c) já encontrava-se na
+reivindicação 1 do quadro reivindicatório previamente apresentado na petição nº 870200127166
+de 08/10/2020 e analisado no parecer de exame anterior. Portanto, a análise realizada no parecer
+de exame anterior já considerou a referida característica técnica (c).
+       Respeitosamente, discordamos da argumentação apresentada pelo Depositante. A
+característica técnica (c) citada pelo Depositante apenas informa que a estação base utiliza as
+primeiras informações para decidir se inicia o processo SRVCC de acordo com a segunda
+capacidade. Não existe nenhum indicativo de que com tal ação as primeiras informações serão
+usadas para atualizar a informação de capacidade de SRVCC do EU armazenada localmente.
+       Ademais, efetuamos as seguintes constatações:
+       (i) A característica (c) mencionada pelo Depositante encontra-se com o identificador (502).
+As características (a) e (b) do QRv que foram removidas estavam com o identificador (602).
+Ambos identificadores encontram-se nas Figuras 5 e 6 do Quadro de Desenhos, e conforme pode
+ser observado, tratam-se de ações distintas. Portanto, a ação indicada por (502) não contempla a
+ação indicada por (602), conforme argumenta o Depositante. Tal entendimento também é
+depreendido da leitura das passagens no Relatório Descritivo referente às Figuras 5 e 6; e
+       (ii) As reivindicações 1 e 12 do QRv correspondem às reivindicações 1 e 12 apresentadas
+ao EPO em 24/10/2016 durante análise da patente EP 2,993,925 B1. Pode ser constatado que o
+quadro reivindicatório concedido para a referida patente europeia contempla as características (a)
+e (b) removidas. Tal fato é devido ao EPO possuir entendimento similar ao do INPI de que
+características técnicas das reivindicações independentes não podem ser removidas após início
+do exame técnico, salvo exceções. O Depositante opta por buscar adequar o pedido a outra
+patente europeia, no caso a patente EP 3,621,322 B1. Não obstamos que tal adequação seja
+realizada, desde que esteja de acordo com o item 2.3 da Resolução INPI n° 093/2013, que
+
+
+                                                                                         Página 2
+                                           BR112015030335-8
+
+estabelece que elementos da reivindicação independente não poderão ser retirados, após a data
+limite representada pela solicitação do exame do pedido de patente. O que não ocorre no
+presente caso.
+      Consequentemente, mantemos entendimento exarado no parecer anterior de que a
+remoção das características (a) e (b) amplia o escopo de proteção, uma vez que as reivindicações
+1 e 12 do QRv obrigavam que a capacidade SRVCC armazenada localmente fosse atualizada.
+Com a remoção, as reivindicações 1 e 10 do QR permitem que tal ação seja optativa, uma vez
+que as primeiras informações podem ser usadas apenas para iniciar o processo, mas não
+necessariamente serão utilizadas para atualizar a informação de capacidade localmente
+armazenada.
+
+
+        Por fim, comparando as reivindicações independentes 1, 7, 10 e 16 do QR com as
+reivindicações independentes 1, 8, 12 e 17 do QRv constatamos que o Depositante alterou os
+termos informação e primeira informação (no singular) para informações e primeiras
+informações (no plural). Tal alteração foi realizada em todo o quadro reivindicatório.
+Consideramos que tal alteração amplia o escopo de proteção originalmente reivindicado,
+contrariando o Art. 32 da LPI e item 2.2 da Resolução INPI n° 093/2013, uma vez que as novas
+reivindicações independentes do QR passam a possibilitar o emprego de mais de uma
+informação, enquanto que originalmente eram restritas a uma única informação. Constatamos
+ainda que no quadro reivindicatório previamente apresentado na petição nº 870200127166 de
+08/10/2020 constava informação e primeira informação (no singular), assim como nos quadros
+reivindicatórios das patentes EP 2,993,925 B1 e EP 3,621,322 B1. Ademais, não foi encontrado
+ao longo do Relatório Descritivo e Quadro de Figuras os termos informações e primeiras
+informações (no plural).
+
+
+        Do exposto, o novo quadro reivindicatório contraria o disposto no Art. 32 da LPI e, de
+acordo com os itens 2.5 e 3.2 (2.iii)(3.ii) da Resolução INPI PR n° 93/2013, o pedido será
+indeferido (despacho 9.2), considerando-se as razões de não-patenteabilidade apontadas no
+parecer de exame anterior, e, adicionalmente, o artigo 32 da LPI.
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim           Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                   x
+Comentários/Justificativas
+        Considera-se que a matéria do pedido atende ao disposto no Artigo 24 da LPI, visto que a
+suficiência descritiva não foi questionada nos Escritórios/Autoridades consultados para elaboração
+da exigência preliminar (6.21), conforme a Portaria/INPI/DIRPA N° 01/2022, procedimento CPAT-
+ETP-PP-0005, item 6.2.11.
+       Mantemos entendimento exarado no parecer de exame anterior de que:
+      As reivindicações independentes 1, 7, 10 e 16 do QR contrariam o disposto no Art. 25 LPI
+e na Instrução Normativa nº 30/2013  Art. 4º (III) e Art. 5º (I), pois as reivindicações
+independentes devem conter todas as características técnicas consideradas essenciais e
+
+
+                                                                                         Página 3
+                                       BR112015030335-8
+
+necessárias para a realização da invenção. Da comparação destas reivindicações, constata-se
+que existem características técnicas em determinadas reivindicações independentes que não se
+fazem presentes nas outras reivindicações independentes. Mais especificamente, as
+características técnicas (a) e (b) citadas na seção comentários/justificativas do Quadro 2 como
+removidas das reivindicações independentes 1 e 10 do QR continuam presentes nas
+reivindicações independentes 7 e 16 do QR. Tal fato não possibilita determinar de maneira clara e
+precisa se estas características técnicas são consideradas essenciais para a realização da
+invenção.
+        Além disso, foi constatado que o QR não atende ao disposto no Art. 25 da LPI e na
+Instrução Normativa nº 30/2013  Art. 4º (IV), pois a matéria pleiteada não está fundamentada no
+relatório descritivo do pedido pelas seguintes razões:
+        - As reivindicações independentes 1, 7, 10 e 16 do QR foram alteradas, de modo que os
+termos informação e primeira informação (no singular) passaram para informações e
+primeiras informações (no plural). Tal alteração foi realizada em todo o quadro reivindicatório.
+Não foram encontradas fundamentação para tal alteração, uma vez que o Relatório Descritivo e
+Quadro de Figuras fazem referência somente a informação e primeira informação (no singular).
+Constatamos ainda que os quadros reivindicatórios das patentes EP 2,993,925 B1 e EP 3,621,322
+B1 também empregam os referidos termos no singular.
+
+
+
+                        Quadro 4  Documentos citados no parecer
+
+ Código                              Documento                               Data de publicação
+           "3rd Generation Partnership Project; Technical Specification
+           Group Services and System Aspects; General Packet Radio
+           Service (GPRS) enhancements for Evolved Universal Terrestrial
+           Radio Access Network (E-UTRAN) access (Release 12)", 3GPP
+           STANDARD; 3GPP TS 23.401, 3RD GENERATION
+    D1                                                                               03/2013
+           PARTNERSHIP PROJECT (3GPP), MOBILE COMPETENCE
+           CENTRE; 650, ROUTE DES LUCIOLES ; F-06921 SOPHIA-
+           ANTIPOLIS CEDEX ; FRANCE, (20130305), vol. SA WG2, no.
+           V12.0.0, pages 1 - 290, XP050691826
+           url: https://www.3gpp.org/dynareport/23401.htm
+   D2      CN 101730058 A                                                           09/06/2010
+   D2a     WO 2010/048834 A1                                                        06/05/2010
+    D3     US 2012/022456 A1                                                        26/01/2012
+    D4     CN 102783215 A                                                           14/11/2012
+    D5     WO 2012/097509 A1                                                        26/07/2012
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento               Reivindicações
+                                                   Sim                       1 a 19
+          Aplicação Industrial
+                                                   Não                          -
+                Novidade                           Sim                       1 a 19
+
+
+
+                                                                                          Página 4
+                                        BR112015030335-8
+
+
+                                                   Não                            -
+                                                   Sim                            -
+           Atividade Inventiva
+                                                   Não                         1 a 19
+Comentários/Justificativas
+       Com base nos argumentos exarados no parecer de exame anterior, mantemos
+entendimento de que:
+        - O QRv não atende ao requisito atividade inventiva com relação aos documentos D1 e D2,
+utilizando-se como subsídio os exames realizados pelo EPO para as patentes EP 2,993,925 B1 e
+EP 3,621,322 B1, com entendimento na Resolução INPI/PR no 052/2021  Art. 5o (§1o);
+       - Em cumprimento da Resolução INPI/PR no 052/2021  Art. 5o (§4o) em conjunto com o
+item 2.5 da Resolução INPI/PR no 093/2013, foi avaliado que o QR recusado contém matéria apta
+ao deferimento que pode ser usada como subsídio e direcionar o exame do QRv; e
+        - De acordo com a Resolução INPI/PR no 052/2021  Art. 5o (§ 2o), para o deferimento do
+pedido deve ser apresentado um quadro reivindicatório adequado às anterioridades citadas como
+impeditivas à patenteabilidade e estando de acordo com a legislação nacional. O QR permanece
+incidindo nos Art. 25 e Art. 32 da LPI, não tendo sido consideradas pertinentes as argumentações
+apresentadas pelo Depositante em sua manifestação.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+     -    acréscimo de matéria do pedido ou do escopo das reivindicações (Art. 32 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 15 de dezembro de 2022.
+
+
+
+
+Leonardo Cavalcanti de Sá Neto
+Pesquisador/ Mat. Nº 1738842
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 007/16
+
+
+
+
+                                                                                           Página 5
+

@@ -1,0 +1,250 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0815382-5              N.° de Depósito PCT:JP2008/064076
+ Data de Depósito:                   30/07/2008
+ Prioridade Unionista:               JP 2007-200088 (31/07/2007)
+ Depositante:                        Otsuka Pharmaceutical CO., LTD. (JP)
+ Inventor:                           Shogo Hiraoka, Takakuni Matsuda, Junichi Hatanaka
+ Título:                             Métodos para a produção de suspensão de aripiprazol e formulação
+                                     de secagem por congelamento 
+
+                                                                PARECER
+
+
+
+
+          Através da petição de n° 870190099341 de 04/10/2019, a requerente apresentou
+manifestação sobre o parecer técnico negativo notificado na RPI 2531, novas páginas do
+relatório descritivo, um novo resumo e um novo quadro reivindicatório (total de 20
+reivindicações).
+          Os argumentos e novo quadro reivindicatório ora apresentados pela requerente não
+superam os questionamentos feitos anteriormente com relação à atividade inventiva das
+reivindicações da matéria pleiteada no parecer (RPI 2531 de 09/07/2019), e reitera-se a opinião
+de que o presente pedido não atende aos artigos 8° e 13 da LPI.
+
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                    1 a 53               870190099341     04/10/2019
+Quadro Reivindicatório                                   1a4                 870190099341     04/10/2019
+Desenhos                                                    -                       -             -
+Resumo                                                      1                870190099341     04/10/2019
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                            Página 1
+                                               PI0815382-5
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                           Sim               Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                         X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                 X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   X
+O pedido está de acordo com disposto no art. 32 da LPI                    X
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                  PI0415531-9 A                                 26/12/2006
+    D2                              WO 2005/041970 A1                                 12/05/2005
+    D3                               US 2007/148100 A1                                28/06/2007
+
+
+         O documento D1, descreve o método e formulação de aripiprazol injetável estéril
+
+
+         O documento D2, descreve o método para formular aripiprazol estéril
+
+
+         O documento D3, descreve formulações não particuladas de aripiprazol.
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                   1 a 20
+            Aplicação Industrial
+                                                         Não                      -
+                                                         Sim                   1 a 20
+                 Novidade
+                                                         Não                      -
+
+                                                         Sim                      -
+            Atividade Inventiva
+                                                         Não                   1 a 20
+
+
+
+
+                                                                                            Página 2
+                                             PI0815382-5
+
+
+Comentários/Justificativas
+
+
+
+       Na manifestação apresentada pela requerente na petição 870190099341 de 04/10/2019,
+a requerente declara que:
+
+
+
+
+A presente invenção proporciona os seguintes efeitos:
+(a) Independentemente do tamanho médio de partículas do aripiprazol bruto,o método da presente invenção
+produz facilmente uma suspensão de aripiprazol com um tamanho médio de partículas de 1 a 10 mm.
+(b) Para a preparação do aripiprazol bruto, não são necessárias técnicas especiais de cristalização, como
+um método de cristalização por jato impingente.
+(c) A etapa de combinar o aripiprazol bruto com um veículo, a primeira etapa de pulverização e a segunda
+etapa de pulverização podem ser realizadas sem a adoção de um processo de mistura a vácuo.
+(d) Como nenhum desgaste ocorre como em um moinho de bolas, não há problemas de contaminação
+causados por tal desgaste.
+(e) A passagem curta de partículas grandes, que é um problema no moinho de bolas úmido, é menos
+provável de ocorrer.
+(f) O aparelho de produção utilizado no método de pulverização da presente invenção permite CIP e SIP.
+Assim, o aparelho é facilmente mantido estéril pela esterilização em linha.
+
+
+
+
+       O estado da técnica já descreve métodos para a produção de suspensão de aripiprazol
+estereis com tamanho de partícula com cerca de 1 a 10 mm, em processos muito semelhante ao
+pleiteado pela requerente, ressaltando a importância do tamanho de partícula na sua liberação
+em suspensões farmacêuticas e estabilidade da suspensão. Descrevendo também a
+importância de sua estrutura cristalina e sua obtenção termodinâmica por técnicas de
+cristalização e congelamento por exemplo, em decorrência do processo de obtenção.
+Suspensões estáveis a pH 7 contendo CMC e manitol também são descritos no estado da
+técnica. Tabela 1
+
+       Suspensões de aripiprazol estáveis obtidas a partir de processos envolvendo a obtenção
+de uma suspensão primaria com tamanho de partícula maior que 1 mm e uma secundaria entre 1
+e 5 mm, também é descrito no estado da técnica
+
+
+
+
+                                                                                               Página 3
+                                                         PI0815382-5
+
+
+Tabela1: Similaridades entre a matéria pleiteada pela requerente no pedido PI 0815382-5, e os
+documentos D1 e D2.
+
+
+                            Monohidrato
+                             Ariprazol
+
+
+               Veiculo
+                                             Suspensão                       Suspensão                        Suspensão
+                                                                                             Pulverização 2
+                                              primária    Pulverização 1     secundária
+                            Dispersão
+
+Documentos       Veículos                 Dispersão              Pulverização 1            Pulverização 2     Suspensão
+              CMC + Manitol +       Agitação a motor:        Cisallhamento (18000                              1 a 10 mm
+PI0815382-5   KH2PO4 + NaOH +         Tree-one motor                 RPM):                600 Bar (60 mPa)
+                   H2O               (200 a 400 RPM)         Homo Mixer/ CLM-15/
+                                                                    Clear mix
+    D1        CMC + Manitol +             Moinho de                  Vácuo                Moinho de meio      0,4 a 7,5 mm
+              KH2PO4 + NaOH +             moagem                500 a 1000 RPM               2500 RPM
+                   H2O
+
+
+    D2        CMC + Manitol +              Agitação                 Vácuo                                     25 a 100 mm
+              KH2PO4 + NaOH +           500 a 1000 RPM          300 a 500 RPM                Lioflização
+                   H2O
+
+
+
+
+         A luz de D1 a D3, um técnico no assunto que desejasse obter uma suspensão de
+aripiprazol seria motivado a usar um veículo, um agente suspensor polimérico em um processo
+de duas etapas com controle de temperatura, afim de obter partículas com diametro médio de 5
+mm na primeira etapa e partículas com diâmetro médio de 2mm na segunda etapa obtidos por
+técnicas de cisalhamento com alta e baixa pressão seguida de congelamento de forma a
+garantir a formação da forma monohidratada do aripiprazol.
+
+         As diferenças entre o estado da técnica e a matéria pleiteada não conferem um efeito
+novo e inesperado.
+
+         Uma vez que, o requerente não apresentou nenhum efeito novo ou inesperado em
+relação ao revelado no estado da técnica a matéria pleiteada nas reivindicações 1 a 20 é
+considerada isenta de atividade inventiva, contrariando os artigos 8° e 13 da LPI.
+
+
+
+
+                                                                                                                     Página 4
+                                          PI0815382-5
+
+
+Conclusão
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 18 de novembro de 2019.
+
+
+
+
+Glaucia Barbosa Candido Alves Slana
+Pesquisador/ Mat. Nº 1731552
+DIRPA / CGPAT I/DIFAR-I
+
+
+
+
+De acordo com o parecer acima, indefiro o presente pedido como Patente de Invenção.
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+
+Alexandre Godinho Silva
+Chefe de Divisão/ Mat. Nº 1568052
+DIRPA / CGPAT I/DIFAR-I
+Del. Comp. - Port. INPI/PR Nº1212/18
+
+
+
+
+                                                                                           Página 5
+

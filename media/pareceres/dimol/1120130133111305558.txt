@@ -1,0 +1,178 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR112013013311-2           N.° de Depósito PCT: JP2011/077603
+ Data de Depósito:     30/11/2011
+ Prioridade Unionista: JP 2010-266760 (30/11/2010); JP 2011-121771 (31/05/2011); JP
+                       2011-238818 (31/10/2011)
+ Depositante:          CHUGAI SEIYAKU KABUSHIKI KAISHA (JP)
+ Inventor:             JUNICHI NEZU, TAKAHIRO ISHIGURO, ATSUSHI NARITA, AKIHISA
+                       SAKAMOTO, YUMIKO KAWAI, TOMOYUKI IGAWA, TAICHI
+                       KURAMOCHI
+ Título:               Agente terapêutico de indução de citotoxicidade 
+
+                                                              PARECER
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                              Sim      Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                     x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)              x
+
+O pedido refere-se a Sequências Biológicas                                                               x
+
+Comentários/Justificativas
+          A anuência prévia da ANVISA de acordo com o Art. 229-C da LPI foi publicada na RPI
+2524 de 21/05/19.
+
+
+          A Listagem de Sequencias em formato digital foi apresentada através da petição
+870200133224 de 22/10/20.
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição            Data
+Relatório Descritivo                                     1-150               870200133224             22/10/20
+Listagem de sequências*                        Código de Controle            870200133224             22/10/20
+Quadro Reivindicatório                                     1-5               870200133224             22/10/20
+Desenhos                                                  1-26                20130046738             28/05/13
+Resumo                                                       1               870200133224             22/10/20
+
+        *Listagem de sequências em formato eletrônico referente ao código de controle
+        0CEEB481ADC5E650 (Campo 1) e 3CC1D5800C5727D7 (Campo 2).
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                   Página 1
+                                          BR112013013311-2
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                           Sim             Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                          x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                  x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   x
+O pedido está de acordo com disposto no art. 32 da LPI                    x
+Comentários/Justificativas
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                       x
+Comentários/Justificativas
+          Conforme apontado no parecer anterior, a definição clara e precisa de polipeptídeos deve
+ser feita diretamente através da sua SEQ ID, de forma a permitir uma identificação inequívoca das
+moléculas incluídas no escopo pleiteado.
+          A despeito da argumentação apresentada pelo requerente, considera-se que o quadro
+reivindicatório ora em análise permanece em desacordo com o Art. 25 da LPI, por não definir de
+forma clara e precisa a matéria a que se refere, e resulta numa enormidade de moléculas
+possíveis.
+
+
+
+                             Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    ---       ---                                                                      ---
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento            Reivindicações
+                                                         Sim                    1-26
+             Aplicação Industrial
+                                                         Não                     ---
+                                                         Sim                     ---
+                      Novidade
+                                                         Não                     ---
+
+                                                         Sim                     ---
+             Atividade Inventiva
+                                                         Não                     ---
+
+
+                                                                                             Página 2
+                                        BR112013013311-2
+
+
+
+
+Comentários/Justificativas
+        O presente pedido é dividido do BR112013013311-2, e se refere a complexos
+polipeptídicos para tratamento de câncer por terem células T próximo das células cancerosas
+alvo, através da citotoxicidade das células T, bem como métodos, usos e composições
+farmacêuticas que os contenham.
+
+
+        Em parecer técnico anterior, publicado na RPI 2587 de 04/08/20, foi redigida uma
+exigência técnica a fim de que o quadro reivindicatório fosse adequado ao entendimento dado
+por este INPI ao Art. 25 da LPI. Neste sentido, foi apontado claramente que polinucleotídeos e
+polipeptídeos devem ser descritos direta e unicamente através da sua sequência de
+nucleotídeos ou aminoácidos, respectivamente, ou da SEQ ID correspondente.
+
+
+        Através da petição 870200133224 de 22/10/20 o requerente responde a este parecer,
+apresentando um novo quadro reivindicatório, bem como argumentação a respeito da
+adequação das modificações realizadas.
+
+
+        Conforme apontado no Quadro 3 acima, a despeito da argumentação e das modificações
+apresentadas, considera-se que o quadro reivindicatório permanece em desacordo com o Art.
+25 da LPI, uma vez que não descreve clara e precisamente a matéria a que se refere, definindo
+o complexo polipeptídico de interesse através de uma enormidade de mutações, substituições e
+deleções possíveis, através de sua capacidade de ligação em comparação com a sequência
+original, etc.
+
+
+
+
+Conclusão
+
+        Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que as
+reivindicações estão indefinidas e/ou não estão fundamentadas no relatório descritivo (Art. 25 da
+LPI).
+
+
+
+        De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+
+                                                                                          Página 3
+                               BR112013013311-2
+
+
+
+
+                                             Rio de Janeiro, 01 de novembro de 2020.
+
+
+
+
+Elielton Rezende Coelho
+Pesquisador/ Mat. Nº 1531553
+DIRPA / CGPAT II/DIMOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                           Página 4
+

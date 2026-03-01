@@ -1,0 +1,146 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR122021017292-7          N.° de Depósito PCT:
+ Data de Depósito:     06/07/2009
+ Prioridade Unionista: US 61/09,861 (11/07/2008); EP 08017662.1 (08/10/2008); EP
+                       09002272.4 (18/02/2009)
+ Depositante:          FRAUNHOFER-GESELLSCHAFT             ZUR     FÖRDERUNG       DER
+                       ANGEWANDTEN FORSCHUNG E. V. (DE)
+ Inventor:             GRILL, BERNHARD; FUCHS, GUILLAUME; GEYERSBERGER,
+                       STEFAN.; GEIGER, RALF.; HILPERT, JOHANNES.; KRAEMER,
+                       ULRICH;     LECOMTE,       JEREMIE.;     MULTRUS,       MARKUS.;
+                       NEUENDORF, MAX; POPP, HARALD; RETTELBACH, NIKOLAUS.;
+                       NAGEL, FREDERIK.; DISCH, SASCHA; HERRE, JUERGEN;
+                       YOKOTANI,YOSHIKAZU.;         WABNIK,     STEFAN.;     SCHULLER,
+                       GERALD; HIRSCHFELD, JENS.; BAYER, STEFAN
+ Título:               ESQUEMA DE CODIFICAÇÃO/DECODIFICAÇÃO DE ÁUDIO COM
+                       TAXA DE BITS BAIXA COM PRÉ-PROCESSAMENTO COMUM
+
+
+
+                                                              PARECER
+           O presente pedido apresenta um codificador de áudio compreende uma etapa de
+pré-processamento comum (100), uma ramificação de codificação baseada em escoadouro de
+informações (400) como a ramificação de codificação de domínio espectral, uma ramificação de
+codificação baseada na fonte de informações (500) como uma ramificação de codificação de
+domínio LPC e uma chave (200) para alternar entre essas ramificações em entradas nessas
+ramificações ou saídas dessas ramificações controladas por uma etapa de decisão (300). Um
+decodificador de áudio compreende uma ramificação de decodificação de domínio espectral,
+uma ramificação de decodificação de domínio LPC, uma ou mais chaves para alternância entre
+as ramificações e uma etapa de pós-processamento comum para pós-processar um sinal de
+áudio de domínio de tempo para obter um sinal de áudio pós-processado.
+
+
+           O presente pedido corresponde a uma divisão do pedido PI 0910516-6, solicitada
+pelo Depositante por meio da petição 870210080327 de 31/08/2021.
+
+    Conforme Art.28 da IN 31/2013, o pedido original e o pedido dividido estão na mesma fase
+processual.               Tendo em vista que as anterioridades contidas no relatório de busca
+emitido no despacho 6.21 (notificado na                        RPI Nº 2641 de 17/08/2021 para o pedido original)
+são pertinentes para esse pedido, as mesmas foram consideradas para a elaboração
+deste parecer.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                              Página 1
+                                                        BR122021017292-7
+
+
+
+
+                                    Quadro 1  Páginas do pedido examinadas
+            Elemento                                  Páginas                   n.o da Petição                Data
+
+Relatório Descritivo                            40 Págs. (Págs.                 870210080327                31/08/2021
+                                                16 a 55 do PDF)
+Quadro Reivindicatório                         3 Págs. (Págs. 56                870210080327                31/08/2021
+                                                 a 58 do PDF)
+Desenhos                                        16 Págs. (Págs.                 870210080327                31/08/2021
+                                                60 a 75 do PDF)
+Resumo                                        1 Pág. (Pág, 59 do                870210080327                31/08/2021
+                                                    PDF)
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                                   Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                               X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                       X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                           X
+O pedido está de acordo com disposto no art. 32 da LPI                                            X
+Comentários/Justificativas
+
+
+
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                   Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                              X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                            X
+Comentários/Justificativas
+
+
+    Quadro 4  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                    Cumprimento                Reivindicações
+                                                                          Sim                          1a5
+            Aplicação Industrial
+                                                                         Não                            -
+                                                                          Sim                          1a5
+                    Novidade
+                                                                         Não                            -
+
+            Atividade Inventiva                                           Sim                          1a5
+
+                                                                         Não                            -
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                               Página 2
+                                                        BR122021017292-7
+
+
+Comentários/Justificativas: o quadro reivindicatório do pedido é substancialmente igual ao
+quadro reivindicatório do pedido original, deferido, ocorrendo dupla proteção. Ver item 3.141 da
+resolução PR Nº 124/2013.
+
+
+
+Conclusão
+
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma                      vez que não
+atende ao Art. 6 da LPI.
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+                                                                            Publique-se o indeferimento (9.2).
+
+
+
+                                                                      Rio de Janeiro, 16 de novembro de 2021.
+
+
+
+
+Paulo Roberto Dutra Magalhaes
+Pesquisador/ Mat. Nº 1287310
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+008/13
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 3
+

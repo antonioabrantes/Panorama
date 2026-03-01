@@ -1,0 +1,127 @@
+                               SERVIÇO PÚBLICO FEDERAL
+            MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA E COMÉRCIO EXTERIOR
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                              RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        PI0113415-9               N.° de Depósito PCT: FI01/00743
+ Data de Depósito:                     24/08/2001
+ Prioridade Unionista:                 FI 20001881 (25/08/2000)
+ Depositante:                          OUTOTEC OYJ (FI)
+ Inventor:                             Niemelã, Pekka, Väänänen, Eero, Rovanen, Raimo, Pirttimaa, Jouko,
+                                       Tulkki, Olavi
+ Título:                               Método para a mensuração da altura de superfície de um leito de
+                                       material conduzido sobre uma correia transportadora para tratamento
+                                       térmico 
+
+
+
+                                                          PARECER TÉCNICO
+
+
+
+1  Descrição da matéria
+          O presente pedido apresenta aplicação industrial e se refere a um método para
+determinação da altura de um produto sendo carreado por uma correia transportadora, no qual é
+utilizado um feixe planar de laser projetando uma linha essencialmente transversal ao sentido de
+prosseguimento da correia transportadora e no qual a imagem desta linha, distorcida pelo relevo
+do produto sobre a correia, é analisada para a obtenção da altura de distribuição do produto
+sobre a correia. O mesmo foi objeto de exame técnico anterior, tendo como resultado ciência de
+parecer de indeferimento publicada na RPI 2218 de 17/07/2013.
+
+
+2  Subsídios
+          Não foi recebida informação sobre apresentação de subsídios ao exame até a presente
+data.
+
+
+3  Anterioridades
+          No exame técnico anterior foram indicados os seguintes documentos como anterioridades
+à matéria pleiteada:
+          DE3921956 , intitulado Contactless thickness measurement method esp. of
+fleece - using intensity profile measurement of distorted line of light projected
+onto material surface and triangulation technique, depositado por EYETEC GMBH [DE] e
+publicado em 13/12/1990, então denominado D1, o qual apresenta um método para
+determinação da altura de uma tira contínua de material fibroso, no qual são utilizados um feixe
+planar de laser projetando uma linha horizontal essencialmente transversal ao sentido de
+
+
+Código:f45f4353e35f05e0ceb3803b3b8fe9d4  versão 1.2  12/09/12@MODELO_SISCAP@                     Página 1
+                                                                  PI0113415-9
+
+
+
+prosseguimento do material e no qual a imagem desta linha, distorcida pelo relevo do produto é
+analisada mediante recursos computacionais de processamento de imagens para a obtenção
+da espessura do produto.
+
+
+5  Manifestação da requerente
+          Em consequência do exame técnico anterior a requerente apresentou sua manifestação
+através do protocolo 020130081211 em 07/10/2013, com o qual foi submetida nova via do
+quadro reivindicatório contendo 6 reivindicações. Em sua manifestação a requerente tem como
+principais alegações as que resumidamente se seguem:
+           Que o material a que se aplica o método D1 é um material contínuo, não um material
+            particulado como no presente pedido.
+           Que não é possível utilizar o método descrito em D1 na velocidade da correia
+            transportadora do sistema descrito no presente pedido.
+Observa-se entretanto que não há no conteúdo reivindicado nenhuma característica técnica
+especificada que indique uma melhor adaptação do método reivindicado ao tipo de material
+descrito do que a um material contínuo como o descrito em D1. A maioria das características
+essencial presentes na reivindicação independente do presente pedido são consideradas como
+substancialmente identificadas com a matéria já revelada em D1 e as que não possuem uma
+identificação mais direta, por exemplo, a comparação do perfil de imagem obtido com um perfil de
+imagem padrão para inferência da altura são consideradas óbvias para um técnico no assunto. Na
+descrição do pedido em questão não foi encontrada menção explícita de nenhuma faixa de
+velocidades de deslocamento da correia transportadora da invenção proposta para que se
+pudesse avaliar as alegações da requerente com relação a esta possível diferença.
+Quanto ao controle da velocidade da esteira com base nas informações de altura da camada,
+trata-se de uma forma adequada ao problema do presente pedido para comandar alterações na
+altura do leito de material sendo medida pela técnica proposta, sendo óbvio para um técnico na
+área de automação de processos que diferentes meios de comandar a altura ou espessura do
+material conforme as particularidades do mesmo, não havendo característica inventiva adicional
+fora do domínio de conhecimento de um tal técnico que seja necessária para prover as
+adaptações da técnica pleiteada para diversos tipos de material sendo transportado. Considera-se
+pois as alegações da requerente como improcedentes.
+
+
+6  Conclusão
+          Conclui-se que a matéria cuja patente ora se requer, embora seja provida de aplicabilidade
+industrial, foi considerada desprovida de atividade inventiva, o que faz com que o presente pedido
+esteja em não-conformidade com os artigos 8º e 13º da LPI. Assim sendo, de acordo com o Art.
+37, indefiro o presente pedido.
+
+
+
+
+Código:f45f4353e35f05e0ceb3803b3b8fe9d4  versão 1.2  12/09/12                            Página 2
+                                                                  PI0113415-9
+
+
+
+
+                                                                                -   Rio de Janeiro, 6 de outubro de 2014.
+
+
+
+ Jose Aguiar Coelho Neto
+ Pesquisador/ Mat. Nº 1549957
+ DIRPA / CGPAT III/DIFEL
+ Deleg. Comp. - Port. INPI/DIRPA Nº
+ 002/11
+
+                                                                                       Publique-se o indeferimento (9.2).
+
+
+
+
+ Neide de Oliveira Gomes
+ Chefe de Divisão/ Mat. Nº 1203806
+ DIRPA / CGPAT III/DIFEL
+ Portaria INPI/PR Nº742/10
+
+
+
+
+Código:f45f4353e35f05e0ceb3803b3b8fe9d4  versão 1.2  12/09/12                                                 Página 3
+

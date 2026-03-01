@@ -1,0 +1,240 @@
+                                  SERVIÇO PÚBLICO FEDERAL
+                   MINISTÉRIO DA INDÚSTRIA, COMÉRCIO EXTERIOR E SERVIÇOS
+                       INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0919314-6                   N.° de Depósito PCT: EP2009/062539
+ Data de Depósito:                   28/09/2009
+ Prioridade Unionista:               EP 08165245.5 (26/09/2008)
+ Depositante:                        Novozymes AS (DK)
+ Inventor:                           Soeren Flensted Lassen, Lars Kobberoee Skov, Leonardo De Maria,
+                                     Esben Peter Friis, Tomoko Matsui, Allan Noergaard, Jesper Vind
+ Título:                             Fitase, métodos para produzir um variante de fitase e um produto de
+                                     fermentacao, para melhorar o valor nutricional de uma ração animal, e
+                                     para o tratamento de proteínas vegetais, sequência isolada de ácidos
+                                     nucleicos, construto de acido nucleico, vetor de expressão
+                                     recombinante, célula hospedeira recombinante, microorganismo
+                                     transgênico, ou produtos, ou elementos destes, composição, processo
+                                     para reduzir níveis de fitato em extrume de animal, e, uso da fitase. 
+
+                                                              PARECER
+
+
+          O presente pedido pleiteia tase não-natural com pelo menos 80% de identidade com a
+sequência de aminoácidos 1-413 da SEQ ID N° 2.
+
+          Em parecer técnico inicial, publicado na RPI nº 2447 de 28/11/2017, foi emitido parecer de
+ciência (7.1) com base nos arts. 8°, 10 (IX), 11, 13, 18 (III), 24 e 25 da LPI e nos documentos
+BR0808999 e WO2007/112739 (D1 e D2, respectivamente). Em resposta, através da petição n°
+870180014761 de 23/02/2018, a requerente propôs um novo quadro reivindicatório, com 21
+reivindicações, e novas páginas 1 do relatório descritivo e do resumo.
+          São realizadas as seguintes observações acerca da matéria pleiteada, considerando o
+parecer técnico inicial e a manifestação apresentada:
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                           X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    X
+
+O pedido refere-se a Sequências Biológicas                                                             X
+
+Comentários/Justificativas
+
+          -
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                 Página 1
+                                             PI0919314-6
+
+Relatório Descritivo                        1                 870180014761        23/02/2018
+Relatório Descritivo                2 a 78, 80 a 100           20110026622         21/03/2011
+Relatório Descritivo                        79                 20110044642         02/05/2011
+Listagem de sequências*           Código de Controle           20110026622         21/03/2011
+Quadro Reivindicatório                    1a6                 870180014761        23/02/2018
+Desenhos                                    -                         -                 -
+Resumo                                      1                 870180014761        23/02/2018
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+     5DBEFEC7DD22152C (Campo 1) e 9F9C202CFC94C066A (Campo 2).
+
+- Como apontado no parecer técnico inicial, a Listagem apresentada pela petição n° 20110026622
+de 21/03/2011, contém as seguintes irregularidades: no campo <120>, o título não confere com o
+constante na petição de depósito e ausência dos campos <140> ,<141>, <150> e <151>.
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                            Sim          Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)          X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                 X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                      X
+O pedido está de acordo com disposto no art. 32 da LPI                       X
+Comentários/Justificativas
+- As reivindicações 1 a 15 pleiteiam fitases não natural com pelo menos 80% identidade com a
+sequência 1-413 da SEQ ID N° 2 com uma modificação em pelo menos uma das 127 posições
+de resíduos listadas.
+       A requerente alega que a reivindicação teria três características que, individualmente e
+particularmente, quando consideradas em conjunto, excluiriam a matéria pleiteada de incidir no
+art. 10 (IX) da LPI: (1) o termo não natural excluiria qualquer fitase encontrada na natureza,
+possuir (2) 80% ou mais de identidade a sequência 1-413 da SEQ ID N° 2; e compreender (3)
+pelo menos uma modificação em um dos resíduos definidos na reivindicação, em comparação a
+SEQ ID N° 2.
+       Das três características, tem se que: (i) como claramente discutido no parecer técnico
+inicial, a inclusão de uma limitação negativa (disclaimer) com o termo não natural por si só
+não supera a objeção quanto ao art. 10 (IX) da LPI, conforme estabelecido nas Diretrizes de
+exame de pedidos de patente na área de biotecnologia, publicada na RPI 2306 de 17/05/2015,
+em seu item 4.2.1.1; (ii) a definição através de % de identidade acarreta um grave problema de
+clareza e precisão, como apontado no parecer técnico inicial e ratificado no Quadro 3 do
+presente parecer; de forma semelhante, estabelecer (iii) uma modificação em pelo menos um
+das 127 posições de resíduos listados abrangem infinitas sequências distintas não descritas
+
+
+
+
+                                                                                            Página 2
+                                               PI0919314-6
+
+nem fundamentadas no presente pedido, gerando um grave problema de clareza e precisão,
+bem como engloba no escopo pleiteado sequências semelhantes às encontradas na natureza.
+       Logo as reivindicações, como ora pleiteadas, permanecem englobando polipeptídeos
+naturais, permanecendo em desacordo com o art. 10 (IX) da LPI.
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim          Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                    X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                  X
+Comentários/Justificativas
+
+
+- Como discutido no parecer técnico inicial, uma sequência não deve ser definida por sua % de
+identidade, uma vez que essa expressão abrange infinitas sequências distintas não descritas
+nem sequer fundamentadas no presente pedido. As matérias ora pleiteadas permanecem não
+possuindo suficiência descritiva nem fundamentação, estando em desacordo com o disposto nos
+arts. 24 e 25 da LPI.
+
+
+- Conforme o art. 9° (VI) da Instrução Normativa N° 030/2013, de 04/12/2013, o relatório
+descritivo deve ressaltar, nitidamente, a novidade e evidenciar a melhoria funcional alcançada.
+Como indicado no parecer técnico anterior, nem todas as variantes pleiteadas tiveram a suas
+propriedades melhoradas; outras variantes, apesar de terem suas propriedades avaliadas,
+indicaram uma atividade similar ou abaixo da fitase selvagem.
+       Em resposta, a requerente alegou que as variantes reivindicadas, incluindo as com
+atividade enzimática reduzida, reteriam alguma atividade enzimática após a exposição a altas
+temperaturas, em contraste com o tipo selvagem. Após o processamento em altas temperaturas,
+a ração animal contendo as variantes termostáveis reivindicadas, independentemente da sua
+atividade enzimática relativa em comparação ao tipo selvagem, seria enzimaticamente ativa,
+enquanto as rações contendo a enzima selvagem seriam inativas. Ou seja, a requerente alega
+que as variantes pleiteadas seriam mais termoestáveis em relação ao tipo selvagem.
+       Entretanto, a tabela 3 do relatório descritivo do presente pedido  que apresenta os
+resultados da análise da termoestabilidade comparativa - apresenta diversas variantes que
+possuem termoestabilidade menor do que a selvagem:
+
+
+
+
+                                                                                        Página 3
+                                            PI0919314-6
+
+
+
+
+          Ademais, o pedido pleiteia fitases que compreende pelo menos uma modificação 
+dentre substituição, deleção ou inserção - em um dos 127 resíduos listados na reivindicação 1.
+Um grupo limitado dentre essas inúmeras possibilidades foram avaliadas no presente pedido, e
+mesmo dentre as possibilidades avaliadas, nem todas apresentam a termoestabilidade alegada.
+          Portanto, a argumentação apresentada pela requerente não foi suficiente para superar o
+óbice anteriormente apontado e logo é mantida a posição de que o relatório descritivo do
+presente pedido não evidencia a melhoria funcional alcançada de todas as variantes pleiteadas.
+Dessa forma, a matéria não está suficientemente descrita não atendendo, dessa forma, o art. 24
+da LPI.
+
+- Como já discutido anteriormente, o quadro reivindicatório pleiteia fitases que compreende pelo
+menos uma modificação  dentre substituição, deleção ou inserção - em um ou mais dos 127
+resíduos listados na reivindicação 1, englobando um escopo enorme de possibilidades, não
+descritas ou fundamentadas no relatório descritivo do presente pedido, não atendendo ao
+disposto no art. 24 da LPI.
+
+- Expressões, tais como, teor bruto, carboidrato contendo material e grãos secos em
+destiladores (DDG), permanecem pouco claras e tornam a matéria pouco precisa, e não
+estando de acordo com o estabelecido no art. 25 da LPI.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                Documento                             Data de publicação
+    D1                                 BR0808999                                  11/11/2014
+    D2                               WO2007/112739                                  2007
+* O BR0808999 foi depositado em 26/03/2008 (prioridade EP2008/053561 de 26/03/2008) e
+publicado em 11/11/2014.
+          O art. 11 § 2° da LPI estabelece que para fins de aferição da novidade, o conteúdo
+completo de pedido depositado no Brasil, e ainda não publicado, será considerado estado da
+
+
+
+                                                                                         Página 4
+                                            PI0919314-6
+
+
+técnica a partir da data de depósito, ou da prioridade reivindicada, desde que venha a ser
+publicado, mesmo que subsequentemente. Portanto, esse documento foi considerado estado da
+técnica para fins de análise da novidade.
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento                  Reivindicações
+                                                    Sim                          1 a 21
+           Aplicação Industrial
+                                                    Não                             -
+                                                    Sim                           1-21
+                Novidade
+                                                    Não                             -
+
+                                                    Sim                           1-21
+           Atividade Inventiva
+                                                    Não                             -
+Comentários/Justificativas
+       A matéria ora pleiteada compreende pelo menos uma modificação em resíduos da SEQ
+ID N° 2; logo, a matéria ora reivindicada é nova frente a D1.
+       As variantes nas quais foram demonstradas uma termoestabilidade superior à da fitase
+selvagem de Hafnia alvei (vide discussão acerca da suficiência descritiva, clareza e precisão da
+matéria pleiteada no Quadro 3, acima) foram consideradas inventivas. Essas variantes estão de
+acordo com os requisitos dispostos no art. 8° da LPI.
+
+
+Conclusão
+
+      Assim sendo, de acordo com o art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não apresenta suficiência descritiva (art. 24 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (art. 25 da LPI)
+
+      -   não é considerado invenção, uma vez que incide no art. 10 da LPI.
+
+
+      De acordo com o art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+                                                                    Publique-se o indeferimento (9.2).
+
+                                                                  Rio de Janeiro, 28 de maio de 2018.
+
+
+
+Marcia Tie Kawamura
+Pesquisador/ Mat. Nº 1358397
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                             Página 5
+

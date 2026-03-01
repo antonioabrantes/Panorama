@@ -1,0 +1,193 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122020012411-3          N.° de Depósito PCT:KR2016/001500
+ Data de Depósito:                   15/02/2016
+ Prioridade Unionista:               US 62/115,846 (13/02/2015); KR 10-2016-0014351 (04/02/2016)
+ Depositante:                        SAMSUNG ELECTRONICS CO., LTD. (KR)
+ Inventor:                           JAE-HYEON BAE, YOUNG-HO OH, SUNG-HEE HWANG
+ Título:                             Método de transmissão de um aparelho de transmissão, e método de
+                                     recebimento de um aparelho receptor
+
+                                                                PARECER
+
+
+      Em 15/06/2021 foi publicado, através da RPI nº 2632, notificação de ciência (7.1) conforme
+parecer de exame técnico do presente pedido datado de 08/06/2021.
+      O Depositante, através da petição nº 870210084187 de 13/09/2021, apresentou
+manifestação a respeito do parecer técnico, com novas vias do quadro reivindicatório.
+        O presente pedido corresponde a uma divisão do pedido BR112017017172-4, cuja patente
+foi concedida em 12/01/2021 através da RPI nº 2610 (despacho 16.1), após análise em trâmite
+prioritário.
+
+                                      Quadro 1  Páginas do pedido examinadas
+
+                Elemento                               Páginas               n.o da Petição           Data
+
+                                                            1                870210003385           11/01/2021
+Relatório Descritivo
+                                                        2 a 50               870200076109           18/06/2020
+Quadro Reivindicatório                                   1a3                 870210084187           13/09/2021
+Desenhos                                                1 a 18               870200076109           18/06/2020
+Resumo                                                      1                870210003385           11/01/2021
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                       BR122020012411-3
+
+
+Comentários/Justificativas
+       1) Análise com relação ao Art. 32 da LPI:
+        Conforme parecer de exame técnico anterior, o quadro reivindicatório válido para o
+presente pedido é o mesmo que o do pedido original, constante da petição n° 870180046669 de
+30/05/2018, seguindo o preconizado na Instrução Normativa INPI/PR n° 093/2013. O quadro
+reivindicatório válido do pedido original pleiteava somente reivindicações de Aparelho de
+Transmissão.
+        O pedido original foi deferido em 13/10/2020, conforme conforme publicado na RPI 2597,
+com quadro reivindicatório apresentado em 27/05/2020 através da petição n° 870200065918 com
+reivindicações de Método de Controle de um Aparelho de Transmissão. O pedido dividido
+BR122020012406-7 será deferido com quadro reivindicatório apresentado em 13/09/2021 através
+da petição n° 870210084177 com reivindicações de Aparelho de Transmissão. Estes
+deferimentos não caracterizam ampliação de escopo de proteção, uma vez que a tabela da Parte
+5 da Instrução Normativa INPI/PR n° 093/2013 estabelece que se o quadro reivindicatório válido
+contemplava Produto caracterizado pelo processo, é permitido ao Depositante pleitear proteção
+do Produto caracterizado pelo processo e do Processo após solicitação de exame.
+        Durante o exame do pedido original e dos seus divididos, foi dada ciência ao Depositante
+através dos pareceres técnicos de que como o quadro reivindicatório válido continha somente
+reivindicações de Aparelho de Transmissão, o Depositante não poderia pleitear Aparelho
+Receptor e nem Método de Recebimento, pois tal fato acarretaria em ampliação do escopo de
+proteção originalmente reivindicado. O item 2.3 da Resolução INPI n° 093/2013 estabelece que a
+matéria que não foi reivindicada inicialmente, porém já era revelada no relatório descritivo, só
+pode ser adicionada ao novo quadro reivindicatório para restringir e esclarecer a matéria
+reivindicada, não sendo permitido pleitear novos objetos não originalmente reivindicados no
+quadro reivindicatório válido.
+        De modo a adequar o presente pedido dividido, o Depositante removeu as antigas
+reivindicações 11 a 15 de método de recebimento. Desta forma, consideramos que o presente
+pedido dividido encontra-se em conformidade com o Art. 32 da LPI.
+
+
+       2) Análise com relação ao Art. 6° da LPI:
+       O parecer de exame técnico anterior deu ciência ao Depositante de que: O presente
+pedido dividido, caso concedido, estará contrariando o disposto no Art. 6° da LPI e item 3.141 da
+Resolução INPI/PR n° 124/2013, uma vez que as reivindicações 1 a 10 se fazem presentes no
+quadro reivindicatório concedido para o pedido BR112017017172-4, apresentado em 27/05/2020
+através da petição n° 870200065918. A referida petição será anexada ao presente parecer
+técnico.
+       O Depositante manteve as reivindicações 1 a 10 e não apresentou argumentação com
+relação a não conformidade de dupla proteção.
+        A reivindicação independente 1 do presente pedido dividido pleiteia Método de
+transmissão de um aparelho de transmissão. A reivindicação independente 1 do pedido original
+deferido, constante na petição n° 870200065918 de 27/05/2020, pleiteia Método de controle de
+um aparelho de transmissão. Apesar da diferença (grifada) na nomenclatura dos métodos, da
+comparação constata-se que ambos são constituídos das mesmas etapas, logo contemplam o
+mesmo escopo de proteção. A mesma constatação é válida na comparação entre as
+reivindicações dependentes 2 a 10 de ambos quadros reivindicatórios.
+
+
+
+                                                                                        Página 2
+                                           BR122020012411-3
+
+        Neste caso, mantemos entendimento exarado no parecer anterior de que o presente
+pedido dividido não poderá ser concedido por estar contrariando o disposto no Art. 6° da LPI, com
+entendimento na Resolução INPI/PR n° 124/2013, pois a concessão da patente implicará em
+dupla proteção de matéria que já encontra-se protegida pela patente concedida para o pedido
+original e que encontra-se em vigor desde 12/01/2021, conforme publicado na RPI nº 2610.
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim                Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                         x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+       Em sua manifestação, o Depositante apresentou somente vias do Quadro Reivindicatório.
+Por conseguinte, a seguinte não conformidade outrora apontada com relação a página 1 do
+Relatório Descritivo não foi sanada:
+       a) após o título, foi retirada a informação Dividido do Pedido BR 11 2017 017172 4 de
+15/02/2016, obrigatória conforme a Instrução Normativa INPI/PR n° 031/2013  Art. 25 (II).
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+     -                                         -                                        -
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                        Sim                    1 a 10
+           Aplicação Industrial
+                                                        Não                      ----
+                                                        Sim                    1 a 10
+                 Novidade
+                                                        Não                      ----
+
+                                                        Sim                    1 a 10
+           Atividade Inventiva
+                                                        Não                      ----
+Comentários/Justificativas
+        Conforme seção comentários/justificativas do Quadro 2, a matéria pleiteada nas
+reivindicações 1 a 10 do presente pedido dividido encontra-se contemplada no quadro
+reivindicatório do pedido original deferido.
+      Conforme Art.28 da IN 31/2013, o pedido original e o pedido dividido estão na mesma fase
+processual.
+        Portanto, consideramos que a matéria pleiteada nas reivindicações 1 a 10 atende aos
+requisitos de aplicação industrial, novidade e atividade inventiva estabelecidos pelo Art. 8° em
+
+
+
+
+                                                                                            Página 3
+                                      BR122020012411-3
+
+conjunto com os Arts. 11, 13 e 15 da LPI, pelos mesmos argumentos apresentados no parecer de
+exame técnico publicado na RPI 2597 de 13/10/2020 para o deferimento do pedido original.
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+     -   existência de dupla proteção do pedido dividido com relação a patente do pedido
+  original, não atendendo ao Art. 6° da LPI
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 7 de outubro de 2021.
+
+
+
+
+Leonardo Cavalcanti de Sá Neto
+Pesquisador/ Mat. Nº 1738842
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 007/16
+
+
+
+
+                                                                                        Página 4
+

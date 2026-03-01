@@ -1,0 +1,244 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122021001703-4     N.° de Depósito PCT:
+ Data de Depósito:                   03/06/2013
+ Prioridade Unionista:               -
+ Depositante:                        MITSUBISHI CHEMICAL CORPORATION (JP) ; GENOMATICA, INC.
+                                     (US)
+ Inventor:                           MASARU UTSUNOMIYA; YUSUKE IZAWA; NORIKAZU KONISHI;
+                                     KOTA TANAKA; SHINICHIRO MATSUZONO; TAKAYUKI SUZUKI;
+                                     MICHAEL JAPS; MARK BURK; WARREN CLARK
+ Título:                             "MÉTODO PARA PRODUÇÃO E USO DE 1,4-BUTANODIOL"
+
+                                                                PARECER
+
+
+         O presente pedido corresponde a uma divisão do pedido BR112014030247-2, solicitada
+pelo depositante por meio da petição 870210009995, em 29/01/2021.
+         Em 02/09/2021, por meio da petição 870210081223, a Requerente apresentou
+modificações no pedido em resposta ao parecer emitido, notificado na RPI 2631, 08/06/2021,
+(despacho 7.1). Estas modificações estão consideradas no Quadro 1.
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               No da Petição           Data
+
+Relatório Descritivo                                    1 a 81               870210081223          02/09/2021
+Quadro Reivindicatório                                   1a4                 870210081223          02/09/2021
+Desenhos                                                 1a3                 870210009995          29/01/2021
+Resumo                                                      1                870210081223          02/09/2021
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                               Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                     X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                             X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                       X
+O pedido está de acordo com disposto no art. 32 da LPI                                        X
+Comentários/Justificativas ______________________________
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1 de 5
+                                           BR122021001703-4
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                               Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI           X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI         X
+Comentários/Justificativas ______________________________
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                 Data de publicação
+    D1                                 WO2008098621                                    21/08/2008
+    D2                                   US4371723                                     01/02/1983
+    D3                                 WO2010141780                                    09/12/2010
+    D4                                 WO2004101479                                    25/11/2004
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento                Reivindicações
+                                                         Sim                       1 a 19
+           Aplicação Industrial
+                                                        Não                         -----
+                                                         Sim                       1 a 19
+                 Novidade
+                                                        Não                         -----
+                                                         Sim                       1 a 19
+           Atividade Inventiva
+                                                        Não                         -----
+
+Comentários/Justificativas
+
+      O presente pedido de patente, ora apresentado com base no disposto nos Artigos 26 e 27
+da Lei Nº 9279/96 (LPI) e respectiva Instrução Normativa Nº 30/2013, é um pedido de divisão do
+pedido de patente base BR112014030247-2, depositado em 03/06/2013, solicitada pelo
+depositante por meio da petição 870210009995, em 29/01/2021, e visa a obtenção de privilégio
+para matéria específica descrita e revelada no referido pedido de patente base.
+
+      No presente pedido (BR122021001703-4), o qual consiste de um pedido dividido do pedido
+BR112014030247-2, a matéria da reivindicação independente 1 do quadro reivindicatório (petição
+nº 870210081223, de 02/09/2021) trata, parcialmente, da mesma matéria da reivindicação
+independente     1   do   quadro    reivindicatório   do    pedido     BR112014030247-2      (petição   nº
+870210007782, de 22/01/2021). Assim, há uma evidente duplicidade das referidas matérias,
+conforme evidenciado na Tabela 1, que infringe o disposto no Art. 6º da LPI, em caso de
+deferimento de ambos os pedidos.
+
+
+
+                                                                                            Página 2 de 5
+                                       BR122021001703-4
+
+
+      Tabela 1. Análise comparativa do pedido original e do pedido dividido.
+
+    Pedido Original BR112014030247-2                    Pedido Dividido BR122021001703-4
+  Petição Nº 870210007782, de 22/01/2021              Petição Nº 870210081223, de 02/09/2021
+1. Método para produzir 1,4-butanodiol,             1. Método para produzir 1,4-butanodiol,
+caracterizado pelo fato de que compreende           caracterizado pelo fato de que compreende
+produzir biologicamente 1,4-butanodiol em um        produzir biologicamente 1,4-butanodiol em um
+meio de cultura para fermentação de um              meio de cultura para fermentação de um
+organismo capaz de produzir 1,4-butanodiol,         organismo capaz de produzir 1,4-butanodiol,
+removendo pelo menos parcialmente cada uma          removendo pelo menos parcialmente cada uma
+dentre uma célula bacteriana, um conteúdo de        dentre uma célula bacteriana, um teor de sal e
+sal e água do dito meio de cultura de               água do dito meio de cultura de fermentação
+fermentação para obter uma solução contendo         para obter uma solução contendo 1,4-
+1,4-butanodiol de matéria-prima refinada,           butanodiol de matéria-prima refinada, obtendo
+obtendo daí uma solução que apresenta 1,4-          daí uma solução contendo 1,4-butanodiol bruto
+butanodiol bruto através da realização da Etapa     através da realização da Etapa (c), de
+(c) de hidrogenação de compostos insaturados        hidrogenação de compostos insaturados na
+na solução em combinação com uma ou mais            solução, e da Etapa (d), de destilação da dita
+Etapas (a), (b) ou (d) para obter 1,4-butanodiol    solução contendo 1,4-butanodiol bruto, e
+refinado:                                           retirando 1,4-butanodiol refinado a partir de
+Etapa (a): uma etapa de destilar dita solução       uma corrente lateral em combinação com uma
+contendo 1,4-butanodiol de matéria-prima            ou mais das seguintes Etapas (a) ou (b) para
+refinada em uma coluna de destilação para           obter 1,4-butanodiol refinado:
+remover componentes os quais estão contidos         Etapa (a): uma Etapa de destilar dita solução
+na dita solução contendo 1,4butanodiol de           contendo 1,4-butanodiol de matéria-prima
+matéria-prima refinada e os quais são mais          refinada em uma coluna de destilação para
+altos no ponto de ebulição do que de 1,4-           remover componentes os quais estão contidos
+butanodiol;                                         na dita solução contendo 1,4butanodiol de
+Etapa (b): uma etapa de destilar dita solução       matéria-prima refinada e os quais são mais
+contendo 1,4-butanodiol de matéria-prima            altos no ponto de ebulição do que de 1,4-
+refinada em uma coluna de destilação para           butanodiol;
+remover componentes os quais são contidos na        Etapa (b): uma Etapa de destilar dita solução
+dita solução contendo 1,4butanodiol de matéria-     contendo 1,4-butanodiol de matéria-prima
+prima refinada e os quais são mais leves no         refinada em uma coluna de destilação para
+ponto de ebulição do que 1,4-butanodiol;            remover componentes os quais são contidos na
+Etapa (c): uma etapa de hidrogenação de             dita solução contendo 1,4butanodiol de matéria-
+converter pelo menos parcialmente compostos         prima refinada e os quais são mais leves no
+insaturados contidos na dita solução contendo       ponto de ebulição do que 1,4-butanodiol;
+1,4-butanodiol de matéria-prima refinada em,        Etapa (c): uma Etapa de hidrogenação de
+pelo     menos,       compostos     parcialmente    converter pelo menos parcialmente compostos
+saturados; e                                        insaturados contidos na dita solução contendo
+Etapa (d): uma etapa de destilar dita solução       1,4-butanodiol de matéria-prima refinada em,
+contendo 1,4-butanodiol bruto em uma coluna         pelo     menos,      compostos      parcialmente
+de destilação e retirar 1,4-butanodiol refinado a   saturados;
+partir de um fluxo lateral.                         Etapa (d): uma Etapa de destilar a dita solução
+                                                    contendo 1,4-butanodiol bruto em uma coluna
+                                                    de destilação e retirar 1,4-butanodiol refinado a
+                                                    partir de uma corrente lateral.
+
+
+
+                                                                                       Página 3 de 5
+                                        BR122021001703-4
+
+
+      Do modo como as reivindicações independentes (reivindicação 1) do pedido original e do
+pedido dividido estão redigidas, é possível obter várias combinações de processos de produção
+de 1,4-butanodiol refinado, conforme evidenciado na Tabela 2.
+
+      Tabela 2: Análise combinatória dos possíveis processos pleiteados na reivindicação 1 do
+pedido original e do pedido dividido.
+
+     Pedido Original BR112014030247-2                  Pedido Dividido BR122021001703-4
+   Petição Nº 870210007782, de 22/01/2021            Petição Nº 870210081223, de 02/09/2021
+
+1. (c) + (a)                                      1. (c) + (d) +(a)
+
+2. (c) + (a) + (b)                                2. (c) + (d) + (b)
+
+3. (c) + (a) + (d)                                3. (c) + (d) + (a) + (b)
+
+4. (c) + (a) + (b) + (d)
+
+5. (c) + (b)
+
+6. (c) + (b) + (d)
+
+7. (c) + (d)
+
+A ordem das etapas não é particularmente A ordem das etapas não é particularmente
+limitada (vide relatório descritivo).             limitada (vide relatório descritivo).
+
+
+
+      De acordo com o Art. 26 da LPI e segundo o entendimento da Resolução PR nº 124/2013
+(Diretrizes de Exame de Pedidos de Patente - Conteúdo do Pedido de Patente, no âmbito do INPI)
+e da Instrução Normativa nº 30/2013  Art. 20 e 21, as combinações de números 1, 2 e 3 do
+pedido dividido, conforme explicitado na Tabela 2, não podem ser reivindicadas, tendo em vista
+que a referida matéria já é pleiteada no pedido original (combinações 3, 4 e 6 do pedido original).
+
+       Reitera-se que a simples replicação de parte da matéria reivindicada no pedido original
+para compor um pedido dividido, na verdade, compõe uma multiplicação de pedido e não uma
+divisão. O procedimento de divisão de um pedido de patente deve consistir na retirada de parte da
+matéria reivindicada que consta do pedido original para compor o(s) pedido(s) dividido(s).
+
+      A Instrução Normativa vigente estabelece que a divisão de pedidos não poderá implicar em
+dupla proteção da invenção. O Artigo 6º da LPI estabelece que ao autor de invenção será
+assegurado o direito de obter a patente que lhe garanta a propriedade. Para fins do entendimento
+deste artigo, para uma mesma invenção, não podem ser concedidas duas patentes.
+
+      Assim sendo, a reivindicação 1 e, consequentemente suas reivindicações dependentes,
+apresentam matéria já contida do pedido original, BR112014030247-2, implicando em dupla
+proteção da invenção, estando em desacordo com o Art. 6° da LPI.
+
+
+
+
+                                                                                          Página 4 de 5
+                                       BR122021001703-4
+
+
+Conclusão
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que as
+reivindicações incidem na proibição estabelecida no Art. 6º da Lei nº 9279/96 (LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                            Rio de Janeiro, 15 de outubro de 2021.
+
+
+
+
+Carla Maria Salerno Polato
+Pesquisador/ Mat. Nº 1485559
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                       Página 5 de 5
+

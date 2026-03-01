@@ -1,0 +1,207 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112013021543-7         N.° de Depósito PCT:EP2012/054695
+ Data de Depósito:                   16/03/2012
+ Prioridade Unionista:               EP 11160509.3 (30/03/2011)
+ Depositante:                        INVENTIO AG (CH)
+ Inventor:                           PAUL FRIEDLI, DENNYS TAIANA
+ Título:                             Método de modernização de instalação de elevador
+
+                                                                PARECER
+O presente pedido de patente de invenção sofreu parecer de ciência (7.1), conforme publicado
+na RPI nº 2582 de 30/06/2020. Através da petição nº 870200116912 de 15/09/2020, a
+Requerente apresentou manifestação e justificativas da referida ciência, além de novas páginas
+do Quadro Reivindicatório. Para fins de continuidade do exame estão sendo consideradas as
+vias abaixo:
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                 n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 11                 870190103943           15/10/2019
+Quadro Reivindicatório                                   1a3                   870200116912           15/09/2020
+Desenhos                                                 1e2                 860130001573/NPWB        23/08/2013
+Resumo                                                      1                  870190103943           15/10/2019
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                  Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                        X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                          X
+O pedido está de acordo com disposto no art. 32 da LPI                                           X
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                 Página 1
+                                           BR112013021543-7
+
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                            Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI       X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                      X
+Comentários/Justificativas
+
+1- A reivindicação independente 8 contém uma expressão que faz referência ao simples uso da
+matéria reivindicada, tal como Uso de um dispositivo (Revindicação 8, página 3, linha 3),
+contrariando o disposto no Art. 25 da LPI e na Instrução Normativa nº 30/2013  Art. 4º (VIII).
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                              Data de publicação
+    D1                               WO2010031753 A1                                25/03/2010
+    D2                               US2008149432 A1                                26/06/2008
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento             Reivindicações
+                                                         Sim                      1-8
+            Aplicação Industrial
+                                                        Não                       ---
+                                                         Sim                      1-8
+                 Novidade
+                                                        Não                       ---
+                                                         Sim                      ---
+            Atividade Inventiva
+                                                        Não                       1-8
+Comentários/Justificativas
+
+         A matéria pleiteada nas reivindicações 1 a 8 possui aplicação industrial conforme o
+disposto no Art. 15 da Lei 9.279 de 14/05/1996.
+         A matéria pleiteada nas reivindicações 1 a 8 possui novidade perante os documentos
+citados no relatório de busca do parecer de Exigência Preliminar (6.21) publicado na RPI n°
+2536 de 13/08/2019, cumprindo o disposto no Art. 11 da Lei 9.279 de 14/05/1996.
+         A matéria pleiteada nas reivindicações 1 a 8 não possui atividade inventiva perante os
+documentos citados no relatório de busca do parecer de Exigência Preliminar (6.21) publicado
+na RPI n° 2536 de 13/08/2019, descumprindo o disposto no Art. 13 da Lei 9.279 de 14/05/1996.
+
+
+
+
+                                                                                            Página 2
+                                        BR112013021543-7
+
+
+
+
+       A requerente apresentou um novo quadro reivindicatório onde foram realizadas
+alterações que permitiram a definição do preâmbulo e a parte caracterizante das reivindicações
+independentes 1 e 8. A matéria pleiteada na parte caracterizante das reivindicações
+independentes 1 e 8 foi previamente analisada no parecer publicado na RPI nº 2582 de
+30/06/2020.
+
+       Após análise do argumento apresentado pela requerente na petição nº 870200116912
+de 15/09/2020, de verificou-se que as características da parte caracterizante continuam sendo
+anteriorizadas no estado da técnica de acordo com a combinação dos documentos D1 e D2,
+conforme evidenciado a seguir:
+
+A requerente apresenta o seguinte argumento 1 (página 4, item II):
+       D1 também declara que os terminais da cabine serão removidos ou cobertos para que
+não sejam mais visíveis ou palpáveis (ver p. 20, linhas 8  13);
+
+
+A requerente também apresenta o seguinte argumento 2 (página 5, item II):
+
+       D2 ensina que se o novo terminal de piso é um terminal de chamada de destino, os
+terminais de cabine existentes são tornados inacessíveis (ver D2, [0013]). O técnico no assunto
+entende que isto significa que uma vez que o terminal da cabine tenha sido tornado inacessível
+a um passageiro, ele é praticamente inexistente, especialmente para os fins pretendidos de
+entrada de chamada e confirmação de chamada. D2 confirma este entendimento do técnico no
+assunto pelo fato de que os terminais de piso 2 e os terminais de cabine 12 que foram tornados
+inacessíveis também não são mais mostrados nos desenhos (veja Fig. 6 e Fig. 9)
+
+
+       No trecho descrito em D1 (Figura 12, relatório descritivo, página 15  linha 19 até página
+20  linha 30), é sugerido a um técnico no assunto da desconexão de forma mecânica ou
+elétrica de um dos blocos de controle conectados ao terminal interior do carro, o que resultaria
+na desabilitação dos comandos originados pelo usuário no terminal do interior do carro. O
+mesmo procedimento é sugerido em D2 nas figuras 8 e 9 e parágrafos [0032], [0042] e [0043] do
+relatório descritivo. Tais trechos apontados de D1 juntamente com os parágrafos [0013], [0032],
+[0042] e [0043] do relatório descritivo de D2, sugerem ao técnico no assunto que a desconexão
+da linha que envia sinais do andar de destino acionadas pelo usuário por meio dos terminais da
+cabine pode ser realizada, tendo como resultado a desativação dos terminais do interior da
+cabine e a indicação luminosa/visual das chamadas de destino realizadas no terminal do andar,
+o que implicaria em tais terminais visíveis mas desativados aos usuários, contrariando os
+argumentos 1 e 2.
+
+       Especificamente a realização deste procedimento sugerido em D1 e em D2 durante a
+modernização da instalação de elevador por um técnico no assunto, em face da estrutura
+construtiva e topologia do sistema descrito em D1 e D2, permitiria ao referido técnico no assunto
+
+
+
+                                                                                         Página 3
+                                        BR112013021543-7
+
+
+obter as mesmas características descritas nas reivindicações independentes 1 e 8, o que implica
+na ausência de efeito técnico perante a combinação dos referidos documentos D1 e D2. Sendo
+assim, a combinação dos documentos D1 e D2, permite ao técnico no assunto reproduzir a
+matéria pleiteada nas reivindicações independentes 1 e 8.
+
+       Reitera-se portanto, a partir das análises e argumentações apresentados no pareçer
+publicado na RPI nº 2582 de 30/06/2020 e no presente parecer, que a matéria pleiteada no
+pedido de patente de invenção é anteriorizada por meio da combinação D1 e D2, que permite ao
+técnico no assunto reproduzir a referida matéria pleiteada e seus efeitos técnicos. Isto implica
+que a reivindicação independente 1, as reivindicações dependentes 2 a 7 e a reivindicação
+independente 8 não possuem atividade inventiva.
+
+
+
+Conclusão
+
+
+
+       Após a análise da documentação apresentada, reitera-se que a invenção decorre de
+maneira óbvia para o técnico no assunto a partir dos documentos D1 e D2 presentes no estado
+da técnica, sendo a matéria pleiteada no presente pedido patente de invenção desprovida de
+atividade inventiva.
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI);
+
+      -   as reivindicações estão indefinidas (Art. 25 da LPI).
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 30 de outubro de 2020.
+
+
+
+
+Vitor Lemos Maia
+Pesquisador/ Mat. Nº 2390867
+DIRPA / CGPAT III/DIFEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+003/20
+
+
+
+
+                                                                                           Página 4
+

@@ -1,0 +1,86 @@
+                              MINISTÉRIO DA ECONOMIA
+                   INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+
+N° do Pedido:            PI0921652-9               Depósito PCT:FR2009/052302
+Data de Depósito:        26/11/2009
+Prioridade Unionista:    FR 0858088 (28/11/2008)
+Depositante:             Snecma (FR)
+Inventor:                Jérôme Lacaille, Rostand Nya Djiki
+Título:                  Processo e sistema de detecção de anomalia em um motor de
+                         aeronave, e, programa de computador 
+
+
+
+
+                          Quadro 1  Páginas do pedido examinadas
+
+             Elemento                 Páginas             no da Petição               Data
+
+Relatório Descritivo                  7 a 36              870190088839             09/09/2019
+Quadro Reivindicatório                37 a 44             870190088839             09/09/2019
+Desenhos                              51 a 55             020110053745             26/05/2011
+Resumo                                  45                870190088839             09/09/2019
+
+
+
+Comentários/Justificativas
+
+        Face à ciência de parecer publicada na RPI 2586 de 28/07/2020, o requerente
+apresentou a sua manifestação através da petição 870200118312 de 23/09/2020.
+
+        O requerente discorda que a sua reivindicação independente 1 seja decorrência evidente
+da combinação de D1 e D2, alegando na página 2 da manifestação que o documento D1
+descreve um sistema para monitorar um motor de aeronave usando um modelo não-linear, no
+entanto, não divulga nem sugere definir um modelo de comportamento.
+
+        No segundo exame, verifica-se que as alegações não procedem. De acordo com os
+parágrafos 6, 12 e 15 do relatório descritivo em questão, o examinador entende que o modelo
+de comportamento, na verdade, refere a um filtro racional correspondente a uma equação linear
+entre vetores de saída Y e de entrada X descrita analiticamente por polinômios A(q) e B(q).
+
+        Pela teoria de controle, é conhecido que um sistema não-linear representado por um
+conjunto de equações diferenciais ordinárias pode ser linearizado em torno de um ponto de
+operação (seção 3-10 do livro de Ogata). Aplicando a transformada de Laplace (capítulo 2 do
+livro de Ogata) para o sistema linearizado com uma entrada e uma saída, obtém-se uma função
+de transferência no domínio contínuo. Discretizando com conversor A/D (por exemplo, AD7870
+na página 756 do livro de Franklin et al.), obtém-se uma função de transferência discreta
+
+
+@MODELO_SISCAP@                                                                          Página 1
+                                            PI0921652-9
+
+
+(domínio z do plano complexo, página 19 do livro de Franklin et al.). Portanto, o modelo de
+comportamento alegado é óbvio para qualquer técnico no assunto.
+
+       Em relação a D2, a mesma alegação é elencada no terceiro parágrafo da página 4 da
+manifestação, a saber, D2, não divulga nem sugere em nenhum momento que um modelo de
+comportamento é definido.
+
+       Esta alegação também não procede, pois a mesma argumentação de decorrência óbvia
+dos livros de Ogata e de Franklin et al. se aplica.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                 Publique-se o indeferimento (9.2).
+
+                                                           Rio de Janeiro, 24 de setembro de 2020.
+
+
+Lin Jwo Min
+Pesquisador/ Mat. Nº 1547221
+
+
+
+
+                                                                                          Página 2
+

@@ -1,0 +1,194 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102013027035-0         N.° de Depósito PCT:
+ Data de Depósito:                   21/10/2013
+ Prioridade Unionista:               -
+ Depositante:                        UNIVERSIDADE FEDERAL DE SÃO JOÃO DEL REI (BRMG) ,
+                                     FAPEMIG - FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DE
+                                     MINAS GERAIS (BRMG) , INSTITUTO FEDERAL DE EDUCAÇÃO,
+                                     CIÊNCIA E TECNOLOGIA DE SANTA CATARINA (BRSC)
+ Inventor:                           FERNANDO LESSA TOFOLI, JUAN PAULO ROBLES BALESTERO,
+                                     JOSÉ CARLOS DA SILVA JUNIOR
+ Título:                             Familia de choppers para acionamento de máquinas de corrente
+                                     contínua
+
+                                                                PARECER
+          Em 10/08/2021, por meio da petição 870210072924, a Requerente apresentou
+modificações no pedido em resposta ao parecer emitido, notificado na RPI 2635 de 06/07/2021
+(despacho 7.1). Estas modificações estão consideradas no Quadro 1.
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                 n.o da Petição           Data
+
+Relatório Descritivo                                     1a3                    870210072924          10/08/2021
+Quadro Reivindicatório                                      1                   870210072924          10/08/2021
+Desenhos                                                    1                   870210072924          10/08/2021
+Resumo                                                      1                014140000720/DEMG        25/04/2014
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                  Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                        X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                          X
+O pedido está de acordo com disposto no art. 32 da LPI                                           X
+Comentários/Justificativas: O novo quadro reivindicatório modificado submetido para exame
+foi aceito, uma vez que as alterações efetuadas limitam-se à matéria inicialmente revelada e
+atendem ao objetivo de melhor esclarecer ou definir a matéria objeto de proteção, atendendo,
+portanto, ao disposto no artigo 32 da Lei nº 9.279/96 (LPI).
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                 Página 1
+                                           BR102013027035-0
+
+
+
+
+                Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                             Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI        X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                       X
+Comentários/Justificativas:
+
+        O quadro reivindicatório não apresenta sinais de referências numéricas aos desenhos que
+         acompanham o pedido, prejudicando a compreensão das características técnicas da
+         matéria reivindicada, contrariando o disposto no Art. 25 da LPI e na Instrução Normativa nº
+         30/2013  Art. 4º (VI).
+
+
+        As reivindicações 2 a 4 não estão em conformidade com o disposto no Art. 25 da LPI e na
+         Instrução Normativa nº 30/2013  Art. 4º (II) pois omitem a expressão caracterizado por
+         nas reivindicações.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                Data de publicação
+    D1       US6710574                                                                23/03/2004
+
+    D2       US3250978                                                                10/05/1966
+
+    D3       BASCOPÉ, Grover Victor Torrico et al. Nova família de                      2001
+             conversores CC-CC PWM não isolados utilizando células de
+             comutação de três estados. 2001.
+    D4       R. P. Torrico-Bascope, C. G. C. Branco, G. V. Torrico-Bascope,             2008
+             C. M. T. Cruz, F. A. A. de Souza and L. H. C. Barreto, "A new
+             isolated DC-DC boost converter using three-state switching
+             cell" 2008 Twenty-Third Annual IEEE Applied Power Electronics
+             Conference and Exposition, Austin, TX, 2008, pp. 607-613
+    D5       FERREIRA, Daniel Lima. CONVERSOR PUSHPULL                                 2010
+             MODIFICADO BASEADO NA CÉLULA DE COMUTAÇÃO DE
+             TRÊS ESTADOS. Fortaleza, CE, Brasil, 2010.
+    D6       BALESTERO, Juan Paulo Robles et al. A dcdc converter                      2012
+             based on the three-state switching cell for high current and
+             voltage step-down applications. IEEE transactions on power
+             electronics, v. 28, n. 1, p. 398-407, 2012.
+    D7       C. Attaianese, N. Locci, I. Marongiu and A. Perfetto, "A digitally         1994
+             controlled DC drive" Proceedings of MELECON '94.
+             Mediterranean Electrotechnical Conference, Antalya, Turkey,
+             1994, pp. 1271-1274 vol.3, doi: 10.1109/MELCON.1994.380834.
+
+
+       Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade               Cumprimento              Reivindicações
+
+
+
+
+                                                                                             Página 2
+                                         BR102013027035-0
+
+
+                                                       Sim                          1a4
+           Aplicação Industrial
+                                                       Não                           ----
+                                                       Sim                          1a4
+                 Novidade
+                                                       Não                           ----
+                                                       Sim                           ----
+            Atividade Inventiva
+                                                       Não                          1a4
+Comentários/Justificativas:
+
+       Segundo o Requerente em sua manifestação diversos esquemas podem ser
+empregados no controle de velocidade de máquinas CC e o que diferencia cada pedido de
+patente no que se refere à inovação da invenção é a estrutura física do sistema, seja em termos
+do conversor eletrônico ou do sistema de controle que permite variar a velocidade da máquina.
+Alega também que o que torna um acionamento diferente do outro é o tipo de conversor e sua
+forma de controle. Assim, o requerente considera que o pedido de inovação recai
+especificamente sobre três estruturas fisicamente diferentes de todas as outras existentes na
+literatura técnica. Por fim, são destacadas as alterações realizadas no relatório descritivo,
+reivindicações e desenhos.
+
+       Embora o Requerente argumente que as três estruturas das figuras 1 a 3 são distintas
+em relação ao estado da técnica, é preciso destacar que, apesar de os desenhos e o relatório
+descritivo servirem de base para a interpretação das reivindicações, são estas últimas que
+definem os direitos do Depositante. Portanto, em qualquer fase do exame, é o teor das
+reivindicações aquele que deve ser submetido à análise da existência dos requisitos de
+patenteabilidade. Assim, ainda que as estruturas dos circuitos elétricos das figuras 1 a 3 do
+presente pedido sejam considerados distintas em relação ao estado da técnica, verifica-se que
+a matéria conforme pleiteada no quadro reivindicatório decorre de maneira óbvia, para um
+técnico no assunto, do estado da técnica, conforme análise a seguir.
+
+       A respeito da estrutura física do sistema pleiteado, observa-se que as características
+descritas na reivindicação 1 já são compreendidas no estado da técnica, representado pelo
+documento D6, conforme trechos citados no parecer anterior. Assim, o conversor revelado em
+D6 emprega um conjunto composto por dois enrolamentos magneticamente acoplados (resumo
+e fig. 1(e) - T1 e T2), dois transistores (fig. 1(e) - S1 e S2) e dois diodos (fig. 1(e) - D1 e D2) que
+permitem a divisão equilibrada da corrente total do motor em virtude do disparo dos transistores
+(pág. 399, coluna 1, parágrafo 1). Embora o Requerente argumente que, além do tipo tipo de
+conversor, o que torna um acionamento diferente do outro é a sua forma de controle, observa-se
+que nenhuma característica técnica é apresentada nas reivindicações ou no relatório descritivo à
+respeito da forma de controle dos transistores que levaria ao efeito técnico de reversibilidade de
+tensão e/ou corrente. Portanto, ratifica-se a análise realizada no parecer anterior e conclui-se
+que a matéria da reivindicação 1 não atende ao requisito atividade inventiva, pois decorre de
+maneira evidente ou óbvia para um técnico no assunto a partir da combinação dos
+ensinamentos dos documento D1 e D6.
+
+
+                                                                                               Página 3
+                                        BR102013027035-0
+
+
+       Nas reivindicações dependentes não foram identificadas características que, mesmo
+quando combinadas com as características da reivindicação independente 1, venham a prover
+novidade e/ou a atividade inventiva à matéria.
+
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI) e as reivindicações não
+estão definidas de maneira clara e precisa (Art. 25 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a
+partir da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+                                                          Rio de Janeiro, 30 de dezembro de 2021.
+
+
+
+
+Valmir Antonio Schneider Junior
+Pesquisador/ Mat. Nº 1947284
+DIRPA / CGPAT III/DIFEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/16
+
+
+
+
+                                                                                          Página 4
+

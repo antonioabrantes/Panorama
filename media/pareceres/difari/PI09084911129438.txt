@@ -1,0 +1,255 @@
+                                       SERVIÇO PÚBLICO FEDERAL
+                                        MINISTÉRIO DA ECONOMIA
+                            INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0908491-6               N.° de Depósito PCT:JP2009/053582
+ Data de Depósito:                   26/02/2009
+ Prioridade Unionista:               JP 2008-046999 (28/02/2008)
+ Depositante:                        Nippon Shinyaku Co., LTD. (JP)
+ Inventor:                           Koji Murakami, Takuya Toramoto
+ Título:                             Inibidor de fibrose 
+
+                                                                PARECER
+
+
+          Através da petição n° 870190129299 de 06/12/2019, a requerente manifestou-se com
+relação ao parecer técnico negativo notificado na RPI 2540 de 10/09/2019, apresentando um novo
+quadro reivindicatório com um total de 3 reivindicações, novas páginas do relatório descritivo, dos
+desenhos e do resumo e seus argumentos em favor do mérito do pedido. Adicionalmente,
+apresentou um quadro reivindicatório subsidiário com um total de 5 reivindicações (DOC. 05).
+Toda documentação será considerada no presente exame.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 23               870190129299           06/12/2019
+Quadro Reivindicatório                                     1*                870190129299           06/12/2019
+Desenhos                                                 1a5                 870190129299           06/12/2019
+Resumo                                                      1                870190129299           06/12/2019
+      * o quadro reivindicatório com 5 reivindicações apresentado pelo DOC. 05 será considerado
+como subsídio ao exame
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+Comentários/Justificativas
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                               PI0908491-6
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                Sim                 Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI            X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                            X
+Comentários/Justificativas
+
+         A requerente alega que da leitura da reivindicação independente 1 constata-se que o
+inibidor de fibrose trata-se clara e evidentemente de uma composição.
+
+         Não é possível concordar com tal alegação, pois o dito termo inibidor não deixa claro se
+compreende outros componentes além dos compostos A e B. O verbo conter não é suficiente
+para precisar se podem estar contidos outros componentes no referido inibidor. Conforme a
+própria requerente ressalta em sua manifestação, as reivindicações devem definir de forma clara e
+precisa a matéria pleiteada e a redação da reivindicação 1 não o faz. Assim, reitera-se a opinião
+do exame anterior de que as reivindicações do presente pedido contrariam o artigo 25 da LPI.
+
+         Além disso, relembrando a discussão do exame anterior, ressalta-se que as reivindicações
+1 a 3 definem apenas a presença dos compostos A e B no dito inibidor, o que equivale a
+reivindicação para os compostos em si, na medida em que inclui a possibilidade do "inibidor"
+conter 100% dos referidos compostos.
+
+         As revindicações subsidiárias apresentadas no DOC. 05 definem a presença adicional de
+um veículo farmaceuticamente aceitável, de modo que o inibidor nelas pleiteado pode ser
+entendido como uma composição, no sentido de que compreende uma mistura de componentes.
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                   Data de publicação
+    D1                               US20040102436 A1                                    27/05/2004
+             Liu, X., et al. "Fibrotic lung fibroblasts show blunted inhibition by
+    D2          cAMP due to deficient CREB phosphorylation." American                       2005
+              Society for Pharmacology and Experimental Therapeutics
+    D3                                  US6046233 A                                      04/04/2000
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento                 Reivindicações
+                                                         Sim                     1 a 3 (1 a 5)*
+            Aplicação Industrial
+                                                        Não
+                                                         Sim
+                  Novidade
+                                                        Não                      1 a 3 (1 a 5)*
+
+
+
+                                                                                                  Página 2
+                                              PI0908491-6
+
+
+                                                        Sim
+                Atividade Inventiva
+                                                        Não                   1 a 3 (1 a 5)*
+Comentários/Justificativas
+
+        Em sua manifestação, a requerente trouxe os seguintes argumentos em favor do mérito do
+pedido:
+        - o presente pedido define um inibidor de fibrose que contém os compostos ácido
+2-{4-[N-(5,6-difenilpirazin-2-il)-N-isopropilaminojbutilóxi}   acético      (Composto          A)    e
+2-{4-[N-(5,6-difenilpirazin-2-il)-N-isopropil amino]butilóxi}-N-(metilsulfonil)acetamida (Composto B);
+
+        - D1 descreve os compostos A e B, porém não descreve um inibidor de fibrose contendo
+estes compostos, nem sugere uma composição que trata pacientes com pneumonia intersticial
+(fibrose pulmonar), hepatocirrose e esclerodermia, conforme ora reivindicado no presente pedido;
+
+        - a afirmação de D2 de que certas prostaglandinas inibem a migração de fibroblastos
+pulmonares, proliferação e síntese de colágeno não está de acordo com os ensinamentos dos
+DOC. 1, 2 e 3. Apenas o DOC. 03 menciona a IGP2 e a inibição das "respostas Th2 do pulmão,
+promovendo a produção de IL-10 no local da inflamação alérgica", que não está relacionada á
+migração de fibroblastos, proliferação e síntese de colágeno;
+
+        - D3 afirma que os compostos que têm uma determinada estrutura (incluindo o "beraprost")
+são agonistas do receptor da IGP2 e têm efeito inibitório da fibrose. Entretanto, os compostos A e
+B do presente pedido são estruturalmente distintos dos compostos de D3, o que não motivaria o
+versado a usá-los para tratar fibrogênese;
+
+        - mesmo que o técnico no assunto tivesse usado os compostos A e B para tratar a
+fibrogênese tecidual com base nos ensinamentos de D1-D3, ele não poderia prever a potência e a
+eficácia inesperada destes compostos, pois os os resultados dos testes realizados ora apensos
+(DOC. 04), bem como os resultados de testes ao longo do relatório do presente pedido de patente
+mostram que o Composto A pode inibir a produção de colágeno em fibroblastos estimulados com
+EGH, bFGF, TGF ou PDGF de forma dose dependente e mais potente do que outros conhecidos
+agonistas de receptor PGI2, beraprost, iloprost ou treprostinil; e
+
+        - o composto A é um metabólito ativo do composto B, um técnico no assunto
+compreenderia que o composto B também seria mais eficaz na inibição da síntese de colágeno
+em fibrobasts do que outros conhecidos agonistas do receptor PGI2, beraprost, iloprost ou
+treprostinil.
+
+
+
+        Em vista das duas opções de quadro reivindicatório e dos argumentos ora apresentados,
+as seguintes considerações foram feitas:
+
+
+
+
+                                                                                               Página 3
+                                              PI0908491-6
+
+
+Aplicação Industrial
+       A matéria do presente pedido é passível de produção e/ou utilização industrial, atendendo
+ao artigo 15 da LPI.
+
+
+
+Novidade
+
+       Conforme discutido no exame anterior e no quadro 3 acima, as reivindicações do quadro
+reivindicatório principal representam os próprios compostos A e B e as do quadro subsidiário
+(DOC. 05) podem ser entendidas como uma composição. Desta forma, analisar-se-á a matéria
+referente a compostos e composição contendo-os.
+
+       Como       igualmente      discutido    no     exame    anterior,   os   compostos        ácido
+2-{4-[N-(5,6-difenilpirazin-2-il)-N-isopropilaminojbutilóxi}   acético     (Composto        A)      e
+2-{4-[N-(5,6-difenilpirazin-2-il)-N-isopropil amino]butilóxi}-N-(metilsulfonil)acetamida (Composto B)
+e as composições contendo-os foram previamente revelados no documento US20040102436 A1
+(correspondente ao documento WO02088084). O documento D1 revela que os compostos A e B
+são agonistas de receptores PGI2 e são formulados em diferentes tipos de composições
+farmacêuticas (resumo; parágrafos 7 a 80, 304 , 861 a 869; reivindicações). Assim, independente
+de se o termo inibidor usado na reivindicação 1 refere-se aos próprios compostos A e B ou a
+composições contendo-os, a matéria pleiteada em ambos quadros reivindicatórios ora apensos
+está antecipada em D1 e portanto não é nova, desatendendo ao artigo 11 da LPI.
+
+       Neste sentido, vale reiterar, que um composto é definido pela sua estrutura química e uma
+composição pelos seus componentes e não pela sua aplicação terapêutica. Assim, mesmo que
+D1 não mencione especificamente o tratamento de fibrose, isto não torna os compostos A e B ou
+as composições contendo-os novos.
+
+       Finalmente, é importante destacar que, apesar da requerente afirmar que o presente
+pedido refere-se a um inibidor que contém os compostos A e B, em nenhum momento é descrita
+uma composição contendo ambos os compostos. A requerente afirma que o composto A é
+metabólito ativo do composto B, de onde se depreende que esta conversão se dá in vivo, de
+modo que não se pode considerar que a composição conteria ambos. Ainda que esta conversão
+se desse dentro da composição, isto não traria novidade à matéria pleiteada, visto que D1
+também revela composições contendo o composto B, que, por conseguinte, também conteriam o
+composto A.
+
+
+
+Atividade Inventiva
+
+       Como visto acima, os compostos A e B e as composições contendo-os não são novos e
+por conseguinte, não são inventivos, desatendendo ao artigo 13 da LPI.
+       Conforme discutido acima e no exame anterior, compostos são definidos pela sua estrutura
+química e composições pelos seus componentes e não pela sua aplicação terapêutica. Ainda que
+nenhum dos documentos do estado da técnica revele, ou sugira uma atividade contra fibrose, nem
+
+
+                                                                                            Página 4
+                                            PI0908491-6
+
+
+sugira uma atividade melhorada em relação a outros agonistas do receptor PGI2, não se pode
+reconhecer uma atividade inventiva naquilo que não é novo, visto que os compostos A e B e as
+composições contendo-os estão especificamente revelados em D1.
+
+
+
+
+Conclusão
+
+        Face ao exposto neste parecer, conclui-se que os novos quadros reivindicatórios e
+argumentos ora expostos não são suficientes para superar os questionamentos feitos no exame
+anterior.
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+       -    não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+       -    não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+       -    as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+            descritivo (Art. 25 da LPI)
+
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                               Rio de Janeiro, 8 de janeiro de 2020.
+
+
+
+
+Camila Valentim de Souza Lopes
+Pesquisador/ Mat. Nº 1569130
+DIRPA / CGPAT I/DIFAR-I
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                           Página 5
+

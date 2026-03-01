@@ -1,0 +1,311 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI1003468-4                N.° de Depósito PCT:
+ Data de Depósito:                   01/09/2010
+ Prioridade Unionista:               -
+ Depositante:                        UNIVERSIDADE DE SÃO PAULO - USP (BRSP) , FUNDAÇÃO DE
+                                     AMPARO À PESQUISA DO ESTADO DE SÃO PAULO - FAPESP
+                                     (BRSP)
+ Inventor:                           BRYAN ERIC STRAUSS, DANIELA BERTOLINI ZANATTA
+ Título:                             Código de barras genético 
+
+                                                              PARECER
+
+
+
+          Em resposta ao parecer técnico de ciência (despacho 7.1), a requerente apresentou pela
+petição nº 870180158230 de 03/12/2018, uma manifestação sobre o parecer técnico com novas
+vias do relatório descritivo, nova proposta de quadro reivindicatório contendo doze
+reivindicações, novo resumo, nas quais o título foi modificado de forma a harmonizar com o
+pleito, a Listagem de Sequências em formato eletrônico acompanhada do respectivo código
+controle, declaração de acordo com a Resolução nº 187/2017 e esclarecimentos.
+          Com base na manifestação da requerente, o presente exame esclarece que a matéria
+reivindicada foi avaliada quanto aos requisitos de patenteabilidade dispostos na Lei de
+Propriedade Industrial nº. 9279 de 14/05/1996 (LPI).
+
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                           X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)            X
+
+O pedido refere-se a Sequências Biológicas                                                             X
+
+Comentários/Justificativas
+
+Anuência prévia da ANVISA: A matéria do presente pedido não foi enviada para a ANVISA por
+não conter a matéria estipulada no Art. 229-C da Lei 9279/96.
+
+Declaração de acesso ao patrimônio genético nacional: Em resposta ao parecer de ciência,
+despacho 7.1, notificada na RPI 2487 de 04/09/2018, o requerente apresentou a Declaração
+Negativa de Acesso ao patrimônio genético nacional por meio da petição nº 870180158142 em
+03/12/2018.
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                 Página 1
+                                             PI1003468-4
+
+
+Sequências biológicas: O pedido ora em análise descreve sequências de nucleotídeos e/ou de
+aminoácidos. Em resposta ao parecer de ciência, despacho 7.1, notificada na RPI 2487 de
+04/09/2018, o requerente apresentou a Listagem de sequências, em formato eletrônico, de
+acordo com a Resolução 187/2017 em vigor, acompanhado do código controle e declaração,
+através da petição nº 870180158230 de 03/12/2018. No entanto, o exame formal da Listagem de
+sequências revelou a existência de uma irregularidade, que consiste na ausência do campo 123
+para SEQ ID NO:1.
+       Cabe ressaltar que para a apresentação de uma nova Listagem de Sequências
+incorporando as correções acima citadas, se faz necessária a apresentação de novo código de
+controle referente ao novo arquivo .txt da nova listagem e as devidas declarações conforme
+Resolução INPI/ nº 187/2017. Em caso da alteração do título a depositante deve estar ciente que
+o título na listagem de sequência deve ser o mesmo do título apresentado no relatório descritivo
+e resumo.
+
+
+
+       O parecer técnico foi elaborado a partir das vias do pedido citadas no Quadro 1 abaixo.
+
+                           Quadro 1  Páginas do pedido examinadas
+            Elemento                    Páginas               n.o da Petição           Data
+Relatório Descritivo              1 a 19                  870180158230             03/12/2018
+Listagem de sequências*           Código de Controle 870180158230                  03/12/2018
+Quadro Reivindicatório            1a3                     870180158230             03/12/2018
+Desenhos                          1a2                     018100032465             01/09/2010
+Resumo                            1                       870180158230             03/12/2018
+
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+     B722BBB2E59ADDF5 (Campo 1) e C18FA160B860B018 (Campo 2).
+
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                             Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                        X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                        X
+O pedido está de acordo com disposto no art. 32 da LPI                         X
+Comentários/Justificativas
+
+
+
+
+                                                                                           Página 2
+                                                 PI1003468-4
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI           X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         X
+Comentários/Justificativas
+Artigo 25 da LPI:
+       No primeiro parecer técnico (despacho 7.1), apontou-se que a matéria solicitada pelo
+quadro reivindicatório apresentado pela petição nº 018100032465, de 01/09/2010, as
+reivindicações 1, 2, 6, 10, 13 a 15 e 17 a 24 incidiam nas proibições legais do artigo 25 da LPI.
+Além disso, no mesmo parecer, apontou-se que falta de clareza e precisão do título e o preâmbulo
+apresentado em todas as reivindicações.
+       Em resposta a esse parecer técnico, a requerente apresentou pela petição nº
+870180158230 de        03/12/2018,     um novo quadro          reivindicatório, reformulado,   com 12
+reivindicações. No entanto, as alterações realizadas não superaram integralmente as objeções
+referentes ao art. 25 da LPI, assim como novas objeções foram apontadas ao novo quadro,
+conforme destacado a seguir:
+
+
+- A matéria da reivindicação 1 não está clara e precisa, em desacordo com o art. 25 da LPI e com
+a Instrução Normativa nº 30/2013  art. 4º (III) pelos seguintes motivos a seguir:
+
+
+       Pleiteia-se uma sequência sintética de nucleotídeos mas, da forma como redigida, a
+referida   reivindicação    caracteriza    tal    sequência    por     compreender   um   conjunto   de
+oligonucleotídeos ou uma biblioteca de vetores apresentando tais oligos. Tais atributos não
+definem uma sequência de nucleotídeos, mesmo que tal sequência seja caracterizada por
+apresentar nucleotídeos degenerados (cf. itens 6.1 e 6.3.3.1 das Diretrizes de Exame de Patente
+na Área de Biotecnologia, instituída pela Resol. INPI/PR nº 144/201). O atributo que caracteriza a
+sequência de nucleotídeos sintética pleiteada é a SEQ ID NO:1. Um conjunto de oligos
+randômicos, assim como uma biblioteca de vetores contendo tais oligos, são produtos distintos de
+uma sequência sintética.
+
+
+- A revindicação 1 exibe o termo stop codon, em inglês, enquanto a reivindicação 2 apresenta o
+termo códon terminador, que manifesta o mesmo significado. Tal inconsistência gera falta de
+clareza e precisão ao referido pleito, em desacordo com o art. 25 da LPI e com a Instrução
+Normativa nº 30/2013  art. 4º (III). Posto isto, tais termos devem ser uniformizados, na língua
+vernácula Português.
+
+
+- A reivindicação 12 define um produto por características técnicas relacionadas a um
+método/processo, o que ocasiona falta de clareza e precisão à matéria que se deseja proteger,
+
+
+
+                                                                                               Página 3
+                                               PI1003468-4
+
+descumprindo-se o disposto no art. 25 da LPI na Instrução Normativa nº 30/2013  art. 4º (III). Um
+produto deve ser adequadamente definido por especificações referentes aos aspectos
+construtivos dos elementos que o constituem.
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                    Data de publicação
+    D1       Gerrits, A. et al. Cellular barcoding tool for clonal analysis in the      01/04/2010*
+             hematopoietic system. Hematopoiesis and stem cells, 115:
+             2610 - 2618.
+    D2       Brummelkamp, T.R. and René Bernards. New tools for                               2003
+             functional mammalian cancer genetics. Nature Reviews.
+             3:781-789.
+*Este documento foi pré publicado online no dia 21/01/2010.
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento                   Reivindicações
+                                                        Sim                           1 a 12
+            Aplicação Industrial
+                                                        Não                              -
+                                                        Sim                           1 a 12
+                  Novidade
+                                                        Não                              -
+
+                                                        Sim                              -
+            Atividade Inventiva
+                                                        Não                           1 a 12
+Comentários/Justificativas
+         Na manifestação à ciência de parecer (publicada na RPI 2487 de 04/09/2018)
+apresentada junto à petição n° 870180158230 de 03/12/2018, a requerente apresentou alguns
+esclarecimentos em resposta ao 1° exame técnico exarado.
+         No âmbito da avaliação dos requisitos de patenteabilidade, seguem as seguintes
+observações:
+
+
+
+Novidade (art. 11 da LPI):
+
+         A sequência sintética SEQ ID NO:1, a qual se refere a reivindicação 1, não compartilhou
+100% de identidade com nenhuma outra sequência natural ou recombinante presente nas bases
+de dados biológicas analisadas (base de nucleotídeos do Genbank), assim como no na base de
+patentes (lens.org). Por conseguinte, entende-se que a matéria da reivindicação 1, do quadro
+reivindicatório ora em análise, é nova frente aos documentos do estado da técnica (D1 e D3), ou
+
+
+
+                                                                                                  Página 4
+                                           PI1003468-4
+
+seja, os documentos de anterioridade não revelaram informações impeditivas quanto à novidade
+da matéria objeto.
+
+        As matérias das reivindicações 2 a 12 também são novas frentes aos documentos do
+estado da técnica uma vez que tais documentos diferem do conteúdo do referido pleito.
+Portanto, as reivindicações 1 a 12 estão de acordo com o art. 11 da LPI.
+
+
+
+Atividade Inventiva (art. 13 da LPI):
+        Para reconhecer a atividade inventiva sobre algum produto ou processo novo, é preciso
+que um efeito técnico relevante, isto é, um efeito que consista na solução efetiva para um
+problema existente na técnica anterior, seja evidenciado, e que esta solução não decorra de
+maneira óbvia do estado da técnica (cf. item 1.1 das Diretrizes de Exame de Pedidos de Patente
+ Bloco II; item 2.07 das Diretrizes de Exame de Pedidos de Patente  Bloco I; art. 2º, incisos III
+a VI da Instrução Normativa INPI/PR nº 30/2013; e art. 13 da LPI).
+
+        No primeiro exame foi exposta opinião de que as matérias reveladas no presente pedido
+não apresentam um efeito inesperado em relação ao estado da técnica, além de decorrer de
+maneira evidente para um técnico no assunto. Em resposta a esse parecer, a requerente
+apresentou manifestação pela petição nº 870180158230 de 03/12/2018, com as seguintes
+argumentações contra a ausência de atividade inventiva frente a D1 e D2:
+
+        A requerente, em sua manifestação, pondera que a atividade inventiva do presente
+pedido está no fato de terem sido eliminadas as sequências preditas de causar prolemas
+tecnológicos durante a montagem das bibliotecas, e que D2 não tomou nenhuma medida para
+assegurar que, o código de barras em si, não teria impacto funcional na célula. Da forma como
+o quadro reivindicatório foi redigido, tal informação é apenas uma expressão explicativa do
+produto pleiteado.
+
+        Adicionalmente, na manifestação, é exposto o argumento que nosso código de barras
+serve para revelar alterações induzidas devido à presença do vetor em si e/ou pela ação de
+proteínas codificadas pelo vetor. O requerente acrescenta, ainda, que o desenho do código de
+barras e a metodologia utilizada para a detecção do produto do referido pleito é totalmente
+diferente daquela apresentada por D1 e D2.
+
+        De fato, o desenho do código de barras do presente pedido difere dos apresentados por
+D1 e D2. No entanto, todos os códigos de barras são sequências sintéticas de nucleotídeos
+não codificantes, degeneradas, marcadoras que, sozinhas, não apresentam funções relevantes
+que justifique uma inventividade. Além disso, tais sequências precisam estar ligadas em vetores
+virais, formando bibliotecas randômicas, e tais bibliotecas/vetores inseridos na célula
+hospedeira/animal, produto este que não foi devidamente pleiteado, da forma como o quadro
+reivindicatório foi redigido.
+
+
+
+                                                                                           Página 5
+                                            PI1003468-4
+
+       Em outras palavras, reitera-se que o quadro reivindicatório pleiteia um produto, que é
+uma sequência de nucleotídeos sintética, caracterizada pela SEQ ID NO:1 (revindicação 1)
+com degenerações (reivindicação 8), não um processo ou uso do referido produto como
+marcador para quantificar a complexidade de células, em tempo real, ou um método para gerar
+uma biblioteca de oligos degenerados, conforme já apontado no parecer de 1º exame.
+
+       À vista disso, as alegações da requerente não são consideradas satisfatórias para uma
+mudança de posicionamento no 2° exame técnico em tela, na medida em que a solução técnica
+ora proposta, da forma como redigida, não resulta em um efeito técnico inesperado a partir do
+estado da técnica corrente. Portanto, mantém-se a opinião de que as matérias das
+reivindicações 1-12 não são passíveis de proteção patentária de acordo com o art. 8° c/c 13 da
+LPI.
+
+Conclusão
+
+       Assim sendo, de acordo com o Art. 37, opino pelo indeferimento do presente pedido, uma
+vez que:
+
+       -   as reivindicações 1 a 12 não atendem ao requisito de atividade inventiva (art. 8º
+           combinado com Art. 13 da LPI);
+
+       -   as reivindicações 1 a 12 estão indefinidas e/ou não estão fundamentadas no relatório
+           descritivo (art. 25 da LPI).
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                            Rio de Janeiro, 27 de março de 2020.
+
+
+
+
+Adriana Machado Froes
+Pesquisador/ Mat. Nº 2390275
+DIRPA / CGPAT II/DIALP
+
+
+
+       De acordo com o parecer acima, indefiro o presente pedido.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+Victor Genu Faria
+Chefe de Divisão/ Mat. Nº 1546918
+DIRPA / CGPAT II/DIALP
+Portaria INPI/PR Nº1484/17
+
+
+
+
+                                                                                         Página 6
+

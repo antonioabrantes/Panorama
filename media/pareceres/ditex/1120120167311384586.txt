@@ -1,0 +1,294 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112012016731-6           N.° de Depósito PCT:JP2010/072684
+ Data de Depósito:                   16/12/2010
+ Prioridade Unionista:               JP 2010-003058 (08/01/2010)
+ Depositante:                        GE PHOSPHORS TECHNOLOGY, LLC (US) ; DENKA COMPANY
+                                     LIMITED (JP)
+ Inventor:                           Masatsugu Masuda, MASAMICHI HARADA, HITOSHI MATSUSHITA,
+                                     KENJI TERASHIMA
+ Título:                             fósforo, aparelho de emissão de luz e aparelho de display de cristal
+                                     líquido usando o mesmo 
+
+                                                              PARECER
+
+
+          Através da petição nº 870200154848, de 09/12/2020, a requerente apresentou
+manifestação ao parecer técnico de ciência publicado na RPI n° 2593, de 15/09/2020. Não foram
+apresentadas modificações em seu quadro reivindicatório (total de 10 reivindicações).
+
+          Em sua manifestação, a requerente apresentou novas vias do relatório descritivo,
+quadro reivindicatório e resumo.
+
+           O presente pedido refere-se a um fósforo (1) de emissão de luz verde de oxinitreto
+ativado em európio divalente, em é um SiAlON tipo  representado por uma fórmula geral (A):
+EuaSibAlcOdNe, onde a, b, c, d, e e são números que satisfazem 0,005a0,4, b+c=12, e d+e=16,
+e que tem um tamanho de partícula médio (d1), determinado por um método de permeabilidade
+de ar, de 9 a 16 µm, um diâmetro mediano (50%D) em distribuição de tamanho de partícula de
+12,5 a 35 µm, caracterizado por 50%D/d1 ser de 1,4 a 2,2 e uma absorvância a 600 nm ser
+menor ou igual a 8,0%, em que "c" satisfaz c0,3 na fórmula geral (A).
+
+          Reivindica-se também um aparelho de emissão de luz (11, 21), caracterizado por
+compreender:
+
+         um elemento de emissão de luz (12), o qual é um semicondutor baseado em nitreto de
+gálio que emite uma luz primária que tem um comprimento de onda de pico de 430 a 480 nm;
+
+         um conversor de luz (13) que absorve uma parte da luz primária para emitir uma luz
+secundária que tem um comprimento de onda mais longo do que um comprimento de onda da
+luz primária,
+
+         o conversor de luz (13) incluindo um fósforo (1) de emissão de luz verde de oxinitreto
+ativado em európio divalente o qual é um SiAlON tipo  representado por uma fórmula geral (A):
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                           BR112012016731-6
+
+
+EuaSibAlcOdNe, onde a, b, c, d, e e são números que satisfazem 0,005a0,4, b+c=12, e d+e=16,
+e que tem um tamanho de partícula médio (d1), determinado por um método de permeabilidade
+de ar, de 9 a 16 µm, um diâmetro mediano (50%D) em distribuição de tamanho de partícula de
+12,5 a 35 µm, 50%D/d1 ser de 1,4 a 2,2 e uma absorvância a 600 nm ser menor ou igual a
+8,0%, em que "c" satisfaz c0,3 na fórmula geral (A).
+
+         Reivindica-se ainda um aparelho de fonte de luz de luz de fundo, caracterizado por
+incluir uma pluralidade dos aparelhos de emissão de luz (11, 21), conforme definidos
+anteriormente, como fontes de luz pontuais.
+
+         Por fim, reivindica-se um aparelho de display de cristal líquido, caracterizado pelo fato
+de que compreende:
+
+        um painel de cristal líquido;
+
+o aparelho de fonte de luz de luz de fundo, conforme definido anteriormente, disposto sobre
+uma superfície traseira do painel de cristal líquido.
+
+         Para fins de continuidade do exame estão sendo consideradas as seguintes vias:
+
+                             Quadro 1  Páginas do pedido examinadas
+             Elemento                    Páginas                n.o da Petição           Data
+
+Relatório Descritivo                       1-20                 870200154848           09/12/2020
+Quadro Reivindicatório                      1-2                 870200154848           09/12/2020
+Desenhos                                     1                  020120062523           06/07/2012
+Resumo                                       1                  870200154848           09/12/2020
+
+
+    Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                    maio de 1996  LPI
+Artigos da LPI                                                                   Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                         X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                 X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                           X
+O pedido está de acordo com disposto no art. 32 da LPI                            X
+Comentários/Justificativas
+
+
+
+                Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                   Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI              X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI            X
+Comentários/Justificativas
+
+
+
+                                                                                            Página 2
+                                           BR112012016731-6
+
+
+
+
+                            Quadro 4  Documentos citados no parecer
+
+    Código                                Documento                          Data de publicação
+      D1                             US20090014741 A1                             15/01/2009
+      D2                             WO2009008250 A1*                             15/01/2009
+
+
+           *correspondente EP2175006 A1 (inglês)
+
+
+      Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade            Cumprimento              Reivindicações
+                                                      Sim                      1-10
+              Aplicação Industrial
+                                                      Não                   nenhuma
+                                                      Sim                   2, 3, 5-10
+                    Novidade
+                                                      Não                      1e4
+
+                                                      Sim                   nenhuma
+              Atividade Inventiva
+                                                      Não                      1-10
+
+
+
+Comentários/Justificativas
+
+           O quadro reivindicatório mantido e as argumentações apresentadas pela requerente
+foram analisadas na continuidade do exame, porém as mesmas não foram consideradas
+suficientes para superar as objeções interpostas no parecer anterior quanto aos requisitos de
+patenteabilidade da matéria pleiteada, em relação aos documentos do estado da técnica. Os
+motivos para o indeferimento são dados de acordo com cada uma das argumentações da
+depositante contidas na petição nº 870200154848 de 09/12/2020, como mostrado a seguir: A
+requerente manteve seu quadro reivindicatório (total de 10 reivindicações) onde pleiteia 3
+reivindicações da categoria fósforo de emissão de luz verde, 5 reivindicações da categoria
+aparelho de emissão de luz, 1 reivindicação da categoria aparelho de fonte de luz de fundo e
+1 reivindicação da categoria aparelho de display de cristal líquido. A Requerente se manifestou
+trazendo as seguintes alegações:
+
+           A requerente alega que o documento D2 não apresenta:
+
+          (1) um tamanho de partícula médio (d1), determinado por um método de permeabilidade
+de ar, de 9 a 16 m; e
+
+          (2) um diâmetro mediano (50%D) em distribuição de tamanho de partícula de 12,5 a 35
+m;
+
+          (3) 50%D/d1 é de 1,4 a 2,2.
+
+
+
+
+                                                                                          Página 3
+                                         BR112012016731-6
+
+
+        Contudo, o documento D2 revela um diâmetro mediano das partículas da ordem de
+6-20 m (vide [0014], [0018] e reivindicação 4).
+
+        A requerente também discorda dos apontamentos trazidos no parecer publicado na RPI
+2593 de 15/09/2020 com relação às seguintes características técnicas pleiteadas pelo pedido
+em exame:
+
+        um composto SiAlON tipo  representado por uma fórmula geral (A): Eu aSibAlcOdNe,
+onde a, b, c, d, e e são números que satisfazem 0,005a0,4, b+c=12, e d+e=16; diâmetro
+mediano das partículas de 19,8 m* apresentado pelo exemplo 7 do documento D2 (EP2175006
+A1).
+
+        * O documento pleiteia em sua reivindicação 1, um diâmetro mediano de 12,5 a 35 m.
+
+        Porém, tais características técnicas foram antecipadas pelos documentos D1 e D2 como
+pode ser verificado nos seguintes trechos:
+
+        um tipo de partículas de fósforo de emissão de luz verde de oxinitreto ativado em
+európio divalente, sendo um SiAlON tipo  representado por uma fórmula geral (A):
+EubSicAldOeNf, onde b, c, d, e e f são números que satisfazem 0,005b0,4, c+d=12, e e+f=16
+(vide [0023]). O documento sugere uma série de fórmulas, satisfazendo à condição definida para
+os índices, segue um exemplo: Eu 0,05Si11,50Al0,50O0,05N15,95 (vide [0026]). O diâmetro mediano,
+indicado como G1 pelo documento, é da ordem de 22,1 µm (vide [0038]). Na tabela 3 são
+fornecidos exemplos que variam de 8,1 a 23,6 µm (vide página 4, tabela 3).
+
+        O documento D2 revela um composto SiAlON tipo  representado por uma fórmula geral
+(A): EuaSibAlcOdNe, onde a, b, c, d, e e são números que satisfazem 0,005b0,4, b+c=12, e
+d+e=16 (ver exemplo 7: Eu0,05Si11,50Al0,50O0,05N15,95). D2 (exemplo 7) revela também     que o
+diâmetro mediano das partículas  50%D - possui valor de 19,8 µm.
+
+         Ambos já mencionados nos pareceres de ciência publicados nas RPI 2548 de
+05/11/2019 e RPI 2593 de 15/09/2020, respectivamente.
+
+        A requerente alega que o tamanho de partícula média é crucial para se obter a referida
+luminosidade e que a relação de 50%D/d1 como uma fórmula que representa a dispersibilidade
+de cristal, conforme pleiteado, limitado à faixa de 1,4 a 2,2.
+
+        O documento D2 antecipa que o controle da forma dos cristais é o que permite a
+obtenção de um aparelho emissor de luz com uma boa característica (brilho) usando para tal um
+grupo de partículas SiAlON do tipo  (vide [0010]). O documento D2 também emprega o fósforo
+na forma de partículas cujos tamanhos são da mesma ordem de grandeza dos pleiteados pelo
+presente pedido (vide [0014]; [0026]).
+
+        O documento D1, por sua vez, revela que um objetivo da presente invenção é fornecer
+um dispositivo emissor de luz com alta eficiência e excelentes propriedades de renderização de
+cor ou reprodutibilidade de cor (razão NTSC) controlando diâmetros medianos (diâmetro
+médio: tamanho de partícula em uma posição exibindo valor integrado de 50% em uma curva de
+
+
+
+                                                                                        Página 4
+                                        BR112012016731-6
+
+
+distribuição de tamanho de partícula baseada em volume: diferente de um tamanho de
+partícula médio de acordo com a permeação do ar) de uma pluralidade de tipos de partículas
+de fósforo, como resultado de pesquisa e desenvolvimento suficientes feitos em assuntos
+técnicos no caso do uso de um material luminescente de nitreto de európio ativado divalente
+para partículas emissoras de luz vermelha entre uma pluralidade de tipos de partículas de
+fósforo contidas em um conversor de luminescência de um dispositivo emissor de luz.
+
+       Alega ainda a requerente que:
+
+       Além disso, através da comparação dos exemplos 5 a 9 com os exemplos comparativos
+5 a 9 (vide tabela 5 do presente pedido), pode ser visto que, em comparação com os aparelhos
+emissores de luz dos exemplos comparativos (que não estão de acordo com as faixas de
+tamanho médio de partícula e 50%D/d1 conforme definido pela presente invenção), os
+aparelhos emissores de luz dos exemplos 5 a 9 (que estão de acordo com as referidas faixas)
+são significativamente mais brilhantes e têm flutuações menores no brilho e na cromaticidade.
+
+       Verifica-se através da Tabela 3 do documento D1, exemplos que empregam o fósforo
+Eu0,01Si11,80Al0,20O0,04N15,96 apresentam diâmetro médio variando de 6,5 a 23,6 µm.e luminosidade
+(valor comparativo) de 108,3 % e 105,9%, valores completamente de acordo com o apresentado
+na tabela 6 do pedido em exame. O mesmo pode ser verificado na tabela 2 do documento D2,
+onde se encontram valores de luminosidade entre 104,2% e 106,3%.
+
+       Contudo, verifica-se que nenhuma das características técnicas apresentadas pelo
+material (fósforo) difere do que já é conhecido do estado da técnica para a preparação de
+fósforos integrantes de aparelhos de emissão de luz, que procuram resolver os mesmos
+problemas técnicos apontados pela requerente no presente pedido. Considera-se que um
+técnico no assunto, buscando uma alternativa para o preparo de um fósforo emissor de luz
+verde de oxinitreto ativado em európio divalente, chegaria a matéria ora pleiteada nas
+reivindicações 1 e 4 sem esforço inventivo, não atendendo ao requisito de novidade e atividade
+inventiva, infringindo os Arts. 8º, 11 e 13 da LPI. As demais reivindicações 2,3, e 5-10, por sua
+vez, não apresentam nenhuma característica técnica que, em combinação com as
+características das reivindicações às quais se referem, as tornem providas de atividade inventiva
+frente ao testado da técnica mencionado, em desacordo com o disposto nos artigos 8º e 13 da
+LPI.
+
+
+Conclusão
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+       -   não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+       -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+
+                                                                                          Página 5
+                                      BR112012016731-6
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 22 de março de 2021.
+
+
+
+
+Silvânia Marilene de Lima Koller
+Pesquisador/ Mat. Nº 2390607
+DIRPA / CGPAT I/DITEX
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/18
+
+
+
+
+                                                                                        Página 6
+

@@ -1,0 +1,289 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102012008169-5          N.° de Depósito PCT:
+ Data de Depósito:                   24/02/2012
+ Prioridade Unionista:               -
+ Depositante:                        OSNIR YOSHIME WATANABE (BRSP)
+ Inventor:                           OSNIR YOSHIME WATANABE
+ Título:                             Incubadora modular para cultura celular com uso de vácuo 
+
+                                                              PARECER
+          O presente pedido refere-se a incubadora modular para cultura celular com uso de vácuo,
+composto por display gráfico com transistores de película fina e com tela sensível ao toque (1),
+que elimina os botões mecânicos. Sistema cames de fechamento e travamento das câmaras (2),
+tampa da câmara com sistema anti-condensação (3), tubo de entrada da mistura para o sistema
+de condicionamento térmico e umidificação (4), reservatório do sistema de umidificação (5), tubo
+de entrada da mistura umidificada para a câmera (6). Na parte traseira o sistema é dotado de
+entradas de gás independentes (7), podendo estas serem acopladas para trabalhar com a mesma
+mistura simultaneamente através de um único cilindro externo. Ainda na parte traseira está
+posicionado a entrada do cabo de alimentação VDC (8), e conectores de entrada/saída (9), para
+atualização de software e registradores de dados. Na parte interna, está localizado o sistema de
+condicionamento térmico da mistura gasosa e umidificação (10), para cada câmara que tem o seu
+funcionamento independente. O conjunto das câmaras é alimentado com tensão de 14 VDC
+através do módulo de potência externo que também oferece a função de no-break e mantém o
+equipamento em funcionamento na ausência temporária da energia da rede elétrica.
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim   Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                         X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    X
+
+O pedido refere-se a Sequências Biológicas                                                                   X
+
+Comentários/Justificativas
+
+          A matéria do presente pedido não se enquadra no disposto no Art. 229-C da LPI.
+
+          A exigência referente ao acesso ao patrimônio genético nacional foi emitida e publicada na
+Revista de Propriedade Industrial (RPI) nº 2458 de 14/02/2018. Tal exigência foi cumprida na
+petição nº 870180024138 de 26/03//2018, em que o requerente declara que o objeto do presente
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                            Página 1/6
+                                          BR102012008169-5
+
+
+pedido de patente de invenção não foi obtido em decorrência de acesso à amostra de
+componente do patrimônio genético nacional.
+
+                            Quadro 1  Páginas do pedido examinadas
+           Elemento                       Páginas               n.o da Petição           Data
+Relatório Descritivo                       1a7                  870190069475          22/07/2019
+Listagem de sequências em
+                                             ---                         ---              ---
+formato impresso
+Listagem de sequências*            Código de Controle                    ---              ---
+Quadro Reivindicatório                     1a2                  870190069475          22/07/2019
+Desenhos                                                                             09/04/2012 (VP
+                                           1a2                  020120030172
+                                                                                      24/02/2012)
+Resumo                                       1                  870190069475          22/07/2019
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+     9999999999999999 (Campo 1) e 9999999999999999 (Campo 2).
+
+
+       Através da petição no 020120030172 de 09/04/2012 (apresentado por via postal em
+24/02/2012), a Requerente apresentou os Desenhos. E, em resposta ao parecer técnico de
+ciência (7.1), notificado na RPI 2520 de 24/04/2019, a Requerente apresenta, através da petição
+870190069475 de 22/07/2019, novas vias do Quadro Reivindicatório (total de 01 reivindicação).
+Ambas petições foram consideradas para o presente exame técnico.
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                 Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                         X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                 X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                          X
+O pedido está de acordo com disposto no art. 32 da LPI                           X
+Comentários/Justificativas ---
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                 Sim         Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI             X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI           X
+Comentários/Justificativas
+
+       No primeiro exame deste pedido de patente, exarado no parecer técnico de ciência
+(despacho 7.1), notificado na RPI 2480 de 17/07/2018, apontou-se que o Quadro reivindicatório
+apresentava inconsistências referentes ao disposto no artigo 24 da Lei 9.279/96, uma vez que o
+
+
+
+
+                                                                                          Página 2/6
+                                        BR102012008169-5
+
+
+Relatório Descritivo do presente pedido não descrevia suficientemente a invenção de forma a
+possibilitar sua realização por um técnico no assunto, contrariando o disposto no art. 24 da LPI.
+
+         Objetivando superar tal objeção, a Requerente incluiu a descrição do estado técnica
+atinente a matéria requerida no Relatório Descritivo (ver parágrafos [004-007] ou páginas 2-4 do
+Relatório Descritivo da petição nº 870190069475 de 22/09/2019). A inclusão desses parágrafos
+não configura acréscimo de matéria, uma vez que documentos pertencentes ao estado da
+técnica, identificados posteriormente ao depósito, poderão ser incluídos no Relatório Descritivo,
+de modo a evidenciar a contribuição da invenção ao estado da técnica. (cf. itens 2.09 e 2.11 da
+Resolução nº 124/2013, de 04/12/2013  Diretrizes de Exame, Módulo I).
+
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                                Documento                              Data de publicação
+    D1                              WO2010058898                                   27/05/2010
+    D2                              WO2010058898                                   12/02/2004
+    D3                               JP2003325160                                  18/11/2003
+    D4                              WO2011048985                                       28/04/11
+D1-D4 são os mesmos documentos já citados no parecer anterior.
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade           Cumprimento                Reivindicações
+                                                    Sim                           1
+            Aplicação Industrial
+                                                    Não                          ---
+                                                    Sim                           1
+                 Novidade
+                                                    Não                          ---
+
+                                                    Sim                          ---
+            Atividade Inventiva
+                                                    Não                           1
+Comentários/Justificativas
+
+         Em prosseguimento ao exame, quanto a solução do problema técnico aventado, verifica-se
+que os argumentos apresentados pela Requerente não foram suficientes para superar as
+objeções apresentadas no parecer técnico anterior, pelos seguintes motivos:
+
+        Embora o presente exame reconheça que a dispositivo/aparelho incubadora seja nova
+         (como determina o art. 8º c/c 11 da LPI). Contudo, os documentos listados continuam
+         sendo impeditivos a matéria ora reivindicada. Particularmente, D1, conforme discutido no
+         parecer anterior, descreve uma câmara de cultura para cultivar células, uma bomba de
+         vácuo (20) para descarregar o ar na câmara de cultura para o exterior, o que pode reduzir
+         custos e facilitar a manutenção (ver DESCRIÇÃO DA INVENÇÃO; Figura 1); e, D3 revela
+
+
+
+
+                                                                                           Página 3/6
+                                    BR102012008169-5
+
+
+    uma incubadora de células da presente invenção inclui um meio de aquecimento e/ou um
+    meio de umidificação (parágrafo [0008-0009]).
+
+   Em sua manifestação, a Requerente apresenta que a diferença do aparelho/incubadora
+    ora proposto seja um sistema de condicionamento térmico e umidificação, onde a mistura
+    gasosa a ser injetada na câmara é submetida previamente a um processo ativo de
+    umidificação e condicionamento térmico.
+
+    Conforme já discutido em parecer anterior, D4 descreve um método para regular a
+    temperatura e umidade do gás fornecido a um aparelhos, como um aparelho de cultura
+    celular (parágrafo [0001]), visando superar os problemas do estado técnica reside na
+    dificuldade em manter o gás a uma temperatura e umidade desejadas; e na diminuição
+    excessiva da umidade causada pela condensação.
+
+    Para tanto, D4 fornece um método de regulação da temperatura/umidade do gás e um
+    dispositivo de fornecimento de gás que facilite fornecimento estável de gás mantido a uma
+    temperatura e umidade desejadas (ver parágrafos [0005-0009]). D4 descreve que o
+    aparelho de cultura mostrado na Fig. 1 inclui um dispositivo de fornecimento de gás 100
+    com a temperatura desejada e a umidade desejadas, e uma câmara de cultura 200 para
+    cultivar células. O dispositivo de fornecimento de gás 100 inclui principalmente uma
+    unidade de aquecimento/resfriamento 3, uma unidade misturadora 6, um controlador
+    principal 10, uma unidade de entrada 11 e uma unidade de visualização 12 (ver parágrafos
+    [0015-0016]). A unidade de entrada 11 ligada ao controlador principal 10 é um dispositivo
+    através do qual o operador insere instruções para o dispositivo de alimentação de gás 100.
+    A unidade de exibição 12 exibe caracteres para regular a injeção de gás para a
+    temperatura e a umidade desejadas. A unidade de exibição 12 é conectada ao controlador
+    principal 10. O temporizador 13 mede os vários períodos de tempo necessários ao controle
+    da temperatura e umidade de gás. O tempo de vários controles é determinado de
+    acordo com o temporizador 13. O circuito de acionamento da bomba 65 está ligado à
+    bomba de vácuo 48b para accionar a bomba de vácuo 48b de acordo com uma instrução
+    dada pelo controlador principal 10 (parágrafos [0045-0048]).
+
+   A Requerente alega ainda que a nova reivindicação 1, a troca de gases dentro da câmara
+    é feita de tempos em tempos, em intervalos regulares, que podem ser programados pelo
+    usuário. Contudo, essa característica técnica não encontra-se refletida na dita
+    reivindicação 1, cf. transcrevemos:
+
+              1. Incubadora modular para cultura celular com uso de vácuo, caracterizada por
+              compreender: um sistema de supervisão interativo com um display gráfico (1) de
+              interface de usuário com transistores de película fina e com tela sensível ao toque;
+              câmaras com sistema cames de fechamento e travamento das câmaras (2), cada
+              câmara tendo tampa da câmara com sistema anti-condensação (3), o qual contém em
+              seu interior uma resistência; e cada câmara tendo seu funcionamento independente um
+              sistema de condicionamento térmico e umidificação (10) na parte interna, para cada
+
+
+
+                                                                                       Página 4/6
+                                     BR102012008169-5
+
+
+             câmara da incubadora, cada sistema de condicionamento térmico e umidificação (10)
+             compreendendo um reservatório de sistema de umidificação (5) onde mistura é
+             submetida a um processo ativo de umidificação e condicionamento térmico durante sua
+             liberação, um tubo de entrada de mistura gasosa (4) para cada sistema de
+             condicionamento térmico e umidificação, um tubo de entrada da mistura umidificada (6)
+             em comunicação com cada reservatório de sistema de umidificação (5) e com cada
+             respectiva câmara; um sistema de vácuo interno ligado às câmaras que retira o ar
+             atmosférico de seus interiores e libera a mistura gasosa; na parte traseira da
+             incubadora são previstas entradas de gás independentes (7), podendo estas serem
+             acopladas para trabalhar com a mesma mistura simultaneamente através de um único
+             cilindro externo; ainda na parte traseira estão posicionados a entrada do cabo de
+             alimentação VDC (8) e conectores de entrada/saída (9), para atualização de software e
+             registradores de dados;o conjunto das câmaras é alimentado com tensão de 14 VDC
+             através do módulo de potência externo que também oferece a função de no-break e
+             mantém o equipamento em funcionamento na ausência temporária da energia da rede
+             elétrica, em que, em intervalos regulares, o sistema de supervisão faz uma substituição
+             completa da mistura de gases da câmara; em que na inserção de material biológico em
+             pelo menos uma câmara e uma vez sua respectiva tampa fechada, o sistema de
+             supervisão aciona a troca do gás atmosférico no interior da câmara por um dentre a
+             mistura gasosa do sistema de condicionamento térmico e umidificação (10) e o gás
+             proveniente da entrada de gás independente (7). (ver reivindicação 1, grifo nosso).
+
+   Portanto, estado da técnica não está só preocupado apenas em ajustar a pressão dentro
+    da câmara e os teores de O2, CO2 e N2, pois D3 revela uma incubadora de células da
+    presente invenção inclui um meio de aquecimento e/ou um meio de umidificação
+    (parágrafo [0008-0009]) e, D4 descreve o condicionamento prévio da mistura gasosa antes
+    de injetá-la na câmara é conhecido do estado da técnica, pela existência de um sistema de
+    condicionamento térmico e umidificação onde a mistura de gás é submetida a processo
+    ativo de umidificação e condicionamento térmico.
+
+    Ademais, D4 também menciona que o controlador 10 e o temporizador 13 determinam a
+    troca de gases dentro da câmara é feita de tempos em tempos, em intervalos regulares.
+    Logo, essas características técnicas não parecem envolver atividade inventiva ou efeito
+    técnico surpreendente.
+
+   Assim, a matéria pleiteada na reivindicação 1 não atende ao requisito de atividade
+    inventiva, pois decorre de maneira óbvia para um técnico no assunto a partir da
+    combinação dos ensinamentos do documento D1, qual seja uma câmara de cultura para
+    cultivar células, uma bomba de vácuo (20), com os ensinamentos de D3 e D4, sendo o
+    condicionamento prévio da mistura gasosa antes de injetá-la na câmara é conhecido do
+    estado da técnica, pela existência de um sistema de condicionamento térmico e
+    umidificação onde a mistura de gás é submetida a processo ativo de umidificação e
+    condicionamento térmico.
+
+
+                                                                                           Página 5/6
+                                       BR102012008169-5
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 12 de novembro de 2019.
+
+
+
+
+Welington Inácio de Almeida
+Pesquisador/ Mat. Nº 1568229
+DIRPA / CGPAT II/DIPAE
+Deleg. Comp. - Port. INPI/DIRPA Nº 001/19
+
+
+
+
+                                                                                         Página 6/6
+

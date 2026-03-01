@@ -1,0 +1,166 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102012030516-0           N.° de Depósito PCT:
+ Data de Depósito:                   30/11/2012
+ Prioridade Unionista:               -
+ Depositante:                        FUNDAÇÃO         CPQD      -    CENTRO      DE    PESQUISA       E
+                                     DESENVOLVIMENTO EM TELECOMUNICAÇÕES (BRSP)
+ Inventor:                           RICARDO SEITI YOSHIMURA, JULIANO JOÃO BAZZO, DICK
+                                     CARRILLO MELGAREJO, FABIANO SILVA MATHILDE, FABRÍCIO
+                                     LIRA FIGUEIREDO
+ Título:                             Sistema de rádio cognitivo e método de seleção adaptativa de canal
+                                     em rádio cognitivo 
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição          Data
+
+Relatório Descritivo                                      1-15               870200117984           23/09/20
+Quadro Reivindicatório                                     1-4               870210019909           01/03/21
+Desenhos                                                   1-6               018120044218           30/11/12
+Resumo                                                      1                870200117984           23/09/20
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim      Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                     x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                             x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim      Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                              Página 1
+                                          BR102012030516-0
+
+
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI      x
+Comentários/Justificativas
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                                 Documento                               Data de publicação
+    D1       WO2010039352                                                               08/04/10
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+        Requisito de Patenteabilidade             Cumprimento            Reivindicações
+                                                       Sim                        1-5
+            Aplicação Industrial
+                                                       Não                        ---
+                                                       Sim                        1-5
+                 Novidade
+                                                       Não                        ---
+
+                                                       Sim                        ---
+             Atividade Inventiva
+                                                       Não                        1-5
+Comentários/Justificativas
+A Requerente, tanto quanto pôde se apreender da sua extensa argumentação em resposta à
+ciência de parecer, apesar de apontar as similaridades entre o objeto da sua invenção e os
+ensinamentos da anteriordade D1, concordando inclusive com parte das conclusões do parecer
+de 1o exame, reafirma a atividade inventiva ao desqualificar D1 pelo principal fato de que o
+documento não ensina ou sugere o uso dos parâmetros de ocupação do canal e período médio de
+desocupação como métricas para a classificação dos canais candidatos à disposição das
+unidades móveis para conexão.
+A Requerente afirma que deslocou o caracterizado por de modo a colocar parte da matéria
+objeto da reivindicação independente (RI) 2 no preâmbulo, reescrevendo a nova RI2 de modo a
+afastar a matéria objeto da proteção dos ensinamentos de D1.
+Cabe aqui ressaltar que a RI1 (sistema cujos componentes meramente implementam o método
+pleiteado na RI2) não sofreu qualquer alteração do 1o para este 2o exame.
+Da análise do teor da parte caracterizante da nova RI2 pôde-se concluir que a Requerente não
+logrou êxito nas suas alegações pelos motivos que seguem.
+O método ora pleiteado é composto de 3 etapas. A forma com a qual a redação foi modificada
+visou a expandir o detalhamento das etapas pleiteadas na 1 a versão do quadro reivindicatório
+(QR).
+Comparando o teor da parte caracterizante da RI2 com os ensinementos de D1, temos:
+Etapa 1: Processamento estatístico das condições de cada canal, gerando um vetor de
+classificação dos canais. Esse vetor é transmitido aos usuários. Todo este processo pode ser
+visto no fluxograma apresentado na figura 2 de D1, passos 204-210.
+
+
+
+                                                                                             Página 2
+                                        BR102012030516-0
+
+Etapa 2: Troca de canal para o melhor canal definido na etapa 1. Antecipado também pela
+figura 2, passos 220-222.
+Etapa 3: O processo de sensoriamento continuado do cenário de transmissão para escolha
+adaptativa do melhor canal dadas as mudanças no dito cenário causadas pela mobilidade
+dos terminais. Antecipado em [0013].
+A partir daí, o método retorna para a etapa 1 representando o processo de gerenciamento
+continuado do espectro.
+É importante notar que, em linhas gerais, o método pleitado na RI2 é um método canônico para
+gerenciamento de espectro em sistemas de rádio cognitivo (sensoriamento do ambiente,
+classificação dos canais, difusão da informação, troca do canal pelo melhor canal atual e continuar
+o processo de forma adaptativa). Em D1, as métricas de qualificação dos canais para
+classificação são, principalmente, parâmetros de qualidade de canal. O presente pedido, segundo
+o Requerente, se diferenciaria de D1 por usar parâmetros de tráfego, i.e., ocupação do canal e
+período médio de ocupação.
+Ocorre que, mesmo o uso destes parâmetros é antecipado por D1, quando em [0019] o
+documento menciona o possível uso dos parâmetros de channel usability para ranqueamento
+dos canais. De fato, até o conceito de white space é apresentado (reivindicação 13).
+Desta maneira, de posse dos conhecimentos de D1, o técnico no assunto chegaria ao método
+pleiteado na RI2 sem o auxílio de passo inventivo. O sistema pleiteado na RI1, por meramente
+implementar o método pleiteado na RI2 se encontra, por conseqüência lógica, antecipado pelos
+ensinamentos de D1.
+
+
+Quanto as demais reivindicações, por serem dependentes das reivindicações independentes
+contestadas acima, portanto, pleiteando apenas características adicionais do dito como
+inventivo, as mesmas também não são passíveis de patenteabilidade.
+
+Conclusão
+
+Desta forma, constata-se que as RI1 e RI2 apresentam arranjos funcionalmente similares aos
+descritos em D1 sendo estes apenas mais uma forma de realização, dos já pertencentes ao
+estado da técnica, para atingir o objetivo pretendido, ou seja, realizar um sistema de rádio
+cognitivo.
+
+Destarte, o BR102012030516-0 carece de atividade inventiva por ser mera decorrência do estado
+da técnica conforme os Art. 8° e 13 da LPI não possuindo condições de patenteabilidade.
+
+Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende ao
+requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da data
+de publicação na RPI, para interposição de recurso.
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                                                          Página 3
+                               BR102012030516-0
+
+
+                                                  Rio de Janeiro, 24 de maio de 2021.
+
+
+Erasmus Couto Brazil de Miranda
+Pesquisador/ Mat. Nº 1474157
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+022/12
+
+
+
+
+                                                                            Página 4
+

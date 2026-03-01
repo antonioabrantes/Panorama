@@ -1,0 +1,323 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112016018219-7         N.° de Depósito PCT: US2015/014775
+ Data de Depósito:                   06/02/2015
+ Prioridade Unionista:               US 61/937,188 (07/02/2014)
+ Depositante:                        CNH INDUSTRIAL AMERICA LLC (US)
+ Inventor:                           BRIAN T. ADAMS, BRIAN J. ANDERSON, MICHAEL J. CONNORS,
+                                     JASON T. CZAPKA, CHAD W. JOHNSON, DARIAN E. LANDOLT,
+                                     SCOTT A. LONG, MARVIN A. PRICKEL, KEITH W. WENDTE
+ Título:                             Plantadeira e método para plantar múltiplos tipos de semente em
+                                     uma passagem única de plantio
+
+                                                              PARECER
+        O presente pedido refere-se a uma plantadora agrícola, cujo objetivo é plantar múltiplos
+tipos ou variedades de sementes. Para tal, o Requerente discorre sobre a invenção e informa o
+estado da técnica sem citar documentos. Onde informa que plantadeiras que têm tremonhas de
+preenchimento a granel diferentes e exigem um reservatório para cada medidor de semente a ser
+completamente limpo ou plantado antes de uma variedade de semente diferente poder ser
+distribuída para os medidores de semente. Algumas plantadeiras permitem a plantação de duas
+variedades e incluem unidades de linha de plantio auxiliares ou dois medidores de semente
+separados e distintos em toda unidade de linha de plantio [página 01, parágrafo 002, petição
+eletrônica nº 870190118170, de 14/11/2019].
+        Pode-se inferir que o problema técnico decorre do número de unidades de plantio para o
+cultivo de diferentes variedades de sementes em uma única passagem da plantadora.
+        Em 14/11/2019, por meio da petição eletrônica nº870190118170, o Requerente apresentou
+modificações no pedido em resposta ao Parecer emitido no âmbito da Resolução Nº 241/2019,
+notificado na RPI nº2537 de 20/08/2019 segundo a exigência preliminar (6.21).
+        Em 10/09/2020, por meio da petição eletrônica nº870200115008, o Requerente apresentou
+modificações no pedido em resposta ao Parecer emitido, notificado na RPI nº2580 de 16/06/2020
+(despacho 7.1). Estas modificações estão consideradas no Quadro 1.
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                   Sim   Não
+O pedido foi encaminhado à ANVISA (Art. 229-C da LPI, incluído pela Lei 10.196/2001)               X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida                             X
+
+O pedido refere-se a Sequências Biológicas                                                         X
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                   Página 1/7
+                                          BR112016018219-7
+
+
+      Na petição eletrônica nº870160042379 de 08/08/2016 o Requerente declara que o objeto do
+presente pedido de patente de invenção não foi obtido em decorrência de acesso à amostra de
+componente do Patrimônio Genético Nacional, realizado a partir de 30 de junho de 2000.
+
+
+                            Quadro 1  Páginas do pedido examinadas
+            Elemento                     Páginas                no da Petição           Data
+Relatório Descritivo                       1 a 35               870200115008          10/09/2020
+Listagem de sequências em
+                                             ---                         ---              ---
+formato impresso
+Listagem de sequências             Código de Controle                    ---              ---
+Quadro Reivindicatório                     1a5                  870200115008          10/09/2020
+Desenhos                                   1 a 13               870190118170          14/11/2019
+Resumo                                       1                  870200115008          10/09/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei no 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                  Sim       Não
+A matéria enquadra-se no Art. 10 da LPI (não se considera invenção)                         X
+A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                                 X
+O pedido apresenta Unidade de Invenção (Art. 22 da LPI)                          X
+O pedido está de acordo com disposto no Art. 32 da LPI                           X
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                  Sim       Não
+O relatório descritivo está de acordo com disposto no Art. 24 da LPI             X
+O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI                      X
+
+
+
+      A reivindicação independente [1] não atende ao disposto no Art. 25 da LPI e na Instrução
+Normativa nº 30/2013  Art. 4º (IV), pois a matéria pleiteada não está fundamentada no relatório
+descritivo do pedido pelas seguintes razões: um desviador em comunicação com a trajetória de
+fluxo não está definido no relatório descritivo.
+
+      A característica uma trajetória de fluxo pelo menos parcialmente interconectando [...] e
+um desviador em comunicação com a trajetória de fluxo usadas na definição da matéria
+pleiteada na reivindicação independente [1] são genéricos, impossibilitando a definição clara e
+precisa da matéria objeto da proteção, o que contraria o disposto no Art. 25 da LPI e na Instrução
+Normativa nº 30/2013  Art. 4º (III).
+
+
+
+
+                                                                                         Página 2/7
+                                            BR112016018219-7
+
+
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                                Documento                             Data de publicação
+    D1      EP2684436  Twin-row multiple variety planter and method of          15/01/2014
+            use
+    D2      US20050103244  System and method for distributing multiple          19/05/2005
+            materials from a vehicle
+
+
+      No que se refere aos documentos considerados estado da técnica, o presente exame está
+seguindo a determinação dos itens 5.1.6 e 5.2.1 da Norma de Execução SEI nº 7/2019/DIRPA/PR,
+conforme transcrição abaixo:
+
+
+    Item 5.1.6       Realizar a análise do pedido quanto aos requisitos e condições de
+patenteabilidade considerando a busca e o exame realizado por escritórios/autoridades citados na
+exigência de Pré-Exame (6.21) como subsídio ao exame técnico.
+    Item 5.2.1 Gerar o parecer de segundo exame do SISCAP, já que a Busca foi previamente
+realizada na etapa de exigência de Pré-Exame (6.21) (grifo nosso).
+
+
+      Assim, cabe ressaltar que como a Busca foi considerada realizada na etapa de exigência de
+Pré-Exame (6.21), conforme item 5.2.1 da referida Norma de Execução, os documentos avaliados
+no presente exame estão limitados aos documentos citados na exigência de Pré-Exame (6.21),
+publicada na RPI nº 2528 de 18/06/2019.
+
+
+      O documento D1 revela uma plantadora agrícola de múltiplas variedades e método de
+operação da plantadora. A plantadora de fileira dupla é configurada para semear diferentes
+variedades de semente. Cada unidade de plantio de fileira dupla é separadamente controlada
+para ligar ou desligar o dosador de semente da unidade de plantio. Isto permite a operação de
+somente um dosador de semente das duas unidades de plantio em cada fileira dupla. Com as
+unidades de plantio supridas com diferentes variedades de semente, a variedade sendo semeada
+pode ser controlada por meio do controle dos dosadores de semente das duas unidades de
+plantio dentro da fileira dupla [resumo].
+      O documento D2 revela um sistema e método para distribuir vários tipos de sementes,
+fertilizantes ou outros materiais a partir de um veículo agrícola. O sistema inclui a primeira e a
+segunda fontes contendo o primeiro e o segundo materiais, respectivamente, uma pluralidade de
+unidades de distribuição e um mecanismo de distribuição acoplado entre as fontes e as unidades
+de distribuição pelas quais cada um dos, primeiro e segundo, materiais do primeiro e segundo
+respectivas fontes podem ser transmitidas para a pluralidade de unidades de distribuição
+[resumo].
+
+
+
+
+                                                                                       Página 3/7
+                                       BR112016018219-7
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento             Reivindicações
+                                                  Sim                      1 a 16
+          Aplicação Industrial
+                                                  Não                        ---
+                                                  Sim                      1 a 16
+                Novidade
+                                                  Não                        ---
+
+                                                  Sim                        ---
+           Atividade Inventiva
+                                                  Não                      1 a 16
+
+
+     Em 10/09/2020, por meio da petição eletrônica nº870200115008, o Requerente apresentou
+modificações no quadro reivindicatório [16 reivindicações] em resposta ao Parecer emitido,
+notificado na RPI nº2580 de 16/06/2020 (despacho 7.1).
+     O documento D1 foi considerado como anterioridade mais próxima do objeto da
+reivindicação independente [1] pois revela:
+
+
+(i) Tremonhas (26) são relativamente grandes e são manualmente enchidas com semente. Cada
+tremonha (26) das primeiras unidades de plantio (16) é cheia com uma primeira variedade de
+semente, enquanto cada tremonha de semente (26) das segundas unidades de plantio (18) é
+cheia com uma segunda variedade de semente, em [coluna 2, parágrafo 0009];
+
+(ii) a plantadora (10) é adaptada para ser rebocada por meio de um trator (80), mostrado
+esquematicamente. O trator (80), ou a plantadora (10), é equipado(a) com um receptor (82) para
+receber sinais de localização a partir de um sistema de posicionamento baseado em satélite ou
+baseado no solo ou uma combinação de sinais provenientes tanto de um sistema de
+posicionamento baseado em satélite quanto baseado no solo. Um controlador (84) controla então
+o implemento (10) com base na localização e pode também ser usado para controlar, por
+exemplo, orientar o trator (80). Tais receptores e controladores são conhecidos, em [coluna 2,
+parágrafo 0008];
+
+
+(iii) os dosadores de semente são operados de forma que somente um dosador de semente de
+cada fileira dupla (20) é operado em um dado momento. Um controlador (70) é conectado através
+de barra coletora de comunicação ou outra conexão às embreagens, motores elétricos, etc., que
+controlam os dosadores de semente para atuar os dosadores de semente ou para não atuar os
+dosadores de semente. O controlador (70) recebe sinais de posição a partir de um sistema de
+posicionamento global ou local (84) e atua os dosadores de semente com base em um mapa de
+prescrição, de onde cada variedade de semente deve ser plantada no campo. Quando a
+variedade de semente é alterada, um dosador de semente da fileira é desligado e o outro dosador
+de semente é ligado, em [coluna 3, parágrafo 0014].
+
+
+
+
+                                                                                    Página 4/7
+                                      BR112016018219-7
+
+
+     Portanto, reivindicar uma plantadora agrícola caracterizada por compreender a)
+adicionalmente uma trajetória de fluxo pelo menos parcialmente interconectando o sistema de
+armazenamento a granel (19) e o sistema de armazenamento em fileiras (27) para carregar
+seletivamente um dos múltiplos tipos de sementes, não apresenta atividade inventiva pois apenas
+aumentou o número de fileiras em relação aos ensinamentos de D1; b) um desviador de
+comunicação com a trajetória de fluxo para desviar seletivamente um tipo selecionado de semente
+é claramente passível de entendimento quando se trata de um caminho em que as sementes
+estão seguindo e há um meio responsável por desviar essas sementes para os respectivos
+compartimentos de cada unidade de linha de plantio. Esse desviador encontra-se claramente
+definido pelas reivindicações dependentes como sendo, por exemplo, os sistemas de portas
+previstos no sistema de armazenamento de fileiras previsto em cada unidade de linha de plantio
+da presente invenção [item 4, página 3 da petição eletrônica nº870200115008, de 10/09/2020].
+Logo, o desviador, entendido como porta de distribuição, é uma variação dos ensinamentos
+revelados em D2 onde referindo-se à FIG. 4, um dos distribuidores (340) é mostrado em mais
+detalhes. É geralmente em forma de X com ar nas entradas (410) e um par de portas de saída
+(420). As portas de entrada (410) são respectivamente acopladas a um dos primeiros e segundos
+conjuntos de linhas de distribuição (130, 140) enquanto cada uma das saídas (420) é acoplada
+por uma das linhas de distribuição secundária (350) a um dos medidores (330). Em modalidades
+alternativas, o número de saídas (420) poderia ser aumentado para mais de duas saídas para
+fornecer material a mais de dois metros. Da mesma forma, em modalidades alternativas nas
+quais existem mais de dois materiais disponíveis para distribuição, o distribuidor (340)
+pode ser modificado para ter mais de duas entradas (410) bem como modificado para ter
+uma, duas ou mais saídas (420), em [página 4, parágrafo 0033]; c) um medidor de sementes é
+similar aos dosadores de sementes revelados em D1.
+
+
+
+     O documento D2 apresenta as seguintes características similares ao presente pedido:
+
+(i) método de distribuição do primeiro e do segundo materiais de um veículo agrícola para uma
+superfície. O método inclui receber o primeiro material em um primeiro compartimento e o
+segundo material no segundo compartimento e transmitir uma primeira parte de um dos primeiro e
+segundo materiais por meio de um mecanismo de distribuição para, pelo menos um, dispositivo de
+medição. O método inclui adicionalmente distribuir a primeira parte por meio de, pelo menos um,
+dispositivo de medição, comunicar um comando referente a uma alteração no status de um
+dispositivo controlado, incluindo pelo menos um dos mecanismos de distribuição e, pelo menos
+um, dispositivo de medição, e alterar o status do dispositivo controlado em resposta ao método. O
+método inclui ainda transmitir uma segunda parte dos outros primeiro e segundo materiais por
+meio do mecanismo de distribuição para, pelo menos um, dispositivo de medição e distribuir a
+segunda parte por meio de, pelo menos um, dispositivo de medição, em [página 2, parágrafo
+0014];
+
+(ii) referindo-se à FIG. 4, um dos distribuidores (340) é mostrado em mais detalhes. É geralmente
+em forma de X com ar nas entradas (410) e um par de portas de saída (420). As portas de entrada
+
+
+
+                                                                                      Página 5/7
+                                       BR112016018219-7
+
+
+(410) são respectivamente acopladas a um dos primeiros e segundos conjuntos de linhas de
+distribuição (130, 140) enquanto cada uma das saídas (420) é acoplada por uma das linhas de
+distribuição secundária (350) a um dos medidores (330). Em modalidades alternativas, o número
+de saídas (420) poderia ser aumentado para mais de duas saídas para fornecer material a mais
+de dois metros. Da mesma forma, em modalidades alternativas nas quais existem mais de dois
+materiais disponíveis para distribuição, o distribuidor (340) pode ser modificado para ter mais de
+duas entradas (410) bem como modificado para ter uma, duas ou mais saídas (420), em [página
+4, parágrafo 0033].
+
+     Diante do exposto, pleitear uma plantadora caracterizada por interconectar um sistema de
+armazenamento a granel e um sistema de armazenamento em fileiras para carregar seletivamente
+diferentes tipos de sementes ou materiais e depositás-la no solo, tendo como novidade aumentar
+o número de fileiras e encaminhar as sementes da tremonha (a granel) por meio de um conduto
+único com sistemas de portas não apresenta efeito técnico novo em relação aos ensinamentos de
+D1 e D2.
+     Não há atividade inventiva quando é óbvio que a alteração proposta não está além do
+desenvolvimento normal da tecnologia, não envolve o exercício de qualquer habilidade ou
+capacidade além do que se espera de um técnico no assunto, segundo as Diretrizes de Exame de
+Pedidos de Patentes  Bloco II  Patenteabilidade, publicadas na Resolução nº169 de 15/07/2016
+item 5.2 publicada na RPI 2377 de 26/07/2016.
+     As reivindicações [2] a [13], dependentes, não contém nenhuma característica técnica
+adicional que, se combinadas, resultariam em atividade inventiva não óbvia para um técnico no
+assunto. As reivindicações [14] a [16] são de método.
+     Assim, a matéria pleiteada nas reivindicações [1] a [16] não atende ao requisito de atividade
+inventiva, pois decorre de maneira óbvia para um técnico no assunto a partir da combinação dos
+ensinamentos do documento D1 com os ensinamentos de D2.
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI) e as reivindicações
+estão indefinidas e/ou não estão fundamentadas no relatório descritivo (Art. 25 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                            Rio de Janeiro, 13 de outubro de 2020.
+
+
+                                                                                           Página 6/7
+                                    BR112016018219-7
+
+
+
+
+Elaine Cristina Ruby
+Pesquisador/ Mat. Nº 2316823
+DIRPA / CGPAT II/DIPAE
+Deleg. Comp. - Port. INPI/DIRPA Nº 016/17
+
+
+
+
+                                                       Página 7/7
+

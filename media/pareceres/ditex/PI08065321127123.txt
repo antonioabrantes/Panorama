@@ -1,0 +1,229 @@
+                              SERVIÇO PÚBLICO FEDERAL
+                               MINISTÉRIO DA ECONOMIA
+                   INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                 RELATÓRIO DE EXAME TÉCNICO
+
+N.° do Pedido:             PI0806532-2                N.° de Depósito PCT:NL2008/050841
+Data de Depósito:          22/12/2008
+Prioridade Unionista:      NL 2001115 (21/12/2007); NL 2001113 (21/12/2007)
+Depositante:               Apex Europe B.V. (NL)
+Inventor:                  Martinus Adrianus Hendriks
+Título:                    Rolo de anilox, aparelho de impressão, método para formar um rolo
+                           de anilox, e, aparelho para formar um rolo de anilox a ser usado em
+                           um processo de impressão
+
+                                                PARECER
+
+
+                           Quadro 1  Páginas do pedido examinadas
+           Elemento                     Páginas               n.o da Petição           Data
+
+Relatório Descritivo                     1 a 45               870190022513           08/03/2019
+Quadro Reivindicatório                    1a4                 870190099155           03/10/2019
+Desenhos*                                 1a4                 020120047722           25/05/2012
+Resumo                                      1                 870190022513           08/03/2019
+
+*Foi aproveitada a petição N° 020120047722 dada a entrada pelo requerente na data de
+25/05/2012.
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                 Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                       x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                         x
+O pedido está de acordo com disposto no art. 32 da LPI                          x
+Comentários/Justificativas
+
+
+
+
+MODELO_                                                                              Página 1 de 5
+                                               PI0806532-2
+
+
+                  Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                             Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI        x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                       x
+Comentários/Justificativas
+
+    As características do rolo de anilox usadas na definição da matéria pleiteada na
+reivindicação 1 são genéricas, impossibilitando a definição clara e precisa da matéria objeto da
+proteção, o que contraria o disposto no Art. 25 da LPI e na Instrução Normativa nº 30/2013  Art.
+4º (III).
+
+
+                             Quadro 4  Documentos citados no parecer
+
+    Código                                Documento                              Data de publicação
+     D1                                  BR 9507223 A                                09/09/1997
+     D2                                 US 6347891 B1                                19/02/2002
+
+
+      Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+         Requisito de Patenteabilidade             Cumprimento             Reivindicações
+                                                         Sim                      1-17
+               Aplicação Industrial
+                                                        Não                      Nenhuma
+                                                         Sim                      1-17
+                      Novidade
+                                                        Não                      Nenhuma
+                                                         Sim                      1-17
+               Atividade Inventiva
+                                                        Não                      Nenhuma
+Comentários/Justificativas
+         Através da petição n°870190099155, de 03/10/2019, a requerente apresentou manifestação
+ao parecer técnico publicado na RPI n° 2532 de 16/07/2019. Em tal manifestação, a requerente
+argumentou, em relação as anterioridades, que:
+
+
+           A nova reivindicação 1 foi emendada para reivindicada a característica o canal (24) tem
+            uma largura constante incluída na parte caracterizante.
+
+           D1 revela apenas canais com um formato de células conectadas, como mostrado na Fig. 2
+            abaixo:
+
+
+
+
+                                                                                         Página 2 de 5
+                                         PI0806532-2
+
+
+
+
+   Em todas as modalidades reveladas em D1, da Fig. 2 à Fig.25, as formas das células são
+    as mesmas, como exemplificado na Fig. 2 mostrada acima, para explicar a diferença entre
+    D1 e a presente invenção. Na Fig. 2 de D1, as áreas mais escuras são as células e as
+    áreas mais claras são as paredes do canal (conforme descrito na página 6, linhas 11-16 de
+    D1). Portanto, fica claro que os canais em D1 são formados em uma forma de célula
+    conectada, isto é, as células são conectadas por partes estreitas do canal. Assim, fica
+    claro que o canal em D1 possui várias larguras de canal, ou seja, a largura do canal nas
+    partes da célula é maior que a largura do canal nas partes conectadas.
+
+   A vantagem da largura constante do canal, como reivindicado na nova reivindicação 1, é
+    que a tinta pode fluir facilmente no canal, de modo que a tinta possa ser rapidamente
+    distribuída sobre a superfície do rolo anilox.
+
+   O documento D2 não revela um rolo anilox, mas um rolo de impressão com padrões em
+    sua superfície, com descrito na coluna 1, linhas 29-36
+
+        Em gravadores para cilindros de gravação usados para imprimir publicações,
+           como revistas ou similares, o gravador pode incluir várias cabeças de gravação,
+           em que cada cabeça de gravação inclui uma ponta de diamante. Ao fornecer várias
+           cabeças, cada cabeça pode ser usada para gravar diferentes partes do cilindro, em
+           que cada porção do cilindro gravada por uma cabeça respectiva pode, a título de
+           exemplo, corresponder a uma página diferente da publicação.
+
+   Portanto, um técnico no assunto não se basearia em D2 ao fazer um rolo de anilox.
+
+   Além disso, D2 apenas descreve o uso de cabeças diferentes para gravar um rolo para
+    aumentar a eficiência da gravação. Padrões diferentes são mostrados em D2, por
+    exemplo, na fig. 6A-C e fig. 7, em que vários padrões são colocados em um rolo (por
+    exemplo, linhas retas e linhas tracejadas na figura 6C, células e canais na figura 7).
+
+
+
+                                                                               Página 3 de 5
+                                           PI0806532-2
+
+        Portanto, o rolo revelado em D2 não pode sequer atuar como um rolo anilox, pois a tinta
+        seria distribuída de maneira desigual devido a diferentes padrões na superfície. Ainda, D2
+        não sugere que os canais estejam em um padrão de onda nem com largura constante.
+
+       Dessa forma, mesmo uma combinação de D1 e D2 não poderia levar um técnico no
+        assunto ao rolo de anilox ora reivindicado na reivindicação 1. Portanto, a nova
+        reivindicação 1 é nova e inventiva à luz de D1 e D2. As reivindicações 2 a 15 são novas e
+        inventivas por, pelo menos, suas relações de dependência, ou ligação, com a nova
+        reivindicação 1.
+
+       A Requerente está certa que os documentos D1 e D2 são insuficientes para revelar,
+        ensinar ou mesmo sugerir a matéria pleiteada pelo presente pedido de patente.
+
+        Em resumo, a requerente conclui dizendo que A Requerente está certa que os
+documentos D1 e D2 são insuficientes para revelar, ensinar ou mesmo sugerir a matéria pleiteada
+pelo presente pedido de patente. e Face ao exposto, a Requerente solicita o reexame da
+questão e passa a aguardar o oportuno DEFERIMENTO do presente pedido como ato de Direito e
+Justiça!.
+
+        Tal conclusão não pode ser aceita pelos argumentos expostos a seguir:
+
+        A presente invenção se refere a: 1) um rolo de anilox (5) para um aparelho de impressão
+para transferir um fluido, tal como uma tinta, que compreende um cilindro com uma superfície
+(100), em que a superfície compreende uma estrutura de distribuição de fluido para receber o
+fluido, distribuindo o fluido inteiramente no cilindro e transferindo o fluido, em que a estrutura de
+distribuição de fluido é arranjada para transferir, em um primeiro modo operacional para imprimir
+camadas pesadas de tinta, uma gotícula de fluido relativamente grande e em um segundo modo
+operacional para imprimir detalhes, e uma gotícula de fluido relativamente pequena por meio de
+uma combinação de restrições na estrutura de distribuição de fluido a estrutura de distribuição de
+fluido possui um canal (24) formado na superfície para distribuir o fluido inteiramente na estrutura
+de distribuição de fluido, o canal (24) tendo uma forma de onda com um padrão repetitivo sinuoso
+sobre a superfície, caracterizado pelo fato de que o canal (24) tem uma largura constante; 2)
+aparelho de impressão e 3) um método para formar um rolo de anilox.
+
+        Em relação às características técnicas do rolo de anilox, aparelho de impressão e método
+para formar um rolo de anilox, todos os itens descritos acima, 1) a 3), são antecipados nos
+documentos D1 e D2, como já descrito no parecer técnico anterior, a saber: D1 se refere a um
+rolo de gravura e métodos de revestimento associados para a produção de um gradiente de
+revestimento uniforme em um substrato (vide Figuras). O rolo de gravura que compreende uma
+série de células arranjadas em seções de densidade de linha circunferenciais onde as densidades
+de linha aumentam progressivamente de seção a seção, e onde os volumes das células diminuem
+
+
+
+                                                                                      Página 4 de 5
+                                            PI0806532-2
+
+progressivamente dentro de cada seção, e onde os volumes das células no final de uma seção
+são substancialmente iguais aos volumes das células no início da seção adjacente seguinte (vide
+reivindicações). e D2 revela um sistema de gravação e método para gravar um padrão utilizando
+uma pluralidade de gravação. D2 descreve aparelhos e métodos para sequenciar e gravar uma
+pluralidade de dispositivos de gravação de tal modo que quando as áreas gravadas por aquelas
+cabeças se encontram, proporcionam um padrão contínuo gravado. O sistema e método também
+compreendem um sistema de imagiologia para imagiologia das áreas gravadas associadas a cada
+cabeça de gravação, de modo que as cabeças ou sinais que conduzem as cabeças possam ser
+ajustadas para facilitar ainda mais o fornecimento de áreas gravadas e apicais como se elas
+encabeçassem outra cabeça. É também divulgado um método para sequenciar e transmitir dados
+de imagem associados a uma imagem a ser gravada de modo a acomodar qualquer
+deslocamento cilíndrico ou o deslocamento angular entre, por exemplo, duas cabeças de
+gravação que estão posicionadas numa relação geralmente oposta (vide resumo e
+reivindicações).
+
+          Portanto, mantém-se a opinião do parecer técnico anterior, em relação aos documentos
+citados como anterioridades, de que um técnico no assunto em busca de um rolo de anilox (5)
+para um aparelho de impressão para transferir um fluido, a partir de D2 e D1, chegaria ao rolo
+pleiteado e em busca de um aparelho de impressão e um método para formar um rolo de anilox,
+chegaria aos tais aparelho e método. Portanto, um técnico no assunto combinaria os
+conhecimentos de D2 e D1 e chegaria de maneira evidente ou óbvia à matéria pleiteada.
+
+          Desta forma, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não
+atende ao requisito de atividade inventiva (artigos 8º e 13 da Lei nº 9279 de 14/05/1996).
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -     não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -     as reivindicações estão indefinidas e/ou não estão fundamentadas no
+            relatório descritivo (Art. 25 da LPI)
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                Publique-se o indeferimento (9.2).
+
+                                                              Rio de Janeiro, 02 de janeiro de 2020.
+
+
+Genizia Islabão de Islabão
+Pesquisador/ Mat. Nº 1219459
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                      Página 5 de 5
+

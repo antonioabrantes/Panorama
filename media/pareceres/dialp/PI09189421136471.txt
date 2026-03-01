@@ -1,0 +1,216 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0918942-4                 N.° de Depósito PCT: IB2009/055962
+ Data de Depósito:                   28/12/2009
+ Prioridade Unionista:               US 61/193.830 (29/12/2008); US 61/213.577 (22/06/2009)
+ Depositante:                        EVOGENE LTD (IL)
+ Inventor:                           SHARON AYAL, EYAL EMMANUEL, ZUR GRANEVITZE, ALEX
+                                     DIBER, BASIA JUDITH VINOCUR, HAGAI KARCHI, YOAV
+                                     HERSCHKOVITZ
+ Título:                             Método para aumentar a tolerância a estresse abiótico, produção,
+                                     biomassa, taxa de crescimento, vigor, e/ou eficiência de utilização de
+                                     nitrogênio de uma planta, e, construto de ácido nucleico isolado
+
+                                                              PARECER
+          O presente pedido se refere a método para melhoramento vegetal através da
+superexpressão de proteínas. Vetores também são reivindicados.
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim   Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)
+
+O pedido refere-se a Sequências Biológicas
+
+Comentários/Justificativas
+
+          Quanto à declaração de acesso ao patrimônio genético nacional:
+
+                    Para cumprimento do artigo 47 da Lei nº 13.123/2015, o INPI, na RPI nº 2467,
+     de 17/04/2018, emitiu uma exigência formal (6.6.1) para a comprovação do cadastramento
+     e/ou autorização de acesso ao Patrimônio Genético Nacional e/ou Conhecimento Tradicional
+     Associado, quando pertinente, no prazo de 60 dias a contar da publicação na Revista
+     Eletrônica da Propriedade Industrial (RPI). Contudo, a depositante não apresentou resposta à
+     referida exigência.
+
+                  Seguindo o entendimento firmado pela Procuradoria Federal Especializada
+     junto ao INPI (PFE-INPI) no Parecer nº 00001/2018/PROCGAB/PFE-INPI/PGF/AGU
+     (Processo INPI nº 52400.002142/2018-30), publicado nas RPIs nº 2465 (03/04/2018), 2466
+     (10/04/2018) e 2467 (17/04/2018), ao qual foi atribuído caráter normativo na RPI nº 2485
+     de 21/08/2018, não tendo havido manifestação da depositante no prazo de 60 (sessenta) dias
+     contados a partir da publicação na RPI, o INPI determinou que o exame técnico deve ser
+     prosseguido com o entendimento de que não houve acesso ao patrimônio genético nacional
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                              Página 1
+                                               PI0918942-4
+
+
+    e/ou conhecimento tradicional associado, conforme consta no texto do despacho de código
+    6.6.1 publicado na RPI.
+
+                  Cabe ressaltar que a Lei brasileira de acesso ao patrimônio genético: Lei
+    nº 13.123/2015, estabelece no artigo 47 que "a concessão de direito de propriedade
+    intelectual pelo órgão competente sobre produto acabado ou sobre material reprodutivo
+    obtido a partir de acesso a patrimônio genético ou a conhecimento tradicional
+    associado fica condicionada ao cadastramento ou autorização, nos termos desta Lei".
+
+         A listagem de sequências foi apresentada na petição 870190129861 de 09/12/2019.
+
+                            Quadro 1  Páginas do pedido examinadas
+            Elemento                      Páginas               n.o da Petição         Data
+Relatório Descritivo                         1                  870190129861         09/12/2019
+Relatório Descritivo                      2 a 214               018110024228         28/06/2011
+Listagem de sequências em
+                                              -                          -               -
+formato impresso
+Listagem de sequências*            Código de Controle           870190129861         09/12/2019
+Quadro Reivindicatório                     1a3                  870190129861         09/12/2019
+Desenhos                                   1a3                  018110024228         28/06/2011
+Resumo                                       1                  870190129861         09/12/2019
+        *Listagem de sequências em formato eletrônico referente ao código de controle
+        797D4F2E1D18A602 (Campo 1) e 893CDDDFC3F5C723 (Campo 2).
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                               Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                          X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                  X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                          X
+O pedido está de acordo com disposto no art. 32 da LPI                           X
+Comentários/Justificativas
+
+-----
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                               Sim         Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI
+
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI
+
+Comentários/Justificativas
+       Como mencionado no parecer anterior, as reivindicações 1, 3, 4 e 5 não atendem ao
+disposto no Art. 25 da LPI e na Instrução Normativa nº 30/2013  Art. 4º (III), pois a matéria
+
+
+
+                                                                                             Página 2
+                                          PI0918942-4
+
+pleiteada não está definida de maneira clara, precisa e positiva por conter o termo compreende
+que é um termo amplo e, assim, engloba outras sequências além das reveladas no presente
+pedido. Como é amplamente sabido na técnica, a adição, substituição ou deleção de sequências
+podem alterar drasticamente sua funcionalidade e estabilidade. Com isso, o termo compreende,
+além da falta de clareza, incide no Art. 25 da LPI e na Instrução Normativa nº 30/2013  Art. 4º
+(IV), pois a matéria pleiteada não está fundamentada no relatório descritivo do pedido uma vez
+que não é possível, sem experimentação adicional e indevida, um técnico no assunto prever o
+resultado que seria obtido com a inclusão de sequências adicionais. Ainda, segundo as Diretrizes
+de exame  Bloco I: 3.49 - Os termos compreender, conter, englobar e incIuir, bem como
+seus derivados, são considerados termos abertos de definição da invenção, ou seja, no exemplo
+acima, a forma caracterizada por compreender os componentes A, B e C não se limita a apenas
+estes elementos, e pode ser aceita, desde que tais elementos sejam os essenciais para a
+realização da invenção. Logo, o relatório descritivo do presente pedido não descreve
+suficientemente a invenção de forma a possibilitar sua realização por um técnico no assunto,
+contrariando o disposto no Art. 24 da LPI.
+        O Requerente alega ter substituído o termo compreender por ter, o que apresenta o
+mesmo sentido amplo que abrange sequências não concretizadas. Sendo assim, a objeção está
+mantida.
+        Como mencionado no parecer anterior, as reivindicações 1-5 e 7 não atendem ao
+disposto no Art. 25 da LPI e na Instrução Normativa nº 30/2013  Art. 4º (IV), pois a matéria
+pleiteada não está fundamentada no relatório descritivo do pedido por pleitear SEQ ID NOs: não
+avaliadas no presente pedido em relação a um aumento de tolerância a estresse abiótico. Sendo
+assim, o relatório descritivo do presente pedido não descreve suficientemente a invenção de
+forma a possibilitar sua realização por um técnico no assunto, contrariando o disposto no Art. 24
+da LPI.
+        O Requerente alegou em resposta anterior que deficiência de nitrogênio seria um estresse
+abiótico quando não é: deficiência de nitrogênio se caracteriza como uma deficiência nutricional.
+Além disso, o Requerente alegou que os dados de tolerância de estresse a seca estariam
+representados através da correlação significativa entre seca e aumento da expressão da SEQ ID
+NO: 92. Porém, a modulação da expressão não comprova que o aumento da expressão desse
+gene causaria uma tolerância. Somente estudos funcionais podem indicar tal característica. Por
+fim, o Requerente não argumentou em relação às SEQ ID NOs: 580 e 585.
+        Em resposta ao parecer anterior, o Requerente não apresentou argumentos pertinentes
+que rebatassem os pontos previamente levantados. Portanto, as objeções estão mantidas.
+
+
+                        Quadro 4  Documentos citados no parecer
+
+ Código                              Documento                              Data de publicação
+     -     -                                                                         -
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade           Cumprimento                Reivindicações
+                                                  Sim                         1-7
+          Aplicação Industrial
+                                                  Não                          -
+                                                  Sim                         1-7
+                Novidade
+                                                  Não                          -
+
+
+                                                                                         Página 3
+                                                  PI0918942-4
+
+
+                                                         Sim                          1-7
+               Atividade Inventiva
+                                                         Não                           -
+Comentários/Justificativas
+
+       O presente quadro atende aos requisitos de patenteabilidade.
+
+
+
+Conclusão
+
+       O Requerente não cumpriu às seguintes exigências previamente apresentadas:
+
+          Retirar todas as menções a estresse abiótico nas reivindicações 1, 3, 5 e 7;
+          Substituir o termo compreendendo por consistindo nas reivindicações 1 e 3-5;
+          Eliminar as reivindicações 2, 4 e 7;
+          Alterar o título no Relatório Descritivo, Resumo e Listagem de Sequências de modo a não
+           mencionar tolerância a estresse abiótico, vigor e isolado.
+
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+       -      não apresenta suficiência descritiva (Art. 24 da LPI)
+
+       -      as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+              descritivo (Art. 25 da LPI)
+
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                       Publique-se o indeferimento (9.2).
+
+
+
+                                                                  Rio de Janeiro, 14 de janeiro de 2020.
+
+
+
+
+Amanda Mangeon Vieira Ferreira
+Pesquisador/ Mat. Nº 1711587
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+009/18
+
+
+
+
+                                                                                                Página 4
+

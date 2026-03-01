@@ -1,0 +1,140 @@
+                          SERVIÇO PÚBLICO FEDERAL
+       MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA E COMÉRCIO EXTERIOR
+               INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                              RELATÓRIO DE EXAME TÉCNICO
+
+N.° do Pedido:               PI0208569-0      N.° de Depósito PCT: EP02/02630
+Data de Depósito:            09/03/2002
+Prioridade Unionista:        DE 101 16 892.6 (04/04/2001)
+Depositante:                 Outokumpu OYJ. (FI)
+Inventor:                    Martin Hirsch, Stuart Sneyd, Lothar Formanek
+Título:                      Processo para o transporte de corpos sólidos granulares 
+
+                                           PARECER
+       Em seu manisfesto, constante na petição no 020110055698 de 30/05/2011, o requerente
+afirma apresentar um quadro reivindicatório com 6 reivindicações, sendo que o referido quadro
+reivindicatório não foi observado nos documentos anexados na petição de resposta. Por isso, o
+exame teve seu segmento com a análise do quadro reivindicatório alternativo que contém um total
+de 5 reivindicações.
+       As alterações no quadro reivindicatório envolveram modificações na reivindicação 1 (com o
+detalhamento das características do processo e a incorporação da antiga reivindicação 4), e
+ainda, na reivindicação 3 (com o detalhamento das características relativas ao bocal auxiliar).
+       Em relação ao parecer de ciência em 1o exame, propriamente dito, o requerente sustenta
+que a matéria reivindicada, com base no novo quadro reivindicatório constante na petição
+no 020110055698 de 30/05/2011, não é ensinada e nem sugerida pelos documentos D1-D3
+citados, e nesse sentido, a requerente discorda da análise que questiona a falta de atividade
+inventiva da matéria reivindicada do exame anterior.
+       Reexaminando o presente pedido, com base no novo quadro reivindicatório apresentado e
+nos documentos do estado da técnica citados no primeiro exame, a saber, as referências
+patentárias US 2978279A(D1), US 3874739A(D2) e US 4327055A(D3), e ainda, nas objeções
+levantadas pelo requerente no manifesto relativo ao parecer de ciência, algumas de
+considerações técnicas são aqui apresentadas, com base nos documentos do estado da técnica
+que mais se aproximam da matéria reivindicada, a saber, as referências D1 e D2.
+       De acordo com a matéria constante no novo quadro reivindicatório, a mesma compreende
+um PROCESSO para o transporte contínuo de CORPOS SÓLIDOS GRANULARES a partir de
+uma primeira zona com uma pressão de 4,08 a 16,32 kgf/cm 2 (4 a 16 bar) através de uma linha
+descendente e via uma linha ascendente para uma segunda zona com uma pressão inferior à da
+primeira zona de 3,06 a 15,5 kgf/cm 2 (3 a 15 bar), por meio de um meio gasoso, caracterizado por
+INTRODUZIR o meio gasoso através de um bocal direcionado para cima na linha
+ascendente no ponto onde a linha descendente se abre para a linha ascendente para transportar
+
+
+
+                                                                                      Página 1 de 3
+                                           PI0208569-0
+
+
+
+sólidos descendo pela linha descendente para cima na linha ascendente; e manter o peso dos
+sólidos na linha ascendente na faixa de 0,3 a 0,8 vezes o peso em volume dos sólidos.
+       Em relação à referência D2, os questionamentos do requerente para a análise do requisito
+atividade inventiva são silenciosos, pois o mesmo apenas atesta, no seu entendimento, que a
+referência D2 tampouco acrescenta qualquer elemento que antecipe ou torne óbvia a matéria do
+novo quadro reivindicatório em análise.
+       Por sua vez o documento D2 além de descrever um dispositivo simples e similar ao
+empregado no processo em análise (figuras 2 e 4), tal como um bocal equivalente e constante
+na figura 2 do presente pedido, para atuar no transporte contínuo de sólidos granulares por
+influxo de um meio gasoso (vapor) direcionado ascendentemente, a referência D2 também
+cita como característica técnica o fato da taxa de vapor introduzida no bocal compreender um
+valor entre (0,5-2,0) lb vapor/lb sólido (carvão) (coluna 3, linhas 30-34), o que implicitamente
+indica a manutenção dos sólidos em suspensão em condições equivalentes as descritas na
+reivindicação 1 do novo quadro reivindicatório.
+       O requerente concorda que o documento D1 revela um processo para transporte
+pneumático de sólidos granulares a partir de um primeiro para um segundo nível mais elevado,
+suspendendo os sólidos granulares em um gás de transporte adequado e passando-os
+verticalmente para cima como um fluxo confinado através de uma tubulação de elevação 10, 60.
+       O mesmo questiona que o processo descrito pela referência D1 apresenta uma uma etapa
+de despressurização que ocorre no separador 45, localizado entre o reator 42 e o forno 50 (fig. 2,
+coluna 6, linha 72 até coluna 7, linha 7). Nesse sentido, o requerente alega que a pressão dentro
+da referida linha descendente já é a pressão atmosférica, e por razão da despressurização no
+separador, o método de D1, em seu entendimento, difere da matéria reivindicada. Por essas e
+outras particularidades descritas pelas diferentes seções 11, 11', 11'' do tubo elevador 10, o
+requerente alega que o método de D1 requer um equipamento complexo e comparativamente
+caro, cujo funcionamento é tão crítico quanto complicado.
+       No entanto, a mesma solução introduzida pela injeção de um meio gasoso para
+proporcionar o transporte dos corpos sólidos ascendentemente, é também verificada em D1
+(transferência de sólidos da linha descendente 57 para ascendente 60), tal como reivindicado pelo
+presente pedido.
+       Nesse sentido, a tecnologia descrita em D1 também se relaciona à solução do mesmo
+problema do estado da técnica apontado no presente pedido, isto é, a diminuição dos problemas
+de atrito nas imediações da conexão entre o tubo descendente e o tubo ascendente (vide colunas
+2, linhas 40-44 e coluna 3, linhas 49-74). Além disso, em D1 se apresenta a motivação para um
+técnico no assunto empregar uma zona 1 com pressão superior à zona 2 no trecho referente à
+(coluna 6, linhas 44-60), que afirma que a pressão do reator pode ser superior à pressão do
+separador.
+
+       Cabe resaltar que em nenhum momento foi questionado aspectos relativos a falta de
+novidade da matéria reivindicada ao longo do presente exame. Com base nos ensinamentos
+indicados e sugeridos pelas referências D1-D2 combinadas, um processo para o transporte
+
+
+                                                                                    Página 2 de 3
+                                           PI0208569-0
+
+
+
+contínuo de corpos sólidos granulados de uma linha descendente para uma linha ascendente
+com o auxílio de um dispositivo para prover influxo de um meio gasoso para transportar
+ascendentemente um material sólido teria em D1-D2 um direcionamento para alcancar a mesma
+solução técnica aqui reivindicada.
+
+       Portanto, o presente pedido, de acordo com os ensinamentos descritos nas referências
+D1-D2 aqui citadas NÃO apresenta ATIVIDADE INVENTIVA, pois a matéria das reivindicações 1-
+6 não está de acordo com o disposto dos Artigos 8o e 13 da LPI.
+
+      Assim sendo, de acordo com o Art. 37, opino pelo indeferimento do presente pedido, uma
+vez que:
+
+      -    não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+
+Flávio dos Reis Gonçalves
+Pesquisador/ Mat. Nº 1550074
+DIRPA / CGPAT III/DIPEQ
+
+
+
+
+                                     De acordo com o parecer acima, INDEFIRO o presente pedido.
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 8 de novembro de 2011.
+
+
+
+Victor Sérgio de Freitas Dias Moreira
+Chefe de Divisão/ Mat. Nº 1550744
+DIRPA / CGPAT III/DIPEQ
+Del. Comp. - Port. INPI/PR Nº003/11
+
+
+
+
+                                                                                      Página 3 de 3
+

@@ -1,0 +1,349 @@
+                              SERVIÇO PÚBLICO FEDERAL
+                               MINISTÉRIO DA ECONOMIA
+                   INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+N.° do Pedido:              BR102016015976-8         N.° de Depósito PCT:
+
+                        Publicação Nacional:   Publicação Internacional: US2017114524
+                        02/05/2017 (RPI 2417) (A1  27/04/2017)
+Data de Depósito (PCT): 08/07/2016
+Prioridade Unionista:   US 14/920553 (22/10/2015)
+Depositante:            DEERE & COMPANY (US)
+Inventor(es):           GIOVANNI A. WUISAN (US), NATHAN J. HORSTMAN (US),
+                        STEPHEN E. BONNEAU (US), RONALD J. HUBER (US), JED D.
+                        POLZIN (US), RICHARD A. VALENZUELA (US)
+Título:                 Arranjo de controle de operador para um veículo de trabalho, e,
+                        motoniveladora..
+
+                                PARECER DE EXAME TÉCNICO
+
+
+
+       O presente pedido de Patente de Invenção (PI), refere-se a um arranjo de controle de
+operador que tem primeiro e segundo controles de operador com pluralidades dos primeiros e
+segundos controles configurados para prover entradas para pelo menos um controlador para
+controlar respectivos primeiro e segundo conjuntos de operações de posicionamento de
+máquina e componentes de posicionamento de implemento.
+
+
+
+       Para realização industrial do reivindicado como inventivo no presente pedido de PI, o
+primeiro e segundo conjuntos de operações incluem pluralidades de posicionamento de máquina
+e operações de posicionamento de implemento. As pluralidades de primeiros controles e/ou
+entradas são enumeradas dentro de cinquenta por cento das pluralidades de segundos
+controles e/ou entradas, respectivamente.
+
+
+
+       Em 14/12/2021, foi publicada através da RPI Nº 2658, notificação de emissão de parecer
+técnico relativo ao pedido de Patente de Invenção (PI), referente a Ciência de Parecer (7.1),
+decorrendo a partir daquela data o prazo de 90 (noventa) dias para manifestação da Requerente
+quanto ao contido no citado parecer técnico.
+
+
+
+       Em    08/07/2016    e   14/10/2020,     através   das   Petições   870160034785/RJ      e
+870200129386/RJ, a Requerente apresenta os documentos listados no Quadro 1, a seguir, e
+
+
+
+
+                                                                                                    1
+                                          BR102016015976-8
+
+
+solicita alteração do título do presente pedido para: ARRANJO DE CONTROLE DE
+OPERADOR PARA UM VEÍCULO DE TRABALHO..
+
+                            Quadro 1  Páginas do pedido examinadas
+            Elemento                     Páginas               N.o da Petição           Data
+
+Relatório Descritivo (RD): com        06/80  61/80           870200129386/RJ         14/10/2020
+56 (Cinquenta e seis) folhas,
+numerada como 01/56 
+56/56.
+Quadro Reivindicatório (QR):          62/80  68/80           870200129386/RJ         14/10/2020
+com      07   (Sete)  folhas,
+apresentando 15 (Quinte)
+reivindicações.
+Desenhos (D´s): com 10 (Dez) 144/153  153/153                870160034785/RJ         08/07/2016
+folhas,    apresentando     17
+(Dezessete)            figuras,
+numeradas de: Fig. 01  Fig.
+03; Fig. 04A  Fig. 04B; Fig.
+05A  Fig. 05B; Fig. 06; Fig.
+07A  Fig. 07B; Fig. 08  Fig.
+10; Fig. 11A  Fig. 11C; e Fig.
+12.
+Resumo (R): com 01 (Uma)                  69/80               870200129386/RJ         14/10/2020
+folha.
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                  Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                        X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                          X
+O pedido está de acordo com disposto no art. 32 da LPI                           X
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                  Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI             X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI           X
+Comentários/Justificativas
+
+
+
+
+                                                                                                   2
+                                       BR102016015976-8
+
+        Em pesquisas realizadas em bases de dados de documentos de (e pedidos de) patentes e
+em literatura não patentaria, de acordo com os critérios publicados em 21/07/2020, através da
+RPI 2585, foi encontrado o seguinte documento capaz de indicar arranjos técnicos funcionais
+semelhantes aos pleiteados no QR do presente pedido:
+                         Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                            Data de publicação
+(Relevân
+  cia)
+   D10          US2006144634 (A1) (           CATERPILLAR INC [US])             06/07/2006
+Comentários/Justificativas
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15, da LPI)
+     Requisito de Patenteabilidade             Cumprimento             Reivindicações
+                                                    Sim                     01  15
+           Aplicação Industrial
+                                                    Não                        
+
+                                                    Sim                     01  15
+                Novidade
+                                                    Não                        
+
+                                                    Sim                        
+           Atividade Inventiva
+                                                    Não                     01  15
+
+Comentários/Justificativas
+
+
+
+       A análise do QR do presente pedido, apresentado em 14/10/2020, através da Petição
+870200129386/RJ, e mais especificamente sua Reivindicação Independente do Presente
+Pedido (RI**pp´s), que é a RI01pp (Arranjo ), quando confrontada com o documento D10,
+constatamos, via Parecer Técnico de primeiro exame, publicado em 14/12/2021, através da RPI
+2658, que tanto a parte não caracterizante do pedido sob exame, quanto a parte caracterizante,
+encontravam-se contempladas naquele documento, como vimos a seguir.
+
+       Através da Reivindicação Independente 01 (RI01pp), do presente pedido, a
+Requerente reivindica:
+
+       RI01pp (Arranjo de controle de operador (52) para um veículo de trabalho (20), o veículo
+de trabalho (20) tendo componentes de posicionamento de máquina e pelo menos um
+implemento móvel com relação ao veículo por componentes de posicionamento de implemento,
+os componentes de posicionamento de máquina (28, 38) e os componentes de posicionamento
+de implemento (32, 34a, 34b, 40) sendo controlados por pelo menos um controlador (56) a bordo
+do veículo de trabalho (20), o arranjo de controle de operador (52))
+       caracterizado pelo fato de compreender:
+       ETAPA01: um primeiro controle de operador (54a) tendo uma pluralidade de primeiros
+controles (70a, 72a, 74a, 76a, 78a, 80a, 82a, 84a, 86a, 88a, 90a, 92a, 94a, 96a) configurados
+
+
+                                                                                                  3
+                                               BR102016015976-8
+
+
+para prover um primeiro conjunto de entradas para o pelo menos um controlador (56) para
+controlar um primeiro conjunto de operações dos componentes de posicionamento de máquina
+(28, 38) e dos componentes de posicionamento de implemento (32, 34a, 34b, 40), em que o
+primeiro conjunto de operações inclui uma pluralidade de primeiras operações de
+posicionamento de máquina e uma pluralidade de primeiras operações de posicionamento de
+implemento; e
+        ETAPA02: um segundo controle de operador (54b) tendo uma pluralidade de segundos
+controles (70b, 72b, 74b, 76b, 78b, 80b, 82b 84b, 86b, 88b, 90b, 92b, 94b, 96b) configurados
+para prover um segundo conjunto de entradas para o pelo menos um controlador (56) para
+controlar um segundo conjunto de operações dos componentes de posicionamento de máquina
+(28, 38) e dos componentes de posicionamento de implemento (32, 34a, 34b, 40), em que o
+segundo conjunto de operações inclui uma pluralidade de segundas operações de
+posicionamento de máquina e uma pluralidade de segundas operações de posicionamento de
+implemento;
+        ETAPA03: em que pelo menos um da pluralidade de primeiros controles (70a, 72a, 74a,
+76a, 78a, 80a, 82a, 84a, 86a, 88a, 90a, 92a, 94a, 96a) e da pluralidade de primeiras entradas é
+enumerado dentro de cinquenta por cento da pluralidade de segundos controles (70b, 72b, 74b,
+76b, 78b, 80b, 82b, 84b, 86b, 88b, 90b, 92b, 94b, 96b) e da pluralidade de segunda entradas,
+respectivamente.
+
+
+       No que se refere a sua manifestação, de 07/03/2022, através da Petição
+870220019315/RJ, a Requerente entende que o documento D10, não contempla o reivindicado no
+presente pedido, pois:
+         4. A reivindicação 1 do presente pedido se refere a um arranjo de controle de operador que compreende:
+        um primeiro controle de operador (54a) tendo uma pluralidade de primeiros controles (70a, 72a, 74a, 76a, 78a,
+80a, 82a, 84a, 86a, 88a, 90a, 92a, 94a, 96a) configurados para prover um primeiro conjunto de entradas para o pelo
+menos um controlador (56) para controlar um primeiro conjunto de operações dos componentes de posicionamento de
+máquina (28, 38) e dos componentes de posicionamento de implemento (32, 34a, 34b, 40), em que o primeiro conjunto
+de operações inclui uma pluralidade de primeiras operações de posicionamento de máquina e uma pluralidade de
+primeiras operações de posicionamento de implemento; e
+        um segundo controle de operador (54b) tendo uma pluralidade de segundos controles (70b, 72b, 74b, 76b,
+78b, 80b, 82b 84b, 86b, 88b, 90b, 92b, 94b, 96b) configurados para prover um segundo conjunto de entradas para o
+pelo menos um controlador (56) para controlar um segundo conjunto de operações dos componentes de
+posicionamento de máquina (28, 38) e dos componentes de posicionamento de implemento (32, 34a, 34b, 40), em que
+o segundo conjunto de operações inclui uma pluralidade de segundas operações de posicionamento de máquina e uma
+pluralidade de segundas operações de posicionamento de implemento; em que pelo menos um da pluralidade de
+primeiros controles (70a, 72a, 74a, 76a, 78a, 80a, 82a, 84a, 86a, 88a, 90a, 92a, 94a, 96a) e da pluralidade de primeiras
+entradas é enumerado dentro de cinquenta por cento da pluralidade de segundos controles (70b, 72b, 74b, 76b, 78b,
+80b, 82b, 84b, 86b, 88b, 90b, 92b, 94b, 96b) e da pluralidade de segunda entradas, respectivamente.
+        5. Como tal, a reivindicação 1 inclui primeiro e segundo (ou direito e esquerdo) controles, cada um dos quais é
+configurado para receber entradas correspondentes a operações de posicionamento de máquina e operações de
+posicionamento de implemento. Em outras palavras, os controles para o implemento e os controles para a máquina são
+distribuídos em cada lado do arranjo de controle de operador.
+        6. Isso é contrário aos ensinamentos de D10. Como o presente pedido, D10 é direcionado para uma estação
+de controle de operador. No entanto, D10 especifica: os controles de implementação 42 são preferencialmente fixados
+
+
+
+                                                                                                                       4
+                                                 BR102016015976-8
+
+ao apoio de braço 23 em um primeiro lado do conjunto de assento 15 e os controles de acionamento 43
+preferencialmente são fixados ao apoio de braço 24 em um segundo lado do conjunto de assento 15 (D10: parágrafo
+[0022]). Assim, D10 divulga um sistema convencional em que os controles da máquina (ou acionamento) estão de um
+lado e os controles do implemento estão do outro lado. D10 afirma especificamente que "deve ser apreciado que, para
+fins de uniformidade dentro e entre as linhas de produtos, a colocação dos controles de implementação 42 e os
+controles de acionamento 43 de preferência permanecem consistentes" (D10: parágrafo [0022]).
+          7. Portanto, a reivindicação 1 se diferencia de D10.
+          8. O presente pedido, conforme expresso pela reivindicação 1, enfatiza a importância de distribuir funções
+entre o primeiro e o segundo controles de operador. Por exemplo, o parágrafo [0018] do presente pedido declara o
+seguinte: Em certas modalidades, o arranjo de controle de operador descrito inclui um conjunto de controle que é
+geralmente equilibrado ou uniformemente distribuído através dos controles de operador esquerdo e direito (por
+exemplo, alavancas de comando esquerda e direita). A este respeito, um conjunto de controle distribuído ou
+equilibrado pode significar que o local físico dos interruptores de controle é mais ou menos uniformemente distribuído
+entre os controles de operador esquerdo e direito. No caso de controles do operador de alavanca de comando, a
+orientação e número de movimentos da alavanca de comando para cada controle de operador podem ser os mesmos,
+tal como cada um sendo configurado para rotação em torno dos eixos geométricos X e Y. Desta maneira, cada uma das
+mãos do operador será responsável por, e manipulará, os mesmos ou um número similar de interruptores e fará o
+mesmo ou similar número de movimentos da alavanca de comando durante a operação da máquina. O arranjo de
+controle de operador descrito leva o conceito de um arranjo de controle equilibrado para além de ter uma contagem de
+interruptores similar, ou até mesmo a mesma, em cada controle de operador para levar também em consideração o
+conjunto de operações efetuadas pelo conjunto de controle de cada controle de operador. Por exemplo, certas
+operações podem ser realizadas mais frequentemente, requerer mais tempo para realizar, ou requerer diferentes gestos
+da mão quando em comparação com outras operações. Por distribuição do conjunto de controle através de ambos os
+controles de operador, e assim ambas as mãos, enquanto leva em conta tanto a quantidade dos interruptores e
+movimentos da alavanca de comando quanto a quantidade e tipos de operações sendo realizadas, a probabilidade de
+sobrecarregamento de uma mão pode ser significantemente reduzida, ou até mesmo evitada.
+          9. Vantagens adicionais são descritas no parágrafo [0019] (em relação à fadiga reduzida do operador e
+capacidade de realizar sequências funcionais agrupadas), parágrafo [0020] (em relação à
+consideração dos tempos de ciclo do operador), parágrafo [0021] (em relação a melhorias de precisão e exatidão),
+parágrafo [0029] (relativo à distribuição da operação entre as mãos, reduzindo a sobrecarga e a fadiga), e assim por
+diante.
+          10. Várias das reivindicações dependentes também definem ainda mais a natureza da distribuição de controle.
+Por exemplo, a reivindicação 2 relata que os controles de posicionamento da máquina no primeiro número de controle
+do operador estão dentro de 50% dos controles de posicionamento da máquina no segundo controle do operador (ou
+seja, os controles da máquina são distribuídos aproximadamente uniformemente). A reivindicação 3 relata que os
+controles de posicionamento do implemento no primeiro número de controle do operador estão dentro de 50% dos
+controles de posicionamento do implemento no segundo controle do operador (ou seja, os controles do implemento são
+distribuídos aproximadamente uniformemente). A reivindicação 4 relata um refinamento adicional em relação à
+proporção de controles máquina para implemento. A reivindicação 5 relata que cada controle do operador inclui pelo
+menos três operações de posicionamento da máquina e pelo menos três operações de posicionamento do implemento.
+As reivindicações 6 a 15 definem limitações adicionais sobre relações entre o arranjo de controle, a máquina e os
+implementos. O documento D10 não revela ou sugere qualquer um desses recursos específicos.
+          11. Por fim, a Requerente destaca que alterações adicionais nas reivindicações não são necessárias uma vez
+que restringiriam inadequadamente e sobremaneira o escopo de proteção ora reivindicado.. 
+
+
+
+          Ainda na sua manifestação, de 07/03/2022, através da Petição 870220019315/RJ, a
+Requerente EVOCA o mesmo QR, de 14/10/2020, através da Petição 870200129386/RJ, com a
+mesma RI01pp (Arranjo ), e com as mesmas ETAPA01 a ETAPA03.
+
+
+                                                                                                                       5
+                                     BR102016015976-8
+
+
+
+        Face ao disposto acima, e às argumentações da Requerente de 07/03/2022, através da
+Petição 870220019315/RJ, voltamos a sustentar QUE o documento de anterioridade (D10)
+(US2006144634 (A1) (CATERPILLAR INC [US])), ensina tanto através da sua Reivindicação
+Independente (RI) 43 (máquina de trabalho), aqui chamada de RI43_D10, juntamente com
+suas respectivas     Reivindicações Dependentes (Rdp´s): RDp44_D10 a RDp46_D10,
+quanto através do seu relatório descritivo, e mais especificamente à Página 07/12, Coluna 02,
+Parágrafo [0018]  Página 08/12, Coluna 01, Parágrafo [0020], de D10, referentes à Figs. 02,
+de D10, incluindo na sua RI43_D10, uma máquina de trabalho que se refere uma estação de
+operador montada em um corpo de máquina de trabalho e incluindo um conjunto de assento
+tendo controles de acionamento e um primeiro módulo de controle eletrônico anexado ao
+mesmo, contemplando a ETAPA01, da RI01pp. Em adição, a RI43_D10, possui um segundo
+módulo de controle eletrônico montado no corpo da máquina de trabalho, contemplando a
+ETAPA02, da RI01pp, e de acordo com a RDp44_D10, incluindo controles de implemento
+montados no conjunto do assento em comunicação com o primeiro módulo de controle
+eletrônico, estando em comunicação com o primeiro módulo de controle eletrônico, que de
+acordo com a RDp45_D10, inclui uma conexão de enlace de dados que se estende entre o
+primeiro módulo de controle eletrônico e o segundo módulo de controle eletrônico,
+incluindo, de acordo com a RDp46_D10, um par de joysticks montados em lados opostos do
+conjunto do assento e estando em comunicação com o primeiro módulo de controle
+eletrônico, contemplando a ETAPA03, da RI01pp.
+
+        Tal reafirmação se sustenta dado que o documento de anterioridade D10, à Página 07/12,
+Coluna 02, Parágrafo [0018]  Página 08/12, Coluna 01, Parágrafo [0020], de D10, temos as
+descrições referentes à Fig. 02, de D10. Na Fig. 02, de D10, temos uma vista lateral da estação
+de controle do operador intercambiável fixada a uma das máquinas de trabalho, mostrando os
+controles manuais (elemento 22), descritos no parágrafo anterior, referindo-se ao conjunto de
+reivindicações RI43_D10, juntamente com suas RDp44_D10 a RDp46_D10, contemplando as
+ETAPA01 a ETAPA03, da RI01pp.
+
+
+      Desta forma, a matéria reivindicada através da reivindicação independente RI01pp, do
+presente pedido, encontram-se totalmente absorvida por D10.
+
+
+
+      Quanto às demais reivindicações, as mesmas também não são válidas por serem
+dependentes das reivindicações independentes contestadas acima
+
+
+
+Conclusão
+       Sendo assim, face ao exposto, considerando o QR da forma apresentada, somos de
+opinião que o presente pedido carece de atividade inventiva por ser mera decorrência do estado
+da técnica, representado por D10, não possuindo, pois, condições de patenteabilidade.
+
+
+       Face às conclusões a que se chegou o Exame Técnico, de acordo com o Art. 37, baseado
+no Art. 8º, combinado com o Art. 13, da LPI, INDEFIRO o presente pedido como PATENTE DE
+INVENÇÃO.
+
+
+                                                                                              6
+                                     BR102016015976-8
+
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                              Publique-se o indeferimento (9.2)
+
+
+                                                         Rio de Janeiro, 28 de Março de 2022.
+
+
+                                  Edson Ferreira Suisso
+                   Pesquisador em Propriedade Industrial / Mat. Nº 1548985
+                         Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+                           DIRPA / CGPAT III / DIPAT XV (DIPEQ)
+
+
+
+
+                                                                                              7
+

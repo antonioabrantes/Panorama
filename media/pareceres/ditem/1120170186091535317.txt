@@ -1,0 +1,151 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112017018609-8        N.° de Depósito PCT:JP2015/001137
+ Data de Depósito:                   04/03/2015
+ Prioridade Unionista:               -
+ Depositante:                        SHIBAKAI CO., LTD. (JP)
+ Inventor:                           MANABU ARAKI, TORU ARAKI
+ Título:                             Método de movimentação de carga 
+
+                                                                PARECER
+
+
+          Em 22/06/2020, por meio da petição 870200077466, o Depositante apresentou
+modificações no pedido em resposta ao parecer notificado na RPI 2568 de 24/03/2020 segundo
+a exigência preliminar (6.21).
+
+          No parecer técnico publicado na RPI n° 2643 de 31/08/2021 foi emitida uma ciência de
+parecer (7.1) por entender que levando em consideração os elementos presentes em D1
+(WO0236423), a matéria do pedido em análise não apresentava atividade inventiva (Art. 8
+combinado com Art. 13 da Lei da Propriedade Industrial, n.º 9279, de 14/05/1996), não sendo
+passível de proteção.
+
+          O depositante apresentou manifestação ao parecer técnico por meio da petição n°
+870210107634, de 22/11/2021, na qual apresentou esclarecimentos e novas vias do Quadro
+Reivindicatório.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                    1 a 18               870170063946     30/08/2017
+Quadro Reivindicatório                                   1a3                 870210107634     22/11/2021
+Desenhos                                                 1a6                 870170063946     30/08/2017
+Resumo                                                      1                870170063946     30/08/2017
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                           BR112017018609-8
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                            Sim             Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                         x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                 x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                     x
+O pedido está de acordo com disposto no art. 32 da LPI                      x
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                            Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI        x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI      x
+Comentários/Justificativas
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                              Data de publicação
+    D1                                   WO0236423                                   10/05/2002
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento             Reivindicações
+                                                         Sim                       1a8
+            Aplicação Industrial
+                                                         Não                       ----
+                                                         Sim                       1a8
+                 Novidade
+                                                         Não                       ----
+                                                         Sim                       ----
+            Atividade Inventiva
+                                                         Não                       1a8
+Comentários/Justificativas
+
+         O documento D1 revela um método de movimentação de carga de um contêiner (5)
+transportado pelo navio porta-contêiner, em que o contêiner (5) é colocado na plataforma com
+rodas do contêiner de carga (50) e movimentação de uma plataforma com rodas do contêiner
+(50) em um cais (500) (ver página 3, linha 20 a página 8, linha 12; e Figura 1).
+
+         A requerente argumenta que o navio 10 em D1 não é uma embarcação
+porta-contêineres (mais leve  barcaça no presente pedido), mas um navio porta-contêineres.
+No entanto, entende-se que decorreria de maneira evidente ou óbvia para um técnico no
+
+
+
+                                                                                            Página 2
+                                        BR112017018609-8
+
+assunto extrapolar o método de movimentação de carga de uma embarcação mais robusta para
+uma mais leve.
+
+       A requerente argumenta ainda que o documento D1 não revela as etapas de fabricar um
+contêiner (401) cheio de carga a granel transportado por um navio (301) em um cais em que
+uma grua de contêiner (101) está instalada, ou um contêiner transportado pelo navio em um cais
+em que uma grua de contêiner (101) está instalada em um estado em que o contêiner é
+colocado na plataforma com rodas do contêiner de carga (501) que é carregado na barcaça
+(601) e "movimentação de uma barcaça (601) para uma doca diferente. No entanto, ao revelar
+a movimentação de um contêiner de um navio porta-contêiner para uma plataforma com rodas
+através de um dispositivo de elevação e a movimentação de uma plataforma com rodas do
+contêiner em um cais, o documento D1 sugere que a mesma movimentação pode ser feita com
+o objetivo de alocar uma plataforma com rodas do contêiner em uma embarcação e na
+sequência dirigir essa embarcação para outro local.
+
+       Dessa forma, reiteramos o exposto no parecer anterior que, a reivindicação independente
+1 não atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13º da LPI), pois
+decorreria de maneira evidente ou óbvia para um técnico no assunto a partir dos
+conhecimentos revelados no documento D1.
+
+       Nas reivindicações dependentes 2 a 8 não foram identificadas características que,
+mesmo quando combinadas com as características da reivindicação independente a que se
+referem, venham a prover atividade inventiva à matéria.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+                                                            Rio de Janeiro, 3 de fevereiro de 2022.
+
+
+
+
+Michelle Izolina Lopes de Souza
+Pesquisador/ Mat. Nº 2317577
+DIRPA / CGPAT IV/DITEM
+Deleg. Comp. - Port. INPI/DIRPA Nº
+006/18
+
+
+
+                                                                                          Página 3
+

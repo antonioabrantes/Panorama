@@ -1,0 +1,275 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0918690-5               N.° de Depósito PCT:US2009/062932
+ Data de Depósito:                   02/11/2009
+ Prioridade Unionista:               US 61/141,940 (31/12/2008)
+ Depositante:                        E.I. DU PONT DE NEMOURS AND COMPANY (US)
+ Inventor:                           KARLHEINZ HAUSMANN, CHARLES ANTHONY SMITH, RICHARD
+                                     ALLEN HAYES, STEVEN C. PESEK, W. ALEXANDER SHAFFER
+ Título:                             Composição e artigo preparado com moldagem por injeção 
+
+                                                                PARECER
+
+
+          Em resposta ao parecer técnico de 28/03/2019, notificado pela publicação na RPI n°
+2518 de 09/04/2019, a requerente apresentou na petição 870190063384, de 08/07/2019 ,
+manifestação onde anexou um novo quadro reivindicatório (09 reivindicações) além de novas
+vias do relatório descritivo e do resumo.
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 30               870190063384           08/07/2019
+Quadro Reivindicatório                                   1a3                 870190063384           08/07/2019
+Desenhos                                                    -                       -                   -
+Resumo                                                      1                870190063384           08/07/2019
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                         x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                 x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas--
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                  Página 1
+                                               PI0918690-5
+
+
+                Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI       x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                    x
+Comentários/Justificativas
+
+
+         O quadro reivindicatório não é claro e preciso de acordo com o seguinte:
+
+            a nova reivindicação 1 refere-se a 1. COMPOSIÇÃO, caracterizada por compreender
+             um ionômero misto de sódio/zinco, em que dito ionômero misto de sódio/zinco é o
+             produto de neutralização de um copolímero ácido precursor; e ainda em que: (a) o
+             copolímero ácido precursor compreende unidades copolimerizadas de etileno de 20 a
+             30%, em peso, de unidades copolimerizadas de um ácido carboxílico -
+             etilenicamente insaturado selecionado a partir do grupo que consiste em ácido acrílico
+             e ácido metacrílico, com base no peso total do copolímero ácido precursor; em que o
+             copolímero ácido precursor possui uma taxa de fluidez de 10 a 4000 g/10 min,
+             como determinada de acordo com ASTM D1238 a 190 °C e 2,16 kg; e em que dito
+             copolímero ácido precursor, quando neutralizado em um nível de 40% a 90%, com
+             base no número total dos grupos de ácido carboxílico presentes no copolímero ácido
+             precursor, produz um ionômero de sódio, dito ionômero de sódio compreendendo
+             grupos carboxilato e contra-íons que consistem essencialmente em íons de sódio, em
+             que dito ionômero de sódio possui uma taxa de fluidez de 0,7 a 25 g/10 min e
+             possui uma entalpia de congelamento que não é detectável ou que é menor do
+             que 3,0 J/g, quando determinada por calorimetria diferencial de varredura de acordo
+             com ASTM D3418; e (b) dito ionômero misto de sódio/zinco compreende grupos
+             carboxilato e uma combinação de contra-íons; dita combinação de contra-íons
+             consistindo essencialmente em 1% a 99% de equivalentes de cátions de sódio, e, de
+             99% a 1% de equivalentes de cátions de zinco, com base no número total de
+             equivalentes de grupos carboxilato no ionômero misto de sódio/zinco.
+
+            segundo a depositante A respeito da influência do copolímero ácido precursor nas
+             propriedades do ionômero final, a Depositante esclarece que a 'taxa de fluidez'
+             é uma característica técnica do copolímero ácido precursor utilizada para definir
+             o mesmo e, consequentemente, o ionômero obtido a partir deste. No entanto, não está
+             claro a necessidade da utilização de um copolímero ácido precursor que apresente
+             especificamente tal taxa de fluidez (10 a 4000 g/10 min) e nem como tal taxa
+             específica interfere nas propriedades do ionômero final.
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                   US4990574                                  05/02/1991
+
+    D2                     POLYMER, vol. 46, Nº 1, p. 261 - 266                     06/01/2005
+
+    D3                                 US2007092706                                 26/04/2007
+
+    D4                                 US2008097047                                 24/04/2008
+
+
+
+
+                                                                                          Página 2
+                                         PI0918690-5
+
+
+
+   Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade           Cumprimento                Reivindicações
+                                                  Sim                         1a9
+          Aplicação Industrial
+                                                  Não
+                                                  Sim
+               Novidade
+                                                  Não                         1a9
+
+                                                  Sim
+          Atividade Inventiva
+                                                  Não                         1a9
+Comentários/Justificativas
+
+
+
+      As argumentações da depositante assim como as modificações realizadas no pedido em
+exame não foram consideradas pertinentes de acordo com o seguinte:
+
+
+         Segundo a depositante, De acordo com o relatório descritivo do presente pedido (par.
+          [0038]), o copolímero ácido precursor é sintetizado sob "condições de fase única", o
+          que é suportado pelos exemplos (tabela 2, col. 2) referindo-se as condições de fase
+          única em combinação com a descrição experimental (pág. 22) acerca dos exemplos
+          inventivos preparados substancialmente de modo similar aos exemplos comparativos
+          da Tabela 2. A partir da comparação entre o Exemplo Comparativo CE3, prepara sob
+          condições de fase única (presente invenção), com o Exemplo Comparativo CE16, que
+          não foi preparado sob condições de fase única (estado da técnica), verifica-se que as
+          diferenças na entalpia de cristalização e na opacidade são significantes e atribuídas ao
+          método de preparação e a estrutura do copolímero, ao invés da composição
+          polimérica, peso molecular, ou nível de neutralização. No entanto, como dito
+          anteriormente, não está claro e preciso, a partir dos exemplos apresentados, como os
+          exemplos CE1-19 foram obtidos. A passagem da página 22, [0062], descreve um
+          método de preparação que parece se aplicar a todos os exemplos. Contudo, o método
+          de preparação dos Exemplos CE1-CE3 parece ser diferente de CE4-CE19
+          ("copolímeros precursores da arte anterior", página 23, [0063]). Como os exemplos
+          CE20 a CE24 são preparados da mesma maneira como CE1 a CE19 e os Exemplos
+          E1-E7 relativos a invenção são obtidos de CE21, CE22 e CE24, não é possível
+          entender como esses exemplos foram obtidos (página 27, [0069] do relatório
+          descritivo). Logo, não é evidenciado nenhuma comparação significativa entre
+          exemplos da invenção e do estado da técnica.
+
+
+         Cabe ressaltar que na reivindicação principal não é evidenciado o método de
+          preparação do copolímero; fator que segundo a depositante é significante nas
+          diferenças na entalpia de cristalização e na opacidade da composição pleiteada.
+          Ressalta-se ainda que no relatório descritivo [0038] afirma-se que Em geral, para
+          obter os ionômeros mistos de sódio/zinco descritos neste documento, durante a reação
+          de polimerização, os conteúdos do reator devem ser mantidos sob condições tais que
+          uma única fase esteja substancialmente presente por todo o reator. Isto pode ser
+          executado ao ajustar a temperatura do reator, ao ajustar a pressão do reator, ao
+          adicionar cossolventes, ou por qualquer combinação destas técnicas, como descrito
+
+
+                                                                                         Página 3
+                                           PI0918690-5
+
+           na... condições monofásicas e multifásicas. Entretanto, as condições tais que uma
+           única fase esteja substancialmente presente por todo o reator...executado ao ajustar a
+           temperatura do reator, ao ajustar a pressão do reator, ao adicionar cossolventes, ou
+           por qualquer combinação destas técnicas não são evidenciadas na reivindicação 1
+           principal de modo a garantir que uma única fase esteja substancialmente presente por
+           todo o reator. Ressalta-se ainda que o requerente afirma que A partir da comparação
+           entre o Exemplo Comparativo CE3, prepara sob condições de fase única (presente
+           invenção), com o Exemplo Comparativo CE16, que não foi preparado sob condições
+           de fase única (estado da técnica), verifica-se que as diferenças na entalpia de
+           cristalização e na opacidade são significantes e atribuídas ao método de preparação e
+           a estrutura do copolímero, ao invés da composição polimérica, peso molecular, ou
+           nível de neutralização. Assim, mais uma vez ratifica-se a imprecisão associada a
+           reivindicação 1 principal visto que não cita o método de preparação do copolímero (que
+           segundo o requerente é essencial) mas cita o nível de neutralização (que não é
+           significante) para as diferenças na entalpia de cristalização e na opacidade. Observa-
+           se ainda que, embora seja dito na reivindicação 1 nível de 40% a 90% de
+           neutralização, nas tabelas , considerando os exemplos associados a invenção, os
+           níveis de neutralização são evidenciados em níveis mais estreitos tais como 40-53.
+
+
+        Quanto as anterioridades D1-D4 a depositante esclarece que nenhum dos documentos
+de anterioridade D1 a D4 descreve, ou mesmo sugere, um copolímero ácido precursor como o
+reivindicado, i.e., caracterizado por uma inatingível aleatoriedade da distribuição do comonômero
+na cadeia do copolímero. No entanto, não está claro na reivindicação 1 principal que o
+copolímero ácido precursor é caracterizado por uma inatingível aleatoriedade da distribuição do
+comonômero na cadeia do copolímero. Cabe ressaltar que a depositante afirma que nenhum dos
+documentos de anterioridade se refere a um copolímero ácido precursor obtido por um
+processo de uma única fase e possuindo uma alta aleatoriedade e, consequentemente, uma
+baixa entalpia de congelamento e taxa de fluidez (Melting Flow Rate - MFR), como definido no
+quadro reivindicatório ora pleiteado. Entretanto, considerando o que foi dito na reivindicação 1, o
+copolímero ácido precursor possui uma taxa de fluidez de 10 a 4000 g/10 min e o dito
+ionômero de sódio é que possui uma taxa de fluidez de 0,7 a 25 g/10 min e possui uma
+entalpia de congelamento que não é detectável ou que é menor do que 3,0 J/g.
+
+       Observa-se ainda que segundo a depositante, O efeito benéfico de utilizar uma
+combinação de zinco e sódio para neutralizar os copolímeros ácidos precursores
+"especiais" pode ser derivada da tabela 3, que mostra um balanço melhorado das propriedades
+de resistência da mistura e das propriedades ópticas para os produtos ionômeros contendo
+uma razão de sódio e zinco tal como reivindicado. No entanto, é revelado no relatório
+descritivo [0073] que "a inclusão dos cátions de zinco possui nenhum ou ínfimos efeitos nas
+propriedades ópticas (como mostrado pelos baixos níveis de opacidade) dos ionômeros
+resultantes mistos, especialmente em razões maiores de cátions de sódio/zinco.
+
+       Assim, considerando o que foi discutido acima, ratifica-se que os documentos D1-D4 são
+impeditivos visto que os mesmos referem-se a:
+
+       D1 processo para produzir uma resina ionomérica modificada que compreende a mistura
+de resina ionomérica em que 10-60% das porções totais do ácido carboxílico            são
+neutralizadas com íons de sódio e de zinco.
+
+       D2 revela misturas de copolímeros de ácido etileno-metacrílico com um teor de ácido
+metacrílico de 5,4 mol% neutralizado com íons de sódio e zinco
+
+
+                                                                                          Página 4
+                                            PI0918690-5
+
+
+
+       D3 revela uma mistura de ionômero obtida a partir de um copolímero (ácido etileno
+metacrílico) incorporando 19-43% de ácido metacrílico neutralizado compreendendo 44% de
+íons de sódio e 56% de íons de zinco, com base na quantidade total de neutralização (atenção
+aos exemplos comparativos CE A-C e Exemplo 1). São revelados ainda artigos obtidos a partir da
+mistura ionomérica.
+
+        D4 revela uma composição compreendendo um ionômero misto sódio/zinco, em que o
+ionômero compreende 3 a 25% em peso de um ,-etilenicamente insaturado ácido
+carboxílico. O ionômero preferido é um copolímero ácido etileno-metacrílico. Ressalta-se
+que o exemplo 2 evidencia uma composição compreendendo 35% em peso poliamida 6, 55% em
+peso de ionômero neutralizado com sódio (ex. Surlyn® PC350) e 10% em peso de ionômero
+neutralizado com zinco (Surlyn® 1705-1). São revelados ainda artigos obtidos a partir da
+composição ionomérica.
+
+       Logo, após avaliar o pedido de acordo com o exposto acima, conclui-se que o mesmo não
+ressalta com clareza o pleito pretendido e, portanto, o pedido não preenche os requisitos de
+patenteabilidade de acordo com os artigos 8o, 11, 13 e 25 da LPI.
+
+
+
+Conclusão
+
+
+   Consequentemente, indefiro o pedido com base nos artigos 8o, 11 e 13 da Lei da Propriedade
+Industrial, Lei 9279 de 14 de maio de 1996.
+
+   De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+                                                              Publique-se o indeferimento (9.2).
+
+
+
+                                                          Rio de Janeiro, 19 de agosto de 2019.
+
+
+
+
+Sandra Regina Gomes Fraga
+Pesquisador/ Mat. Nº 1375692
+DIRPA / CGPAT I/DIPOL
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                       Página 5
+

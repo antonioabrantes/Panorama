@@ -1,0 +1,194 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122019014139-8         N.° de Depósito PCT:
+ Data de Depósito:                   02/12/2011
+ Prioridade Unionista:               US 61/419,395 (03/12/2010)
+ Depositante:                        NALPROPION PHARMACEUTICALS LLC (US)
+ Inventor:                           SHAWN FLANAGAN, EDUARDO DUNAYEVICH
+ Título:                             Aumento da biodisponibilidade da droga em uma terapia de
+                                     naltrexona
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-62               870200141047           09/11/2020
+Quadro Reivindicatório                                     1-4               870200141047           09/11/2020
+Resumo                                                      1                870200141047           09/11/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                                   x
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                        BR122019014139-8
+
+
+         Em sua manifestação, a requerente argumentou que o uso de naltrexona e bupropiona
+em combinação com o alimento é uma característica essencial adicional da invenção, uma vez
+que limita o escopo do uso caracterizado por ser na preparação de uma composição
+farmacêutica para o tratamento de sobrepeso ou obesidade.
+
+         Ocorre que características relacionadas com a composição (liberação sustentada) e com
+o método de administração (em combinação com o alimento) são inconsistentes com a matéria
+pleiteada, visto que não se referem ao uso dos compostos para preparar um medicamento para
+o tratamento de uma doença. Note-se o exemplo 8 da página 32 das Diretrizes de Exame de
+Pedidos de Patente da Área de Química (Resolução No 208, de 27/12/2017), que deixa claro que
+características relativas ao método de administração não são aceitas por falta de clareza.
+
+         Portanto, conforme destacado no parecer técnico anterior, conclui-se que a matéria
+pleiteada não está de acordo com o disposto no artigo 25 da LPI.
+
+         Destaca-se ainda que a reivindicação 14 não possui características de kit, tendo em vista
+que o rótulo e informações sobre a biodisponibilidade não podem ser considerados
+componentes de um kit farmacêutico. Ver item 7.11 das Diretrizes de Exame de Pedidos de
+Patentes  Bloco II (Resolução No 169, de 15 de julho de 2016).
+
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                                Documento                              Data de publicação
+    D1       GREENWAY, F. ET AL.: "Comparison of Combined Bupropion                   12/2009
+             and Naltrexone Therapy for Obesity with Monotherapy and
+             Placebo", JOURNAL OF CLINICAL ENDOCRINOLOGY AND
+             METABOLISM, vol. 94 (12), páginas 4898-4906
+    D2       HAUSENLOY, D.: "ContraveTM: Novel treatment for obesity",                 2009
+             CLINICAL LIPIDOLOGY, vol. 4 (3), páginas 279-285.
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento                Reivindicações
+                                                     Sim                        1-14
+            Aplicação Industrial
+                                                     Não
+                                                     Sim                         14
+                  Novidade
+                                                     Não                        1-13
+
+                                                     Sim
+             Atividade Inventiva
+                                                     Não                        1-14
+
+
+
+
+                                                                                             Página 2
+                                       BR122019014139-8
+
+
+
+
+Comentários/Justificativas
+
+
+       Em sua manifestação, a requerente apresentou os seguintes argumentos:
+           1. A requerente alega que nem D1 nem D2 revelam o uso de naltrexona e de
+bupropiona para a preparação de uma composição para tratar sobrepeso ou obesidade em
+combinação com alimento. Para a requerente, o objeto do pedido difere do estado da técnica pelo
+menos pelo uso de uma formulação de liberação sustentada de naltrexona e bupropiona em
+combinação com alimento. Ainda, a requerente ressalta que os exemplos 1-3 e tabelas 1-3 do RD
+evidenciam que a administração da formulação de liberação sustentada de naltrexona e de
+bupropiona em combinação com alimento aumenta a biodisponibilidade de ambos ativos.
+
+
+       Inicialmente, destaca-se que a reivindicação 1 está redigida por meio de fórmula suíça, e,
+portanto, refere-se a um novo uso médico. De acordo com as Diretrizes de Exame de Pedidos de
+Patente  Bloco II, item 4.18, esse tipo de reivindicação é avaliada em função da doença a ser
+tratada. Em adição, as Diretrizes de Exame de Pedidos de Química estabelece que a proteção da
+reivindicação de novo uso médico se dá ao conjunto do uso de uma substância conhecida para
+fabricar um medicamento para um novo uso terapêutico. Para ser considerada nova, esse tipo de
+matéria deve descrever a aplicação de uma substância para produzir um medicamento para tratar
+uma doença diferente daquela para a qual esse produto já era empregado no estado da técnica.
+
+       No caso do presente pedido, o uso de naltrexona e bupropiona para a preparação de uma
+composição para o tratamento de sobrepeso ou obesidade já está descrito no estado da técnica,
+ou seja, o presente pedido pleiteia o uso das mesmas substâncias para produzir um medicamento
+para tratar a mesma doença para a qual esse produto já era empregado no estado da técnica.
+
+       As características relacionadas com a composição ou com o método de uso não modificam
+o uso de uma substância conhecida para fabricar um medicamento para um novo uso terapêutico
+e, portanto, não conferem novidade à matéria pleiteada. Portanto, o fato dos documentos do
+estado da técnica não relatarem o aumento de biodisponibilidade quando uma composição de
+naltrexona e bupropiona é administrada em combinação com o alimento não é relevante para o
+exame da novidade da atividade inventiva de uma reivindicação de segundo uso médico, pois se
+relaciona com o método de administração da composição, e não com o uso das substâncias para
+a preparação de um medicamento para o tratamento de obesidade. De fato, como discutido no
+primeiro parecer técnico, o uso de de naltrexona e bupropiona para a preparação de uma
+composição para o tratamento de sobrepeso ou obesidade já é conhecido, e tal uso é
+independente das características da composição ou do método de administração.
+
+       Em suma, tendo em vista que o uso pleiteado no presente pedido já se encontra descrito
+no estado da técnica, conclui-se que o pedido não possui novidade e não está de acordo com o
+disposto nos artigos 8o e 11 da LPI.
+
+
+
+
+                                                                                        Página 3
+                                      BR122019014139-8
+
+
+       O kit pleiteado na reivindicação 14 não possui atividade inventiva, tendo em vista que é
+óbvio para o técnico no assunto propor um kit compreendendo uma composição farmacêutica
+acompanhada de informações acerca da mesma. A reivindicação 14, portanto, não atende ao
+disposto no artigo 13 da LPI.
+
+
+
+Conclusão
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não
+atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI), não atende ao requisito
+de atividade inventiva (Art .8º combinado com Art. 13 da LPI) e as reivindicações estão
+indefinidas (Art. 25 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 17 de dezembro de 2020.
+
+
+
+
+Carolina Soares Bemvindo Hashimoto
+Pesquisador/ Mat. Nº 2675420
+DIRPA / CGPAT I/DIFAR-II
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/15
+
+
+
+
+                                                                                           Página 4
+

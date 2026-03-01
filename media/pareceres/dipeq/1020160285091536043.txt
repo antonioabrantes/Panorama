@@ -1,0 +1,381 @@
+                              SERVIÇO PÚBLICO FEDERAL
+                               MINISTÉRIO DA ECONOMIA
+                   INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+N.° do Pedido:              BR102016028509-7         N.° de Depósito PCT: (05/12/2016)
+
+                        Publicação Nacional:     Publicação Internacional: US2017158345
+                        13/06/2017 (RPI 2423) (A1  08/06/2017)
+Data de Depósito (PCT): 05/12/2016
+Prioridade Unionista:   FR 1502551 (08/12/2015)
+Depositante:            DASSAULT AVIATION (FR)
+Inventor(es):           JEAN-FRANÇOIS SAEZ (FR), STÉPHANE DRINAL (FR)
+Título:                 Sistema para exibir informações relativas a um voo de aeronave e
+                        método relacionado..
+
+                                PARECER DE EXAME TÉCNICO
+
+
+
+       O presente pedido de Patente de Invenção (PI), refere-se a um dispositivo de exibição e
+um módulo para gerenciar a exibição no dispositivo de exibição, tal módulo de gerenciamento
+sendo configurado para controlar a exibição, em uma janela (38) do dispositivo de exibição, de
+uma escala de tempo (40) representativo de um período de tempo do voo, e para controlar a
+exibição, diante da escala de tempo (40), de partes de informações relativas a uma série de
+eventos destinados a ocorrer em uma janela de tempo compreendida em tal intervalo de tempo.
+
+
+
+       Para realização industrial do reivindicado como inventivo no presente pedido de PI, tal
+módulo para gerenciar a exibição é configurado para determinar um instante no tempo de tal
+janela de tempo compreendida em tal intervalo de tempo e uma duração de tal janela de tempo,
+e para controlar a exibição, ao longo da escala de tempo (40), de um marcador (60)
+representativo da posição no tempo e da duração de tal janela de tempo.
+
+
+
+       Em 07/12/2021, foi publicada através da RPI Nº 2657, notificação de emissão de parecer
+técnico relativo ao pedido de Patente de Invenção (PI), referente a Ciência de Parecer (7.1),
+decorrendo a partir daquela data o prazo de 90 (noventa) dias para manifestação da Requerente
+quanto ao contido no citado parecer técnico.
+
+
+
+       Em 05/12/2016, 15/07/2020 e 01/02/2022, através das Petições 870160072723/RJ,
+870200088197/RJ e 870220008840/RJ, a Requerente apresenta os documentos listados no
+Quadro 1, a seguir, e solicita alteração do título do presente pedido para: SISTEMA E
+
+
+
+
+                                                                                                    1
+                                          BR102016028509-7
+
+
+MÉTODO PARA EXIBIR PARTES DE INFORMAÇÕES RELATIVAS A PELO MENOS UM
+VOO DE UMA AERONAVE..
+
+                            Quadro 1  Páginas do pedido examinadas
+            Elemento                     Páginas               N.o da Petição           Data
+
+Relatório Descritivo (RD): com        12/47  38/47           870200088197/RJ         15/07/2020
+25 (Vinte e Cinco) folhas,
+numerada como 01/25 
+25/25.
+Quadro Reivindicatório (QR):          10/19  14/19           870220008840/RJ         01/02/2022
+com      05   (Cinco) folhas,
+apresentando 14 (Quinze)
+reivindicações.
+Desenhos (D´s): com 06 (Seis)         37/43  42/43           870160072723/RJ         05/12/2016
+folhas, apresentando 07 (Sete)
+figuras, numeradas de: Fig. 01
+ Fig. 07.
+Resumo (R): com 01 (Uma)                  42/47               870200088197/RJ         15/07/2020
+folha.
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                  Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                        X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                          X
+O pedido está de acordo com disposto no art. 32 da LPI                           X
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                  Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI             X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI           X
+Comentários/Justificativas
+
+
+        Em pesquisas realizadas em bases de dados de documentos de (e pedidos de) patentes e
+em literatura não patentaria, de acordo com os critérios publicados em 02/06/2020, através da
+RPI 2578, foi encontrado o seguinte documento capaz de indicar arranjos técnicos funcionais
+semelhantes aos pleiteados no QR do presente pedido:
+                           Quadro 4  Documentos citados no parecer
+
+
+                                                                                                   2
+                                     BR102016028509-7
+
+
+
+
+ Código                              Documento                             Data de publicação
+(Relevân
+  cia)
+    D3           FR3013444 (A1) (AIRBUS OPERATIONS SAS[FR])                   22/05/2015
+    D6                    EP2774850 (A2) (BOEING CO[US])                      10/09/2014
+Comentários/Justificativas
+
+         Muito embora o documento D6, contemple isoladamente e/ou complementarmente o
+pleiteado como inventivo no presente pedido, utilizamos, naquela etapa do exame, em
+07/12/2021, publicada através da RPI Nº 2657, apenas o documento D3, como sendo a
+anterioridade mais próxima do estado da técnica representativo para aferição dos requisitos de
+patenteabilidade da invenção sob exame.
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15, da LPI)
+     Requisito de Patenteabilidade           Cumprimento               Reivindicações
+                                                  Sim                      01  14
+            Aplicação Industrial
+                                                  Não                         
+
+                                                  Sim                      01  14
+                 Novidade
+                                                  Não                         
+
+                                                  Sim                         
+            Atividade Inventiva
+                                                  Não                      01  14
+
+Comentários/Justificativas
+
+
+
+         A análise do QR do presente pedido, apresentado em 15/07/2020, através da Petição
+870200088197/RJ, e mais especificamente suas Reivindicações Independentes do Presente
+Pedido (RI´s**pp´s), que são as RI01pp (Sistema ) e RI09pp (Método ), quando
+confrontadas com o documento D3, constatamos que tanto a parte não caracterizante do pedido
+sob exame, quanto a parte caracterizante, quando confrontadas com o documento D3,
+constatamos, via Parecer Técnico de primeiro exame, publicado em 07/12/2021, através da RPI
+2657, que tanto a parte não caracterizante do pedido sob exame, quanto a parte caracterizante,
+encontravam-se contempladas naquele documento, como vimos a seguir.
+
+         Através das Reivindicações Independentes 01 e 09 (RI01pp e RI09pp), do presente
+pedido, a Requerente reivindicou, em 15/07/2020, através da Petição 870200088197/RJ , o que
+segue:
+
+         Através da Reivindicação Independente 01 (RI01pp), do presente pedido, a
+Requerente reivindicou:
+
+
+
+
+                                                                                                 3
+                                                BR102016028509-7
+
+
+           RI01pp (Sistema (10) para exibir partes de informações relativas a pelo menos um voo
+de uma aeronave) compreendendo
+           - um dispositivo de exibição (16),
+           - um módulo (30) para gerenciar a exibição no dispositivo de exibição (16) de partes de
+informações relativas ao voo da aeronave, dito módulo (30) para gerenciamento da exibição
+sendo configurado para controlar a exibição, em uma janela (38) do dispositivo de exibição (16),
+de uma escala de tempo (40) representativa de um intervalo de tempo (T) de dito voo, e para
+controlar a exibição, voltada para a escala de tempo (40), de partes de informações relativas a
+uma série de eventos destinados a ocorrer em uma janela de tempo (FT) compreendida em dito
+intervalo de tempo (T); o sistema de exibição (10)
+           caracterizado pelo fato de que:
+           ETAPA01: dito módulo (30) para gerenciar a exibição é configurado para
+determinar um instante no tempo de dita janela de tempo (FT) em dito intervalo de tempo
+(T) e uma duração de dita janela de tempo (FT), e para controlar a exibição, ao longo da
+escala de tempo (40), de um marcador (60) representativo da posição no tempo e da
+duração de dita janela de tempo (FT),
+           ETAPA02: o marcador (60) sendo distinto da escala de tempo (40),
+           ETAPA03: em que dita série de eventos é destinada a ocorrer entre um instante
+inicial de ocorrência de um primeiro evento de uma série de eventos, e um instante final de
+ocorrência de um último evento de uma série de eventos, e em que dita janela de tempo (FT) é
+definida entre dito instante inicial e dito instante final, o instante final ocorrendo
+cronologicamente depois de um tempo atual,
+           ETAPA04: em que dito marcador (60) se estende ao longo de dita escala de tempo
+(40) de uma primeira extremidade voltada para uma primeira posição na escala de tempo (40)
+correspondente a dito instante inicial para uma segunda extremidade posicionada voltada para
+uma segunda posição na escala de tempo (40) correspondente a dito instante inicial.
+
+
+       No que se refere a sua manifestação, de 01/02/2022, através da Petição
+870220008840/RJ, a Requerente entende que o documento D3, não contempla o reivindicado no
+presente pedido, pois:
+            A Requerente esclarece que: - as antigas reivindicações 1 e 3 foram combinadas em uma nova
+reivindicação 1; - a característica o marcador (60) representativo do instante no tempo e da duração da dita janela de
+tempo (FT) sendo configurado de modo que uma pluralidade de marcadores (44) representativos do instante em que o
+evento é destinado ocorrer seja englobada pelo marcador (60) representativo do instante no tempo e da duração da dita
+janela de tempo (FT), suportada pelos desenhos, foi incluída na reivindicação 1; e - a reivindicação de método foi
+emendada de acordo.
+           Por fim, a Requerente esclarece que nenhuma das reivindicações estava redigida de forma a infringir o
+disposto no Artigo 25 da LPI como indicado pelo Examinador, uma vez que a redação de acordo com uma das
+reivindicações anteriores/precedentes ou similares citada no parecer, não estava presente no quadro reivindicatório em
+análise.
+           Em relação à atividade inventiva, em FR 3 013 444 A1 (D3), os eventos climáticos 11A, 11B são representados
+em uma escala de tempo 8 como áreas sombreadas. Marcadores e informações sobre pontos de passagens são
+sobrepostos na escala de tempo 8. No entanto, as áreas sombreadas 11A, 11B não correspondem a uma janela de
+
+
+
+
+                                                                                                                      4
+                                                   BR102016028509-7
+
+tempo durante a qual uma série de eventos deve ocorrer. Além disso, as áreas sombreadas não se estendem entre
+uma primeira extremidade correspondente a um instante inicial de ocorrência de um primeiro evento de uma série de
+eventos e uma segunda extremidade correspondente a um instante final de ocorrência de um último evento de uma
+série de eventos. Em EP 2 774 850 A2 (D6), as áreas sombreadas ou rachuradas são representadas em uma escala de
+tempo 502. Marcadores relacionados a eventos 524, 526 são sobrepostos na escala de tempo 502. No entanto, as
+áreas sombreadas ou rachuradas não correspondem a uma janela de tempo durante a qual uma série de eventos é
+destinado ocorrer. Além disso, as áreas sombreadas não se estendem entre uma primeira extremidade correspondente
+a um instante inicial de ocorrência de um primeiro evento de uma série de eventos e uma segunda extremidade
+correspondente a um instante final de ocorrência de um último evento de uma série de eventos.
+         Portanto, nem D3 nem D6 divulgam:
+                   - uma série de eventos destinada a ocorrer em uma janela de tempo compreendida em um período de
+tempo, sendo a dita série de eventos destinada a ocorrer entre um instante inicial de ocorrência de um primeiro evento
+de uma série de eventos e um instante final de ocorrência de um último evento de uma série de eventos, em que dita
+janela de tempo é definida entre o dito instante inicial e dito instante final;
+                   - um marcador que se estende ao longo da dita escala de tempo de uma primeira extremidade voltada
+para uma primeira posição na escala de tempo correspondente ao dito instante inicial para uma segunda extremidade
+posicionada voltada para uma segunda posição na escala de tempo correspondente ao dito instante final;
+                   - exibir, para cada um de uma série de eventos destinados a ocorrer em dito intervalo de tempo, um
+marcador posicionado ao longo de uma escala de tempo em uma posição representativa do instante no qual o evento é
+destinado a ocorrer, o marcador configurado de modo que uma pluralidade de marcadores representativos do instante
+em que o evento é destinado ocorrer seja englobada pelo marcador representativo do instante no tempo e da duração
+da dita janela de tempo.. 
+
+
+
+         Ainda na sua manifestação, de 01/02/2022, através da Petição 870220008840/RJ, a
+Requerente REapresenta o QR, de 15/07/2020, da Petição 870200088197/RJ, com as mesmas
+RI01pp (Sistema ) e RI08pp (Método ) (antiga RI09pp), e com as mesmas ETAPA01 a
+ETAPA04, entretanto, acrescentando a ETAPA05, a seguir:
+         ETAPA05: em que dito módulo (30) para gerenciar a exibição é configurado para
+controlar a exibição, para cada um de uma série de eventos destinados a ocorrer em dito
+intervalo de tempo (T), de um marcador (44) posicionado ao longo de uma escala de tempo
+(40) em uma posição representativa do instante no qual o evento é destinado a ocorrer, o
+marcador (60) representativo do instante no tempo e da duração da dita janela de tempo
+(FT) sendo configurado de modo que uma pluralidade de marcadores (44) representativos
+do instante em que o evento é destinado ocorrer seja englobada pelo marcador (60)
+representativo do instante no tempo e da duração da dita janela de tempo (FT).
+
+
+         Em 15/07/2020, através da Petição 870200088197/RJ, a Requerente à página 07/47, nas
+suas Razões, apresenta a seguinte sentença:
+          uma primeira extremidade conectada à área de exibição (50) até uma segunda
+extremidade conectada ao marcador (44) da escala de tempo (40) 
+         Já nas Figuras 02, 04 e 06, posicionadas às Páginas 38/43, 40/43 e 42/43,
+respectivamente, da Petição 870160072723/RJ, de 05/12/2016, resta claro que os marcadores
+60 e 44, referem-se a extremidades correspondentes a uma primeira extremidade de instante
+inicial e a uma segunda extremidade de um instante final (instante em que o evento é
+
+
+
+                                                                                                                     5
+                                      BR102016028509-7
+
+
+destinado ocorrer), o que corresponde à mesma função desempenhada pela ETAPA04.
+Portanto, entendemos, face às observações por nós dispostas neste parágrafo que a ETAPA04
+= ETAPA05.
+
+
+       Face ao disposto acima, e às argumentações da Requerente de 01/02/2022, através da
+Petição 870220008840/RJ, voltamos a sustentar QUE o documento de anterioridade (D3)
+(FR3013444 (A1) (AIRBUS OPERATIONS SAS[FR])), ensina tanto através da sua
+Reivindicação Independente (RI) 01 (Método para a exibição de fenômenos
+meteorológicos encontradas por uma aeronave a voar ao longo de um plano de voo), aqui
+chamada de RI01_D3, juntamente com suas respectivas Reivindicações Dependentes (RDp´s)
+02, 07  10, quanto através do seu relatório descritivo, e mais especificamente Parágrafo
+[0008], e figura Fig. 02, de D3, incluindo na ETAPA_a), da RI01_D3, a recepção de fenômenos
+meteorológicos (17) é determinada por uma pluralidade de fontes de informação
+meteorológica (51 a SN), cada um dos referidos fenômenos meteorológicos (17) definidos por
+um um período de validade. Na ETAPA_b), da RI01_D3, ocorre a identificação (indexação /
+diferencição) de cada um dos fenômenos meteorológicos (17) recebidos, que segundo a
+RDp07_D3, cada fenômeno possui período de validade de um fenômeno, dentro de um
+intervalo de intersecção associado que representa o intervalo de tempo comum entre o
+período de validade do fenômeno meteorológico considerado e a duração associada do
+plano de voo. Após todo este processo, temos que a ETAPA_c), da RI01_D3, que apresenta, em
+pelo menos um ecrã (tela) (7) de um dispositivo de visualização (5), pelo menos um
+indicador do tempo (8), o dito indicador de tempo (8) compreendendo, pelo menos, uma linha
+de tempo (9), que juntamente com a RDp08_D3, que compreende um passo de atualização de
+pelo menos um fenômeno meteorológico, e em que os passos b) e c), consideram uma tal
+atualização para atualizar o indicador do tempo (8), contemplando a ETAPA02, da RI01pp,
+que representa uma escala de tempo relativo para a duração do voo da aeronave (CA) ao
+longo do plano de voo e, por esta linha de tempo (9), que juntamente com a RDp10_D3,
+destacando que na ausência de informações meteorológicas relacionados com a presença
+de fenômenos meteorológicos ao longo de um determinado intervalo de tempo, o passo c)
+exibe um terceiro símbolo (25) na linha de tempo (9) a neste intervalo de tempo, este terceiro
+símbolo (25) indica uma ausência de informação meteorológica, contemplando a ETAPA01,
+da RI01pp, . Ainda nesta ETAPA_c), da RI01_D3, temos que pelo menos um conjunto (10) dos
+primeiros símbolos (11A a 11K) que ilustram os fenômenos meteorológicos identificados na
+etapa b) e cada um posicionado na linha do tempo (9) no nível do intervalo de interseção
+associado, juntamente com a RDp02_D3, que ressalta o indicador meteorológico (8)
+posicionado sobre a linha de tempo (9) para o tempo de sua ocorrência, que segundo a
+RDp09_D3, existe um passo de atualização para atualizar o indicador do tempo (8 ),
+contemplando a ETAPA03, da RI01pp, Finalmente, na ETAPA_c), da RI01_D3, existe um
+segundo símbolo (12) indicando o instante atual, contemplando as ETAPA04 e ETAPA05, da
+RI01pp.
+
+        Tal reafirmação se sustenta dado que o documento de anterioridade D3, inclui na Figura 2,
+Parágrafo [0008], de D3, temos representado um o referido indicador meteorológico 8
+compreende, pelo menos um (de voo) linha do tempo 9, que representa uma escala de tempo
+relativo à duração do voo da aeronave ao longo do plano de voo. O referido indicador
+meteorológico 8 compreende ainda sobre esta linha de tempo 9, um conjunto 10 do primeiro
+símbolos 11A, 11B, que ilustram os fenômenos meteorológicos identificados e
+posicionadas, cada uma, na linha de tempo 9, além de um segundo símbolo 12 indicando o
+
+
+
+                                                                                                6
+                                     BR102016028509-7
+
+instante atual (ou atual). Todas estas passagens, juntamente com as sentenças marcadas no
+parágrafo anterior, contemplando a RI01pp.
+
+       Devemos, por extensão, destacar mais uma vez que em relação à RI09pp, relativa a
+(Método ), isto é, referente à sequência lógica das etapas de sistema da RI01pp (Sistema
+), e considerando que a RI01_D3, dispõe sobre o método, temos que a RI09pp, encontra-se
+identicamente contemplada pelas passagens de D3, descritas acima, dado que consideramos
+uma reivindicação de método como sendo a sequência lógica de realização de reivindicações de
+aparelho / sistema. Apesar desta afirmação, temos na RI13_D3 (Sistema ), o sistema da
+sequência lógica da RI01_D3, contemplando identicamente, a RI01pp, nas passagens
+destacada nos parágrafos anteriores deste parecer técnico.
+
+
+
+       Desta forma, a matéria reivindicada através das reivindicações independentes RI01pp e
+RI08pp, do presente pedido, encontram-se totalmente absorvida por D3.
+
+
+
+       Quanto às demais reivindicações, as mesmas também não são válidas por serem
+dependentes das reivindicações independentes contestadas acima
+
+
+
+Conclusão
+       Sendo assim, face ao exposto, considerando o QR da forma apresentada, somos de
+opinião que o presente pedido carece de atividade inventiva por ser mera decorrência do estado
+da técnica, representado por D3, não possuindo, pois, condições de patenteabilidade.
+
+
+       Face às conclusões a que se chegou o Exame Técnico, de acordo com o Art. 37, baseado
+no Art. 8º, combinado com o Art. 13, da LPI, INDEFIRO o presente pedido como PATENTE DE
+INVENÇÃO.
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2)
+
+
+                                                       Rio de Janeiro, 07 de Fevereiro de 2022.
+
+
+                                  Edson Ferreira Suisso
+                   Pesquisador em Propriedade Industrial / Mat. Nº 1548985
+                          Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+                           DIRPA / CGPAT III / DIPAT XV (DIPEQ)
+
+
+
+
+                                                                                               7
+

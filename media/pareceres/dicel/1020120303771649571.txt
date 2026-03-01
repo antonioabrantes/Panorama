@@ -1,0 +1,278 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102012030377-9        N.° de Depósito PCT:
+ Data de Depósito:                   29/11/2012
+ Prioridade Unionista:               -
+ Depositante:                        TIAGO DA SILVA COUTO (BRSP) ; JULIANO NERES SELVENCA
+                                     (BRSP)
+ Inventor:                           JULIANO NERES SELVENCA; TIAGO DA SILVA COUTO
+ Título:                             Sistema de reconhecimento de vagas em estacionamento por meio
+                                     de câmeras
+
+                                                                PARECER
+
+         O presente pedido de patente refere-se a um sistema para monitoramento de
+estacionamento que pertence ao campo da informática e logística que, ao invés de usar sensores
+de presença aplicáveis somente para estacionamentos cobertos, utiliza câmeras de imagens que
+junto com um programa, é capaz de quantificar e localizar as baias de vagas vazias,
+principalmente em estacionamentos abertos; o sistema de reconhecimento de vagas em
+estacionamento por meio de câmeras (1) concebe um monitoramento de estacionamento por meio
+de câmeras (2), suportadas por um programa (3) de computador que recebe as imagens e as
+processa, para identicar quais e em que local do estacionamento as baias (4) estão ocupadas ou
+livres; o computador (5) com o programa (3) de reconhecimento de baias (4), livres e ocupadas
+retorna o processamento com informes visíveis em um painel (6); o sistema de reconhecimento de
+vagas em estacionamento por meio de câmeras (1) tem os seguintes procedimentos funcionais; 0
+usuário entra no estacionamento e pelo painel (6) se informa quais e onde estão as vagas, etc..
+(resumo).
+
+       Em 14/03/2022, por meio da petição 870220021687, o Depositante apresentou
+argumentações no pedido em resposta ao parecer emitido no âmbito da Portaria/INPI/PR N°
+412/2020, notificado na RPI 2658 de 14/12/2021 segundo a exigência preliminar (6.22). Não foram
+apresentadas modificações no pedido.
+
+       Em 01/08/2022, por meio da petição 870220067927, a Requerente apresentou suas
+argumentações e modificações no pedido em resposta ao parecer emitido, notificado na RPI 2678
+de 03/05/2022 (despacho 7.1). Estas modificações estão consideradas no Quadro 1.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                      1-10               870220067927     01/08/2022
+Quadro Reivindicatório                                      1                870220067927     01/08/2022
+Desenhos                                                   1-3               018120043979     29/11/2012
+Resumo                                                      1                018120043979     29/11/2012
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                           BR102012030377-9
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                           Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   X
+O pedido está de acordo com disposto no art. 32 da LPI                    X
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1      US8279088B2                                                            02/10/2012
+    D2      WO2011/141861A2                                                        17/11/2011
+
+
+       D1: US8279088B2  intitulado System for parking management, apresenta um sistema
+de gerenciamento de estacionamento. O sistema de gerenciamento de estacionamento inclui uma
+câmera de entrada (100) instalada na entrada de um estacionamento para fotografar um veículo
+que entra no estacionamento. Uma câmera de saída (200) fotografa um veículo que sai do
+estacionamento. Uma pluralidade de câmeras de região (300) é instalada nas respectivas regiões
+de estacionamento para fotografar um veículo. Um servidor de gerenciamento (400) inclui uma
+unidade de reconhecimento de número de licença de veículo (450) para reconhecer um número
+de licença de veículo, uma unidade de registro (460) para registrar uma última região de
+estacionamento fotografada em uma multa de estacionamento, uma unidade de controle (440)
+para calcular um número de vagas de estacionamento disponíveis para cada região de
+estacionamento e determinar um número total de vagas de estacionamento disponíveis e uma
+unidade de orientação (470) para guiar um veículo que entra para uma região de estacionamento
+disponível. Uma unidade de exibição (350) exibe o número de vagas de estacionamento
+disponíveis (resumo).
+
+        D2: WO2011/141861A2  intitulado Method and system for managing a parking lot based
+on intelligent imaging, apresenta um sistema para gerenciar uma pluralidade de vagas de
+estacionamento, uma ou mais imagens são adquiridas, com cada vaga de estacionamento
+aparecendo em, pelo menos, uma imagem. Imagens de ocupação e identidade adquiridas
+periodicamente são usadas para direcionar um cliente para um veículo estacionado. Imagens
+adquiridas periodicamente de apenas ocupação são utilizadas no controle dos respectivos
+aspectos ambientais, como iluminação e ventilação, das vagas de estacionamento. Para isso, as
+
+
+
+
+                                                                                         Página 2
+                                       BR102012030377-9
+
+imagens são classificadas automaticamente como "vagas" ou "ocupadas" e são exibidas junto
+com suas classificações para que as classificações possam ser corrigidas manualmente (resumo).
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento                Reivindicações
+                                                    Sim                          1
+          Aplicação Industrial
+                                                   Não                           -
+                                                    Sim                          1
+                Novidade
+                                                   Não                           -
+                                                    Sim                          -
+           Atividade Inventiva
+                                                   Não                           1
+
+
+
+Comentários/Justificativas
+
+
+       Manutenção da análise já realizada no quadro reivindicatório, devido as alterações
+terem sido consideradas insuficientes:
+
+        Tendo em vista que as argumentações da Requerente não foram consideradas relevantes
+e que as alterações alegadas pela Requerente não foram apresentadas no novo quadro
+reivindicatório a exame do presente pedido se mantém conforme segue abaixo.
+
+        Os documentos considerados os mais próximos da matéria reivindicada estão
+relacionados no Quadro 4 deste parecer.
+
+        A reivindicação independente 1 pleiteia um sistema para monitoramento de
+estacionamento que utiliza câmeras de imagens que junto com um programa especialmente
+desenvolvido para esse fim, capaz de quantificar e localizar as baias de vagas vazias, tanto em
+estacionamentos cobertos, como principalmente em estacionamentos abertos;
+        - o sistema de reconhecimento de vagas em estacionamento por meio de câmeras (1),
+        - um método de monitoramento de estacionamento por meio de câmeras (2),
+        - suportado por um programa (3) de computador que recebe as imagens e as processa,
+para identificar quais e em que local do estacionamento as baias (4) estão ocupadas ou livres
+para estacionar veículos,
+        caracterizado por:
+        - um computador (5) com o programa (3) de reconhecimento de baias (4), livres e
+ocupadas
+        - retorna o processamento com informes visíveis em um painel (6) ou mais devidamente
+posicionado no estabelecimento que pode ser visual,
+        - as câmeras (2) são instaladas em quantidades necessárias para a visada de toda área
+de estacionamento;
+        - o programa (3) de computador não só processa e indica as vagas de baias (4) ocupadas
+ou livres, mas também
+        - efetua as atividades contábeis, administrativas e logísticas do estacionamento, tais como
+a demonstração de gráficos de ocupação
+        - poder enviar as informações adquiridas em tempo real pela câmera (2).
+
+
+        O documento D1 apresenta um sistema de gestão de estacionamento, composto por: uma
+câmara de entrada (100) instalada à entrada de um parque de estacionamento e adaptada para
+fotografar um veículo que entre no parque de estacionamento; uma câmera de saída (200) para
+
+
+
+                                                                                          Página 3
+                                      BR102012030377-9
+
+fotografar um veículo que sai do estacionamento; uma pluralidade de câmeras de região (300)
+instaladas nas respectivas regiões de estacionamento no estacionamento e adaptadas para
+fotografar um veículo; um servidor de gerenciamento (400) compreendendo uma unidade de
+reconhecimento de número de licença de veículo (450) para reconhecer um número de licença de
+veículo com base em dados de imagem fotografados pela câmera de entrada (100), a câmera de
+saída (200) e as câmeras de região (300), uma unidade de registro (460) para registrar uma última
+região de estacionamento fotografada em um ticket de estacionamento, que um motorista possui
+ao entrar no estacionamento, com base em um número de licença de veículo fotografado pelas
+câmeras de região instaladas nas respectivas áreas de estacionamento, uma unidade de controle
+(440) para calcular um número de vagas de estacionamento disponíveis para cada região de
+estacionamento com base em um último número de licença de veículo de entrada para cada
+região de estacionamento e determinar um número total de vagas de estacionamento disponíveis,
+e uma unidade de orientação (470) para guiar para entrar veículo em uma região de
+estacionamento disponível determinada pela unidade de controle através de uma unidade de sinal
+de orientação de estacionamento; e uma unidade de exibição (350) instalado na entrada do
+estacionamento e adaptado para exibir o número de vagas disponíveis recebidas da unidade de
+controle (D1, reivindicações, figuras).
+
+
+        O documento D2 apresenta um método de gerenciamento de uma pluralidade de vagas de
+estacionamento, compreendendo:
+        (a) adquirir pelo menos uma ocupação e imagem de identidade, de modo que cada vaga
+de estacionamento seja fotografada em, pelo menos, uma dita ocupação e imagem de identidade;
+e
+        (b) em resposta a uma pergunta de um cliente que estacionou um veículo em uma das
+vagas de estacionamento, direcionando o referido cliente para o referido veículo, pelo menos em
+parte de acordo com a referida pelo menos uma ocupação e imagem de identidade na qual a vaga
+de estacionamento em que o referido veículo está estacionado é fotografada (D2, reivindicações,
+figuras).
+
+       Combinando os documentos D1 e D2 todas as características da reivindicação 1 são
+antecipadas. Assim para um técnico no assunto a associação das características acima
+descritas de D1 e D2 antecipam as características da reivindicação 1 do presente pedido.
+
+       Nas reivindicações dependentes não foram identificadas características adicionais ou
+detalhamentos que, mesmo quando combinadas com as características de qualquer reivindicação
+a que se referem, atendam aos requisitos de novidade e/ou a atividade inventiva.
+
+       Em suas alegações a Requerente não fundamenta de forma consistente em que o objeto
+do presente pedido se diferencia das anterioridades.
+
+      Basicamente as alegações da Requerente a serem analisadas se iniciam no item 12 de
+sua manifestação.
+
+       No item 13 a Requerente alega que D1 não apresenta soluções assertivas para o usuário
+fazendo com que o usuário encontre a vaga por conta própria. Entretanto, entendemos que o
+sistema de D1 claramente orienta o usuário a entrar em uma área do estacionamento que tem
+vagas disponíveis.
+
+       No item 14 a Requerente alega que D2 apresenta uma solução que seria muito cara.
+Entretanto, isso não é relevante para a análise comparativa das soluções do problema.
+
+       No item 15 a Requerente alega que D1 não envia informações ao usuário sobre as vagas.
+Entretanto D1 apresenta etapas que apresentam informações de localização do veículo que são
+disponibilizadas ao usuário (figura, D1).
+
+      Sendo assim, não houve modificações suficientes nas reivindicações e as
+argumentações apresentadas pela Requerente permanecem basicamente as mesmas que
+
+
+                                                                                        Página 4
+                                       BR102012030377-9
+
+foram consideradas insuficientes para conferir as características de patenteabilidade ao
+objeto do pedido. As afirmativas e comparativos apresentadas no parecer de 7.1 anterior se
+mantém e o objeto reivindicado carece de atividade inventiva frente as características dos
+documentos D1 e D2. Portanto, para um técnico no assunto as características acima
+descritas de D1 e D2 antecipam as características da reivindicação 1 do presente pedido.
+
+
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 8 de novembro de 2022.
+
+
+
+
+Daniel Barros Junior
+Pesquisador/ Mat. Nº 1548995
+Deleg. Comp. - Port. INPI/DIRPA Nº 004/15
+
+
+
+
+                                                                                         Página 5
+

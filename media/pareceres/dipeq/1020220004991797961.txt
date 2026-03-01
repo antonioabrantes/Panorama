@@ -1,0 +1,189 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102022000499-4        N.° de Depósito PCT:
+ Data de Depósito:                   11/01/2022
+ Prioridade Unionista:               -
+ Depositante:                        DIRCEU LUIZ CORRÊA JÚNIOR (BRSP)
+ Inventor:                           DIRCEU LUIZ CORRÊA JÚNIOR
+ Título:                             Sistema para controle de fluxo para realização de ensaios de
+                                     estanqueidade em poços de vapor
+
+                                                                PARECER
+          Em 27/11/2023, através da petição 870230104163, a Requerente apresentou
+argumentações e modificações no pedido, conforme consideradas no Quadro I, em resposta ao
+parecer emitido, notificado na RPI 2747 de 29/08/2023. Estas modificações estão consideradas
+no Quadro I.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                       1-8               870220002599           11/01/2022
+Quadro Reivindicatório                                     1-2               870230104163           27/11/2023
+Desenhos                                                   1-2               870220002599           11/01/2022
+Resumo                                                      1                870220002599           11/01/2022
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                          BR102022000499-4
+
+
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                  x
+Comentários/Justificativas
+        Diante do mero não reconhecimento, por parte da Requerente, de um conjunto de
+apontamentos realizados em parecer técnico anterior acerca do Art. 25 da LPI, não cabe outra
+alternativa além de repisá-los. Assim sendo:
+       Repisa-se que na reivindicação independente 1 se define um produto por características
+        relacionadas a um processo, o que ocasiona falta de clareza e precisão à matéria que se
+        deseja proteger, descumprindo-se o disposto no Art. 25 da LPI e na Instrução Normativa nº
+        30/2013  Art. 4º (III). Ressalta-se que um produto deve ser adequadamente definido por
+        especificações referentes aos aspectos construtivos dos elementos que o constituem e
+        não por características referentes aos processos ou etapas destes eventualmente
+        conduzidos no referido aparato ou insumos utilizados no processo. Os trechos que
+        geraram o presente apontamento são: prever um método para controle de fluxo para
+        realização de ensaios de estanqueidade em poços de vapor compreendido, onde
+        libera-se o gás traçador Hélio até o mesmo apresentar-se com uma concentração de 55%
+        no referido sensor de Hélio, e posteriormente inicia-se a contagem de tempo de 5
+        minutos efetuando a purga do poço e verificação da concentração presente no sensor de
+        Hélio e posto que no teste de estanqueidade prioritariamente aplica-se o gás traçador
+        Hélio com grau de pureza de 99,9% com certificado; sendo que caso o respectivo poço de
+        vapor não esteja estanque, deve-se efetuar novamente a instalação.
+       Repisa-se que na reivindicação independente 2 se define um produto por características
+        relacionadas a um processo, o que ocasiona falta de clareza e precisão à matéria que se
+        deseja proteger, descumprindo-se o disposto no Art. 25 da LPI e na Instrução Normativa nº
+        30/2013  Art. 4º (III). Ressalta-se que um produto deve ser adequadamente definido por
+        especificações referentes aos aspectos construtivos dos elementos que o constituem e
+        não por características referentes aos processos ou etapas destes eventualmente
+        conduzidos no referido aparato ou insumos utilizados no processo. Os trechos que
+        geraram o presente apontamento são: fato de incluir um equipamento que implementa o
+        método para controle de fluxo para realização de ensaios de estanqueidade em poços de
+        vapor, compreendido em conjunto por, para passagem da mangueira conectada ao
+        espigão de entrada da cúpula, para passagem da mangueira conectada ao poço e para
+        passagem da mangueira conectada ao registro do cilindro.
+       Repisa-se que na reivindicação independente 3 se define um produto por características
+        relacionadas a um processo, o que ocasiona falta de clareza e precisão à matéria que se
+        deseja proteger, descumprindo-se o disposto no Art. 25 da LPI e na Instrução Normativa nº
+        30/2013  Art. 4º (III). Ressalta-se que um produto deve ser adequadamente definido por
+        especificações referentes aos aspectos construtivos dos elementos que o constituem e
+        não por características referentes aos processos ou etapas destes eventualmente
+        conduzidos no referido aparato ou insumos utilizados no processo. O trecho que deu
+        origem ao presente apontamento é dado por: fato de todos os equipamentos que
+        implementam o método para controle de fluxo para realização de ensaios de
+        estanqueidade em poços de vapor.
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                                 Documento                           Data de publicação
+   D1                                    US5151395                              29/09/1992
+
+
+                                                                                        Página 2
+                                        BR102022000499-4
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento               Reivindicações
+                                                    Sim                        1-3
+            Aplicação Industrial
+                                                    Não                        ---
+                                                    Sim                        1-3
+                  Novidade
+                                                    Não                        ---
+                                                    Sim                        ---
+            Atividade Inventiva
+                                                    Não                        1-3
+Comentários/Justificativas
+
+         Em prosseguimento ao exame deste pedido, após reanalisar os ensinamentos propostos
+em D1, analisar técnica e legalmente o novo quadro reivindicatório apresentado pela Requerente,
+refletir sobre as argumentações técnicas apresentadas pela Requerente em sua manifestação e
+revestir-me das capacidades intelectuais inerentes a um técnico no assunto, reitero a pertinência
+do referido documento e ratifico-o como o mais próximo da matéria reivindicada.
+
+         Diante dos apontamentos expostos por meio de parecer técnico anterior devidamente
+publicados na RPI, bem como dos respectivos argumentos apresentados pela Requerente,
+conclui-se que tais argumentos não são persuasivos e, portanto, o presente pedido de patente de
+invenção apresenta irregularidades insanadas que o incapacitam de receber o privilégio
+reivindicado.
+
+         Assim sendo, configura-se uma situação onde não se vislumbra o pleno atendimento aos
+requisitos de patenteabilidade pela matéria em pleito no presente pedido de patente de invenção.
+
+         Ademais, as manifestações apresentadas pela Requerente não explicam/superam as
+objeções apontadas.
+
+         De fato, o presente produto em pleito versa, apenas, como um apanhado de dispositivos e
+equipamentos avulsos encontrados no mercado {Paragráfo [013] do Relatório Descritivo}, os
+quais são configurados de acordo com a conveniência e a necessidade de um versado na técnica,
+porém o sistema derivado não ostenta qualquer passo inventivo.
+
+         Ainda, de acordo com o exarado em parecer técnico anterior, repiso que as reivindicações
+2 e 3 não fruem do requisito de patenteabilidade atividade inventiva em relação aos ensinamentos
+de D1.
+
+         Ratifica-se, portanto, os apontamentos constantes no parecer técnico anterior e mantém-se
+a opinião de que o presente sistema para controle de fluxo para realização de ensaios de
+estanqueidade em poços de vapor não dispõe de predicados de patenteabilidade.
+
+
+
+Conclusão
+
+
+
+
+                                                                                          Página 3
+                                       BR102022000499-4
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   as reivindicações estão indefinidas (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 10 de janeiro de 2024.
+
+
+
+
+Raphael de Carvalho Ferreira
+Pesquisador/ Mat. Nº 2391254
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº 016/18
+
+
+
+
+                                                                                          Página 4
+

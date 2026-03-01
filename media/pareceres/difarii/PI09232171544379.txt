@@ -1,0 +1,148 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0923217-6                N.° de Depósito PCT:US2009/006422
+ Data de Depósito:                   08/12/2009
+ Prioridade Unionista:               US 61/193634 (11/12/2008)
+ Depositante:                        Shionogi & CO LTD. (JP) , VIIV HEALTHCARE COMPANY (US)
+ Inventor:                           Hiroshi Yoshida, Yoshiyuki Taoda, Brian Alvin Johns, Daiki
+                                     Nagamatsu, Takashi Kawasuji
+ Título:                             Processos para a preparação de um composto de piridona, e para a
+                                     preparação de uma forma cristalina, composto, sal ou um hidrato
+                                     deste, forma cristalina de um sal de sódio ou um hidrato deste, e,
+                                     composição farmacêutica. 
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-52               870210077539           23/08/2021
+Quadro Reivindicatório                                     1-2               870220014785           18/02/2022
+Desenhos                                                   1-7               020110059755           08/06/2011
+Resumo                                                      1                870210077539           23/08/2021
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         x
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                            PI0923217-6
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                                Documento                           Data de publicação
+    D1                             WO2006116764 A1                                02/11/2006
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade              Cumprimento            Reivindicações
+                                                     Sim                     1-5
+            Aplicação Industrial
+                                                     Não                      -
+                                                     Sim                     1-5
+                 Novidade
+                                                     Não                      -
+
+                                                     Sim                      -
+            Atividade Inventiva
+                                                     Não                     1-5
+Comentários/Justificativas
+
+         De acordo com a manifestação da Requerente (petição 870220014785, de 18/02/2022)
+acerca do parecer anteriormente emitido por este INPI (RPI 2655, de 26/11/2021), tecem-se os
+seguintes comentários:
+
+         A Requerente em sua manifestação diz:
+
+Estes compostos bromados são úteis em ciclização adicional e ligação de 4-difluorofenil-CH2-
+NH-C(O)- para formar produtos tais como compostos (AA), (BB) e (CC). A técnica anterior
+ensina a bromação de um sistema ciclizado antes da ligação de fluorofenil-CH2-NH. Os
+inventores da presente invenção reconheceram que a distribuição de elétrons em torno de
+certos sistemas multi-anéis da referência resultou em uma bromação instável e resultados ruins
+em reações subsequentes. Em particular, a localização de heteroátomos ricos em elétrons em
+certas posições nos sistemas em anel interfere na reação de bromação. Os inventores
+resolveram o problema da bromação instável realizando uma etapa de bromação na piridona
+substituída reivindicada antes da ciclização adicional.
+
+A referência citada não ensina ou sugere bromação da piridona reivindicada. A referência não
+reconhece quaisquer deficiências no processo de bromação citado e, portanto, não motiva um
+técnico no assunto a procurar um método alternativo de bromação.
+
+         Quanto à etapa de bromação, este Instituto escreveu anteriormente: A reação de
+bromação, utilizando a N-bromossuccinimida (NBS) como reagente, indicada como etapa P-1, é
+bastante conhecida para qualquer técnico no assunto. Sendo assim, opina-se pela
+improbabilidade de se utilizar como substrato para tal halogenação um composto tal como
+definido nas reivindicações 1 e 11, qual seja, um composto de fórmula I-I, onde R seja um
+radical substituinte de função aldeído, função esta altamente reativa. Tal função orgânica
+presente numa reação de bromação será convertida num brometo de ácido correspondente,
+pois a NBS atua como reagente oxidante neste caso.
+
+
+
+                                                                                        Página 2
+                                           PI0923217-6
+
+
+       Frente a este argumento, a Requerente manteve-se silente, apenas apontando eventuais
+problemas de bromação instável devido à interferências eletrônicas dos substituintes presentes
+no substrato. A Requerente manteve a função aldeído (R é -CHO), apesar das consideração
+acerca da reatividade dessa função orgânica frente às condições oxidantes de bromação,
+empregando NBS. Ademais, equivoca-se a Requerente quando diz que o estado da técnica não
+ensina uma bromação de uma piridona conforme reivindicada. Obviamente a questão aqui não
+se refere à novidade, pois o presente substrato difere em mínimos detalhes, como a presença
+de um grupamento protetor na função amina do anel piridônico. A questão principal reside na
+reação de bromação ora reivindicada como etapa P-1 sendo ensinada em D1, em ambas
+piridonas depois e antes da ciclização (vide substrato 103 sendo bromado e obtendo-se o
+produto 104, bem como o substrato 3 sendo bromado e levando à produção do produto 4). E,
+obviamente, a bromação ora pleiteada pode ser entendida como a bromação efetuada no estado
+da técnica antes da ciclização, conforme esquema sintético da página 79 de D1, onde             o
+presente substrato da reação (composto I-I) assemelha-se reativamente ao substrato 3 de D1.
+Atenta-se para o fato de que a inserção da porção fluorofenil-CH2-NH só pode ser feita depois
+da etapa de bromação, pois o bromo deve participar da reação de acoplamento, isso também é
+visto em D1 (vide esquema sintético da página 113, interconversão do composto 104 ao
+composto 105, via reação de acoplamento).
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                 Publique-se o indeferimento (9.2).
+
+                                                             Rio de Janeiro, 02 de março de 2022.
+
+
+André Luiz da Silva Moura
+Pesquisador/ Mat. Nº 1609273
+DIRPA / CGPAT I/DIFAR-II
+Deleg. Comp. - Port. INPI/DIRPA Nº 001/15
+
+
+
+
+                                                                                          Página 3
+

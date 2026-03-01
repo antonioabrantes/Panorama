@@ -1,0 +1,192 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112018001513-0          N.° de Depósito PCT:US2016/043501
+ Data de Depósito:                   22/07/2016
+ Prioridade Unionista:               US 62/196,582 (24/07/2015); US 15/216.210 (21/07/2016)
+ Depositante:                        ASHWORTH BROS., INC (US)
+ Inventor:                           DARROLL JOSEPH NEELY; BRYAN HOBBS
+ Título:                             Sistema transportador em espiral, tambor para conduzir uma esteira
+                                     transportadora e tampa de barra de confinamento
+
+                                                                PARECER
+
+
+          Em 23/09/2020, por meio da petição 870200117695, o Depositante apresentou
+modificações no pedido em resposta ao parecer notificado na RPI 2581 de 23/06/2020 segundo
+a exigência preliminar (6.21).
+
+          No parecer técnico publicado na RPI n° 2675 de 12/04/2022 foi emitida uma ciência de
+parecer (7.1) por entender que levando em consideração os elementos presentes em D1
+(US2015047952) e D2 (US2015090560), a matéria do pedido em análise não apresentava
+novidade e atividade inventiva (Art. 8 combinado com Art. 11 e Art. 13 da Lei da Propriedade
+Industrial, n.º 9279, de 14/05/1996). Adicionalmente, o pedido também não atendia o disposto no
+Art. 25 da LPI e na Instrução Normativa nº 30/2013  Art. 4º (VI) e Art. 5º (II), não sendo passível
+de proteção.
+
+          O depositante apresentou manifestação ao parecer técnico por meio da petição n°
+870220060930, de 11/07/2022, na qual apresentou esclarecimentos e novas vias do Relatório
+Descritivo, Quadro Reivindicatório e Resumo.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                    1 a 36               870220060930     11/07/2022
+Quadro Reivindicatório                                   1a9                 870220060930     11/07/2022
+Desenhos                                                1 a 31               870180023686     23/03/2018
+Resumo                                                      1                870220060930     11/07/2022
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                           BR112018001513-0
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                           Sim             Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                       x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   x
+O pedido está de acordo com disposto no art. 32 da LPI                    x
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                 US2015047952                                19/02/2015
+    D2                                 US2015090560                                02/04/2015
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                   1 a 33
+           Aplicação Industrial
+                                                         Não                     ----
+                                                         Sim                   1 a 30
+                 Novidade
+                                                         Não                   31 a 33
+
+                                                         Sim                     ----
+           Atividade Inventiva
+                                                         Não                   1 a 33
+Comentários/Justificativas
+
+         O documento D1 revela um sistema transportador em espiral que compreende: um
+tambor (10) associado a um motor, em que o tambor se estende a partir de um fundo de tambor
+para um topo de tambor; uma esteira transportadora (20) que percorre de modo helicoidal em
+torno do tambor (10) a partir de uma extremidade de entrada (22) para uma extremidade de
+saída (23); uma nervura (28) associada ao tambor (10), em que a nervura (28) se estende a
+
+
+
+                                                                                          Página 2
+                                        BR112018001513-0
+
+
+partir da extremidade de entrada de tambor para uma extremidade de saída; pelo menos uma
+face de condução posicionada sobre a nervura (28); pelo menos uma superfície contornada
+sobre a nervura (28) em que a superfície contornada define uma altura da nervura (28), e em
+que a altura da nervura (28) acima da superfície do tambor (10) varia ao longo de um
+comprimento da nervura (28); em que a esteira transportadora (20) inclui pelo menos uma
+superfície de esteira (46) configurada para engatar a pelo menos uma face de condução; e em
+que a esteira transportadora inclui pelo menos uma superfície de esteira configurada para
+engatar a pelo menos uma superfície contornada da nervura próxima à extremidade de entrada
+do tambor (10) (ver parágrafos [0005] a [0009] e [0039] a [0059]; e Figuras 1 a 29).
+
+       A requerente argumenta que o documento D1 não revela ou sugere que a superfície
+contornada da nervura segura a esteira em um determinado raio quando a esteira é engatada
+com a face de condução da nervura. No entanto, o presente pedido de patente de invenção
+apresenta apenas uma inversão de engate, quando comparado com D1 (Figura 2C). Em D1, as
+nervuras apresentam protuberâncias menores que engatam entre protuberâncias maiores da
+esteira, enquanto que no presente pedido em análise a esteira apresenta protuberâncias
+menores que engatam entre as protuberâncias maiores das nervuras, fazendo com que o raio
+da esteira de D1 seja determinado pela superfície da barra de confinamento da nervura.
+Entende-se que decorreria de maneira evidente ou óbvia para um técnico no assunto inverter a
+estrutura do engate e assim ter outro limitante para o raio da esteira. Portanto, as reivindicações
+independentes 1, 29 e 30 não atendem ao requisito de atividade inventiva (Art. 8º combinado
+com Art. 11º e Art. 13º da LPI).
+
+       O documento D2 revela uma tampa de barra de confinamento (30) configurada para
+cobrir um elemento de condução (26) de um tambor de um sistema transportador em espiral
+(10), em que a tampa de barra de confinamento (30) compreende: um corpo que tem um
+primeiro lado e um segundo lado oposto, em que o primeiro lado define uma cavidade
+configurada para receber pelo menos uma porção do elemento de condução (26); uma nervura
+(33) que se estende para longe do segundo lado do corpo, em que a nervura (33) se estende ao
+longo de um comprimento da tampa de barra de confinamento (30), em que uma altura da
+nervura (33) acima do segundo lado do corpo varia ao longo do comprimento da tampa de barra
+de confinamento (30); em que a nervura (33) tem uma extremidade de entrada e uma
+extremidade de saída, e um comprimento se estendendo a partir da extremidade de entrada
+para a extremidade de saída; em que a nervura (33) tem uma primeira altura na extremidade de
+entrada (ver Figuras 2 a 5).
+
+       A requerente argumenta que o documento D2 não revela que a nervura tem sua altura
+máxima na extremidade de entrada da nervura e que pelo menos uma porção da nervura tem
+uma altura afunilada. Discorda-se desse argumento uma vez que, tais características estão
+claramente reveladas em D2 (ver parágrafo [0018]; e Figuras 2 e 3). Dessa forma, a
+reivindicação independente 31 não atende ao requisito de novidade e atividade inventiva (Art. 8º
+
+
+
+
+                                                                                           Página 3
+                                       BR112018001513-0
+
+
+combinado com Art. 11º e Art. 13º da LPI), já que todas as características pleiteadas
+encontram-se antecipadas em D2.
+
+        Nas reivindicações dependentes 2 a 28, 32 e 33 não foram identificadas características
+que, mesmo quando combinadas com as características de qualquer reivindicação independente
+a que se referem, venham a prover novidade e/ou atividade inventiva à matéria.
+
+
+
+Conclusão
+
+        Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não
+atende ao requisito de novidade e atividade inventiva (Art .8º combinado com Art. 11 e Art. 13 da
+LPI).
+        De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 2 de setembro de 2022.
+
+
+
+
+Michelle Izolina Lopes de Souza
+Pesquisador/ Mat. Nº 2317577
+DIRPA / CGPAT IV/DITEM
+Deleg. Comp. - Port. INPI/DIRPA Nº
+006/18
+
+
+
+
+                                                                                         Página 4
+

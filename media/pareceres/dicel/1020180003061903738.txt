@@ -1,0 +1,283 @@
+                              SERVIÇO PÚBLICO FEDERAL
+          MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                   INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102018000306-2         N.° de Depósito PCT:
+ Data de Depósito:                   05/01/2018
+ Prioridade Unionista:               -
+ Depositante:                        TÁCITO MISTRORIGO DE ALMEIDA (BRSP)
+ Inventor:                           TÁCITO MISTRORIGO DE ALMEIDA
+ Título:                             Sistema e método de monitoramento digital da apneia do sono 
+
+
+
+                                                                PARECER
+
+
+          O pedido sob análise faz referência a métodos e sistemas para monitoramento e análise
+de apneia obstrutiva do sono por meio da coleta de dados de um paciente/usuário ao qual são
+ligados sensores de parâmetros fisiológicos que se comunicam com um dispositivo móvel.
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+Relatório Descritivo                                     17                 870240096631           11/11/2024
+Quadro Reivindicatório                                   12
+Desenhos                                                 13                 870180001197           05/01/2018
+
+Resumo                                                      1                870240096631           11/11/2024
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+          O primeiro exame técnico do pedido sob análise apontou infração aos Arts. 8, 13 e 25 da
+LPI. Em virtude desse fato, foi emitido um parecer de Ciência (7.1) o qual foi publicado na RPI
+no 2797, de 13/08/2024. Em resposta àquele parecer, o requerente submeteu, em 11/11/2024, por
+meio da petição 870240096631, Manifestação na qual apresentou novos Quadro reivindicatório,
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR102018000306-2
+
+Relatório descritivo e Resumo, bem como esclarecimentos sobre o novo conteúdo e contestações
+à conclusão de falta de atividade inventiva daquele exame . Não foi detectado, no novo conteúdo,
+infração ao Art. 32 da LPI.
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim                  Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI          x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI        x
+Comentários/Justificativas
+
+         Constata-se que o Quadro reivindicatório apresentado com a Manifestação do requerente
+corrigiu as infrações ao Art. 25 da LPI apontadas no primeiro parecer de exame técnico.
+
+                           Quadro 4  Documentos citados no parecer
+ Código                                  Documento                                Data de publicação
+    D1       US 2014051944  A1                                                      20/02/2014
+    D2       WatchPAT 200 Operation Manual, ed. 17. [online] Itamar Medical              30/06/2016
+             Ltd [US], [acesso em 2019-01-17] Obtido na internet <URL:
+             https://www.itamar-medical.com/wp-content/uploads/
+             2017/05/WatchPAT200_Operation_Manual_pdf.pdf >
+    D3       US 8545416  B1                                                             01/10/2013
+    D4       AL-MARDINI MAMOUN et al, "On the use of smartphones for                     13/11/2013
+             detecting obstructive sleep apnea", 13TH IEEE Intern. Conf. on
+             Bioinf. and Bioengineering, doi:10.1109/BIBE.2013.6701674.
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento             Reivindicações
+                                                        Sim                        17
+            Aplicação Industrial
+                                                        Não                          -
+                                                        Sim                        17
+                 Novidade
+                                                        Não                          -
+                                                        Sim                          -
+            Atividade Inventiva
+                                                        Não                        17
+Comentários/Justificativas
+
+         A matéria pleiteada considerada relevante consiste em aparatos para monitoramento e
+análise de apneia obstrutiva do sono por meio da coleta de dados de um paciente/usuário ao qual
+são ligados sensores de parâmetros fisiológicos, com os detalhes adicionais de os sensores se
+comunicarem com um dispositivo móvel dotado de um aplicativo específico para interação com os
+sensores, de serem contabilizados o número de dessaturações de oxigênio, de haver
+comunicação com um servidor remoto que processa os dados coletados para gerar relatórios de
+resultados, e de as comunicações serem realizadas por enlaces de radiofrequência.
+
+
+                                                                                               Página 2
+                                   BR102018000306-2
+
+.   Em sua Manifestação, o requerente argumenta, essencialmente que:
+     1) Nenhum dos Documentos D1 ou D2 apresentados no parecer de 1 o exame apresen-
+     taria a característica de ser realizada a gravação do ronco (áudio) pelo próprio dispo-
+     sitivo móvel, dependendo, para tal, de sensores externos. Além disso, o objeto pleiteado
+     se diferenciaria por sua capacidade de analisar áudio do ronco para fornecer
+     informações diagnósticas adicionais.
+     2) No Documento D3, não haveria menção de gravação de áudio para diagnóstico,
+     apenas a medição de SpO2 para determinar os ajustes de tratamento o que seria um
+     método terapêutico. No caso de D4, seria proposto o uso de smartphones para a
+     monitoração de áudio como auxiliar para a detecção de apneia, mas não seria mencio-
+     nada a disponibilização das informações de áudio ou ronco no relatório final. O aparato
+     proposto no pedido sob análise se destacaria ao automatizar a identificação de roncos e
+     fornecê-la nos laudos, proporcionando uma análise mais detalhada dos distúrbios
+     respiratórios pelo profissional de saúde e, também, por ser totalmente sem fio,
+     facilitando o monitoramento da saúde ao eliminar a necessidade de cabos e por usar
+     smartphones para gravação de ronco, integrando-se diretamente com dispositivos mó-
+     veis. Essa integração permitiria que todos os dados coletados sejam transmitidos auto-
+     maticamente para um servidor, onde são analisados e transformados em laudos deta-
+     lhados, algo que não estaria presente nos documentos citados no parecer de 1o exame.
+     3) Nos documentos previamente citados, os dispositivos de oximetria dependeriam de
+     conexões com fios para transmitir dados, seja ligando o sensor a uma máquina externa
+     ou conectando-o a um módulo intermediário. A inovação do aparato do pedido seria ter
+     integrados múltiplos sensores fisiológicos em um único dispositivo compacto e total-
+     mente sem fio, com autonomia de bateria. Essa característica proporcionaria maior
+     conforto para o paciente e melhoraria a precisão das medições, evitando interrupções
+     na rotina de sono durante a análise.
+    Em resposta às argumentações do requerente, esclarece-se que:
+    A) O pedido sob análise pleiteia um sistema de monitoramento digital da apneia do sono
+      que inclui sensores, um terminal móvel dotado de software específico para a tarefa
+      fundamental de monitoramento, um servidor para processamento de dados captados
+      pelo sistema e a capacidade de comunicação sem fio para transmissão desses dados.
+      Todos os elementos daquele sistema são identificáveis na combinação entre as
+      matérias reveladas entre D1 e D2, tanto de forma explícita quanto de forma implícita em
+      outros aspectos desses documentos. Especificamente quanto ao aspecto de a gravação
+      do áudio ser realizada por dispositivos externos, esclarece-se que o uso do microfone
+      embutido no dispositivo móvel (smartphone ou outro dispositivo) não agrega atividade
+      inventiva à matéria pleiteada já que: i) diversos dispositivos móveis (p. ex.,
+      smartphones) já contam, naturalmente, com microfones e o acesso ao sinal desse
+
+
+
+                                                                                     Página 3
+                                BR102018000306-2
+
+  microfone pelos programas executados no dispositivo não é algo inédito nem inovador;
+  ii) usar um microfone externo representa uma melhoria que permite captar ruído de
+  ronco com menos interferência outros ruídos (tal como mostrado na Seção 4.1 e no
+  APPENDIX A de D2, embora apenas para captar o nível de ronco), pois o óbvio seria
+  utilizar o microfone embutido no smartphone. Adicionalmente, o Documento D1 revela
+  tanto a captação de sinais do microfone, quanto a análise do sinal de áudio captado
+  (vide, p. ex. audio receiver 236 receives signals from the microphone 140 [] may also
+  receive signals from one or more microphones of the mobile computing device 108 []
+  audio receiver 236 processes the signals from the microphone(s) for use with a sleep
+  study performed using the sleep study application e mobile computing device 108 may
+  also begin collecting data from the movement sensor 256 and the microphone nos
+  Parágrafos 112 e 133 de D1 respectivamente).
+B) O Documento D3 oferece um vasto elenco de sensores e sinais destinados a serem
+  gravados incluindo microfones e sinais de áudio (p. ex., na Coluna 14, Linhas 38 
+  Coluna 15, Linha 17, Preferably, those sensors include, but are not limited, to [] micro-
+  phones, audio recorders [] the minimal set of PSG sensors is augmented with at least
+  [] one channel of snore, [] and optionally one channel of audio). Também em D3,
+  explicita-se a conexão sem fio entre os sensores e o sistema de coleta e gravação dos
+  dados (p. ex., na Coluna 18, Linhas 33  54, embodiments of the present invention
+  include the step of connecting sensors to a data acquisition system [] Optionally, such
+  sensors are wirelessly connected to the data acquisition system [] these sensors and
+  the wireless connection method are considered to be part of the present invention).
+  A análise dos dados coletados também é revelada em D3 (p. ex., na Coluna 20, Linha
+  65  Coluna 21, Linha 17, signals from the sensors can be saved on a medium in order
+  to be retrieved and analyzed at a later date, e na Coluna 21, Linhas 54  63,
+  Optionally, the data acquisition system receives the signals from one or more of the
+  aforementioned sensors and stores the signals for later transmission and analysis). A
+  análise dos dados adquiridos permite ao sistema de D3 realizar diagnósticos, sem seja
+  citada quaisquer limitações que impeçam o uso dos dados captados por um microfone
+  (como sumarizado na Coluna 3, Linhas 4  19, sleep disorder treatment system of the
+  present invention can use a diagnosis device to perform various forms of analysis to
+  determine or diagnose a subject's sleeping disorder or symptoms of a subject's sleep
+  disorder [] diagnostic part of the system can use many different types of sensors and
+  methods for diagnosing the severity of the symptoms of or the sleep disorder itself).
+  No caso de D4, é explícito o uso de smartphones e seu microfone embutido (no
+  Abstract, We extract three main physiological signals to diagnose OSA which are (1)
+  oxygen saturation using an external oximeter, (2) respiratory effort using the smart-
+  phones built-in microphone), destacando-se a portabilidade assim proporcionada. A
+
+
+
+                                                                                    Página 4
+                                       BR102018000306-2
+
+         análise de sinais de áudio é comprovada pelos trechos que explicam a análise do sinal
+         relacionado à respiração (detectando sinais numa faixa específica de frequências) e
+         identificando períodos de ronco (Na Seção IV, Figure 2 shows the energy of the
+         respiratory effort signal for one of the subjects in our work [...] spikes in the graph
+         represent the snoring period).
+         Reitera-se que combinação dos conteúdos de D3 e D4, revelam-se as características
+         relevantes pleiteadas no pedido sob análise, incluindo os aspectos que o requerente
+         alega estarem ausentes daqueles documentos.
+       C) Tanto a combinação de D1 com D2 quanto a combinação de D3 com D4 demonstram a
+         falta de atividade inventiva do pedido sob análise. Excetuando D2, todos os outros
+         documentos do estado da técnica citados no exame do pedido revelam a comunicação
+         sem fio entre certos elementos dos respectivos sistemas (as combinações consideradas
+         entre os documentos suprem as deficiências isoladas de cada um deles frente a matéria
+         pleiteada no pedido). A integração e a portabilidade do instrumento pleiteado não são,
+         por si sós, aspectos agregadores de atividade inventiva, mas sim decorrência de
+         implementação de características encontradas nos Documentos D1  D4.
+       Dando prosseguimento ao exame da matéria pleiteada, constata-se que não há diferença
+significativa entre a matéria pleiteada analisada neste exame e a matéria examinada no primeiro
+exame técnico. Por esse motivo, os argumentos daquele exame continuam válidos e são
+reproduzidos a seguir:
+       Constata-se que a matéria pleiteada no pedido sob análise é destituída de atividade inven-
+tiva frente ao estado da técnica representado pela combinação dos Documentos D1  D4, nas
+formas D1 em combinação com D2, ou mesmo D3 em combinação com D4. Certas características
+presentes na matéria pleiteada são consideradas não relevantes para agregar atividade inventiva,
+seja por sua trivialidade, seja por sua obviedade, ou devido ao fato de estarem implícitas nos
+aparatos do estado da técnica. Tais são os casos do tamanho dos segmentos de áudio coletados,
+da capacidade de armazenamento do servidor empregado, do uso de técnicas de machine
+learning na análise dos dados, ou dos relatórios específicos produzidos após essa análise.
+       De fato, D1 (Abstract; Figuras 1, 2 e 4; Parágrafos 0006  0144) revela diversas medições
+e sensores relacionados (EEG, EMG, ECG, SpO2, pressão, temperatura, etc) ligados a um
+módulo coletor de dados o qual se comunica tanto com os sensores quanto com um dispositivo
+móvel por comunicação por fio ou sem fio. Também é revelada em D1 a comunicação entre o
+dispositivo móvel e um servidor externo que recebe os dados coletados e informações derivadas
+pelo processamento efetuado pelo dispositivo móvel. O Documento D2 (todo o documento), por
+sua vez, revela um aparelho que atua como oxímetro e como actígrafo (ambos interligados e
+ligados ao corpo do usuário), que detecta posição do usuário e que coleta dados dos sensores
+ligados ao usuário e os transfere para um dispositivo externo (um PC no caso de D2) onde um
+
+
+
+
+                                                                                         Página 5
+                                       BR102018000306-2
+
+software específico os analisa, detecta eventos respiratórios (o que abrange o número de
+dessaturações de oxigênio) e produz relatórios.
+       O Documento D3 (Abstract; Figuras 1  10; Coluna 2, Linha 66  Coluna 4, Linha 37;
+Coluna 14, Linha 8  Coluna 26, Linha 34; Coluna 30, Linha 49  Coluna 31, Linha 36; Coluna 32,
+Linha 56  Coluna 34, Linha 2; Coluna 37, Linha 13  Coluna 50, Linha 15; Coluna 54, Linha 
+Coluna 56, Linha 19) revela um sistema que, além de efetuar o tratamento de certos distúrbios
+respiratórios, também é capaz de coletar dados medidos a partir de sensores (de modo geral os
+mesmos usados em polissonografia, sejam eles respiratórios, de EEGs, movimento, pressão
+respiratória e níveis de oxigenação no sangue, etc) ligados a um paciente e analisar esses dados
+para determinar como o tratamento deve ser aplicado. O Documento D3 também revela a
+transmissão dos dados do paciente para servidores centrais (os quais analisam esses dados e
+geram relatórios armazenados em bancos de dados), ou diretamente, ou por meio de dispositivos
+intermediários (por exemplo, dispositivos móveis tais como um telefone celular), bem como
+também revela a detecção de queda maior que 3% do nível de oxigenação do sangue. Por fim, o
+Documento D4 (todo o documento) revela o uso de smartphones para detecção de distúrbios de
+sono, tirando partido dos sensores já presentes nesses aparelhos (por exemplo, o microfone e os
+acelerômetros) em conjunto com um oxímetro externo.
+
+
+Conclusão
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que ele não
+atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 2 de dezembro de 2024.
+
+
+
+
+Alvaro da Silva Ferreira
+Pesquisador/ Mat. Nº 1742398
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 008/13
+
+
+
+
+                                                                                          Página 6
+

@@ -1,0 +1,198 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112015009918-1           N.° de Depósito PCT:JP2013/060652
+ Data de Depósito:                   08/04/2013
+ Prioridade Unionista:               JP 2012-241138 (31/10/2012)
+ Depositante:                        KITZ CORPORATION (JP)
+ Inventor:                           HIDENOBU TAMEDA, HISANORI TERUI, KEI ITO, TOMOYUKI
+                                     OZASA
+ Título:                             Ligas de latão, peça processada e peça molhada 
+
+                                                              PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                 1/62-62/62              870190040475           29/04/2019
+Quadro Reivindicatório                                  1/2-2/2              870190040475           29/04/2019
+Desenhos                                             1/11-11/11              018150005355           30/04/2015
+Resumo                                                     1/1               870190040475           29/04/2019
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                                   x
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                        BR112015009918-1
+
+Comentários/Justificativas
+
+Na petição nº 870190040475 de 29/04/2019 a requerente apresenta sua manifestação acerca do
+1º exame do pedido de patente BR112015009918-1, que consiste de um despacho de ciência
+(código 7.1) cuja notificação foi publicada na RPI nº 2508 de 29/01/2019.
+
+Mediante ao exposto no 1º exame, a requerente apresentou um novo relatório descritivo, um novo
+quadro reivindicatório e um novo resumo. No entanto, ainda foi encontrado as seguintes
+inconsistências.
+
+As reivindicações independentes 6 e 7 estão de desacordo com o Art. 5°(II) da Instrução
+Normativa nº 30/2013, que afirma que só será admitida mais de uma reivindicação independente
+da mesma categoria se tais reivindicações definirem diferentes conjuntos de características
+alternativas e essenciais à realização da invenção, ligadas pelo mesmo conceito inventivo. Ambas
+as reivindicações tratam de peças processadas de latão sendo que o que difere uma da outra é
+que a peça da reivindicação 7 estar em contato com a água (peça molhada). Tal característica não
+é uma alternativa essencial da peça e sim, uma informação adicional sobre seu uso. Sendo assim,
+como já relatado no relatório anterior, o quadro reivindicatório deve apresentar somente uma
+reivindicação independente de peça.
+
+A reivindicação 1 possui um erro de digitação que pode acarretar em falta de clareza ao pedido,
+infligindo o Art. 25 da LPI. É relatado que a quantidade de P em massa é de 0,5 a 0,2%, enquanto
+o valor correto apresentado no relatório descritivo [0059] é de 0,05 a 0,2%. E o mesmo acontece
+com o elemento Ni, que no quadro reivindicatório está como 0,5 a 1,5%, sendo a faixa correta
+0,05 a 1,5% [0043].
+
+A requerente solicitou a modificação do título do pedido de: Liga de latão, peça processada e
+peça molhada para Ligas de latão, peça processada e peça molhada.
+
+
+
+
+                         Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                             Data de publicação
+    D1     "The effects of tin and nickel on the corrosion behavior of             2002
+           60Cu-40Zn alloys"
+    D2                             US20070158002                                12/07/2007
+
+
+
+
+                                                                                       Página 2
+                                       BR112015009918-1
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento                Reivindicações
+                                                    Sim                         1-9
+          Aplicação Industrial
+                                                    Não                           -
+                                                    Sim                         1-9
+                Novidade
+                                                    Não                           -
+
+                                                    Sim                           -
+           Atividade Inventiva
+                                                    Não                         1-9
+Comentários/Justificativas
+
+
+No despacho de ciência cuja notificação foi publicada na RPI Nº 2508 de 29/01/2019 opinou-se
+que a reivindicação 1 não possui atividade inventiva [Art. 8° c/c 13 da LPI] perante o documento
+D1 e que todo o quadro reivindicatório não possui atividade inventiva perante o documento D2.
+
+Diante da opinião técnica apresentada, a requerente apresentou um novo quadro reivindicatório,
+reformulado e mais conciso quanto a matéria pleitada na reivindicação independente 1.
+
+No entanto, mesmo com as modificações apresentadas, o quadro reivindicatório continua não
+possuindo o requisito de atividade inventiva     [Art. 8° c/c 13 da LPI] diante dos ensinamento
+apresentados por D2.
+
+A reivindicação independente 1 pleiteia uma liga de latão cuja composição química é similar a
+composição da liga apresentada pela anterioridade D2 [D2, reivindicação 2, 3, 5 e 9], como pode
+ser observado na Tabela I a seguir.
+
+
+               Tabela I: Comparação das ligas do pedido BR112015009918-1 (R1) e D2.
+
+
+
+
+Nota-se que, além das faixas de ambos os documentos serem similares, o documento D2, assim
+como a reivindicação 1, relata que tal liga é resistente a corrosão [D2, 0002], possui excelente
+usinabilidade [D2, 0002] e é capaz de ser reciclada [D2, 0105]. Logo, como as faixas da
+composição são similares e as características finais das ligas são as mesmas, ou seja, o efeito
+técnico é o mesmo, conclui-se que a reivindicação 1 não apresenta o requisito de atividade
+
+
+
+
+                                                                                           Página 3
+                                        BR112015009918-1
+
+inventiva perante o documento D2, uma vez que decorre de maneira evidente ou óbvia para um
+técnico no assunto a partir da matéria revelada pela anterioridade.
+
+Nas reivindicações dependentes 2 a 5 não foram identificadas características que, mesmo quando
+combinadas com as características de qualquer reivindicação independente a que se referem,
+venham a prover atividade inventiva à matéria.
+
+As reivindicações independentes 6 e 7, sobre peças processadas das ligas apresentadas, não
+possuem atividade inventiva perante o documento D2, pois decorre de maneira evidente para um
+técnico a partir do que é revelado na anterioridade. D2 apresenta uma composição de liga de latão
+similar as pleitadas por BR112015009918-1, como já apresentado, e revela seu uso em peças
+processadas, principalmente peças que ficam em contato com a água, como válvulas e torneiras
+[D2, parágrafo 0002]. Sendo assim, as reivindicações independentes 6 e 7 não atendem ao
+requisito atividade inventiva, pois decorrem de maneira evidente ou óbvia para um técnico no
+assunto a partir do documento D2.
+
+Nas reivindicações dependentes 8 e 9 não foram identificadas características que, mesmo quando
+combinadas com as características de qualquer reivindicação independente a que se referem,
+venham a prover atividade inventiva à matéria.
+
+Sendo assim, concluiu-se que o quadro reivindicatório apresentado (petição 870190040475) não
+atendem ao requisito de atividade inventiva [Art. 8° c/c 13 da LPI] pois decorre de maneira óbvia
+para um técnico no assunto a partir dos ensinamentos do documento D2.
+
+
+
+
+Conclusão
+
+Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende ao
+requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da data
+de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 13 de agosto de 2019.
+
+
+
+Natalia Cristina Candian Lobato
+Pesquisador/ Mat. Nº 2358641
+DIRPA / CGPAT IV/DIMAT
+Deleg. Comp. - Port. INPI/DIRPA Nº 022/18
+
+
+
+
+                                                                                           Página 4
+

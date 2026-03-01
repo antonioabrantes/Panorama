@@ -1,0 +1,188 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102018011744-0            N.° de Depósito PCT:
+ Data de Depósito:                   11/06/2018
+ Prioridade Unionista:               -
+ Depositante:                        VALE S.A. (BRRJ)
+ Inventor:                           NIKOLAS JORGE SANTIAGO CARNEIRO; JORGE MANUEL FILIPE
+                                     DOS SANTOS; SÉRGIO IVAN VIADEMONTE DA ROSA; CLEIDSON
+                                     RONALD BOTELHO DE SOUZA; JOSÉ AROUDO MOTA
+ Título:                             Método para priorizar fluxos de cruzamento de uma ferrovia, e, meio
+                                     de armazenamento em memória
+
+                                                                PARECER
+
+
+          O presente pedido de patente de invenção sofreu parecer de Ciência (7.1), conforme
+publicado na RPI nº 2613 de 02/02/2021. Por meio da petição 870210039449 de 30/04/2021, o
+Requerente apresentou Manifestação sobre o parecer técnico, optando por não apresentar
+nenhuma emenda no quadro reivindicatório. Para fins de continuidade do exame, estão sendo
+consideradas as vias abaixo:
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 15               870200062029           19/05/2020
+Quadro Reivindicatório                                   1a3                 870200062029           19/05/2020
+Desenhos                                                 1a3                 870200062029           19/05/2020
+Resumo                                                      1                870200062029           19/05/2020
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR102018011744-0
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                            Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI          X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI        X
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                Data de publicação
+    D1                                US2018120114A1                                  03/05/2018
+    D2                      Undirected connectivity in log-space                      31/09/2008
+    D3           Algorithm 447: Efficient algorithms for graph manipulation           31/06/1973
+    D4                      An On-Line Edge-Deletion Problem                          31/01/1981
+    D5                    Symmetric space-bounded computation                         31/08/1982
+    D6                           Find Network Components                              24/04/2014
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento                Reivindicações
+                                                         Sim                        1-6
+            Aplicação Industrial
+                                                        Não                        -----
+                                                         Sim                        1-6
+                  Novidade
+                                                        Não                        -----
+
+                                                         Sim                       -----
+            Atividade Inventiva
+                                                        Não                         1-6
+Comentários/Justificativas
+
+         As argumentações do Requerente estão listadas a seguir:
+
+         1) D1 revela um sistema e método para gerar e prover avaliações das características da
+rede de trânsito para locais especificados. O sistema recebe um local especificado, gera uma
+avaliação do local recebido e fornece uma representação visual gerada do local recebido para
+um sistema cliente. Embora D1 mencione ferrovias como exemplos de rede de trânsito (ver, por
+exemplo, parágrafos [0010] e [0011]), este documento não revela nem sugere um método para
+priorizar cruzamentos ou intersecções entre uma ferrovia e os fluxos decorrentes das pessoas
+que atravessam esta ferrovia. Além disso, D1 falha em revelar que seu método inclui a
+determinação de uma árvore geradora máxima para especificar a ordem de priorização das
+passagens de nível da ferrovia.
+
+
+                                                                                               Página 2
+                                        BR102018011744-0
+
+
+       2) Os documentos D2 a D6 meramente revelam métodos matemáticos referentes a
+algoritmos em grafos sem, no entanto, especificar a aplicação de tais algoritmos para a solução
+do problema técnico de priorizar fluxos de cruzamento de uma ferrovia. Nenhum dos
+documentos D2 a D6 revela e nem mesmo sugere um método para priorizar fluxos de
+cruzamento de uma ferrovia, como pleiteado pela presente invenção.
+
+
+
+       Em relação às argumentações do Requerente, têm-se as seguintes considerações:
+
+       Argumento 1: Ao contrário do que afirma o Requerente, o documento D1 divulga um
+método para priorizar cruzamentos e interseções entre uma ferrovia e os fluxos decorrentes das
+pessoas que atravessam a ferrovia (Relatório Descritivo, parágrafos [0008] e [0011]).
+
+       Argumento 2: As características técnicas de i) gerar um grafo compreendendo os nós e
+um conjunto de arestas, em que essas arestas conectam os nós; ii) gerar uma componente
+conexa contendo os nós; e iii) obter um vetor compreendendo os nós em ordem decrescente do
+valor atribuído a cada nó são amplamente difundidas no estado da técnica e conhecidas na
+literatura, aqui representada pelos documentos D2, D3, D4, D5 e D6. A combinação dos
+ensinamentos de D1 com qualquer um dos documentos D2 a D6 decorre de maneira evidente
+ou óbvia, para um técnico no assunto.
+
+       Desta forma, observa-se que foi mantido o quadro reivindicatório anterior que apresenta
+reivindicação independente 1 pleiteando proteção para matéria desprovida de atividade
+inventiva, conforme análise realizada no parecer de Ciência (7.1). A argumentação, do
+Requerente, quanto ao fato de que o presente pedido de patente é revestido de atividade
+inventiva, não procede, pois tais características estão presentes nas anterioridades D1 em
+combinação com qualquer um dos documentos D2, D3, D4, D5 ou D6, decorrendo de maneira
+evidente ou óbvia, para um técnico no assunto, a partir dos ensinamentos dos documentos
+citados.
+
+       Além disso, as argumentações que tratam do esclarecimento dos trechos/termos citados
+no parecer de Ciência (7.1), embora auxiliem no entendimento da matéria reivindicada, por meio
+de uma descrição mais clara, não são consideradas essenciais para reverter a análise realizada
+no parecer supracitado. Assim sendo, o pedido de patente de invenção, conforme reivindicado,
+decorre de maneira evidente ou óbvia, para um técnico no assunto, do estado da técnica, e é,
+portanto, desprovido de atividade inventiva, conforme artigo 13 da LPI.
+
+       Destarte, ratificam-se as argumentações já apresentadas no parecer anterior e, conforme
+o exposto acima, as reivindicações submetidas para exame são desprovidas de atividade
+inventiva.
+
+
+
+
+                                                                                        Página 3
+                                       BR102018011744-0
+
+
+
+
+Conclusão
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                               Rio de Janeiro, 17 de maio de 2021.
+
+
+
+
+Alexandre Luis Cardoso Bissoli
+Pesquisador/ Mat. Nº 1332765
+DIRPA / CGPAT III/DIFEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+008/19
+
+
+
+
+                                                                                          Página 4
+

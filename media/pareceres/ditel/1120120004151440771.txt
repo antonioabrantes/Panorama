@@ -1,0 +1,311 @@
+                              SERVIÇO PÚBLICO FEDERAL
+                               MINISTÉRIO DA ECONOMIA
+                   INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+N.° do Pedido:              BR112012000415-8         N.° de Depósito PCT: EP2010/059494
+                                                     (02/07/2010)
+
+                        Publicação Nacional:     Publicação Internacional: WO 2011/003836
+                        13/06/2017 (RPI 2423) (13/01/2011)
+Data de Depósito (PCT): 02/07/2010
+Prioridade Unionista:   IT MI 2009A 001210 (08/07/2009)
+Depositante:            Tele-Rilevamento Europa-T.R.E. S.R.L. e Politecnico Di Milano (IT)
+Inventor(es):           Alessandro Ferreti (IT), Alfio Fumagalli (IT), Fabrizio Novali (IT),
+                        Francesco de Zan (IT), Alessio Rucci (IT), Stefano Tebaldini (IT)
+Título:                 Processo para filtrar interferogramas obtidos de imagem sar, e,
+                        computador..
+
+                                PARECER DE EXAME TÉCNICO
+
+
+       O presente pedido de Patente de Invenção (PI), refere-se a um processo para filtrar
+iterferogramas obtidos de imagens SAR, adquiridas sobre a mesma área por radares de
+abertura sintética, compreendendo as seguintes etapas: a) adquirir uma série de N imagens de
+
+radar (A1.. AN) por meio de um sensor SAR (synthetic aperture radar) sobre uma mesma área
+com geometrias de aquisição tais a permitir re-amostragem dos dados sobre uma grade comum;
+b) após re-amostrar sobre uma grade comum, selecionar um pixel da grade comum; c) calcular a
+matriz de coerência do pixel selecionado, ou seja, estimar os valores de coerência complexos
+para cada possível par de imagens disponível; d) maximizar, com respeito ao vetor fonte , um
+elemento desconhecido.
+
+
+
+       Em 17/02/2021, foi publicada através da RPI Nº 2615, notificação de emissão de parecer
+técnico relativo ao pedido de Patente de Invenção (PI), referente a Ciência de Parecer (7.1),
+decorrendo a partir daquela data o prazo de 90 (noventa) dias para manifestação da Requerente
+quanto ao contido no citado parecer técnico.
+
+
+
+       Em 06/01/2012 e 07/05/2021, através das Petições 020120001432/RJ e 870210041613/
+RJ, a Requerente apresenta os documentos listados no Quadro 1, a seguir:
+
+                          Quadro 1  Páginas do pedido examinadas
+           Elemento                   Páginas             N.o da Petição              Data
+
+
+
+
+                                                                                                    1
+                                           BR112012000415-8
+
+
+Relatório Descritivo (RD): com        09/44  19/44           870200032344/RJ     10/03/2020
+11 (Onze) folhas, numerada
+de 01/11  11/11.
+Quadro Reivindicatório (QR):          10/12  12/12           870210041613/RJ     07/05/2021
+com 03 (Três) folhas com 08
+(Oito) reivindicações.
+Desenhos (D´s): com 07                24/32  30/32           020120001432/RJ     06/01/2012
+(Sete) folhas, apresentando 07
+(Sete) figuras, numeradas de:
+Fig. 01  Fig. 07.
+Resumo (R): com 01 (Uma)                  23/44               870200032344/RJ     10/03/2020
+folha.
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                             Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)         X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                     X
+O pedido está de acordo com disposto no art. 32 da LPI                      X
+Comentários/Justificativas
+
+       Em relação ao Art. 10, da LPI, entendemos, através do parecer técnico de primeiro
+exame, publicado em 17/02/2021, através da RPI Nº 2615, que o QR do presente pedido, e mais
+especificamente a expressão matemática da etapa d), da Reivindicação Independente 01,
+infringe o Inciso IV, daquele dispositivo legal, por se enquadrar na categoria de IV  as obras
+científicas, conforme explicitado nas justificativas após o Quadro 5, quando consideramos a
+manifestação da Requerente, ocorrida em 07/05/2021, através da Petição 870210041613/RJ.
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                             Sim         Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI        X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI      X
+Comentários/Justificativas
+
+
+        Em pesquisas realizadas em bases de dados de documentos de (e pedidos de) patentes e
+em literatura não patentaria, de acordo com os critérios publicados em 17 /12/2019, através da
+RPI 2554, foi encontrado o seguinte documento capaz de indicar arranjos técnicos funcionais
+semelhantes aos pleiteados no QR do presente pedido:
+                           Quadro 4  Documentos citados no parecer
+
+
+
+                                                                                                   2
+                                                 BR112012000415-8
+
+
+  Código                                        Documento                                         Data de publicação
+ (Relevân
+   cia)
+     D3         EP2017647 (A1) (CONSIGLIO NAZIONALE RICERCHE[IT])                                    21/01/2009
+Comentários/Justificativas
+
+          Muito embora a partir do documento D3, seja possível alcançar a solução pleiteada no
+presente pedido, isto é, ensinando arranjos técnicos semelhantes, emitimos, neste parecer e
+neste     momento,       os    apontamentos         constantes       do    Quadro        5,   juntamente    com    os
+Comentários/Justificativas, situados após o mesmo Quadro 5.
+
+
+
+     Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15, da LPI)
+        Requisito de Patenteabilidade                     Cumprimento                         Reivindicações
+                                                                 Sim                                
+              Aplicação Industrial
+                                                                 Não                              01  08
+
+                                                                 Sim                                
+                    Novidade
+                                                                 Não                                 
+
+                                                                 Sim                                
+              Atividade Inventiva
+                                                                 Não                                
+
+Comentários/Justificativas
+
+
+
+       No que se refere a sua manifestação, de 07/05/2021, através da Petição
+870210041613/RJ, a Requerente entende que o documento D1, não contempla o reivindicado no
+presente pedido, pois:
+           4. A Digna Perícia objetou com relação a reivindicação 1 com base no inciso IV do Artigo 10 da LPI por,
+supostamente, se enquadrar na categoria de IV - obra científica, conforme seção de comentários/justificativas do
+quadro 2 do parecer em questão.
+          5.  Primeiramente, deve ser ressaltado que o inciso IV do Artigo 10 diz respeito a obras científicas no
+sentido de artigos e publicações científicas. O inciso que diz respeito a métodos matemáticos (como deduções,
+operações, solução de equações, etc.) e teorias científicas é o inciso I do Artigo 10.
+          6. Neste sentido, a Resolução 169/2013 define que: 1.7 - Um método que resolva um problema exclusivo do
+campo da matemática (p.ex., deduções, operações, solução de equações, etc.) não é considerado invenção, uma vez
+que não constitui solução para um problema técnico. Entretanto, métodos que utilizem conceitos matemáticos para
+solucionar um problema técnico inserido em um campo técnico são considerados invenção desde que não incidam em
+outros incisos do Art. 10. Exemplo 1: Um método rápido de divisão não seria considerado invenção, mas uma máquina
+de calcular construída para tal pode ser considerada invenção. Exemplo 2: Um método para desenvolver filtros
+elétricos, embora faça referência a uma equação matemática, é considerado invenção, pois constitui a solução de um
+problema técnico. Exemplo 3: Um método para criptografar/decifrar comunicações eletrônicas pode ser considerado
+como um método que resolve um problema técnico, mesmo que seja essencialmente baseado em um método
+matemático.
+          7. Pelo acima exposto, fica evidente que a mera presença de uma equação ou fórmula matemática em uma
+reivindicação não é indicativo de que tal reivindicação incida no inciso I do Artigo 10 da LPI.
+
+
+
+
+                                                                                                                        3
+                                                BR112012000415-8
+
+         8. Ainda, resta claro que um processo para filtrar interferogramas obtidos de imagens SAR no qual uma das
+etapas consiste em maximizar uma funcional é uma aplicação concreta que provê uma solução técnica para um
+problema técnico.
+         
+         14. O documento D3 revela um método para processar dados detectados por um radar de abertura sintética, o
+referido radar compreendendo um ou mais sensores (A1, ..., AM) fazendo uma pluralidade de órbitas On, com n = 1, ...,
+N, ao longo da qual cada um faz uma pluralidade de detecções de pelo menos uma área, em uma radiação tendo um
+comprimento de onda predefinido l, de modo a obter um conjunto de dados de multipassagem fazendo NxM imagens da
+referida pelo menos uma área, cada uma composta por uma pluralidade de pixels. O método compreende focar
+preliminarmente o referido conjunto de dados de multipassagem detectados em azimute e variáveis de alcance e é
+caracterizado por então focar em relação às variáveis de elevação s e velocidade v, de acordo com a técnica de
+decomposição de valor singular.
+         15. O método de D3 é diferente do método do presente pedido de patente. Na verdade, ambos os métodos
+processam dados detectados por um radar de abertura sintética (SAR); particularmente, ambos os métodos processam
+uma pluralidade de imagens de radar adquiridas na mesma área. No entanto, a forma de processamento das imagens
+de radar do método de acordo com a presente invenção é diferente do método da técnica anterior para as seguintes
+características:
+          A etapa de aquisição das imagens de radar é efetuada com geometrias de aquisição de forma a permitir a
+reamostragem dos dados em grade comum;
+          É fornecida uma etapa de reamostragem na grade comum e, em seguida, um pixel é selecionado a partir da
+grade comum;
+          É fornecida uma etapa sucessiva de cálculo da matriz de coerência do pixel selecionado, isto é, estimar os
+valores de coerência complexos para cada par possível de imagens disponíveis;
+          Também é fornecida uma etapa sucessiva de maximização, no que diz respeito ao vetor fonte , aqui
+elemento desconhecido, (através do) o funcional: () 
+         16. O efeito do método de acordo com o presente pedido de patente de invenção é visível observando-se as
+Figuras 5 a 7. Particularmente, uma área da cena processada foi recortada (destacada na Figura 5) a fim de mostrar
+duas comparações diretas entre os interferogramas originais e aqueles reconstruídos por meio dos vetores de fase
+otimizados (Figuras 6 e 7, em que os valores de fase do interferogramas são mostrados).
+         17. Nestes interferogramas, caracterizados por uma alta linha de base espacial, algumas áreas são
+caracterizadas por baixas relações sinalruído. Nas figuras, a parte da esquerda mostra os interferogramas originais e na
+parte da direita é possível apreciar os mesmos interferogramas reconstruídos seguindo o processo da presente
+invenção, substituindo assim a fase interferométrica original pela diferença de fase do elementos dos vetores .
+         18. Operativamente, uma vez que o vetor  foi obtido para cada pixel da cena, a fase de cada pixel do
+interferograma obtido entre a n-ésima e a m-ésima imagem foi substituída pela diferença de fase n-m extraída do
+vetor  associado com o pixel atual. O efeito é notável: onde o ruído era tal que impossibilitava o discernimento das
+franjas interferométricas, a técnica aqui proposta resultou em uma redução drástica, permitindo assim discernir
+claramente o sinal de interesse. 
+
+
+
+         Através do QR reapresentado em 07/05/2021, através da Petição 870210041613/RJ, o
+objeto pleiteado por meio de sua Reivindicação Independente do Presente Pedido (RI**pp´s),
+que é a RI01pp (Processo para filtrar interferogramas obtidos de imagens SAR, adquiridos
+sobre a mesma área por radares de abertura sintética  ), quando confrontada com o
+documento D3, constatamos que, muito embora a partir do documento D3, seja possível
+alcançar a solução pleiteada no presente pedido, isto é, ensinando arranjos técnicos
+semelhantes, emitimos, neste parecer e neste momento, os apontamentos constantes do
+Quadro 2, juntamente com os Comentários/Justificativas, situados após o mesmo Quadro 2, em
+
+
+                                                                                                                       4
+                                       BR112012000415-8
+
+
+relação ao Art. 10, da LPI, entendemos, tanto através do parecer técnico de primeiro exame,
+publicado em 17/02/2021, através da RPI Nº 2615, quanto através deste parecer técnico de
+segundo exame, que o QR do presente pedido, e mais especificamente a expressão matemática
+da etapa d), da Reivindicação Independente 01, infringe o Inciso IV, daquele dispositivo legal,
+por se enquadrar na categoria de IV  as obras científicas.
+
+
+
+       Isto porque, através das Reivindicações Independentes 01, do presente pedido,
+RI01pp, a Requerente reivindica:
+
+       RI01pp (Processo) para filtrar interferogramas obtidos de imagens SAR, adquiridos
+sobre a mesma área por radares de abertura sintética, compreendendo as etapas de:
+       ETAPA a) adquirir uma série de N imagens de radar (A1...AN) por meio de um sensor
+SAR sobre uma mesma área com geometrias de aquisição tais a permitir re-amostragem dos
+dados sobre uma grade comum;
+       ETAPA b) após re-amostrar sobre uma grade comum, selecionar um pixel da grade
+comum;
+       ETAPA c) calcular a matriz de coerência do pixel selecionado, ou seja, estimar os
+valores de coerência complexos para cada possível par de imagens disponível;
+       caracterizado pelo fato de compreender ainda a
+       ETAPA d) maximizar, com respeito ao vetor fonte , um elemento desconhecido, a
+funcional 
+
+
+       Face ao disposto acima, e às argumentações da Requerente de 07/05/2021, através da
+Petição 870210041613/RJ, voltamos a sustentar que a ETAPA d), da RI01pp, incide no Art. 10,
+da LPI, por se tratar especificamente de uma expressão matemática, infringindo o Inciso IV,
+daquele dispositivo legal, por se enquadrar na categoria de IV  as obras científicas.
+
+         Este entendimento se justifica porque a própria Requerente reconhece que, através do
+posicionamento da expressão caracterizante (caracterizado pelo fato de), que situa todo o
+estado da técnica existente e sobre o qual se baseia o presente pedido de patente, resta claro que
+todos os parâmetros e limites das somatórias pleiteadas como inventivas, através do operados ,
+necessários e suficientes para justificar o próprio operador, encontram-se em dito estado da
+técnica. Assim, através do operador funcional , a Requerente reinvindica simples operações
+matemáticas compreendidas pelas operações de multiplicação, adição (somatórias) e subtração,
+já constantes da vasta literatura científica compreendidas pelo estado da técnica de várias áreas
+do conhecimento, incluindo exatas. Em suma, a Requerente pleitea o patenteamento puro e
+simples de uma expressão/equação/fórmula matemática. A título exemplificativo, na literatura
+científica temos nos sítios de internet As 11 mais belas equações matemáticas (As 11 mais belas
+equações matemáticas - Matemática - Disciplina - Matemática (seed.pr.gov.br)) e As 10
+equações que mudaram o mundo (As 10 equações que mudaram o mundo
+(oficinadanet.com.br)). Face ao exposto, entendemos que a Requerente deva, visando proteção
+de seu direito autoral, seguir o mesmo caminho dos autores das citadas equações matemáticas, e
+submeter sua equação matemática a um parecer de um revisor ad-hoc de uma revista/publicação
+ciêntífica. Desta forma, a matéria reivindicada através da reivindicação independente RI01pp, do
+
+
+
+                                                                                                  5
+                                        BR112012000415-8
+
+presente pedido, não é patenteável por infringir o Inciso IV, da LPI, não sendo, portanto, possível
+inferir aplicação industrial ao pleiteado como inventivo, através da única ETAPA d), infringindo,
+assim, o próprio Art. 15, da LPI, não sendo, por extensão, possível avaliar os Arts. 8.º, 11 e 13, da
+LPI, frente ao estado da técnica mais próximo, constante do documento de anterioridade D3.
+
+
+       Quanto às demais reivindicações, as mesmas também não são válidas por serem
+dependentes das reivindicações independentes contestadas acima
+
+
+
+Conclusão
+        Sendo assim, face ao exposto, considerando o QR da forma apresentada, somos de
+opinião que o presente pedido não preenche os requisitos de aplicação industrial, atividade
+inventiva e novidade, infringindo o Art. 15, e Inciso IV, do Art. 10, da LPI, não possuindo, pois,
+condições de patenteabilidade, não sendo, portanto, possível avaliar os Arts. 8.º, 11 e 13, da LPI,
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2)
+
+
+                                                             Rio de Janeiro, 16 de Junho de 2021.
+
+
+                                   Edson Ferreira Suisso
+                    Pesquisador em Propriedade Industrial / Mat. Nº 1548985
+                           Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+                            DIRPA / CGPAT III / DIPAT XIV (DITEL)
+
+
+
+
+                                                                                                   6
+

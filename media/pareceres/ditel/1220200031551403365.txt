@@ -1,0 +1,182 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR122020003155-7          N.° de Depósito PCT: US2009/058839
+ Data de Depósito:     29/09/2009
+ Prioridade Unionista: US 61/102,787 (03/10/2008); US 61/144,357 (13/01/2009); US
+                       61/166,631 (03/04/2009); US 61/562,438 (18/09/2009)
+ Depositante:          VELOS MEDIA INTERNATIONAL LIMITED (IE)
+ Inventor:             Chen Peisong, Yan Ye, Marta Karczewicz
+ Título:               MÉTODOS, APARELHOS E MEIO DE ARMAZENAMENTO NÃO
+                       TRANSITÓRIO LEGÍVEL POR COMPUTADOR PARA CODIFICAÇÃO
+                       DE VÍDEO COM MACROBLOCOS GRANDES 
+
+                                            PARECER
+          Em 27/10/2020 foi publicada através da RPI nº 2599, notificação de Ciência de Parecer
+conforme parecer técnico de primeiro exame do presente pedido. Tal parecer indicou
+irregularidades quanto ao disposto no Art. 32 da LPI.
+
+          O depositante, através da petição 870210007775 de 22/01/2021, e portanto
+tempestivamente, apresentou manifestação a respeito do parecer técnico propondo nova via do
+quadro reivindicatório com 24 (vinte e quatro) reivindicações e argumentação quanto aos
+requisitos de patenteabilidade da matéria pleiteada.
+
+          Para fins de continuidade do exame, estão sendo consideradas as vias abaixo:
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 84               870210007775           22/01/2021
+Quadro Reivindicatório                                  1 a 10               870210007775           22/01/2021
+Desenhos                                                1 a 18               870200022004           14/02/2020
+Resumo                                                      1                870210007775           22/01/2021
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                         BR122020003155-7
+
+
+O pedido está de acordo com disposto no art. 32 da LPI                                     x
+Comentários/Justificativas
+       Em resposta à ciência emitida em primeiro exame, a Requerente apresentou novo
+quadro reivindicatório QR para que pudesse ser reavaliado quanto ao não cumprimento do
+disposto no Art. 32 da LPI.
+
+       Quanto ao novo quadro apresentado, verificamos que o mesmo continua em desacordo
+com o disposto no Artigo 32 da Lei 9.279/96 (LPI), pois ao comparar o quadro reivindicatório do
+presente pedido com o quadro válido quando do pedido de exame para o pedido original QRv
+(petição nº 020120091499 de 27/09/2012) verifica-se que o objeto de proteção do presente
+pedido manteve o escopo ampliado em relação ao pedido original:
+
+   1. A comparação do novo quadro reivindicatório com o quadro válido do pedido original
+       identificou a infração quanto ao disposto no artigo 32 da LPI a partir dos seguintes pontos:
+
+       a) nas reivindicações independentes 1, 6, 11, 16, 21, 22, 23 e 24, é dito que a recepção
+           de uma unidade codificada compreende uma pluralidade de blocos de vídeo, em que
+           pelo menos um dentre a pluralidade de blocos de vídeo é um bloco de vídeo que
+           compreende um tamanho superior a 16x16 pixels.
+
+           Nas reivindicações independente 1, 8, 10 e 14 do QRv é dito que uma das etapas do
+           processo consiste em receber (...) um bloco de vídeo tendo um tamanho superior a
+           16x16 pixels.
+
+           Ou seja, ta qual está escrita nas atuais reivindicações independentes do QR no pedido
+           em tela, a característica indica a recepção de blocos que podem ter um tamanho de
+           16x16 ou até menor que este. Por exemplo, este QR engloba a situação onde na
+           recepção de 4 blocos de vídeo, 3 sejam 16x16 ou menores e apenas 1 seja maior que
+           16x16, possibilidade esta que não existe diante da característica tal qual pleiteada no
+           QRv;
+
+       b) conforme apontado no parecer de primeiro exame, os objetos pleiteados nas
+           reivindicações independentes 1, 6, 11, 16, 21, 22, 23 e 24 não representam restrição
+           dos objetos pleiteados no quadro reivindicatório válido do pedido original, mas uma
+           modificação desses objetos originalmente reivindicados, e que não podem ser vistos
+           como um subgrupo destes. Tais modificações não são aceitas por violação do Artigo 32
+           da LPI.
+
+           Como      modificação,   neste   novo    QR   apresentado,   a   Requerente    adicionou
+           características para que estes novos objetos pleiteados também versassem sobre as
+           partições dos macroblocos, os modos de codificação destas partições e a sintaxe que
+           indique os modos de codificação/decodificação a serem utilizados nas partições e
+           sub-partições do macrobloco. Porém, entendemos que estas modificações não alteram
+
+
+
+                                                                                           Página 2
+                                            BR122020003155-7
+
+               a presença de matéria indevidamente fora do escopo da reivindicação original, mais
+               especificamente relacionada a gerar ou receber outros dados de sintaxe que indicam
+               tamanho máximo e mínimo de blocos e partições.
+
+
+
+               Ou seja, mantemos a opinião de que o escopo do quadro reivindicatório do presente
+               pedido não está restrito à matéria reivindicada no quadro reivindicatório válido do
+               pedido original, o que não está de acordo com o disposto no Artigo 32 da Lei 9.279/96
+               (LPI).
+
+      2. De acordo com a Resolução INPI 93/2013 (itens 3.2 e 3.3), caso as alterações no quadro
+            reivindicatório ampliem o escopo da proteção inicialmente reivindicada no quadro
+            reivindicatório válido e o quadro reivindicatório do exame anterior tenha sido rejeitado por
+            incidência no Artigo 32 da LPI, o pedido de patente será indeferido.
+
+                      Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                               Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI         ---                 ---
+Comentários/Justificativas ---
+
+
+                               Quadro 4  Documentos citados no parecer
+
+  Código                                   Documento                                 Data de publicação
+      ---       ---                                                                          ---
+
+
+      Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade               Cumprimento                Reivindicações
+                                                         Sim                           ---
+               Aplicação Industrial
+                                                        Não                            ---
+                                                         Sim                           ---
+                        Novidade
+                                                        Não                            ---
+
+                                                         Sim                           ---
+               Atividade Inventiva
+                                                        Não                            ---
+Comentários/Justificativas
+
+---
+
+
+
+
+                                                                                                   Página 3
+                                      BR122020003155-7
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que foi
+identificado o acréscimo de matéria do pedido ou do escopo das reivindicações (Art. 32 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                               Rio de Janeiro, 6 de abril de 2021.
+
+
+
+
+Camila Duarte Rodrigues Lopes
+Pesquisador/ Mat. Nº 2357468
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+015/18
+
+
+
+
+                                                                                         Página 4
+

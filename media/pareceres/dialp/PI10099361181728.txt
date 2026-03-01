@@ -1,0 +1,234 @@
+                                       SERVIÇO PÚBLICO FEDERAL
+                                        MINISTÉRIO DA ECONOMIA
+                            INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI1009936-0             N.° de Depósito PCT:
+ Data de Depósito:                   22/04/2010
+ Prioridade Unionista:               -
+ Depositante:                        UFRJ (BRRJ)
+ Inventor:                           Paulo Cavalcanti Gomes Ferreira, Adriana Silva Hemerly, Thiago Bretz
+                                     Carvalho
+ Título:                             Método de promoção do aumento exacerbado da biomassa vegetal
+
+                                                               PARECER
+
+
+          O pedido refere-se a um método de promoção de crescimento vegetal pela introdução de
+sequências nucleotídicas do complexo promotor da anáfase/ciclossomo (APC) no genoma de um
+vegetal de interesse.
+
+         Em parecer técnico inicial, publicado na RPI nº 2508 de 29/01/2019, foi emitido parecer de
+ciência (7.1) com base nos arts. 8°, 11, 13, 24 e 25 da LPI e nos documentos WO 02/38599,
+AT2G39090 de Arabidopsis thaliana (número de acesso NM_179978.1) e Eloy N.B. et al. (2006)
+(D1 a D3). Em manifestação, através da n° 870190039991 de 29/04/2019, a requerente propôs
+novas páginas do relatório descritivo, do quadro reivindicatório (com 7 reivindicações), resumo e
+nova versão eletrônica da listagem de sequências. Em parecer técnico subsequente, publicado na
+RPI 2545 de 15/10/2019, foi emitido um novo parecer de ciência (7.1) com base nos arts. 8°, 13,
+24 e 25 da LPI e nos documentos anteriormente citados. Através da petição n° 870200005416 de
+13/01/2020, a requerente manifestou-se acerca dos óbices apontados e propôs um novo quadro
+reivindicatório, novas páginas de relatório descritivo e um novo arquivo eletrônico da listagem de
+sequências.
+         São realizadas as seguintes observações acerca da matéria ora pleiteada, considerando os
+pareceres técnicos anteriores e as manifestações apresentadas:
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                           X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    X
+
+O pedido refere-se a Sequências Biológicas                                                             X
+
+Comentários/Justificativas
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                 Página 1
+                                               PI1009936-0
+
+       -
+
+
+                            Quadro 1  Páginas do pedido examinadas
+           Elemento                       Páginas               n.o da Petição         Data
+Relatório Descritivo                       1 a 25               870200005416         13/01/2020
+Listagem de sequências*            Código de Controle           870200005416         13/01/2020
+Quadro Reivindicatório                       1                  870200005416         13/01/2020
+Desenhos                                   1a5                   20100034659         22/04/2010
+Resumo                                       1                  870200005416         13/01/2020
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+     241CC585F64FFC67 (Campo 1) e 05B4854150926B2C (Campo 2).
+       -
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                               Sim          Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                        X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                          X
+O pedido está de acordo com disposto no art. 32 da LPI                           X
+Comentários/Justificativas
+       -
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                               Sim          Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI           X
+Comentários/Justificativas
+- Como dito nos pareceres técnicos anteriores, o relatório descritivo do presente pedido descreve
+as transformações de dicotiledônias - Arabidopsis thaliana e Nicotiana tabacum.
+       A requerente aponta o item 3.85 da Resolução n° 124/2013 e explica que essas são
+disposições de diretrizes de exame para todos os campos tecnológicos. A requerente esclarece
+ainda que quaisquer disposições específicas contidas em diretrizes de campos tecnológicos
+específicos só seriam aplicáveis se observadas as disposições gerais.
+       Em relação às observações da requerente, esclarece-se que os pareceres técnicos
+anteriores - de forma distinta do indicada na manifestação - não sugeria a limitação da matéria ao
+revelado nos exemplos do relatório descritivo. Se caso fosse, o parecer técnico indicaria a
+limitação da matéria pleiteada as espécies de Arabidopsis thaliana e Nicotiana tabacum.
+
+
+
+
+                                                                                          Página 2
+                                             PI1009936-0
+
+          O parecer técnico anterior verificou que havia dados para generalizar que tal método
+poderia ser ampliado para todas as dicotiledônias. O parecer técnico ainda explicitou, de forma
+assertiva, que não seria possível inferir que métodos de promoção de crescimento vegetal em
+dicotiledônias fossem similares a monocotiledônias.
+          A requerente poderia, em sua manifestação, apresentar esclarecimentos técnicos para
+fundamentar que o método de promoção poderia ampliado além das plantas dicotiledônias, mas
+não o fez. Portanto, é mantida a objeção de que a matéria pleiteada como qualquer vegetal de
+interesse comercial está ampla e que, portanto, nem todas as matérias pleiteadas nas
+reivindicações 1 a 4 não estão suficientemente descritas, não atendendo ao art. 24 da LPI.
+
+
+- A requerente alega que o condicionamento do critério de suficiência descritiva a demonstração
+de resultados experimentais não encontra suporte na LPI ou nas Diretrizes de Exame do INPI. E
+argumenta ainda que O Artigo 24 da LPI estabelece a possibilidade de reprodução da invenção
+por um técnico no assunto como critério de descrição clara e suficiente. Portanto, qualquer
+matéria passível de reprodução por um técnico no assunto à época da prioridade reivindicada a
+partir dos ensinamentos no relatório descritivo é clara e suficientemente descrita no mesmo nos
+termos do Artigo 24 da LPI.
+          Em relação a esse ponto, indica-se consultar a Instrução Normativa n° 030/2013, que
+estabelece as normas gerais de procedimentos para explicitar e cumprir dispositivos da Lei de
+Propriedade Industrial - Lei nº 9279, de 14 de maio de 1996, no que se refere às especificações
+dos pedidos de patente. O art. 2° da referida Instrução, especifica que o relatório descritivo deve
+cumprir uma série de especificações, dentre elas ressalta-se: (V.) definir os objetivos da invenção
+e descrever, de forma clara, concisa e precisa, a solução proposta para o problema existente, bem
+como as vantagens da invenção em relação ao estado da técnica e (VI.) ressaltar, nitidamente, a
+novidade e evidenciar o efeito técnico alcançado.
+          O relatório descritivo do presente pedido descreve o objetivo como:
+[0025]     A invenção refere-se ao método de promoção do aumento da biomassa vegetal e
+produção de sementes que compreende a introdução de uma sequência polinucleotídica no
+genoma de um vegetal de interesse comercial. A dita sequência polinucleotídica a ser inserida no
+genoma de um vegetal de interesse comercial, deve estar ligada a um vetor de superexpressão e
+deve ser uma sequência polinucleotídica que codifica um gene pertencente ao Complexo
+Promotor da Anáfase e/ou uma sequência quimérica contendo um gene pertencente ao complexo
+promotor da anáfase e uma sequência de TDNA promotora de uma mutação insercional dirigida,
+podendo, preferencialmente ser inserida a sequência identificadora 1 (SEQ ID NO: 1) ou a
+sequência identificadora 2 (SEQ ID NO: 2) bem como suas sequências homólogas, ortólogas ou
+parálogas. (grifo nosso)
+       Ainda, a requerente argumenta em manifestação que, quando a expressão de qualquer
+uma das duas sequências é aumentada, há um aumento de biomassa, onde o efeito da SEQ ID
+N° 1 no aumento da biomassa e produção de sementes seria mais acentuado. A novidade e
+atividade inventiva da presente matéria corresponderia ao efeito da expressão da SEQ ID N° 1,
+
+
+
+
+                                                                                          Página 3
+                                              PI1009936-0
+
+que promoveria um aumento de até 80% na biomassa e produção de sementes em comparação
+com as plantas não-transformadas.
+         Entretanto, como apontado em parecer técnico anterior, o relatório descritivo não descreve
+nenhuma análise ou dados de produção de sementes. Logo, o efeito técnico não fica evidenciado
+e, tampouco, as vantagens da matéria pleiteada em relação ao estado da técnica. Na
+manifestação a requerente não apresentou argumentações técnicas de que o efeito técnico
+alegado seja alçando no método pleiteado. Consequentemente, a objeção é mantida e portanto a
+matéria pleiteada não atende ao art. 24 da LPI.
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                 Documento                                    Data de publicação
+    D1                                  WO 02/38599                                         2002
+    D2       Sequência do gene AT2G39090 de Arabidopsis thaliana - número de                2006
+             acesso NM_179978.1. Depositada no GenBank em 09/06/2006
+    D3       Eloy N.B. et al.: The Arabidopsis Anaphase Promoting Complex                  2006
+             (APC). Regulation through subunit availability in plant tissue. Cell
+             Cycle 5(17):1957-1965, 2006.
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento                 Reivindicações
+                                                       Sim                            1a6
+            Aplicação Industrial
+                                                       Não                              -
+                                                       Sim                            1a6
+                  Novidade
+                                                       Não                              -
+
+                                                       Sim                              -
+            Atividade Inventiva
+                                                       Não                            1a6
+Comentários/Justificativas
+         D3 avaliou o padrão de expressão, temporal e tecidual, de diferentes subunidades do
+complexo APC de Arabidopsis thaliana, verificando um padrão intricando de expressão das
+diferentes subunidades (pág. 1961, da col. 1, linha 12 a 4).
+         Entretanto, como já discutido em parecer técnico anterior, a variante AtAPC7Spl  que
+corresponde a SEQ ID N° 1  foi descrita em D3 (figura 1B). Em relação a essa variante, o estudo
+verificou que ela tem o maior nível de expressão entre os genes analisados (pág. 1960, col. 2,
+linhas 22 a 28) e atingiu o seu máximo de expressão na fase de expansão celular (pág. 1961, da
+col. 1, linha 12 a 4), indicando uma correlação entre a variante e a expansão celular. Logo,
+considerando que a variante já era conhecida bem como a sua correlação com a expansão
+celular, é mantida a objeção por falta de atividade inventiva da matéria pleiteada, não estando de
+acordo com o disposto nos arts. 8° e 13 da LPI.
+
+
+
+
+                                                                                               Página 4
+                                           PI1009936-0
+
+
+Conclusão
+
+      Assim sendo, de acordo com o art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (art. 8º combinado com art. 13 da LPI)
+
+      -   não apresenta suficiência descritiva (art. 24 da LPI)
+
+
+      De acordo com o art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                              Rio de Janeiro, 27 de março de 2020.
+
+
+
+
+Marcia Tie Kawamura
+Pesquisador/ Mat. Nº 1358397
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/
+
+
+
+
+                                                                                           Página 5
+

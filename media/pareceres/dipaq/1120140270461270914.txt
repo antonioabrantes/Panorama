@@ -1,0 +1,281 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112014027046-5         N.° de Depósito PCT: EP2013/059106
+ Data de Depósito:                   02/05/2013
+ Prioridade Unionista:               EP 12166803.2 (04/05/2012)
+ Depositante:                        SYNGENTA PARTICIPATIONS AG (CH)
+ Inventor:                           STEPHEN WILSON SKILLMAN, ALFRED RINDLISBACHER
+ Título:                             Método de uso de um pesticida
+
+                                                                 PARECER
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim      Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                   X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)             X
+
+O pedido refere-se a Sequências Biológicas                                                                      X
+
+Comentários/Justificativas
+
+
+          A requerente declarou, na petição 860140186609, de 06/11/2014, que o objeto do
+presente pedido de invenção não foi obtido em decorrência de acesso à amostra de componente
+do patrimônio genético nacional, realizado a partir de 30 de junho de 2000, cumprindo a
+exigência constante no parágrafo 2º do artigo 3º da Resolução/INPI n° 207 de 24/04/2009
+(relativa ao acesso ao patrimônio genético), revogada e republicada como Resolução/INPI n°
+69/2013 (RPI nº 2202 de 19/03/2013).
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+Relatório Descritivo                                      1-25               860140180982        29/10/2014
+Listagem de sequências em
+                                                             -                      -                   -
+formato impresso
+Listagem de sequências*                        Código de Controle                   -                   -
+Quadro Reivindicatório                                     1-2               870200061678        18/05/2020
+Desenhos                                                     1               860140180982        29/10/2014
+Resumo                                                       1               860140180982        29/10/2014
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                  Página 1
+                                          BR112014027046-5
+
+        Em resposta ao primeiro parecer técnico, a requerente apresentou sua manifestação
+contendo argumentos técnicos, assim como novo quadro reivindicatório com 9 reivindicações.
+Estas modificações estão consideradas no Quadro 1.
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                           Sim             Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                       X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                               X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   X
+O pedido está de acordo com disposto no art. 32 da LPI                    X
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                              Data de publicação
+   D1       Smith et al. Arthropod Management Tests (2006), 31, E67.                  2006
+   D2       Price et al. Arthropod Management Tests (2008), 33, C13.                  2008
+   D3        US20130190178A1                                                        25/07/2013
+   D4        WO9909821A1                                                            04/03/1999
+   D5       Alyokhin, A. et. al. Reduced viability of Colorado potato beetle,         2008
+            Leptinotarsa decemlineata, eggs exposed to novaluron. Pest
+            Manag Sci 64:9499 (2008).
+   D6       Kim, et al. Novaluron causes reduced egg hatch after treating             2011
+            adult codling moths, Cydia pomenella: Support for transovarial
+            transfer. Journal of Insect Science: Vol. 11 | Article 126, 2011.
+
+
+
+
+                                                                                          Página 2
+                                           BR112014027046-5
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade              Cumprimento                  Reivindicações
+                                                        Sim                            1-9
+           Aplicação Industrial
+                                                        Não                             -
+                                                        Sim                            1-9
+                  Novidade
+                                                        Não                             -
+
+                                                        Sim                             -
+            Atividade Inventiva
+                                                        Não                            1-9
+Comentários/Justificativas
+
+
+        Em parecer técnico anterior, foi questionada a patenteabilidade do presente pedido, com
+base nas anterioridades D1-D6. Em seus esclarecimentos, a depositante alega que:
+
+       ...não só D1 ensina uma taxa de aplicação que está muito acima da quantidade requerida pelas
+        presentes reivindicações, mas D1 também não apresenta ensinamentos ou sugestões em
+        relação à redução da eclosão de ovos de insetos Diabrotica, nem relata qualquer efeito técnico
+        para o novalurom
+
+       D2 é limitado a um estudo sobre se o novalurom sozinho ou em combinação com a bifentrina é
+        adequado para o controle de besouros adultos da        seiva   em   morango.    D2    não    contém
+        ensinamentos ou sugestões em relação à redução da eclosão dos ovos. Além disso, a taxa de
+        12 oz. por hectare de novalurom (de um produto de 0,83 lb por galão) relatada em D2 se refere em
+        uma taxa de cerca de 87g por hectare que está bem acima da taxa das presentes
+        reivindicações.
+
+       Com base nas revelações de D1 ou D2, quando tomadas sozinhas ou em combinação, o técnico
+        no assunto não terá qualquer expectativa razoável de que o novalurom tenha atividade transovarial
+        aceitável e de que é adequado para a redução da eclosão de ovos de Diabrotica da maneira como
+        reivindicado no presente pedido.
+
+       Os ensinamentos de D3 são limitados ao uso de quantidades reduzidas de phosmet e pelo
+        menos um composto inibidor de quitina à base de benzoilureia, o qual        fornece   regimes    de
+        tratamento melhorados, para o controle de pragas indesejadas, propensas a infestar culturas
+        de frutas (por exemplo, mirtilo, amora, plantas do tipo drupa, frutos de pomó, batata, batata doce,
+        ervilha, nozes, amendoim, castanhas, uvas e alfafa.) As presentes reivindicações (emendadas)
+        especificam milho, algodão, batata ou soja.
+
+       D4 ensina estimulantes de alimentação de cucurbitacina e um tóxico em solução aquosa, em
+        que o tóxico compreende corantes solúveis em água e fotoativos do tipo xanteno. Portanto, não há
+        ensino ou sugestão em relação ao novalurom da presente reivindicação 1.
+
+       Em particular, como mencionado no presente relatório descritivo (paragrafo [009]), a referência
+        Cutler et al. de Pest Manag Sci 2005 constatou que taxas inferiores a 25 g AI ha -1            eram
+
+
+
+                                                                                                    Página 3
+                                          BR112014027046-5
+
+
+       insuficientes para parar a eclosão de ovos do besouro da batata do Colorado e recomendou taxas
+       mais altas de 75 g AI ha -1 . Dado esse entendimento e as revelações de D5 e D6, o técnico no
+       assunto não esperaria o tipo de eficácia fornecido pelo método ora reivindicado.
+
+
+
+       O documento D1 revela a aplicação de novalurom na concentração de aproximadamente
+60 g/ha, em plantas de batata-doce infectadas com Diabrotica balteata, descrevendo os insetos
+na fase adulta e com mais de uma aplicação do produto. Já D4 ensina uma composição aquosa
+eficaz como um inseticida para o controle de Diabrotica, dentre os quais Diabrotica balteata,
+contendo um corante de xanteno fotoativo e um estimulante de alimentação contendo
+cucurbitacina. Além disso, o uso de novalurom para reduzir a eclosão de ovos em insetos já é
+bem descrito por D5 e D6.
+
+       O documento D2 descreve a combinação de novalurom com bifentrina para uso no
+tratamento de besouro em morangos, enquanto que D3 revela composições pesticidas
+compreendendo misturas sinérgicas de novalurom com outros inseticidas para o controle de
+pragas indesejadas, o qual pode ser combinado com bifentrina, lambda-cialotrina e teflutrina.
+
+       Conforme já exposto nos pareceres anteriores, e apresentado acima resumidamente,
+verifica-se que D1 já descreve o uso de novalurom para controlar Diabrotica balteata na fase
+adulta, sendo que a aplicação de novalurom antes do início da oviposição, com a finalidade de
+reduzir a eclosão de ovos, faria parte da experimentação no desenvolvimento de uma
+metodologia, com a finalidade de determinar o melhor momento de aplicação. Ademais, um
+especialista na área combinaria os ensinamentos de D1 com D5 e D6, os quais já revelam o
+efeito positivo do uso de novalurom na redução da eclosão de ovos em insetos, para
+desenvolver um método, conforme pleiteado nas reivindicações 1 e 2.
+
+       De acordo com a requerente, o objetivo do pedido em tela é o de fornecer um novo uso
+do inseticida novalurom, em particular, um método para combater ou controlar insetos do gênero
+Diabrotica, por meio da redução da eclosão de ovos, em várias plantas de cultivo, selecionadas
+a partir de milho, algodão, batata ou soja (segundo nova reivindicação 1). No entanto, o uso de
+novalurom para combater insetos do gênero Diabrotica já é de conhecimento do estado da
+técnica, sendo que a definição do melhor momento de aplicação desse composto, bem como as
+melhores doses de aplicação, representam um aperfeiçoamento dos métodos já revelados pelo
+estado da técnica.
+
+       Cabe mencionar que o efeito positivo do uso de novalurom para reduzir a eclosão de
+ovos em insetos já é descrito no estado da técnica e, portanto, não representa um uso novo,
+independente da dose de aplicação utilizada. Além disso, embora haja uma descrição, como
+apontado pela requerente, de que taxas inferiores a 25 g AI ha -1 eram insuficientes para parar a
+eclosão de ovos do besouro da batata do Colorado, não se pode afirmar que essa indicação se
+aplicaria à qualquer espécie, cabendo ao especialista na área fazer os testes necessários para
+ajustar a melhor dose de aplicação de acordo com seu propósito final.
+
+
+
+
+                                                                                            Página 4
+                                       BR112014027046-5
+
+
+       Nos exemplos do relatório descritivo, foram apresentados dados referentes à redução da
+eclosão de ovos de Diabrotica, a partir da aplicação de novalurom a taxas de 25, 12,5 e 5 g de
+ingrediente ativo por hectare apenas para a cultura de feijão. Não há dados que demonstrem
+que os efeitos positivos obtidos para essa cultura também possam ser extrapolados para as
+demais culturas pleiteadas. Também não há estudos que demonstrem a inventividade do uso de
+inseticidas adicionais em combinação com novalurom, conforme objetivo proposto.
+
+       Desse modo, no presente caso, não existe um equilíbrio razoável entre o escopo de
+proteção das reivindicações 1-9 e a quantidade de exemplos apresentados para demonstrar o
+efeito técnico alegado. É importante destacar que a atividade inventiva baseia-se num
+determinado efeito técnico, que deve em princípio ser alcançável em todo o âmbito reivindicado
+e deve ser evidente nos exemplos. Na ausência de evidência em contrário, haveria uma
+expectativa razoável de êxito em fazer a invenção reivindicada a partir dos ensinamentos
+combinados das referências citadas.
+
+       Ademais, tendo em vista que D4 já ensina uma composição inseticida para o controle de
+Diabrotica contendo cucurbitacina, um técnico no assunto seria motivado a utilizá-lo associado
+ao novalurom, conforme ensinamentos de D1.
+
+       Ainda, conforme discussão no parecer anterior, não é possível conferir atividade
+inventiva ao uso combinado de outro inseticida com novalurom, já que o que se pretende no
+pedido em tela é um novo uso deste composto, além de que o uso combinado de novalurom
+com outros compostos já é revelado pelo estado da técnica (D2 e D3). Já em relação à definição
+de uma área tratada (superior a 10 ha), conforme pleiteado na reivindicação 9, não é possível
+atribuir nenhum efeito não óbvio para um especialista no assunto.
+
+       Dessa forma, considera-se que a obviedade pode ser estabelecida combinando ou
+modificando os ensinamentos dos documentos D1 a D6 para produzir a invenção reivindicada,
+onde há algum ensino, sugestão ou motivação para que seja encontrado nas próprias
+referências ou no conhecimento geralmente disponível para um especialista na área. Por
+conseguinte, a partir do que se encontra revelado no estado da técnica, mantém-se o
+posicionamento acerca da falta de atividade inventiva da matéria objeto de proteção
+(reivindicações 1 a 9) do presente pedido, em desacordo com o disposto nos Art. 8º e 13 da LPI.
+
+
+
+Conclusão
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                                        Página 5
+                               BR112014027046-5
+
+
+
+
+                                                   Publique-se o indeferimento (9.2).
+
+
+
+                                             Rio de Janeiro, 01 de setembro de 2020.
+
+
+
+
+Iulla Naiff Rabelo de Souza Reis
+Pesquisador/ Mat. Nº 1214789
+DIRPA / CGPAT II/DIPAQ
+Deleg. Comp. - Port. INPI/DIRPA Nº
+013/17
+
+
+
+
+                                                                            Página 6
+

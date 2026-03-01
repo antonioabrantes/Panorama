@@ -1,0 +1,375 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112015019995-0           N.° de Depósito PCT: EP2014/000433
+ Data de Depósito:                   18/02/2014
+ Prioridade Unionista:               EP PCT/EP2013/000505 (20/02/2013)
+ Depositante:                        GANYMED       PHARMACEUTICALS         AG     (DE)   ,   TRON     -
+                                     TRANSLATIONALE ONKOLOGIE AN DER UNIVERSITATSMEDIZIN
+                                     DER       JOHANNES      GUTENBERG-         UNIVERSITAT      MAINZ
+                                     GEMEINNUTZIGE GMBH (DE)
+ Inventor:                           UGUR SAHIN, ÖZLEM TÜRECI, RITA MITNACHT-KRAUS, STEFAN
+                                     WÖLL, STEFAN JACOBS, CORNELIA HEINZ
+ Título:                             Combinação terapêutica envolvendo anticorpos contra claudina 18.2
+                                     para tratamento de câncer 
+
+                                                              PARECER
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                   x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    x
+
+O pedido refere-se a Sequências Biológicas                                                             x
+
+Comentários/Justificativas
+
+ANVISA
+
+          Por se tratar de produto/processo farmacêutico, seguindo o disposto no artigo 229-C da
+LPI, incluído pela Lei 10.196/2001, o pedido foi primeiramente encaminhado à ANVISA para as
+providências cabíveis, com notificação a publicada na RPI n° 2455 de 23/01/2018, sob despacho
+7.4. Através do ofício n° 128/20/COOPI/GGMED/ANVISA de 13 de abril de 2020, a ANVISA
+encaminhou um parecer técnico n° 138/20/COOPI/GGMED/ANVISA de 30 de março de 2020,
+sugerindo a prévia anuência com apresentação de subsídios ao presente pedido de patente de
+invenção, nos termos do art. 229-C da Lei n° 9.279/1996, conforme redação dada pela Lei n°
+10.196/2001. A notificação de Anuência prévia do pedido pela ANVISA nas disposições do artigo
+229-C da Lei 9.279/96, foi publicada na RPI n°2574 de 05/05/2020, sob despacho 7.5.
+
+                     Tendo em vista a Portaria Conjunta nº 1, de 12 de abril de 2017, e a Instrução
+Normativa/INPI/DIRPA/CGREC nº 01, de 31 de maio de 2017, que regulamentam os
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                 Página 1
+                                             BR112015019995-0
+
+
+procedimentos para aplicação do art. 229-C da LPI, o parecer da ANVISA pautado em requisitos
+de patenteabilidade será considerado como subsídio ao exame técnico do INPI, nos termos do
+art. 31 da LPI. Além disso, o §7º da Instrução Normativa/INPI/DIRPA/CGREC nº 01, de 31 de
+maio de 2017 define que Quando da prévia anuência, concedida ou negada, o examinador de
+patentes avaliará a pertinência das possíveis modificações efetuadas podendo aceita-las como
+próprias.   Caso    contrário,   rejeitará    as modificações de   forma     fundamentada,   dando
+prosseguimento ao exame em ambos os casos.
+
+       Após a análise e devolução do pedido de patente pela ANVISA damos prosseguimento
+ao exame técnico.
+
+RECURSOS GENÉTICOS
+
+Através da petição n°       860160025033 de 28/01/2016 foi apresentada pelo requerente a
+declaração negativa de acesso aos recursos genéticos brasileiro.
+
+
+
+LISTAGEM DE SEQUÊNCIAS
+
+O pedido apresenta listagem de sequências apresentada em formato eletrônico através da
+petição nº 860150182377 de 19/08/2015.
+
+
+
+                            Quadro 1  Páginas do pedido examinadas
+            Elemento                         Páginas        n.o da Petição             Data
+Relatório Descritivo                         1 a 223       860150182377              19/08/2015
+Listagem de sequências*                                                              19/08/2015
+                                   Código de Controle      860150182377
+
+Quadro Reivindicatório
+                                              1a6           870200113523             08/09/2020
+
+Desenhos                                     1 a 54        860150182377              19/08/2015
+Resumo                                         1           860150182377              19/08/2015
+
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+     7EE5CD7472CE5900 (Campo 1) e 1146678CA4FD0CC3 (Campo 2).
+
+
+
+
+       Cabe lembrar que a ANVISA apresentou tempestivamente subsídios ao exame técnico
+através do ofício de anuência prévia Ofício nº 128/20/COOPI/GGMED/ANVISA de 13 de abril de
+2020. A pertinência dos documentos citados foi avaliada e utilizada ao longo do parecer técnico
+de primeiro exame.
+
+
+
+
+                                                                                             Página 2
+                                           BR112015019995-0
+
+
+         No primeiro exame técnico publicado na RPI 2579 de 09/06/2020, foi feita uma ciência de
+parecer, com despacho 7.1 ao pedido em análise. Foram apontadas irregularidades acerca dos
+artigos 8° c/c 11 e 13 da LPI 9279/96.
+
+         Por meio da petição n°870200113523 de 08/09/2020, a requerente se manifestou sobre o
+primeiro parecer técnico. Foram apresentados argumentos acerca do primeiro exame técnico e
+anexados um novo quadro reivindicatório, contendo 21 reivindicações.
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                           Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                       x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   x
+O pedido está de acordo com disposto no art. 32 da LPI                    x
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1       BRPI0618920                                                             2006
+   D2**      BR112014028941                                                        28/11/2013
+   D3**      BR112014028948                                                        28/11/2013
+
+
+
+**O documento D2 e D3 tratam de um pedido de patente do mesmo depositante do presente
+pedido, depositado no Brasil com data de depósito internacional em 21/05/2012 e publicação
+internacional em 28/11/2013.
+
+         Segundo o artigo 11 §2° e §3° da LPI:
+
+
+
+
+                                                                                         Página 3
+                                         BR112015019995-0
+
+
+§ 2º Para fins de aferição da novidade, o conteúdo completo de pedido depositado no Brasil, e
+ainda não publicado, será considerado estado da técnica a partir da data de depósito, ou da
+prioridade reivindicada, desde que venha a ser publicado, mesmo que subsequentemente. § 3º
+O disposto no parágrafo anterior será aplicado ao pedido internacional de patente depositado
+segundo tratado ou convenção em vigor no Brasil, desde que haja processamento nacional.
+
+       Por se tratar de documentos publicados após o depósito da prioridade do pedido ora
+em análise (realizado em 20/02/2013), seguindo o definido no artigo 11 §2° e §3° da LPI, bem
+como o item 3.11 da Resolução 169/2016- Bloco II das Diretrizes DIRPA, tais documentos são
+validos para aferição apenas da novidade do presente pedido de patente BR112015019995-0.
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento              Reivindicações
+                                                  Sim                       1 a 21
+           Aplicação Industrial
+                                                  Não                         --
+                                                  Sim                         --
+                Novidade
+                                                  Não                       1 a 21
+
+                                                  Sim                         --
+           Atividade Inventiva
+                                                  Não                       1 a 21
+OBS: Não foi avaliado o requisito de atividade inventiva em relação aos documentos D2 e D3
+que o documento citado D2 e D3 são documentos PN, que foi publicado após o depósito da
+prioridade do presente pedido, somente podendo ser usado para análise do requisito de
+novidade, segundo os termos do artigo 11 §2° da LPI.
+
+
+
+
+Comentários/Justificativas
+
+       No primeiro exame técnico publicado na RPI 2579 de 09/06/2020, foi feita uma ciência de
+parecer, com despacho 7.1 ao pedido em análise. Foram apontadas irregularidades acerca dos
+artigos 8° c/c 11 e 13 da LPI 9279/96.
+
+       Por meio da petição n°870200113523 de 08/09/2020, a requerente se manifestou sobre o
+primeiro parecer técnico. Foram apresentados argumentos acerca do primeiro exame técnico e
+anexados um novo quadro reivindicatório, contendo 21 reivindicações.
+
+       Dentre os argumentos apresentados foram destacados os seguintes discorridos abaixo:
+
+
+
+
+                                                                                        Página 4
+                                      BR112015019995-0
+
+
+   Em relação a novidade, as Requerentes esclarecem que as novas reivindicações
+    independentes 1, 4, 17 e 18 foram emendadas de modo a definir que o anticorpo
+    compreende cadeias pesadas e leves com as sequências CDR de IMAB362 e que a
+    terapia de combinação ou combinação é com gemcitabina (ou um pró-fármaco, sal,
+    conjugado ou éster da mesma).
+
+   Nesse sentido, as Requerentes salientam que o uso de uma combinação de um anticorpo
+    possuindo as sequências CDR de IMAB362 e gemcitabina para o tratamento de
+    câncer pancreático não é prevista nos documentos do estado da técnica D1 a D3 citados.
+
+   Em relação à atividade inventiva, as Requerentes enfatizam que nenhum dos documentos
+    D1 a D3, sozinhos ou em combinação, seria capaz de fornecer uma expectativa
+    razoável de sucesso de que uma combinação do anticorpo anti-CLDN18.2 IMAB362
+    e gemcitabina pudesse tratar o câncer pancreático.
+
+   O documento D1 divulga um modelo de camundongo para câncer e um efeito terapêutico
+    (isto é, inibição do crescimento tumoral e sobrevida prolongada) induzido por uma
+    monoterapia com vários anticorpos dirigidos contra CLDN18.2 (consulte, por favor, por
+    exemplo, a página 200, linha 17 a página 203, linha 17 do documento D1).
+
+   No entanto, as Requerentes esclarecem que no modelo de camundongo de câncer
+    pancreático, o anticorpo designado como 175D10 (182-D1106-362) não produziu
+    nenhum efeito na inibição do crescimento tumoral ou na vida dos animais de teste.
+    De fato, a sobrevivência de camundongos tratados com 175D10 (182-D1106-362) foi
+    indistinguível de camundongos de controle tratados com PBS (consulte, por favor, a Figura
+    27B do documento D1).
+
+    nenhum dos documentos D1 a D3 ensina ou sugere que o nível de expressão de
+    CLDN18.2 em células de câncer pancreático é significativamente aumentado pela
+    gemcitabina. Em vista do exposto, um técnico versado no assunto, no momento em que a
+    invenção foi depositada, não teria uma expectativa razoável de sucesso de chegar à
+    invenção tal como reivindicada.
+
+   Portanto, juntos, esses resultados estabelecem um aumento surpreendentemente seletivo
+    na quantidade de proteína CLDN18.2 após o tratamento de células de câncer pancreático
+    com gemcitabina. Assim, o uso de uma terapia de combinação do anticorpo anti-CLDN18.2
+    definido na reivindicação 1 e gemcitabina não teria sido óbvio tendo em vista o
+    estado da técnica anterior citado.
+
+
+
+
+                                                                                    Página 5
+                                           BR112015019995-0
+
+
+       Dando prosseguimento ao exame técnico, verifica-se que os argumentos apresentados
+pelo requerente não foram considerados satisfatórios.
+
+       O pedido descreve uma terapia combinada para o tratamento e/ou prevenção de
+doenças associadas com células que expressam CLDN18.2, incluindo doenças cancerosas,
+especialmente o câncer pancreático. De maneira mais específica, o pedido trata da
+administração combinada do anticorpo IMAB362 e um agente de                 estabilização tal    como
+gemcitabina,     oxaliplatina,   5-fluorouracila, cisplatina, paclitaxel, docetaxel, irinotecano entre
+outros ou combinações destes agentes.
+
+       Os documentos citados D1 a D3, tratam dos citados anticorpos monoclonais contra a
+proteína CLDN18.2 e o uso destes anticorpos em terapias combinadas com diferentes
+agentes quimioterápicos. Mais especificamente, D1 revela o dito anticorpo 182-D1106-362 (ver
+tabela 4), que em sua versão quimérica compreende a cadeia pesada dada pela SEQ ID NO 118
+e a cadeia leve SEQ ID NO 125. A SEQ ID NO 125 tem 100% de identidade com a cadeia leve do
+anticorpo IMAB362. D1 revela também o uso desse anticorpo no tratamento de câncer, em
+especial para câncer gástrico, pulmonar, pancreático e de esôfago (ver reivindicação 8 de D1).
+Ainda, o pedido sugere o uso combinado desse anticorpo com outros agentes terapêuticos que
+podem estar conjugados (ver reivindicação e páginas 134 e 135 de D1). Assim, mantêm-se o
+questionamento de falta de novidade para o pedido, e especial para reivindicação 1.
+
+       Já D2 descreve que a ADCC e a CDC mediadas pelo anticorpo IMAB362 são mais
+eficientes em células cancerosas que são pré-tratadas com agentes quimioterápicos (como
+epirubicina, oxaliplatina, 5-FU, ácido folínico e combinações destes). O documento revela
+ainda que a expressão de CLDN18.2 em linhagens celulares de câncer gástrico é
+estabilizada através do tratamento com agentes quimioterápicos como epirubicina, 5-FU ou
+oxaliplatina.
+
+       D3       descreve a utilização combinada do anticorpo anti-CLDN18.2 com               agentes
+quimioterápicos, como por exemplo oxaliplatina, 5-FU, irinotecano, docetaxel, entre outros e
+combinações dos mesmos, análogos de nucleosídeos, no tratamento ou prevenção de doenças
+cancerígenas, tais como os cânceres do estômago, do esôfago, do pâncreas, do pulmão, do
+ovário, do fígado, de cabeça e pescoço, da vesícula biliar e suas respetivas metástases
+(ver pags. 7 a 10 do relatório descritivo; reivindicação 1). É indicado o uso combinado desses
+compostos com agentes estimuladores de células-T  (ver pág 9 e 10 do relatório descritivo).
+
+       O item 9.1.1 da Resolução 237/2018 (Diretrizes de exame na área de química) define
+que para novidade de um novo uso médico, a invenção de novo uso médico deve revelar a
+aplicação de um produto farmacêutico jé conhecido para produzir um medicamento para tratar
+
+
+
+                                                                                                Página 6
+                                         BR112015019995-0
+
+
+ou prevenir uma doença diferente daquela para a qual este produto ja era empregado no estado
+da técnica. Características relacionadas ao uso do composto, tais como o esquema terapêutico
+(dosagem, via de administração/aplicação, intervalo posológico) e/ou grupo de pacientes não
+conferem novidade ao uso conhecido do composto.
+
+          O pedido trata do uso de um anticorpo anti-claudina 18.2 conhecido (IMAB362),
+combinado com agentes antineoplásicos como análogos de nucleosídeos, inibidores do ciclo
+celular e outros para tratamento de câncer, que também já foram revelados no estado da técnica
+para serem usados em combinação com este mesmo anticorpo no tratamento de câncer. A única
+diferença é o tipo celular usado como alvo. No entanto, o mecanismo de ação dos compostos
+combinados (anticorpo + droga) que é se ligar a molécula de claudina 18.2 na superfície celular
+(anticorpo) e agir bloqueando o ciclo celular ou como agente de estabilização (droga) é o
+mesmo, seja para câncer gástrico, como citado em D2 e D3 ou para câncer pancreático, citado
+especificamente neste pedido. Sendo assim, conclui que não há novidade para o Uso pleiteado
+no presente pedido, bem como para a preparação farmacêutica e kit de compostos conhecidos
+pleiteada na presente invenção. Portanto, o pedido não atende ao disposto nos artigos 8° c/c 11
+da LPI.
+
+          Da mesma forma, não se observa uma atividade inventiva do pedido frente a D1, que já
+descreve o anticorpo da invenção e sugere seu uso combinado com antineoplásicos citados no
+presente pedido para tratar diversos canceres, inclusive câncer pancreático. Assim, o pedido
+não atende ao disposto nos artigos 8° c/c 13 da LPI.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -     não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+      -     não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+     -
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+
+                                                                                           Página 7
+                               BR112015019995-0
+
+
+                                                  Rio de Janeiro, 01 de outubro de 2020.
+
+
+
+
+Camila Chaves Santos
+Pesquisador/ Mat. Nº 1741260
+DIRPA / CGPAT II/DIMOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+023/12
+
+
+
+
+                                                                               Página 8
+

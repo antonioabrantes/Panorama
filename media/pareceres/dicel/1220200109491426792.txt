@@ -1,0 +1,197 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122020010949-1                        N.° de Depósito PCT:
+ Data de Depósito:                   20/12/2010
+ Prioridade Unionista:               -
+ Depositante:                        APPLE INC. (US)
+ Inventor:
+ Título:                             Dispositivo Acessório com União Magnética
+
+                                                              PARECER
+Inicialmente, ressalta-se que este pedido de invenção é uma divisão a partir do pedido original
+PI1004908-8.
+
+Em 05/03/2013, por meio da petição 020130018117, a requerente apresentou pedido de exame
+do pedido original PI1004908-8 com 20 (vinte) reivindicações.
+
+Em, 10/03/2020  RPI 2566, foi feita notificação de despacho 6.21 para que a requerente se
+manifestasse em relação ao pedido original PI1004908-8, porém, isso não foi feito por parte da
+requerente.
+
+Após isso, a requerente dividiu esse pedido original em outro pedido de invenção  no caso,
+este e, em 29/05/2020, por meio da petição 870200067238, a requerente ingressou com este
+pedido dividido.
+
+Em 05/01/2021 foi emitido um parecer de ciência para a presente invenção e em 27/04/2021,
+através da petição 870210037760, houve manifestação da requerente com argumentações e
+modificações no quadro reivindicatório.
+
+A presente invenção refere-se a um mecanismo de união magnética e método são descritos.
+O mecanismo de união magnética pode ser usado para unir de modo remível pelo menos dois
+objetos em uma configuração preferida sem prendedores e sem intervenção externa. O
+mecanismo de união magnética pode ser usado para unir de modo remível um dispositivo
+acessório em um dispositivo eletrônico. O dispositivo acessório pode ser usado para
+ampliar a funcionalidade de utilidade do dispositivo eletrônico.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                          Página 1
+                                         BR122020010949-1
+
+
+                           Quadro 1  Páginas do pedido examinadas
+           Elemento                     Páginas               n.o da Petição             Data
+
+Relatório Descritivo                     1-108                870210037760            27/04/2021
+Quadro Reivindicatório                     1-2                870210037760            27/04/2021
+Desenhos                                  1-52                870200067238            29/05/2020
+Resumo                                      1                 870210037760            27/04/2021
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                 Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                         x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                 x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                         x
+O pedido está de acordo com disposto no art. 32 da LPI                                      x
+Comentários/Justificativas
+
+Na ocasião do primeiro exame, indicou-se que o quadro apresentado não estava de acordo com
+o disposto no Artigo 32 da Lei 9.279/96 (LPI).
+
+A requerente, por sua vez, ingressou com uma manifestação a esse primeiro exame com
+argumentações e modificações no quadro reivindicatório.
+
+Quanto às argumentações, a requerente basicamente indica, no relatório descritivo, o suporte
+das emendas no novo quadro apresentado. Entretanto, ressalte-se que qualquer modificação no
+quadro reivindicatório deve preservar o escopo do quadro reivindicatório apresentado no pedido
+original PI1004908-8.
+
+Com relação às modificações no quadro reivindicatório, o presente pedido, dividido do pedido
+original PI1004908-8, permanece em desacordo com o disposto no Artigo 32 da Lei 9.279/96
+(LPI), pois ao comparar o quadro reivindicatório atual do presente pedido com o quadro válido
+quando do pedido de exame do pedido original (Petição 020110055863 de 30/05/2011) verifica-
+se que o objeto de proteção do presente pedido foi ampliado em relação ao pedido original.
+
+
+
+Pedido Original PI1004908-8                          Pedido dividido BR122020010949-1
+R1 : Unidade acessória, compreendendo:               R1: Dispositivo acessório capaz de união
+- um corpo acessório e                               magnética separável a um dispositivo eletrônico
+- um conjunto magnético articuladamente              portátil compreendendo:
+conectado no corpo acessório, compreendendo          - um corpo que é capaz de portar:
+uma primeira pluralidade de elementos                características (i) dispositivo de entrada tendo
+magnéticos e uma segunda pluralidade de              um componente eletrônico capaz de prover um
+elementos magnéticos com características            sinal e (ii) elemento magnético capaz de unir
+magnéticas específicas.                             magneticamente o corpo a um alojamento do
+
+
+                                                                                            Página 2
+                                          BR122020010949-1
+
+
+R2-R13: unidades dependentes da R1.                   dispositivo eletrônico portátil.
+R14: Dispositivo acessório de acordo com R9-
+R13.                                                  R2-R6: dispositivos acessórios dependentes da
+R15: Método de formação de uma unidade                R1 com meros detalhamentos em relação à
+acessória que compreende:                             reivindicação 1.
+- prover um corpo acessório e
+-       prover um conjunto magnético que
+compreende caraterísticas magnéticas.
+R16-R20: métodos dependentes da R15.
+
+
+
+
+Ao comparar o quadro acima conclui-se que o quadro, em sua íntegra, do presente pedido
+refere-se a objetos que não estavam reivindicados no quadro reivindicatório válido quando do
+pedido de exame do pedido original, contrariando o disposto nos itens 2.1 (iv), 2.6 e 2.7 da
+Resolução INPI PR 93/2013.
+
+Portanto, ratifica-se que o quadro reivindicatório atual apresentado pela requerente permanece
+em desacordo com o disposto no Artigo 32 da Lei 9.279/96 (LPI) e, conforme com os itens 2.5 e
+3.3 (2.i) da Resolução INPI PR 93/2013.
+
+
+
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI            --                 --
+
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI          --                 --
+Comentários/Justificativas
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                   Data de publicação
+    --      --                                                                                --
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento                  Reivindicações
+                                                        Sim                              --
+           Aplicação Industrial
+                                                        Não                              --
+                                                        Sim                              --
+                   Novidade
+                                                        Não                              --
+
+                                                        Sim                              --
+           Atividade Inventiva
+                                                        Não                              --
+
+
+
+                                                                                                   Página 3
+                                      BR122020010949-1
+
+
+Comentários/Justificativas
+
+
+
+
+Conclusão
+
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+     -   acréscimo de matéria do pedido ou do escopo das reivindicações (Art. 32 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 27 de maio de 2021.
+
+
+
+
+Michel Igor de Almeida Ennes
+Pesquisador/ Mat. Nº 2041239
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+001/16
+
+
+
+
+                                                                                        Página 4
+

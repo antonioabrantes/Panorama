@@ -1,0 +1,159 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112013014036-4          N.° de Depósito PCT:EP2011/071988
+ Data de Depósito:                   07/12/2011
+ Prioridade Unionista:               FR 1060199 (07/12/2010); US 61/426,313 (22/12/2010)
+ Depositante:                        LOREAL (FR)
+ Inventor:                           CAROLINE GOGET; KATIA DUTHEIL-GOURET; LUDIVINE
+                                     MASSELIN; MARIKA FILA
+ Título:                             Composição de tintura, processo de tintura do cabelo e dispositivo
+                                     com dois compartimentos 
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1  27               870190036029           15/04/2019
+Quadro Reivindicatório                                   17                 870190036029           15/04/2019
+Desenhos                                                                                              
+Resumo                                                      1                870190036029           15/04/2019
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+Comentários/Justificativas
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         X
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                       BR112013014036-4
+
+
+                         Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                                Data de publicação
+    D1       EP 0 548 620                                                          30/06/1993
+    D3       US 5,554,197                                                          10/09/1996
+    D4       FR 2 803 196                                                          30/12/1999
+    D5       EP 1 426 040                                                          09/06/2004
+    D6       EP 1 329 216                                                          23/07/2003
+    D7       EP 2 092 933                                                          20/02/2009
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento                   Reivindicações
+                                                   Sim                          1  14
+            Aplicação Industrial
+                                                   Não                            
+                                                   Sim                          1  14
+                 Novidade
+                                                   Não                            
+
+                                                   Sim                            
+            Atividade Inventiva
+                                                   Não                          1  14
+
+
+
+Comentários/Justificativas
+
+         Os copolímeros de quaternário de amônio são melhor especificados na reivindicação 6
+da invenção, e são todos ensinados em D4 de forma específica como ingredientes preferenciais
+na categoria polímeros catiônicos nas linhas 24 a 30 da página 25. Especificamente nas linhas
+18 da página 26 até 19 da página 27 são aqueles ora pleiteados no item 1 da reivindicação 6 da
+invenção, por exemplo. Também os demais grupos 2 a 6 da reivindicação 6 da invenção são
+totalmente descritos. Também são ensinados tensoativos não iônicos que são policondensados
+de óxido de etileno e óxido de propileno, com ampla superposição aos pleiteados na
+reivindicação 1 da invenção.
+
+         D1 ensina particularmente tensoativos não iônicos tais como aqueles ora pleiteados na
+reivindicação 1 da invenção na linha 41 da página 2 e na reivindicação 9.
+
+         Os exemplos trazidos pela requerente na tabela 1 do anexo II mostram que copolímeros
+quaternários de amônio com densidade de cargas maiores que 6,2 meq/g, como mencionado
+nas linhas 5 e 6 da página 5 dos esclarecimentos trazidos pela requerente em sua manifestação,
+trazem melhoramentos técnicos, de forma que a matéria da reivindicação 1 da invenção não se
+limita aos casos em que são trazidos melhoramentos técnicos devido ao uso de copolímeros
+com alta densidade de cargas, já que limita a densidade de cargas a maiores que 4 meq/g. Os
+melhoramentos técnicos são mensurados pelo parâmetro L* na tabela 2 do anexo II.
+
+
+
+
+                                                                                             Página 2
+                                       BR112013014036-4
+
+
+       O uso de copolímeros quaternários de amônio e policondensados de óxido de etileno e
+óxido de propileno é comum na formulação de composições de tinturas para cabelos, de forma
+que um técnico no assunto interessado em formular novas composições teria motivos para
+utilizar os policondensados de óxido de etileno e propileno ensinados em D1 em conjunto com
+copolímeros de quaternários de amônio como aqueles ensinados em D4 para obter novas
+composições.
+
+       Assim, como a reivindicação 1 não é capaz de limitar seu escopo de proteção aos casos
+vantajosos através da seleção de valores altos de densidade de cargas para os polímeros
+catiônicos, nem determina valores que devem ser alcançados no parâmetro L*, que
+efetivamente relaciona-se a vantagem técnica alegada, se mantém a opinião de falta de
+atividade inventiva das composições pleiteadas nas reivindicação 1 da invenção quando
+confrontadas com os ensinamentos trazidos no estado da técnica tal como mencionado no
+parecer anterior, que incluem o caso específico da combinação entre D1 e D4 ora exemplificada.
+Também, as limitações trazidas nas reivindicações 2 a 14 não são capazes de distanciar a
+invenção dos ensinamentos trazidos no estado da técnica D1 e D4 de forma dotada de atividade
+inventiva.
+
+       Portanto a matéria das reivindicações 1 a 14 da invenção não tem atividade inventiva
+frente aos documentos D1 e D4 combinados de acordo com o Art. 13 da LPI. Também os
+documentos D3, D5, D6 e D7 afetam a atividade inventiva da invenção como já mencionado no
+parecer anterior de acordo como Art. 13 da LPI.
+
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+                                                             Rio de Janeiro, 1 de outubro de 2019.
+
+
+
+
+Edilson Grünheidt Borges
+Pesquisador/ Mat. Nº 1550609
+DIRPA / CGPAT II/DIBIO
+Deleg. Comp. - Port. INPI/DIRPA Nº
+003/14
+
+
+
+
+                                                                                          Página 3
+

@@ -1,0 +1,291 @@
+                                       SERVIÇO PÚBLICO FEDERAL
+                                        MINISTÉRIO DA ECONOMIA
+                            INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                            RELATÓRIO DE EXAME TÉCNICO
+
+  N.° do Pedido:                      BR122019018643-0         N° de Depósito PCT:
+  Data de Depósito:                   08/06/2009
+  Prioridade Unionista:               US 61/073,581 (18/06/2008)
+  Depositante:                        DOW GLOBAL TECHNOLOGIES INC. (US)
+  Inventor:                           ANTHONY J. CASTELLUCCIO; JEFFREY J. DEAN; ALEC Y. WANG;
+                                      ANNE LINDSEY MILLER; PRADEEP JAIN; ROGER L. KUHLMAN;
+                                      ANGELA N. TAHA; LARRY SHAYNE GREEN; GARY R. MARCHAND;
+                                      SEAN W. EWART; JEFFREY A. SIMS; CHRIS BLASCHKE;
+                                      BRANDON FAILS
+  Título:                             PROCESSO DE REAÇÃO PARA PRODUZIR INCRUSTAÇÕES
+
+                                                                 PARECER
+                 Pedido de divisão do PI0909923-9, depositado em 08 de junho de 2009.
+
+          Em resposta ao parecer realizado em 14 de abril de 2020, notificado pela publicação na
+RPI n° 2572, de 22 de abril de 2020, a depositante apresentou na petição n° 870200092775, de
+24 de julho de 2020, novas folhas do relatório descritivo para harmonização do título, do quadro
+reivindicatório modificado com 7 reivindicações e do resumo, em razão das objeções oferecidas
+no referido parecer.
+
+                                       Quadro 1  Páginas do pedido examinadas
+                 Elemento                               Páginas              no da Petição           Data
+
+ Relatório Descritivo                                   1 a 130              870200092775          24/07/2020
+ Quadro Reivindicatório                                   1a4                870200092775          24/07/2020
+ Desenhos                                                 1a7                870190088685          09/09/2019
+ Resumo                                                      1               870200092775          24/07/2020
+
+
+    Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei no 9279 de 14 de
+                                    maio de 1996  LPI
+ Artigos da LPI                                                                              Sim       Não
+ A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                    X
+ A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                            X
+ O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                     X
+ O pedido está de acordo com disposto no art. 32 da LPI                                      X
+Comentários/Justificativas: ---
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                             Página 1
+                                           BR122019018643-0
+
+                Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+ Artigos da LPI                                                           Sim           Não
+ O relatório descritivo está de acordo com disposto no art. 24 da LPI     X
+ O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                  X
+Comentários/Justificativas:
+
+       O novo quadro reivindicatório com 7 reivindicações, embora tenha sofrido modificações
+em sua formulação, permanece sem definir de modo claro e preciso, a matéria objeto de
+proteção, em desacordo, portanto, com o artigo 25 da Lei da Propriedade Industrial e Instrução
+Normativa n°30/2013.
+
+       A única reivindicação independente (reivindicação principal 1) referindo-se em seu
+preâmbulo de forma vaga apenas a um processo de reação apresenta formulação confusa e
+imprecisa e as reivindicações dependentes não apresentam qualquer característica técnica
+adicional que, em combinação com as características de qualquer uma das reivindicações a que
+se referem, possa melhor definir o pleito e, assim, prover os requisitos necessários à
+patenteabilidade.
+
+       O item (I) da reivindicação principal 1 define que o processo de reação é
+caracterizado pelo fato de compreender:
+
+       (I) reagir uma mistura via uma reação para formar pelo menos um produto
+compreendendo (a) e (b) (o que não faz o menor sentido), sendo:
+
+       (a) um interpolimero em multi-bloco de etileno/alfa-olefina compreendendo pelo menos
+50 moles por cento de etileno que, antes de qualquer reticulação, tem uma ou mais das
+características (1) a (7) definidas na reivindicação, e.
+
+       (b) um composto de alquila metálico, um óxido metálico, ou uma mistura destes.
+
+       As condições do processo de reação não são definidas de forma clara na
+reivindicação principal 1, ou em qualquer outra reivindicação dependente 1 a 6 do quadro
+reivindicatório, que sequer definem os componentes da mistura.
+
+       A mistura responsável pela formação de pelo menos um produto compreendendo (a)
+e (b) é mencionada apenas de forma genérica na reivindicação, sem que seus componentes
+sejam definidos ou identificados. A reivindicação 1 define os componentes (a) e (b) formados no
+processo de reação sem que as características para alcançar os componentes (a) e (b) sejam
+definidas, o que é inaceitável.
+
+       Na reivindicação 1, página 2 do quadro reivindicatório, é apresentado o item (2), sem
+ordem sequencial, já que não foi citado o item (1). No item (2), presume-se que seja item (II) é
+definido desativar qualquer catalisador em pelo menos um produto que passa por um trocador
+de calor na etapa (3)...
+
+
+                                                                                         Página 2
+                                       BR122019018643-0
+
+       No entanto, não há nada definido na reivindicação 1 a respeito de qualquer catalisador
+no processo de reação.
+
+       A reivindicação 1 define um processo de reação pela formação de pelo menos um
+produto compreendendo um interpolímero (a) com características estabelecidas, mas não
+define as características técnicas específicas e essenciais para se chegar a tal produto.
+
+       O referido processo não é claro já que presume que uma mistura aleatória qualquer (não
+definida) possa originar um produto compreendendo um interpolímero com características
+estabelecidas, componente (a), além de outros compostos, componente (b), inaceitável,
+portanto.
+
+       Por outro lado, os seguintes documentos do estado da técnica foram considerados de
+particular relevância:
+
+                           Quadro 4  Documentos citados no parecer
+
+  Código                               Documento                               Data de publicação
+     D1                              US2006199897                                     07/09/2006
+
+     D2                              WO2007149274                                     27/12/2007
+
+     D3                                EP1588843                                      26/10/2005
+
+     D4                              US2006199931                                     07/09/2006
+
+     D5                                US5889099                                      30/03/1999
+
+
+   Quadro 5  Análise dos Requisitos de Patenteabilidade (Artigos 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento                Reivindicações
+                                                    Sim                         1a7
+            Aplicação Industrial
+                                                    Não                           -
+                                                    Sim                         1a7
+                 Novidade
+                                                    Não                           -
+
+                                                    Sim                           -
+            Atividade Inventiva
+                                                    Não                         1a7
+Comentários/Justificativas:
+
+       Com relação às anterioridades mencionadas no parecer, a depositante argumenta que
+nenhuma combinação de D1 a D5 divulga ou sugere o processo de reação, tal como definido
+na nova reivindicação 1 especificamente alterada, a qual reivindica um processo de reação.
+
+       Conforme alega a depositante não há nenhum ensinamento nos documentos
+anteriores para adicionar estearato de cálcio a um efluente de polímero após a desativação
+do catalisador e antes de passar para um aquecedor pós-reator.          Alguns dos documentos
+anteriores citados ensinam apenas a composição de copolímero de etileno/alfa-olefina com
+
+                                                                                            Página 3
+                                       BR122019018643-0
+
+estearato de cálcio para formar uma composição de mistura e depois processar a mistura
+através de uma extrusora.
+
+       O documento D1, conforme mencionado em parecer técnico anterior, (reivindicações 1 a
+7, 25 a 27) não só define o interpolímero em multi-bloco de etileno/alfa-olefina como as
+características definidas pelos parâmetros de (1) a (7) e, ainda, o éster metálico. Os Exemplos
+20 a 26 apresentam a preparação desses polímeros usando um composto alquil-metálico
+(dietil-zinco) em um misturador estático onde a corrente de produto é aquecida por um trocador
+de calor.
+
+       No novo quadro reivindicatório, a combinação das etapas processuais não só é
+responsável por um produto diferente, mas o processo de reação ora reivindicado não só
+evita as incrustações tão conhecidas nos trocadores de calor pós-reator, como também a
+redução da área de seção transversal do referido trocador de calor mantendo o mesmo padrão
+de transferência global de calor, assim como a eficiência do trocador de calor.
+
+       Consequentemente, o processo ora reivindicado é um processo melhorado que assiste
+na redução/eliminação de incrustações nos equipamentos, tais como trocadores de calor
+pós-reator.     Os   parâmetros      específicos    do   interpolimero     em     multi-bloco   de
+etileno/alfa-olefina, obtido a partir do processo de reação ora reivindicado são
+responsáveis por esses efeitos vantajosos frente ao estado da técnica apresentado. (negritos
+nossos)
+
+       A depositante menciona entender que o documento D1 é silente sobre qualquer
+divulgação ou sugestão de um éter metálico com a fórmula reivindicada especificamente pelo
+processo em exame. Em vez disso, os ésteres divulgados por D1 são ésteres de resina, como
+éter de glicerol ou pentaeritritol de resina natural ou modificada.      O produto resultado do
+processo empregado contém 10-10.000 ppm de éster metálico o que significa uma composição
+distinta daquela composição definida em D1.
+
+       Em relação à referência D2, a depositante entende que tal documento falha em divulgar
+ou sugerir um interpolimero de etileno/alfa-olefina multi-bloco com o conteúdo de etileno
+especificamente reivindicado, uma estrutura de bloco com uma Mw/Mn, ponto de fusão e
+relação de densidade. O documento D2 fornece uma única menção sobre um copolímero em
+bloco. Esse documento anterior é silente sobre qualquer descrição do teor de etileno, estrutura
+do bloco, Mw/Mn, ponto de fusão e relação de densidade do referido copolímero em bloco.
+
+       Examinando o novo quadro reivindicatório com 7 reivindicações submetido à análise; as
+argumentações da depositante apresentadas na manifestação ao parecer; a matéria conforme
+revelada no pedido, assim como a matéria revelada nos documentos apontados neste parecer,
+não foi possível, entretanto, concordar plenamente com a depositante pelas razões a seguir:
+
+       As alegações da depositante não se mostraram convincentes, assim como as
+modificações realizadas no novo quadro reivindicatório não superaram as objeções relativas à
+falta de clareza da matéria reivindicada, conforme mencionado no Quadro 3 deste parecer.
+                                                                                           Página 4
+                                        BR122019018643-0
+
+Portanto, permanecem as objeções relativas ao artigo 25 da LPI, assim como as objeções
+relativas ao mérito da matéria reivindicada.
+
+       Cabe ressaltar que composições compreendendo um interpolímero em multi-bloco de
+etileno/alfa-olefina e um éster metálico já estão reveladas em técnica anterior.. O documento
+D1 (reivindicações 1 a 7, 25 a 27) não só define o interpolímero em multi-bloco de
+etileno/alfa-olefina como as características definidas pelos parâmetros de (1) a (7) e,
+ainda, o éster metálico. Os Exemplos 20 a 26 apresentam a preparação desses polímeros
+usando um composto alquil-metálico (dietil-zinco) em um misturador estático onde a corrente de
+produto é aquecida por um trocador de calor.
+
+       O documento D2 (verificar exemplos e reivindicações 1 a 6 e 9 a 11) descreve a
+desativação de espécies catalíticas ativas e de resíduos catalíticos de neutralização para
+evitar incrustações compreendendo adicionar um desativador de catalisador e um sal de um
+metal alcalino terroso do ácido fosfórico ou fosfônico a uma corrente de poliolefina na saída do
+reator de polimerização (reivindicações 1, 2). Nos Exemplos (páginas 11 a 14) um polímero de
+etileno/1-octeno é preparado na presença de um pró-catalisador e cocatalisador de
+trietil-alumínio (um composto alquil-metálico).   A corrente do produto passa através de um
+misturador estático seguido pela adição do sal de ácido fosfônico (Irganox TM 1425, um composto
+de éster metálico) e bis(1,2,2,6,6,-pentametil-4-piperidinil) sebacato suficiente (Irgafos TM 168)
+para produzir 1000 ppm de polímero desvolatilizado. O documento D2 não revela explicitamente
+os parâmetros (1) a (7) do interpolímero, o que é revelado em D1. Portanto, tendo em vista a
+matéria revelada em D2, combinada com os ensinamentos descritos em D1, a matéria conforme
+definida no pedido em exame é óbvia para um técnico no assunto.
+
+       O documento D3 (parágrafo [0219]) descreve uma poliolefina baseada em um filme
+multicamada biaxialmente orientado tendo uma camada de superfície compreendendo um
+copolímero em bloco ao acaso de etileno e propileno, obtido através da polimerização
+sequencial, catalisado por um componente de metaloceno. Estearato de cálcio é adicionado
+como um neutralizador ao pó de copolímero em bloco ao acaso obtido conforme produzido no
+Exemplo 1, página 26, parágrafo [0219]. Os parâmetros densidade, TREF, Tm, Mw/Mn, calor de
+fusão e módulo de armazenamento são revelados para estes copolímeros em bloco de etileno e
+alfa-olefina (Tabelas 4 e 7; Figuras 1 a 3). Portanto, tendo em vista a matéria revelada em D3,
+ou em D1, combinada com os ensinamentos descritos em D2, a matéria conforme definida no
+pedido em exame é óbvia para um técnico no assunto.
+
+       O documento D4 (resumo, parágrafo [0303], reivindicação 1) descreve fibras
+compreendidas de interpolímeros de etileno e alfa-olefina. O interpolímero é caracterizado por
+uma recuperação elástica, Re, e uma densidade, d, em que a recuperação elástica e a
+densidade satisfazem a relação: Re>1481 - 1629(d). O referido interpolímero ainda pode ser
+caracterizado por outras propriedades, tais como Mw/Mn, calor de fusão etc. conforme definidas
+nos itens (a) a (d) da reivindicação 1 de D4. De acordo com D4 (parágrafo [0303]), antioxidantes
+(por ex. Irgafos 168, Irganox 1010, Irganox 3790, etc) podem ser adicionados ao interpolímero
+                                                                                          Página 5
+                                          BR122019018643-0
+
+para proteger contra a degradação na operação de moldagem ou produção e/ou para melhorar o
+controle no grau de grafitização ou reticulação do interpolímero. Aditivos de processo, como por
+exemplo, estearato de cálcio, água, etc., podem ser usados também para propósitos de
+desativação de resíduos de catalisador. Portanto, tendo em vista a matéria revelada em D4,
+ou em D1, combinada com os ensinamentos descritos em D2, a matéria conforme definida no
+pedido em exame é óbvia para um técnico no assunto.
+
+       O documento D5 (documento completo) descreve uma composição de resina
+termoplástica tendo melhorada prevenção de contaminação na moldagem que compreende
+um   copolímero      em    bloco   de     etileno/propileno,   um     copolímero   borrachoso    de
+etileno/propileno, uma resina de copolímero de etileno e alfa-olefina, talco e uma mistura aditiva
+específica incluindo antioxidantes e ésteres metálicos (Tabelas 6 e 7). Os Exemplos (Tabela 8)
+compreendem copolímeros de etileno e alfa-olefinas (bloco de PP + EPR + PEX), antioxidantes
+fosfito e sais de ésteres metálicos. Portanto, tendo em vista a matéria ensinada em D5, a
+matéria conforme definida no pedido em exame é óbvia para um técnico no assunto.
+
+Conclusão:
+
+       Diante das objeções apontadas neste parecer e da matéria revelada nos documentos
+mencionados, o pedido em análise não atende ao disposto nos artigos 8° e 25 da LPI. Assim
+sendo, de acordo com o Art. 37 da LPI, indefiro o presente pedido, uma vez que não atende ao
+requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI) e as reivindicações não
+são claras e precisas (Art. 25 da LPI).
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                    Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 02 de setembro de 2020.
+
+
+
+ Julia Candida Afonso Martins
+ Pesquisador/ Mat. Nº 1225171
+ DIRPA / CGPAT I/DIPOL
+ Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                             Página 6
+

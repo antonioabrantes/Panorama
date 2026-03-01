@@ -1,0 +1,259 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112013023748-1           N.° de Depósito PCT:EP2012/056732
+ Data de Depósito:                   13/04/2012
+ Prioridade Unionista:               US 61/475673 (15/04/2011); EP 11162536.4 (15/04/2011)
+ Depositante:                        BASF SE (DE)
+ Inventor:                           MATTHIAS GERST, DIRK WULFF, THOMAS CHRIST
+ Título:                             Dispersão adesiva sensível à pressão, fita adesiva, e, uso de uma
+                                     dispersão adesiva sensível à pressão 
+
+                                                              PARECER
+          Primeiramente, cumpre esclarecer que o presente exame foi realizado sob a égide da
+Norma de Execução SEI nº 1/2019/DIRPA /PR e da Norma de Execução SEI nº
+7/2019/DIRPA /PR.
+
+          As observações quanto às formalidades, a indicação dos pressupostos e os dados
+necessários à tomada de decisão, conforme disposto na Lei 9784/99, encontram-se dispostos
+em Documento Interno.
+
+          O presente pedido refere-se a uma dispersão adesiva sensível à pressão que
+compreende a polímero dispersado em água P1 formado pela polimerização da emulsão. O
+polímero P1 é formado a partir de uma mistura monomérica que compreende (a) pelo menos
+40% em peso de (met)acrilatos de alquila C4 a C20 que quando polimerizados os
+homopolímeros têm uma temperatura de transição vítrea de -30°C ou menos, (b) pelo menos
+0,05% em peso de monômeros de (met)acrilato tendo um substituinte onde x é CH2, O, NH ou
+NR e R é um grupo alquila C1 a C4, (c) pelo menos 0,1% em peso de monômero ácidos. O
+polímero P1 é preparado pela polimerização em pelo menos 2 estágios, a temperatura de
+transição vítrea de um polímero de monômeros do primeiro estágio sendo menor por pelo
+menos 20°C do que a temperatura de transição vítrea de um polímero de monômeros de um
+segundo estágio precursor.
+
+          A matéria reivindicada foi avaliada à luz da Lei de Propriedade Industrial nº 9.279, de 14
+de maio de 1996 (LPI).
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                      1-21               870190100829     08/10/2019
+Quadro Reivindicatório                                     1-4               870200126408     06/10/2020
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                          BR112013023748-1
+
+
+Desenhos                                     -                           -                       -
+Resumo                                       1                  870190100829              08/10/2019
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                               Sim                 Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                  x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                          x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                        x
+O pedido está de acordo com disposto no art. 32 da LPI                         x
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                               Sim                 Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI           x*
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                               x
+Comentários/Justificativas
+* conforme o Anexo do art. 5º da Norma de Execução SEI nº 7/2019/DIRPA/PR, item 5.2.11 do
+Procedimento DIRPA-P029-02.
+        Apesar das emendas apresentadas, na reivindicação nº 1, não está claro se o disclaimer
+relativos aos (met)acrilatos de alquila C1-C20 referem-se a tudo que está listado após o não ou
+apenas indicam que são (met)acrilatos diferentes dos monômeros (a).
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                  Data de publicação
+    D1      US6605662                                                                    12/08/2003
+    D2      US6031038                                                                    29/02/2000
+    D3      US5744540                                                                    28/04/1998
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento                Reivindicações
+                                                         Sim                          1-12
+           Aplicação Industrial
+                                                         Não                        nenhuma
+                                                         Sim                          9-10
+                 Novidade
+                                                         Não                       1-8 e 11-12
+
+           Atividade Inventiva                           Sim                        nenhuma
+
+
+
+
+                                                                                                     Página 2
+                                       BR112013023748-1
+
+
+                                                   Não                         1-12
+
+
+
+Comentários/Justificativas
+
+
+
+        Em resposta ao parecer técnico anterior, notificada na RPI nº 2588, de 11/08/2020, a
+requerente apresentou manifestação por meio da petição nº 870200126408, de 06/10/2020,
+juntando seus esclarecimentos e novas vias do Quadro Reivindicatório, os quais foram
+considerados para o exame.
+
+        Em sua manifestação, a requerente argumentou principalmente que:
+
+   1. D1 não divulga ou sugere que seja crítico utilizar uma polimerização de dois estágios em
+        que durante um primeiro estágio de polimerização uma quantidade total de monômero (b)
+        é polimerizada a fim de formar uma dispersão adesiva sensível à pressão útil;
+
+   2. D2 e D3, a Requerente observa que eles descrevem composições resistentes ao bloqueio,
+        onde essa resistência ao bloqueio é o oposto da pegajosidade permanente;
+
+   3. D2 e D3 não ensinam ou sugerem limitar os monômeros do estágio 2 àqueles
+        mencionados na reivindicação emendada 1 e, portanto, excluindo outros monômeros do
+        estágio 2.
+
+        Analisando o novo Quadro Reivindicatório, os argumentos trazidos e os documentos
+citados, nota-se que:
+
+   i.   o documento D1 (col. 2, ll. 1-64; col. 14, ll. 65-66) ensina a obtenção de dispersões
+        poliméricas aquosas destinadas ao uso em revestimentos, selantes, aglutinantes e
+        adesivos, dentre os quais se destacam os adesivos sensíveis à pressão, constituídos por
+        polímeros permanentemente pegajosos;
+
+   ii. o documento D1 (Exemplos 18-19) exemplifica especificamente adesivos sensíveis à
+        pressão;
+
+   iii. o documento D1 (col. 8, l. 56-col. 9, l. 26) ensina a adição de monômeros contendo
+        nitrogênio, denominados monômeros de adesão, onde o 1-(2-metacriloiloxietil)imidazolin-2-
+        ona é citado explicitamente;
+
+   iv. o documento D1 (col. 15, ll. 65-67) informa que os polímeros ensinados possuem coesão
+        aprimorada associada a adesão e pegajosidade essencialmente inalteradas;
+
+   v. realmente o documento D1 não vincula a exclusão do metacrilato de ureidoetila no
+        segundo estágio, no entanto, também não exclui no primeiro estágio;
+
+   vi. de acordo com as declarações anexadas à petição nº 870200126408, de 06/10/2020,
+        trazendo informações que não constavam no pedido como originalmente depositado, o
+        emprego do metacrilato de ureidoetila no segundo estágio produz a coagulação do meio
+
+
+
+
+                                                                                        Página 3
+                                           BR112013023748-1
+
+
+       reacional, entretanto, não revela detalhes do procedimento de reação, o que pode
+       prejudicar a suficiência descritiva;
+
+   vii. o documento D1 (col. 3, l. 31-col. 6, l. 52), em contraste, informa vários detalhes do
+       procedimento reacional, tais como temperatura, sistema emulsificante, taxa de reação,
+       interrupção de polimerização para iniciar o segundo estágio, tipo de atmosfera reacional
+       em cada estágio, tempo de solvatação do polímero do primeiro estágio pelos monômeros
+       de segundo estágio, diâmetro médio de partícula, peso molecular numérico médio, entre
+       outros;
+
+   viii. considerando que a adição de metacrilato de ureidoetila no segundo estágio produz a
+       coagulação do meio reacional, e que um técnico no assunto não seria capaz de resolver
+       ajustando as condições reacionais (sistema emulsificante, sistema solvente, temperatura,
+       concentração, taxa de reação, agente de transferência de cadeia ou outro parâmetro),
+       restaria apenas a opção de empregar o aludido monômero exclusivamente no primeiro
+       estágio de reação, de modo que não é possível atribuir novidade à matéria das
+       reivindicações nº 1-8 e 11-12;
+
+   ix. o problema técnico que se pretende resolver pelas composições do presente pedido é a
+       obtenção de adesivos sensíveis à pressão com um bom balanço entre adesão e coesão
+       (Relatório Descritivo, § [0002]);
+
+   x. ainda que a requerente emendasse o Quadro Reivindicatório de modo a superar a falta de
+       novidade, não há dados experimentais, comparando as propriedades dos adesivos ou das
+       fitas adesivas, que evidenciem a atividade inventiva para a matéria do presente pedido em
+       face da matéria contida no documento D1, nem mesmo para as dispersões que não
+       contem o metacrilato de ureidoetila, uma vez que as composições reveladas em D1
+       resolvem o mesmo problema técnico;
+
+   xi. assiste razão à requerente no que tange à resistência ao bloqueio das composições de D2
+       e D3, todavia, o documento D2 (col. 2, ll. 22-67) ensina a resistência ao bloqueio pode ser
+       ajustada pelo balanço entre monômeros duros (hard monomers) e moles (soft
+       monomers) e o documento D3 (col. 3, ll. 1-9) ensina que os monômeros contendo
+       nitrogênio (monômeros promotores de adesão) melhoram a resistência em água.
+
+       Desse modo, permanecem as objeções apontadas no parecer técnico anterior, logo, a
+matéria das reivindicações nº 1-8 e 11-12 não é nova, de acordo com o art. 8º c/c art. 11 da LPI,
+frente aos ensinamentos contidos no documento D1, e a matéria das reivindicações nº 1-12
+carece de atividade inventiva, conforme disposto no art. 8º c/c art. 13 da LPI, em face apenas
+das informações contidas no documento D1 ou em combinação com os documento D2 ou D3.
+
+
+
+       Informa-se ainda à requerente que, nos autos do processo administrativo, não
+consta declaração informando se o objeto do presente pedido de patente foi obtido ou
+não em decorrência de um acesso aos recursos genéticos ou ao conhecimento
+
+
+
+                                                                                         Página 4
+                                        BR112013023748-1
+
+
+tradicional nacional, conforme exigido pela legislação vigente, e que tal manifestação
+pode ser feita de forma voluntária, por meio de formulário apropriado específico.
+
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 19 de outubro de 2020.
+
+
+
+
+Mauricio da Silva Martins Almeida
+Pesquisador/ Mat. Nº 1549647
+DIRPA / CGPAT I/DITEX
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                         Página 5
+

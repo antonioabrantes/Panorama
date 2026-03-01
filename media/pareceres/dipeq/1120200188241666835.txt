@@ -1,0 +1,283 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+
+ N.° do Pedido:                      BR112020018824-7         N.° de Depósito PCT:GB2019/050840
+ Data de Depósito:                   25/03/2019
+ Prioridade Unionista:               GB 1805238.1 (29/03/2018)
+ Depositante:                        INNOSPEC LIMITED (GB)
+ Inventor:                           SIMON CHRISTOPHER MULQUEEN; KEITH WOODALL
+ Título:                             USO DE UM COMPOSTO DE AMÔNIO QUATERNÁRIO PARA
+                                     REDUZIR EMISSÕES DE PARTICULADOS DE UM MOTOR DE
+                                     IGNIÇÃO POR CENTELHA DE INJEÇÃO DIRETA
+
+
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               No da Petição           Data
+
+Relatório Descritivo                                    1 a 56               870220027357          30/03/2022
+Quadro Reivindicatório                                   1a4                 870220100865          01/11/2022
+Desenhos                                                    1                870220027357          30/03/2022
+Resumo                                                      1                870220027357          30/03/2022
+
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                               Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                     X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                             X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                       X
+O pedido está de acordo com disposto no art. 32 da LPI                                        X
+
+
+
+Comentários/Justificativas ______________________________
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1 de 6
+                                           BR112020018824-7
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                             Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI        X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI      X
+
+Comentários/Justificativas ______________________________
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                               Data de publicação
+    D1                                 US20150232775                                 20/08/2015
+    D2                                 WO2017096159                                  08/06/2017
+    D3                                 US20170096611                                 06/04/2017
+    D4                                 WO2016038130                                  17/03/2016
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento              Reivindicações
+                                                         Sim                     1 a 12
+            Aplicação Industrial
+                                                        Não                       -----
+                                                         Sim                     1 a 12
+                 Novidade
+                                                        Não                       -----
+                                                         Sim                      -----
+            Atividade Inventiva
+                                                        Não                      1 a 12
+
+Comentários/Justificativas
+
+      Por    meio da Petição 870220100865,               de 01/11/2022,   a requerente apresentou
+manifestação, em resposta ao parecer de ciência (despacho 7.1), notificado na RPI 2692, de
+09/08/2022, e, em anexo, novas vias do quadro reivindicatório (com um total de 12
+reivindicações), as quais foram aceitas e analisadas, conforme solicitação.
+
+      As alegações da requerente não foram consideradas suficientes para superar as
+considerações efetuadas com relação a falta de atividade inventiva do presente pedido de
+patente.
+
+      Em sua manifestação a requerente alegou que os documentos D1 a D3 não se relacionam
+com a matéria da presente invenção, uma vez que não ensinam nada ao especialista sobre
+redução de emissões em motores de ignição por centelha de injeção direta (DISI).
+
+
+
+                                                                                          Página 2 de 6
+                                       BR112020018824-7
+
+
+      Segundo a requerente, o documento D4 (WO2016038130) descreve o controle de
+emissões de partículas em motores DISI, usando uma combinação de um composto aromático
+substituído por hidrocarbila e uma amina de polialquileno. Assim, este documento se refere aos
+mesmos problemas que a presente invenção, mas ensina uma solução diferente para esse
+problema.
+
+      Portanto, a requerente alegou que, uma vez que D1 a D3 não se relacionam com a matéria
+da presente invenção e D4 ensina uma solução diferente, o especialista não seria obviamente
+direcionado para a presente invenção em vista da técnica anterior citada. O versado na técnica
+que busca encontrar uma solução alternativa à descrita em D4 não procuraria de D1 a D3, pois
+esses documentos se referem a diferentes problemas em diferentes tipos de motor.
+
+      Tais argumentações da requerente não foram consideradas procedentes, tendo em vista
+que um técnico no assunto pode ser levado a buscar sugestões em outros campos técnicos afins
+ou remotos por analogia de campo técnico. Uma invenção por analogia de campo técnico refere-
+se a uma invenção que aplica uma tecnologia conhecida em um campo técnico, a um outro campo
+técnico e se a analogia de campo técnico é realizada entre campos técnicos semelhantes ou
+próximos, como é o presente caso, e nenhum efeito técnico inesperado é obtido, a invenção não
+envolve atividade inventiva (Resolução 169/2016, Parágrafos 5.35-5.39  Diretrizes de Exame de
+Pedidos de Patente  Bloco II  Patenteabilidade).
+
+      Assim sendo, reitera-se que o documento D1 (parágrafos [0001]; [0013]; reivindicações)
+descreve uma composição que compreende um sal de amônio quaternário, o qual é o produto de
+reação de:
+
+      (i) pelo menos um composto que pode incluir:
+
+      (a) o produto de condensação de um agente de acilação substituído por hidrocarbila, um
+composto que contém nitrogênio ou oxigênio, com capacidade de reagir com o dito agente de
+acilação, em que o produto de condensação tem, pelo menos, um grupo amino terciário;
+
+      (b) uma polialquileno amina substituída, com, pelo menos, um grupo amino terciário;
+
+      (c) um produto de reação de Mannich que compreende um grupo amina terciária; e
+
+      (ii) um agente quaternizante, que pode incluir dialquil sulfatos, haletos de benzila,
+carbonatos substituídos por hidrocarbila, epóxido de hidrocarbila em combinação com ácidos.
+
+      Ainda mais especificamente, o documento D1 (parágrafo [0073]) ensina que o agente
+quaternizante pode ser um expóxido de hidrocarbila de fórmula geral
+
+
+
+
+                                                                                   Página 3 de 6
+                                         BR112020018824-7
+
+
+        em que R15-R17 podem ser independentemente hidrogênio ou um grupo hidrocarbila C1-50. O
+epóxido é selecionado a partir de óxido de estireno, óxido de etileno, óxido de propileno, óxido de
+butileno, óxido de estilbeno e epóxidos C2-50 ou combinação dos mesmos.
+
+        O documento D2 (parágrafos [0006]-[0010]; reivindicações) está relacionado a uma
+composição caracterizada por compreender um sal de amônio quaternário que contém éster ou
+amida (amida/éster quat"), em que a amida quaternária compreende o produto de reação de:
+
+        a) um composto quaternizável que é o produto de reação de:
+
+        (i) um agente de acilação substituído por hidrocarbila, em que o substituinte de hidrocarbila
+tem um peso molecular de média numérica menor que 300, em que o agente de acilação
+substituído por hidrocarbila compreende pelo menos um anidrido succínico de dodecenila, ácido
+succínico de dodecenila, anidrido succínico de hexadecenila, ácido succínico de hexadecenila,
+anidrido succínico de octadecenila, ácido succínico de octadecenila ou misturas dos mesmos; o
+substituinte de hidrocarbila é um polisobutileno, que tem um peso molecular que varia de 100 a
+5000;
+
+        (ii) um composto que contém nitrogênio que tem um átomo de oxigênio ou nitrogênio com
+capacidade de reagir com o dito agente de acilação substituído por hidrocarbila para formar um
+éster ou uma amida, e tem, adicionalmente, pelo menos um grupo amino quaternizável; e
+
+        b) um agente quaternizante adequado para converter o grupo amino quaternizável do
+composto que contém nitrogênio em um nitrogênio quaternário, em que o grupo amino
+quaternizável é um grupo amino primário, secundário ou terciário.
+
+        D2 (reivindicações) ensina ainda que o agente quaternizante compreende pelo menos um
+sulfato de dialquila, haleto de alquila, carbonato substituído por hidrocarbila, epóxido de
+hidrocarbila, carboxilato, éster alquílico ou misturas dos mesmos. O agente quaternizante é um
+epóxido de hidrocarbila; um epóxido de hidrocarbila em combinação com um ácido; um oxalato ou
+tereftalato.
+
+        Uso da composição, de acordo com D2, é caracterizado por ser para reduzir e/ou prevenir
+depósitos internos em um motor operado com um combustível que é líquido em temperatura
+ambiente, em que o combustível é gasolina ou diesel, em um motor que compreende um sistema
+de injetor de duto comum de alta pressão.
+
+        O documento D3 faz menção a uma composição compreendendo uma amina ramificada
+contendo sal de amônio quaternário ("amina quaternária ramificada"), em que a amina quaternária
+ramificada compreende o produto de reação de:
+
+        a) um composto quaternizável que é o produto da reação de:
+
+
+
+
+                                                                                       Página 4 de 6
+                                      BR112020018824-7
+
+
+      (i) um agente de acilação substituído por hidrocarbila, em que o substituinte de hidrocarbil
+tem um peso molecular médio numérico variando de 100 a 5000, e
+
+      (ii) um composto contendo nitrogênio, tendo um átomo de oxigénio ou nitrogênio capaz de
+reagir com o referido agente de acilação substituído com hidrocarbila e tendo ainda pelo menos
+um grupo amino quaternizável; e
+
+      b) um agente de quaternização adequado para converter o grupo amino quaternizável do
+composto contendo nitrogênio em um nitrogênio quaternário;
+
+      em que o pelo menos um grupo amino quaternizável é um grupo amino primário,
+secundário ou terciário; o agente de acilação substituído por hidrocarbil compreende pelo menos
+um anidrido poliisobutenil succínico ou ácido poliisobutenil succínico; o agente de quaternização
+compreende pelo menos um sulfato de dialquil, haleto de alquil, carbonato substituído por
+hidrocarbil, epóxido de hidrocarbil, carboxilato, éster de alquil ou suas misturas. Mais
+especificamente o agente de quaternização compreende um hidrocarbil epóxido; um epóxido C4-
+C20; um epóxido funcionalizado com álcool; o agente de quaternização é glicidol e em que o
+substituinte hidrocarbil é um poliisobutileno com um peso molecular que varia de 100 a 5000.
+
+      D3 ensina que a composição compreende ainda um outro aditivo, tais como um detergente,
+um dispersante, um desemulsificante, um agente de lubricidade, um melhorador de fluxo frio, um
+antioxidante ou uma mistura dos mesmos, em que o dito outro aditivo compreende, pelo menos,
+um sal de amônio quaternário substituído por hidrocarbil; um composto de Mannich e a
+composição compreende ainda pelo menos um dentre um sabão de baixo peso molecular médio,
+um baixo número de poliisobutileno succinimida (PIBSI), ou uma mistura dos mesmos.
+
+      A composição de D3 é também constituída de um combustível que é líquido à temperatura
+ambiente, em que o combustível é gasolina ou diesel.
+
+      O documento D4 (reivindicação 4) ensina o uso de uma composição aditiva
+compreendendo uma combinação de: um composto aromático substituído por hidrocarbila; e uma
+amina de polialquileno para melhorar o desempenho de controle de emissões de partículas de
+uma composição de combustível em um motor de combustão interna de ignição por faísca de
+injeção direta ou um motor de combustão interna a gasolina de ignição por compressão.
+
+      Diante da análise técnica das referências patentárias citadas, bem como das
+argumentações    apresentadas     tempestivamente   pela   requerente,   por   meio    da   Petição
+870220100865, de 01/11/2022, e das alterações efetuadas no quadro reivindicatório do presente
+pedido, considera-se que os documentos D1-D4 são relevantes à atividade inventiva da matéria
+objeto de proteção do presente pedido de patente.
+
+
+
+
+                                                                                      Página 5 de 6
+                                         BR112020018824-7
+
+
+Conclusão
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º e Art. 13 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                            Rio de Janeiro, 12 de dezembro de 2022.
+
+
+
+
+Carla Maria Salerno Polato
+Pesquisador/ Mat. Nº 1485559
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                      Página 6 de 6
+

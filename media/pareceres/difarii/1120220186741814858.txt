@@ -1,0 +1,200 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112022018674-6       N.° de Depósito PCT:US2021/022652
+ Data de Depósito:                   17/03/2021
+ Prioridade Unionista:               CN PCT/CN2020/080359 (20/03/2020)
+ Depositante:                        MERCK SHARP & DOHME LLC (US)
+ Inventor:                           BRENDAN M. CROWLEY; PHILIPPE NANTERMET; DAVID B.
+                                     OLSEN; TAKAO SUZUKI; LIHU YANG; LANYING YOU
+ Título:                             COMPOSTO        DE      OXAZOLIDINONA,        COMPOSIÇÃO
+                                     FARMACÊUTICA E USOS
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-34               870230070764           10/08/2023
+Quadro Reivindicatório                                     1-2               870230070764           10/08/2023
+Resumo                                                      1                870230070764           10/08/2023
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas: -------------
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         x
+Comentários/Justificativas: ----------
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                       BR112022018674-6
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                               Data de publicação
+    D1                                WO0230395                                       18/04/2002
+    D2                               WO03072141                                       04/09/2003
+    D3                               WO02072066                                       19/09/2002
+    D4                              WO2006059221                                      08/06/2006
+    D5                              WO2006079896                                      03/08/2006
+    D6                              WO2018175185                                      27/09/2018
+    D7                 Bioorg Med Chem Lett, 1;16(13):3475-3478                       01/07/2006
+    D8                              WO2005113520                                      01/12/2005
+    D9                              WO2017070024                                      27/04/2017
+   D10                                WO0146185                                       28/06/2001
+   D11                                WO0232857                                       25/04/2002
+   D12                               WO02080841                                       17/10/2002
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento                  Reivindicações
+                                                   Sim                          1-11
+            Aplicação Industrial
+                                                   Não                             -----
+                                                   Sim                          1-11
+                 Novidade
+                                                   Não                             -----
+                                                   Sim                             -----
+            Atividade Inventiva
+                                                   Não                          1-11
+Comentários/Justificativas:     Observa-se   que   a requerente    optou     por     não   apresentar
+modificações no quadro reivindicatório em sua petição 870240004233 de 16/01/2024, apenas
+suas argumentações sobre a patenteabilidade do presente pedido.
+         Como considerado no parecer técnico anterior, o composto de Fórmula (I) da reivindicação
+1 é novo, e atende ao Artigo 11 da LPI. Uma vez que o composto da reivindicação 1 é novo, as
+composições que o compreendem assim como o uso de tal composto também apresentam
+novidade. As reivindicações 1-11 estão de acordo com o Artigo 11 da LPI.
+         Entretanto, o parecer técnico alegou que o composto do estado da técnica estruturalmente
+mais próximo ao pleiteado seria o Composto PNU-288034 do documento D7, e ainda, o parecer
+técnico enfatizou que o presente pedido não apresentaria resultados comparativos entre a eficácia
+do composto pleiteado com o composto, de fato, estruturalmente mais próximo que é o composto
+do documento D7.
+
+
+
+
+                                                                                            Página 2
+                                       BR112022018674-6
+
+
+
+    Composto da reivindicação 1 (MK-7762)                 Composto PNU-288034 de D7
+
+
+
+
+                                                  Sendo Z=N, X=F, Q=O e R=CH3
+
+
+
+       O documento D7 divulga o efeito antibacteriano de outro composto alternativo
+estruturalmente muito semelhante ao presentemente reivindicado, ou seja, o composto
+PNU-288034 em que a porção carbamato é substituída por uma acetamida; o composto exibe um
+efeito no tratamento de Staphylococcus aureus, Streptococcus pneumonia, Enterococcus faecium,
+Haemophilus influenza e Moraxella catarralis (ver tabela 2).
+       A diferença estrutural observada entre o composto do presente pedido e o composto do
+documento D7 é a troca do substituinte -CH3 (D7) por -OCH3 (presente pedido).
+       Ademais, cabe destacar que todos os documentos D1-D5 antecipam a igual possibilidade
+dos substituintes -OCH3 ou -CH3 na mesma posição da molécula, como destacado para os
+compostos da reivindicação 1 do presente pedido (MK-7762) e o composto PNU-288034 de D7.
+       Percebe-se que o composto reivindicado é caracterizado por uma pequena diferença
+estrutural em um único substituinte de um núcleo de três ciclos, quando comparado com o
+composto do documento D7.
+       Por fim, cabe mencionar que os documentos do estado da técnica D1-D5 apontam que
+essa diferença estrutural alternativa era uma das possibilidades para compostos antibacterianos.
+
+
+       A requerente, em sua manifestação, discorda da análise feita no parecer anterior e justifica
+afirmando que os referidos composto PNU-288034 de D7 e o composto MK-7762 pleiteado no
+presente pedido de patente diferem em pelo menos duas características estruturais. A requerente
+destaca que além da diferença apontada pelo próprio INPI (circulada em vermelho nos
+compostos), o PNU-288034 contém uma ligação dupla no anel C. A requerente enfatiza que a
+opinião do INPI se baseou em uma comparação equivocada dos compostos MK-7762 e
+PNU-288034, é evidente que a presente invenção é inventiva à luz de D7.
+
+
+       Face às argumentações dada pela requerente em sua manifestação, cabe esclarecer que
+o documento D7 aponta que o substituinte Z pode ser N ou CH. O documento D7 revela estudos
+de síntese e estrutura-atividade de antibacterianos oxazolidinonas contendo diidrotiopirano ou
+
+
+                                                                                          Página 3
+                                        BR112022018674-6
+
+anéis C de diidrotiazina e, para tal, usa representações de estruturas químicas através da
+fórmulas gerais do tipo Markush. Nesse caso, deve-se revisar a presença de ligações simples e
+duplas entre carbonos em anéis a medida que se alteram os substituintes. No caso do composto
+discutido anteriormente, PNU-288034, quando Z = N, a ligação é simples, embora a fórmula geral
+aponte uma dupla ligação.
+       Apenas com o objetivo de ilustrar o composto PNU-288034, apresenta-se neste parecer a
+rota sintética do composto PNU-288034, esquema 3, do documento Cuong V. Lu et. al.,
+Development       of    a       Pilot-Scale   Preparation      of     N-[[(5S)-3-[4-(1,1-Dioxido-4-
+thiomorpholinyl)-3,5-difluorophenyl]-2-oxo-5-oxazolidinyl]methyl]acetamide,    PNU-288034,        an
+Oxazolidinone Antibacterial Agent, Organic Process Research & Development (2006), 10(2),
+272-277, doi: 10.1021/op050207i, Publisher American Chemical Society., para ilustrar a estrutura
+do composto PNU-288034 de D7 representado fora de uma fórmula Markush. Observa-se a
+ligação simples no heteroanel de S e N.
+
+
+
+
+       O composto PNU-288034 do documento D7 tem sua estrutura química bem fundamentada
+na literatura com CAS 383199-88-0. Nesse caso, não resta dúvida que o anel citado pela
+requerente em sua manifestação não apresenta uma dupla ligação, mas uma ligação simples no
+heteroanel de S e N. Assim, reitera-se a discussão que a diferença estrutural observada entre o
+composto do presente pedido e o composto do documento D7 é a troca do substituinte -CH3 (D7)
+por -OCH3 (presente pedido).
+       Desta forma, mantém-se o entendimento dado no parecer técnico anterior que o composto
+pleiteado no presente pedido decorre de maneira evidente ou óbvia do estado da técnica, e não
+apresenta atividade inventiva.
+       Por fim, o composto, seu sal, sua composição, seu uso não apresentam atividade inventiva
+frente ao estado da técnica. As reivindicações 1-11 não estão de acordo com o Artigo 13 da LPI.
+
+
+Conclusão: Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não
+atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+
+
+
+                                                                                          Página 4
+                                      BR112022018674-6
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                               Publique-se o indeferimento (9.2).
+
+                                                           Rio de Janeiro, 01 de março de 2024.
+
+
+Paula Daniela Braga Adamis de Barros
+Pesquisador/ Mat. Nº 1549077
+DIRPA / CGPAT I/DIFAR-II
+Deleg. Comp. - Port. INPI/DIRPA Nº
+024/12
+
+
+
+
+                                                                                        Página 5
+

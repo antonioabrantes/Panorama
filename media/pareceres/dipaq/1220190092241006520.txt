@@ -1,0 +1,360 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                   RELATÓRIO DE BUSCA
+
+ N.° do Pedido:                      BR122019009224-9    N.° de Depósito PCT:
+ Data de Depósito:                   30/03/2012
+ Prioridade Unionista:               -
+ Depositante:                        STEPHEN DOBSON (US)
+ Inventor:
+ Título:                             Método para controle de insetos
+
+
+
+                                     IPC              A01N 65/00, A01N 43/90, A01N 47/28, A01N 25/00, A01N
+                                     2019.01          47/34, A01N 43/40, A01P 7/04
+ 1  CLASSIFICAÇÃO
+                                                      A01N 65/00, A01N 43/90, A01N 47/28, A01N 25/00, A01N
+                                     CPC
+                                                      47/34, A01N 43/40
+ 2 - FERRAMENTAS DE BUSCA
+    EPOQUE      X ESPACENET                                       PATENTSCOPE
+    DIALOG         USPTO                                        SINPI
+    CAPES          SITE DO INPI                               X STN
+
+
+3 - REFERÊNCIAS PATENTÁRIAS
+
+                                Número                                       Tipo    Data de Publicação Relevância *
+
+ JPH05320001                                                                  A          03/12/1993            Y
+
+
+
+4 - REFERÊNCIAS NÃO-PATENTÁRIAS
+
+                                Autor/Publicação                                     Data de publicação   Relevância *
+
+Devine, G.J; et al. Using adult mosquitoes to transfer                                      2009                Y
+insecticides to Aedes aegypti larval habitats, PNAS, vol 106,
+n. 25, 11530-11534, 2009.
+Chung, Y.K.; et al. Evaluation of biological and chemical                                   2001                Y
+insecticide mixture against Aedes aegypti larvae and adults
+by thermal fogging in Singapore. Medical and Veterinary
+Entomology,15, 321-327, 2001.
+
+
+Observações:
+
+                                                                                    Rio de Janeiro, 8 de julho de 2019.
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                      Página 1
+                                                  BR122019009224-9
+
+
+
+
+Iulla Naiff Rabelo de Souza Reis
+Pesquisador/ Mat. Nº 1214789
+DIRPA / CGPAT II/DIPAQ
+Deleg. Comp. - Port. INPI/DIRPA Nº
+013/17
+
+
+
+
+* Relevância dos documentos citados:
+A documento que define o estado geral da técnica, mas não é       Y documento de particular relevância; a invenção
+   considerado de particular relevância;                             reivindicada não pode ser considerada dotada de
+N documento de particular relevância; a invenção reivindicada        atividade inventiva quando o documento é combinado
+   não pode ser considerada nova quando o documento é                com um outro documento ou mais de um;
+   considerado isoladamente;                                      PN documento patentário, publicado após a data de depósito
+I documento de particular relevância; a invenção reivindicada        do pedido em exame, ou da prioridade requerida para o
+   não pode ser considerada dotada de atividade inventiva ou de      pedido em exame,         cuja data de depósito, ou da
+   ato inventivo quando o documento é considerado                    prioridade reivindicada, é anterior a data de depósito do
+   isoladamente;                                                     pedido em exame, ou da prioridade requerida para o
+                                                                     pedido em exame; esse documento patentário pertence
+                                                                     ao estado da técnica para fins de novidade, se houver
+                                                                     correspondente BR, conforme o Art. 11 §2.º e §3.º da LPI.
+
+
+
+
+                                                                                                                     Página 2
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR122019009224-9    N.° de Depósito PCT:
+ Data de Depósito:                     30/03/2012
+ Prioridade Unionista:                 -
+ Depositante:                          STEPHEN DOBSON (US)
+ Inventor:
+ Título:                               Método para controle de insetos
+
+                                                                     PARECER
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim      Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                            X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)             X
+
+O pedido refere-se a Sequências Biológicas                                                                      X
+
+Comentários/Justificativas
+
+
+           O presente pedido é um pedido dividido do BR112013027061-6 e, portanto, a matéria ora
+objeto de proteção está contida em tal pedido. Dessa forma, a declaração negativa de acesso ao
+patrimônio genético apresentada (petição nº 860130005178, de 21/10/2013) para o pedido
+original, é considerado para fins de cumprimento da Resolução/INPI n° 69/2013 do pedido
+dividido ora em exame, uma vez que tal documento foi apresentado antes da apresentação do
+pedido dividido (petição nº 870190042641, de 06/05/2019).
+
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas          n.o da Petição         Data
+Relatório Descritivo                                           1-35            870190042641      06/05/2019
+Listagem de sequências em
+                                                                 -                    -                 -
+formato impresso
+Listagem de sequências*                            Código de Controle                 -                 -
+Quadro Reivindicatório                                          1-2            870190042641      06/05/2019
+Desenhos                                                        1              870190042641      06/05/2019
+Resumo                                                          1              870190042641      06/05/2019
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                                 Página 1
+                                                        BR122019009224-9
+
+       O presente pedido é um pedido de divisão do BR112013027061-6, e foi apresentado em
+06/05/2019, junto à petição nº 870190042641, compreendendo vias do relatório descritivo,
+quadro reivindicatório composto por 8 reivindicações, resumo e figuras. A notificação de
+depósito do pedido dividido foi publicada na RPI nº 2529, em 25/06/2019 (despacho 2.4).
+       Dessa forma, deverá ser considerada, para o presente pedido, a mesma fase processual
+em que se encontra o pedido original, cabendo ao INPI reduzir a termo a referência aos
+documentos e petições que se encontram no pedido original, conforme o disposto no Art. 28 da
+Instrução Normativa nº 31/2013 (publicada na RPI nº 2241, de 17/12/2013).
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                             Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                       X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                               X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                     X
+O pedido está de acordo com disposto no art. 32 da LPI                      X
+Comentários/Justificativas
+
+
+
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                             Sim         Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI        X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                    X
+Comentários/Justificativas
+
+
+       As características de método usadas na definição da matéria pleiteada nas reivindicações
+1-3 e 6-8 são genéricas, impossibilitando a definição clara e precisa da matéria objeto da
+proteção, o que contraria o disposto no Art. 25 da LPI e na Instrução Normativa nº 30/2013  Art.
+4º (III). Isso porque é pleiteado um método que envolve a exposição de insetos a um pesticida ou
+a um ou mais inseticidas, o qual é amplo e impreciso, uma vez que pode envolver qualquer inseto
+e qualquer pesticida/inseticida.
+
+       As características ...alterados para não (i) morder, (ii) reproduzir, ou (iii) transmitir
+doenças, usadas na definição da matéria pleiteada na reivindicação 1, são genéricas,
+impossibilitando a definição clara e precisa da matéria objeto da proteção, o que contraria o
+disposto no Art. 25 da LPI e na Instrução Normativa nº 30/2013  Art. 4º (III).
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                       Página 2
+                                                         BR122019009224-9
+
+         A definição de insetos adultos como besouros, na reivindicação 4, e maruins, na
+reivindicação 5, resulta na falta de clareza e precisão da matéria reivindicada, contrariando o
+disposto no Art. 25 da LPI e na Instrução Normativa nº 30/2013  Art. 4º (III).
+
+
+
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                        Data de publicação
+    D1        Devine, G.J; et al. Using adult mosquitoes to transfer                             2009
+              insecticides to Aedes aegypti larval habitats, PNAS, vol 106, n.
+              25, 11530-11534, 2009.
+    D2        JPH05320001A                                                                     03/12/1993
+    D3        Chung, Y.K.; et al. Evaluation of biological and chemical                          2001
+              insecticide mixture against Aedes aegypti larvae and adults by
+              thermal fogging in Singapore. Medical and Veterinary
+              Entomology,15, 321-327, 2001.
+Obs.: O documento [D2] foi considerado relevante, entretanto, para facilitar a discussão técnica, utilizou-se
+das informações do documento traduzido correspondente, [D2T], para o qual se remetem todas as
+referências ao texto na análise técnica que se segue.
+
+
+
+
+     Quadro 5 - Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+      Requisito de Patenteabilidade                                    Cumprimento   Reivindicações
+                                                                           Sim            1-8
+             Aplicação Industrial
+                                                                          Não              -
+                                                                           Sim            1-8
+                     Novidade
+                                                                          Não              -
+
+                                                                           Sim             -
+             Atividade Inventiva
+                                                                          Não             1-8
+
+
+
+Comentários/Justificativas
+
+
+
+         O presente pedido refere-se a um método para controle de mosquitos sob a forma de
+insetos carregadores de inseticida que podem ser introduzidos numa população de mosquito,
+para assim, controlar a população de mosquitos. Os insetos podem ser inseto não-mosquito e
+tanto macho quanto fêmea.
+
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 3
+                                                        BR122019009224-9
+
+
+Novidade
+
+
+
+       O documento D1 revela o uso de mosquitos adultos, em particular, fêmeas adultas,
+expostos a hormônios juvenis, como o piriproxifeno, para transferir inseticidas compreendendo
+larvicidas para as larvas de Aedes aegypti, levando à contaminação de mosquitos adultos em
+seus locais de oviposição, sendo que a persistência do inseticida interfere na metamorfose dos
+estágios juvenis e mata as larvas, sem impacto sobre os mosquitos adultos.
+
+       O documento D2 descreve uma composição contendo mosquitos adultos, em particular,
+fêmeas adultas, expostos a hormônios juvenis (como o piriproxifeno ou metopreno), os quais
+são levados aos locais de oviposição e, consequentemente, transferidos a larvas de Aedes
+aegypti. Desse modo, a persistência do larvicida interfere na metamorfose dos estágios juvenis e
+na sobrevivência das larvas, sem impacto nos mosquitos adultos.
+
+       O documento D3 divulga o uso de um inseticida, que é uma mistura de um produto com
+efeito adulticida a mosquitos (como o pirimifos-metilo, Actellic 50 EC), e um produto contendo
+um larvicida (como Vertobac 12AS (Bti), nomeadamente Bacillus thuringiensis) para matar os
+mosquitos adultos e suas larvas, quando ambos estão em contato com o insecticida combinado.
+As fêmeas dos mosquitos e as larvas são expostas ao inseticida de dupla ação neste trabalho.
+
+       Os documentos D1-D3 não revelam métodos idênticos aos reivindicados. Assim, o objeto
+pleiteado no presente pedido tem novidade, de acordo com o disposto no Art. 11 da LPI vigente.
+
+
+
+Atividade inventiva
+
+
+
+       É importante destacar que, para ser patenteável, a seleção de uma alternativa, que aqui
+é representada pelo uso de um inseto não-mosquito ou mosquitos fêmeas alterados, deve ser
+justificada pela finalidade técnica desconhecida ou efeito técnico inesperado que é causado por
+essas características, distinguindo os métodos já revelados pelo estado da técnica.
+
+       D1 e D2 já revelam o uso de mosquitos adultos, particularmente fêmeas adultas,
+expostas a hormônios juvenis para transferir inseticidas compreendendo larvicidas aos seus
+habitats larvais, levando à contaminação de mosquitos adultos em seus locais de oviposição, o
+que causa a persistência do inseticida, interfere na metamorfose dos estágios juvenis e mata as
+larvas sem afetar os mosquitos adultos. D3 também descreve o uso de larvicidas, inclusive
+biológicos, para o controle de larvas de mosquitos.
+
+       Assim, tendo em vista os ensinamentos revelados pelo estado da técnica, decorre de
+maneira óbvia para um técnico no assunto obter um método para controle de insetos com
+mosquitos fêmeas alterados, conforme pleiteado no pedido ora sob análise. Além disso, é
+razoável que um técnico no assunto utilize também insetos não-mosquitos em experimentação
+rotineira de laboratório.
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                     Página 4
+                                                          BR122019009224-9
+
+
+       Desse modo, considera-se que o pedido ora sob análise trata apenas de mais uma
+alternativa aos métodos já descritos pelo estado da técnica. Ademais, não é observado nenhum
+efeito surpreendente ou não óbvio a partir das formas de realização das reivindicações 2-8, pois
+representam práticas rotineiras de um especialista que trabalha nesta área.
+
+       Em função do exposto, as reivindicações 1-8 definem características que não
+apresentam um resultado inesperado capaz de conferir atividade inventiva da matéria em
+relação ao estado da técnica. A partir disso, e dos ensinamentos revelados por D1-D3, verifica-
+se que as referidas reivindicações não apresentam atividade inventiva e, portanto, não
+satisfazem os critérios dos Arts. 80 e 13 da LPI.
+
+
+Obs.: É importante destacar a possibilidade de duplicidade das matérias pleiteadas no pedido
+dividido e original, o que poderia infringir o disposto no Art. 6º da LPI em caso de deferimento de
+ambos os pedidos. De acordo com a Resolução PR INPI nº 124/2013, o procedimento de divisão
+de um pedido de patente não deve ter como consequência a replicação ou a multiplicação da
+matéria reivindicada (item 3.138). Adicionalmente, para a mesma matéria reivindicada não devem
+ser concedidas duas patentes (item 3.140).
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, opino pelo indeferimento do presente pedido, uma
+vez que:
+
+      -      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -      as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+             descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+
+                                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                                             Rio de Janeiro, 09 de julho de 2019.
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                   Página 5
+                                                      BR122019009224-9
+
+
+Iulla Naiff Rabelo de Souza Reis
+Pesquisador/ Mat. Nº 1214789
+DIRPA / CGPAT II/DIPAQ
+Deleg. Comp. - Port. INPI/DIRPA Nº
+013/17
+
+
+
+
+      Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12        Página 6
+

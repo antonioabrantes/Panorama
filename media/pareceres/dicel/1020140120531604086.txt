@@ -1,0 +1,147 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102014012053-0
+ Data de Depósito:                   19/05/2014
+ Prioridade Unionista:               FR 1354545 (21/05/2013)
+ Depositante:                        Compagnie Industrielle et Financiere DIngenierie "Ingenico (FR)
+ Inventor:                           Michel LEGER
+ Título:                             Método para a geração de, pelo menos, uma parte de um teclado
+                                     virtual, respectivo terminal eletrônico e produto de programa de
+                                     computador 
+
+                                                              PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-10               860140075270           19/05/2014
+Quadro Reivindicatório                                    1-02               870220053623           20/06/2022
+Desenhos                                                  1-10               860140075270           19/05/2014
+Resumo                                                    1-10               860140075270           19/05/2014
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                            x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+A reivindicação 6 pleiteia um produto de programa de computador.
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR102014012053-0
+
+
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                         x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI      x
+Comentários/Justificativas
+
+
+
+O título do pedido não apresenta clareza pois menciona produto de programa de
+computador que não pode ser considerado como invenção de acordo com o Art. 10 V da
+LPI.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                              Data de publicação
+
+
+
+
+       Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+        Requisito de Patenteabilidade              Cumprimento             Reivindicações
+                                                         Sim                       -
+             Aplicação Industrial
+                                                        Não                        -
+                                                         Sim                       -
+                  Novidade
+                                                        Não                        -
+
+                                                         Sim                       -
+             Atividade Inventiva
+                                                        Não                        -
+
+
+
+Comentários/Justificativas
+
+
+
+Em 20/06/2022, por meio da petição 870220053623, a Requerente apresentou modificações no
+pedido em resposta ao parecer emitido, notificado na RPI 2672 de 22/03/2022 (despacho 7.1).
+Estas modificações estão consideradas no Quadro 1.
+
+
+
+Descreve método      para a geração         de, pelo menos, uma parte de um teclado virtual sobre
+uma tela sensível ao toque, de um terminal eletrônico. De acordo com a invenção, o referido
+método compreende, antes de uma etapa de visualização do referido teclado virtual sobre a
+referida tela sensível ao toque, uma etapa de cálculo de uma representação gráfica aleatória do
+referido teclado virtual, que entrega pelo menos um parâmetro, que representa uma zona
+aleatória de ocupação do referido teclado virtual sobre a referida tela sensível ao toque.
+
+
+
+
+                                                                                             Página 2
+                                             BR102014012053-0
+
+
+Em sua manifestação, a Requerente argumentou que D1 não antecipa o conteúdo pleiteado
+porém o pedido não possui os requisitos para obter a carta patente pois mantém na
+reivindicação 6 um produto de programa de computador que não pode ser considerado como
+invenção de acordo com o Art. 10 V da LPI.
+
+
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que a
+reivindicação 6 não pode ser considerada invenção pois incide no Art. 10 V da LPI.
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                Rio de Janeiro, 27 de Julho de 2022.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+
+             Rony Leite Giffoni
+          Pesquisador / Mat. Nº 1549606
+            DIRPA / CGPATIII / DICEL
+         Portaria INPI / DIRPA Nº 002 / 11
+
+
+
+
+                                                                                           Página 3
+

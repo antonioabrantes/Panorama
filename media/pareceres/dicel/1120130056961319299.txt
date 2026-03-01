@@ -1,0 +1,138 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112013005696-7          N.° de Depósito PCT:US2011/050839
+ Data de Depósito:                   08/09/2011
+ Prioridade Unionista:               US 12/877,875 (08/09/2010)
+ Depositante:                        Opentv, Inc. (US)
+ Inventor:                           Crx K. Chai, Alex Fishman
+ Título:                             Seleção de mídia inteligente baseada na presença do usuário
+                                     espectador 
+
+                                                              PARECER
+          O pedido refere-se a um método e um sistema que identifica um ou mais espectadores e
+altera o conteúdo que está sendo exibido no momento atual por um outro conteúdo relacionado
+com o perfil do usuário detectado.
+          Em 10/02/2020, por meio da petição 870200020093, o Depositante apresentou
+modificações no pedido em resposta ao parecer emitido no âmbito da Resolução Nº 241/2019,
+notificado na RPI 2549 de 12/11/2019 segundo a exigência preliminar (6.21).
+          Em 16/10/2020, por meio da petição 870200131121, a Requerente apresentou
+modificações no pedido em resposta ao parecer emitido, notificado na RPI 2511 de 19/02/2019
+(despacho 7.1). Estas modificações estão consideradas no Quadro 1.
+                                      Quadro 1  Páginas do pedido examinadas
+          Elemento                                     Páginas               n.o da Petição     Data
+
+Relatório Descritivo                    1  30 (10  39 do arq. PDF)         870200131121     16/10/2020
+Quadro Reivindicatório                   1  5 (40  44 do arq. PDF)         870200131121     16/10/2020
+Desenhos                                 1  8 (37  44 do arq. PDF)         870200020093     10/02/2020
+Resumo                                         1 (45 do arq. PDF)            870200131121     16/10/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                         Sim        Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                        X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                 X
+O pedido está de acordo com disposto no art. 32 da LPI                                  X
+Comentários/Justificativas: ----
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                       Página 1/3
+                                           BR112013005696-7
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+Comentários/Justificativas:
+         As irregularidades apontadas referentes ao Art. 25 da LPI foram sanadas.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1       WO2002032136A2                                                         18/04/2002
+    D2       US20090217324A1                                                        27/08/2009
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento            Reivindicações
+                                                        Sim                     1  19
+            Aplicação Industrial
+                                                        Não                    Nenhuma
+                                                        Sim                     1  19
+                  Novidade
+                                                        Não                    Nenhuma
+                                                        Sim                    Nenhuma
+            Atividade Inventiva
+                                                        Não                     1  19
+Comentários/Justificativas:
+
+         As mudanças realizadas no quadro reivindicatório referem-se essencialmente ao fato de
+restringirem a detecção não puramente à presença mais a uma alteração na presença (já
+prevista na antiga reivindicação 2) e ao fato de se realizar a adequação da playlist com base nas
+informações de dois ou mais usuários identificados como estando no local de visualização.
+
+         Como mencionado no parecer anterior, D2 (par. [0026] e [0027]) detecta a presença e a
+alteração na presença além de adequar a playlist de acordo com as informações de pelo menos
+dois usuários presentes no local de visualização (vide a situação descrita em D2, fim do par.
+[0027], onde o sistema detecta um segundo usuário e customiza a programação com base nas
+informações dos usuários A e B).
+
+         Assim, considera-se ainda que seria óbvio para um técnico no assunto modificar o
+sistema e o método de D1 com base nos ensinamentos de D2 para se obter o método e o
+sistema das reivindicações 1 e 14, respectivamente.
+
+         Da mesma forma como mencionado no parecer anterior, os mesmos motivos
+apresentados para o método da reivindicação 1 são válidos mutatis mutandis para a mídia de
+
+
+
+
+                                                                                         Página 2/3
+                                       BR112013005696-7
+
+
+armazenamento da reivindicação 19 uma vez que a mídia está meramente caracterizada pela
+funcionalidade do método da reivindicação 1.
+
+       As reivindicações dependentes 2  13, 15  18 ainda não apresentam matéria que
+mesmo quando combinadas com as reivindicações a que se referem agregam a elas atividade
+inventiva frente aos ensinamentos de D1 e D2.
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 26 de novembro de 2020.
+
+
+
+
+Fábio Pacheco Freeland
+Pesquisador/ Mat. Nº 1693846
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 008/13
+
+
+
+
+                                                                                         Página 3/3
+

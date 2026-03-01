@@ -1,0 +1,80 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block 'body' %}
+<div class="relative isolate px-6 py-12 ">
+    <!-- Background decorative elements -->
+    <svg aria-hidden="true"
+        class="absolute inset-0 -z-10 size-full mask-[radial-gradient(100%_100%_at_top_right,white,transparent)] stroke-gray-200">
+        <defs>
+            <pattern id="1d4240dd-898f-445f-932d-e2872fd12de3" width="200" height="200" x="50%" y="0"
+                patternUnits="userSpaceOnUse">
+                <path d="M.5 200V.5H200" fill="none" />
+            </pattern>
+        </defs>
+        <rect width="100%" height="100%" fill="url(#1d4240dd-898f-445f-932d-e2872fd12de3)" stroke-width="0" />
+    </svg>
+
+    <div class="mx-auto max-w-6xl">
+        <!-- Header with Back Button -->
+        <div class="mb-8 flex items-center justify-between">
+            <div>
+                <h1 class="text-3xl font-extrabold text-gray-900 tracking-tight">Visualizador de PDF</h1>
+                <p class="mt-2 text-lg text-gray-600">Processo: <span class="font-semibold text-red-600">
+                        {{ documento.cliente.nome }}</span></p>
+            </div>
+            <a href="{% url 'cliente' documento.cliente.id %}"
+                class="inline-flex items-center gap-2 rounded-md bg-white px-4 py-2 text-sm font-semibold text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 hover:bg-gray-50 transition-all">
+                <svg class="h-5 w-5 text-gray-400" viewBox="0 0 20 20" fill="currentColor">
+                    <path fill-rule="evenodd"
+                        d="M17 10a.75.75 0 01-.75.75H5.612l4.158 3.96a.75.75 0 11-1.04 1.08l-5.5-5.25a.75.75 0 010-1.08l5.5-5.25a.75.75 0 111.04 1.08L5.612 9.25H16.25A.75.75 0 0117 10z"
+                        clip-rule="evenodd" />
+                </svg>
+                Voltar
+            </a>
+        </div>
+
+        <!-- PDF Card -->
+        <div class="bg-white border border-gray-200 rounded-2xl shadow-2xl overflow-hidden flex flex-col"
+            style="height: 85vh;">
+            <div class="bg-gray-50 px-6 py-4 border-b border-gray-200 flex justify-between items-center shrink-0">
+                <div class="flex items-center gap-2">
+                    <svg class="h-5 w-5 text-red-600" fill="currentColor" viewBox="0 0 24 24">
+                        <path d="M6 2h9l5 5v15a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2z" />
+                        <path d="M15 2v5h5" />
+                    </svg>
+                    <h2 class="text-sm font-bold text-gray-700 uppercase tracking-widest">Visualização do Arquivo
+                        Original</h2>
+                </div>
+                <span class="text-xs text-gray-400">Origem: {% if "siscap" in pdf_url %}Siscap/INPI{% else %}Servidor
+                    Local{% endif %}</span>
+            </div>
+
+            <div class="flex-grow relative bg-gray-100">
+                {% if pdf_url %}
+                <iframe src="{{ pdf_url }}" class="w-full h-full border-none shadow-inner" style="min-height: 100%;">
+                    <p>Seu navegador não suporta iframes.
+                        <a href="{{ pdf_url }}" class="text-blue-600 underline">Clique aqui para baixar o PDF</a>
+                    </p>
+                </iframe>
+                {% else %}
+                <div class="flex flex-col items-center justify-center h-full py-12">
+                    <svg class="h-16 w-16 text-gray-300 mb-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
+                    </svg>
+                    <h3 class="text-lg font-medium text-gray-900">PDF não encontrado</h3>
+                    <p class="text-gray-500 mt-2">O link para este arquivo não está disponível no momento.</p>
+                </div>
+                {% endif %}
+            </div>
+
+            <!-- Footer -->
+            <div class="bg-gray-50 px-8 py-3 border-t border-gray-100 text-right shrink-0">
+                <p class="text-[10px] text-gray-400 font-mono">HASH DE ACESSO: {{ documento.id }}-PDF-{{
+                    documento.data_upload|date:"U" }}</p>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock 'body' %}

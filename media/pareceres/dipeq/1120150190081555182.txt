@@ -1,0 +1,353 @@
+                              SERVIÇO PÚBLICO FEDERAL
+                               MINISTÉRIO DA ECONOMIA
+                   INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+N.° do Pedido:              BR112015019008-1         N.° de Depósito PCT: EP2014/052695
+                                                     (12/02/2014)
+
+                        Publicação Nacional:      Publicação Internacional: WO 2014/128033
+                        18/07/2017 (RPI 2428) (28/08/2014)
+Data de Depósito (PCT): 12/02/2014
+Prioridade Unionista:   EP 13305192.0 (20/02/2013)
+Depositante:            ESSILOR INTERNATIONAL (FR)
+Inventor(es):           AUDE CONTET (FR), HÉLÈNE DE ROSSI (FR), BÉNÉDICTE
+                        DELDALLE (FR), CYRIL GUILLOUX (FR), FARID KARIOTY (FR)
+Título:                 Par de lentes oftálmicas progressivas..
+
+                                PARECER DE EXAME TÉCNICO
+
+
+
+       O presente pedido de Patente de Invenção (PI), refere-se a um par de lentes oftálmicas
+progressivas (1, 2) que encontra condições especiais para aprimorar a visão binocular de um
+usuário, enquanto evita desconforto para visão periférica.
+
+
+
+       Para realização industrial do reivindicado como inventivo no presente pedido de PI, uma
+primeira dentre as ditas condições relaciona-se com valores de largura de campos de visão
+afastada e/ou campos de visão próxima, para indicar que os ditos campos são diferentes o
+suficiente em largura entre ambas as lentes. Uma segunda dentre as ditas condições estabelece
+um valor máximo para a diferença relativa em gradiente de potência média de refração entre
+ambas as lentes.
+
+
+
+       Em 14/12/2021, foi publicada através da RPI Nº 2658, notificação de emissão de parecer
+técnico relativo ao pedido de Patente de Invenção (PI), referente a Ciência de Parecer (7.1),
+decorrendo a partir daquela data o prazo de 90 (noventa) dias para manifestação da Requerente
+quanto ao contido no citado parecer técnico.
+
+
+
+       Em 07/08/2015, 03/07/2020 e 14/03/2022, através das Petições 860150171713/RJ,
+870200083273/RJ e 870220021363/RJ, a Requerente apresenta os documentos listados no
+Quadro 1, a seguir:
+
+                          Quadro 1  Páginas do pedido examinadas
+
+
+
+                                                                                                    1
+                                          BR112015019008-1
+
+
+            Elemento                     Páginas               N.o da Petição           Data
+
+Relatório Descritivo (RD): com        05/59  34/59           870200083273/RJ         03/07/2020
+30 (Trinta) folhas, numerada
+como 01/30  30/30.
+Quadro Reivindicatório (QR):          09/18  14/18           870220021363/RJ         14/03/2022
+com      06    (Seis) folhas,
+apresentando       10  (Dez)
+reivindicações.
+Desenhos (D´s): com 05                50/57  54/57           860150171713/RJ         07/08/2015
+(Cinco) folhas, apresentando
+07 (Sete) figuras, numeradas
+de: Fig. 01A  Fig. 01C; e Fig.
+01A  Fig. 01D.
+Resumo (R): com 01 (Uma)                  41/59               870200083273/RJ         03/07/2020
+folha.
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                  Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)              X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                          X
+O pedido está de acordo com disposto no art. 32 da LPI                           X
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                  Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI             X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                     X
+Comentários/Justificativas
+        Em relação ao Art. 25, da LPI, solicitamos à Requerente que, em caso de resposta a
+este parecer técnico, exclua os trechos explicativos sinalizados por asteriscos (*´s), na
+Etapa /2/, da RI01pp, como seguem:
+        asteristo *(1): no interior de uma zona centralizada na direção de olhar prolongado
+ciclópica que corresponde à direção de olhar prolongado (GPRP) que passa através do ponto de
+referência de prisma (PRP) e que contém todas as direções de olhar prolongado ciclópicas ( ,
+) de modo a respeitar a seguinte desigualdade (alpha² + beta²)^1/2 <= 40°; e
+        asterisco *(2): fora de uma zona óptica central, sendo que a dita zona óptica central
+compreende uma linha principal (ML_min (alpha_min, beta_min)) de direções ciclópicas para as
+quais, para cada ângulo min, o astigmatismo resultante alcança seu mínimo, sendo que a zona
+
+
+
+                                                                                                   2
+                                      BR112015019008-1
+
+óptica central é delimitada em qualquer lado da linha principal por direções de olhar prolongado
+ciclópicas cujo ângulo de azimute é igual a min ± 5°.
+        Tais trechos explicativos dos asteriscos *(1) e *(2), da Etapa /2/, da RI01pp, infringem o
+Inciso VIII, do Art. 4o., da Instrução Normativa (IN) 30/2013, dado que não serão aceitas
+reivindicações de utilização e trechos explicativos com relação às vantagens e ao uso do objeto,
+quando à formulação das reivindicações.
+
+
+        Em 15/11/2021, a Justiça Federal, da 13a. Vara Federal do Rio de Janeiro (TRF-RJ), no
+âmbito do Mandado de Segurança nº 5051373-49.2019.4.02.5101, sentenciou:
+        Do exposto, concedo parcialmente a segurança (CPC/2015, art. 269, I), para
+        determinar a nulidade parcial da Resolução n.º 241 de 2019, apenas no que se refere
+        à impossibilidade de realização de buscas complementares, sendo assegurado aos
+        representados pelas associações impetrantes que, em cada caso concreto, possam
+        fazer tais buscas, quando o entenderem adequado e pertinente.
+        Em 14/12/2021, o INPI publicou a PORTARIA/INPI/PRNº052, que em seu Art. 6º. revoga a
+Resolução INPI/PR Nº 241, de 03/07/2019. No seu Art. 5º, estabelece:
+        Por ocasião do prosseguimento do exame do pedido, poderá ser realizada a
+complementação da busca a que se refere o art. 3º desta Portaria.
+        Face à decisão judicial supracitada e à publicação da Portaria 52/2021, em pesquisas
+realizadas em bases de dados de documentos de (e pedidos de) patentes e em literatura não
+patentaria, foi encontrado o seguinte documento capaz de indicar arranjos técnicos funcionais
+semelhantes aos pleiteados no QR do presente pedido:
+                         Quadro 4  Documentos citados no parecer
+
+ Código                              Documento                               Data de publicação
+(Relevân
+  cia)
+    D2                   EP2224276 (A1) (HOYA CORP[JP])                         01/09/2010
+Comentários/Justificativas
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15, da LPI)
+     Requisito de Patenteabilidade            Cumprimento               Reivindicações
+                                                   Sim                          
+            Aplicação Industrial
+                                                   Não                          
+
+                                                   Sim                          
+                 Novidade
+                                                   Não                          
+
+                                                   Sim                          
+            Atividade Inventiva
+                                                   Não                          
+
+Comentários/Justificativas
+
+
+
+         A análise do QR do presente pedido, apresentado em 03/07/2020, através da Petição
+870200083273/RJ, e mais especificamente sua Reivindicação Independente do Presente
+
+
+
+                                                                                                3
+                                                 BR112015019008-1
+
+
+Pedido (RI**pp´s), que é a RI01pp (Método ), nos fez concluir que matéria da etapa d), da
+RI01pp, situada após a expressão caracterizante, não é considerada invenção nem modelo de
+utilidade, pois se trata de obra científica, se enquadrando no disposto nos Incisos IV e VIII, do
+Art. 10, da LPI. Desta forma, concluímos não ser possível avaliar os requisitos de
+patenteabilidade tanto de aplicação industrial e novidade, quanto de atividade inventiva (Art. 8º,
+11, 13 e 15, da LPI), conforme indicado nos Quadro 2 e Quadro 5, daquele parecer técnico.
+
+
+
+      No que se refere a sua manifestação,                              de    14/03/2022,    através   da    Petição
+870220021363/RJ, a Requerente entende que:
+          1) Ausência de método de terapêutico na reivindicação 1 Os Srs. Examinadores entendem que a seguinte
+etapa da reivindicação 1 envolveria um método terapêutico ou diagnóstico:
+         - obter as prescrições para ambos os olhos que incluem uma adição ADD prescrita para cada uma das duas
+lentes, sendo que a dita adição prescrita é comum a ambas as lentes do par
+         De acordo com a Resolução 169/2016 (Bloco II das Diretrizes de Exame sobre Patenteabilidade), item 1.38 um
+método diagnóstico envolve uma série de passos que conduzem para a identificação de uma condição clínica, que
+incluem etapas de análise e interpretação dos dados obtidos. Em seguida, no item 1.39 dessas mesmas Diretrizes,
+item (i) determina que método diagnóstico possui aplicação direta no corpo humano, e o item (ii) menciona que o
+método diagnóstico permite a conclusão do estado clínico do paciente.
+         Ocorre que a simples menção a obter as prescrições para ambos os olhos não envolve:
+         - uma série de passos que conduzem para a identificação de uma condição clínica, pois esta etapa consiste
+em um passo único. Não é definida nenhuma etapa de obtenção de dados, tampouco de análise e interpretação dos
+dados obtidos;
+         - aplicação ao corpo humano, pois não é definida nenhuma etapa de aplicação ao corpo humano em si para se
+obter essa prescrição;
+         - e não permite uma conclusão do estado clínico do paciente.
+         Além disso, o método em si se refere à fabricação de um par de lentes oftálmicas progressivas e não envolve o
+diagnóstico de nenhuma condição médica também.
+         Além disso, esta etapa sozinha de obter uma prescrição não envolve um método terapêutico, pois nenhum
+tratamento de uma condição (por exemplo, um problema de visão) é realizado. Além disso, métodos terapêuticos são
+aqueles métodos que implicam na cura e/ou prevenção de uma doença ou mau funcionamento do corpo humano ou de
+um animal, ou o alívio de sintomas de dor, sofrimento e desconforto, com o objetivo de restabelecer ou manter as
+funções normais de saúde.
+         A prescrição é obtida após uma verificação da visão da pessoa. Esta verificação pode ser feita verificando o
+tamanho dos caracteres que podem ser lidos por esta pessoa a diferentes distâncias. Esta verificação não envolve
+nenhuma interferência no corpo humano, mas depende da interpretação da pessoa em relação aos caracteres vistos.
+Logo, esta verificação não é um método curativo, diagnóstico ou outro método terapêutico. É simplesmente uma
+observação do estado da visão da pessoa, com base na interpretação pessoal da própria pessoa. Portanto, a primeira
+etapa deste método reivindicado consiste na coleta dos dados obtidos por esta verificação.
+         A reivindicação não determina o método por meio do qual as prescrições para os olhos são obtidas, apenas o
+que interessa são os dados referentes à condição do olho humano que são obtidos.
+         Pelas razões acima, não se pode classificar a reivindicação 1 como um método diagnóstico com base nesta
+etapa única que, claramente, não define um método diagnóstico, ou ainda como um método terapêutico, pois não
+ocorre nenhum tratamento de nenhuma condição.
+         2) Método matemático/obra científica
+         Os Srs. Examinadores alegam que as equações matemáticas definidas na etapa 2 configuram um método
+matemático ou obra científica, razão pela qual a reivindicação violaria o art. 10 da LPI.
+
+
+
+
+                                                                                                                     4
+                                                BR112015019008-1
+
+         A requerente respeitosamente discorda dessa afirmação, uma vez que estas equações matemáticas envolvem
+aspectos técnicos e se destinam a resolver um problema técnico concreto.
+         O problema técnico consiste em melhorar a visão binocular de um portador de lentes progressivas oftálmicas,
+evitando ao mesmo tempo o desconforto para a visão periférica.
+         As expressões matemáticas contidas na reivindicação 1 definem a forma e a correção da lente a ser fabricada
+para corrigir a deficiência de visão do futuro usuário da lente. Esta reivindicação não reivindica um objeto matemático
+puro. Este método permite a fabricação de lentes que não apresentam desconforto para a visão periférica.
+         Portanto, não há que se negar a reivindicação 1 pela simples presença de equações matemáticas, porque (i)
+essas equações não são simples obras científicas ou métodos matemáticos, e sim envolvem características técnicas
+inéditas com efeitos técnicos que solucionam problemas técnicos; e (ii) o método reivindicado inclui outras etapas além
+dessas que envolvem a equação e que também contribuem para alcançar o efeito técnico desejado.
+         3) Passagens explicativas No quadro 3 do parecer de exame, os Srs. Examinadores apontam passagens na
+reivindicação 1 que consideram ser explicativas e, portanto, deveriam ser excluídas por proporcionarem falta de clareza
+à matéria reivindicada. As passagens objetadas são as seguintes, referentes à etapa 2 do método:
+         *(1): no interior de uma zona centralizada na direção de olhar prolongado ciclópica que corresponde à direção
+de olhar prolongado (GPRP) que passa através do ponto de referência de prisma (PRP) e que contém todas as
+direções de olhar prolongado ciclópicas (, ) de modo a respeitar a seguinte desigualdade (//² +/  /²)1/2  40°, e
+         *(2): fora de uma zona óptica central, sendo que a dita zona óptica central compreende uma linha principal
+(ML_min (min, min)) de direções ciclópicas para as quais, para cada ângulo  min, o astigmatismo resultante alcança
+seu mínimo, sendo que a zona óptica central é delimitada em qualquer lado da linha principal por direções de olhar
+prolongado ciclópicas cujo ângulo de azimute é igual a  min ± 5°.
+         A requerente respeitosamente discorda dessa opinião, e entende que essas passagens se referem a
+características relevantes para o método reivindicado, como será discutido a seguir.
+         As definições de direção de olhar prolongado ciclópica correspondem às limitações espaciais da direção do
+olhar ciclópico. Estas limitações espaciais são definidas por uma primeira zona na lente.
+         A primeira zona situa-se em torno do ponto de referência do prisma PRP representado na figura 1a. Esta zona
+é definida pelos ângulos ,  representados na figura 1a. Um exemplo de ângulo m, m está representado na figura
+1a. Os ângulos  ,  delimitando a primeira zona, satisfazem à relação:
+         (//² +/  /²)1/2  40°
+         Estas limitações espaciais também são definidas fora de uma segunda zona na lente.
+         A segunda zona está situada de ambos os lados da linha principal ML_ min pelas direções de olhar ciclópica
+cujo ângulo azimutal  é igual a  min ± 5°". Esta zona é representada nas figuras 2a e 2b.
+         Pelas razões acima, as passagens objetam características técnicas relevantes da invenção, de modo que a
+requerente solicita que as objeções sejam reconsideradas.
+         5) Objeção à etapa 5 da reivindicação 1
+         Os Srs. Examinadores alegam que a etapa 5 da reivindicação 1, a saber, /5/ fabricar ambas as lentes (1, 2) do
+par em concordância com um resultado de otimização da etapa /4/ não constituiria característica essencial da invenção
+e não definiria de forma precisa e compreensível a etapa em questão, de modo que deveria ser cancelada.
+         A fim de superar essa objeção de falta de clareza, a requerente reformulou a etapa 5 como /5/ fornecer ambas
+as lentes (1, 2) do par em concordância com um resultado de otimização da etapa /4/.
+         Esta nova redação está em harmonia com o texto das palavras de abertura da reivindicação 1, a saber
+Método para fornecer um par de lentes oftálmicas progressivas (1, 2) a um usuário identificado.. 
+
+
+
+         Ainda na sua manifestação, de 14/03/2022, através da Petição 870220021363/RJ, a
+Requerente REapresenta o QR, de 03/07/2020, da Petição 870200083273/RJ, com a mesma
+RI01pp (Aparelho ), e com as mesmas ETAPA01 a ETAPA05, sanando as irregularidades
+apontadas em relação à ETAPA05, no parecer técnico de 03/07/2020.
+
+
+
+                                                                                                                         5
+                                        BR112015019008-1
+
+
+
+       Face ao disposto acima, e às argumentações da Requerente de 14/03/2022, através da
+Petição 870220021363/RJ, voltamos a sustentar QUE em relação ao Art. 10, da LPI,
+entendemos que o QR do presente pedido, e mais especificamente a Etapa /1/, da Reivindicação
+Independente 01, do presente pedido, RI01pp,  para o usuário de ambas as lentes:
+       - obter as prescrições para ambos os olhos que incluem uma adição ADD prescrita
+para cada uma das duas lentes, sendo que a dita adição prescrita é comum a ambas as lentes
+do par, infringe o Inciso VIII, do Art. 10, da LPI , por se enquadrar em técnicas e
+métodos operatórios ou cirúrgicos, bem como métodos terapêuticos ou de diagnóstico, para
+aplicação no corpo humano ou animal;
+       E, ainda em relação ao Art. 10, da LPI, entendemos que o QR do presente pedido, e
+mais especificamente as expressões matemáticas da Etapa /2/, da Reivindicação
+Independente 01, do presente pedido, RI01pp,
+       - definir um desvio de potência média de refração DPPO,  para cada direção de olhar
+prolongado como:
+       EQUAÇÃO_01: DPPO,  = PPO,   PPO,;
+       - definir um desvio total P,  para cada direção de olhar prolongado (G) como:
+       EQUAÇÃO_02: P,  = m*(DPPO, ) a + n*(ASR, )b;
+       - cada vez que o desvio total P,  satisfizer:
+       EQUAÇÃO_03: P,  = m*(ADD/8)a + n*(ADD/4)b; e
+       - cada vez que o desvio total P,  satisfizer:
+       EQUAÇÃO_04: P,  = m*(ADD/4)a + n*(ADD/2)b.
+       Assim, as EQUAÇÃO_01 a EQUAÇÃO_04, da etapa /2/, da RI01pp, infringem o
+Inciso IV, do Art. 10, da LPI, por se enquadrar na categoria de obras científicas.
+
+
+       Desta forma, a matéria reivindicada através da reivindicação independente RI01pp, do
+presente pedido, infringe os Incisos IV e VIII, do Art. 10, da LPI.
+
+
+
+       Quanto às demais reivindicações, as mesmas também não são válidas por serem
+dependentes das reivindicações independentes contestadas acima
+
+
+
+Conclusão
+
+       A matéria da etapa d), da reivindicação independente 01, situada após a expressão
+caracterizante, não é considerada invenção nem modelo de utilidade, pois se trata de obra
+científica, se enquadrando no disposto nos Incisos IV e VIII, do Art. 10, da LPI. Desta forma,
+concluímos não ser possível avaliar os requisitos de patenteabilidade tanto de aplicação
+industrial e novidade, quanto de atividade inventiva (Art. 8º, 11, 13 e 15, da LPI), conforme
+indicado nos Quadro 2 e Quadro 5.
+
+
+
+
+                                                                                                 6
+                                     BR112015019008-1
+
+       Face às conclusões a que se chegou o Exame Técnico, de acordo com o Art. 37, baseado
+nos Art. 10 e Art. 25, da LPI, INDEFIRO o presente pedido como PATENTE DE INVENÇÃO.
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                              Publique-se o indeferimento (9.2)
+
+
+                                                         Rio de Janeiro, 25 de Março de 2022.
+
+
+                                  Edson Ferreira Suisso
+                   Pesquisador em Propriedade Industrial / Mat. Nº 1548985
+                         Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+                           DIRPA / CGPAT III / DIPAT XV (DIPEQ)
+
+
+
+
+                                                                                              7
+

@@ -1,0 +1,153 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122020007845-6            N.° de Depósito PCT:EP2011/055374
+ Data de Depósito:                   06/04/2011
+ Prioridade Unionista:               US 61/322,458 (09/04/2010)
+ Depositante:                        Dolby International Ab (NL)
+ Inventor:                           Heiko Purnhagen, PONTUS CARLSSON, Lars Villemoes
+ Título:                             Sistema decodificador e método de decodificação para codificação
+                                     estéreo por predição complexa baseada em MDCT
+
+                                          PARECER
+       O pedido se refere a um método e um sistema de decodificação estéreo usando predição
+complexa no domínio da frequência.
+       O presente pedido corresponde a uma divisão do pedido BR112012025863-0, solicitada
+pelo depositante por meio da petição 870200049292 em 20/04/2020.
+       O pedido original teve parecer emitido no âmbito da Resolução Nº 241/2019, notificado na
+RPI 2560 de 28/01/2020 segundo a exigência preliminar (6.21), em conjunto com o relatório de
+busca, que é considerado no presente parecer como também referente ao pedido em tela.
+       Em 17/12/2020, por meio da petição 870200158112, a Requerente apresentou
+modificações no pedido em resposta ao parecer emitido, notificado na RPI 2599 de 27/10/2020
+(despacho 7.1). Estas modificações estão consideradas no Quadro 1.
+
+                                      Quadro 1  Páginas do pedido examinadas
+           Elemento                                  Páginas                 n.o da Petição     Data
+
+Relatório Descritivo                   1  56 (6  61 do arq. PDF)           870200158112     17/12/2020
+Quadro Reivindicatório                 1  8 (62  69 do arq. PDF)           870200158112     17/12/2020
+Desenhos                              1  16 (12  27 do arq. PDF)           870200049292     20/04/2020
+Resumo                                        1 (70 do arq. PDF)             870200158112     17/12/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                          Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                        X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                   X
+O pedido está de acordo com disposto no art. 32 da LPI                                    X
+Comentários/Justificativas:----
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                       Página 1/3
+                                          BR122020007845-6
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                            Sim                Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI       X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         X
+Comentários/Justificativas:
+        Como mencionado no parecer anterior, ainda considera-se que as novas reivindicações
+independentes 1 e 13 contrariam o disposto no Art. 25 LPI e na Instrução Normativa nº 30/2013 
+Art. 4º (III) e Art. 5º (I), pois omitem a definição de como os limites de largura de banda
+independentes são aplicados (descrita nas páginas 26 e 27, par. [0051]: Ademais, então, as
+informações () para sinal residual, do relatório descritivo e que estava presente na antiga
+reivindicação 2), característica entendida como essencial e específica do objeto descrito. O trecho
+o estágio de mistura ascendente é adaptado para aplicar limites de largura de banda
+independente ao sinal de mistura descendente e sinal residual; caracterizado pelo fato de que os
+limites de largura de banda são sinalizados por dois campos de dados. presente nas novas
+reivindicações 1 e 13 não é suficiente para deixar claro como esses limites são aplicados.
+        De fato, o trecho os limites de largura de banda são sinalizados por dois campos de
+dados não define o uso dos limites de banda como alegado pela requerente em sua
+manifestação. Apenas indica que esses limites estarão armazenados em campos de dados
+diferentes.
+        Além disso, é importante ressaltar que o trecho os limites de largura de banda são
+sinalizados por dois campos de dados não distingue o escopo do pedido em tela daquele definido
+no pedido original já deferido. Isto porque o pedido original já define em suas reivindicações 1 e 14
+a existência de dois limites de largura de banda independentes: um para o sinal de mistura
+descendente e outro para o sinal residual; que têm que estar em campos de dados distintos.
+Portanto, apesar de perceber que a matéria da antiga reivindicação 2 faz menção a esse trecho
+deslocado para a nova reivindicação 1 (e, de forma correspondente, para o fim da nova
+reivindicação 13), tal fato não é suficiente para eliminar a condição de dupla proteção do presente
+pedido.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                              Data de publicação
+   -----    ------                                                                        ------
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento              Reivindicações
+                                                        Sim                      1  13
+           Aplicação Industrial
+                                                        Não                     Nenhuma
+                                                        Sim                      1  13
+                     Novidade
+                                                        Não                     Nenhuma
+                                                        Sim                      1  13
+           Atividade Inventiva
+                                                        Não                     Nenhuma
+
+
+
+                                                                                             Página 2/3
+                                        BR122020007845-6
+
+
+Comentários/Justificativas:
+
+       Conforme o exame referente ao pedido original, mas considerando as irregularidades
+apontadas no Quadro 3 do presente parecer, entende-se ainda que a matéria do pedido em tela
+também não está antecipada pelos documentos citados no relatório de busca emitido junto com
+o parecer de exigência preliminar (6.21) referente ao pedido original.
+
+       No entanto, como mencionado no Quadro 3, as modificações apresentadas continuam a
+incorrer em dupla proteção com relação à matéria referente ao pedido original deferido. Mesmo
+considerando as modificações necessárias para sanar as irregularidades apontadas (inserir o
+trecho com característica essencial e específica, a saber, em que os limites de largura de banda
+indicam, para cada um dos sinais de mistura descendente e do sinal residual, uma banda de
+frequência mais alta a ser decodificada ao fim das reivindicações 1 e 13), ter-se-ia ainda um
+quadro reivindicatório que incorre em dupla proteção com relação à matéria referente ao pedido
+original deferido, conforme mencionado no parecer anterior.
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que as
+reivindicações ainda apresentam indefinição (continuam a omitir característica essencial e
+especifica da matéria descrita) (Art. 25 da LPI) e as reivindicações ainda incidem na proibição
+estabelecida no Art. 6º inc. VII da Lei nº 11.105/05 e/ou no Art. 12 da Lei nº 10.814/03.
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                                Rio de Janeiro, 22 de abril de 2021.
+
+
+
+
+Fábio Pacheco Freeland
+Pesquisador/ Mat. Nº 1693846
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 008/13
+
+
+
+
+                                                                                            Página 3/3
+

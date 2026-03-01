@@ -1,0 +1,310 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0813100-7               N.° de Depósito PCT:JP2008/061686
+ Data de Depósito:                   20/06/2008
+ Prioridade Unionista:               JP 2007-163551 (21/06/2007)
+ Depositante:                        Otsuka Pharmaceutical CO., LTD. (JP)
+ Inventor:                           Shinsuke Nakagawa, Kai Suzuki, Tadashi Mukai
+ Título:                             Preparação sólida farmacêutica e método de produção da mesma 
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-49               870190025809           18/03/2019
+Quadro Reivindicatório                                     1-3               870190025809           18/03/2019
+Desenhos                                                    -                       -                   -
+Resumo                                                      1                870190025809           18/03/2019
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                         x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                 x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas---
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                                        x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                                      x
+Comentários/Justificativas
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                             Página 1/6
+                                             PI0813100-7
+
+       Apesar da manifestação da Requerente e das novas peças do pedido apresentadas,
+mantém-se a opinião de que no relatório descritivo há uma infinidade de possibilidades de
+preparação sólida farmacêutica e método para produzi-la. Assim, entende-se que o relatório
+descritivo não descreve clara e suficientemente todas as possibilidades, de modo a permitir a sua
+realização por técnico no assunto (Art. 24 da LPI). O referido técnico necessitaria realizar várias
+experimentações para encontrar quais as quantidades adequadas de constituintes nas
+preparações [principalmente devido a ampla faixa de possibilidades de concentração do princípio
+ativo: 0,01 a 95 % em peso], a massa molar dos polímeros [os polímeros apresentam
+comportamentos diferentes de acordo com sua massa molecular] e as condições favoráveis ao
+processo de preparação. Além disso, no relatório trata-se de compósito amorfo, no entanto, não
+há uma caracterização do referido compósito por técnicas adequadas (Art. 24 da LPI). Desta
+forma, como a matéria das reivindicações principais do presente pedido de patente também está
+descrita de modo amplo e/ou genérico quanto a esses parâmetros, considera-se que as
+reivindicações não estão fundamentadas no relatório descritivo (Art. 25 da LPI).
+
+
+       Ademais, as reivindicações de composições, de formulações e/ou de formas de
+apresentação devem definir esses objetos a partir de suas características técnicas e não pelo seu
+uso e/ou aplicação e/ou processo de preparação e/ou efeito. Assim, as composições devem ser
+definidas pelos seus constituintes. Cabe ressaltar que as formulações e as formas de
+apresentação devem ter seus constituintes definidos quantitativamente e, especificamente, as
+formas de apresentação devem ser especificadas quanto à forma física das mesmas. Já as
+reivindicações de processo/método (incluindo reivindicações de uso) devem defini-lo pelas etapas
+a partir do material de partida até o produto final.
+
+
+       Nesse contexto, seguem as seguintes considerações:
+
+
+       1) no quadro reivindicatório, os termos a seguir não estão definindo, de modo claro e
+preciso, a matéria ora reivindicada (Art. 25 da LPI): mais, pouco substituída, amorfo.
+
+
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                                 Documento                               Data de publicação
+    D1                                  US6328994                                    11/12/2001
+
+    D2                                 JPH1121241*                                   26/01/1999
+
+    D3                                WO2004073716                                   02/09/2004
+* Com tradução para o inglês obtida no site do Escritório Europeus de Patente.
+
+
+
+
+                                                                                           Página 2/6
+                                          PI0813100-7
+
+
+     Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+      Requisito de Patenteabilidade            Cumprimento                 Reivindicações
+                                                   Sim                           1-7
+           Aplicação Industrial
+                                                   Não
+                                                   Sim
+                Novidade
+                                                   Não                           1-7
+
+                                                   Sim
+           Atividade Inventiva
+                                                   Não                           1-7
+
+
+
+Comentários/Justificativas
+
+
+
+       A Requerente argumenta que o novo quadro reivindicatório tem por base o quadro da
+patente correspondente indiana. De forma resumida, a Requerente alega que existe uma técnica
+conhecida de combinar um composto de benzoazepina com uma hidroxipropilcelulose para
+melhorar a solubilidade do composto de benzoazepina, no entanto, quando essa composição é
+comprimida diretamente em um comprimido, o comprimido não se desintegra de todo no trato
+gastrointestinal, não apresenta homogeneidade no tempo de desintegração, e não apresenta
+atividade farmacológica. A Requerente afirma que resolveu esse problema técnico observado
+para o compósito [tolvaptano misturado com hidroxipropilcelulose] incluindo um desintegrante
+na     formulação:    (C-1)     hidroxipropilcelulose     pouco        substituída     com      um
+diâmetro   de   partícula   médio    de   30   a   70    m,   e   um     diâmetro     de   partícula
+cumulativo de 90% de 100 a 200m, (C-2) carmelose, (C-3) carbóxi metil amido de sódio, (C-
+4) crospovidona, melhorando a absorção e aumentando a capacidade de absorção no trato
+gastrointestinal do ingrediente ativo. A Requerente alega que o técnico no assunto não iria
+selecionar o tamanho de partícula para a hidroxipropilcelulose e nem os outros desintegrantes
+propostos no presente pedido a partir do estado da técnica, e cita dados comparativos do seu
+relatório em que outros desintegrantes, como carboximetilcelulose de cálcio [carmelose
+cálcica], e hidroxipropilcelulose de outros tamanhos de partícula não apresentaram o mesmo
+efeito. Ressalta-se que a Requerente citou D5, porém, não especificou qual seria esse
+documento.
+
+
+
+       Apesar dessas argumentações, entende-se que as mesmas não são suficientes para
+superar as objeções apontadas no parecer técnico anterior. Nesse sentido, assim como afirma a
+Requerente, o artifício técnico de se preparar composições contendo tolvaptano (amorfo) e
+hidroipropilcelulose para melhorar a dissolução do ativo já faz parte do estado da técnica. Nesse
+sentido, D2 descreve uma composição amorfa contendo tolvaptano e hidroxipropilcelulose
+[0,2 a 2 vezes a quantidade do ativo] (D2, parágrafos 0003, 0005, 0006 da tradução). D2 ensina
+que ao utilizar uma composição de preparação sólida amorfa, a solubilidade do composto é
+
+
+                                                                                            Página 3/6
+                                            PI0813100-7
+
+
+melhorada e, assim, a absorção é melhorada (parágrafo 0006 da tradução). A composição pode
+ser formulada em comprimidos, grãos finos [granulação], cápsulas, etc. Desintegrantes
+convencionais, excipientes, lubrificantes, aglutinantes, etc. podem ser incluídos (parágrafos 0011
+a   0014   da   tradução).   Excipientes    úteis    para   as   formulações   de   D2    incluem
+hidroxipropilcelulose    com     baixo     grau     de   substituição,   carboxi-amido    sódico,
+carboximetilcelulose cálcica [carmelose cálcica], etc. (parágrafo 0013 da tradução). Ressalta-se
+que a reivindicação 1 do presente pedido também trata de outros desintegrantes [além de
+hidroxipropilcelulose], e que a Requerente não apresentou dados suficientes comprovando que
+a hidroxipropilcelulose revelada em D2 não apresenta um grupo hidroxila em uma quantidade
+de 50 % ou mais e/ou um diâmetro de partícula como ora reivindicado e, portanto, considera-se
+que a matéria das reivindicações 1 a 7 do presente pedido não apresenta novidade em relação a
+esse documento do estado da técnica.
+
+
+
+       As objeções também são mantidas em relação à atividade inventiva. Considera-se que
+diante de um problema técnica como o levantado no presente pedido, o técnico no assunto seria
+motivado, de forma óbvia e com razoável expectativa de sucesso, em utilizar excipientes que
+agem como desintegrante [como ensinado pelo próprio D2] para melhorar as propriedades de
+desintegração e dissolução das formas farmacêuticas, melhorando a absorção do fármaco e
+mantendo o mesmo padrão de qualidade entre os lotes de produção, tendo em vista que isso faz
+parte da rotina de trabalho e experimentação do referido técnico no assunto. Considera-se que o
+técnico no assunto tem o conhecimento de que existem diferenças entre os desintegrantes e
+que esse efeito também depende do tamanho de partícula utilizado e do grau de substituição
+nos polímeros e suas massas moleculares, sendo um artifício usual em farmacotécnica
+selecionar os desintegrantes mais adequados para cada formulação, sem que isso represente
+uma atividade inventiva (Art. 13 da LPI). Assim, considera-se que a matéria das reivindicações 1
+a 7 também decorrem de maneira evidente ou óbvia para um técnico no assunto diante do
+estado da técnica.
+
+
+
+       Adicionalmente, além dos seus conhecimentos básicos e das informações de D2, o
+técnico no assunto também tem as informações de D1 e D3:
+
+       D1 reconhece a necessidade de combinar um composto fisiologicamente ativo ou seu sal
+(ver coluna 4, linha 64) com sais inorgânicos básicos para estabilidade, e ainda revestir com
+camadas de revestimento tais como uma camada entérica. D1 dirige-se particularmente a
+composições de comprimidos desintegráveis que compreendem (i) grânulos finos tendo um
+diâmetro médio de partícula de 400 um ou menos, cujos grânulos finos compreendem uma
+composição revestida por uma camada de revestimento entérico, tendo a referida composição
+10% ou mais de substância fisiologicamente ativa e (ii) um aditivo. A composição tem
+desintegração ou dissolução superior na cavidade oral de modo que pode ser utilizada para o
+tratamento ou prevenção de várias doenças, como um comprimido de desintegração oral capaz
+
+
+
+                                                                                         Página 4/6
+                                          PI0813100-7
+
+
+de ser administrado a idosos ou crianças e facilmente administrado sem água (ver resumo).
+Como o comprimido contém grânulos finos com o diâmetro médio das partículas de tal modo
+que não confere rugosidade na boca, pode ser administrado facilmente sem desconforto na
+administração (ver resumo e Reivindicação 1). O aditivo é (i) celulose cristalina e/ou (ii)
+hidroxipropilcelulose pouco substituída (L-HPC) (veja a coluna 3, linha 33-35; reivindicação 6).
+As composições contêm polímeros, ligantes, lubrificantes e excipientes solúveis em água, etc..
+O polímero solúvel em água inclui, por exemplo, um polímero solúvel em água que é solúvel em
+etanol, tal como um derivado de celulose (por exemplo, hidroxipropilcelulose (HPC)). Quando
+tais polímeros solúveis em água são utilizados, a dissolução da substância fisiologicamente ativa
+pode ser controlada empregando-o em combinação com polímero solúvel em água e etanol e
+polímero solúvel em água e insolúvel em etanol ou pelo emprego deles em combinação com
+algum polímero solúvel em água tendo diferentes viscosidades (veja col. 8, l. 18-42). D1 não
+especificamente revela o tolvaptano (composto do presente pedido de patente).
+
+       D3 refere-se a medicamentos como o tolvaptano para o tratamento da insuficiência
+cardíaca que pode ser formulado em comprimidos para administração oral (veja título;
+reivindicação 1; p. 17 e Exemplos). De modo a formar comprimidos, podem ser utilizados
+excipientes farmacêuticos conhecidos tais como veículos, ligantes, desintegradores, promotores
+de absorção, agentes molhantes, adsorventes, lubrificantes e outros (ver a p. 15). Além disso, os
+comprimidos podem também estar na forma de um comprimido revestido convencional, tal como
+comprimidos revestidos com açúcar, comprimidos revestidos com gelatina, comprimidos com
+revestimento entérico, comprimidos revestidos com película, ou comprimidos de camada dupla
+ou múltipla (veja a p. 15 e 16).
+
+
+       Assim, em mais um exemplo, considera-se uma alternativa óbvia para um técnico no
+assunto utilizar o tolvaptano (ensinado em D2 ou D3) nas preparações de D1, utilizando-se ainda
+dos mesmos artifícios técnicos revelados nesses documentos, como preparação de composição
+amorfa contendo tolvaptano e hidroxipropilcelulose (D2) e utilização de outros excipientes, como
+desintegrantes (D2 ou D3), agregando-se, em D1, as vantagens técnicos referidas em D2 ou D3.
+Da mesma forma, também considera-se óbvio para um técnico no assunto utilizar os artifício
+técnicos de D1 nas preparações de D2 ou D3, obtendo-se preparações como as do presente
+pedido de patente. Adicionalmente, considera-se que os ajustes em parâmetros como o estado
+cristalino ou amorfo, o grau de substituição, a quantidade de grupos hidroxipropoxila, tamanho de
+partículas e qualidade e quantidade de excipientes, como o tipo de desintegrante, são artifícios
+usuais em farmacotécnica e fazem parte de rotina de experimentação de um técnico no assunto,
+não representando uma atividade inventiva, por exemplo, diante dos documentos D1 a D3.
+
+
+       Diante do exposto, além de não apresentar novidade, a matéria do presente pedido de
+patente decorre de maneira evidente ou óbvia do estado da técnica, combinando dois ou três dos
+documentos do Quadro 4, acima, e não está de acordo com os Arts. 8º, 11 e 13 da LPI.
+
+
+
+                                                                                       Página 5/6
+                                           PI0813100-7
+
+
+Conclusão
+
+
+       Tendo em vista o exposto, a matéria reivindicada não apresenta novidade (Arts. 8º e 11 da
+LPI: reivindicações 1-7) em relação ao documento D2 e também não apresenta atividade inventiva
+(Arts. 8º e 13 da LPI: reivindicações 1-7) em relação à combinação de dois ou três dos
+documentos D1 a D3. Ademais, o presente pedido de patente também não está de acordo com os
+Arts. 24 e 25 da LPI.
+
+
+       Cabe notar que, de acordo com o art. 31 da MP 2.186-16/01, a concessão do direito de
+propriedade industrial pelos órgãos competentes, sobre processo ou produto obtido a partir de
+amostra de componente do patrimônio genético, fica condicionada à observância da referida
+Medida Provisória, devendo o requerente informar a origem do material genético e do
+conhecimento tradicional associado, quando for o caso. Nos autos do processo administrativo,
+não consta declaração da requerente informando se o objeto do presente pedido de patente foi
+obtido ou não em decorrência de um acesso aos recursos genéticos ou ao conhecimento
+tradicional nacional.
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI);
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI);
+
+      -   não apresenta suficiência descritiva (Art. 24 da LPI);
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI).
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                    Publique-se o indeferimento (9.2).
+
+                                                                   Rio de Janeiro, 4 de junho de 2019.
+
+
+
+
+Rodinelli Borges de Oliveira
+Pesquisador/ Mat. Nº 1561216
+DIRPA / CGPAT I/DIFAR-I
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                           Página 6/6
+

@@ -1,0 +1,167 @@
+                                       SERVIÇO PÚBLICO FEDERAL
+                                        MINISTÉRIO DA ECONOMIA
+                            INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        PI1005599-1                 N.° de Depósito PCT:
+ Data de Depósito:                     20/12/2010
+ Prioridade Unionista:                 -
+ Depositante:                          FUNDAÇÃO         CPQD       -    CENTRO      DE  PESQUISA E
+                                       DESENVOLVIMENTO EM TELECOMUNICAÇÕES (BRSP)
+ Inventor:                             CLAUDIO COPELLO MACHADO, CARLOS ANTONIO DE OLIVEIRA
+ Título:                               Método e sistema de geração automática de relatórios para
+                                       aplicativos que utilizam sgbds relacionais 
+
+                                                                    PARECER
+       Em 26/10/2020, por meio da petição nº 870200134800, a Requerente apresentou
+modificações no pedido em resposta ao parecer emitido, notificado na RPI nº 2586 de 28/07/2020
+(despacho 7.1). Estas modificações estão consideradas no Quadro 1.
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                 Páginas                n.o da Petição         Data
+Relatório Descritivo                                          1 à 20            870200134800          26/10/2020
+Quadro Reivindicatório                                        1à7               870200134800          26/10/2020
+Desenhos                                                      1 à 12          018100048351-DESP       20/12/2010
+Resumo                                                          1               870200134800          26/10/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                        X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                           X
+O pedido está de acordo com disposto no art. 32 da LPI                                            X
+Comentários/Justificativas
+
+                      Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim         Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                              X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                            X
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                                Página 1
+                                                               PI1005599-1
+
+
+Comentários/Justificativas
+      À luz dos argumentos da requerente entende-se que a matéria da reivindicação 1 está de
+acordo com o Artigo 25 da LPI. A requerente esclareceu que quem efetivamente cria o
+metamodelo não é o método ou sistema, mas sim o projetista de banco de dados.
+
+                                    Quadro 4  Documentos citados no parecer
+ Código                                                Documento                        Data de publicação
+    D1                                              US 7680781 B1                              16/03/2010
+   D2                                               US 5765159 B1                              09/06/1998
+   D3                                               US 6609123 B1                              19/08/2003
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                     Cumprimento   Reivindicações
+                                                                           Sim           1 à 16
+             Aplicação Industrial
+                                                                          Não              -
+                                                                           Sim           1 à 16
+                     Novidade
+                                                                          Não              -
+                                                                           Sim             -
+             Atividade Inventiva
+                                                                          Não            1 à 16
+Comentários/Justificativas
+
+         A requerente argumenta que o cerne da invenção seria um método e sistema para
+carregamento de um ambiente de desenvolvimento vinculado a aplicativos alvo que fazem uso de
+bancos de dados relacionais, com a função de automatizar processo de geração de relatórios,
+tabelas e rotinas de busca. A fim de restringir o escopo das reivindicações independentes, a
+requerente levou para a parte caracterizante da reivindicação 1 a matéria da reivindicação 3. O
+mesmo ocorreu com a matéria da antiga reivindicação 11, agora incorporada à parte
+caracterizante da atual reivindicação 8 (antiga reivindicação 10). A requerente argumenta que as
+matérias dos documentos D1, D2 e D3 tomadas de forma isolada ou combinadas não seriam
+suficientes para antecipar a matéria da atual reivindicação 1, pois não abordariam um método
+para criar um ambiente de desenvolvimento integrado e complementar a um ambiente de
+desenvolvimento dentro de um aplicativo alvo, voltado para a criação de um metamodelo (ainda
+que essa fase seja efetivamente realizada por um projetista de banco de dados), criação, edição,
+armazenamento e de templates de relatórios por um usuário administrador destes relatórios e
+utilização destes por um usuário final. Entende-se da reivindicação 1 que a macroetapa na qual o
+Projetista de Banco de dados gera o metamodelo é uma automatização de um processo humano
+já compreendido no estado da técnica (projeto de um banco de dados, coluna 1: linha 26 à 31 de
+D1) sendo que o fato do método tratar da criação de um ambiente de desenvolvimento integrado
+não despreende-se da matéria revelada no Relatório Descritivo tratar-se de um IDE voltado para a
+geração de macromodelo, bem como geração e utilização de relatórios acoplado ao IDE de
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 2
+                                                                PI1005599-1
+
+
+desenvolvimento do aplicativo alvo, mas de acordo com os parágrafos 0025 e 0026 do relatório
+descritivo da presente invenção, o método se apresenta como o dito ambiente de
+desenvolvimento, sendo que a parte técnica que define tal método é a geração das estruturas do
+banco de dados e dos relatórios, inclusive de queries de busca e de inserção de dados no dito
+banco. Tal parte técnica é revelada nos ensinamentos dos documentos do estado da técnica,
+discutidos no parecer de primeiro exame e novamente citados:
+
+       O documento D1 revela método e sistema de geração de pesquisas (queries) possuindo
+uma interface de pesquisa associada a um aplicativo alvo (resumo; coluna 2: linha 27 à 67, coluna
+3: linha 1 à 17; coluna 7: linha 38 à coluna 8: linha 17; reivindicações 1 e 8 de D1).
+
+       O documento D2 revela que os metadados são associados a um campo técnico ou
+industria e estes são mapeados em um armazém de dados, inclusive sendo um banco de dados
+relacional (resumo; coluna 3: linhas 18 à 43 de D1). O documento D2 revela método e sistema
+com motor de geração de pesquisas e relatórios de pesquisas para recuperar informação
+presente em bancos de dados relacionais a partir de requisições provenientes de aplicativos de
+usuários, gerando modelo a partir de metadados e apresentando resultados formatados advindos
+da base ou banco de dados (resumo; coluna 1: linha 64 à coluna 2: linha 14; coluna 6: linha 29 à
+coluna 7: linha 18 de D2).
+
+       O documento D3 revela um motor de busca que formula pesquisas de fontes de dados de
+um ou mais bancos de dados, utilizando um modelo de metadados que representam a camada de
+acesso de dados, a camada de negócios e a camada de aplicação, permitindo que diversos tipos
+de aplicativos clientes obtenham relatórios de uma ou mais fontes de dados, gerando rotinas em
+SQL para tratamento de metadados do modelo, sendo supervisionado por usuário ou analista de
+banco de dados e executando o código da query no banco de dados a partir do aplicativo alvo
+(resumo; figuras 1, 2A-B, 43 à 45; coluna 3: linha 48 à coluna 4: linha 4; coluna 6: linhas 1 à 8 e
+24 à 50; coluna 7: linhas 25 à 61; coluna 8: linhas 22 à 67; coluna 16: linha 4 à coluna 18: linha 9;
+reivindicações 1 e 52 de D3).
+
+       À luz da argumentação da requerente e do novo quadro reivindicatório é mantida a análise
+anterior, entende-se que a parte técnica presente nas etapas do método pleiteado na
+reivindicação 1 e mutatis mutandis nos componentes do sistema da reivindicação 8 carece de
+atividade inventiva frente a combinação dos ensinamentos do documento D1 com os documentos
+D2 e D3, estando em desacordo com o Artigo 8º combinado ao 13 da LPI.
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                              Rio de Janeiro, 28 de Novembro de 2020.
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                       Página 3
+                                                             PI1005599-1
+
+
+                                                                           Publique-se o indeferimento (9.2).
+
+
+Luciano Lauand Viana de Paula
+Pesquisador/ Mat. Nº 2042359
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 001/16
+
+
+
+
+       Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 4
+

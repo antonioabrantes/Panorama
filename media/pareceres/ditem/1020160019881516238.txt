@@ -1,0 +1,151 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102016001988-5         N.° de Depósito PCT:
+ Data de Depósito:                   28/01/2016
+ Prioridade Unionista:               GB 1501456.6 (29/01/2015); GB 1501459.0 (29/01/2015)
+ Depositante:                        AKTIEBOLAGET SKF (SE)
+ Inventor:                           SÉBASTIEN DAVID, MARK ELY
+ Título:                             Sistema para montar um componente anular em um eixo 
+
+                                                                PARECER
+          De acordo com parecer técnico publicado na RPI n° 2600 de 03/11/2020, a matéria do
+presente pedido não atende aos requisitos de atividade inventiva necessários à patenteabilidade
+do objeto frente aos documentos D1-US5779419 e D3-US20110029156. Além disso, o pedido
+também estava irregular, não atendendo a IN30/2013 e o Art. 25 da LPI.
+      Por meio da petição n.° 870200155995 de 11/12/2020 a requerente apresentou
+Manifestação ao Parecer Técnico no qual discorda do parecer técnico e apresenta nova via do
+quadro reivindicatório e resumo.
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                       1-9               860160024978           28/01/2016
+Quadro Reivindicatório                                     1-3               870200155995           11/12/2020
+Desenhos                                                   1-3               860160024978           28/01/2016
+Resumo                                                      1                870200155995           11/12/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR102016001988-5
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                            Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI       x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                       x
+Comentários/Justificativas
+
+         Em sua manifestação o depositante cumpriu parcialmente as exigências formais contidas
+no parecer anterior. Dessa forma, reiteramos a seguinte exigência já formulada: O resumo não
+atende ao disposto na IN nº 30/2013, Art. 7º (I, II, III e IV), uma vez que não é redigido de forma
+a permitir uma compreensão clara do problema técnico e de forma a poder servir de instrumento
+eficaz de pré-seleção para fins de pesquisa em determinado setor técnico. Desta forma não
+atende também ao disposto no Art. 25 da LPI por falta de clareza.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                              Data de publicação
+    D1                                   US5779419                                     14/07/1998
+    D3                                US20110029156                                    03/02/2011
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento             Reivindicações
+                                                         Sim                      1-8
+            Aplicação Industrial
+                                                        Não                        -
+                                                         Sim                      1-8
+                 Novidade
+                                                        Não                        -
+
+                                                         Sim                       -
+            Atividade Inventiva
+                                                        Não                       1-8
+
+
+
+Comentários/Justificativas
+
+         Discordamos da manifestação do requerente, pois conforme exposto no parecer anterior
+os documentos D1 e D3 são considerados como o estado da técnica mais próximo do objeto do
+pedido.
+
+         D1 revela um sistema para montar um componente anular em um eixo que compreende:
+uma porca hidráulica com uma cavidade coaxial anular e um pistão tipo anel, deslocável dentro
+da cavidade coaxial anular; um sensor de deslocamento para fornecer um sinal de
+deslocamento indicando o deslocamento axial do pistão tipo anel dentro da cavidade coaxial
+anular; um sensor de pressão para fornecer um sinal de pressão indicando uma pressão dentro
+da cavidade coaxial anular; uma bomba arranjada para bombear fluido para dentro da cavidade
+
+
+                                                                                             Página 2
+                                         BR102016001988-5
+
+
+coaxial anular; uma mangueira conectando a bomba e a cavidade coaxial anular e fornecendo o
+fluido da bomba para a cavidade coaxial anular, o sensor de pressão sendo localizado na
+mangueira, e a operação da bomba que progride efetuando um aumento o valor inicial de
+pressão para um valor desejado de pressão seguido por um aumento no valor inicial de
+deslocamento para um valor desejado de deslocamento. Ver figuras 1, 2B, 2C, 8, 10, 11, 15 e
+17, ver coluna 3, linha 19  coluna 4, linha 9.
+
+       D3 descreve um transmissor de deslocamento sem fio acoplado ao sensor de
+deslocamento para transmitir o sinal de deslocamento para um dispositivo de controle remoto;
+um transmissor de pressão sem fio acoplado ao sensor de pressão para transmitir o sinal de
+pressão para um dispositivo de controle remoto; um dispositivo de controle remoto com um
+dispositivo de comunicações arranjado para receber sinais de pressão e deslocamento
+transmitidos. Ver figuras 1 e 30, ver parágrafos [09], [0020] e [0023]
+
+       Desta forma, reiteramos o já exposto em nosso parecer anterior de que as características
+da reivindicação independente 1 já se encontra no estado da técnica e não apresenta atividade
+inventiva, não estando em condições de receber a proteção pleiteada.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                   Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 15 de dezembro de 2021.
+
+
+
+
+Mariana Camargos de Paula
+Pesquisador/ Mat. Nº 2390744
+DIRPA / CGPAT IV/DITEM
+Deleg. Comp. - Port. INPI/DIRPA Nº
+014/19
+
+
+
+
+                                                                                            Página 3
+

@@ -1,0 +1,176 @@
+                                       SERVIÇO PÚBLICO FEDERAL
+                                        MINISTÉRIO DA ECONOMIA
+                            INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102012016227-0          N.° de Depósito PCT:
+ Data de Depósito:                   27/06/2012
+ Prioridade Unionista:               -
+ Depositante:                        UNIVERSIDADE ESTADUAL DE CAMPINAS - UNICAMP (BRSP)
+ Inventor:                           JOSÉ MARIO DE MARTINO, TATIANE SILVIA LEITE
+ Título:                             Método de obtenção de faces atrativas e seus usos 
+
+                                                                PARECER
+          Em 23/12/2020, por meio da petição nº 870200161263, a Requerente apresentou
+modificações no pedido em resposta ao parecer emitido, notificado na RPI nº 2596 de
+06/10/2020 (despacho 7.1).
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição         Data
+Relatório Descritivo                                    1 à 36               018120023671         27/06/2012
+Quadro Reivindicatório                                   1à2                 870200161263         23/12/2020
+Desenhos                                                 1à7                 018120023671         27/06/2012
+Resumo                                                      1                018120023671         27/06/2012
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                            Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                    X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                            X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                       X
+O pedido está de acordo com disposto no art. 32 da LPI                                        X
+Comentários/Justificativas
+
+
+
+                     Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                            Sim         Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                          X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                        X
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                             Página 1
+                                       BR102012016227-0
+
+
+Comentários/Justificativas
+       A requerente removeu as reivindicações 10 à 13, e o atual quadro reivindicatório encontra-
+se de acordo com o disposto no Art. 25 da LPI e na Instrução Normativa nº 30/2013  Art. 4º (III).
+
+                         Quadro 4  Documentos citados no parecer
+ Código                              Documento                               Data de publicação
+    D1                              US7587083 B2                                    08/09/2009
+    D2                              US8121430 B2                                    21/02/2012
+    D3                           WO2010012448 A2                                    04/02/2010
+    D4                           US20040170337 A1                                   02/09/2004
+    D5                           US20020081003 A1                                   27/06/2002
+    D6                           US20070071316 A1                                   29/03/2007
+           Data-driven enhancement of facial attractiveness, T. Leyvand,
+    D7     D. Cohen-Or, G. Dror e D. Lischinski; ACM Transactions on                 08/2008
+           Graphics, 27(3):1
+           Prototyping and transforming facial textures for perception
+    D8     research, B. Tiddeman, M. Burt, D. Perrett, IEEE Computer            09-10/2001
+           Graphics and Applications, vol. 21 (5), pp. 42-50.
+           Facial Attractiveness: Beauty and the Machine, Eisenthal, G.
+    D9                                                                               02/2006
+           Dror e E. Ruppin, Neural Computation, vol. 18 (1), pp. 119-142.
+           Active Shape Models  Their Training and Applications, T. F.
+   D10     Cootes, C. J. Taylor, D. H. Cooper e J. Graham, Computer                   1995
+           Vision and Image Understanding, vol. 61, n. 1, pp. 3859.
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento               Reivindicações
+                                                   Sim                          1
+          Aplicação Industrial
+                                                   Não                          -
+                                                   Sim                          1
+                Novidade
+                                                   Não                          -
+                                                   Sim                          -
+           Atividade Inventiva
+                                                   Não                          1
+Comentários/Justificativas
+       A requerente restringiu a matéria da reivindicação 1, caracterizando-a pela combinação da
+matéria presente nas antigas reivindicações 2 à 10. No parecer anterior os documentos D3, D4 e
+D7 foram considerados como anterioridades para a matéria da reivindicação 1 e suas
+dependentes 2 à 10. A requerente apontou para o fato de não utilizar redes neurais, mas sim
+aprendizado de máquina, sendo outra técnica de inteligência artificial que também possui uma
+fase de treinamento ou aprendizado e uma fase de inferência.
+
+
+
+
+                                                                                          Página 2
+                                      BR102012016227-0
+
+       De acordo com o que foi descrito no parecer anterior, O documento D3 revela a
+modificação da textura das faces na imagem, com a aplicação de kernels de suavização e
+redução de ruido em uma ou mais sub-regiões da face na imagem, modificando cor ou tonalidade
+de pixels nestas regiões cuja tonalidade seja diferente da tonalidade dos pixels de regiões
+adjacentes (página 3: linha 29 à página 4: linha 17; página 9: linhas 1 à 23 de D3). O documento
+D3 ensina a extração de informação de tonalidade da pele, ainda que restrita a própria imagem
+(página 11: 1 à 4 e 17 à 28 de D3).
+       O documento D3 não revela a modificação da geometria da face, ou o uso combinado com
+a modificação de tonalidades de cores, porém tal combinação é ensinada no documento D4, que
+revela método de processamento de imagem (em lotes de filtros aplicados sobre as imagens),
+para seleção e transformação de uma imagem de face em uma imagem maior, ensinando a
+modificação da geometria e da textura da pele do rosto por meio da aplicação de filtros
+controlados por um usuário (resumo; parágrafos à 0043, 0045 de D4). O documento D4 revela a
+extração de pontos característicos da face na imagem, representativos de regiões da face
+(resumo; figuras 1A-B, 2A-B, 4, 5A; parágrafos 0012, 0042, 0048 à 0050, 0057 à 0060, 0070 de
+D4). Entende-se natural a um técnico no assunto utilizar estes ensinamentos para outras regiões
+da face. O documento D4 trata explicitamente de filtros de melhoria de textura (parágrafos 0075 e
+0076, 0097 de D4) e de geometria (parágrafos 0145 à 0149 de D4).
+        O documento D4 difere do presente pedido no que o último utiliza aprendizado de máquina
+com treinamento das classes através de imagens pré-selecionadas, porém o uso de treinamento e
+aprendizado de máquina é revelado no documento D7, que trata explicitamente da modificação da
+geometria da face. Em D7 o aprendizado de máquina é ensinado no treinamento de um preditor
+de atratividade facial a partir de diversas imagens contendo faces, cada qual com características
+faciais selecionadas (segundo parágrafo da sub-seção Applications, primeiro parágrafo da sub-
+seção Overview, p.38.2 de D7) e pesos de importância (pontuações de atratividade facial ou facial
+attractiveness ratings, sub-seção 2.2 Machine rating of facial attractiveness, pp 38.3 de D7) onde
+as distâncias entre pontos característicos (locais de características faciais) e pontos em locais
+similares no espaço da face (composto pelas imagens usadas de referência para o treinamento)
+fornecerão alvos para a operação de warping 2D, de modo a ajustar os locais na face da imagem
+fonte (a ser modificada) em relação a imagem alvo (referência), minimizando ao somente
+necessário as distorções geométricas para que as características de identidade da face não sejam
+perdidas (resumo; figuras 1 à 4; segundo e quarto parágrafos da seção Introduction, pps 38.1,
+38.2; seção 3 Beautification Engine, pps 38.3-38.5; seção 4 Facial Feature Extraction e seção 5:
+Distance Embedding and Warping, pps 38.5-38.6 de D7). O documento D7 já revela o uso de
+algoritmos K-NN e SVR sobre o vetor de distâncias entre os pontos para otimização do processo
+de transformação da imagem (sub-seções 3.3 KNN-based Beatuification e 3.4 SVR-based
+Beautification, pps 38.4-38.5 de D7).
+       É mantida a análise anterior, entende-se que a aplicação simultânea da modificação da
+geometria e da modificação de textura, são empregadas em passos distintos na reivindicação 1,
+de forma sequencial, podendo ser considerados métodos distintos usados em conjunto e unidos
+pelo mesmo conceito de modificar a aparência final de um padrão de face. Considera-se que a
+matéria da reivindicação 1 carece de atividade inventiva à luz dos ensinamentos do documento D7
+combinados aos ensinamentos do documento D3 e D4, estando em desacordo com o Artigo 8º
+combinado ao 13 da LPI.
+
+
+
+Conclusão
+
+
+
+                                                                                         Página 3
+                                      BR102012016227-0
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                           Rio de Janeiro, 30 de Janeiro de 2021.
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+Luciano Lauand Viana de Paula
+Pesquisador/ Mat. Nº 2042359
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 001/16
+
+
+
+
+                                                                                         Página 4
+

@@ -1,0 +1,221 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112021007409-0           N.° de Depósito PCT:IB2018/060031
+ Data de Depósito:                   13/12/2018
+ Prioridade Unionista:               -
+ Depositante:                        ARCELORMITTAL (LU)
+ Inventor:                           THOMAS BRULLOT; THOMAS LAVALARD; JEAN-MARC HEMMEN;
+                                     JEAN-NOËL FOULIGNY
+ Título:                             Método para determinar a localização da extremidade da cratera de
+                                     um produto de metal, método de fundição de um produto de metal e
+                                     lingotamento contínuo para fundir um produto de metal 
+
+                                                                PARECER
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                     1a8                 870230054104           23/06/2023
+Quadro Reivindicatório                                   1a3                 870230054104           23/06/2023
+Desenhos                                                 1a3                 870210059552           01/07/2021
+Resumo                                                      1                870230054104           23/06/2023
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                       X
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                                   x
+Comentários/Justificativas
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                          BR112021007409-0
+Foram observadas irregularidades de forma que infringem o Artigo 25 da LPI:
+
+- A reivindicação dependente 2 é dependente da reivindicação independente 5 e, resulta em falta
+de clareza, pois refere-se a um Lingotamento, enquanto a reivindicação 5 se refere a um
+Método de fundição de um produto de metal (1) a uma velocidade de fundição (S).
+
+                         Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                            Data de publicação
+    D2                                  JP2006289378                              26/10/2006
+    D6                                   JP5835574                                24/12/2015
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento              Reivindicações
+                                                       Sim                     1a7
+           Aplicação Industrial
+                                                       Não                     -----
+                                                       Sim                     1a7
+                Novidade
+                                                       Não                     -----
+                                                       Sim                     -----
+           Atividade Inventiva
+                                                       Não                     1a7
+Comentários/Justificativas
+
+Após notificação de despacho de ciência (código 7.1), na RPI 2727 de 11/04/2023, a Requerente
+impetrou a petição de número 870230054104 em 23/06/2026, em resposta ao parecer
+desfavorável.
+
+Nesta petição, a Requerente apresenta novas vias do relatório descritivo, quadro reivindicatório
+(total de 7 reivindicações) e resumo.
+
+No que concerne ao mérito de patenteabilidade, item 2.2 da petição em tela, a Requerente
+argumenta que D2 descreve um método no qual a carga total aplicada a diversos segmentos é
+medida considerando a carga aplicada a cada uma das colunas de suporte dos segmentos,
+utilizando células de carga ou medidores de tensão posicionados nas colunas de suporte, entre
+uma estrutura superior e uma rosca que fixa o eixo de suporte. Portanto, D2 utiliza medições
+diferentes para determinar a porção da extremidade da cratera de um produto de fundição. A
+Requerente argumenta que a posição dos sensores, tal como descrito em D2, implica que esses
+sensores reagem à uma força de compressão que leva a uma medição de carga. Ainda, para
+executar essas medições, os sensores devem ser posicionados nas colunas de suporte.
+
+A Requerente argumenta que o pedido se difere de D2 pelo fato que os sensores são
+posicionados em ambas as extremidades da estrutura superior do segmento. Esta posição
+implica com que os sensores reajam à flexão da estrutura superior que leva à medição de
+
+
+                                                                                         Página 2
+                                      BR112021007409-0
+
+curvatura que não pode ser comparada com uma medição de carga, tal como descrito no
+documento D2.
+
+Em relação a D3, a Requerente argumenta que D6 descreve um método em que o
+deslocamento da estrutura superior do segmento é medido utilizando medidores de
+deslocamento posicionados em uma localização independente da estrutura superior. Portanto, o
+documento D6 utiliza diferentes medições para determinar a posição da cratera de um produto
+de fundição. Desse modo, o pedido se difere de D6 pelo fato de que utiliza sensores de flexão
+posicionados nas extremidades da estrutura superior.
+
+A Requerente argumenta que nenhum dos documentos descreve, ou ao mesmo sugere, uma
+flexão ou posicionar os sensores em ambas as extremidades da estrutura superior. Além disso,
+os sensores descritos em D2 e D6 não podem ser posicionados nas extremidades da estrutura
+superior. Isso porque, os meios de medição do documento D2 devem ser posicionados nas
+colunas de suporte, o que não pode ser considerado como as extremidades da estrutura
+superior e, ainda, os meios de medição de D6 não podem ser posicionados na estrutura superior
+por si só.
+
+Todos os argumentos da Requerente foram levados em consideração e são tratados em detalhe
+doravante.
+
+Os argumentos da Requerente não foram considerados assertivos. D6 divulga que o objetivo do
+método é detectar de forma simples e precisa a posição de conclusão da solidificação do
+produto de metal fundido sem aumentar o custo do equipamento e detectar a posição da placa.
+D6 divulga um método de detecção da posição de conclusão da solidificação e um método de
+controle da posição de conclusão da solidificação que pode manter a posição de conclusão da
+solidificação dentro de uma faixa alvo com base nos resultados obtidos (parágrafo [0021] da
+tradução de D6).
+
+D6 divulga que o deslocamento da estrutura superior é medido para pelo menos um dos lados
+de entrada e lado de saída do segmento de rolo durante o movimento de retirada das placas. A
+amplitude da quantidade de deslocamento é de 0,1 mm ou mais, e o pico da intensidade da
+quantidade de deslocamento por frequência é Vc/R/60 (1/s), onde Vc é a velocidade de retirada
+da placa (m/min), R é o passe do rolo de suporte (m) e quando estiver dentro de ±10% do passo
+(m) do rolo de suporte, é determinado que a razão de fase sólida do centro axial da placa
+fundida no lado de entrada ou lado de saída do segmento de rolo é igual ou maior que a razão
+de fase sólida de limite de fluxo. É calculado o comprimento de lingotamento até a conclusão da
+solidificação por cálculo de transferência de calor com base no resultado da determinação,
+especificando assim o segmento de rolo na posição de conclusão da solidificação da placa
+obtida no lingotamento contínuo (parágrafo [0022] da tradução de D6). Seria óbvio para um
+técnico no assunto prover a forma de medição de curvatura e calcular a localização da
+extremidade da cratera pleiteada pela reivindicação independente 1 face a matéria pleiteada por
+D6.
+
+                                                                                        Página 3
+                                       BR112021007409-0
+
+Seria óbvio para um técnico no assunto prover uma máquina de lingotamento contínuo face a
+matéria divulgada por D2 combinada com a característica da estimativa de posição da
+solidificação, divulgada por D6. Não foi apresentado efeito técnico inesperado, logo, a
+reivindicação independente 1 não apresenta atividade inventiva, frente a D2 combinado a D6,
+segundo o Artigo 8º combinado ao Artigo 13 da LPI.
+
+Seria óbvio para um técnico no assunto combinar as etapas do método divulgado por D2 com a
+estimativa de posição da solidificação, divulgada por D6. Não foi apresentado efeito técnico
+inesperado, logo, a reivindicação independente 3 não apresenta atividade inventiva, frente a D2
+combinado a D6, segundo o Artigo 8º combinado ao Artigo 13 da LPI.
+
+Não foram observadas características técnicas adicionais na reivindicação dependente 4 que,
+combinadas à reivindicação 3, pudessem atender ao critério de atividade inventiva, de acordo
+com o Artigo 8º combinado ao Artigo 13 da LPI.
+
+No que diz respeito ao método pleiteado pela reivindicação independente 5, seria óbvio para um
+técnico no assunto combinar as etapas do método divulgado por D2 com a estimativa de
+posição da solidificação, divulgada por D6, obtendo um método de fundição tal como pleiteado
+pela reivindicação 5. Não foi apresentado efeito técnico inesperado, logo, a reivindicação
+independente 5 não apresenta atividade inventiva, frente a D2 combinado a D6, segundo o
+Artigo 8º combinado ao Artigo 13 da LPI.
+
+Não foram observadas características técnicas adicionais nas reivindicações dependentes 2, 6
+e7 que, combinadas às reivindicações as quais se referem, pudessem atender ao critério de
+atividade inventiva, de acordo com o Artigo 8º combinado ao Artigo 13 da LPI.
+
+
+
+
+                                                                                        Página 4
+                                        BR112021007409-0
+
+
+
+
+Conclusão
+
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                            Rio de Janeiro, 11 de agosto de 2023.
+
+
+
+
+Panmela Pereira Merlo
+Pesquisador/ Mat. Nº 2324531
+DIRPA / CGPAT IV/DIMAT
+Deleg. Comp. - Port. INPI/DIRPA Nº
+012/18
+
+
+
+
+                                                                                         Página 5
+

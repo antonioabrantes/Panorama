@@ -1,0 +1,410 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0919693-5               N.° de Depósito PCT:US2009/061470
+ Data de Depósito:                   21/10/2009
+ Prioridade Unionista:               US 61/107273 (21/10/2008)
+ Depositante:                        TAKEDA PHARMACEUTICAL COMPANY LIMITED (JP)
+ Inventor:                           Kurt Schnecher; Eva Haidweger; Peter Turecek
+ Título:                             Formulação farmacêutica estável liofilizada 
+                                                     PARECER
+
+
+          Em exame técnico anterior (parecer notificado na RPI no 2644 de 08/09/2021), verificou-se
+que a matéria pleiteada estava redigida de forma ampla e imprecisa e foi considerada isenta de
+atividade inventiva frente ao estado da técnica sinalizado exigência de Pré-exame (despacho
+6.21) notificado na RPI 2625 de 27/04/2021.
+          Através da petição de n° 870210113831, de 07/12/2021, a requerente apresentou
+manifestação sobre o parecer técnico negativo (RPI 2644) e um novo quadro reivindicatório, com
+um total de 13 reivindicações, compreendendo basicamente a seguinte alteração:
+
+         o termo cerca de foi excluído.
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                                Páginas              n.o da Petição       Data
+
+Relatório Descritivo                                      1 a 51             870210067225       23/07/2021
+Listagem de sequências*                         Código de Controle           870210067225       23/07/2021
+Quadro Reivindicatório                                     1a2               870210067225       23/07/2021
+Desenhos                                                   1a3               020110039022       19/04/2011
+Resumo                                                       1               870210067225       23/07/2021
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+AEDA9EB7B032B393 (Campo 1) e B785BDB48CD40523 (Campo 2).
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                            Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                  x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                          x
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                      Página 1 de 8
+                                               PI0919693-5
+
+
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                    x
+O pedido está de acordo com disposto no art. 32 da LPI                     x
+Comentários/Justificativas
+
+                   Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI       x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                     x
+Comentários/Justificativas
+
+        o termo um ou mais não define de forma clara e precisa os substituintes presentes nos
+         compostos pleiteados infringindo o Artigo 25 da LPI e a Instrução Normativa 30/13 Art. 4º
+         (III);e
+
+        a reivindicação 1 está redigida de forma ampla e indefinida o que compromete a clareza da
+         matéria para a qual a requerente almeja proteção (artigo 25 da LPI). Na reivindicação 1, as
+         características essenciais da invenção não estão presentes, a saber, aspectos qualitativos
+         e quantitativos da formulação farmacêutica.
+
+
+                            Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1        US6040143                                                             21/03/00
+    D2        WO9803683                                                             29/01/98
+    D3        WO2009086400 (PI0821474)                                              09/07/09
+    D4        US2003138913                                                          24/07/03
+    D5        WO8606096                                                             23/10/86
+    D6        EP1522312                                                             13/04/05
+    D7        WO2008151817                                                          18/12/08
+    D8        US2009192076                                                          30/07/09
+    D9        WO9300107                                                           07/01/199930
+   D10        Blood, Vol: 79, Nr: 8, Page(s): 2048  2055                             1992
+   D11        Blood,Vol: 94, Nr: 5, Page(s): 1637  1647                              1999
+   D12        Seminars in thrombosis and hemostasis,Vol: 36, Nr: 5,                   2010
+              Page(s): 510  521
+   D13        Science, Vol: 228, Nr: 4706, Page(s): 1401  1406                       1985
+   D14        Blood, Vol: 73, Nr: 1, Page(s): 1  12                                  1989
+   D15        Blood, Vol: 124, Nr: 3, Page(s): 445  452                              2014
+   D16        Advate [antihemophilic factor (recombinant),plasma/albumin-             2007
+
+
+
+                                                                                      Página 2 de 8
+                                       PI0919693-5
+
+
+          free method]
+   D17    Alphanate (antihemophilic factor/von Willebrand Factor                 2007
+          Complex [human])
+   D18    The Hematology Journal, vol. 1 (72  76)                               2000
+          https://register.epo.org/application?
+          documentId=EVE1AAPT9036FI4&number=EP09740822&
+          lng=en&npl=true
+   D19    Data Sheet                                                             2007
+          https://register.epo.org/application?
+          documentId=EVE097OX0425FI4&number=EP09740822&
+          lng=en&npl=true
+   D20    Journal of Pharmaceutical Sciences, vol. 88(1)                         1999
+          https://register.epo.org/application?
+          documentId=EVE1AA032946FI4&number=EP09740822&l
+          ng=en&npl=true
+   D21    Fundamentals of Freeze-Drying ]                                        2002
+          https://register.epo.org/application?
+          documentId=EVE099NS1401FI4&number=EP09740822&
+          lng=en&npl=true
+   D22    Introduction of Wilate                                                 2008
+          https://register.epo.org/application?
+          documentId=EX71S4QF4556DSU&number=EP09740822
+          &lng=en&npl=true
+   D23    Products Comparision Table                                             2008
+          https://register.epo.org/application?
+          documentId=EX71S3JH9006DSU&number=EP09740822
+          &lng=en&npl=true
+   D24    Haemophilia, , vol. 11: 492  496                                      2005
+          https://register.epo.org/application?
+          documentId=EX71S4EU4699DSU&number=EP09740822
+          &lng=en&npl=true
+
+
+   Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade        Cumprimento               Reivindicações
+                                               Sim                      1 a 13
+         Aplicação Industrial
+                                               Não                        __
+                                               Sim                      1 a 13
+              Novidade
+                                               Não                        __
+                                               Sim                        ___
+          Atividade Inventiva
+                                               Não                      1 a 13
+Comentários/Justificativas
+
+
+
+
+                                                                                 Página 3 de 8
+                                           PI0919693-5
+
+
+       A requerente não concorda que a matéria objeto de proteção do presente pedido de
+patente está amplamente reivindicada. A requerente cita que a reivindicação 1 especifica que
+todos os principais constituintes da formulação farmacêutica reivindicada. Mais particularmente,
+o Fator de von Willebrand recombinante (rVWF) da invenção é definido por sua sequência
+biológica correspondente (SEQ ID NO: 3), em plena conformidade com as disposições das
+Diretrizes de exame de pedidos de patente na área de Biotecnologia (Instrução Normativa
+nº 118/2020). Além disso, a requerente cita que os agentes de tamponação, aminoácidos e
+agentes estabilizantes estão definidos qualitativa e quantitativamente na reivindicação 1.
+
+       A requerente cita em sua manifestação que há distinções e diferenças resumidas no
+Doc. 1 anexo (Best Practices in Formulation and Lyophilization Development, BioPharma
+Solutions, páginas 1-6, 2016, referido como White Paper) e que formulações liofilizadas e
+aquosas são não intercambiáveis ou, em outras palavras, variantes umas das outras, haja vista
+requererem considerações diferentes para seu desenvolvimento. Isso é evidenciado pelo fato de
+que vários componentes de formulações comuns se mostram especialmente difíceis quando
+formulados como formulações proteicas liofilizadas, segundo a requerente.
+
+       A requerente afirma que os agentes de desestabilização que fornecem a estrutura para o
+liobolo incluem glicina (listada como um excipiente de cristalização na Tabela 1). Tais agentes
+são alguns dos agentes que diferenciam as formulações liofilizadas reivindicadas no presente
+pedido de patente das formulações líquidas de D3. A requerente faz uma comparação da
+composição do presente pedido àquela revelada em D3 a reivindicação 1 do presente pedido de
+patente é dirigida a uma formulação liofilizada que requer um aminoácido selecionado a partir de
+glicina, lisina e histidina. Em contraste, D3, aqui representado pelo correspondente PI 0821474-3
+no Brasil, se refere a uma formulação líquida que requer sal a uma concentração de cerca de 1
+a 500 mM, mas não inclui um aminoácido.
+
+       A requerente cita que as duas formulações são, portanto, distintas e diferentes e, como
+tal, requerem componentes diferentes a fim de atender às necessidades de cada tipo de
+formulação. A glicina, por exemplo, segundo a requerente, é um componente que promove a
+formação de liobolo (uma indicação bem conhecida de uma formulação liofilizada; vide
+excipientes de cristalização listados na Tabela 1 do Doc. 1). E a requerente afirma que a
+formulação líquida contém sal, que poderia incluir NaCl, que é um potencial agente de
+desestabilização para formulações liofilizadas, como mostrado no Doc. 1 em anexo pela
+requerente.
+
+       A requerente afirma que as diferenças são importantes para o tipo de formulação em
+questão, ou seja, se liofilizada ou aquosa, e, portanto, essas formulações não são idênticas,
+tampouco variantes uma da outra.
+
+       Frente ao documento D9 a requerente cita que este revela um processo para preparação
+de uma solução aquosa de fragmento do Fator de von Willebrand (VWF) alterado com cisteína.
+Mais particularmente, D9 descreve uma solução aquosa de VWF alterado com cisteína
+consistindo no fragmento de VWF alterado com cisteína, um sal inorgânico e um tampão. D9
+
+
+
+                                                                                      Página 4 de 8
+                                           PI0919693-5
+
+
+ensina um fragmento de rVWF alterado por cisteína de aproximadamente 33 kDa a 52 kDa (vide
+página 9, linhas 23 a 28 e página 11, linhas 8 a 27) e é, portanto, distinto do rVWF da invenção
+reivindicada. Além disso, segundo a requerente, D9 não ensina ou sugere a formulação
+liofilizada estável reivindicada a qual compreende o seguinte: (1) o polipeptídeo rVWF de SEQ
+ID NO: 3; (2) um ou mais agentes de tamponação compreendendo citrato ou HEPES; (3) um ou
+mais aminoácidos selecionados a partir do grupo que consiste em glicina, lisina e histidina; (4)
+um ou mais agentes estabilizantes selecionados a partir de manitol, lactose, sorbitol, xilitol,
+sacarose, trealose, manose, maltose, glicose, rafinose, celobiose, gentiobiose, isomaltose,
+arabinose, glucosamina, frutose e combinações destes; e (5) um ou mais tensoativos. Como tal,
+a invenção reivindicada não é óbvia frente a D9.
+
+       Frente a D10 a requerente cita que este revela que o Fator de von Willebrand (VWF) é
+um multímero de glicoproteína plasmática com          funções     essenciais   na   hemostasia   e
+estabilização do fator VIII no plasma. O artigo inteiro, conforme sintetizado no resumo,
+refere-se à identificação de mutantes de VWF, que foram testados para ligação dependente de
+ristocetina às plaquetas e indução de ligação completa por baixas concentrações de
+ristocetina (vide, por exemplo, também as Figuras 2 e 5).
+
+       Frente ao documento D11 a requerente cita que este descreve o fator de von Willebrand
+(VWF), que é uma grande multiglicoproteína adesiva que circula no plasma e é também
+encontrada em plaquetas, megacariócitos, células endoteliais e na matriz subendotelial. D11
+discute o processamento extracelular do Fator de pró-von Willebrand e testa o mesmo, inter alia,
+com o teste de atividade do cofator de ristocetina.
+
+       Frente ao documento D12 a requerente cita que este revela uma afinidade de ligação de
+rVWF a FVIII, comparável a VWF no plasma. O rVWF se liga efetivamente às plaquetas e
+promove a adesão por cisalhamento das plaquetas de forma similar ao VWF no plasma humano.
+D12 caracteriza a estrutura e a função do medicamento rVWF, com foco em sua agregação
+plaquetária in vitro e funções de ligação à proteína da matriz (vide resumo, parte do meio). Os
+autores afirmam que [a] atividade específica de ligação a colágeno e plaquetas mediada por
+ristocetina é maior no rVWF do que nos produtos comerciais do complexo VWF-FVIII derivados
+do plasma (em tradução livre).
+
+        Frente aos documentos D13 e D14 a requerente cita que estes demonstram que o
+Fator VIII e o Fator de von Willebrand são duas moléculas diferentes e o técnico no
+assunto não teria recorrido a uma formulação para uma molécula quimicamente diferente
+se confrontado com o objetivo de fornecer uma formulação estável.
+
+       Frente ao documento D15, a requerente cita que este descreveu que um fragmento do
+Fator de von Willebrand contendo os domínios DD3 é suficiente para estabilizar o Fator VIII de
+coagulação em camundongos. Portanto, D15 não ensina a formulação de VWF recombinante
+liofilizada estável reivindicada no presente pedido de patente.
+
+
+
+
+                                                                                      Página 5 de 8
+                                           PI0919693-5
+
+
+           Sobre o documento D18 a requerente afirma que este revela o uso de fatores de
+coagulação recombinantes, principalmente o Fator VIII, mas não descreve uma formulação de
+rVWF liofilizada estável, como reivindicada no presente pedido de patente.
+
+       Frente ao documento D20 a requerente afirma que este revela a estabilidade
+conformacional de proteínas PEGuiladas liofilizadas em um sistema de separação de fase.
+Portanto, D20 não ensina a formulação de VWF recombinante liofilizada estável reivindicada no
+presente pedido de patente.
+
+       Frente a D21 a requerente afirma que este descreve os fundamentos da Secagem por
+Congelamento (Freeze-Drying), que é a técnica anterior à presente invenção. Portanto, D21
+não ensina a formulação de VWF recombinante liofilizada estável reivindicada no presente
+pedido de patente, segundo a requerente.
+
+       Frente a D22 a requerente afirma que este revela uma composição liofilizada
+compreendendo Fator VIII, glicina, citrato, sacarose e polissorbato         80.    Nenhuma      das
+concentrações específicas citadas nas reivindicações do presente pedido de patente são
+mencionadas em qualquer lugar em D22. Portanto, não há garantia de que as composições
+quali/quantitativas sejam as mesmas.
+
+       Frente a D24 a requerente afirma que este revela uma formulação liofilizada
+compreendendo Fator VIII, manitol, trealose, polissorbato 80,         histidina    e   agente   de
+tamponação. D24 descreve uma formulação liofilizada compreendendo o Fator VIII, mas não
+descreve uma formulação de rVWF liofilizada estável, como reivindicada no presente pedido de
+patente.
+
+       A requerente apresenta um Doc. 2 que fornece dados adicionais que demonstram a
+estabilidade aprimorada das formulações liofilizadas de rVWF reivindicadas no presente
+pedido de patente. Mais particularmente, o Doc. 2 fornece resultados científicos do estudo
+conduzido pela requerente no qual várias formulações liofilizadas                 de rVWF foram
+testadas para identificar uma formulação pré-clínica que fornece claridade de solução
+após reconstituição do produto liofilizado. Conforme apontado no Doc. 2, a requerente afirma
+que com base no estudo os resultados mostram que formulações liofilizadas (formulações 2-8 e
+10-14) compreendendo um tampão de citrato ou um tampão de HEPES em combinação com um
+ou mais aminoácidos selecionados dentre lisina, histidina e glicina, produziram as soluções mais
+claras mediante dissolução.
+
+       Como relatado no Doc. 2, a requerente cita que os dados do experimento de
+liofilização mostrados demonstram que uma formulação liofilizada de rVWF contendo
+tampão de citrato ou HEPES em combinação com um ou mais aminoácidos selecionados
+dentre lisina, histidina e glicina produz uma solução clara. Esses são justamente os
+componentes da formulação reivindicada no presente pedido de patente. Esses componentes,
+no entanto, segundo a requerente, não são encontrados nas formulações de D16, D17 e D22 e,
+portanto, a solução clara observada com a formulações da presente invenção não teria sido
+prevista ou esperada a partir das formulações do estado da técnica.
+
+
+                                                                                       Página 6 de 8
+                                          PI0919693-5
+
+
+Aplicação Industrial
+
+       A matéria pleiteada no presente pedido possui aplicação industrial e atende ao disposto no
+artigo 15 da LPI.
+
+Novidade
+
+       A matéria pleiteada no presente pedido não está descrita no estado da técnica e portanto
+apresenta novidade, atendendo ao disposto no artigo 11 da LPI.
+
+Atividade Inventiva
+
+      A reivindicação principal está redigida de forma ampla e imprecisa, pois ao fornecer uma
+composição de rVWF liofilizada estável, onde "o rVWF compreende a sequência de aminoácidos
+estabelecida em SEQ IND No3" não excluiu possíveis análogos e/ou peptídeos derivados. A
+formulação revelada em D16 foi um ponto de partida apropriado porque era uma formulação
+liofilizada estável compreendendo rVWF. As diferenças entre a formulação na reivindicação 1 e a
+formulação em D16 foram (i) o uso de um tampão citrato em vez de um tampão Tris e (ii) o uso de
+glicina em vez de histidina como aminoácido. As concentrações do tampão e do aminoácido
+usado na formulação D16 encontram-se dentro do amplo intervalos na reivindicação 1, portanto,
+não houve diferença relação com essas concentrações.
+
+      Não houve efeito técnico associado a estes diferenças já que o uso de um tampão citrato e
+glicina como amino ácido eram alternativas óbvias para o tampão Tris e aminoácido histidina em
+D16 porque esses excipientes eram comuns no campo da formulação de proteínas. Mesmo que
+seja claro que a composição divulgada em D16 é para estabilizar um fator VIII recombinante e
+continha quantidades eficazes do referido recombinante Fator VIII e apenas pequenas
+quantidades de VWF, permanece que a composição reivindicada não é restringida por a
+quantidade de VWF, e compreende também composições com pequenas quantidades de VWF,
+como a composição revelada em D16. Assim, a quantidade de VWF não pode constituir uma
+diferença alegada pelo requerente.
+
+      Sabe-se que proteínas de tamanhos diferentes e estrutura sofrem diferentes graus de
+desnaturação durante a liofilização e armazenamento e, portanto, requerem diferentes
+formulações para a liofilização e para o armazenamento, conforme a requerente citou em sua
+manifestação que      fazer uma composição liofilizada estável para uma proteína específica é
+extremamente complexo. No entanto, a requerente apresenta em seu relatório descritivo
+exemplos que contemplam outras opções das reivindicadas no novo quadro reivindicatório
+demonstrando que não é somente a especificidade que leva a um efeito técnico frente aos
+demais. Visto que as formulações apresentadas no relatório descritivo contêm outros aminoácidos
+(histidina, prolina, serina, alanina e arginina) para substituição e que estão reveladas em D16.
+Logo, não é somente com os aminoáciodos lisina, histidina e glicina que promovem o efeito
+esperado conforme o próprio requerente cita como opções.
+
+
+
+
+                                                                                   Página 7 de 8
+                                            PI0919693-5
+
+
+      Ademais, sabe-se que o citrato é conhecido como agente tamponante, e a glicina também
+é comumente conhecida como agente tamponante ou de volume. A substituição de um Tris
+tampão e de histidina na composição divulgada em D16 para obter uma composição que, na
+melhor das hipóteses, apresenta uma estabilidade equivalente por outra alternativa conhecida
+excipientes, como um tampão citrato e glicina é óbvio e não envolve um passo inventivo frente ao
+estado da técnica.
+
+      Deste modo, uma vez que não foi apresentado qualquer dado novo que comprove um
+efeito técnico novo ou inesperado da pré-formulação pleiteada com relação ao estado da técnica,
+reitera-se que a matéria do presente pedido não apresenta atividade inventiva frente aos
+ensinamentos do estado da técnica e não atende ao disposto nos artigos 8º, 13 e 25 da Lei
+9279/1996.
+
+       Portanto, reitera-se a opinião anterior de que o presente pedido carece de atividade
+inventiva, desatendendo aos artigos 8° e 13 da LPI.
+
+Conclusão
+
+          O novo quadro revindicatório apresentado só retirou a expressão cerca de, entretanto,
+conforme discutido no exame anterior, a formulação farmacêutica conforme pleiteado não
+apresenta um passo inventivo frente ao estado da técnica e os dados apresentados não são
+satisfatórios e não conferem um efeito técnico novo ou inesperado às formulções farmacêuticas
+pleiteadas.
+
+          Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+
+      -     não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -     as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+            descritivo (Art. 25 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 4 de fevereiro de 2022.
+
+
+
+Leticia Galeazzi Winkler Ferraz
+Pesquisador/ Mat. Nº 1888265
+DIRPA / CGPAT I/DIFAR-I
+Deleg. Comp. - Port. INPI/DIRPA Nº 003/17
+
+
+
+
+                                                                                      Página 8 de 8
+

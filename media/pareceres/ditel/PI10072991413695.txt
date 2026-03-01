@@ -1,0 +1,343 @@
+                                SERVIÇO PÚBLICO FEDERAL
+                                 MINISTÉRIO DA ECONOMIA
+                     INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+N.° do Pedido:               PI1007299-3              N.° de Depósito PCT: JP2010/000499
+                                                      (28/01/2010)
+
+                        Publicação Nacional:     Publicação Internacional: WO 2010/087176
+                        02/02/2016 (RPI 2352) (A1  05/08/2010)
+Data de Depósito (PCT): 28/01/2010
+Prioridade Unionista:   JP 2009-018284 (29/01/2009)
+Depositante:            SUN PATENT TRUST (US)
+Inventor(es):           Akihiko Nishio (JP), Seigo Nakao (JP), Daichi Imamura (JP)
+Título:                 Método para mapeamento de sinais de referência e aparelho de
+                        estação base de comunicação sem fio..
+
+                                 PARECER DE EXAME TÉCNICO
+
+
+         O presente pedido de Patente de Invenção (PI), refere-se a um aparelho de estação
+base de comunicação sem fio que seja capaz de evitar a deterioração no rendimento de
+terminais LTE mesmo quando os terminais LTE e os LTE + terminais coexistirem.
+
+
+
+         Para realização industrial do reivindicado como inventivo no presente pedido de PI, neste
+aparelho, com base no padrão de mapeamento dos sinais de referência usados apenas em LTE
++ terminais, uma unidade de ajuste (105), ajusta, em cada subquadro, os grupos de bloco de
+recurso onde os sinais de referência usados apenas pelos LTE + terminais são mapeados. Para
+os símbolos mapeados às antenas (110-1 a 110-4), uma unidade de mapeamento (106) mapeia,
+em todos os blocos de recurso em um quadro, os sinais de referência de células específicas
+usados tanto para terminais LTE como para LTE + terminais. Para os símbolos mapeados às
+antenas (110-5 a 110-8), a unidade de mapeamento (106) mapeia a pluralidade de blocos de
+recurso, a partir dos quais se compõe parte dos grupos de bloco de recurso, no mesmo
+subquadro em um quadro, os sinais de referência de células específicas usados apenas para os
+LTE + terminais, com base nos resultados de ajuste inseridos a partir da unidade de ajuste
+(105).
+
+
+
+         Em 05/01/2021, foi publicada através da RPI Nº 2609, notificação de emissão de parecer
+técnico relativo ao pedido de Patente de Invenção (PI), referente a Ciência de Parecer (7.1),
+decorrendo a partir daquela data o prazo de 90 (noventa) dias para manifestação da Requerente
+quanto ao contido no citado parecer técnico.
+
+
+
+
+                                                                                                     1
+                                               PI1007299-3
+
+
+
+
+       Em 24/04/2020, através da Petição 870200050818/RJ, a Requerente apresenta os
+documentos listados no Quadro 1, a seguir, e altera o título do presente pedido para:
+"APARELHO E MÉTODO DE COMUNICAÇÃO POR RÁDIO".
+
+                            Quadro 1  Páginas do pedido examinadas
+            Elemento                     Páginas               N.o da Petição           Data
+
+Relatório Descritivo (RD): com 06/119  83/119                870200050818/RJ         24/04/2020
+78 (Setenta e oito) folhas,
+numerada de 01/78  78/78.
+Quadro Reivindicatório (QR): 84/119  89/119                  870200050818/RJ         24/04/2020
+com      06    (Seis) folhas,
+apresentando 19 (Dezenove)
+reivindicações.
+Desenhos (D´s): com 24 (Vinte 96/119  119/119                870200050818/RJ         24/04/2020
+e quatro) folhas, apresentando
+25 (Vinte e cinco) figuras,
+numeradas de: Fig. 01  Fig.
+25.
+Resumo (R): com 01 (Uma)                  90/119              870200050818/RJ         24/04/2020
+folha.
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                  Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                        X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                          X
+O pedido está de acordo com disposto no art. 32 da LPI                           X
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                  Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI             X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI           X
+Comentários/Justificativas
+
+
+        Em pesquisas realizadas em bases de dados de documentos de (e pedidos de) patentes e
+em literatura não patentaria, de acordo com os critérios publicados em 28/01/2020, através da
+
+
+
+                                                                                                   2
+                                                    PI1007299-3
+
+RPI 2560, foi encontrado o seguinte documento capaz de indicar os mesmos arranjos técnicos
+funcionais pleiteados no QR do presente pedido:
+                               Quadro 4  Documentos citados no parecer
+
+  Código                                      Documento                                       Data de publicação
+ (Relevân
+   cia)
+     D3              WO 2008/115134 (A2) (Johan Torsner (SE/FI), Henning                           25/09/2008
+                     Wiemann (DE); Telefonaktiebolaget LM Ericsson (SE))
+Comentários/Justificativas
+
+
+
+     Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15, da LPI)
+       Requisito de Patenteabilidade                    Cumprimento                      Reivindicações
+                                                               Sim                            01  19
+              Aplicação Industrial
+                                                               Não                                
+
+                                                               Sim                            01  19
+                     Novidade
+                                                               Não                                
+
+                                                               Sim                                
+               Atividade Inventiva
+                                                               Não                            01  19
+
+Comentários/Justificativas
+
+
+
+       No que se refere a sua manifestação, de 16/03/2021, através da Petição
+870210024529/RJ, a Requerente entende que o documento D3, não contempla o reivindicado no
+presente pedido, pois:
+           A reivindicação independente 1 do presente pedido define a característica técnica distintiva de que o
+primeiro sinal de referência é mapeado com o mesmo que pelo menos um dentre um dos períodos (ou intervalos)
+definidos em (i) a (v).
+          Em contraste, o parágrafo [0006] de D3 (WO 2008/115134 A2) divulga que o UE 20 reporta o Indicador de
+Qualidade de Canal (CQI) e o parágrafo [0040] de D3 divulga que o processo de HARQ (isto é, o processo de
+retransmissão) está associado à atribuição semipersistente. Além disso, a reivindicação 1 de D3 divulga que, na
+retransmissão dos dados transmitidos usando o recurso de rádio semipersistente, os dados são retransmitidos usando
+um recurso de rádio escalonado dinamicamente que é diferente do recurso de rádio semipersistente.
+          Em outras palavras, D3 apenas divulga a associação entre o recurso de rádio semipersistente e o processo de
+HARQ, mas não divulga uma associação entre o intervalo de mapeamento do sinal de referência para calcular o CQI e
+outro intervalo, como o intervalo de retransmissões na HARQ, o período com o qual o CQI é reportado ou o período de
+transmissão de escalonamento semipersistente (SPS).
+          Por exemplo, a reivindicação 4 de D3 revela que o recurso de rádio semipersistente inclui um recurso de tempo
+(por exemplo, um subquadro) durante o qual os dados são transmitidos. Os Srs. Examinadores indica que esta
+divulgação de D3 corresponde à ETAPA01 das reivindicações independentes 1, 4, 18 e 19 do presente pedido (ou seja,
+o intervalo de retransmissões em uma HARQ).
+          No entanto, a requerente respeitosamente argumenta que D3 divulga apenas o intervalo de tempo de
+atribuição de dados na atribuição semipersistente [por exemplo, 20 TTIs (por exemplo, 20 ms) na Figura 12] e o
+
+
+
+
+                                                                                                                      3
+                                                   PI1007299-3
+
+intervalo de retransmissão de HARQ (por exemplo, 6 TTIs), mas é omisso quanto a uma relação entre estes intervalos
+de tempo divulgados em D3 e o intervalo de transmissão do sinal de referência para calcular o CQI.
+        Tal como acontece com a ETAPA01 das reivindicações do presente pedido, D3 também falha em divulgar a
+ETAPA02 (ou seja, o número inteiro múltiplo do intervalo de retransmissão na HARQ), a ETAPA03 (ou seja, 1/N do
+intervalo de retransmissões no HARQ) e a ETAPA05 (ou seja, um período de transmissão do SPS). Além disso, D3 não
+divulga sobre o período com o qual o CQI é reportado e, portanto, também não divulga a ETAPA04 (ou seja, o período
+com o qual o CQI é reportado). 
+
+
+
+        Através do QR apresentado em 24/04/2020, através da Petição 870200050818/RJ, o
+objeto pleiteado por meio de suas Reivindicações Independentes do Presente Pedido
+(RI**pp´s), que são as RI01pp e RI04pp (Aparelho de comunicação por rádio  ) e RI18pp e
+RI19pp (Método de comunicação por rádio  ), quando confrontadas com o documento D3,
+constatamos, via parecer técnico de 05/01/2021, publicado através da RPI Nº 2609, que tanto a
+parte não caracterizante do pedido sob exame, quanto a parte caracterizante, encontram-se
+contempladas naquele documento, como reportado a seguir.
+
+
+
+        Através das Reivindicações Independentes 01 e 18, do presente pedido, (RI01pp e
+RI18pp), a Requerente reivindica:
+
+        RI01pp / RI18pp. Aparelho / Método de comunicação por rádio compreendendo:
+        uma seção de mapeamento configurada para mapear um primeiro sinal de
+referência para computar um indicador de qualidade de canal (CQI) em um subquadro; e
+        uma seção de transmissão configurada para transmitir o primeiro sinal de referência
+mapeado para um terminal:
+        E,
+        Através das Reivindicações Independentes 04 e 19, do presente pedido, (RI04pp
+RI19pp), a Requerente reivindica:
+        RI04pp / RI19pp. Aparelho / Método de comunicação por rádio compreendendo:
+        uma seção de recepção configurada para receber um primeiro sinal de referência,
+que é mapeado e transmitido em um subquadro; e
+        uma seção de medição configurada para computar um indicador de qualidade de
+canal (CQI) baseado no primeiro sinal de referência recebido,
+        caracterizado pelo fato de que (a seção de recepção recebe) o primeiro sinal de
+referência mapeado com o mesmo que pelo menos um dentre:
+        tendo, as quatro reivindicações RI01pp, RI04pp, RI18pp e RI19pp, as seguintes etapas
+caracterizantes:
+        ETAPA01: (i) um intervalo de retransmissões em uma solicitação de repetição automática
+híbrida (HARQ) ou um número de processos de HARQ;
+        ETAPA02: (ii) um número inteiro múltiplo de um intervalo de retransmissões em uma HARQ
+ou um número inteiro múltiplo de um número de processos de HARQ;
+
+
+
+
+                                                                                                                 4
+                                           PI1007299-3
+
+
+       ETAPA03: (iii) 1/N de intervalo de retransmissões em uma HARQ ou 1/N de um número de
+processos de HARQ;
+       ETAPA04: (iv) um período com o qual um CQI é reportado, ou com um período que é um
+número inteiro múltiplo de um período, com o qual um CQI é reportado; e
+       ETAPA05: (v) um período de transmissão de escalonamento semipersistente (SPS), ou com
+um período que é 1/N de um período de transmissão de SPS, onde N é um número inteiro positivo.
+
+
+        Face ao disposto acima, e às argumentações da Requerente de 16/03/2021, através da
+Petição 870210024529/RJ, voltamos a sustentar que o documento de anterioridade (D3) (WO
+2008/115134 (A2)), tanto através das suas Reivindicações Independentes (RI´s) 01, 09 e 15,
+aqui chamadas de RI01_D3, RI09_D3 e RI15_D3, respectivamente, juntamente com suas
+respectivas Reivindicações Dependentes (RDp´s) 02 a 08, aqui chamadas de RDp02_D3 a
+RDp08_D3, quanto através do seu relatório descritivo, conforme explicado nos: Parágrafo
+[0006]: (página 05/33) e Parágrafo [0040]: (página 15/33), um método para comunicar
+unidades de dados entre estações de rádio (que incluem uma estação base, descrita na
+RI09_D3, e um equipamento de usuário, descrito na RI15_D3) através de uma interface de
+rádio, onde um link de comunicação de rádio é estabelecido entre as estações de rádio e um
+recurso de rádio semi-persistente é alocado para suportar a transmissão de dados através do
+link de comunicações, onde o referido método faz uma associação do recurso de rádio semi-
+persistente com um identificador de processo de solicitação de repetição automática (ARQ)
+correspondente; via solicitação de retransmissão de uma unidade transmissora de dados,
+usando o recurso de rádio semi-persistente, programado dinamicamente, e usando o
+identificador de processo ARQ associado ao recurso semi-persistente para combinar uma
+retransmissão de uma unidade de dados programada dinamicamente com a retransmissão
+da unidade de dados solicitada.
+       Resta claro que no método da RI01_D3, o identificador de processo ARQ é um
+identificador ARQ híbrido (HARQ), constante das RDp02_D3 e RDp03_D3, onde o recurso de
+rádio semi-persistente inclui um intervalo de tempo de transmissão ou de quadro, constante
+da RDp04_D3, contemplando, tanto na transmissão quanto na recepção, as ETAPA01, das
+RI18pp e RI19pp, referentes a método.
+
+       Já as ETAPA02 a ETAPA05, das reivindicações RI18pp e RI19pp, do presente pedido,
+referem-se essencialmente a período (ou frações deste) de repetição cíclica dos intervalos
+de retransmissão, e são antecipadas pela anterioridade D3, quando nas suas RDp´s05_D3,
+RDp´s06_D3 e RDp´s07_D3, que associam o recurso de rádio semi-persistente com vários
+identificadores    de   processo     de    solicitação    de   repetição   automática    (ARQ)
+correspondentes, usando ou uma mensagem de configuração ou uma mensagem de
+atribuição de agendamento.
+
+
+       Ressaltamos novamente que através da Figura 7, de D3, a configuração e o
+agendamento do número de repetições dos intervalos de retransmissão, são descritos no
+Parágrafo [0040]: (página 15/33), de D3, na qual existem seis intervalos de tempo de
+transmissão (TTIs), e o período de repetição para um TTI é indicado como intervalo de
+tempo de ida e volta (RTT), e na qual as caixas tracejadas indicam as transmissões, onde, a
+
+
+
+                                                                                                 5
+                                         PI1007299-3
+
+
+título de exemplificação, as primeiras transmissões nos processos HARQ 1, 5 e 2 são indicadas
+pelos números 1, 5 e 2, respectivamente, contemplando as ETAPAS 02  05, das RI18pp e
+RI19pp, do presente pedido.
+
+
+      Destacamos mais uma vez que na Figura 2, de D3, descrita no Parágrafo [0006]:
+(página 05/33), temos a referência anterioridade em relação ao Indicador de Qualidade de
+Canal (CQI), para regular a adaptação de link dependente de canal rápido e tempo dependente
+de canal e agendamento de domínio de frequência rápido, da unidade de equipamento de
+usuário, configurado para relatar o CQI, constante das etapas não caracterizantes das
+reivindicações independentes RI18pp e RI19pp, pleiteadas pela Requerente do presente pedido
+sob exame.
+
+
+      Em relação às RI01pp e RI04pp (Aparelho  ), do presente pedido, por serem a
+realização das sequências lógicas das etapas caracterizantes efetuadas através da RI18pp e
+RI19pp (Método  ), do próprio pedido sob exame, encontram-se, desta forma, igualmente
+contempladas pelas passagens de D3, destacadas acima, e que contemplam as RI18pp e
+RI19pp, do presente pedido.
+
+
+
+      Desta forma, a matéria reivindicada através das reivindicações independentes RI01pp,
+RI04pp, RI18pp e RI19pp, do presente pedido, encontra-se totalmente absorvida por D3.
+
+
+
+      Quanto às demais reivindicações, as mesmas também não são válidas por serem
+dependentes das reivindicações independentes contestadas acima
+
+
+
+      Sendo assim, face ao exposto, somos da opinião que, da forma como apresentado, o
+presente pedido carece de atividade inventiva frente ao estado da técnica representado pelo
+documento de patente D3, não possuindo, pois, condições de patenteabilidade.
+
+
+Conclusão
+       Sendo assim, face ao exposto, considerando o QR da forma apresentada, somos de
+opinião que o presente pedido carece de atividade inventiva por ser mera decorrência do estado
+da técnica, representado por D3, não possuindo, pois, condições de patenteabilidade.
+
+
+       Face às conclusões a que se chegou o Exame Técnico, de acordo com o Art. 37, baseado
+no Art. 8º, combinado com o Art. 13, da LPI, INDEFIRO o presente pedido como PATENTE DE
+INVENÇÃO.
+
+
+
+
+                                                                                                6
+                                         PI1007299-3
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                              Publique-se o indeferimento (9.2)
+
+
+                                                           Rio de Janeiro, 14 de Abril de 2021.
+
+
+                                  Edson Ferreira Suisso
+                   Pesquisador em Propriedade Industrial / Mat. Nº 1548985
+                         Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+                           DIRPA / CGPAT III / DIPAT XIV (DITEL)
+
+
+
+
+                                                                                              7
+

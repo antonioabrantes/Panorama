@@ -1,0 +1,305 @@
+                                   SERVIÇO PÚBLICO FEDERAL
+                    MINISTÉRIO DA INDÚSTRIA, COMÉRCIO EXTERIOR E SERVIÇOS
+                        INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                     RELATÓRIO DE BUSCA
+
+ N.° do Pedido:                      BR122018073166-4          N.° de Depósito PCT: US2009/054585
+ Data de Depósito:                   21/08/2009
+ Prioridade Unionista:               US 61/091248 (22/08/2008)
+ Depositante:                        THERACOS SUB, LLC (US)
+ Inventor:                           Jason Liou, Yuelin Wu, Shengbin Li, Ge Xu
+ Título:                             Método para a preparação de um complexo
+
+                                                       C07D 309/10, C07D 309/08, A61K 31/353, A61P 3/10,
+                                   IPC
+ 1 - CLASSIFICAÇÃO                                     A61P 3/00
+                                   CPC
+ 2 - FERRAMENTAS DE BUSCA
+    EPOQUE      X ESPACENET                                       PATENTSCOPE
+    DIALOG      X USPTO                                           SINPI
+    CAPES          SITE DO INPI                                   STN
+3 - REFERÊNCIAS PATENTÁRIAS
+
+                               Número                                        Tipo   Data de publicação    Relevância *
+
+                        WO2009026537                                         A1        26/02/2009             PN
+                        WO2008002824                                         A1        03/01/2008              I
+                        WO2006108842                                         A1        19/10/2006              Y
+
+4 - REFERÊNCIAS NÃO-PATENTÁRIAS
+
+                              Autor/Publicação                                      Data de publicação    Relevância *
+                                          -                                                 -                  -
+
+
+
+Observações:
+
+
+
+                                                                                    Rio de Janeiro, 3 de janeiro de 2019.
+
+ Camila Valentim de Souza Lopes
+ Pesquisador/ Mat. Nº 1569130
+ DIRPA / CGPAT I/DIFAR-I
+ Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                         Página 1
+                                                   BR122018073166-4
+
+* Relevância dos documentos citados:                                Y documento de particular relevância; a invenção reivindicada
+A documento que define o estado geral da técnica, mas não é            não pode ser considerada dotada de atividade inventiva
+   considerado de particular relevância;                               quando o documento é combinado com um outro
+                                                                       documento ou mais de um;
+N documento de particular relevância; a invenção reivindicada não
+   pode ser considerada nova quando o documento é                   PN documento patentário, publicado após a data de depósito
+   considerado isoladamente;                                           do pedido em exame, ou da prioridade requerida para o
+                                                                       pedido em exame, cuja data de depósito, ou da prioridade
+I documento de particular relevância; a invenção reivindicada não      reivindicada, é anterior a data de depósito do pedido em
+   pode ser considerada dotada de atividade inventiva ou de ato        exame, ou da prioridade requerida para o pedido em
+   inventivo quando o documento é considerado isoladamente             exame; esse documento patentário pertence ao estado da
+                                                                       técnica para fins de novidade, se houver correspondente
+                                                                       BR, conforme o Art. 11 §2.º e §3.º da LPI.
+
+
+
+
+                                                                                                                      Página 2
+                                     SERVIÇO PÚBLICO FEDERAL
+                      MINISTÉRIO DA INDÚSTRIA, COMÉRCIO EXTERIOR E SERVIÇOS
+                          INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR122018073166-4          N.° de Depósito PCT: US2009/054585
+ Data de Depósito:                     21/08/2009
+ Prioridade Unionista:                 US 61/091248 (22/08/2008)
+ Depositante:                          THERACOS SUB, LLC (US)
+ Inventor:                             Jason Liou, Yuelin Wu, Shengbin Li, Ge Xu
+ Título:                               Método para a preparação de um complexo
+
+                                                                    PARECER
+
+
+           O      pedido        BR122018073166-4,                   apresentado    em    09/11/2018,     pela   petição   n°
+870180150096, refere-se à divisão do pedido PI0917196-7. O depósito do pedido dividido foi
+notificado na RPI n° 2502, de 18/12/2018.
+           Neste sentido, vale lembrar que, de acordo com o artigo 28 da Instrução Normativa
+031/2013, o pedido dividido será considerado como estando na mesma fase processual em que
+se encontra o pedido original, cabendo ao INPI reduzir a termo a referência aos documentos e
+petições que se encontram no pedido original.
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas             n.o da Petição                Data
+
+Relatório Descritivo                                          1 a 68              870180150096              18/12/2018
+Quadro Reivindicatório                                        1 a 11              870180150096              18/12/2018
+Desenhos                                                       1a3                870180150096              18/12/2018
+Resumo                                                          1                 870180150096              18/12/2018
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                                     Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                                X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                        X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                             X
+O pedido está de acordo com disposto no art. 32 da LPI                                              X
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                                        Página 1
+                                                         BR122018073166-4
+
+
+         O presente pedido pleiteia um método para preparar um complexo de fórmula I, que
+corresponde às reivindicações 1 a 28 do pedido original PI0917196-7. No entanto, esta matéria já
+foi analisada durante o primeiro exame técnico do pedido original, conforme notificado na RPI
+2484 de 14/08/2018.
+
+         Desta forma, aplicam-se ao presente pedido as mesmas considerações feitas no primeiro
+exame técnico do pedido original.
+
+
+
+                  Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                          X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                        X
+Comentários/Justificativas
+         i) o presente pedido pleiteia um processo para preparar complexos de fórmula I, onde os
+substituintes R1 a R6 e Z e os anéis A e B são inúmeras possibilidades, incluindo diferentes
+classes químicas. No entanto, o relatório descritivo do presente pedido apresenta processo para
+preparar uma quantidades limitada de compostos e não se pode afirmar que um técnico no
+assunto seria capaz de realizar o mesmo processo para os inúmeros compostos pleiteados, pois
+as diferentes classes químicas possuem características reacionais próprias dos grupos funcionais
+e elementos químicos envolvidos. Assim, da forma ampla como foram redigidas, as reivindicações
+do presente pedido pleiteiam matéria insuficientemente descrita, o que contraria o disposto no
+artigo 24 da LPI. Consequentemente, tais compostos não podem ser pleiteados por falta de
+fundamentação no relatório descritivo, o que contraria o artigo 25 da LPI.
+
+         Neste sentido, salienta-se que o relatório descritivo do presente pedido somente realiza o
+método de preparação de parte dos compostos definidos na reivindicação 24.
+
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                    Data de publicação
+   D1                                           WO2009026537 A1*                        26/02/2009
+    D2                                           WO2008002824 A1                        03/01/2008
+    D3                                           WO2006108842 A1                        19/10/2006
+* O documento D1, mesmo tendo sido publicado em data posterior (26/02/2009) à data de
+prioridade do presente pedido (22/08/2008) é considerado estado da técnica, em termos de
+aferição de novidade, de acordo com o artigo 11 - § 2o da LPI, uma vez que foi depositado no
+Brasil segundo o Tratado de Cooperação em Matéria de Patentes (PCT/US2008/074058;
+BR0815708) e possui data de prioridade mais antiga (23/08/2007).
+
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                          Página 2
+                                                        BR122018073166-4
+
+
+    Quadro 5 - Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                    Cumprimento               Reivindicações
+                                                                          Sim                       1 a 28
+            Aplicação Industrial
+                                                                         Não
+                                                                          Sim
+                    Novidade
+                                                                         Não                        1 a 28
+
+                                                                          Sim
+            Atividade Inventiva
+                                                                         Não                        1 a 28
+Comentários/Justificativas
+
+Aplicação Industrial
+
+       A matéria das reivindicações 1 a 28 é passível de produção e/ou utilização industrial,
+atendendo ao artigo 15 da LPI.
+
+
+
+Novidade
+
+       O     documento            WO2009026537                  A1      (D1)    revela   a   preparação   do   complexo
+(2S,3R,4R,5S,6R)-2-(4-cloro-3-(4-(2-ciclopropoxietóxi)benzil)fenil)-6-(hidroximetil)-tetraidro-2H-pira
+n-3,4,5-triol, bis(L-prolina) (parágrafo 410) que corresponde ao sexto composto na reivindicação
+25 do presente pedido. O método de preparação do complexo utilizado em D1 é igual ao descrito
+no exemplo 5F do presente pedido, envolvendo as mesmas etapas, produtos de partida,
+reagentes (agente redutor e ativador) e solventes. Assim, parte da matéria pleiteada nas
+reivindicações 1 a 28 não é nova, desatendendo ao artigo 11 da LPI.
+
+
+
+
+Atividade Inventiva
+
+       O documento WO2008002824 A1 (D2) revela solvatos cristalinos e complexos de
+derivados D-glicitol de fórmulas I e II com aminoácidos, o quais apresentam atividade inibidora de
+SGLT2, sendo úteis no tratamento de diabetes (resumo). Os complexos são preparados por um
+processo em que um solvato de um C-glicosideo é formado a partir do intermediário 1-metóxi
+(1-OMe), utilizando os mesmos agentes de redução e ativação do presente pedido, sem
+purificação ou proteção/ desproteção de qualquer intermediário (vide exemplo 6). Além disso,
+complexos cristalinos dos derivados glicosídicos com aminoácidos, especialmente prolina e
+fenilalanina, também são revelados (página 3, última linha à página 4, última linha. O exemplo 12
+inclusive revela a preparação de um complexo cristalino que envolve a reação do derivado
+C-glicosídico com dois equivalentes de prolina, em solvente que compreende metanol ou etanol.
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                              Página 3
+                                                          BR122018073166-4
+
+
+                                  D2                                                     PI0917196-7
+
+
+
+
+          Fórmula I                            Fórmula II                                    Fórmula I
+
+       Além de D2, o documento WO2006108842 A1 (D3) revela a preparação de derivados
+C-glicosídicos semelhantes aos compostos de fórmula III do presente pedido, que são preparados
+por redução de um composto glicosídico tendo um grupo 1-OH ou 1-OMe com um agente redutor,
+na presença de um ácido de Lewis (página 5, linha 19 à página 6, linha 23), o que corresponde à
+etapa A do processo do presente pedido. O exemplo X de D3 (páginas 37 a 38) descreve a reação
+do composto 1-cloro-2-(1-metoxi-D-glicopiranos-1-il)-2-(4-hidroxi-benzil)benzeno com trietilsilano e
+BF3-Et2O        numa         mistura         de      acetonitrila       e   diclorometano,    produzindo   o   composto
+1-cloro-4-(-D-glicopiranos-1-il)-2-(4-hidroxi-benzil)benzeno.
+
+       Assim, seria óbvio para o técnico no assunto preparar complexos de derivados
+C-glicosídicos com aminoácidos, a partir da reação de um intermediário glicosídico tendo um
+grupo 1-OH ou 1-OMe com um agente redutor, na presença de um ácido de Lewis, como descrito
+em D2 (exemplo 6) e D3, e depois contatar o composto obtido com um aminoácido, como descrito
+em D2 (exemplo 12). Desta forma, o método/ processo pleiteado no presente pedido decorreria de
+maneira óbvia para o versado a partir da simples aplicação de ensinamentos prévios e, além
+disso, não parece ter um efeito técnico novo ou inesperado em relação à técnica anterior, sendo,
+portanto, isento de atividade inventiva, desatendendo ao artigo 13 da LPI.
+
+
+
+
+Conclusão
+
+       O presente pedido dividido BR122018073166-4 pleiteia matéria que já foi analisada
+durante o primeiro exame do pedido original PI0917196-7 e para a qual já foi emitida uma opinião
+negativa (RPI 2484 de 14/08/2018).
+       Neste sentido, vale lembrar que, de acordo com o artigo 28 da Instrução Normativa
+031/2013, o pedido dividido será considerado como estando na mesma fase processual em que
+se encontra o pedido original, cabendo ao INPI reduzir a termo a referência aos documentos e
+petições que se encontram no pedido original.
+       Assim, estando o presente pedido dividido na mesma fase processual do PI0917196-7, e
+não tendo sido apresentado qualquer argumento que supere as objeções feitas durante o dito
+exame do pedido original, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+      -      não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+      -      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                          Página 4
+                                                          BR122018073166-4
+
+
+      -      não apresenta suficiência descritiva (Art. 24 da LPI) e
+
+      -      as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+             descritivo (Art. 25 da LPI)
+
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                                             Rio de Janeiro, 4 de janeiro de 2019.
+
+
+
+
+Camila Valentim de Souza Lopes
+Pesquisador/ Mat. Nº 1569130
+DIRPA / CGPAT I/DIFAR-I
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                    Página 5
+

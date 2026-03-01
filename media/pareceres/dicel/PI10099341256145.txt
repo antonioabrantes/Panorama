@@ -1,0 +1,206 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI1009934-4                N.° de Depósito PCT:AU2010/000496
+ Data de Depósito:                   30/04/2010
+ Prioridade Unionista:               AU 2009901933 (01/05/2009)
+ Depositante:                        TECHNOLOGICAL RESOURCES PTY. LIMITED (AU)
+ Inventor:                           Eric Nettleton, Ross Hennessy, Hugh Durrant-Whyte, Ali Haydar
+                                     Göktogan, Surya P N Singh
+ Título:                             Sistema de controle para operação autônoma
+
+                                                              PARECER
+           O presente pedido teve parecer de ciência(7.1), tendo em vista primeira conclusão
+de ausência de atividade inventiva frente ao estado da tecnica, considerando-se os
+ensinamentos dos documentos US5825981(D1), US2006044146(D2) e Automation and
+control in large-scale interactive systems,Bayne et al, 2002(D3) tendo como base legal os
+artigos 8 e 13 da LPI. A publicação do referido parecer sendo feita conforme RPI n. 2568
+de 24/03/2020.
+
+              O requerente então, conforme petição 870200078478 de 24/06/2020, apresentou
+manifestação contestando o estado da tecnica bem como apresentou novo quadro
+reivindicatorio.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                1/71 a 71/71             870190119718           18/11/2019
+Quadro Reivindicatório                              1 de 4 a 4/4             870200078478           24/06/2020
+
+Desenhos                                            1/20 a 20/20             020110139611           30/12/2011
+Resumo                                                     1/1               870190119718           18/11/2019
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                       x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                Página 1
+                                               PI1009934-4
+
+
+O pedido está de acordo com disposto no art. 32 da LPI                    x
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+     D1                      US5825981                                             20/10/1998
+
+     D2                      US2006044146                                          2/03/2006
+     D3                   Automation and control in large-scale interactive            2002
+            systems,Bayne et al, 2002
+
+
+     Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+      Requisito de Patenteabilidade                Cumprimento           Reivindicações
+                                                         Sim                    1-13
+           Aplicação Industrial
+                                                         Não                   Nenhuma
+                                                         Sim                    1-13
+                 Novidade
+                                                         Não                   Nenhuma
+
+                                                         Sim                   Nenhuma
+           Atividade Inventiva
+                                                         Não                    1-13
+
+
+
+Comentários/Justificativas
+
+1. As alegações do requerente foram analisadas.
+
+
+
+2.   Em nova analise, entende-se que apesar de D3 não mostrar explicitamente veiculos
+autonomos nem uma região geografica localizada dentro de uma mina,entende-se que tais
+detalhes são conhecidos de D1(,Figura 1, itens 6,8,9,10), que mostra robôs(entes autônomos)
+operados em diferentes sub-regiões e D2(região dentro de mina,paragrafo 19) apesar das
+limitações apontadas anteriormente nesses dois ultimos documentos. Desta forma entende-se,
+que o conjunto de documentos D1,D2 e D3,são complementares entre si,sendo a motivação do
+
+
+                                                                                          Página 2
+                                            PI1009934-4
+
+
+uso deles a problematica de plantas de controle, antecipando os pleitos do novo quadro
+reivindicatorio.
+
+3. Mais especificamente,quanto ao documento D1, são procedentes as alegações do requerente
+de que o mesmo não mostra explicitamente uma hierarquia entre controladores,nem uma região
+geografica dentro de uma mina, nem uma transferência entre um controlador primario para um
+controlador secundario na transição entre zonas geograficas. Entretanto entende-se que a
+relevância de D1 para um tecnico no assunto reside no fato do uso de robôs(entes autônomos)
+que se deslocam por diferentes localizações geograficas,ainda que sejam robôs de software(a
+essência, a inteligência/controle de um robô e definida pelo software), conforme ensina
+D1(colunas 1,5 e 10)
+
+4. Quanto ao documento D2, as alegações do requerente sobre operação não autônoma da
+referida maquina nas regiões e subregiões e o uso de um primeiro e segundo controladores são
+procedentes, entretanto entende-se que essa e apenas uma das modalidades de D2. Em outra
+modalidade         e   ensinado/sugerido   a    atuação    a    distância    sobre     veiculos
+autônomos(unmanned),conforme menciona D2(paragrafo 3). De forma analoga entende-se
+que em outra modalidade e sugerido o uso de um primeiro e segundo controladores nas regiões
+de transição entre uma sub-região e outra, conforme ensina D2(paragrafos 21,35,36 e 54)
+
+5. Quanto ao documento D3, apesar do mesmo não citar explicitamente entes autônomos como
+robôs,tal e implicito uma vez que o mesmo faz menção a plantas de controle com equipamentos
+automaticos que se subentende autônomos. Tambem de fato D3 não mostra uma planta de
+controle dentro de uma mina, porem a reivindicação principal não vincula detalhes especificos
+de uma mina dentro da solução do problema proposto de tal forma que as regiões geograficas
+especificadas em D3(Figuras 1,5 e introdução) e no presente pedido,tecnicamente falando são
+similares. Quanto ao uso da expressão empresarial tal entende-se como meramente ilustrativa,
+tecnicamente não havendo diferença entre o controle hierarquizado de controladores(intra-planta
+e interplanta) de D3 em relação ao presente pedido.
+
+5. Desta forma quanto ao novo quadro reivindicatorio, na reivindicação 1, o referido sistema de
+controle hierarquico e mostrado por D1(coluna 10),D2(paragrafos 3,21) e D3(figura
+1,introdução), em que e antecipado: um controlador primário associado à região geográfica
+definida,conforme D2(paragrafo 21) e D3(introdução); uma pluralidade de controladores
+secundários, em que cada um da pluralidade de controladores secundários está associado a
+uma respectiva zona localizada que tem fronteiras geográficas definidas de operação,conforme
+D2(paragrafo 35) e D3(introdução e seção Effective enterprise structure); em que os
+controladores primário e secundário são configurados em uma hierarquia determinada pela
+localização espacial das zonas localizadas na região geográfica, e cada um dos controladores
+secundários é responsável pelo controle de supervisão do controlador primário,conforme
+D2(paragrafos       21,35,36 e 54) e D3(seção Effective management e Figura 5); em que
+mediante uma transição da entidade autônoma em uma segunda zona localizada a partir de
+uma primeira zona localizada,o controlador primario e configurado para transferir o controle de
+
+
+
+                                                                                        Página 3
+                                          PI1009934-4
+
+
+supervisão sobre a entidade autônoma a partir de um primeiro controlador secundario associado
+à primeira zona localizada para um segundo controlador secundário associado a segunda zona
+localizada tal que a operação da entidade autônoma, na segunda zona localizada, é responsável
+pelo controle de supervisão do segundo controlador secundário associado,conforme
+D2(paragrafos 21,35,36 e 54) e D3(introdução e Figura 1). Desta forma a materia contida na
+reivindicação 1 esta antecipada pelo estado da tecnica não apresentando atividade
+inventiva.
+
+
+
+6.   Quanto as reivindicações dependentes, consistem de meros detalhamentos que não
+apresentam atividade inventiva.
+
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da
+          LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                            Rio de Janeiro, 6 de agosto de 2020.
+
+
+
+
+Ronaldo de Oliveira
+Pesquisador/ Mat. Nº 1546951
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+004/15
+
+
+
+
+                                                                                        Página 4
+

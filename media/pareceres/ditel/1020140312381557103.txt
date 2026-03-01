@@ -1,0 +1,314 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102014031238-2          N.° de Depósito PCT:
+ Data de Depósito:                   12/12/2014
+ Prioridade Unionista:               -
+ Depositante:                        FUNDAÇÃO       CPQD       -     CENTRO     DE  PESQUISA E
+                                     DESENVOLVIMENTO EM TELECOMUNICAÇÕES (BRSP)
+ Inventor:                           Alexandre Melo Braga, Rômulo Angelo Zanco Neto, André Luiz
+                                     Vannucci, Otávio Henrique Vieira Sanchez, Ricardo Shiguemi
+                                     Hiramatsu
+ Título:                             Sistema e método para empacotamento seguro e compacto de
+                                     mensagens de texto curtas tipo sms 
+
+                                                                PARECER
+          O presente pedido refere-se q utilização de técnicas criptográficas de assinaturas curtas
+e encriptação autenticada no empacotamento de mensagens de texto curtas, com diferentes
+níveis de segurança criptográfica, o SMS sendo cifrado por chave simétrica compartilhada entre
+remetente e destinatário, a chave gerada e distribuída quando da troca de convites do aplicativo
+mantido no servidor. Os níveis de segurança estão associados a diferentes algoritmos de
+criptografia, para sigilo com encriptação da mensagem, no nível baixo, para sigilo e autenticação
+com encriptação autenticada, no nível médio, e para sigilo e autenticação não repudiável, com
+encriptação e assinatura digital curta, no nível alto. O método determina o tamanho da
+mensagem criptografada conforme o nível de segurança escolhido e segmenta em blocos a
+mensagem SMS criptografada, se esta extrapolar o tamanho limite, ditos blocos, sendo enviados
+como uma sequência de SMSs; o destinatário recupera a mensagem original após reconstituir a
+cadeia de SMSs e reverter a criptografia.
+
+          Em 18/03/2022, por meio da petição 870220023462, a Requerente apresentou
+modificações no pedido em resposta ao parecer emitido, notificado na RPI 2659 de 21/12/2021
+(despacho 7.1). Estas modificações estão consideradas no Quadro 1.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                    1 a 27               870210090591     30/09/2021
+Quadro Reivindicatório                                   1a4                 870220023462     18/03/2022
+Desenhos                                                 1a4                 860140207384     12/12/2014
+Resumo                                                      1                870210090591     30/09/2021
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                             BR102014031238-2
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                       Sim                   Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                         X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                 X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                  X
+O pedido está de acordo com disposto no art. 32 da LPI                                   X
+Comentários/Justificativas: --
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                       Sim                   Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                     X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                                      X
+Comentários/Justificativas:
+
+   1. As reivindicações 1, 2, 6, 7 e 9 definem o objeto em termos do resultado alcançado e não
+       pelas características técnicas do objeto, em desacordo ao disposto no Art. 25 da LPI.
+
+   2. As reivindicações contém trechos explicativos com relação às vantagens e ao simples uso
+       da matéria reivindicada contrariando o disposto no Art. 25 da LPI e na Instrução Normativa
+       nº 30/2013  Art. 4º (VIII). Os seguintes termos descrevem somente vantagens sem
+       descrever de fato uma característica técnica:
+
+       1. Reivindicação 1:
+
+           1. que proporciona segurança intrínseca às mensagens de texto curtas emitidas por
+                 dispositivos móveis por meio de uma camada de segurança criptográfica,                          por
+                 meio      de    técnicas   criptográficas       de    assinaturas       curtas     e    encriptação
+                 autenticada no empacotamento seguro e compacto de mensagens do tipo
+                 SMS, compreendendo diferentes níveis de segurança criptográfica, numa
+                 relação    de compromisso entre segurança e parâmetros de confiabilidade da
+                 transmissão, como o tamanho               do    SMS     cifrado     e       a    fragmentação    da
+                 transmissão descreve somente vantagens do presente pedido, sem apresentar
+                 nenhuma        característica   técnica    de    como     tais    vantagens       são    de   fato
+                 implementadas. Por exemplo, é citado                  diferentes       níveis     de     segurança
+                 criptográfica, numa relação de compromisso entre segurança e parâmetros de
+                 confiabilidade da transmissão, entretanto, no corpo da reivindicação somente é
+                 dito Obter autenticação da mensagem por encriptação autenticada ou por
+                 assinatura digital curta, conforme o nível de segurança escolhido, enviando a
+                 informação de autenticação com a mensagem SMS, encriptada pelo canal de
+                 SMS;. Não existe, portanto, a definição dos níveis de segurança, nem informações
+                 de como são selecionados os níveis de segurança.
+
+
+
+                                                                                                            Página 2
+                                   BR102014031238-2
+
+
+      2. obter autenticação da mensagem por encriptação autenticada ou por assinatura
+          digital curta, conforme o nível de segurança escolhido, enviando a informação de
+          autenticação com a mensagem SMS, encriptada pelo canal de SMS; descreve
+          somente como a autenticação da mensagem é realizada, sem apresentar
+          características técnica da encriptação.
+
+   2. Reivindicação 2:
+
+      1. os ditos níveis de segurança estão associados a diferentes algoritmos de
+          criptografia em combinações específicas, para sigilo com encriptação da
+          mensagem, no nível baixo; para sigilo e autenticação com encriptação autenticada,
+          no nível médio; e para sigilo e autenticação com encriptação e assinatura digital
+          curta, no nível alto. somente descreve com outras palavras o nível de segurança,
+          sem trazer nenhuma característica técnica.
+
+   3. Reivindicação 9:
+
+      1. proporciona segurança intrínseca às mensagens de texto curtas emitidas por
+          dispositivos móveis por meio de uma camada de segurança criptográfica, por meio
+          de técnicas criptográficas de assinaturas curtas e encriptação autenticada no
+          empacotamento seguro e compacto de mensagens do tipo SMS descreve
+          somente vantagens do presente pedido, sem apresentar nenhuma característica
+          técnica de como tais vantagens são de fato implementadas.
+
+3. As reivindicações independentes 1 e 9 contrariam o disposto no Art. 25 da LPI e na
+   Instrução Normativa nº 30/2013  Art. 5º (IV e V), pois não possui preâmbulo e define na
+   parte caracterizante, i.e. após a expressão caracterizado por, características já
+   compreendidas no estado da técnica, sem evidenciar as características técnicas
+   essenciais e particulares, não compreendidas no estado da técnica.
+4. A reivindicação 1 não atende ao disposto no Art. 25 da LPI e na Instrução Normativa nº
+   30/2013  Art. 4º (III), pois a matéria pleiteada não está definida de maneira clara, precisa
+   e positiva pelas seguintes razões:
+   1. O termo transportar para B por canal de dados protegida por criptografia assimétrica
+      é seguido de outras etapas que realizam o mesmo procedimento cifrar a chave
+      secreta compartilhada, pela chave pública (PUB-S B ) do destinatário do convite; -
+      cifrar a chave secreta compartilhada, pela chave pública (PUB-S A ) do remetente do
+      convite, e mantê-la como cópia de segurança no servidor (11); - distribuir a chave
+      secreta (Enc (PUB-SB) [KEY AB ] = C) compartilhada quando da troca de convites do
+      aplicativo mantido no servidor (11);. Não é claro se tais etapas são detalhamentos
+      dessa etapa ou se fazem parte de outra etapa.
+   2. Os termos cifrar a mensagem SMS por meio de chave simétrica (KEY AB )
+      compartilhada entre remetente e destinatário; e - utilizar a chave secreta (Enc
+      (PUB-SB) [KEY AB ] = C) para encriptar as diversas mensagens SMS trocadas entre A
+      e B;  referem-se a mesma característica, que é encriptar mensagens entre A e B
+
+
+
+                                                                                       Página 3
+                                       BR102014031238-2
+
+
+           (remetente e destinatário), entretanto a reivindicação apresenta 2 formas distintas para
+           tal encriptação, utilizando (KEY AB ) e utilizando (Enc (PUB-SB) [KEY AB ] = C)
+                         Quadro 4  Documentos citados no parecer
+
+ Código                              Documento                                Data de publicação
+   D1      US20110302405                                                          08/12/2011
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento                Reivindicações
+                                                   Sim                         1a9
+          Aplicação Industrial
+                                                   Não                           --
+                                                   Sim                         1a9
+                Novidade
+                                                   Não                           --
+
+                                                   Sim                           --
+           Atividade Inventiva
+                                                   Não                         1a9
+Comentários/Justificativas
+
+   1. Argumentação da requerente:
+
+        1. O documento US20110302405A1 define um recurso de comunicação segura para
+           criptografar e descriptografar mensagens, automaticamente, sem a necessidade
+           de nenhum componente de segurança intermediário especial, como gateways,
+           servidores proxy ou semelhantes. Especificamente, US20110302405A1 descreve
+           um método para fornecer comunicação segura entre dispositivos de usuário final,
+           compreendendo as etapas de comunicar uma mensagem entre um primeiro dispositivo
+           e um segundo dispositivo, em que a mensagem fornece uma indicação de que o
+           primeiro dispositivo deseja enviar uma      mensagem      segura   para    o   segundo
+           dispositivo; permitir o download sob demanda de uma aplicação para o segundo
+           dispositivo, permitindo que o segundo dispositivo faça a descriptografia de uma
+           mensagem segura enviada pelo primeiro dispositivo; o segundo dispositivo e o
+           primeiro   dispositivo compartilham de pelo menos um segredo com base em uma
+           comunicação de handshake entre o os mesmos; e comunicar, entre o primeiro
+           dispositivo e o segundo dispositivo, uma mensagem criptografada que pode ser
+           descriptografada usando o referido segredo compartilhado.
+
+           Assim, pode-se que a invenção proposta é distinta da anterioridade D1, podem ser
+           destinadas à mesma serventia contudo o método e o sistema são distintos.
+
+   2. Análise da argumentação da requerente:
+
+        1. A requerente novamente apresenta o mesmo resumo do documentos D1. Somente
+           foram apresentados argumentos genéricos e incompreensíveis em relação a diferença
+           entre o pedido e o documento: Assim, pode-se que a invenção proposta é distinta da
+
+
+
+                                                                                          Página 4
+                                     BR102014031238-2
+
+
+       anterioridade D1, podem ser destinadas à mesma serventia contudo o método e o
+       sistema são distintos. Foram realizadas mudanças pontuais no quadro reivindicatório,
+       como destacado a seguir.
+
+3. Análise do quadro reivindicatório:
+
+   1. O novo quadro reivindicatório apresentado contém as mesmas características do
+       antigo quadro reivindicatório. A nova reivindicação 1 refere-se a antiga reivindicação 9
+       com o conteúdo das antigas reivindicação 2 e 7. Além disso, o preâmbulo da nova
+       reivindicação 1 apresenta conteúdo do relatório descritivo (parágrafos 41 e 42) e o
+       conteúdo da antiga reivindicação 1.
+
+       1. O conteúdo novo se restringe a trechos explicativos com relação às vantagens e ao
+           simples uso da matéria reivindicada, conforme apontado no quadro 3, e as
+           seguintes características adicionais:
+
+           1. [...] onde o SMS é cifrado por chave simétrica (KEYAB) compartilhada entre
+              remetente e destinatário, dita chave sendo gerada e distribuída quando da troca
+              de convites do aplicativo mantido no servidor (11); (Antiga reivindicação 2)
+
+              1. O trecho acrescentado já está presente na reivindicação e já rebatido em
+                  parecer anterior, no trecho: - Cifrar a mensagem SMS por meio de chave
+                  simétrica (KEYAB) compartilhada entre remetente e destinatário; e - gerar
+                  a chave secreta (Enc(PUB-SB)[KEYAB] = C) por A e transportar para B por
+                  canal de dados protegida por criptografia assimétrica; - Cifrar a chave
+                  secreta compartilhada, pela chave pública (PUB-SB) do destinatário do
+                  convite; - Cifrar a chave secreta compartilhada, pela chave pública
+                  (PUB-SA) do remetente do convite, e mantê-la como cópia de segurança no
+                  servidor (11); - distribuir a chave secreta (Enc(PUB-SB)[KEYAB] = C)
+                  compartilhada quando da troca de convites do aplicativo mantido no
+                  servidor (11); . A geração e compartilhamento de informações (no caso de
+                  uma chave secreta compartilhada) utilizando chaves públicas assimétricas é
+                  de conhecimento de um técnico no assunto e amplamente difundido na área
+                  de criptografia (Ver D1, parágrafo 0112). Um técnico no assunto, ao tentar
+                  distribuir   uma   chave    privada   entre   2   usuários,   sem   nenhuma
+                  experimentação adicional utilizaria esse conceito para distribuir a chave.
+
+           2. e onde o empacotamento da mensagem SMS é feito para o envio de
+              mensagens curtas, encriptadas e autenticadas em um único SMS; ou
+              mensagens longas, encadeadas em até quatro pacotes SMS. (Antiga
+              reivindicação 7)
+
+              1. A concatenação de mensagens SMS faz parte do padrão SMS e, portanto,
+                  faz parte do estado da técnica. A especificação 3GPP 3G TS 23.040 v1.0.0,
+                  desde a sua primeira versão em 1999, já trata da concatenação de
+
+
+
+                                                                                       Página 5
+                                           BR102014031238-2
+
+
+                         mensagens SMS. Dessa forma, o simples uso de tal recurso para enviar
+                         mensagens maiores do que o limite de caracteres, dividindo o conteúdo em
+                         múltiplas mensagens, já faz parte do estado da técnica, não sendo capaz de
+                         trazer atividade inventiva ao presente pedido.
+
+          2. Assim, conclui-se que a matéria pleiteada na reivindicação independente 1 não atende
+             ao requisito de atividade inventiva, pois decorre de maneira evidente ou óbvia para um
+             técnico no assunto a partir dos ensinamentos dos documentos D1.
+
+          3. Nas reivindicações dependentes 2 a 8 não foram identificadas características que,
+             mesmo quando combinadas com as características de qualquer reivindicação
+             independente a que se referem, venham a prover atividade inventiva à matéria.
+
+   1. A matéria pleiteada nas reivindicações 1 a 9 carece de atividade inventiva, pois decorre de
+          maneira óbvia para um técnico no assunto a partir dos ensinamentos contidos na
+          anterioridade D1 não é patenteável por infringir o disposto no artigo 8º, combinado com o
+          artigo 13 da Lei nº 9.279/96 (LPI).
+
+Conclusão
+
+      Diante ao exposto nesse parecer, o presente pedido apresenta irregularidades com relação
+ao Art. 25 da LPI, bem como não atende às disposições dos Art. 8° combinado com o Art. 13 da
+LPI, conforme apontado na seção de comentários/justificativas dos Quadros 3 e 5.
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -     não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -     as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+            descritivo (Art. 25 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                    Publique-se o indeferimento (9.2).
+
+
+
+                                                                   Rio de Janeiro, 5 de abril de 2022.
+
+
+
+
+Daniel de Souza Dias
+Pesquisador/ Mat. Nº 2041265
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+007/16
+
+
+
+
+                                                                                             Página 6
+

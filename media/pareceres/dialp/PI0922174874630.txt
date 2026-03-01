@@ -1,0 +1,413 @@
+                                  SERVIÇO PÚBLICO FEDERAL
+                   MINISTÉRIO DA INDÚSTRIA, COMÉRCIO EXTERIOR E SERVIÇOS
+                       INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0922174-3               N.° de Depósito PCT: EP2009/067534
+ Data de Depósito:                   18/12/2009
+ Prioridade Unionista:               EP 08450198.0 (18/12/2008)
+ Depositante:                        Aposcience AG (AT)
+ Inventor:                           Hendrik Jan Ankersmit
+ Título:                             Preparação farmacêutica, uso de uma preparação, e, método para
+                                     preparar uma preparação farmacêutica 
+
+                                                              PARECER
+
+
+          A presente invenção refere-se a uma preparação farmacêutica tópica para tratar uma
+condição infamatória interna da pele, preferivelmente uma condição associada com isquemia, que
+compreende um sobrenadante de uma solução fisiológica obtenível pelo cultivo de células
+mononucleares sanguíneas periféricas (PBMCs) ou um subconjunto das mesmas em uma solução
+fisiológica isenta de substâncias proliferadoras de PBMC e ativadoras de PBMC por pelo menos 1
+hora.
+
+          A matéria objeto do presente pedido foi avaliada à luz da Lei de Propriedade Industrial nº
+9.279 de 14 de maio de 1996 (LPI).
+
+          Conforme já esclarecido no parecer anterior, a matéria descrita no presente pedido
+apresenta escopo muito semelhante a matéria do pedido PI0922173-5, depositado na mesma
+data e de mesma titularidade que o pedido em análise. Ambos descrevem composições
+farmacêuticas baseadas em PBMCs para tratar uma condição inflamatória. A diferença está na
+aplicação dada a esta composição: no presente pedido ela é dirigida a uma condição inflamatória
+da pele e no PI0922173-5 a uma condição inflamatória interna. No entanto, a distinção do uso não
+faz da composição um produto diferente.
+
+          O Art 6º da LPI assegura ao inventor o direito de obter a patente que lhe garanta a
+propriedade. Portanto, em caso de deferimento de algum dos pedidos em questão e se as
+matérias dos dois pedidos coincidirem, a matéria deferida no primeiro pedido servirá de
+impedimento à concessão de patente para o segundo pedido, para evitar a ocorrência de dupla
+proteção de acordo com o artigo 6º da LPI.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@               Página 1 de 8
+                                                 PI0922174-3
+
+
+  Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                               Sim    Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                     X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)            X
+
+O pedido refere-se a Sequências Biológicas                                                                     X
+
+Comentários/Justificativas
+A) Quanto ao encaminhamento à ANVISA:
+       De acordo com a Portaria Interministerial n° 1065 de 24/05/2012, que alterou o fluxo de
+análise para pedidos de patente de produtos e processos farmacêuticos, o presente pedido foi
+encaminhado a ANVISA em observância ao estabelecido no art. 229-C da Lei 10.196/01,
+conforme a notificação publicada na RPI nº 2419 de 16/05/2017. Por meio do parecer técnico de
+anuência     a     pedido      de    patente         de      produtos     e    processos    farmacêuticos          nº
+663/17/COOPI/GGMED/ANVISA de 07/08/2017, publicado no DOU nº 170 de 04/09/2017, a
+ANVISA concedeu a prévia anuência ao presente pedido, cuja notificação de anuência (despacho
+7.5) foi feita na RPI nº 2444 de 07/11/2017.
+B) Quanto à declaração de acesso ao patrimônio genético nacional:
+       A requerente apresentou voluntariamente a PETIÇÃO DE DECLARAÇÃO NEGATIVA DE
+ACESSO AO PATRIMÔNIO GENÉTICO através da petição RJ 870180124398 de 31/08/2018.
+C) Quanto à apresentação de listagem de sequências:
+       O presente pedido não diz respeito à listagem de sequências biológicas.
+
+
+                                                          *******
+
+       No parecer técnico, notificado na RPI nº 2474 de 05/06/2018, concluiu-se concluiu-se que
+o presente pedido não era passível de patenteabilidade por estar em desacordo com os artigos 8º,
+13, 24, 25 e 10 da LPI. Em 03/09/2018, por meio da petição nº 870180125469, a requerente
+apresentou manifestação ao parecer técnico negativo oferecendo esclarecimentos e uma nova
+proposta de quadro reivindicatório (13 reivindicações).
+       Com base nas informações acima, os documentos que compõem o presente pedido e que
+foram examinados no presente exame técnico são listados abaixo:
+                              Quadro 1  Páginas do pedido examinadas
+            Elemento                        Páginas                     n.o da Petição                 Data
+Relatório Descritivo                           1-23                 NPRJ 020110077101             21/07/2011
+Listagem de sequências em
+                                                 -                             -                         -
+formato impresso
+Listagem de sequências*               Código de Controle                       -                         -
+Quadro Reivindicatório                         1-3                  RJ 870180125469              03/09/2018
+Desenhos                                       1-20                 NPRJ 020110077101             21/07/2011
+Resumo                                          1                   NPRJ 020110077101             21/07/2011
+      *Listagem de sequências em formato eletrônico referente ao código de controle 9999999999999999
+      (Campo 1) e 9999999999999999 (Campo 2).
+
+
+
+
+                                                                                                      Página 2 de 8
+                                               PI0922174-3
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                           Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)          X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                               X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                      X
+O pedido está de acordo com disposto no art. 32 da LPI                       X
+Comentários/Justificativas
+
+       No exame técnico anterior foi considerado que as reivindicações de preparação
+farmacêutica não poderiam ser aceitas, uma vez que a dita preparação poderia ser caracterizada
+por conter um produto não patenteável, conforme Art. 10 (IX) da LPI e Diretrizes de Exame de
+Pedidos de Patente na Área de Biotecnologia Resolução nº 144/2015 (item 4.2.1.1.1).
+
+       No item III da manifestação (1º§), a requerente esclarece que as reivindicações não
+incluem células per se, mas ao invés disso as mesmas são requeridas para produzir o
+sobrenadante usado na presente invenção. O relatório descritivo deixa claro que as células são
+removidas do meio condicionado para obter o sobrenadante.
+
+       No entanto, não é possível concordar com a requerente, visto que no novo quadro
+reivindicatório não fica claro que o sobrenadante é isento de células. Sendo assim, reitera-se aqui
+que a matéria das novas reivindicações 1-9 e 13 não é considerada invenção de acordo com o art.
+10 (IX) da LPI.
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                    X
+Comentários/Justificativas
+
+      Quanto ao uso da expressão preparação farmacêutica:
+
+       No parecer técnico anterior foi considerado que as reivindicações de preparação
+farmacêutica não apresentavam clareza de acordo com o art. 25 da LPI, visto que o termo
+preparação não é o mais adequado para uma reivindicação de PRODUTO, pois muitas vezes é
+associado a uma ação e remete a um PROCESSO.
+
+       A requerente mantém o preâmbulo PREPARAÇÃO FARMACÊUTICA... nas novas
+reivindicações 1-9 e 13. No item III da manifestação (2º§) ela esclarece que o sobrenadante da
+presente invenção é obtido cultivando as PBMCs sob condições de indução de tensão ou
+cultivando as PBMCs, sob tensão, ou seja, já tensionadas. Devido a estas condições de indução
+de tensão, as células começam a mudar seu metabolismo e a secretar um alto número de
+substâncias diferentes, contribuindo para alcançar o objetivo terapêutico.
+
+
+
+
+                                                                                     Página 3 de 8
+                                             PI0922174-3
+
+
+       É importante destacar neste exame que há duas problemáticas envolvendo as referidas
+reivindicações. A primeira questão é a escolha do preâmbulo PREPARAÇÃO FARMACÊUTICA...
+que, como apontado no parecer anterior não é adequado para uma reivindicação de PRODUTO
+(composição farmacêutica). Este é o primeiro ponto. A segunda questão é que a composição
+farmacêutica está caracterizada pelo seu processo de obtenção (cultivar as células em uma
+solução fisiológica isenta de substâncias proliferadoras de PBMC e ativadoras de PBMC por pelo
+menos 1 hora, em que as PBMCs são submetidas à radiação antes ou durante o cultivo das
+células). Neste ponto, é possível concordar com a requerente que definir o produto pelo processo
+pode ser a melhor forma de caracterizá-lo. No entanto, entende-se que o que se deseja proteger é
+uma COMPOSIÇÃO FARMACÊUTICA e usar o preâmbulo PREPARAÇÃO FARMACÊUTICA...
+junto com a porção caracterizante de PROCESSO acarreta indefinição da matéria que se deseja
+proteger. Sendo assim, fica mantida a objeção quanto à falta de clareza e precisão das referidas
+reivindicações com base no art. 25 da LPI.
+
+      Quanto ao uso dos termos subgrupo e subconjunto:
+
+       No parecer anterior foi questionada a falta de clareza (art. 25 da LPI) de algumas
+reivindicações pela presença dos termos subgrupo ou subconjunto para designar grupos de
+células.
+
+       No item III da manifestação (3º§) a requerente esclarece que todas as referências a
+subconjuntos e subgrupos foram removidas do novo quadro reivindicatório.
+
+       Tendo em vista a remoção dos referidos termos no novo quadro reivindicatório,
+considera-se esta objeção superada.
+
+      Quanto à clareza da reivindicação da reivindicação de uso:
+
+       A clareza da antiga reivindicação 12 foi questionada visto que a referida reivindicação era
+direcionada a tratar uma condição inflamatória da pele associada a isquemia, sem especificar a
+doença a ser tratada (art. 25 da LPI; item 9.1.4 da Resol. Nº 208/2017).
+
+       No item II da manifestação (4º§) a requerente esclarece que efetuou emendas no novo
+quadro reivindicatório pela incorporação das doenças definidas.
+
+       Na nova reivindicação 10, a requerente continua fazendo referência ao uso da composição
+para tratar uma condição inflamatória da pele, preferivelmente associada com isquemia, embora,
+em seguida, liste preferencialmente algumas doenças relacionadas a esta condição. Ainda que a
+requerente liste algumas doenças, o escopo de proteção continua relacionado ao tratamento de
+uma condição inflamatória da pele. De acordo com o item 9.1.4 da Resol. Nº 208/2017 , as
+reivindicações de novo uso para preparar um medicamento devem especificar a doença a ser
+tratada, conforme item 9.1.4 das Diretrizes de Exame de Pedidos de Patente na Área de Química
+(Resolução nº 208/2017, publicada na RPI 02/01/2018). Como já mencionado no parecer anterior,
+a dita reivindicação se refere ao tratamento de uma condição genérica, tal como condição
+inflamatória da pele, e continua em desacordo com os critérios estabelecidos nos artigos 25 da
+LPI por falta de clareza e precisão.
+
+
+                                                                                    Página 4 de 8
+                                          PI0922174-3
+
+
+      Quanto à suficiência descritiva e clareza:
+
+       No parecer anterior foi apontado que, nos exemplos, a única condição inflamatória
+associada à isquemia abordada no presente pedido foi uma úlcera de pele (exemplo 1). Desta
+forma, um técnico no assunto necessitaria de experimentação indevida para atribuir outro uso a
+referida composição. Sendo assim, foi questionada a suficiência descritiva do pedido, bem como o
+suporte para um escopo tão amplo das reivindicações independentes (arts. 24 e 25 da LPI).
+
+       No item III da manifestação (5º§) a requerente esclarece que úlcera de pele é um exemplo
+de uma doença de pele que está associada à inflamação. Relata que a inflamação é uma
+condição que ocorre em muitas doenças, e que desta forma, o tratamento de uma doença
+associada com uma condição inflamatória, como a úlcera da pele, é suficiente para mostrar as
+propriedades anti-inflamatórias do sobrenadante da presente invenção.
+
+       Foi observado que o novo quadro reivindicatório continua fazendo referência a doença a
+ser tratada de forma genérica, tal como uma condição inflamatória da pele. A única condição
+inflamatória abordada nos exemplos foi a úlcera de pele . A requerente menciona o tratamento de
+outras doenças ou condições genéricas, como por exemplo, ferimentos, isquemia de tecido,
+ferimentos crônicos, ferimentos diabéticos, queimaduras de pele, enxertos de pele na cirurgia
+plástica e regeneração de tecido após enxerto dentário. No entanto, não é possível inferir que
+utilizando o mesmo modelo animal do exemplo 1 seria possível tratar doenças associadas com
+inflamação, porém com etiologias tão diferentes. Além disso, conforme determinado nas Diretrizes
+de exame de pedidos de patente  bloco I, publicada na RPI nº 2241 de 17/12/2013, item 2.15, o
+pedido deve conter informação técnica suficiente para permitir que um técnico no assunto coloque
+a invenção em prática, tal como reivindicada, sem experimentação indevida, ou seja, sem a
+necessidade de experimentação adicional para realizar a invenção, a partir do que foi revelado no
+pedido. Portanto, as novas reivindicações 2 e 10 não atendem ao disposto no artigo 25 da Lei nº
+9.279/96 (LPI), pois definem matéria que não está fundamentada no relatório descritivo do pedido,
+uma vez que tal matéria não se encontra suficientemente descrita no relatório descritivo, de modo
+a fundamentar o amplo escopo reivindicado, o que contraria também o disposto no artigo 24 da
+LPI.
+
+      Quanto à definição do processo de radiação:
+
+       No parecer anterior foi considerado essencial definir que as células da composição sejam
+submetidas à radiação de forma a aumentar o número de células apoptóticas e liberar as citocinas
+importantes na resposta imune local.
+
+       A requerente não tece qualquer comentário a este respeito na manifestação. No entanto,
+observa-se que o novo quadro reivindicatório inclui que as células utilizadas para produzir o
+sobrenadante de cultura da invenção são submetidas à radiação antes ou durante o cultivo,
+(reivindicações 1 e 11). Sendo assim, considera-se que esta objeção foi superada.
+
+
+
+
+                                                                                    Página 5 de 8
+                                               PI0922174-3
+
+
+                           Quadro 4  Documentos citados no parecer
+ Código                                  Documento                                     Data de publicação
+             HOLZINGER, C. et al. Treatment of Non-healing Skin Ulcers with
+    D1       Autologous Activated Mononuclear Cells. Eur. J. Vasc. Surg. 8: 351-356.           1994
+
+             SUGIHARA, S. et al. Autoperipheral blood mononuclear cell
+    D2       transplantation improved giant ulcers due to chronic arteriosclerosis             2006
+             obliterans. Heart Vessels 21:258262.
+             HOJO, Y. et al. Expression of Vascular Endothelial Growth Factor in
+    D3       Patients With Acute Myocardial Infarction. J. Am. Coll. Cardiol., 35:             2000
+             968-973.
+             THUM, T. et al. The Dying Stem Cell Hypothesis: Immune Modulation as a
+    D4       Novel Mechanism for Progenitor Cell Therapy in Cardiac Muscle. J. Am.             2005
+             Coll. Cardiol., 46:1799-1802.
+
+         Análise dos documentos citados no quadro 4 do parecer de primeiro exame técnico.
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento                  Reivindicações
+                                                         Sim                            1-13
+            Aplicação Industrial
+                                                        Não                               -
+                                                         Sim                            1-13
+                  Novidade
+                                                        Não                               -
+
+                                                         Sim                              -
+            Atividade Inventiva
+                                                        Não                             1-13
+Comentários/Justificativas
+
+         Nos esclarecimentos trazidos na petição nº 870180125469 de 03/09/2018 a requerente
+apresenta um novo quadro contendo 13 reivindicações que foram consideradas nesta análise.
+
+         Não obstante a falta de clareza e precisão das reivindicações de preparação, conforme
+apontado no quadro 3, e das objeções com relação ao arts. 10 da LPI apontadas no quadro 2, e
+de forma a viabilizar a análise do quadro reivindicatório como um todo, as reivindicações que
+foram analisadas com base em uma interpretação razoável consistente com a descrição oferecida
+no presente pedido, tal como depositado. Desta forma, a análise a seguir foi realizada
+considerado que as novas reivindicações referem-se a uma preparação farmacêutica contendo
+um sobrenadante de PBMCs irradiadas isento de células.
+
+   1. Quanto à atividade inventiva das novas reivindicações 1-13:
+
+         No parecer anterior foi questionada a atividade inventiva da composição farmacêutica
+contendo o sobrenadante de PBMCs submetidas a algum estresse. Nesta análise foi pontado que
+embora os documentos D1 e D2 não sugiram o uso do sobrenadante da cultura de PBMCs, fica
+claro pela leitura de D3 e D4 que as células transplantadas de fato não são responsáveis pela
+neoangiogênese e sim a resposta imunológica produzida pelas citocinas liberadas por elas e que
+um técnico no assunto seria certamente motivado a testar o uso do sobrenadante para tratar
+úlceras da pele, com uma alta expectativa de sucesso.
+
+
+
+                                                                                               Página 6 de 8
+                                           PI0922174-3
+
+
+      Alegações da requerente:
+       Sobre os documentos D1 a D4, a requerente alega na manifestação que nenhum dos
+documentos cita que um sobrenadante de PBMCs cultivado possa ser usado no tratamento de
+condições inflamatórias de pele. Os documentos citados referem-se a células em si ou a
+sobrenadantes de células não irradiadas no tratamento de doenças que não estão associadas à
+pele. Alega ainda que estes documentos, sozinhos ou em combinação, não sugerem a matéria
+reivindicada no presente pedido de patente porque a pessoa versada na técnica não teria
+qualquer sugestão ou motivação para combinar os ensinamentos dos documentos D1 a D4, visto
+que as características essenciais da presente invenção não são sequer mencionadas nestes
+documentos: irradiação de PBMCs, seguida por uma etapa de cultivo e o isolamento do
+sobrenadante da cultura.
+       Como suporte aos argumentos acima mencionados, a requerente apresenta uma
+declaração do Prof. Michael Mildner (ANEXO 1) sobre o exame técnico do pedido correspondente
+no escritório americano, contestando o documento US7118746 citado pelo examinador
+norte-americano. A requerente apresenta ainda o ANEXO 2, um documento publicado em 2011,
+que mostra a influência das condições de indução de tensão, em particular da irradiação, em
+relação ao secretoma de PBMCs.
+      Análise dos argumentos apresentados na manifestação:
+       O documento apresentado como ANEXO 1 não será analisado, visto que não é pertinente
+a este exame, pois discute um documento não mencionado por esta perícia técnica. Já o
+documento apresentado como ANEXO 2 foi publicado posteriormente à data de depósito do
+presente pedido, de forma que não pode ser considerado neste exame.
+        Ainda que nenhum dos documentos citados tenha sugerido o uso explícito do
+sobrenadante de cultura de PBMCs para tratar doenças inflamatórias da pele, tanto D1, quanto
+D2, observaram melhora nos pacientes com doenças inflamatórias da pele quando administram
+PBMCs. No caso de D2 é possível inferir que o sobrenadante das células estava presente na
+composição administrada. D2 conclui ainda que a secreção do fator de crescimento do endotélio
+vascular (VEGF) é considerado o mecanismo primário de promoção da angiogênese e
+recuperação da função vascular da lesão isquêmica (primeiro parágrafo discussão, página 261). O
+que estes documentos. Resultado semelhante foi alcançado em D3 que examinou o envolvimento
+de células mononucleares do sangue periférico (PBMCs) como fonte de fatores de crescimento do
+endotélio vascular (VEGF) para tratar infarto agudo do miocárdio (AMI). Foi verificado que os
+VEGF produzidos pelas PBMCs desempenham importante papel na promoção da angiogênese e
+na recomposição do endotélio após AMI (ver resumo, página 968). O que estes documentos não
+mencionavam era o mecanismo por trás dessa terapia celular e que foi sugerido por D4 que
+propõe que a apoptose das células transplantadas leva a regulação negativa da imunidade inata e
+adaptativa, desativando macrófagos e células dendríticas, e estimulando as células T regulatórias
+(resumo, página 1799). D4 conclui que as células transplantadas em si não desempenham papel
+importante na melhora da função cardíaca e sim a resposta imune produzida in situ pelas células
+apoptóticas (3º parágrafo, página 1800).
+
+
+                                                                                   Página 7 de 8
+                                                 PI0922174-3
+
+
+       Embora os documentos D1 e D2 não sugiram explicitamente o uso do sobrenadante da
+cultura de PBMCs no tratamento de doenças inflamatórias da pele, fica claro pela leitura de D3 e
+D4 que as citocinas presentes no sobrenadante é que induzem uma resposta imunológica que
+favorece a neoangiogênese. Sendo assim, um técnico no assunto, conhecendo as propriedades
+anti-inflamatórias do sobrenadante de PBMCs conforme descritas em D3 e D4 e também sugerida
+em D2, seria certamente motivado a testar o uso do sobrenadante para tratar doenças
+inflamatórias da pele, tal como descrito em D1, com uma alta expectativa de sucesso.
+       Desta forma, reitera-se a opinião de que as reivindicações 1-13 não apresentam atividade
+inventiva, estando em desacordo com o disposto no Art 13 da LPI, e não são patenteáveis de
+acordo com o Art. 8º da mesma Lei.
+
+
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, INDEFIRO o presente pedido, uma vez que:
+
+      -     não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI);
+
+      -     não apresenta suficiência descritiva (Art. 24 da LPI);
+
+      -     as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+            descritivo (Art. 25 da LPI); e
+
+      -     não é considerado invenção, uma vez que incide no Art. 10 da LPI.
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                     Publique-se o indeferimento (9.2).
+
+
+
+                                                               Rio de Janeiro, 05 de outubro de 2018.
+
+
+
+
+          Rosana Bernardo da Silva
+            Pesquisador/ Mat. Nº 1358315
+              DIRPA / CGPAT II/DIALP
+     Deleg. Comp. - Port. INPI/DIRPA Nº 008/17
+
+
+
+
+                                                                                         Página 8 de 8
+

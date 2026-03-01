@@ -1,0 +1,228 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR112012009436-0            N.° de Depósito PCT: EP10/065618
+ Data de Depósito:                     18/10/2010
+ Prioridade Unionista:                 EP 09173612.4 (21/10/2009); US 61/279,453 (21/10/2009)
+ Depositante:                          Merz Pharma GmbH & Co. KGAA (DE)
+ Inventor:                             Harold V. Taylor, Karl-Heinz Eisele, Cornelia Brünn
+ Título:                               Método, dispositivo e kit para determinar a quantidade de
+                                       polipeptídeo de neurotoxina a (bont/a) 
+
+                                                                 PARECER
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                           X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    X
+
+O pedido refere-se a Sequências Biológicas                                                             X
+
+Comentários/Justificativas
+
+Quanto às Sequências Biológicas; Resolução INPI PR 187/2017:
+
+    Por meio da petição 870190100136, de 07/10/2019, o depositante apresentou as sequências
+biológicas em formato eletrônico no formato OMPI ST.25, segundo a Resolução nº 187/2017
+publicada na RPI nº 2417 de 02/05/2017.
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas      n.o da Petição             Data
+Relatório Descritivo                                          1 a 37       870190100136           07/10/2019
+Listagem de sequências*                            Código de Controle      870190100136           07/10/2019
+Quadro Reivindicatório                                         1a4         870190100136           07/10/2019
+Resumo                                                          1          870190100136           07/10/2019
+        *Listagem de sequências em formato eletrônico referente ao código de controle
+        8893F4CB2FECA4AB (Campo 1) e 91AFCA8EBFB83E83 (Campo 2).
+
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                                Página 1
+                                                        BR112012009436-0
+
+
+                                                        maio de 1996  LPI
+Artigos da LPI                                                               Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                          X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                  X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                       X
+O pedido está de acordo com disposto no art. 32 da LPI                        X
+
+
+
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                               Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI          X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                       X
+Comentários/Justificativas
+
+  O depositante apresentou uma nova versão do quadro reivindicatório, relativos ao parecer de
+Ciência (7.1) publicada na Revista de Propriedade Industrial no. 2532 de 16 de julho de 2019, sem
+fazer modificações importantes
+
+  A primeira exigência foi cumprida, parcialmente pois não foi retirada a marca registrada.
+
+  A segunda exigência foi questionada devido ao fato que não estava clara e isto gerou uma
+incerteza, os argumentos do depositante não foram convincentes, o subitem 6.1.3,das Diretrizes
+de Exame de Pedidos de Patente na Área de Biotecnologia, trata de outras moléculas com a
+mesma função biológica, o que não é caso da referida reivindicação, a última frase do referido
+subitem 6.1.3, é Entretanto, a sequência do promotor, que é a invenção, deve estar descrita de
+forma clara e precisa através de sua SEQ ID NO: correspondente.. Ao reivindicar colocar em
+contato um antissoro policlonal de um animal que tenha sido imunizado por um peptídeo
+imunogênico contendo uma sequência de aminoácidos como a mostrada na SEQ ID NO: 1, não
+está reivindicando apenas a SEQ ID NO 1, mas qualquer molécula que contenha a referida
+sequência.
+
+  A reivindicação 11 contém trechos explicativos com relação às vantagens e ao simples uso da
+matéria reivindicada, tais como em que as quantidades determinadas de complexo podem, ser
+identificadas com quantidades pré-definidas do polipeptídeo contrariando o disposto no Art. 25 da
+LPI e na Instrução Normativa nº 30/2013  Art. 4º (VIII).
+
+
+
+
+                                  Quadro 4  Documentos citados no parecer
+
+ Código                                               Documento                    Data de publicação
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                          Página 2
+                                                          BR112012009436-0
+
+
+                                                                                               
+
+
+      Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade                                    Cumprimento   Reivindicações
+                                                                            Sim           1 a 41
+              Aplicação Industrial
+                                                                           Não
+                                                                            Sim           1 a 41
+                      Novidade
+                                                                           Não
+                                                                            Sim           1 a 41
+              Atividade Inventiva
+                                                                           Não
+Comentários/Justificativas
+
+     Por meio da petição n° 870190100136 de 07/10/2019 o depositante cumpriu satisfatoriamente
+as exigências formuladas no parecer técnico notificado na RPI n° 2532, de 16/07/2019,
+apresentando novas vias do quadro reivindicatório 41 reivindicações, aceitas e utilizadas no
+exame.
+
+     A respeito dos argumentos apresentados pelo INPI, o requerente argumenta que: 
+
+     11. Em relação à novidade e atividade inventiva da presente invenção conforme definida no
+quadro reivindicatório anexo, a Requerente observa que a reivindicação independente 1 refere-se
+a um método para a determinação da quantidade de polipeptídeo de neurotoxina A (BoNT/A)
+parcialmente processada e/ou não-processada em uma solução contendo BoNT/A processada
+juntamente com uma parcialmente processada e/ou não-processada.
+
+     12. Em contraste, a reivindicação 5 de D1 refere-se a um método para a produção/geração de
+um anticorpo que se liga especificamente ao polipeptídeo de neurotoxina não-processado e/ou
+parcialmente processado (como BoNT/A).
+
+-        As reivindicações 5 e 6, são iguais á reivindicação 1, onde a ordem está inversa. (6 antes
+5)
+
+     13. Além disso, as passagens de D1 mencionadas pelo Sr. Examinador não divulgam o
+método definido na reivindicação 1 do presente pedido. Os parágrafos [0038] e [0039] de D1
+(página 23, linha 9) descrevem simplesmente que o anticorpo, em um aspecto, permite a
+detecção de polipeptídeo de neurotoxina parcialmente processado e/ou não-processado com alta
+sensibilidade e especificidade, em um aspecto com limite de detecção de 50 a 80 pg/mL, em
+aspecto 69 pg/mL. Além disso, é descrito que o anticorpo acima mencionado pode ser utilizado
+para a remoção do polipeptídeo de neurotoxina parcialmente processado e/ou não-processado do
+polipeptídeo de neurotoxina processado ou para detectar BoNT/A parcialmente processado e/ou
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                   Página 3
+                                                          BR112012009436-0
+
+não-processado em uma amostra. O exemplo 2 de D1 (página 52, linha 14) mostra um ELISA
+para teste e verificação da especificidade do anticorpo.
+
+-        Ao revelar o limite de detecção o documento está se basenado num método de análise, o
+presente pedido de patente usa o mesmo exemplo 2 nas páginas 33 a 37
+
+       A reivindicação 15 de D1 refere-se ao uso do anticorpo para detectar uma neurotoxina
+botulínica parcialmente processada e/ou não-processada tipo A (BoNT/A) em uma amostra. Fica
+claro, portanto, que em nenhuma passagem o documento D1 revela integralmente todas as
+características do método reivindicado, pelo que a novidade da presente invenção frente a D1
+deve ser reconhecida.
+
+- Apesar de não mencionado a amostra revelada, contém o anticorpo BoNT/A processado,
+como pode ser visto na introdução (página 1), exemplo 1 e resumo.
+
+    Observa-se que D1 já revela um método de separação de polipeptídeo de neurotoxina A
+botulínica (BoNT/A), parcialmente processada e/ou não-processada em uma solução contendo
+BoNT/A processada e parcialmente processada e/ou não-processada.                      Sendo assim, reitera-se
+que o pedido não apresenta novidade frente a D1 e não atende ao disposto nos artigos 8° e 11 da
+LPI.
+
+Conclusão
+
+         As exigências emitidas anteriormente não foram atendidas de forma satisfatória.
+
+         Sendo assim, de acordo com o Art. 37, opino pelo indeferimento do presente pedido, uma
+vez que:
+
+          não atende ao requisito de novidade (Art.8º com Art. 11 da LPI);
+
+          as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório descritivo
+(Art. 25 da LPI);
+
+         De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso
+
+
+
+                                                                             Rio de Janeiro, 3 de março de 2020
+
+
+
+
+José Américo de Azeredo Figueira
+Pesquisador/ Mat. Nº 2360670
+DIRPA / CGPAT II/DIMOL
+
+
+
+De acordo com o parecer acima, indefiro o presente pedido.
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                 Página 4
+                                                      BR112012009436-0
+
+
+                                                                         Publique-se o indeferimento (9.2).
+
+
+
+
+Daniel Marques Golodne
+Chefe de Divisão/ Mat. Nº 1358388
+DIRPA / CGPAT II/DIMOL
+Portaria INPI/PR Nº672/17
+
+
+
+
+      Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                 Página 5
+

@@ -1,0 +1,116 @@
+                                         SERVIÇO PÚBLICO FEDERAL
+                                          MINISTÉRIO DA ECONOMIA
+                              INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.º do Pedido:                       BR112016028205-1          N.º de Depósito PCT: EP2015/060020
+ Data de Depósito:                    07/05/2015
+ Prioridade Unionista:                EP 14171500.3 (06/06/2014)
+ Depositante:                         Siemens Aktiengesellschaft (DE)
+ Inventor:                            Peter Hamberger, Gerald Leber, Helfried Passath, Helmut Pregartner,
+                                      Alfons-Karl Schrammel
+ Título:                              Dispositivo de Medição para Detectar um Fluxo Unidirecional Magnético
+                                      no Núcleo de um Transformador, Dispositivo de Compensação para
+                                      Compensar um Fluxo Unidirecional Magnético em um Transformador
+                                      Elétrico e Método para Compensar um Fluxo Magnético Unidirecional em
+                                      um Núcleo Magnético de um Transformador Elétrico
+                                                                      PARECER
+
+      A Requerente recebeu notificação de Ciência de Parecer (7.1) publicada na RPI nº 2679 de 10
+de maio de 2022. Através da petição nº 870220070611 de 08/08/2022, a mesma apresentou
+Manifestação sobre o Parecer Técnico e novo Quadro Reivindicatório. Para fins de continuidade
+do exame estão sendo consideradas as vias abaixo:
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas           Nº da Petição         Data
+                                                                                870200091395
+ Relatório Descritivo                                          1-13                                 22/07/2020
+                                                                                 Págs. 5 a 17
+                                                                                870220070611
+ Quadro Reivindicatório                                         1-2                                 08/08/2022
+                                                                                 Págs. 5 a 6
+                                                                                870160071687
+ Desenhos                                                       1-5                                 30/11/2016
+                                                                                Págs. 28 a 32
+                                                                                870200091395
+ Resumo                                                         1                                   22/07/2020
+                                                                                   Pág. 19
+
+                  Quadro 2 - Considerações referentes aos Artigos 10, 18, 22 e 32 da LPI
+ Artigos da LPI                                                                             Sim         Não
+ A matéria enquadra-se no Art. 10 da LPI (não se considera invenção)                                     X
+ A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                                             X
+ O pedido apresenta Unidade de Invenção (Art. 22 da LPI)                                        X
+ O pedido está de acordo com disposto no Art. 32 da LPI                                         X
+Comentários/Justificativas: ----
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                               Página 1
+                                            BR112016028205-1
+
+                 Quadro 3 - Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                            Sim                     Não
+O relatório descritivo está de acordo com disposto no Art. 24 da LPI                        X
+O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI                      X
+Comentários/Justificativas: ----
+                            Quadro 4 - Documentos citados no parecer
+ Código                                  Documento                                                Data de publicação
+           US5847910A
+    D1     Título: Fault Protection Device in a Transformer                                            1998-12-08
+           Depositante: Allanson International Inc.
+
+      Quadro 5 - Análise dos Requisitos de Patenteabilidade (Art. 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento                              Reivindicações
+                                                         Sim                                         1-3
+           Aplicação Industrial
+                                                        Não                                          ----
+                                                         Sim                                         1-3
+                 Novidade
+                                                        Não                                          ----
+                                                         Sim                                         ----
+           Atividade Inventiva
+                                                        Não                                          1-3
+Comentários/Justificativas:
+    Na manifestação a Requerente alega que realizou mudanças no Quadro Reivindicatório e que
+frente às modificações ora apresentadas, que a invenção presentemente reivindicada não é
+divulgada e nem óbvia a partir da matéria, seja tomada individualmente ou em combinação,
+revelada pelas anterioridades citadas.
+
+    Apesar das alegações da Requerente, O documento D1 divulga um arranjo de medição para
+detectar um fluxo magnético direto no núcleo de um transformador, com um sensor, formado a
+partir de um núcleo de sensor ferromagnético em torno do qual uma bobina de sensor é enrolada,
+através da largura de enrolamento porção predeterminada de uma perna central em um espaço
+anular formado por uma superfície periférica externa da perna central e uma superfície periférica
+interna de um enrolamento de transformador está disposta de tal forma que um fluxo magnético
+parcial é ramificado do membro central e guiado através de pelo menos um intervalo não
+ferromagnético [Resumo; Coluna 3, Linha 21; Coluna 4, Linha 18)].
+
+Conclusão
+    Face ao exposto, conclui-se que a invenção ora pleiteada decorre de maneira evidente ou
+óbvia, para um técnico no assunto, a partir do estado da técnica, sendo desprovida de atividade
+inventiva, conforme Art. 13 da LPI.
+
+    Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que o mesmo não
+atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+
+
+                                                    Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12     Página 2
+                                              BR112016028205-1
+
+Rio de Janeiro, 30 de agosto de 2022.
+
+Publique-se o indeferimento (9.2).
+
+CAMILO BRAGA GOMES
+Pesquisador / Mat. Nº 1547071
+DIRPA / CGPAT III / DIFEL
+Deleg. Comp. - Port. INPI / DIRPA Nº 022/12
+
+
+
+
+                                                    Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 3
+

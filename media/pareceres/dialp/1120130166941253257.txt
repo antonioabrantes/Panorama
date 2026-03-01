@@ -1,0 +1,367 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR112013016694-0            N.° de Depósito PCT: EP2011/074120
+ Data de Depósito:                     28/12/2011
+ Prioridade Unionista:                 EP 10197303.0 (29/12/2010); US 61/430298 (06/01/2011)
+ Depositante:                          INTERVET INTERNATIONAL B.V. (NL)
+ Inventor:                             THEODORUS          PETRUS        MARIA     SCHETTERS,       KARINA
+                                       MOUBRI-MENAGE, JOS KLEUSKENS, ANDREAS ROHWER
+ Título:                               Ácido nucleico isolado, microrganismo carregador recombinante vivo.
+                                       anticorpo monocolonal, vacina para caninos contra babesiose, método
+                                       para a preparação de vacina, uso de polipeptídeo ou fragmento
+                                       imunogêncio do mesmo, e, kit de teste de diagnóstico
+
+                                                              PARECER
+           O presente pedido refere-se ao fornecimento de polipeptídeos, ácidos nucleicos
+codificantes de antígenos de protozoários do gênero Babésia, seus usos médicos para vacinas
+contra babesiose canina.
+
+          Quanto à exigência pré-exame (RPI nº 2531, de 09/07/2019)  Artigo 34 da LPI:
+
+           De acordo com o artigo 34 da Lei da Propriedade Industrial nº 9279/96 (LPI), o INPI emitiu
+parecer de Exigência Pré-Exame, com despacho 6.20, cuja notificação foi publicada pela RPI nº
+2531, de 09/07/2019.
+
+           A depositante apresentou por meio da petição nº870190089083, de 09/09/2019, uma
+proposta de quadro reivindicatório (total de 12 reivindicações), novas vias do relatório descritivo,
+quadro reivindicatório e resumo, nova cópia da listagem de sequências assim como, argumentos
+em defesa do mérito do presente pedido frente ao estado da técnica citado no pré-exame.
+
+           Cabe ressaltar que, o exame foi realizado sob a orientação da Norma de Execução SEI nº
+7/2019/DIRPA/PR (páginas 36-46), que estabelece os procedimentos de exame após exigência
+preliminar (6.20  Resolução INPI/PR nº 227, 25/10/2018, ora revogada) que forem realizados na
+vigência da Resolução INPI/PR nº 241/2019 (6.21). Neste sentido, conforme a determinação, o
+presente exame foi realizado com base na Resolução INPI/PR nº 241/2019.
+
+
+
+          Quanto ao exame técnico anterior (RPI nº 2561, de 04/02/2020):
+
+           No parecer técnico anterior foi apontado que o presente pedido não está de acordo com o
+disposto nos artigos 8º, 13, 10 (IX), 24 e 25 da LPI.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                         Página 1
+                                                         BR112013016694-0
+
+
+       Por meio da petição nº 870200055375, de 04/05/2020, a depositante apresentou
+manifestação ao parecer supracitado fornecendo uma nova proposta de quadro reivindicatório,
+novas páginas 1 do relatório descritivo e resumo e nova cópia da listagem de sequências.
+
+
+
+  Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                              Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                           x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)            x
+
+O pedido refere-se a Sequências Biológicas                                                             x
+
+Comentários/Justificativas
+
+       Quanto ao encaminhamento à ANVISA (art. 229-C da LPI, incluído pela Lei
+        10.196/2001):
+
+       O INPI considerou que a matéria do presente pedido não está contemplada nas
+disposições do artigo 229-C da Lei n° 10196/2001, que modificou a Lei n° 9.279/96 (LPI).
+
+       Quanto à declaração de acesso ao patrimônio genético nacional:
+
+
+       A depositante apresentou voluntariamente por meio da petição n° 020130068545, de
+09/08/2013, a declaração negativa de acesso aos recursos genéticos nacionais para
+cumprimento da Resolução INPI nº. 207/09, substituída Resolução INPI PR nº 69/2013, na qual
+se pronunciou como segue: "Declaro que o objeto do presente pedido de patente de invenção
+não foi obtido em decorrência de acesso à amostra de componente do patrimônio genético
+nacional, realizado a partir de 30 de junho de 2000..
+
+       Quanto à Listagem de Sequências e apresentação eletrônica  Resolução nº 187, de
+        27/04/2017.
+
+       A depositante apresentou voluntariamente por meio da petição n° 020130057551, de
+27/06/2013, a listagem de sequências para cumprimento da Resolução INPI PR nº 228/09,
+substituída pela Resolução INPI PR nº 187/2017.
+
+       Por meio da petição nº 870190089083, de 09/09/2019, foi apresentada uma nova cópia
+da listagem de sequências nos moldes da Resolução INPI PR nº 228/09, substituída pela
+Resolução INPI PR nº 187/2017.
+
+       Por meio da petição nº 870200055375, de 04/05/2020, foi apresentada uma nova cópia
+da listagem de sequências nos moldes da Resolução INPI PR nº 228/09, substituída pela
+Resolução INPI PR nº 187/2017.
+
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                       Página 2
+                                                         BR112013016694-0
+
+                                     Quadro 1  Páginas do pedido examinadas
+             Elemento                                   Páginas         n.o da Petição         Data
+Relatório Descritivo                                         1         870200055375          04/05/2020
+Relatório Descritivo                                       2-56         870190089083         09/09/2019
+Listagem de sequências em
+                                                            ---               ---                ---
+formato impresso
+Listagem de sequências*                        Código de Controle      870200055375          04/05/2020
+Quadro Reivindicatório                                     1-3         870200055375          04/05/2020
+Desenhos                                                   1-9          020130057551         27/06/2013
+Resumo                                                       1         870200055375          04/05/2020
+       *Listagem de sequências em formato eletrônico referente ao código de controle
+       46BEABE2FB520F3A (Campo 1) e 20B81FCA1ED52178 (Campo 2).
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                       Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                        x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                  x
+O pedido está de acordo com disposto no art. 32 da LPI                                   x
+Comentários/Justificativas
+
+       Quanto ao artigo 10 (IX) da LPI:
+
+        No parecer técnico anterior, a antiga reivindicação 6 (anticorpo) foi recusada por incluir
+matéria que não é invenção conforme o artigo 10 (IX) da LPI. A referida matéria foi excluída na
+presente proposta de quadro reivindicatório. Logo, a objeção está retirada.
+
+
+
+                  Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                       Sim         Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                               x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                             x
+Comentários/Justificativas
+       Quanto ao artigo 25 da LPI:
+
+       No parecer técnico anterior foi apontado que a utilização do termo compreender e suas
+        variações na antiga reivindicação 1, não poderia ser aceito, pois contrariava os artigos 24 e
+        25 da LPI. Após a emenda da reivindicação 1, dentre outras modificações, o termo
+        compreender foi substituído por ter. Contudo, considera-se que a referida emenda não
+        superou a objeção anteriormente formulada. Isto porque, o termo ter, assim como
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                               Página 3
+                                                    BR112013016694-0
+
+    compreender, inclui uma leitura aberta do escopo pleiteado. Ou seja, de que o ácido
+    nucleico que tem uma sequência de nucleotídeos de acordo com a SEQ ID NO: 9-14 sob
+    controle de um promotor funcionalmente ligado ainda pode abarcar outros componentes
+    além dos citados. Neste sentido, a objeção com base nos artigos 24 e 25 da LPI está
+    mantida;
+   A atual reivindicação 1 continua não definindo de maneira clara e precisa o objeto
+    pleiteado. A expressão ter uma sequência de nucleotídeo de acordo com a SEQ ID NO:
+    9-14 não deixa claro se o ácido nucleico pleiteado é composto de uma sequência de
+    nucleotídeo selecionada do grupo que consiste das SEQ ID NO: 9-14 ligada a um promotor
+    funcional ou se é formado por uma sequência de nucleotídeo contém as SEQ ID NO: 9-14
+    ligada a um promotor funcional. A referida ambiguidade contraria o disposto no artigo 25 da
+    LPI. A mesma objeção se aplica a atual reivindicação 2.;
+   A atual reivindicação 4 continua não definindo de maneira clara e precisa o objeto
+    pleiteado. Conforme mencionado acima para a reivindicação 1, a substituição do termo
+    compreende por tendo não supera a objeção formulada com base nos artigos 24 e 25
+    da LPI;
+   Na reivindicação 4 a substituição da expressão selecionadas do grupo que consiste de
+    SEQ ID NO: 3, SEQ ID NO: 4 ou SEQ ID NO: 5 por como mostrada nas SEQ ID NO: 3,
+    SEQ ID NO: 4 ou SEQ ID NO: 5 gerou falta clareza ao escopo pleiteado, o que contraria o
+    disposto no artigo 25 da LPI;
+   Na atual reivindicação 4, visto às objeções supracitadas quanto às reivindicações 1 e 2, o
+    escopo pleiteado pela expressão um ácido nucleico isolado como definido em qualquer
+    uma das reivindicações 1 a 2, um microrganismo carregador recombinante vivo como
+    definido na reivindicação 3, ou uma combinação dos mesmos também não atende ao
+    disposto no artigo 25 da LPI. Cabe ainda ressaltar que não existem ensinamentos no
+    inicialmente apresentado que suportem o pleito de uma vacina de DNA ou contendo um
+    micro-organismo carreador do ácido nucleico das atuais reivindicações 1 a 2. O mesmo se
+    aplica atual reivindicação 8 e 10;
+   A atual reivindicação 10 faz referência a um polipeptídeo como definido em qualquer uma
+    das reivindicações 4 a 6, contudo ditas reivindicações referem-se à vacina. Neste sentido,
+    tal inconsistência gera falta de clareza ao escopo pleiteado contrariando o disposto no
+    artigo 25 da LPI. Cabe ainda ressaltar que não existem ensinamentos no inicialmente
+    apresentado que suportem o pleito do uso de um ácido nucleico e/ou de um
+    micro-organismo carreador para preparar uma vacina contra Babesiose;
+   A atual reivindicação 12 continua não definindo o escopo pleiteado com clareza, o que
+    contraria o disposto no artigo 25 da LPI. Uma reivindicação de kit define um tipo específico
+    de produto que contém dois ou mais componentes distintos embalados juntos ou não, e
+    esses componentes trabalham juntos para uma finalidade específica ou para alcançar um
+    resultado específico. A atual reivindicação 11 está caracterizada por conter apenas um
+
+
+    Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                        Página 4
+                                                        BR112013016694-0
+
+       componente que inclusive, para o caso do polipeptídeo, inclui matéria que não é invenção.
+       Neste sentido, a reivindicação carece de clareza porque não há indicação na reivindicação
+       quanto à natureza de um segundo componente que trabalhe em conjunto com o
+       polipeptídeo ou sequência de nucleotídeo para obter um resultado específico.
+
+
+      Quanto ao artigo 24 da LPI:
+       O inicialmente apresentado aponta que havia a necessidade do fornecimento de um
+componente antigênico que possa ser usado para produzir uma vacina eficaz, segura e confiável
+para a proteção contra a infecção e/ou a doença causada pelos parasitas caninos Babésia; o
+componente de vacina deve superar as desvantagens das vacinas SPA clássicas, e proteger não
+apenas contra a infecção contra os parasitas Babésia homólogos, mas também contra os
+heterólogos. No que se refere a matéria da atual reivindicação 4, considera-se que não existem
+dados no inicialmente apresentado que suportem o pleito de uma vacina para caninos contra
+Babesiose conforme ora pleiteada. Isto porque, os dados apresentados foram obtidos da
+inoculação apenas de uma sequência de tamanho natural não claramente definida de CBA -1. Da
+leitura do inicialmente apresentado, infere-se que a sequência de tamanho natural de CBA -1
+refere-se a SEQ ID NO: 6. Em uma leitura mais abrangente o inicialmente apresentado apenas
+revelou a inoculação de um polipeptídeo que compreende a sequência SEQ ID NO: 2 na sua
+porção N-terminal e a SEQ ID NO: 5 na porção C-terminal. Não foram demonstrados dados que
+essas sequências são capazes de proteger cães contra a infecção com parasitas B. rossi. Logo,
+os dados apresentados somente fornecem suporte para uma vacina para caninos contra B. cannis
+que compreende as SEQ ID Nos: 2 e 5;.
+       No que se refere a B. rossi, não foram demonstrados dados com a inoculação das
+sequências de CBA deste parasita com nem ao menos as sequências de tamanho natural de CBA
+-2.1 (SEQ ID NO: 7) ou CBA -2.2 (SEQ ID NO: 8). Cabe ressaltar que é entendido que o conjunto
+de exemplos elucidativos, como parte integrante do relatório descritivo, embora não limitativo,
+representa a matéria reivindicada como um todo e tem o propósito de esclarecer, elucidar ou
+ilustrar o funcionamento da invenção, conforme determina a LPI.
+
+       Acresce mencionar que as de CBA -1 e CBA -2 apresentam pelo menos 72% de variação
+nas sequências de tamanho natural (28% de identidade entre as SEQ ID Nos: 6 e 7). Mesmo
+quando se compara as sequências SEQ ID Nos: 1 e 2, verifica-se grande variação nas
+sequências (24%). Apenas essa variação já torna duvidoso para um técnico no assunto que as
+mesmas possam gerar uma resposta imune semelhante. Nesse sentido, se é difícil para um
+técnico no assunto predizer da arte prévia que a matéria revelada em um dado pedido pode
+alcançar, por exemplo, um efeito técnico prático, então informações deverão ser suficientemente
+providas para possibilitar que um técnico no assunto prove que a solução técnica da invenção
+pode satisfazer o dito efeito técnico alegado. Diante dessa observação, considera-se que não
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                     Página 5
+                                                         BR112013016694-0
+
+está dentro do escopo das expectativas de um técnico no assunto que sequências com alta
+variação sejam capazes de gerar respostas imunes semelhantes.
+
+         Tendo em vista que a matéria pleiteada refere-se a uma vacina, que implica em um efeito
+é expressado na reivindicação, ou seja, proteção dos cães contra Babesia, na ausência de
+dados que comprovem que o problema técnico foi resolvido por todo escopo pleiteada há
+falta da descrição suficiente. Logo, ratifica-se que a matéria ora pleiteada contraria o
+disposto no artigo 24 da LPI.
+
+
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                              Data de
+                                                                                             publicação
+    D2                                                 EP1238983                             11/09/2002
+         No que se refere aos documentos considerados estado da técnica, o presente exame está
+seguindo a determinação dos itens 5.1.6 e 5.2.1 e do art. 5º da Norma de Execução SEI nº
+7/2019/DIRPA/PR. Assim, cabe ressaltar que como a Busca foi considerada realizada na etapa de
+exigência de Pré-exame (6.20) - conforme item 5.2.1 da referida Norma de Execução SEI nº
+7/2019/DIRPA/PR - os documentos avaliados no presente exame estão limitados aos documentos
+citados na exigência de Pré-exame (6.20), publicada na RPI nº 2492, de 09/10/2018.
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade1                                    Cumprimento   Reivindicações
+                                                                           Sim            1-11
+             Aplicação Industrial
+                                                                          Não              ---
+                                                                           Sim            1-11
+                     Novidade
+                                                                          Não              ---
+                                                                           Sim             ---
+             Atividade Inventiva
+                                                                          Não             1-11
+
+
+
+Comentários/Justificativas
+
+         Conforme mencionado anteriormente, dada a imprevisibilidade de que o ácido nucleico
+ora pleiteado possa de fato, produzir polipeptídeos capazes de resolver a necessidade apontada
+no presente pedido, a demonstração se torna necessária. No entanto, não foi possível encontrar
+no inicialmente apresentado dados que demonstrem que todos os polipeptídeos pleiteados
+solucionam o problema ora apresentado.
+
+         Em sua manifestação, a depositante sustenta que, conforme concluído dos resultados
+mostrados (Exemplo 2), o polipeptídeo CBA-1 e o CBA-2.1 exibem um único epítopo de
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 6
+                                                          BR112013016694-0
+
+
+proteção cruzada que é reconhecido por um soro de desafio à vacinação contra SPA de B. canis
+e por um soro contra B. rossi. Neste sentido, a depositante argumenta que seria credível que
+também CBA-2.1 e CBA-2.2 forneçam proteção contra a Babesia. O presente exame não
+considera a argumentação persuasiva. Conforme discutido no Quadro 3, embora, tenha sido
+demonstrado que o polipeptídeo CBA-1 e CBA-2.1 isoladamente são reconhecidos por um soro
+de desafio à vacinação contra SPA de B. canis ou rossi, um técnico no assunto sabe que a
+variação de sequências, o mecanismo complexo de apresentação de antígenos, a estabilidade
+estrutural das polipeptídeos são fundamentais para a apresentação eficiente de peptídeos
+antigênicos no MHC, que por sua vez desempenha um papel decisivo no desencadeamento de
+reações imunes. Mesmo que fosse considerado que epítopo conservado em CBA-1 e o CBA-2.1
+(SEQ ID NO: 15) pudesse ser responsável por desencadear uma resposta imune protetora
+contra as duas espécies de Babesia, dado o complexo mecanismo de apresentação antígenos e
+de desenvolvimento de resposta imune, tal efeito seria uma possibilidade e não um fato,
+precisando assim, ser demonstrado. Não foi possível encontrar descrição suficiente de que um
+polipeptídeo B. rossi tal como ora pleiteado seja capaz de gerar o efeito alegado. Tampouco que
+as SEQ ID NO: 2 e 5 sejam capazes de gerar proteção contra as duas espécies de Babesia. Na
+falta de tais evidências, considera-se que o problema identificado no presente pedido não foi
+resolvido e, portanto, ratifica-se que o requisito de atividade inventiva não foi atendido,
+descumprindo os artigos 8º e 13 da LPI.
+
+
+
+Conclusão
+
+       O presente pedido não atende ao disposto nos artigos 8º, 13, 24 e 25 da LPI.
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -      não apresenta suficiência descritiva (Art. 24 da LPI)
+
+      -      as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+             descritivo (Art. 25 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                                             Rio de Janeiro, 3 de agosto de 2020.
+
+
+
+
+Vania Lucia Ferreira Linhares da Silva
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                   Página 7
+                                                      BR112013016694-0
+
+Pesquisador/ Mat. Nº 1473306
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+      Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12        Página 8
+

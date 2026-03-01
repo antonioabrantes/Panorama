@@ -1,0 +1,240 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI1011883-7                N.° de Depósito PCT:US2010/038683
+ Data de Depósito:                   15/06/2010
+ Prioridade Unionista:               US 61/187.132 (15/06/2009)
+ Depositante:                        Amarin Pharma, Inc. (US)
+ Inventor:                           Ian Osterloh, Pierre Wicker, Rene Braeckman, Paresh Soni, Mehar
+                                     Manku
+ Título:                             Uso de composições contendo ácido eicosapentaenóico para
+                                     redução de triglicerídeos e LDL-C em um paciente sob o tratamento
+                                     concomitante com estatina.
+
+                                                                PARECER
+
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-64               870200080419           29/06/2020
+Quadro Reivindicatório                                     1-3               870200080419           29/06/2020
+Desenhos                                                    -                       -                   -
+Resumo                                                      1                870200080419           29/06/2020
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                         X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                 X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                          Página 1 de 5
+                                               PI1011883-7
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+
+
+Comentários/Justificativas
+
+         Com base no novo quadro reivindicatório apresentado, entende-se que a objeção sobre
+clareza e precisão do quadro foi superada.
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                 US2007191467                                   16/08/07
+    D2                                 WO2008045465                                   17/04/08
+    D3                                   WO0044361                                    03/08/00
+    D4          YOKOYAMA M ET AL. E ects of eicosapentaenoic acid on                  2007
+                 major coronary events in hypercholesterolaemic patients
+               (JELIS): a randomised open-label, blinded endpoint analysis.
+                        The Lancet Vol 369, pp. 1090-1098 (2007)
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento            Reivindicações
+                                                        Sim                     1-16
+            Aplicação Industrial
+                                                        Não                       -
+                                                        Sim                     1-16
+                 Novidade
+                                                        Não                       -
+                                                        Sim                     1-16
+            Atividade Inventiva
+                                                        Não                       -
+
+
+Comentários/Justificativas
+
+         O presente pedido refere-se ao uso de uma composição farmacêutica compreendendo 4 g
+de pelo menos cerca de 95%, em peso de todos os ácidos graxos presentes, de ácido
+eicosapentaenoico (EPA) por dia, para a fabricação de um medicamento para redução de
+triglicerídeos e LDL-C em um sujeito em terapia com estatina estável.
+
+
+
+
+                                                                                       Página 2 de 5
+                                         PI1011883-7
+
+       O primeiro parecer técnico concluiu que a matéria das reivindicações pleietada não
+apresentava atividade inventiva frente aos documentos D1, D2 e D4 (Arts. 8o e 13 da Lei
+9279/96); além disso, o quadro continha termos que não definiam de maneira e precisa a matéria
+pleiteada (Art. 25 da Lei 9279/96).
+
+       Com base no novo quadro reivindicatório e em todos os esclarecimentos apresentados
+pela Requerente, entende-se que a objeção sobre clareza e precisão do quadro foi superada;
+entretanto, o presente pedido carece de atividade inventiva frente a D1, D2 e D4, conforme
+discutido adiante.
+
+       Primeiramente, cabe retomar os documentos relevantes do estado da técnica.
+
+       O documento D1 (US2007191567) revela o tratamento da hipertrigliceridemia com uma
+terapia de combinação de uma estatina e Omacor, uma mistura de dois ácidos graxos ômega-3
+poliinsaturados: EPA e DHA. Uma unidade de dosagem de Omacor tem, no mínimo, 430 mg/g de
+EPA e 347 mg/g de DHA, o total dos ácidos graxos sendo 90% em peso da formulação (ver D1
+[0069], [0072]). O grupo de pacientes tratados em D1 tem uma linha de base de triglicerídeos
+entre 200 e 499 mg/dl (ver D1 [0038]).
+
+
+       Como discutido no primeiro parecer técnico, D1 não descreve uma dose de 4 gramas de
+EPA por dia como recitada na reivindicação 1, bem como uma quantidade de 95% de EPA em
+peso de todos os ácidos graxos presentes. A quantidade de EPA nas formulações de D1 é de
+aproximadamente 55% em peso para os dois ácidos graxos presentes (430 mg/g de EPA contra
+347 mg/g de DHA).
+
+       Sobre D1, a Requerente demonstra que D1 descreve que a administração de ácidos
+graxos ômega-3 (Omacor®) e sinvastatina (Zocor) em pacientes que foram tratados
+inicialmente com 40 mg/dia de sinvastatina por pelo menos 8 semanas (terapia com estatina
+estável) causou um aumento de 3,5% nos níveis de LDL-C (valor de p=0,0522) em comparação
+com indivíduos que receberam placebo (vide D1 no parágrafo [0090] e na Tabela 1).
+
+       Neste ponto, é importante ressaltar que o próprio documento D1 afirma que o uso das
+formulações de D1 não produziu um aumento o nível de LDL-C, porém produziu uma redução
+dos níveis de triglicerídeos e de não HDL-C, quando comparado ao uso do inibidor de HMGCoA
+isolado (ver D1 [0053]).
+
+       O documento D2 (WO2008045465) antecipa composições para o tratamento da
+hipertrigliceridemia com uma terapia de combinação de uma estatina e Lovaza, uma mistura de
+dois ácidos graxos ômega-3 poliinsaturados: EPA e DHA. As proporções e quantidades de EPA e
+DHA nas composições de D2 são as mesmas daquelas descritivas em D1 (ver D2 [0084]). O
+grupo de pacientes tratados em D1 tem uma linha de base de triglicerídeos em D1 está entre 200
+e 499 mg/dl (ver D2 [0098]).
+
+
+
+                                                                                 Página 3 de 5
+                                          PI1011883-7
+
+       De forma análoga a D1, a Requerente esclarece que o documento D2 revela que a
+administração de ácidos graxos ômega-3 (Lovaza®) e sinvastatina (Zocor) em pacientes que
+foram tratados inicialmente com 40 mg/dia de sinvastatina por pelo menos 8 semanas (terapia
+com estatina estável) causou um aumento de 3,5% nos níveis de LDL-C (valor de p=0,0522) em
+comparação com indivíduos tratados com placebo (vide D2 no parágrafo [000100] e Tabela 1).
+
+       Sobre D4, a Requerente esclarece que este documento ensina a administração de
+apenas 1,8 g por dia de eicosapentaenoato de etila (isto é, seis cápsulas de 300 mg por dia) (vide
+D4 na página 1091, coluna da direita). A Requerente ressalta que D4 falha em revelar ou sugerir a
+administração de 4 g por dia de EPA. Além disso, D4 falha em descrever ou mesmo sugerir
+composições úteis para diminuir triglicerídeos e LDL-C em indivíduos em terapia com estatina
+estável. Segundo a Requerente, o modelo experimental de D4 não contempla uma terapia
+estável com estatina.
+
+       Em sua manifestação, a Requerente enfatiza que os documentos D1, D2 e D4 falham em
+descrever o uso de uma composição contendo pelo menos 4 g de EPA de pelo menos 95%, em
+peso de todos os ácidos graxos presentes, de ácido eicosapentaenoico (EPA) por dia, para a
+fabricação de um medicamento para redução de triglicerídeos e LDL-C em um sujeito em terapia
+com estatina estável.
+
+       Do exposto acima, depreende-se que a Requerente defende a atividade inventiva com
+base no uso de doses mais altas de EPA (pelo menos 4 g por dia), com maior pureza (pelo menos
+95% dos ácidos graxos) para atingir uma redução de triglicecídeos e, mais importante, uma
+redução de LDL-C que não foi observada no estado da técnica apurado.
+
+       Entrentanto, conforme discutido no primeiro parecer técnico, a definição de uma mera
+posologia não é suficiente para conferir atividade inventiva a um uso já conhecido. Segundo o item
+9.1.1 da Resolução INPI/PR 208 de 27/12/17, que institui as diretrizes de exame na área de
+química, características relacionadas ao uso do composto, tais como o esquema terapêutico
+(dosagem, via de administração/aplicação, intervalo posológico) e/ou grupo de pacientes nao
+conferem novidade ao uso conhecido do composto.
+
+       Mais importante, deve-se notar que os princípios ativos usados e as enfermidades a serem
+tratadas no presente pedido são as mesmas daquelas já antecipadas em D1, D2 e D4. Embora o
+uso de uma dose mais alta de EPA ultrapuro (4 g de EPA a 95% por dia) resulte em uma redução
+de LDL-C (em contraste com um aumento de LDL-C com doses mais baixa de EPA a 55%), ou
+seja, uma alegada inversão de efeito, o mecanismo de ação envolvido e a etiologia da doença são
+os mesmos entre o presente pedido e o estado da técnica apurado (D1, D2 e D4).
+
+
+       Segundo o item 9.1.2 da Resolução INPI/PR 208 de 27/12/17, que institui as diretrizes de
+exame na área de química:
+
+
+
+                                                                                    Página 4 de 5
+                                            PI1011883-7
+
+
+       No caso das invenções de novo uso médico, alguns aspectos devem ser observados
+para aferição do requisito de atividade inventiva:
+
+       1. O mecanismo de ação do composto envolvido no novo uso não deve ser depreendido
+do seu mecanismo de ação para uso médico ja revelado no estado da técnica.
+
+       2. O novo uso deve se referir ao tratamento de uma doença cuja etiologia seja diferente
+da etiologia da doença relacionada ao uso revelado no estado da técnica.
+
+
+
+
+Conclusão
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não
+foram apresentados argumentos técnicos que permitam reverter o entendimento anterior, no
+primeiro parecer técnico (7.1) notificado na RPI 2569 de 31/03/20, visto que o presente pedido
+encontra-se em desacordo com os Arts. 8o e 13 da Lei 9279/96.
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                          Rio de Janeiro, 06 de agosto de 2020.
+
+                                                              Publique-se o indeferimento (9.2).
+
+
+
+
+Dárcio Gomes Pereira
+Pesquisador/ Mat. Nº 1741666
+DIRPA / CGPAT I/DIFAR-II
+Deleg. Comp. - Port. INPI/DIRPA No
+001/15
+
+
+
+
+                                                                                   Página 5 de 5
+

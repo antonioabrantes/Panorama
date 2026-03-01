@@ -1,0 +1,180 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0810093-4               N.° de Depósito PCT:JP2008/057583
+ Data de Depósito:                   18/04/2008
+ Prioridade Unionista:               JP 2007-112248 (20/04/2007)
+ Depositante:                        Senju Pharmaceutical CO. LTD. (JP) , Astellas Pharma INC (JP)
+ Inventor:                           Chiho Yabuta, Fumiko Yano, Mitsuyoshi Azuma
+ Título:                             Promotor de formação de nevrite 
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                        1                870190025530           18/03/2019
+Relatório Descritivo                                    2 a 24               020100064585           15/07/2010
+Quadro Reivindicatório                                      1                870190025530           18/03/2019
+Desenhos                                                 1a2                 020100064585           15/07/2010
+Resumo                                                      1                870190025530           18/03/2019
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         X
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                              PI0810093-4
+
+
+         Conforme já explicado no parecer anterior, segundo o bloco I das          DIRETRIZES DE
+EXAME DE PEDIDOS DE PATENTE, item 3.74, para reivindicações independentes do tipo
+Produto caracterizado pelo uso, em que o produto seja conhecido do estado da técnica, tal
+formulação de reivindicação não é aceita por falta de clareza, de acordo com o artigo 25 da
+LPI, uma vez que o produto deve ser definido em termos de suas características técnicas (vide
+3.10). Observa-se que, segundo as DIRETRIZES DE EXAME DE PEDIDOS DE PATENTE, item
+3.75,    na    área   farmacêutica   as    reivindicações   que   envolvem   o    uso   de   produtos
+químico-farmacêuticos para o tratamento de uma nova doença utilizam um formato
+convencionalmente chamado de fórmula suíça: "Uso de um composto de fórmula X,
+caracterizado por ser para preparar um medicamento para tratar a doença Y.
+
+         Mediante ao exposto, as reivindicações 1 a 5 atualmente pleiteadas para o presente
+pedido, através da petição de número 870190025530 e datada de 18/03/2019, incidem no artigo
+25 da LPI.
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                   Documento                               Data de publicação
+    D1                                    CA2481970A1                                   16/10/2003
+    D2                                    EP1566184A1                                   24/08/2005
+    D3                               US2006234922A1                                     19/10/2006
+    D4        Tokita, K. Et al. FK962, a novel enhancer of                                2005
+              somatostatin release, exerts cognitive-enhancing actions in rats.
+              European Journal of Pharmacology. v.527; pp. 111-120
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+        Requisito de Patenteabilidade             Cumprimento                Reivindicações
+                                                        Sim                        1a5
+              Aplicação Industrial
+                                                        Não
+                                                        Sim                        1a5
+                   Novidade
+                                                        Não
+                                                        Sim
+              Atividade Inventiva
+                                                        Não                        1a5
+Comentários/Justificativas
+
+         A requerente apresentou nova página 1, nova página do resumo contendo novo título e
+um novo quadro reivindicatório (total de 6 reivindicações) através da petição n° 870190025530,
+de 18/03/2019, em resposta ao parecer técnico de ciência, notificado na RPI n° 2502 de
+18/12/2018. No parecer anterior, considerou-se que a matéria pleiteada no presente pedido não
+era patenteável por infringir os artigos 8°, 11 (novidade), 13 (atividade inventiva) e por infringir o
+artigo 25 da LPI (clareza, precisão e fundamentação no relatório descritivo).
+
+
+
+                                                                                              Página 2
+                                            PI0810093-4
+
+
+       A requerente alega que D1 e D4 não descrevem se o composto A estimula receptores de
+somatostatina em tecidos oculares. Ainda, a requerente argumenta que D2 e D3 descrevem que
+os agonistas de receptores de somatostatina apresentam uma ação de promoção da
+neuritogênese em tecidos oculares mas que, nos exemplos, a somatostatina apenas e não o
+composto A (FK-962 ou N-(1-acetilpiperidin-4-il)-4-uorobenzamida) em si foi utilizada como um
+agonista de receptor de somatostatina.
+
+       Em acordo com a requerente, D1 a D4 não descrevem especificamente os efeitos do
+composto FK-962 em tecidos oculares. Porém, conforme descrito na página 29 das Diretrizes de
+Exame de Pedidos de Patente na Área de Química (RESOLUÇÃO/INPI/PR N 208, DE 27 DE
+DEZEMBRO DE 2017), Para ser considerada nova, a invenção de novo uso médico deve
+revelar a aplicação de um produto farmacêutico já conhecido para produzir um medicamento
+para tratar ou prevenir uma doença diferente daquela para a qual este produto já era empregado
+no estado da técnica.
+
+       Ainda, na mesma página 29 da Resolução INPI 2018 considerando a parte de atividade
+inventiva, No caso das invenções de novo uso médico, alguns aspectos devem ser observados
+para aferição do requisito de atividade inventiva:
+
+              (Item 1) O mecanismo de ação do composto envolvido no novo uso não deve ser
+depreendido do seu mecanismo de ação para uso médico já revelado no estado da técnica.
+
+
+
+              (Item 2) O novo uso deve se referir ao tratamento de uma doença cuja etiologia
+seja diferente da etiologia da doença relacionada ao uso revelado no estado da técnica.
+
+
+
+       Nesse sentido, não revelando o uso do composto FK-962 para o tratamento específico de
+neuritogênese em tecidos oculares, a matéria do presente pedido é nova.
+
+       Contudo, como os mecanismos de ação e a etiologia da doença podem ser depreendidos
+no documento D2 ou D3 (possuem as mesmas prioridades) a partir do uso da somatostatina que
+possui o mesmo mecanismo em doença de mesma etiologia, mantém-se o entendimento de que
+a matéria do presente pedido não possui atividade inventiva a partir da combinação dos
+ensinamentos de D1 (ou D4) com D2 (ou D3), uma vez que já é revela do que o FK-962 é
+indutor da somatostatina. A questão de dosagem é uma característica intrínseca do próprio
+fármaco em si (FK-962) não sendo importante para a análise de atividade inventiva pois não se
+pode inferir nenhum efeito inesperado de tal posologia, tais como efeitos adversos ou citotóxicos
+menores, por exemplo.
+
+
+
+       Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+                                                                                          Página 3
+                                          PI0810093-4
+
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                               Publique-se o indeferimento (9.2).
+
+                                                             Rio de Janeiro, 01 de julho de 2019.
+
+
+
+
+Sandro Guimarães Viveiros Rosa
+Pesquisador/ Mat. Nº 1743604
+DIRPA / CGPAT I/DIFAR-I
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/15
+
+
+
+
+                                                                                        Página 4
+

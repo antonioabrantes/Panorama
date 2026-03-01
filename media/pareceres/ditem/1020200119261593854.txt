@@ -1,0 +1,198 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102020011926-5         N.° de Depósito PCT:
+ Data de Depósito:                   12/06/2020
+ Prioridade Unionista:               US 16/443,295 (17/06/2019)
+ Depositante:                        GULFSTREAM AEROSPACE CORPORATION. (US)
+ Inventor:                           JOSHUA EAGELMAN
+ Título:                             Ferramenta para acionar uma válvula, método para fabricar uma
+                                     ferramenta para acionar uma válvula e método para acionar uma
+                                     válvula
+
+                                                                PARECER
+          De acordo com parecer técnico publicado na RPI n° 2674 de 05/04/2022, a matéria do
+presente pedido não apresenta atividade inventiva (Art. 8º combinado com 13º da LPI) e, além
+disso, o pedido está irregular, pois não atende ao disposto na IN nº 30/2013 e nos Art. 25.
+
+          Por meio da petição nº 870220039320 de 06/05/2022 o requerente apresentou
+Manifestação ao Parecer Técnico no qual apresenta suas argumentações em relação ao parecer
+técnico, além de nova via do quadro reivindicatório.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 20               870200123378           30/09/2020
+Quadro Reivindicatório                                   1a8                 870220039320           06/05/2022
+Desenhos                                                  1 (*)              870200073661           12/06/2020
+Resumo                                                      1                870200073661           12/06/2020
+* Embora o relatório descritivo indique figuras 1 a 12, a petição somente apresenta as figuras 1 a
+2B.
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR102020011926-5
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                      x
+Comentários/Justificativas
+       1. As reivindicações independentes 1, 16 e 17 não atendem ao disposto no Art. 25 da LPI e
+na IN nº 30/2013, Art. 5º (IV e V), pois não definem o preâmbulo e a parte caracterizante, isto é,
+após a expressão caracterizado por, estão descritas características já compreendidas no estado
+da técnica, sem evidenciar as características técnicas essenciais e particulares, não
+compreendidas no estado da técnica. Ver comentários após o Quadro 5.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                   US 4453579                                   12/06/1984
+
+    D2                                   FR 2590335                                   22/05/1987
+
+    D3                                   US 2755059                                   17/07/1956
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                   1 a 17
+            Aplicação Industrial
+                                                        Não                       -
+                                                         Sim                   1 a 17
+                 Novidade
+                                                        Não                       -
+                                                         Sim                      -
+            Atividade Inventiva
+                                                        Não                    1 a 17
+Comentários/Justificativas
+
+         Conforme parecer técnico anterior (despacho 7.1), D1 revela uma ferramenta para
+acionar uma válvula que compreende um eixo (12A) definindo um eixo longitudinal e configurado
+para transferir força (através da agulha (34A)) para a válvula para acionar a válvula, um corpo
+(16A) tendo uma parede envolvendo uma porção do eixo (12A), em que a parede define uma
+pista (38A) que é formada na mesma e que tem uma primeira seção de pista substancialmente
+paralela ao eixo longitudinal; e um recurso positivo (parafuso próximo a 20A) acoplado ao eixo e
+disposto na pista (38A, ver figura 8), em que o eixo (12A) é acoplado de forma deslizante ao
+corpo (16A) e quando uma força é aplicada ao eixo (12A) em uma direção alinhada com o eixo
+longitudinal, o eixo (12A) se move em relação ao corpo (16A) e o recurso positivo se move
+através da primeira seção de trilho (38A) que restringe o eixo (12A) de ser girado em torno o
+eixo longitudinal. D1 revela ainda um método para fazer uma ferramenta para acionar uma
+válvula, o método compreendendo as etapas de obtenção de um eixo (12A) que define um eixo
+
+
+                                                                                            Página 2
+                                          BR102020011926-5
+
+
+longitudinal e que é configurado para transferir força para a válvula para acionar a válvula,
+posicionando uma parede de um corpo (16A) circundando uma porção do eixo, em que a parede
+define um trilho (38A) que é formado no mesmo e que tem uma primeira seção de trilho
+substancialmente paralela ao eixo longitudinal, dispondo um recurso positivo (60) que é
+acoplado ao eixo na pista; e acoplar deslizantemente o eixo ao corpo de modo que quando uma
+força é aplicada ao eixo em uma direção alinhada com o eixo longitudinal, o eixo se move em
+relação ao corpo e o recurso positivo se move através da primeira seção de trilho que restringe o
+eixo de ser girado em torno do eixo longitudinal. D1 também revela um método para acionar
+uma válvula (P), o método compreendendo as etapas de contatar a válvula (P) com uma
+ferramenta (10), em que a ferramenta compreende um eixo (12A) definindo um eixo longitudinal
+e configurado para transferir força para a válvula para acionar a válvula, um corpo (16A) tendo
+uma parede circundando uma porção do eixo e em que a parede define uma pista (38A) que é
+formada na mesma e que tem uma primeira seção de pista substancialmente paralela ao eixo
+longitudinal e um recurso positivo (60) acoplado ao eixo e disposto na pista, em que o eixo é
+acoplado de forma deslizante ao corpo e aplica uma força ao eixo em uma direção alinhada com
+o eixo longitudinal, movendo o eixo em relação ao corpo e a característica positiva através da
+primeira seção de pista que restringe o eixo de ser girado em torno do eixo longitudinal (ver
+relatório descritivo, colunas 3 a 5, e figuras 1 a 8).
+
+       Os documentos D2 (ver resumo, relatório descritivo, página 5, e figuras 1 a 2b) e D3 (ver
+relatório descritivo, colunas 1 e 2, e figura 1) também revelam uma ferramenta que compreende
+todas as características da ferramenta da reivindicação independente 1.
+
+       Assim, a matéria pleiteada na reivindicação independente 1, que descreve uma
+ferramenta para acionar uma válvula que compreende um eixo que se estende distalmente a
+partir de uma porção de extremidade proximal de eixo até uma porção de extremidade distal
+de eixo, e em que a porção de extremidade distal de eixo do eixo define um recurso para
+acoplar com a válvula para acionar a válvula, a          primeira   seção   de   trilha   se   estende
+distalmente a partir de uma extremidade proximal de primeira seção trilha até uma
+extremidade distal de primeira seção trilha, em que o corpo se estende distalmente a partir
+de uma porção de extremidade proximal corpo até uma porção de extremidade distal de corpo, e
+em que a porção de extremidade distal de corpo define uma borda de perímetro anular
+que é configurada para fazer interface com a superfície externa da válvula, e quando o recurso
+positivo está próximo da extremidade proximal de primeira seção de trilha, o eixo está em
+uma posição nominal, e em que quando o recurso positivo está próximo à extremidade distal
+da primeira seção de trilho, o eixo está em uma posição estendida, já se encontra revelada
+pelos documentos D1, D2 ou D3 e, portanto, se encontra no estado da técnica.
+
+       Da mesma forma, a matéria pleiteada nas reivindicações independentes 16 e 17, que
+descrevem um método para fabricar uma ferramenta para acionar uma válvula e um método
+para acionar uma válvula, já se encontra revelada pelos documentos D1, D2 ou D3 e, portanto,
+se encontra no estado da técnica.
+
+
+
+
+                                                                                               Página 3
+                                         BR102020011926-5
+
+
+          Nas reivindicações dependentes não foram identificadas características que, mesmo
+quando combinadas com as características de qualquer reivindicação independente a que se
+referem, venham a prover a atividade inventiva à matéria.
+
+          Discordamos das argumentações do requerente, uma vez que todos os conjuntos de
+tubos mostrados nos documentos citados como mais próximos do estado da técnica, revelam
+válvulas adequadas para serem usadas como uma válvula de drenagem de água de um tanque
+de combustível de uma aeronave, assim como também revelam ferramentas que são integradas
+nas válvulas e adaptadas para seu acionamento.
+
+          Além disso, não foi evidenciado nas argumentações as características técnicas, ou ainda,
+a diferença ou o efeito técnico alcançado pela invenção frente aos documentos citados como
+mais próximos do estado da técnica, que justifique a patenteabilidade do pedido.
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI) e não atende ao Art. 25
+da LPI.
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                                Rio de Janeiro, 04 de julho de 2022.
+
+
+
+
+Emmanuela Lopes de Oliveira
+Pesquisador/ Mat. Nº 2316748
+DIRPA / CGPAT IV/DITEM
+Deleg. Comp. - Port. INPI/DIRPA Nº
+006/18
+
+
+
+
+                                                                                           Página 4
+

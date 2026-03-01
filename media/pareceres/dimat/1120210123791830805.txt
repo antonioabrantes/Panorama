@@ -1,0 +1,181 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112021012379-2          N.° de Depósito PCT:JP2020/005642
+ Data de Depósito:                   13/02/2020
+ Prioridade Unionista:               JP 2019-025200 (15/02/2019)
+ Depositante:                        NIPPON STEEL CORPORATION (JP)
+ Inventor:                           YOHEI OTOME; HIROKI KAMITANI; ATSUSHI SOMA; TARO OE;
+                                     NOBUAKI KOMATSUBARA; YUJI ARAI; HIDEKI TAKABE
+ Título:                             Material de aço adequado para uso em ambiente ácido
+
+                                                                PARECER
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 53               870230085455           26/09/2023
+Quadro Reivindicatório                                   1a3                 870240032872           16/04/2024
+Desenhos                                                    1                870210056288           22/06/2021
+Resumo                                                      1                870210056288           22/06/2021
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                       X
+O pedido está de acordo com disposto no art. 32 da LPI                                        X
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                          X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                        X
+
+
+                                    Quadro 4  Documentos citados no parecer
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                       BR112021012379-2
+
+ Código                               Documento                             Data de publicação
+     D3                            WO 2017/200033                                23/11/2017
+
+
+     Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+      Requisito de Patenteabilidade            Cumprimento              Reivindicações
+                                                   Sim                        1a6
+           Aplicação Industrial
+                                                   Não                        -----
+                                                   Sim                        1a6
+                   Novidade
+                                                   Não                        -----
+                                                   Sim                        -----
+           Atividade Inventiva
+                                                   Não                        1a6
+Comentários/Justificativas
+
+Após notificação de despacho de ciência (código 7.1), na RPI 2770 de 06/02/2024, a
+Requerente impetrou a petição de número 870240032872 em 16/04/2024, em resposta ao
+parecer desfavorável.
+
+Nesta petição, a Requerente apresenta novas vias do quadro reivindicatório (total de 6
+reivindicações).
+
+No que concerne ao mérito de patenteabilidade, a Requerente argumenta que o pedido pleiteia
+que o teor de O é menor que 0,0020% e D3 é silente em relação ao teor de O. O pedido pleiteia
+que o teor de Mo é menor que 1,00%, por outro lado, o Teste nº 22 de D3 contém 1,01% de Mo.
+A Requerente argumenta que o pedido apresenta a característica de que a área média de
+precipitado que é precipitado em um contorno de grão austenítico a priori é de 12,5×10 -3 µm2 ou
+menos. Por outro lado, D3 é silente em relação a área média de precipitado que é precipitado
+em um contorno de grão austenítico a priori.
+
+A Requerente argumenta que os precipitados que são precipitados nos contornos de grão
+austenítico a priori são denominados precipitados específicos.     O pedido divulga que no
+material de aço com a composição química acima mencionada e o diâmetro de grão a priori- de
+15,0 µm ou menos, quando é feita uma tentativa de obter limite de escoamento de grau 110 ksi,
+pode haver um caso em que uma grande quantidade de carboneto grosso é precipitada
+no   material de aço e do carboneto grosso no material de aço, carboneto que é precipitado
+nos contornos de grão a priori- reduz a resistência SSC do material de aço. Portanto, de
+acordo com o pedido, a área média de precipitados específicos é definida como 10,0×10 -3 µm2
+ou menos. Isso resulta em uma resistência de 110 ksi e excelente resistência a SSC.
+
+A Requerente argumenta que em D3 o penúltimo revenimento é o revenimento conduzido à
+temperatura de TT1 (ºC). E o último revenimento é o revenimento conduzido à temperatura de
+TT2 (ºC). Assim, D3 ensina que a duração de espera na temperatura de revenimento TT1 e a
+duração de espera na temperatura de revenimento TT2 foram ambas de 30 minutos.
+                                                                                         Página 2
+                                        BR112021012379-2
+
+Especificamente, de acordo com D3, o penúltimo revenimento foi realizado a 730ºC por 30
+minutos (Teste nº 22). A partir do valor da temperatura de revenimento e da duração de espera,
+o parâmetro de revenimento TMP2 (= (temperatura de revenimento (ºC) + 273) × (log (tempo de
+revenimento (min)/60) + 20) é calculado como sendo 19266 (Teste nº 22), que é superior a
+19000. Nesses casos, uma quantidade suficiente de Mo dissolvido pode não ser obtida durante
+o aquecimento no último resfriamento.
+
+Todos os argumentos da Requerente foram levados em consideração e são tratados em detalhe
+doravante.
+
+Os argumentos da Requerente não foram considerados assertivos. No que diz respeito ao
+elemento O, D3 não divulga a presença de tal elemento na composição química do aço, ou seja,
+o intervalo pleiteado de O menor do que 0,0020% é atendido. No que diz respeito ao teor de Mo,
+D3 divulga o intervalo de 0,10 a 1,50% em massa de Mo no aço (Reivindicação 1 de D3). Tal
+intervalo sofre significativa interseção com o intervalo pleiteado pela reivindicação independente
+1 do pedido (0,70-1,00%).
+
+Como apontado no parecer precedente, a composição química do aço divulgado por D3
+(Reivindicações de D3) sofre significativa interseção com os intervalos pleiteados pela
+reivindicação independente 1 do pedido. D3 divulga que seu objetivo é fornecer um tubo de aço
+sem costura que possa ter tanto um alto limite de escoamento de 95 ksi (655 MPa) a menos de
+125 ksi (862 MPa) e excelente resistência a SSC e pode suprimir variações de força nas
+direções circunferencial e axial (linhas 83 a 86 da página 3 da tradução de D3). D3 apresenta o
+Exemplo D, o qual atende a Fórmula (1) e o tamanho de grão austenítico pleiteado pela
+reivindicação independente 1 (11,3 µm de acordo com a Tabela 3 de D3). Mesmo que D3 não
+divulgue explicitamente uma área média de precipitado que é precipitado em um contorno de
+grão austenítico de 12,5x10-3 µm2 ou menos, D3 divulga um aço de composição química
+equivalente, microestrutura e propriedades físicas equivalentes as do pedido.
+
+A Requerente tece comentários acerca das diferenças entre os métodos do pedido e de D3,
+entretanto, o quadro reivindicatório do pedido não pleiteia o método ao qual o aço foi submetido
+para atrelar a característica ao método ao qual o aço foi submetido, além de que não foi
+apresentado efeito técnico inesperado das etapas apontadas pela Requerente sobre as
+propriedades finais do material de aço. Logo, a reivindicação 1 não apresenta atividade inventiva
+segundo o Artigo 8º combinado ao Artigo 13 da LPI.
+
+Não foram observadas características técnicas adicionais nas reivindicações dependentes 2 a 6
+que, combinadas às reivindicações as quais se refere, pudessem atender ao critério de atividade
+inventiva segundo o Artigo 8º combinado ao Artigo 13 da LPI.
+
+
+
+
+Conclusão
+
+                                                                                          Página 3
+                                       BR112021012379-2
+
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                              Rio de Janeiro, 23 de abril de 2024.
+
+
+
+
+Panmela Pereira Merlo
+Pesquisador/ Mat. Nº 2324531
+DIRPA / CGPAT IV/DIMAT
+Deleg. Comp. - Port. INPI/DIRPA Nº
+012/18
+
+
+
+
+                                                                                         Página 4
+

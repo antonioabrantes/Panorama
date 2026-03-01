@@ -1,0 +1,245 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122021006675-2         N.° de Depósito PCT: KR2018/004143
+ Data de Depósito:                   09/04/2018
+ Prioridade Unionista:               US 62/484.899 (13/04/2017)
+ Depositante:                        LG ELECTRONICS INC. (KR)
+ Inventor:                           MOONMO KOO; SEUNGHWAN KIM
+ Título:                             MÉTODO PARA DECODIFICAR E CODIFICAR UM SINAL DE
+                                     VÍDEO E MÍDIA LEGÍVEL POR COMPUTADOR 
+
+                                            PARECER
+          Em 21/12/2021 foi publicada através da RPI nº 2659, notificação de Ciência de Parecer
+conforme parecer técnico de primeiro exame do presente pedido. Tal parecer indicou
+irregularidades quanto ao disposto nos arts. 6º, 8º e 13 da LPI.
+
+          A requerente,            através        da     petição      870220023465   de   18/03/2022,    e   portanto
+tempestivamente, apresentou manifestação a respeito do parecer técnico propondo nova via do
+quadro reivindicatório com 13 (treze) reivindicações e argumentação quanto aos requisitos de
+patenteabilidade da matéria pleiteada.
+
+          Para fins de continuidade do exame, estão sendo consideradas as vias abaixo:
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição               Data
+
+Relatório Descritivo                                    1 a 44               870210031972               07/04/2021
+Quadro Reivindicatório                                   1a4                 870220023465               18/03/2022
+Desenhos                                                 1a6                 870210031972               07/04/2021
+Resumo                                                      1                870210031972               07/04/2021
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                           x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                   x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                    Página 1
+                                           BR122021006675-2
+
+
+Comentários/Justificativas ---
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                             Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI         x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI       x
+Comentários/Justificativas ---
+
+
+                            Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                               Data de publicação
+    D1      Improved coefficient coding for adaptive transforms in HEVC.           04/12/2016
+            Transform coefficient coding design for AVS2 video coding
+    D2                                                                               17/11/2013
+            standard.
+    D3      US20170078702 A2                                                         16/03/2017
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento             Reivindicações
+                                                         Sim                     1 a 13
+           Aplicação Industrial
+                                                        Não                        ---
+                                                         Sim                     1 a 13
+                  Novidade
+                                                        Não                        ---
+
+                                                         Sim                       ---
+           Atividade Inventiva
+                                                        Não                      1 a 13
+Comentários/Justificativas
+
+      A emenda realizada no novo quadro reivindicatório diz respeito a inserção das seguintes
+características técnicas:
+
+      ...em que a primeira informação sobre uma posição do último coeficiente de transformada
+não zero inclui informação de sufixo de uma posição horizontal e informação de sufixo de uma
+posição vertical para o último coeficiente de transformada não zero;; e
+
+      em que a informação de sufixo de uma posição horizontal e a informação de sufixo de uma
+posição vertical para o último coeficiente de transformada não zero são binarizadas com base em
+um código de comprimento fixo..
+
+      Além disso, a requerente apresentou argumentações quanto ao trechos apontados no
+documento D1 e sua relevância para análise da atividade inventiva do quadro reivindicatório do
+pedido em tela.
+
+
+
+
+                                                                                            Página 2
+                                         BR122021006675-2
+
+
+      Das argumentações trazidas pela requerente, destacam-se aqui alguns trechos
+considerados pertinentes:
+
+
+
+                      D1 meramente revela que a Figura 4 mostra a posição do último coeficiente
+                      significativo marcada em azul dentro de um CB 8x8 que é dividido em 4 grupos de
+                      coeficientes (CG) e que a Figura 5(b) mostra que a posição do último coeficiente
+                      significativo é codificada de acordo com o tamanho de bloco modificado (altura
+                      modificada, largura modificada), independentemente de uma região limitada
+                      sendo determinada com base em uma largura e uma altura de um bloco de
+                      transformada.
+
+                      ...a Figura 5 de D1 revela restringir a faixa de valores possíveis de posições de
+                      coeficiente de transformada não zero com base no número de vetores de base
+                      codificados, mas não revela que a região limitada no qual um último coeficiente
+                      de transformada não zero é posicionado, é determinada com base em uma largura
+                      e uma altura do bloco de transformada, conforme definido na nova reivindicação 1
+                      ora apresentada.
+
+                      []
+
+
+
+                      Logo, D1 não revela ou sugere que o último coeficiente de transformada não zero
+                      é posicionado dentro da região limitada... .
+
+                      [..]
+
+                      ...D1, D2 e D3 não revelam ou mesmo sugerem de forma clara, pelo menos, a
+                      Característica (iii) em que a primeira informação sobre uma posição do último
+                      coeficiente de transformada não zero inclui informação de sufixo de uma posição
+                      horizontal e informação de sufixo de uma posição vertical para o último coeficiente
+                      de transformada não zero e a Característica (iv) em que a informação de sufixo
+                      de uma posição horizontal e a informação de sufixo de uma posição vertical para
+                      o último coeficiente de transformada não zero são binarizadas com base em um
+                      código de comprimento fixo, conforme discutido ao longo destas razões.
+
+
+
+       Respeitosamente, discorda-se das alegações da requerente tendo em vista que:
+
+   1. D1 antecipa a característica de o bloco de codificação é dividido em grupos de
+       coeficientes. Em D1, a Figura 4 mostra a última posição significativa do coeficiente
+       marcada em azul dentro de um bloco de coeficientes (CB) 8×8 que é dividido em 4 grupos
+       de coeficientes (GC), coeficientes estes gerados pela aplicação de transformada, neste
+       cenário, as coordenadas da última posição significativa do coeficiente poderiam ser (x, y)
+       onde 0 < (x, y) < N  1. Porém, D1 também antecipa a característica de impor uma
+
+
+                                                                                                Página 3
+                                       BR122021006675-2
+
+
+       restrição sobre a posição do último coeficiente codificado e nos valores das coordenadas
+       (x, y) de acordo com um tipo de transformada aplicada. Por exemplo, com m < N
+       coeficientes transformados, nem todos os valores de (x, y) não serão possíveis,
+       considerando todo a unidade de transformada. Ou seja, haverá uma limitação que irá se
+       basear na altura e largura do bloco de transformada. (em D1, ver o trecho logo após a
+       Tabela 1, na seção IV. MODIFIED LAST SIGNIFICANT COEFFICIENT CODING).
+
+   2. D1 antecipa a característica de dividir e limitar uma região dentro de um bloco de
+       codificação de acordo com a transformada aplicada. O trecho de D1 no último parágrafo da
+       página 3 e primeiro parágrafo da página 4 é explicito em afirmar: This imposes a
+       constraint on the position of the last coded coefficient and on the values of coordinates (x,
+       y)..
+
+   3. D1 aponta diretamente que "Suffix is binarized using a fixed length coding" (ver em D1 o
+       quarto parágrafo da seção IV. MODIFIED LAST SIGNIFICANT COEFFICIENT CODING).
+       Como D1 também já utiliza a denotação de que as informações de posição são divididas
+       em coordenadas x (horizontal) e y (vertical), é implícito que ao citar o sufixo, as duas
+       componentes serão binarizadas com base em um código de comprimento fixo.
+
+
+
+       Quanto aos documentos D2 e D3, a requerente não apresentou nenhuma argumentação
+direta quanto aos trechos apontados no parecer de primeiro exame. Desta maneira, reitera-se
+aqui os trechos já apontados:
+
+       a) Em D2: toda a seção 3.1 Last CG position coding;
+
+       b) Em D3: parágrafos 0226 a 0231, 0301, 0302, 0327 a 0329.
+
+       Como as emendas realizadas nas demais reivindicações independentes 12 e 13 dizem
+respeito às mesmas características técnicas já analisadas para a reivindicação independente 1, as
+mesmas argumentações são válidas para as referidas reivindicações.
+
+       Quanto ao apontamento sobre a possibilidade de dupla proteção para o pedido em tela e o
+seu pedido original BR112019021593-0, concordamos com as alegações trazidas pela requerente
+de que a matéria do novo quadro reivindicatório do pedido dividido é alternativa à matéria
+pleiteada pelo pedido mãe e, consequentemente, ambos os pedidos estão de acordo com o
+disposto no Art. 6º da LPI..
+
+       Sendo assim, diante do exposto neste parecer, mantemos a opinião de que a matéria
+pleiteada nas reivindicações de 1 a 13 não apresenta atividade inventiva frente os documentos
+D1, D2 ou D3, pois estes constituem-se como representativos do estado da técnica, sendo
+capazes de, individualmente, fornecerem conhecimentos para que um técnico no assunte derive
+de forma trivial os objetos pleiteados no presente pedido, o que faz com que o quadro
+reivindicatório não cumpra o requisito de atividade inventiva, infringindo assim o Art. 8º em
+combinação com o Art. 13 da LPI.
+
+
+
+
+                                                                                           Página 4
+                                       BR122021006675-2
+
+
+Conclusão
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                                Rio de Janeiro, 12 de abril de 2022.
+
+
+
+
+Camila Duarte Rodrigues Lopes
+Pesquisador/ Mat. Nº 2357468
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+015/18
+
+
+
+
+                                                                                           Página 5
+

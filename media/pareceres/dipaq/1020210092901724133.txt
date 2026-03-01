@@ -1,0 +1,324 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR102021009290-4     N.° de Depósito PCT:
+ Data de Depósito:                     13/05/2021
+ Prioridade Unionista:                 -
+ Depositante:                          MLA SUPRIMENTOS MÉDICOS LTDA. (BRSP)
+ Inventor:                             JORGE GABRIEL DOS SANTOS BATISTA; VELAPHI CLEMENT
+                                       THIPE; ADEMAR BENÉVOLO LUGÃO; HERNÁN CORTÉS GÓMEZ;
+                                       RAPHAEL GOMES SCAVONE @FIG
+ Título:                               FILTRO TROCADOR DE CALOR E UMIDADE COM ATIVIDADE
+                                       BIOCIDA, MÉTODO DE PREPARAÇÃO DE FILTRO TROCADOR DE
+                                       CALOR E UMIDADE COM ATIVIDADE BIOCIDA E USO DE
+                                       NANOPARTÍCULAS DE PRATA
+
+                                                              PARECER
+           Na RPI nº 2633 (de 22/06/2021) foi notificado o requerimento de trâmite prioritário para o
+presente pedido (despacho 28.10.12), sendo o exame prioritário concedido, devido a participação
+no Exame Prioritário Estratégico  Tecnologia para tratamento do Covid-19, conforme notificado
+na RPI nº 2636, de 13/07/2021 (despacho 28.30).
+
+           Deste modo, trata o presente pedido de um pedido de patente incluso no exame prioritário,
+e como tal não participante da exigência preliminar inserida no programa do plano de ataque ao
+backlog no âmbito da DIRPA/INPI, conforme disposto no artigo 2º  inciso II da
+Portaria/INPI/DIRPA nº 01, de 01/04/2021, que alterou a Resolução INPI/PR nº 240, de
+03/07/2019.
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim   Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                  ---    x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)   ---    x
+
+O pedido refere-se a Sequências Biológicas                                                            ---    x
+
+Comentários/Justificativas
+
+           A depositante voluntariamente apresentou por meio da petição n° 870210043517, de
+13/05/2021, a declaração negativa de acesso aos recursos genéticos nacionais para
+cumprimento da Resolução INPI nº. 207/09, substituída Resolução INPI PR nº 69/2013, na qual
+se pronunciou como segue: "Declaro que o objeto do presente pedido de patente de invenção
+não foi obtido em decorrência de acesso à amostra de componente do patrimônio genético
+nacional, realizado a partir de 30 de junho de 2000..
+
+                                         Quadro 1  Páginas do pedido examinadas
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                             Página 1
+                                                        BR102021009290-4
+
+            Elemento                                   Páginas         n.o da Petição           Data
+Relatório Descritivo                                      1-30         870230022951           17/03/2023
+Listagem de sequências em
+                                                           ---               ---                 ---
+formato impresso
+Listagem de sequências*                       Código de Controle             ---                 ---
+Quadro Reivindicatório                                     1-2         870230022951           17/03/2023
+Desenhos                                                   1-8         870210043517           13/05/2021
+Resumo                                                      1          870230022951           17/03/2023
+
+       Por meio da petição nº 870210043517, de 13/05/2021, a depositante apresentou um
+relatório descritivo (30 páginas), um quadro reivindicatório (04 páginas; total de 17 reivindicações),
+desenhos (08 páginas) e resumo (1 página).
+       Em resposta ao parecer técnico, notificado na RPI 2673 de 29/032022, a Requerente por
+meio da petição 870220055911, de 27/06/2022, apresentou seus esclarecimentos quanto a
+patenteabilidade do presente pedido e submeteu novas vias das páginas 20, 23 e 30 do relatório
+descritivo e um novo quadro reivindicatório (14 reivindicações).
+       Em resposta ao parecer técnico, notificado na RPI 2696 de 06/09/2022, a Requerente por
+meio da petição 870220112431, de 02/12/2022, apresentou seus esclarecimentos quanto a
+patenteabilidade do presente pedido e submeteu novas vias do relatório descritivo, um novo
+quadro reivindicatório (06 reivindicações) e resumo. O quadro reivindicatório apresentado (petição
+870220112431, de 02/12/2022) foi recusado, conforme disposto na Resolução nº 093/2013, pois
+houve alteração da matéria reivindicada (Artigo 32 da LPI). Por conseguinte, o quadro examinado
+foi o quadro anterior válido (petição 870220055911, de 27/06/2022) consistindo de 14
+reivindicações.
+       Em resposta ao parecer técnico, notificado na RPI 2713 de 03/01/2023, a Requerente por
+meio da petição 870230022951, de 17/03/2023, apresentou seus esclarecimentos quanto a
+patenteabilidade do presente pedido e submeteu novas vias do relatório descritivo, um novo
+quadro reivindicatório (06 reivindicações) e resumo.
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                          Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                     ---        x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                             ---        x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                  x         ---
+O pedido está de acordo com disposto no art. 32 da LPI                                   x         ---
+Comentários/Justificativas
+
+       Com as alterações apresentadas pela Requerente, os impedimentos alegados no
+parecer anterior quando ao Artigo 32 da LPI foram superados.
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                Página 2
+                                                         BR102021009290-4
+
+                  Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI           x              ---
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI        ---             x
+Comentários/Justificativas
+         Em parecer técnico anterior foi relatado à requerente que a expressão fibra polimérica de
+celulose era muito ampla, e em nenhum momento foi mostrado qual seria a possível fonte dessa
+celulose (Artigo 25 LPI).
+         Por meio da petição 870230022951, de 17/03/2023, a requerente continua a afirmar que a
+presente invenção não tem como objetivo a proteção da fibra polimérica de celulose em si, mas
+sim incluir uma função antimicrobiana de amplo espectro de interesse hospitalar em um produto já
+existente e de padrão mundial que é o próprio filtro trocador de calor e umidade. Assim, a
+depositante entende que não há necessidade de apresentar detalhes técnicos da referida fibra,
+tendo em vista que esta é amplamente utilizada nos filtros trocadores de calor e umidade dos
+respiradores mecânicos.
+         Embora a requerente esclareça que a fibra polimérica de celulose não é o objeto de
+proteção em si, é necessário que a mesma esteja descrita de forma suficiente de modo a
+permitir que um técnico no assunto possa reproduzir a invenção. Ou seja, não se sabe qual tipo
+de fibra de celulose foi utilizada e sabe-se que o tipo, a quantidade o seu método de obtenção,
+suas características são propriedades importantes para obtenção de uma atividade
+antimicrobiana. O desempenho da impregnação não é só dependente da ação das
+nanopartículas de prata como também da superfície da fibra de celulose ao qual foi impregnada.
+O documento D1 ensina que diferentes substratos, ou seja, diferentes tipos de fibras de celulose
+dão origem a diferentes resultados morfológicos e atividades antimicrobianas (D1: págs. 29-32).
+
+         Portanto, a expressão fibras poliméricas de celulose é ampla e pode envolver uma
+ampla variedade de materiais que contenham celulose.
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                    Data de publicação
+    D1        Salomé Soares da Silva Moço. Impregnação de fibras de                     11/2013
+              celulose com nanopartículas de prata, óxido de zinco e óxido de
+              cobre para aplicações anti-bacterianas; Dissertação para
+              obtenção do Grau de Mestre em Engenharia de Materiais.
+              Faculdade de Ciências e Tecnologia, Universidade Nova de
+              Lisboa. Novembro 2013
+    D2        Paula de Freitas Rosa & Mônica Lopes Aguiar & André                         2017
+              Bernardo; Modification of Cotton Fabrics with Silver
+              Nanoparticles for Use in Conditioner Air to Minimize the
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                          Página 3
+                                                         BR102021009290-4
+
+              Bioaerosol Concentration in Indoor Environments. Water Air
+              Soil Pollut (2017) 228: 244. DOI 10.1007/s11270-017-3429-y
+    D3        Quang Huy Tran, Van Quy Nguyen and Anh-Tuan Le; Silver                             2013
+              nanoparticles: synthesis, properties, toxicology, applications and
+              perspective. Advances in Natural Sciences: Nanoscience and
+              Nanotechnology 4 (2013) 033001
+    D4        CN2668165Y                                                                     05/01/2005
+    D5        CN202950039                                                                    29/05/2013
+    D6        Mahendra Rai, Alka Yadav, Aniket Gade; Silver nanoparticles as                     2009
+              a new generation of antimicrobials Biotechnology Advances 27
+              (2009) 7683. doi:10.1088/2043-6262/4/3/033001
+    D7        S. I. Jinga, G. Isopencu, A. Stoica- Guzun , M. Stroescu , M.                      12/2013
+              Ferdes , B. Ohreac; Silver green synthesis on bacterial cellulose
+              membranes using tannic acid; Digest Journal of Nanomaterials
+              and Biostructures Vol. 8, No. 4, October  December 2013, p.
+              1711 - 1717
+         Em buscas realizadas foram encontrados os documentos D1-D7, os quais foram
+considerados relevantes para a avaliação dos requisitos de patenteabilidade do presente pedido.
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                     Cumprimento   Reivindicações
+                                                                           Sim            1-6
+             Aplicação Industrial
+                                                                          Não              ---
+                                                                           Sim            1-6
+                     Novidade
+                                                                          Não              ---
+
+                                                                           Sim             ---
+             Atividade Inventiva
+                                                                          Não             1-6
+Comentários/Justificativas
+         Em resposta ao parecer técnico, notificado na RPI 2713 de 03/01/2023, a Requerente por
+meio da petição 870230022951, de 17/03/2023, apresentou seus esclarecimentos quanto a
+patenteabilidade do presente pedido e submeteu um novo quadro reivindicatório (06
+reivindicações).
+         Com base nos argumentos e novo quadro reivindicatório apresentados pela requerente foi
+feito o reexame da matéria objeto de proteção do presente pedido.
+         Conforme relatado em parecer técnico anterior:
+
+                O documento D1 que descreve a impregnação de fibras de celulose com
+     nanopartículas de prata, para aplicações antibacterianas (dentre as bactérias testadas
+     tem-se: Staphylococcus aureus) (D1: resumo). Em D1, as nanopartículas de prata são
+     obtidas por agente redutor como o citrato de sódio (D1: pág. 7 terceiro parágrafo),
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 4
+                                                        BR102021009290-4
+      compreendendo agente estabilizador como a polivinilpirrolidona (PVP) (D1: pág. 8, linha
+      15). D1 ensina técnicas de impregnação das fibras de celulose como pulverização ou
+      imersão, destacando que o melhor método ocorre por pulverização (D1: pág. 63, 4º
+      parágrafo). D1 caracteriza suas fibras de celulose impregnadas com nanopartículas
+      utilizando o SEM, onde é possível observar as diferenças na distribuição das
+      nanopartículas ao longo das fibras de celulose. Adicionalmente, as anterioridades D1, D2
+      e D7, já preveem a aplicação de um sistema parecido na área médica e hospitalar no
+      controle antimicrobiano.
+
+       Nenhuma das anterioridades citadas descreve um filtro trocador de calor com atividade
+biocida para uso em um respirador mecânico, compreendendo fibras poliméricas de celulose
+impregnadas com uma mistura de nanopartículas de prata, obtidas tanto por ácido tânico quanto
+por citrato de sódio. Portanto, a matéria objeto de proteção do presente pedido apresenta
+novidade (Artigo 11 da LPI).
+
+       Conforme relatado em parecer técnico anterior, a matéria objeto de proteção do presente
+pedido, da forma como reivindicada, pleiteia proteção para um filtro trocador de calor e
+umidade, que é definido por ser uma fibra polimérica celulósica impregnada com uma mistura
+de nanopartículas de prata obtidas via ácido tânico e nanopartículas de prata obtidas via citrato
+de sódio; isso fica especificamente claro a partir do método de preparação do filtro trocador de
+calor e umidade descrito no relatório descritivo do presente pedido (págs. 22 e 23).
+
+       Diante do exposto, da leitura do relatório descritivo e quadro reivindicatório, conclui-se
+que o que a requerente pleiteia nada mais é do que uma fibra polimérica celulósica impregnada
+com uma mistura de nanopartículas de prata obtidas via ácido tânico e nanopartículas de prata
+obtidas via citrato de sódio.
+
+       Em seus argumentos, a requerente destaca que ...as anterioridades citadas no parecer
+tratam da aplicação de nanopartículas de prata em diferentes substratos, tais como: tecidos para
+roupas, filtros de ar-condicionado, embalagens para alimentos, tecidos para máscaras de
+proteção, curativos, panos de limpeza etc. No entanto, não existe correlação entre estas
+aplicações e o filtro trocador de calor e umidade HME, tendo em vista que são produtos com
+finalidades absolutamente distintas.
+
+       Em suma, entende-se que a fibra polimérica celulósica impregnada com uma mistura de
+nanopartículas de prata é para uso em um respirador mecânico como um filtro trocador de calor
+e umidade; entretanto, da leitura do quadro reivindicatório e relatório descritivo, o que está
+sendo solicitado pela requerente não é a aplicação dessa fibra impregnada e sim a própria
+fibra impregnada.
+
+       A requerente descreve que A fibra que é passada através de um cortador rotativo pode
+ser processada para ter as propriedades mecânicas melhoradas em relação ao seu mecanismo
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                       Página 5
+                                                        BR102021009290-4
+de ação e aplicações.. Entretanto, nenhuma condição de processamento é dada. Assim,
+nenhuma outra característica pode ser atribuída a fibra obtida. Portanto, a análise da matéria
+objeto de proteção do presente pedido será feita com base na fibra de celulose impregnada com
+nanopartículas de prata em si.
+
+       Foi apontado em parecer técnico anterior, que D1 não descreve uma mistura de
+nanopartículas de prata obtida a partir de ácido tânico e citrato de sódio (mistura de AT-AgNPs e
+CT-AgNPs) conforme no presente pedido. Em D1 é somente utilizada a nanopartícula de prata
+obtida via citrato de sódio. Mas D1 ensina que a apenas as nanopartículas de prata, obtidas via
+citrato de sódio, impregnadas em papel apresentam atividade anti-microbiana.
+
+       Sendo assim, foi questionado a requerente qual seria o efeito técnico novo e/ou
+inesperado dessa diferença entre esses sistemas. Entretanto, os dados apresentados pela
+requerente não demonstram que ocorreu um sinergismo. Aparentemente pode ser observado
+um efeito de perda da atividade antimicrobiana da AgNPs Tânico devido a presença da AgNPs
+Citrato na mesma formulação. Por esses dados é possível observar que as AgNPs tânico são
+muito mais promissoras do que as AgNPs citrato e até mesmo do que a própria formulação de
+suas misturas. Por exemplo, no caso da AgNPs Formulação 107,86 µg.ml-1, apresentaram um
+efeito antimicrobiano inferior ao das nanopartículas de AT-AgNPs 26,96 µg.ml-1. Observou-se
+que a adição de uma CT-AgNPs acaba atrapalhando a atividade da AT-AgNPs quando
+impregnadas em conjunto em fibras de celulose.
+
+       Outro fator levantado pela requerente em seus argumentos foi a questão da propriedade
+adesiva capaz de garantir o não desprendimento de AgNPs, preservando a segurança e as
+funcionalidades essenciais. Entretanto, esse seria um resultado também já esperado em D1.
+Pois, de modo a promover aumento da estabilidade das suspensões de AgNPs e agregar
+capacidade adesiva para a incorporação das AgNPs na fibra de celulose, o PVP foi o polímero
+escolhido para formulação das AgNPs do presente pedido e também foi usado em D1, devido a
+sua propriedade estabilizante e adesiva. Adicionalmente, D1 já constata no processo de
+impregnação uma grande quantidade de nanopartículas depositadas nas fibras de celulose (D1:
+pag 45).
+
+       As demais características de Avaliação da capacidade de retenção de água e
+Avaliação da carga eletrostática após a impregnação de nanopartículas de prata (AgNPs) no
+filtro do sistema trocado de calor e umidade (HMEF), não estão relacionadas com a matéria
+objeto de proteção do presente pedido da forma como reivindicada. Pois, em nenhum momento
+é mostrado o processo de preparação desse filtro de como obter uma camada particionada, ou
+conforme relatório descritivo pág. 16, l. 5-8, G - HME contendo duas camadas de fibra de
+celulose com mistura de AgNPs (AT-AgNPs e CT-AgNPs) e modificação geométrica e
+topográfica padronizada ensanduichada. Como relatado anteriormente, nenhuma condição de
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                      Página 6
+                                                          BR102021009290-4
+processamento foi apresentada no presente pedido. Assim, nenhuma outra característica pode
+ser atribuída a fibra impregnada ora reivindicada.
+
+
+
+       Assim sendo, permanece o fato da matéria objeto de proteção do presente pedido
+pleiteada nas reivindicações 1 a 6 não apresentar atividade inventiva (Artigos 8º e 13 da LPI).
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -      as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+             descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+
+                                                                              Publique-se o indeferimento (9.2).
+
+
+
+                                                                             Rio de Janeiro, 2 de junho de 2023.
+
+
+
+
+Queli Cruz Bastos
+Pesquisador/ Mat. Nº 1358581
+DIRPA / CGPAT II/DIPAQ
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 7
+

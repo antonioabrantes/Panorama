@@ -1,0 +1,159 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122019027002-3          N.° de Depósito PCT:
+ Data de Depósito:                   26/07/2011
+ Prioridade Unionista:               -
+ Depositante:                        BECTON, DICKINSON AND COMPANY (US)
+ Inventor:                           Yun Jin, Yongxian Wu
+ Título:                             Dispositivo de entrega de droga e método de entregar medicação
+                                     líquida para um cateter
+
+                                                                PARECER
+
+
+Trata-se, neste parecer técnico de 2o exame, de um pedido de patente de invenção, dividido do
+BR112013002119-5, apresentado através da petição 870190135379, de 17/12/2019.
+
+O parecer de 1o exame foi publicado na RPI no 2622, de 06/04/2021.
+
+O depositante apresentou nova manifestação através da petição no 870210057992, de
+28/06/2021, apresentando razões e novo quadro reivindicatório, com 15 reivindicações.
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-57               870190135379           17/12/2019
+Quadro Reivindicatório                                     1-3               870210057992           28/06/2021
+Desenhos                                                  1-25               870190135379           17/12/2019
+Resumo                                                      1                870190135379           17/12/2019
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR122019027002-3
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                 US2007179454                                02/08/2007
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento            Reivindicações
+                                                        Sim                     1-15
+           Aplicação Industrial
+                                                        Não                      ---
+                                                        Sim                      ---
+                 Novidade
+                                                        Não                     1-15
+
+                                                        Sim                      ---
+           Atividade Inventiva
+                                                        Não                     1-15
+
+
+
+Comentários/Justificativas
+
+Em sua manifestação, o depositante informa que de modo a cumprir integralmente as
+exigências formuladas, apresenta novas páginas do quadro reivindicatório, contendo 15
+reivindicações; destaca que os sinais de referência foram inseridos nas reivindicações; informa
+que a medida de comprimento em polegadas foi devidamente harmonizada para milímetros, de
+acordo com o Sistema Internacional de Unidades; quanto ao BR112013002119-5 apresentar
+similaridades com o presente pedido, esclarece que, na verdade, apesar de similaridade por
+ambos os pedidos compreenderem o mesmo conceito inventivo, o presente pedido define uma
+modalidade diferente em comparação à matéria de proteção, sendo alternativa ao objeto
+definido no pedido de patente original BR112013002119-5, e, portanto, encontra-se em absoluta
+conformidade com o Artigo 6° da LPI; no que tange à patenteabilidade da presente invenção, o
+documento D1 se preocupa em sugerir uma conexão por meio de duas saliências 16a e 16b
+formada em lados opostos da extremidade do receptáculo 6 para efetuar o acoplamento
+adequado com o adaptador 20, como mostrado na Figura 6 de D1, com a extremidade do
+receptáculo e o componente de cobertura do adaptador 20; entretanto, D1 não descreve ou
+sugere um dispositivo de entrega de droga que compreenda uma agulha rombuda com uma
+forma não luer com uma parede lateral, e um filtro com uma entrada para receber a agulha
+
+
+
+                                                                                          Página 2
+                                      BR122019027002-3
+
+
+rombuda, em que a agulha rombuda e o conector não luer são incompatíveis com conectores
+luer e dispositivos de acessar vias intravenosas padrões, tal como definido na reivindicação
+independente 1 do presente pedido; conclui que a matéria definida na reivindicação
+independente 1 pode ser considerada nova e inventiva, bem como alcança efeitos técnicos
+inesperados.
+
+Analisando a manifestação do depositante e, com relação à matéria pleiteada no novo quadro
+reivindicatório, apresentado através da petição no 870210057992, de 28/06/2021, reafirma-se
+que as características descritas são antecipadas pelo documento de anterioridade considerado.
+O documento D1 (ver figuras 1 e 6) revela um dispositivo de entrega de droga que compreende:
+um componente de agulha rombuda (32) incluindo uma extremidade distal aberta, uma agulha
+rombuda (36) com uma forma não luer que se estende a partir da extremidade distal aberta, a
+agulha rombuda tendo uma parede lateral incluindo uma superfície interna e uma superfície
+externa, um comprimento maior que 12,70 milímetros (considerado óbvio) e um lúmen em
+comunicação de fluido com a extremidade distal aberta; e um componente de filtragem (56)
+incluindo uma entrada (62) para receber a agulha rombuda, um conector não luer disposto
+adjacente à entrada para engatar a agulha rombuda, uma saída e um filtro fixado a uma ou a
+ambas entrada e saída em comunicação de fluido com a entrada e a saída, em que a agulha
+rombuda e o conector não luer são incompatíveis com conectores luer e dispositivos de acessar
+vias intravenosas padrões. Importante ressaltar que todo este trecho foi apresentado antes da
+expressão caracterizado por no pedido principal BR112013002119-5, sendo, portanto,
+considerado como estado da técnica pelo próprio depositante. Sendo assim, conclui-se que a
+matéria pleiteada na reivindicação independente 1 não apresenta novidade e atividade inventiva.
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+      Publique-se o indeferimento (9.2).
+
+
+Rio de Janeiro, 4 de novembro de 2021.
+
+
+Luciana de Moraes Pereira da Rosa
+Pesquisador/ Mat. Nº 1568838
+DIRPA / CGPAT IV/DINEC
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                         Página 3
+

@@ -1,0 +1,235 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR112016020715-7           N.° de Depósito PCT:CN2015/073783
+ Data de Depósito:                     06/03/2015
+ Prioridade Unionista:                 CN 201410083872.9 (07/03/2014)
+ Depositante:                          CHINA PETROLEUM & CHEMICAL CORPORATION (CN) , BEIJING
+                                       RESEARCH INSTITUTE OF CHEMICAL INDUSTRY, CHINA
+                                       PETROLEUM & CHEMICAL CORPORATION (CN)
+ Inventor:                             WEI DAI, SHULIANG LU, HAIBIN JIANG, GUOQING WANG,
+                                       XIAOHONG ZHANG, HUI PENG, JINLIANG QIAO
+ Título:                               Catalisador compósito, método para ativar um catalisador compósito,
+                                       método para preparar um catalisador, catalisador de raney ativado e
+                                       uso de um catalisador ativado 
+
+                                                                    PARECER
+
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas         n.o da Petição           Data
+
+Relatório Descritivo                                          1 a 29          870210102567           08/11/2021
+Quadro Reivindicatório                                         1a4            870210102567           08/11/2021
+Desenhos                                                        1             870160050014           08/09/2016
+Resumo                                                          1             870210102567           08/11/2021
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                 Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                       X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                               X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                         X
+O pedido está de acordo com disposto no art. 32 da LPI                                          X
+Comentários/Justificativas
+
+XXX
+
+                      Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                 Sim       Não
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                          Página 1 de 5
+                                                         BR112016020715-7
+
+
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                                  X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                                X
+Comentários/Justificativas
+
+   1. A reivindicação 1 não está clara e precisa, descumprindo o artigo 25 da LPI, bem como a Instrução
+         Normativa nº 30/2013  Art. 4º (III), uma vez que parte das características da reivindicação 1 do
+         produto está relacionada a um método de fabricação do produto, em vez de definir, claramente o
+         produto per se, ou seja, em termos de suas características técnicas. Enquanto não estiver claro em
+         quais características técnicas e mensuráveis isso resulta, essas características não podem ser
+         levadas em consideração como novidade e atividade inventiva.
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                        Data de publicação
+    D1                                              WO02083818A2                            24/10/2002
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                     Cumprimento   Reivindicações
+                                                                           Sim           1 a 13
+             Aplicação Industrial
+                                                                          Não              --
+                                                                           Sim             --
+                     Novidade
+                                                                          Não            1 a 13
+
+                                                                           Sim             --
+             Atividade Inventiva
+                                                                          Não            1 a 13
+Comentários/Justificativas
+
+      Através da petição INPI-RJ nº 870210102567 de 08/11/2021, a requerente apresentou
+manifestação ao parecer de ciência em 1ª instância, notificado na RPI N° 2640, em 10/08/2021,
+apresentando novas vias do relatório descritivo e do resumo, com título modificado, bem como
+nova via do quadro reivindicatório, com 13 reivindicações, em que contesta os critérios de não
+novidade e atividade inventiva, relativamente à matéria que se pleiteia proteção no presente
+pedido, frente ao quadro reivindicatório emendado, em contraste com os documentos do estado
+da técnica ora considerados ao exame técnico.
+
+      O presente pedido refere-se a um catalisador compósito, caracterizado pelo fato de
+consistir de carbono como uma fase contínua e partículas de liga de Raney como uma fase
+dispersa, sendo que as partículas de liga de Raney estão uniformemente ou não uniformemente
+dispersas na fase contínua de carbono, sendo que o carbono como uma fase contínua é obtido
+carbonizando pelo menos uma matéria orgânica carbonizável, a qual é um polímero orgânico, e
+sendo que o catalisador compósito compreende as partículas de liga de Raney em uma
+
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                              Página 2 de 5
+                                                        BR112016020715-7
+
+quantidade de 10 a 90% em peso, com base no peso total do catalisador compósito, e a
+quantidade de equilíbrio de carbono como uma fase contínua (reivindicação 1).
+
+      Ainda, o presente pedido refere-se a um método para preparar um catalisador, conforme
+definido na reivindicação 1, caracterizado pelo fato de compreender as etapas de: a) formular
+uma composição solidificável, sendo que a composição solidificável ou um produto solidificável
+desta compreende uma matéria orgânica carbonizável sendo um polímero orgânico, sendo que
+a composição solidificável consiste essencialmente tanto de pó de um pó termoplástico ou
+compreende o citado polímero orgânico e um solvente e/ou um dispersante líquido; b) misturar
+partículas de liga de Raney com a composição solidificável da etapa a), então solidificar a
+mistura resultante, e opcionalmente triturar a mistura solidificada, de maneira a obter um
+precursor de catalisador; e c) sob atmosfera inerte, carbonizar o precursor de catalisador da
+etapa b) em uma temperatura de 400 a 1900°C, de maneira a obter o catalisador compósito
+(reivindicação 9).
+
+      Destaca-se das argumentações da requerente que D1 revelaria que a calcinação é
+realizada após a remoção do polímero e do plastificante. Ademais, segundo a requerente, D1
+não ensina ou sugere as características de um catalisador composto compreendendo
+carbono. A requerente argumenta que antes da calcinação ou sem a calcinação, o material
+divulgado no documento D1 não contém carbono (isto é, o elemento carbono), conforme citado
+na reivindicação 1, que é entendido como o elemento carbono resultante da carbonização....
+Portanto, D1 não ensina ou sugere a carbonização de uma matéria orgânica carbonizável em
+carbono, pois não ocorre carbonização e nenhum carbono é formado no processo divulgado no
+documento D1.
+
+      A requerente argumenta, ainda, que D1 não ensina ou sugere as características de
+carbono como uma fase contínua e partículas de liga de Raney como uma fase dispersa.
+Ademais, segundo a requerente, o documento D1 não ensina ou sugere partículas de liga
+dispersas em uma fase contínua, especialmente carbono como uma fase contínua.
+
+      As argumentações da requerente foram aceitas, mas não foram consideradas
+persuasivas de modo a preencher os critérios de patenteabilidade da matéria que se pleiteia
+proteção no presente pedido, frente ao estado da técnica ora considerado à análise. Reitera-se
+a análise técnica ora provida no parecer anterior, parecer de ciência em 1ª instância, notificado
+na RPI N° 2640, em 10/08/2021:
+
+      D1 ensina um compósito de liga metálica de níquel porosa (esponja) obtida pela mistura
+de 1-30% de Nylon-6/6 e 60-90% de níquel-alumínio Raney (42% em peso de níquel e 58% em
+peso de alumínio). Plastificantes como óleo mineral ou outros ingredientes, como enchimentos,
+estabilizadores são componentes opcionais (D1, [0027]-[0028] e [0049]).
+
+      A mistura é moldada por extrusão ou por moldagem, e o material conformado pode ser
+calcinado e, em seguida, lixiviado, ou alternativamente é lixiviado e, em seguida, calcinado, em
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                 Página 3 de 5
+                                                          BR112016020715-7
+
+alta temperatura (D1, [0031]-[0061]). Portanto, o Nylon-6/6, um polímero orgânico carbonizável,
+está presente na mistura e ainda é calcinado em faixa de 200-700°C. Assim, as partículas
+porosas de níquel Raney são calcinadas, onde se esperaria uma carbonização do polímero
+orgânico (ou seja, Nylon-6/6). Portanto, D1 ensina uma mistura heterogênea com fase de
+carbono ao redor com partículas de liga metálica. Como tal, o compósito ensinado por D1 tem
+de 60-90% de partículas de de liga de Raney, com carbono disperso como os demais
+componentes.
+
+      Denota-se que as partículas porosas resultantes são do tipo de cama granular e fixa
+(diâmetro transversal de 0,1 a 2 mm) (100-2000 mícrons) (D1, [0001]-[0083]) e dispersadas no
+material de carbono. O tamanho das partículas das partículas de liga Raney ensinadas por D1
+se sobrepõe ao tamanho da espécie ora reivindicada no presente pedido, já que a reivindicação
+é ampla e indefinida para tal especificação.
+
+      Uma vez que D1 ensina e revela todos os reagentes, composição e método de fabricação
+das ditas partículas de liga catalítica porosa, as propriedades físicas da composição resultante
+(ou seja, carbono como fase contínua, e a partícula de liga como fase dispersa, etc.) estariam
+implicitamente reveladas em D1. Ainda, destaca-se, novamente, que o compósito catalisador
+ensinado por D1 contém o Ni-Al em uma quantidade de 10-90% como uma fase dispersa e o
+restante como uma fase contínua de carbono.
+
+      As partículas porosas de níquel Raney são, portanto, calcinadas e, então, a matéria
+orgânica (Nylon-6/6) é carbonizado para formar uma fase contínua de carbono conforme
+reivindicado no presente pedido. As partículas porosas resultantes são do tipo granular, tipo leito
+fixo (diâmetro transversal de 0,1 a 2 mm) (100-2000 mícrons) (D1, [0001]-(0116) e
+reivindicações 1-28), dispersadas no material de carbono. O tamanho das partículas de liga de
+Raney ensinadas por D1 se sobrepõe ao tamanho da espécie conforme reivindicado no
+presente pedido.
+
+      As análises ora consideradas para a reivindicação independente 1 são estendidas à
+reivindicação independente 9, de método. Portanto, entende-se que a matéria das
+reivindicações 1 e 9 não apresentam novidade e nem atividade inventiva frente aos
+ensinamentos de D1.
+
+Conclusão
+
+      Conclui-se, frente aos documentos do estado da técnica ora considerados ao presente
+exame técnico, que a matéria que se pleiteia proteção nas reivindicações 1 a 13 NÃO apresenta
+novidade e NÃO apresenta atividade inventiva, descumprindo o disposto nos artigos 8°, 11 e 13
+da LPI.
+      Denota-se, ainda, que a matéria que se pleiteia proteção nas reivindicações
+dependentes não conferem, por suas características técnicas particulares, em combinação às
+características técnicas de outras reivindicações, quando se referem, nenhum efeito técnico
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                 Página 4 de 5
+                                                          BR112016020715-7
+
+
+inesperado ou surpreendente capaz de conferir atividade inventiva à matéria ora reivindicada,
+descumprindo o disposto nos artigos 8° e 13 da LPI.
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -      não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI).
+
+      -      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da
+             LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a
+partir da data de publicação na RPI, para interposição de recurso.
+
+
+                                                                             Rio de Janeiro, 7 de janeiro de 2022.
+
+
+
+                                                                                Publique-se o indeferimento (9.2).
+
+
+
+Josias Azeredo Barbosa
+Pesquisador/ Mat. Nº 1882823
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº
+003/14
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                               Página 5 de 5
+

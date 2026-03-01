@@ -1,0 +1,388 @@
+                                  SERVIÇO PÚBLICO FEDERAL
+                   MINISTÉRIO DA INDÚSTRIA, COMÉRCIO EXTERIOR E SERVIÇOS
+                       INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                   RELATÓRIO DE BUSCA
+
+ N.° do Pedido:                      BR122018005392-5         N.° de Depósito PCT: EP2009/056268
+ Data de Depósito:                   25/05/2009
+ Prioridade Unionista:               DE 10 2008 026 058.4 (30/05/2008)
+ Depositante:                        Qiagen GMBH (DE)
+ Inventor:                           Roland Fabis, Anke Homann-Wischinski, Thorsten Voss, Thomas
+                                     Hanselle
+ Título:                             REAGENTE DE LISE, LIGAÇÃO E/OU LAVAGEM, USOS DE UM
+                                     REAGENTE DE LISE, LIGAÇÃO E/OU LAVAGEM E DE
+                                     TENSOATIVOS NÃO-IÔNICOS COM BASE EM POLIOXIETILENO,
+                                     MÉTODO PARA ISOLAMENTO E/OU PURIFICAÇÃO DE ÁCIDOS
+                                     NUCLEICOS, E, KIT PARA ISOLAMENTO E/OU PURIFICAÇÃO DE
+                                     ÁCIDOS NUCLEICOS
+
+
+
+                                     IPC              C12N 15/10
+ 1  CLASSIFICAÇÃO
+                                     CPC
+ 2 - FERRAMENTAS DE BUSCA
+    EPOQUE      x ESPACENET                                   x PATENTSCOPE
+    DIALOG      x USPTO                                         SINPI
+    CAPES          SITE DO INPI                                 STN
+
+
+3 - REFERÊNCIAS PATENTÁRIAS
+
+                                Número                                        Tipo    Data de Publicação Relevância *
+
+ US2004009496                                                                A1           15/01/2004            N
+ WO2006073497                                                                A1           13/07/2006            N
+
+4 - REFERÊNCIAS NÃO-PATENTÁRIAS
+
+                                Autor/Publicação                                      Data de publicação   Relevância *
+--                                                                                             --               --
+
+
+Observações: Observações: Devido à enormidade de possíveis composições contempladas
+pelo presente pedido, esta busca resta comprometida, tendo sido efetuada até o ponto em que
+pelo menos um representante de cada classe de compostos fosse obtido em associação com
+os demais.
+
+                                                                                  Rio de Janeiro, 3 de outubro de 2018.
+
+ Alex Garcia Todorov
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                      Página 1
+                                                  BR122018005392-5
+
+Pesquisador/ Mat. Nº 1358380
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+003/17
+
+
+
+
+* Relevância dos documentos citados:
+A documento que define o estado geral da técnica, mas não é       Y documento de particular relevância; a invenção
+   considerado de particular relevância;                             reivindicada não pode ser considerada dotada de
+N documento de particular relevância; a invenção reivindicada        atividade inventiva quando o documento é combinado
+   não pode ser considerada nova quando o documento é                com um outro documento ou mais de um;
+   considerado isoladamente;                                      PN documento patentário, publicado após a data de depósito
+I documento de particular relevância; a invenção reivindicada        do pedido em exame, ou da prioridade requerida para o
+   não pode ser considerada dotada de atividade inventiva ou de      pedido em exame,         cuja data de depósito, ou da
+   ato inventivo quando o documento é considerado                    prioridade reivindicada, é anterior a data de depósito do
+   isoladamente;                                                     pedido em exame, ou da prioridade requerida para o
+                                                                     pedido em exame; esse documento patentário pertence
+                                                                     ao estado da técnica para fins de novidade, se houver
+                                                                     correspondente BR, conforme o Art. 11 §2.º e §3.º da LPI.
+
+
+
+
+                                                                                                                     Página 2
+                                    SERVIÇO PÚBLICO FEDERAL
+                     MINISTÉRIO DA INDÚSTRIA, COMÉRCIO EXTERIOR E SERVIÇOS
+                         INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR122018005392-5         N.° de Depósito PCT: EP2009/056268
+ Data de Depósito:                     25/05/2009
+ Prioridade Unionista:                 DE 10 2008 026 058.4 (30/05/2008)
+ Depositante:                          Qiagen GMBH (DE)
+ Inventor:                             Roland Fabis, Anke Homann-Wischinski, Thorsten Voss, Thomas
+                                       Hanselle
+ Título:                               REAGENTE DE LISE, LIGAÇÃO E/OU LAVAGEM, USOS DE UM
+                                       REAGENTE DE LISE, LIGAÇÃO E/OU LAVAGEM E DE
+                                       TENSOATIVOS NÃO-IÔNICOS COM BASE EM POLIOXIETILENO,
+                                       MÉTODO PARA ISOLAMENTO E/OU PURIFICAÇÃO DE ÁCIDOS
+                                       NUCLEICOS, E, KIT PARA ISOLAMENTO E/OU PURIFICAÇÃO DE
+                                       ÁCIDOS NUCLEICOS
+
+                                                              PARECER
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                           x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    x
+
+O pedido refere-se a Sequências Biológicas                                                                     x
+
+Comentários/Justificativas
+
+           O presente pedido corresponde a uma divisão do pedido PI0913107-8 (pedido original),
+solicitada pela requerente por meio da petição nº 870180021854 de 19/03/2018. Inicialmente,
+cabe esclarecer que diante do disposto no artigo 28 da Instrução Normativa nº 30/2013 (IN nº
+30/2013), para a análise do presente pedido serão aproveitados todos os documentos, petições
+e despachos constantes no pedido original até a data de depósito do pedido dividido.
+
+           O presente pedido refere-se a reagente de lise, uso do mesmo, método e kit, e portanto
+não foi enviado à ANVISA nem apresenta sequências biológicas. No que tange ao cumprimento da
+exigência constante da Resolução/INPI n° 69/2013 (relativa ao acesso ao patrimônio genético), o
+depositante apresentou, por meio da petição nº 870170041353 de 16/06/2017 a declaração de que o
+objeto do presente pedido de patente de invenção NÃO foi obtido em decorrência de acesso a
+amostra de componente do patrimônio genético nacional.
+           Os documentos que compõem o presente pedido que foram examinados no presente exame
+técnico são resumidos no quadro 1.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                                Página 1
+                                                        BR122018005392-5
+
+                                    Quadro 1  Páginas do pedido examinadas
+            Elemento                                   Páginas         n.o da Petição         Data
+Relatório Descritivo                                     1-38         870180021854          19/03/2018
+Listagem de sequências em
+                                                            --                --                 --
+formato impresso
+Listagem de sequências*                       Código de Controle              --                 --
+Quadro Reivindicatório                                    1-4         870180021854          19/03/2018
+Desenhos                                                  1-2         870180021854          19/03/2018
+Resumo                                                      1         870180021854          19/03/2018
+
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+     9999999999999999 (Campo 1) e 9999999999999999 (Campo 2).
+
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                      Sim          Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                               x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                       x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                           x
+O pedido está de acordo com disposto no art. 32 da LPI                                  x
+Comentários/Justificativas
+
+       O quadro reivindicatório do presente pedido é exatamente o mesmo apresentado na
+petição 020100111520, de 29/11/2010 no pedido original. Os comentários ali tecidos no que
+concerne ao art. 22 da LPI serão aqui repetidos pois se aplicam integralmente à matéria
+pretendida para proteção no presente pedido.
+
+       Analisando as matérias reivindicadas foi observado que o quadro reivindicatório
+apresenta mais de um conceito inventivo estando em desacordo com o art. 22 da LPI. Conforme
+revelado pelo presente pedido, verifica-se que as invenções tal como definidas estão
+relacionadas com um reagente de lise, ligação e/ou lavagem, um kit contendo o mesmo, o uso
+de tensoativos não iônicos com base em polioxietileno para o preparo de reagentes de lise, o
+uso do reagente de lise para isolamento e/ou purificação de ácidos nucleicos, e o uso de
+tensoativos para solubilização de lipídios de uma amostra biológica. A característica técnica
+especial no presente pedido é exatamente a natureza da composição deste reagente.
+Composições compreendendo todas estas características mencionadas já são conhecidos no
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                               Página 2
+                                                           BR122018005392-5
+
+
+estado da técnica. Vide, por exemplo, o documento D1 (parágrafos 93-94; parágrafos 17-22 e
+30-44; 91-94 e 99-100) ou D2 (parágrafos 26, 27, 29, 31, 32, 38, 46, 47 e 76), citados no Quadro
+4 abaixo.
+           À luz do estado da técnica, a característica técnica acima mencionada não é nova.
+Devido ao fato de que as características mencionadas são conhecidas no estado da técnica, e
+devido ao fato de não ser possível distinguir qualquer outra característica técnica especial que, à
+luz do estado da técnica, possa ser considerada como uma solução técnica nova, não existe um
+único conceito inventivo geral subjacente à pluralidade de invenções reivindicadas do presente
+pedido. Portanto, o quadro reivindicatório, da maneira como foi formulado, não apresenta
+unidade de invenção apresentando 4 conceitos inventivos distintos nomeados nos seguintes
+grupos:
+           Grupo I: refere-se ao reagente de lise, um kit contendo o mesmo, e o uso de tensoativos
+não iônicos com base em polioxietileno para o preparo de reagentes de lise, que é matéria das
+reivindicações 1-7, 13 e 15;
+           Grupo II: refere-se ao uso do reagente de lise para isolamento e/ou purificação de ácidos
+nucleicos que é matéria da reivindicação 8;
+           Grupo III: refere-se a um método para isolamento e/ou purificação de ácidos nucleicos,
+que é matéria das reivindicações 9-12;
+           Grupo IV: refere-se ao uso de tensoativos para solubilização de lipídios de uma amostra
+biológica, que é matéria da reivindicação 14;
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                         Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                    x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                  x
+Comentários/Justificativas
+---
+
+
+                                     Quadro 4  Documentos citados no parecer
+
+  Código                                                 Documento                           Data de publicação
+      D1        US2004009496                                                                 15/01/2004
+      D2        WO 2006073497                                                                13/07/2006
+
+
+
+
+      Quadro 5 - Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+      Requisito de Patenteabilidade                                      Cumprimento   Reivindicações
+                                                                             Sim              1-15
+               Aplicação Industrial
+                                                                            Não                --
+
+
+
+           Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                    Página 3
+                                                        BR122018005392-5
+
+
+                                                                      Sim          --
+                    Novidade
+                                                                      Não     1-7, 13 e 15
+
+                                                                      Sim          --
+            Atividade Inventiva
+                                                                      Não     1-7, 13 e 15
+
+
+
+Comentários/Justificativas
+
+       O quadro reivindicatório do presente pedido é exatamente o mesmo apresentado na
+petição 020100111520, de 29/11/2010 no pedido original. Os comentários ali tecidos no que
+concerne aos arts. 8, 11, 13 e 15 da LPI serão aqui repetidos pois se aplicam integralmente à
+matéria pretendida para proteção no presente pedido.
+
+       Conforme o quadro 2, o exame do quadro reivindicatório evidenciou mais de um conceito
+inventivo. Analisando a matéria do conceito inventivo do Grupo I das reivindicações 1-7, 13 e 15
+quanto à patenteabilidade temos que:
+
+       Antecipando a matéria das reivindicações 1, 3 e 4-6, o documento D1 revela um reagente
+de lise, ligação ou lavagem que compreende um composto caotrópico (tiocianato de guanidínio),
+um tampão (Tris) e Triton X-100 a 18% (p/v), o qual é um tensoativo não-iônico baseado em
+polioxietileno, especificamente um polioxietileno alquil fenil éter (parágrafos 93-94; parágrafos
+17-22 e 30-44). Cabe ressaltar que Triton X-100 é um isooctilfenil éter de polioxietileno.
+       Ainda antecipando a matéria da reivindicação 1, e também da reivindicação 5, D1 revela
+que o detergente não-iônico pode estar presente no reagente a uma concentração entre 5 e
+30% (p/v) (parágrafo 39). Além disso, D1 também revela que o tampão pode ser MES, HEPES,
+MOPS ou fosfato (parágrafos 30 e 34).
+
+       Ainda antecipando a matéria da reivindicação 1, e também da reivindicação 2, D1 revela
+que o surfactante não-iônico à base de polioxietileno pode ser polidocanol (parágrafo 38), que é
+um polioxietileno lauril éter, o qual compreende um componente de álcool graxo com entre 6 e
+22 átomos de carbono e um componente de polioxietileno possuindo entre 2 e 150 unidades
+(CH2CH2O).
+
+       Ainda antecipando a matéria da reivindicação 1, e também da reivindicação 4, D1
+também ensina que o surfactante não-iônico à base de polioxietileno pode ser NP-40 (parágrafo
+38), um polioxietileno nonilfenil éter.
+
+       Antecipando a matéria da reivindicação 6, D1 também ensina que o sal de guanidínio
+pode ser cloridrato de guanidina ou uma mistura de cloridrato de guanidínio e tiocianato de
+guanidínio (parágrafo 32).
+
+       Em relação à reivindicação 13, D1 revela um kit que compreende o reagente de lise,
+ligação ou lavagem como reivindicado no presente pedido (ver, por exemplo, os parágrafos
+17-24 e 44).
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                          Página 4
+                                                        BR122018005392-5
+
+
+       Em relação à reivindicação 15, D1 ensina um método para preparar um reagente de
+ligação, lise ou lavagem estável ao armazenamento que compreende misturar um tensoativo
+não-iônico à base de polioxietileno com um composto caotrópico e um composto tampão, em
+que o surfactante não-iônico à base de polioxietileno é um éter de álcool graxo de polioxietileno,
+especificamente polidocanol, que é um éter laurílico de polioxietileno ou um éter de alquileno de
+polioxietileno, especificamente Triton X-100 ou NP-40, e em que o surfactante não-iônico está
+presente a uma concentração entre 8 e 50% (p/v) (ver, por exemplo, parágrafos 38, 39, 44,
+91-94 e 99-100).
+
+       Frente aos ensinamentos de D1, as reivindicações 1-6, 13 e 15 não apresentam portanto
+novidade.
+
+       A matéria pretendida para proteção nas reivindicações 1-5, 7, 13 e 15 já é revelada por
+D2. Este documento revela um reagente de lise, ligação ou lavagem que compreende um glicol
+e um solvente orgânico solúvel em água ou uma mistura de solventes (parágrafos 26 e 38). D2
+ensina que o solvente orgânico solúvel em água ou a mistura de solventes compreende álcoois
+inferiores com 1-10 átomos de carbono como, por exemplo, metanol, etanol, isopropanol,
+n-propanol e suas misturas (parágrafo 27). D2 ensina ainda que os glicóis adequados para
+inclusão no reagente incluem Triton X-100, éter cetílico de polioxietileno ou éter laurílico de
+polioxietileno (parágrafos 31 e 32) e que a concentração de glicol pode variar de cerca de 0,5%
+a cerca de 20%, de cerca de 0,1% a cerca de 10%, ou de cerca de 25% a cerca de 100%
+(parágrafo 29). D2 também ensina que o reagente pode incluir IGEPAL CO-990, Brij 78 ou Brij
+98, que são sinónimos de polioxietileno nonilfenil éter, polioxietileno estearil éter e éter oleico de
+polioxietileno, respectivamente. D2 ensina ainda que o reagente pode incluir um tampão, como
+por exemplo, um tampão de fosfato (parágrafos 47 e 76) e um sal caotrópico (parágrafo 46).
+
+       Frente aos ensinamentos de D2, as reivindicações 1-5, 7, 13 e 15 não apresentam
+portanto novidade.
+
+Conclusão
+
+       O presente pedido dividido apresenta matéria que já foi examinada e que não apresenta
+mérito de patenteabilidade. Assim, de acordo com a Resolução da Presidência nº 124/2013, de
+04/12/2013 (Diretrizes de Exame de Pedidos de Patente), em seu artigo 3.137: Em caso de um
+pedido dividido ter sido gerado a partir de matéria já examinada e que não apresente mérito de
+patenteabilidade, o mesmo deverá ser indeferido, persistindo as mesmas objeções relativas a
+este mérito., o mesmo será indeferido.
+       Além disso, cabe ressaltar que o pedido original teve sua patente deferida através do
+código de despacho 16.1, publicado na RPI 2467, de 17/04/2018, e a matéria pleiteada nos dois
+pedidos se sobrepõe, o que resultaria em dupla proteção, o que está em desacordo com o
+disposto no Art. 6 da LPI. De acordo com o disposto na Resolução da Presidência nº 124/2013,
+de 04/12/2013, que instituiu as diretrizes de exame de pedidos de patente, em seus artigos
+abaixo transcritos:
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                           Página 5
+                                                          BR122018005392-5
+
+
+         3.138 O procedimento de divisão de um pedido de patente deve consistir na retirada de
+parte da matéria reivindicada que consta do pedido original para compor o(s) pedido(s)
+dividido(s). A simples replicação de parte da matéria reivindicada no pedido original para compor
+um pedido dividido, na verdade, compõe uma multiplicação de pedido e não uma divisão.
+
+         3.140 A Instrução Normativa vigente estabelece que a divisão de pedidos não poderá
+implicar em dupla proteção da invenção ou modelo de utilidade. O artigo 6° da LPI estabelece
+que ao autor de invenção ou modelo de utilidade será assegurado o direito de obter a patente
+que lhe garanta a propriedade. Para fins do entendimento deste artigo, para uma mesma
+invenção ou modelo de utilidade, não podem ser concedidas duas patentes.
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -      não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+      -      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+     -      as reivindicações ensejam dupla proteção (Art. 6 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                                             Rio de Janeiro, 3 de outubro de 2018.
+
+
+
+
+Alex Garcia Todorov
+Pesquisador/ Mat. Nº 1358380
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+003/17
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                    Página 6
+

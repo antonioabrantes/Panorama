@@ -1,0 +1,157 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:          BR122020007839-1           N.° de Depósito PCT: EP10/057156
+ Data de Depósito:       25/05/2010
+ Prioridade Unionista:   US 61/253,775 (21/10/2009); US 61/330,786 (03/05/2010)
+ Depositante:            DOLBY INTERNATIONAL AB (NL)
+ Inventor:               Lars Villemoes, Per Ekstrand
+ Título:                 Sistema configurado para gerar um componente de alta frequência
+                         de um sinal de áudio, método para gerar um componente de alta
+                         frequência de um sinal de áudio e método para projetar um
+                         transpositor de harmônicos
+                                          PARECER
+       O pedido refere-se a um sistema e um método para gerar um componente de alta
+frequência de um sinal a partir de um componente de baixa frequência do sinal utilizando-se de
+banco de filtros.
+       O presente pedido corresponde a uma divisão do pedido BR112012009375-4, solicitada
+pelo depositante por meio da petição 870200049268 em 20/04/2020. Além do pedido em tela, o
+pedido BR112012009375-4 deu origem a outros quatro pedidos divididos, a saber:
+BR122020007859-6, BR122020007862-6, BR122020007866-9, BR122020007869-3.
+       Dessa forma, considerou-se na análise anterior o relatório de busca emitido junto com o
+parecer de exigência preliminar (6.21) exarado para o pedido original BR112012009375-4 na RPI
+2560 de 28/01/2020.
+       Em 23/02/2021, por meio da petição 870210017601, a Requerente apresentou
+modificações no pedido em resposta ao parecer emitido, notificado na RPI 2604 de 01/12/2020
+(despacho 7.1). Estas modificações estão consideradas no Quadro 1.
+                                      Quadro 1  Páginas do pedido examinadas
+          Elemento                                   Páginas                 n.o da Petição     Data
+Relatório Descritivo                   1  44 (7  50 do arq. PDF)           870210017601     23/02/2021
+Quadro Reivindicatório                 1  7 (51  57 do arq. PDF)           870210017601     23/02/2021
+Desenhos                                1  8 (7  14 do arq. PDF)           870200049268     20/04/2020
+Resumo                                       1 (58 do arq. PDF)              870210017601     23/02/2021
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                          Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                        X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                  X
+O pedido está de acordo com disposto no art. 32 da LPI                                   X
+Comentários/Justificativas:----
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                       Página 1/3
+                                          BR122020007839-1
+
+
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                              Sim                Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI         X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI       X
+Comentários/Justificativas:
+       As irregularidades mais críticas apontadas no parecer anterior foram sanadas com a
+correção do novo parágrafo [0015] da p. 7/44 (antigo par. [0014] da p. 7/44).
+       A numeração dos parágrafos continua a recomeçar na página 22/44, após o par. [0050].
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                Data de publicação
+    ----                                      -----                                         -----
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                    Cumprimento            Reivindicações
+                                                          Sim                      1  12
+              Aplicação Industrial
+                                                         Não                      Nenhuma
+                                                          Sim                      1  12
+                   Novidade
+                                                         Não                      Nenhuma
+                                                          Sim                      1  12
+              Atividade Inventiva
+                                                         Não                      Nenhuma
+Comentários/Justificativas:
+
+           Da mesma forma que apontado no parecer anterior e para o pedido original
+BR112012009375-4, não são impeditivos os documentos citados no relatório de busca emitido
+junto ao parecer de exigência pré-exame (6.21) mencionado acima, estando o pedido de acordo
+com os critérios de patenteabilidade elencados no Quadro 5 frente a tais documentos.
+           No entanto, como não houve alteração do quadro reivindicatório, no pedido em tela o
+qual consiste de um pedido dividido do pedido BR112012009375-4, a matéria das reivindicações
+independentes 1, 11 e 12 do novo quadro reivindicatório (petição nº 870210017601 de
+23/02/2021) continua a apresentar sobreposição                  com a matéria das reivindicações
+independentes 1, 9 e 10, respectivamente, do quadro reivindicatório do pedido original deferido
+BR112012009375-4 (petição nº 870200049618 de 20/04/2020).
+
+           Por mais que no pedido original deferido estejam explicitadas nas reivindicações as
+transformadas executadas pelas unidades de transformação de análise e de síntese do banco
+de filtros, entende-se que a matéria pleiteada no pedido em tela contém em seu escopo um
+banco de filtros de análise e síntese cujas unidades de transformação executam uma das
+transformadas elencadas na reivindicação do pedido original deferido. Isso, porque o banco de
+
+
+
+                                                                                              Página 2/3
+                                         BR122020007839-1
+
+
+filtros que executa uma daquelas transformadas também fornece um conjunto de sinais de sub-
+banda de análise a partir do componente de baixa frequência do sinal, sendo que o banco de
+filtros de análise (501) tem um número K A de sub-bandas de análise, com K A 1 , onde k é
+um índice de sub-bandas de análise com k =0,... , K A1 ; que é a única restrição associada ao
+banco de filtros do pedido em tela.
+       No mesmo sentido, a unidade de processamento não linear do pedido original deferido
+engloba em seu escopo a unidade de processamento não linear do pedido em tela, pois no
+pedido em tela acrescenta-se uma restrição à unidade de processamento não linear do pedido
+original deferido.
+       Dessa forma, entende-se que há uma gama de realizações da invenção do pedido em
+tela que continua protegida pelo pedido original deferido, a saber, aquelas que contêm um banco
+de filtros que executam uma das transformações (Transformação de Fourier, Transformação de
+Fourier Rápida, Transformação de Fourier Discreta ou Transformação Wavelet) e uma unidade
+de processamento não linear conforme a da reivindicação 1 do pedido em tela.
+       Assim, continua-se com o entendimento de que há uma evidente duplicidade das
+referidas matérias, que continua a infringir o disposto no Art. 6º da LPI.
+
+       Deve-se ressaltar que a dupla proteção ocorre pelas realizações que estão presentes em
+ambos os escopos do pedido em tela e do pedido original deferido. Portanto, mesmo que haja
+realizações no pedido em tela que não estão no escopo do pedido original deferido, a
+duplicidade da matéria continua existindo.
+
+       De acordo com a Resolução PR INPI nº 124/2013, o procedimento de divisão de um
+pedido de patente não deve ter como consequência a replicação ou a multiplicação da matéria
+reivindicada (item 3.138). Adicionalmente, para a mesma matéria reivindicada não devem ser
+concedidas duas patentes (item 3.140). Na hipótese do pedido dividido não atender ao Art. 6º da
+LPI, o pedido dividido é passível de indeferimento (itens 3.141 e 3.142).
+
+Conclusão
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que as
+reivindicações incidem na proibição estabelecida no Art. 6º inc. VII da Lei nº 11.105/05 e/ou no
+Art. 12 da Lei nº 10.814/03.
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                   Publique-se o indeferimento (9.2).
+
+                                                                 Rio de Janeiro, 29 de abril de 2021.
+
+
+
+Fábio Pacheco Freeland
+Pesquisador/ Mat. Nº 1693846
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 008/13
+
+
+
+
+                                                                                          Página 3/3
+

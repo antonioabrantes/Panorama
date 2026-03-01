@@ -1,0 +1,195 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112013017931-7           N.° de Depósito PCT:KR2012/000341
+ Data de Depósito:                   13/01/2012
+ Prioridade Unionista:               US 61/432,779 (14/01/2011)
+ Depositante:                        SAMSUNG ELECTRONICS CO., LTD. (KR)
+ Inventor:                           LOCHAN VERMA; LUKE QIAN
+ Título:                             Método de realizar comunicação entre um dispositivo coletor e um
+                                     dispositivo de origem, em uma rede direta de wi-fi, método de realizar
+                                     comunicação entre um dispositivo de origem e um dispositivo coletor
+                                     em uma rede direta de wi-fi, dispositivo de comunicação para realizar
+                                     comunicação em uma rede direta de wi-fi, e mídia de gravação legível
+                                     por computador 
+
+                                                              PARECER
+          O presente pedido teve parecer de ciência(7.1), tendo em vista primeira conclusão
+de ausência de atividade inventiva frente ao estado da tecnica, considerando-se os
+ensinamentos do documento US20070297426(D1), tendo como base legal os artigos 8 e 13
+da LPI. A publicação do referido parecer sendo feita conforme RPI n. 2609 de 05.01.2021.
+
+          O requerente então, por meio da petição 870210031270 de 05/04/2021, apresentou
+manifestação citando trecho alterado de um novo quadro reivindicatorio para contestar o
+estado da tecnica bem como apresentou novo quadro reivindicatorio.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                1/26 a 26/26             870200008709           17/01/2020
+Quadro Reivindicatório                                 1/5 a 5/5             870210031270           05/04/2021
+
+Desenhos                                            1/13 a 13/13             020130061657           12/07/2013
+Resumo                                                     1/1               870200008709           17/01/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                       x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                Página 1
+                                           BR112013017931-7
+
+
+O pedido está de acordo com disposto no art. 32 da LPI                    x
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                              US20070297426                                  27/12/2007
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                     1-8
+           Aplicação Industrial
+                                                         Não                   Nenhuma
+                                                         Sim                     1-8
+                 Novidade
+                                                         Não                   Nenhuma
+
+                                                         Sim                   Nenhuma
+           Atividade Inventiva
+                                                         Não                     1-8
+
+
+
+Comentários/Justificativas
+
+1. As alegações do requerente foram analisadas.
+
+
+
+2. Apesar das alterações no quadro reivindicatorio,o examinador, respeitosamente discorda das
+alegações do requerente, de que o trecho citado da reivindicação 1 apresenta atividade
+inventiva pelas razões a seguir.
+
+
+
+3. Quanto a reivindicação 1, o referido metodo computacional em uma rede ponto a ponto e
+mostrado por D1(paragrafo 12), onde e antecipado:
+
+
+
+
+                                                                                          Página 2
+                                       BR112013017931-7
+
+
+    receber, mediante o dispositivo coletor, a partir do dispositivo de origem,um requerimento
+relacionado para informação indicando se uma capacidade de um canal de retorno de interface
+do usuário (UIBC) é suportada pelo dispositivo coletor,conforme D1(paragrafos 38 a 41);
+
+transmitir, mediante o dispositivo coletor, para o dispositivo de origem, informação indicando que
+a capacidade UIBC é suportada em resposta ao requerimento e informação de parâmetro
+necessária para processar uma mensagem para controlar dados de áudio/vídeo (AV) em um
+procedimento de negociação de capacidade,conforme D1(paragrafos 38 a 41,54 e 57); receber,
+mediante o dispositivo coletor , informação de disposição de UIBC, a partir do dispositivo de
+origem,conforme D1(paragrafos 38 a 41); receber os dados de entrada do usuário mediante o
+dispositivo coletor para controlar dados de áudio/vídeo (AV) sendo transmitidos do dispositivo de
+origem,conforme D1(paragrafos 38,78 e 85); gerar a mensagem para controlar dados de AV,
+mediante o dispositivo coletor, para controlar os dados de AV com base nos dados de entrada
+do usuário,conforme D1(pargarfos 78 e 85); transmitir a mensagem, mediante o dispositivo
+coletor, para o dispositivo de origem em um UIBC, através de um link ponto a ponto,no qual a
+mensagem para controlar os dados de AV incluir informações relacionadas a pelo menos um de
+uma coordenada, um poder de ampliação, uma quantidade de rolagem,uma quantidade de
+rotação, ou código ASCII,conforme D1(paragrafos 78,85,54 e 57); no qual a pelo menos um de
+uma coordenada, um poder de ampliação, uma quantidade de rolagem, uma quantidade de
+rotação,ou    código ASCII está incluído com base na informação de disposição de
+UIBC,conforme D1(paragrafos 54 e 57).
+
+
+
+
+4. Quanto a reivindicação 3, consiste de mera replicação da reivindicação 1
+
+
+
+
+5. Quanto as reivindicações 5 e 8, os referidos dispositivos coletor e de origem para fazer
+comunicação        ponto      a    ponto,consistem        dos      meios      eletrônicos       de
+comunicação/processamento digital que implementam as etapas dos metodos das
+reivindicações 1 e 6 respectivamente e são mostrados por D1(Figuras 1 a 4);
+
+
+
+
+6. Quanto as reivindicações dependentes consistem de meros detalhamentos que não
+
+apresentam atividade inventiva.
+
+
+
+
+                                                                                            Página 3
+                                      BR112013017931-7
+
+
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da
+          LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 18 de maio de 2021.
+
+
+
+
+Ronaldo de Oliveira
+Pesquisador/ Mat. Nº 1546951
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+004/15
+
+
+
+
+                                                                                        Página 4
+

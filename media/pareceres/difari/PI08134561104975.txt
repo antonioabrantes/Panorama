@@ -1,0 +1,246 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0813456-1                N.° de Depósito PCT: DK2008/050214
+ Data de Depósito:                   28/08/2008
+ Prioridade Unionista:               DK PA200701250 (31/08/2007)
+ Depositante:                        H. Lundbeck AS (DK)
+ Inventor:                           Morten Jorgensen, Benny Bang-Andersen, Ask Püschl, Niels Mork,
+                                     Jennifer Larsen
+ Título:                             Composto, uso do mesmo, composição farmacêutica, e, métodos
+                                     para tratar um mamífero sofrendo de um distúrbio e de uma doença 
+
+                                                                PARECER
+          Através da petição de n° 870190062674 de 04/07/2019, a requerente manifestou-se com
+relação ao parecer negativo notificado na RPI 2518 de 09/04/2019, apresentando um novo
+quadro reivindicatório (total de 16 reivindicações) e seus argumentos em favor do mérito do
+pedido.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                        1                020100006770           25/01/2010
+Relatório Descritivo                                      2-76               020090121691           29/12/2009
+Quadro Reivindicatório                                     1-4               870190062674           04/07/2019
+Desenhos                                                   1-2               020090121691           29/12/2009
+Resumo                                                      1                020100006770           25/01/2010
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+          No parecer técnico anterior, foi apontado que a reivindicação 12 pleitava proteção para
+um método terapêutico e infringia o disposto no artigo 10 (VIII) da LPI. No entanto, no novo
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                               PI0813456-1
+
+
+parecer apresentado, a antiga reivindicação 12 foi excluída, passando o mesmo a estar em
+conformidade o com disposto no referido artigo.
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                             Sim                Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI        x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI      x
+Comentários/Justificativas
+         As objeções realizadas no parecer técnico anterior relativas aos artigos 24 e 25 da LPI
+foram superadas no novo quadro reivindicatório apresentado, a saber:
+- Foram retiradas as possibilidades de radicais que pleiteavam compostos insuficientemente
+descritos e que não apresentavam fundamentação no relatório descritivo;
+- Os radicais em duplicata nas antigas reivindicações 2 e 10 foram retirados;
+- O termo indefinido substancialmente foi retirado das antigas reivindicações 6, 8 e 16;
+- Foram retirados os termos doenças neurodegenerativas, deficiência cognitiva, distúrbios de
+movimento que não se referiam a doenças de forma clara e precisa.
+         Assim sendo, o novo quadro reivindicatório passa a estar em conformidade com o disposto
+nos artigos 24 e 25 da LPI.
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                Data de publicação
+    D1       Liu D. et al. A novel synthesis and pharmacological evaluation of           23/06/2007
+             a         potential        dopamine         D1/D2        agonist:
+             1-Propyl-1,2,3,4,4a,5,10,10a-octahydrobenzo[g]quinoline-6,7-dio
+             l. Bioorganic & Medicinal Chemistry, 16, p. 3438-3444.
+    D2       Campbell       A.     et     al.     Behavioral     effects    of           09/09/1982
+             (-)10,11-methylenedioxy-N-n-propylnoraporphine,       an    orally
+             effective long-acting agent active at central dopamine receptors,
+             and analogous aporphines. Neuropharmacology, 21, p. 953-961.
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento             Reivindicações
+                                                         Sim                       1-16
+            Aplicação Industrial
+                                                        Não                          -
+                                                         Sim                       1-16
+                 Novidade
+                                                        Não                          -
+
+                                                         Sim                         -
+            Atividade Inventiva
+                                                        Não                        1-16
+Comentários/Justificativas
+
+
+                                                                                               Página 2
+                                          PI0813456-1
+
+       Em sua manifestação, a requerente aponta que o objetivo da presente invenção é o de
+fornecer compostos oralmente e que tenham efeito como agonistas potentes dos receptores D1 e
+D2 e que as catecolaminas correspondentes da presente invenção (incluindo o composto 4 de
+D1) são potentes agonistas duplos de D1 e D2. A requerente apresenta dados in vivo
+demonstrando a atividade do composto do exemplo 3d1 do relatório descritivo quando
+administrado oralmente em um ensaio comportamental e conclui que o pró-fármaco é ativo
+quando administrado por via oral nos ratos.
+       Em relação ao documento D1, resumidamente, a requerente aponta que o mesmo revela
+como desvantagem do composto 4 a sua baixa biodisponibilidade e que um técnico no assunto,
+visando obter compostos que sejam metabolizados no composto 4 in vivo, tendo como base os
+ensinamentos de D1, seria direcionado a buscar um caminho completamente diferente do grupo
+metilenodioxi dos compostos reivindicados. Ademais, a requerente apresenta o DOC. 01 que
+revela que tanto a apomorfina (APO) quanto N-propilnorapomorfina (NPA) são agonistas de
+dopamina ativos, sendo NPA um agonista D2 muito mais seletivo do que APO, o que levaria um
+técnico no assunto a utilizar APO e não NPA como ponto de partida.
+       Em relação ao documento D2, resumidamente, a requerente argumenta que fica claro
+que a atividade de 10,11-metilenodioxi-N-propilnoraporfina (MDO-NPA) via administração oral
+não pode ser tomada como evidência de um efeito geral de tais derivados metilenodioxi e que,
+mesmo para a apomorfina (que possui uma estrutura muito similar ao NPA), os efeitos positivos
+do grupo metilenodioxi observado para MDO-NPA na função in vivo após administração oral não
+podem ser extrapolados. Dessa forma, a requerente conclui que um técnico no assunto não teria
+qualquer razão para extrapolar as observações baseadas no MDO-NPA em outros compostos
+ainda mais diversos.
+       Dessa forma, a requerente conclui que, mesmo quando combinados, os ensinamentos
+de D1 e D2 não tornam a presente invenção óbvia e que a matéria reivindicada é claramente
+inventiva.
+
+       Os argumentos da requerente foram levados em consideração e os requisitos de
+patenteabilidade foram reavaliados conforme discutido abaixo.
+
+
+Aplicação Industrial
+
+       A matéria do presente pedido é passível de produção e/ou utilização industrial,
+atendendo ao artigo 15 da LPI.
+
+
+
+Novidade
+
+       Não foram encontrados documentos que revelem especificamente os compostos como
+os pleiteados no presente pedido. Portanto, a matéria ora pleiteada é nova, atendendo ao artigo
+11 da LPI.
+
+
+
+
+                                                                                        Página 3
+                                           PI0813456-1
+
+
+Atividade Inventiva
+       No parecer técnico anterior, foi apontado que não foi possível determinar se o problema
+técnico é de fato solucionado pela invenção por não ter sido apresentado nenhum resultado
+demonstrando a atividade dos compostos pleiteados no presente pedido e, por o documento D1
+apresentar compostos estruturalmente semelhantes com a mesma atividade, não era possível
+reconhecer atividade inventiva frente ao documento D1 sozinho. Na sua manifestação, a
+requerente demonstrou o efeito in vivo do composto 3d1 e, dessa forma, D1 sozinho passou a
+não ser mais impeditivo em termos de atividade inventiva, uma vez que não ensina a
+substituição nos grupos hidroxila para formar um metilenodioxi para resolver a questão de baixa
+biodisponibilidade das catecolaminas.
+       No entanto, a argumentação da requerente em relação ao documento D2 e a sua
+afirmação de que um técnico no assunto não seria motivado a preparar um derivado
+metilenodioxi das catecolaminas com o objetivo de melhorar a biodisponibilidade das mesmas
+não é convincente, assim como a sua argumentação de que a matéria reivindicada possui
+atividade inventiva frente a combinação dos documentos D1 e D2. Primeiramente, o documento
+D1 já aborda o problema técnico da baixa biodisponibilidade por administração oral do composto
+4 (último parágrafo da página 3440). Assim, um técnico no assunto que desejasse preparar
+compostos agonistas dos receptores de dopamina D 1 e D2 com melhorada biodisponibilidade, se
+depararia   com    o   documento     D2    cujo     título   é   Efeitos   no   comportamento   de
+(-)10,11-metilenodioxi-N-n-propilnoraporfina, um agente ativo de ação prolongada oralmente
+eficaz em receptores de dopamina centrais, e análogos de aporfinas (tradução livre).
+Diferentemente do sugerido pela requerente, esse documento apresenta diversos trechos que
+motivariam um técnico no assunto a preparar derivados metilenodioxi das catecolaminas como
+pró-fármacos para melhorar a biodisponibilidade com elevada expectativa de sucesso, por
+exemplo (tradução livre dos trechos):
+- Página 953, primeiro parágrafo: A utilidade clínica é limitada pela baixa biodisponibilidade e
+curta duração da ação de di-hidroxiaporfinas;
+- Página 953, primeiro parágrafo: Piribedil contém um radical metilenodioxi que se acredita que
+seja convertido in vivo para um metabólito ativo;
+- Página 954, parágrafo antes dos métodos: Esses compostos (análogos de metilenodioxi
+substituídos ou não substituídos) podem servir como pró-fármacos de apomorfina ou NPA com
+características potencialmente úteis, como atividade in vivo prolongada ou eficaz oralmente em
+receptores DA;
+- Página 955, primeiro parágrafo dos resultados: MDO-NPA exerceu efeitos comportamentais
+marcantes e sua duração de ação foi cerca de 60% maior do que NPA ou apomorfina por
+administração oral ou parenteral nessa dose;
+Páginas 958 e 959, parágrafo compartilhado: Assim, é proposto que MDO-NPA pode servir como
+um pró-fármaco lábil de NPA que protege o mesmo de inativação metabólica in vivo no intestino,
+fígado ou em outro lugar. A disponibilidade oral de MDO-NPA provavelmente reflete a proteção
+dos grupos hidroxila de NPA da oxidação de primeira passagem, conjugação ou substituição.
+
+
+
+
+                                                                                            Página 4
+                                          PI0813456-1
+
+
+       Assim, entende-se que, com base na leitura de D2, um técnico no assunto seria motivado
+a preparar um pró-fármaco com radical metilenodioxi do composto 4 de D1 para contornar o já
+conhecido problema técnico de baixa biodisponibilidade da catecolamina quando administrada
+por via oral. Dessa forma, a matéria pleiteada no presente pedido decorre de maneira óbvia dos
+ensinamentos dos documentos D1 e D2, não sendo possível reconhecer atividade inventiva para
+a mesma e estando em desacordo com o disposto no artigo 13 da LPI.
+
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+
+
+      -   não atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 02 de dezembro de 2019.
+
+
+
+
+Andre Prucoli Fragoso Carvalho
+Pesquisador/ Mat. Nº 2357376
+DIRPA / CGPAT I/DIFAR-I
+Deleg. Comp. - Port. INPI/DIRPA Nº
+014/18
+
+
+
+
+                                                                                           Página 5
+

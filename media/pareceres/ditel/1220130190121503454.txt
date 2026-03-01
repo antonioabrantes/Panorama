@@ -1,0 +1,171 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122013019012-0        N.° de Depósito PCT: KR2010/005369
+ Data de Depósito:                   13/08/2010
+ Prioridade Unionista:               KR 10-2009-0075335 (14/08/2009)
+ Depositante:                        SAMSUNG ELECTRONICS CO., LTD. (KR)
+ Inventor:                           JIANLE CHEN; MIN-SU CHEON; JAE-CHOOL LEE; JUNG-HYE MIN;
+                                     HAE-KYUNG JUNG; IL-KOO KIM; SANG-RAE LEE; KYO-HYUK LEE
+ Título:                             MÉTODO DE DECODIFICAR UM VÍDEO
+
+                                            PARECER
+          Em 08/06/2021 foi publicada através da RPI nº 2631, notificação de Ciência de Parecer
+conforme parecer técnico de primeiro exame do presente pedido. Tal parecer indicou
+irregularidades quanto ao disposto no Art. 6º da LPI.
+
+          O depositante, através da petição 870210082299 de 06/09/2021, e portanto
+tempestivamente, apresentou manifestação a respeito do parecer técnico propondo nova via do
+quadro reivindicatório com 1 (uma) reivindicação e argumentação quanto aos requisitos de
+patenteabilidade da matéria pleiteada.
+
+          Para fins de continuidade do exame, estão sendo consideradas as vias abaixo:
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 54               870200041190           30/03/2020
+Quadro Reivindicatório                                   1e2                 870210082299           06/09/2021
+Desenhos                                                 1a9                 870200041190           30/03/2020
+Resumo                                                      1                870200041190           30/03/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                             BR122013019012-0
+
+
+Comentários/Justificativas ---
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                  Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI              x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI            x
+Comentários/Justificativas ---
+
+
+                              Quadro 4  Documentos citados no parecer
+
+ Código                                    Documento                                  Data de publicação
+    ---       ---                                                                              ---
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                  Cumprimento                  Reivindicações
+                                                          Sim                            1
+             Aplicação Industrial
+                                                          Não                           ---
+                                                          Sim                            1
+                      Novidade
+                                                          Não                           ---
+
+                                                          Sim                            1
+             Atividade Inventiva
+                                                          Não                           ---
+Comentários/Justificativas
+          O parecer anterior emitido para o pedido em tela indicou que a matéria pleiteada no
+quadro reivindicatório do presente pedido está em duplicidade com aquela matéria protegida na
+patente BR112012002389-6, concedida ao pedido original deste dividido em exame.
+
+          A Requerente, em sua manifestação, argumenta que
+
+                            A matéria compreendendo "extrair do fluxo de bits... um modo de codificação... o
+                            modo de codificação compreende... informações sobre um tamanho de uma
+                            unidade de transformação da unidade de codificação da profundidade codificada"
+                            e "determinar pelo menos um unidade de transformação obtida da unidade de
+                            codificação da profundidade atual usando a informação sobre o tamanho de uma
+                            unidade de transformação não está incluída nas matérias reivindicadas de
+                            BR1120120023896.
+
+          Respeitosamente, discordamos das alegações, pois não é possível identificar pelas
+emendas realizadas qual a diferença dos métodos pleiteados em termos de efeitos técnicos
+obtidos.
+
+
+
+
+                                                                                                     Página 2
+                                        BR122013019012-0
+
+       Quanto ao trecho "extrair do fluxo de bits... um modo de codificação... o modo de
+codificação compreende... informações sobre um tamanho de uma unidade de transformação da
+unidade de codificação da profundidade codificada", de fato, não há no QR do
+BR112012002389-6 a definição de que o modo de codificação compreende informações sobre
+um tamanho de uma unidade de transformação da unidade de codificação da profundidade
+codificada. Porém, no pedido em tela não há indicação de como esta informação influencia no
+método proposto. Haja vista que, sobre a característica de "determinar pelo menos um unidade
+de transformação obtida da unidade de codificação da profundidade atual usando a informação
+sobre o tamanho de uma unidade de transformação citada pela requerente, não foi possível
+localizar na reivindicação 1 a característica aqui sublinhada. A característica definida na
+reivindicação 1 do presente pedido é a mesma já analisada e igual àquela no quadro da patente
+BR112012002389-6. A saber: determinar pelo menos uma unidade de transformação obtida a
+partir da unidade de codificação da profundidade atual.
+
+       Assim, mesmo que a reivindicação do pedido dividido em tela não tenha exatamente a
+mesma redação da reivindicação equivalente no BR112012002389-6, não se constitui como um
+objeto com escopo diferente e/ou solução alternativa daquela pleiteada e protegida na referida
+patente obtida do pedido original.
+
+       De acordo com a Resolução PR INPI nº 124/2013, o procedimento de divisão de um
+pedido de patente não deve ter como consequência a replicação ou a multiplicação da matéria
+reivindicada (item 3.138). Adicionalmente, para a mesma matéria reivindicada não devem ser
+concedidas duas patentes (item 3.140). Na hipótese do pedido dividido não atender ao disposto
+no Art. 6º da LPI, o pedido dividido deve ser indeferido (itens 3.141 e 3.142).
+
+       Portanto, mantém-se o entendimento do parecer anterior de que o presente pedido não
+pode ser deferido, uma vez que tal deferimento implicaria a dupla proteção do objeto pleiteado
+na reivindicação 1 contrariando, portanto, o disposto no art. 6º da LPI.
+
+
+
+Conclusão
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que o pedido
+apresenta matéria que se encontra reivindicada em duplicidade no pedido original, o que implicará
+em dupla proteção contrariando ao Art. 6º da LPI e ao Art. 18 e 20 da IN nº 30/2013 do INPI.
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                   Publique-se o indeferimento (9.2).
+
+
+
+
+                                                                                            Página 3
+                               BR122013019012-0
+
+
+                                             Rio de Janeiro, 18 de novembro de 2021.
+
+
+
+
+Camila Duarte Rodrigues Lopes
+Pesquisador/ Mat. Nº 2357468
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+015/18
+
+
+
+
+                                                                           Página 4
+

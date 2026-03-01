@@ -1,0 +1,175 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR112013030629-7          N.° de Depósito PCT:JP2012/068530
+ Data de Depósito:                     13/07/2012
+ Prioridade Unionista:                 JP 2011-155832 (14/07/2011); JP 2012-142181 (25/06/2012)
+ Depositante:                          CANON KABUSHIKI KAISHA (JP)
+ Inventor:                             HIROOMI MATSUZAKI, MASAAKI MATSUSHITA, TATSUO
+                                       FUJISAKI, MASAKI FURUTANI
+ Título:                               Recipiente de acomodação de revelador, unidade de acomodação de
+                                       revelador, cartucho de processo, aparelho de formação de imagem
+                                       eletrofotográfico 
+
+                                                                  PARECER
+O presente pedido de Patente de Invenção se enquadra no âmbito da RESOLUÇÃO INPI/PR N°
+241, DE 2019, estabelecida no Plano de Ataque ao Backlog de Patentes elaborado pela
+DIRETORA DE PATENTES, PROGRAMAS DE COMPUTADOR E TOPOGRAFIAS DE
+CIRCUITOS INTEGRADOS do INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+(DIRPA).
+
+Por meio dos atos normativos para execução do referido plano, a Administração do INPI avoca a
+responsabilidade sobre os procedimentos adotados no presente exame técnico.
+
+Em 01/06/2021, por meio da petição 870210049660, a Requerente apresentou modificações no
+pedido em resposta ao parecer emitido no âmbito da Resolução 241/2019, notificado na RPI 2618
+de 09/03/2021 (despacho 6.1). A requerente apresentou um novo quadro reivindicatório,
+reformulado, com 18 reivindicações. A Requerente incluiu páginas das reivindicações anteriores
+com marcações, indicando as modificações realizadas em que inserções aparecem sublinhadas e
+as exclusões, tachadas. Foram ainda incluídos um novo relatório descritivo e um novo resumo
+que, segundo a Requerente, melhor representa a matéria objeto do pedido. O título também foi
+modificado para harmonizar com preâmbulo das novas reivindicações e possui a seguinte
+formulação: RECIPIENTE DE ACOMODAÇÃO DE REVELADOR, UNIDADE DE ACOMODAÇÃO DE
+REVELADOR,              CARTUCHO               DE      PROCESSO,        APARELHO   DE   FORMAÇÃO   DE   IMAGEM
+ELETROFOTOGRÁFICO E APARELHO DE REVELAÇÃO.
+A Requerente justificou tecnicamente a existência das novas reivindicações independentes 1 a 3 e
+qualitativamente as reivindicações 13 e 17.
+Para fins de continuidade do exame estão sendo consideradas as vias abaixo:
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas        n.o da Petição        Data
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                             Página 1
+                                                        BR112013030629-7
+
+
+Relatório Descritivo                               1/61 a 61/61         870210049660       01/06/2021
+Quadro Reivindicatório                                1/6 a 6/6         870210049660       01/06/2021
+Desenhos                                           1/51 a 51/51       NPWB 860130008607    28/11/2013
+Resumo                                                    1/1           870210049660       01/06/2021
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                     Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                             x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                     x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                x
+O pedido está de acordo com disposto no art. 32 da LPI                                 x
+Comentários/Justificativas
+
+
+
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                     Sim         Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                   x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                          x
+Comentários/Justificativas
+As referências numéricas, presentes nos desenhos, não foram adequadamente incluídas no
+quadro reivindicatório. Reivindicações independentes e dependentes (2 a 16) não possuem
+qualquer referência numérica se reportando aos desenhos.
+Categoria de Aparelho de Revelação foi inadequadamente incluída em razão de nenhum aparelho
+de revelação ter sido citado no relatório descritivo ou pleiteado em reivindicação na petição inicial,
+embora já tenha sido incluído no último quadro rejeitado. Esta reivindicação foi desconsiderada
+para evitar confronto a eventuais outro(s) Artigo(s) da LPI, que desqualificariam o quadro inteiro.
+A Requerente justificou a existência das reivindicações 1 e 2 e que a única diferença refere-se ao
+trecho em que a pluralidade de aberturas é fornecida em posições diferentes ao longo de um eixo
+rotacional do dito membro de retirada de vedação. Não há esta fundamentação no relatório
+descritivo. Existe apenas uma citação no relatório aludindo a uma possível disposição das
+aberturas diferindo das posições com relação à direção F (Fig. 28). E, de todo modo, a
+interpretação do trecho da reivindicação 1, em que a pluralidade de aberturas é fornecida em
+posições diferentes ao longo de uma direção perpendicular à direção de retirada da vedação,
+pode representar a mesma coisa do trecho citado da reivindicação 2.
+Embora a Requerente possa formular as reivindicações independentes como melhor lhe aprouver,
+reitera-se a inadequação de inserção de outra reivindicação independente já que claramente o
+conjunto de características apresentado é exatamente o mesmo, apenas há a descrição de um
+detalhe sugerido na alteração da posição das aberturas já reveladas na reivindicação 1.
+A reivindicação também independente 3 também não se justifica. A Requerente se limitou a alegar
+que a direção onde o membro de retirada de vedação é fornecida com relação à direção da
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                             Página 2
+                                                           BR112013030629-7
+
+disposições da pluralidade de aberturas. Novamente, este á apenas um detalhe da posição do
+membro de retirada da vedação (que se fosse diferente das reivindicações 1 ou 2, deveria ter
+outra referência, ms novamente, nenhuma referência foi incluída) que não foi detalhado nas
+reivindicações anteriores.
+Uma verificação em alguns documentos família e também na última apresentação de
+reivindicações da petição europeia, não existe tal pleito em nenhum lugar, muito menos como
+reivindicação independente.
+Conclui-se que a Requerente, embora tenha procurado sanear algumas inconsistências
+apontadas, optou por insistir em um quadro com reivindicações independentes inadequadas e não
+inseriu as referências numéricas em quase todo o quadro reivindicatório. O resultado foi a
+inserção de mais inconsistências ao quadro reivindicatório, o que levou a rejeição do pedido.
+O pedido não foi aceito por não sanear o confronto ao Artigo 25 da LPI.
+
+                                     Quadro 4  Documentos citados no parecer
+
+ Código                                                  Documento                        Data de publicação
+    ----                                                        ----                                ----
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                       Cumprimento   Reivindicações
+                                                                             Sim           1 a 17
+               Aplicação Industrial
+                                                                            Não             ----
+                                                                             Sim           1 a 17
+                       Novidade
+                                                                            Não             ----
+                                                                             Sim           1 a 17
+               Atividade Inventiva
+                                                                            Não             ----
+Comentários/Justificativas
+
+
+
+Conclusão
+
+EDiante ao exposto nesse parecer, o presente pedido não atende às disposições do Artigo 25
+da LPI, conforme apontado na seção de comentários/ justificativas do Quadro 3 deste parecer.
+
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+       -      as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+              descritivo (Art. 25 da LPI)
+
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+
+           Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                     Página 3
+                                                      BR112013030629-7
+
+
+                                                                           Publique-se o indeferimento (9.2).
+
+
+
+                                                                         Rio de Janeiro, 18 de junho de 2021.
+
+
+
+Peter Michael Beer
+Pesquisador/ Mat. Nº 1547227
+DIRPA / CGPAT III/DIFEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+022/12
+
+
+
+
+      Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                   Página 4
+

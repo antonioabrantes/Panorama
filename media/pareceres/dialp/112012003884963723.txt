@@ -1,0 +1,250 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112012003884-2            N.° de Depósito PCT: US10/045869
+ Data de Depósito:                   18/08/2010
+ Prioridade Unionista:               US 61/235,248 (19/08/2009)
+ Depositante:                        Dow Agrosciences LLC (US)
+ Inventor:                           Yunxing Cory Cui, Jill Bryan, Donald Maum, Greg Gilles, Terry Wright,
+                                     Jennifer Hamilton, Nicole Arnold, Natan J. Vanopdorp, Ning Zhou
+ Título:                             Evento aad-1 das-40278-9, linhagens de milho trangênico
+                                     relacionadas e identificação evento-específica das mesmas. 
+
+                                                              PARECER
+          O presente pedido descreve um método para detectar a presença do evento de milho
+ADD-1 designado DAS-40278-9 (ATCC nº PTA-10244) em uma amostra. Especificamente o
+pedido solicita proteção para um método para detecção de um evento de milho em uma amostra
+baseada na SEQ ID NO:29, (reivindicações 1 e 2), para o kit de detecção de DNA (reivindicações
+3 e 4) e polinucleotídeo (reivindicação 5).
+
+          No primeiro exame técnico do presente pedido foi concluído que a matéria reivindicada não
+era passível de proteção de acordo com as disposições dos artigos 8º, 10 (IX), 13, 18 (III), 22, 24,
+25 da LPI, sendo formulada a ciência de parecer com despacho 7.1 cuja notificação foi publicada
+pela RPI 2490 de 25/09/18.
+
+          Através da petição nº 870180166028 de 20/12/2018, a requerente apresentou
+manifestação ao parecer supracitado na qual forneceu uma nova proposta de quadro
+reivindicatório em que realizou emendas, uma nova primeira página do relatório descritivo e do
+resumo, bem como reapresentou a listagem de sequências com o título harmonizado. Em resumo
+alega que:
+
+1- No novo quadro proposto algumas reivindicações foram excluídas ou reformuladas com o
+intuito de superar as objeções baseadas nos artigos 10 (IX), 18 (III), 22,                 24 e 25 da LPI.
+Destaca-se que as SEQs IDs específicas foram incluídas em algumas reivindicações;
+
+2- Quanto a objeção relacionada com a falta de atividade inventiva da matéria do presente pedido
+frente aos ensinamentos de D1 e D2, a requerente argumenta que os documentos do estado da
+técnica não ensinam ou sugerem a sequência da SEQ ID NO: 29, e, por conseguinte, os métodos
+utilizados para detectar a presença de tal junção de sequências de DNA de em uma amostra não
+foram ensinados ou sugeridos pela técnica anterior. Particularmente, embora o gene AAD-1 fosse
+conhecido, não houve ensinamento para combinar os iniciadores apropriados que amplificariam
+através do sítio de junção único da SEQ ID NO: 29 e, assim, identificar a presença da sequência
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                             BR112012003884-2
+
+
+de SEQ ID NO: 29. Para a Requerente, as técnicas descritas em D1 ainda requerem
+conhecimento da sequência real a ser detectada. Embora o gene AAD-1 fosse conhecido a partir
+da referência D2, o sítio de inserção para o evento DAS 40278-9 não foi revelado em D1 ou D2 e,
+portanto, a técnica anterior não fornece as informações necessárias para identificar o evento
+específico. D2 revela apenas sequências iniciadoras (SEQ ID NOs: 10, 11, 18 e 23) que
+hibridizam com AAD-1 e não ensina como identificar o evento específico DAS 40278-9. Na
+ausência do conhecimento das sequências de junção únicas consistindo nos resíduos 1863 a
+1875 da SEQ ID NO: 29, resíduos 6679 a 6700 da SEQ ID NO: 29, as sondas únicas e
+combinações únicas de iniciadores da presente invenção não poderiam ser providas para permitir
+a detecção da SEQ ID NO: 29. Sendo assim, a capacidade de detectar o evento não foi permitida
+até que a sequência do evento (isto é, SEQ ID NO: 29) fosse revelada pelo presente pedido de
+patente. Portanto, a Requerente considera que é nítido que as reivindicações ora apresentadas
+são novas e inventivas frente aos ensinamentos de D1 e D2 , devendo a matéria ser considerada
+inventiva frente as anterioridades.
+
+         Em face do exposto a Requerente solicita reconsideração das objeções e o deferimento do
+presente pedido.
+         A análise dos argumentos e da nova proposta de quadro reivindicatório ora apresentados
+revela que a Requerente mostra que as modificações realizadas foram suficiente para superar as
+objeções fundamentadas nos artigos 10 (IX), 18 (III), 22, 24 e 25 da LPI. No entanto, os
+argumentos técnicos não foram suficientes para o reconhecimento da atividade inventiva da
+matéria frente aos documentos D1 e D2, conforme discussão exposta no Quadro 5.
+
+  Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                              Sim      Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                            x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)             x
+
+O pedido refere-se a Sequências Biológicas                                                              x
+
+Comentários/Justificativas
+
+         Por não se enquadrar no estabelecido no art. 229-C da LPI, incluído pela Lei
+10.196/2001, o pedido não foi previamente encaminhado à ANVISA.
+
+         Por intermédio da petição 870180166028, de 22/02/2018, a Requerente declarou que:
+
+ o objeto do presente pedido de patente de invenção NÃO foi obtido em decorrência de acesso
+a amostra de componente do patrimônio genético nacional, realizado a partir de 30 de junho de
+2000.
+
+                              Quadro 1  Páginas do pedido examinadas
+            Elemento                        Páginas                 n.o da Petição                    Data
+Relatório Descritivo                                                870180166028                 20/12/2018
+                                                1
+
+Relatório Descritivo                         2 a 134                 20120014684                 22/02/2012
+
+
+
+                                                                                                            Página 2
+                                           BR112012003884-2
+
+Listagem de sequências em
+formato impresso
+Listagem de sequências*                                         870180166028            20/12/2018
+                                   Código de Controle
+
+Quadro Reivindicatório                                          870180166028            20/12/2018
+                                           1e2
+
+Desenhos                                   1a7                   20120014684            22/02/2012
+Resumo                                       1                  870180166028            20/12/2018
+
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+     DEAE013B64DF736C (Campo 1) e 87DCE90D0D44E1F0 (Campo 2).
+
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                             Sim              Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                             x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                     x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                        x
+O pedido está de acordo com disposto no art. 32 da LPI                         x
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                             Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI         x
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                 Data de publicação
+   D1       PI0417592-1                                                                20/03/2007
+   D2       PI0509460-7                                                                04/09/2007
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento                  Reivindicações
+           Aplicação Industrial                          Sim                        1a5
+
+
+
+                                                                                                Página 3
+                                      BR112012003884-2
+
+
+                                                  Não                         -
+                                                  Sim                       1a5
+                Novidade
+                                                  Não                         -
+
+                                                  Sim                         -
+           Atividade Inventiva
+                                                  Não                       1a5
+Comentários/Justificativas
+
+       O presente pedido solicita proteção para o método de detecção de um evento de milho
+em uma amostra compreendendo DNA de milho. O evento em questão foi designado como
+AAD-1 DAS-40278-9 (ATCC nº PTA-10244) e para a detecção são utilizados iniciadores
+específicos. Também são solicitados o kit de detecção e o polinucleotídeo de SEQ ID 29,
+composta pelas sequências de DNA do inserto AAD-1 e das regiões flanqueadoras.
+
+
+       Como discutido anteriormente, o documento D1 mostra técnicas para a identificação de
+sequências flanqueadoras, que envolvem parte das sequências da região transgênica e da
+região genômica de um evento de milho, já eram difundidas quando o presente pedido foi
+depositado. Assim, como também já era conhecido que a detecção de um evento de milho
+transformado com o gene aad-1 poderia ser realizada a partir de reações de PCR ou com uso
+de sondas específicas(ver documento D2).
+
+       Em sua manifestação a requerente defende que embora as anterioridades ensinem como
+detectar a presença de um gene AAD-1 em uma amostra vegetal, o sítio de inserção para o
+evento DAS 40278-9 não foi revelado em D1 ou D2 e, portanto, a técnica anterior não fornece as
+informações necessárias para identificar o evento específico. E que D2 revela apenas
+sequências iniciadoras (SEQ ID NOs: 10, 11, 18 e 23) que hibridizam com AAD-1 e não ensina
+como identificar o evento específico DAS 40278-9. Na ausência do conhecimento das
+sequências de junção únicas consistindo nos resíduos 1863 a 1875 da SEQ ID NO: 29, resíduos
+6679 a 6700 da SEQ ID NO: 29, as sondas únicas e combinações únicas de iniciadores da
+presente invenção não poderiam ser providas para permitir a detecção da SEQ ID NO: 29.
+Sendo assim, a requente entende que nenhum dos documentos ensina ou sugere a matéria
+solicitada no presente pedido.
+
+       Ocorre que ambos os documentos citados D1 e D2 fornecem informações que
+combinadas mostram como um técnico no assunto poderia identificar as sequências
+hospedeiras flanqueadoras de um evento transgênico e usá-las para selecionar os iniciadores e
+desenhar a sonda de detecção. Ou seja, ainda que as sequências de junção não estivessem
+disponíveis no estado da técnica, a tecnologia necessária para a obtê-las já era conhecida.
+Portanto, considera-se que um técnico no assunto interessado em prover um método para
+detecção de um evento transgênico seria motivado em combinar os ensinamentos de D1 e D2
+para identificar as sequências de junção entre o inserto e o DNA genômico da planta. Logo,
+considera-se que os argumentos não foram suficientes para conferir efeito técnico especial ou
+
+
+
+
+                                                                                       Página 4
+                                       BR112012003884-2
+
+
+inesperado à matéria ora solicitada. Pelo contrário, considera-se que a mesma decorre de
+maneira óbvia do estado da técnica.
+
+       Em sendo assim, conclui-se que os argumentos apresentados não foram suficientes para
+superar as objeções apontadas, permanecendo mantida a objeção de falta de atividade
+inventiva (artigo 13 da LPI) da matéria ora solicitada frente aos ensinamentos de D1 e D2.
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                               Rio de Janeiro, 10 de abril de 2019.
+
+
+
+
+Nathaly Nunes Uchoa
+Pesquisador/ Mat. Nº 1358886
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                          Página 5
+

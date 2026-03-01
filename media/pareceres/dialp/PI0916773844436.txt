@@ -1,0 +1,203 @@
+                                  SERVIÇO PÚBLICO FEDERAL
+                   MINISTÉRIO DA INDÚSTRIA, COMÉRCIO EXTERIOR E SERVIÇOS
+                       INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0916773-0                N.° de Depósito PCT: US2009/047873
+ Data de Depósito:                   19/06/2009
+ Prioridade Unionista:               US 12/172,535 (14/07/2008)
+ Depositante:                        Syngenta Participations Ag (CH)
+ Inventor:                           Mikyong Lee, Michael Nuccio, Joseph Clarke
+ Título:                             Molécula de ácido nucleico, cassete de expressão, vetor, sequência
+                                     promotora de planta de milho, bem como métodos para produção de
+                                     uma planta transgênica de milho, controle de insetos peste alvo e
+                                     proteção de tecidos reprodutivos da planta de milho.
+
+                                                                 PARECER
+          O presente pedido se refere a moléculas regulatórias para expressão constiutiva com
+exceção de grãos de pólen em plantas. Construções e métodos utilizando tais sequências
+também são reivindicados.
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim      Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                            X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    X
+
+O pedido refere-se a Sequências Biológicas                                                             X
+
+Comentários/Justificativas
+
+           A declaração negativa de acesso ao patrimônio genético nacional foi apresentada pelo
+Requerente na petição 870180050584 em 13/06/2018.
+
+          A listagem de sequências foi apresentada pelo Requerente na petição no. 870180051551
+de 15/06/2018.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+Relatório Descritivo                                    1 a 101              870180051551        15/06/2018
+Listagem de sequências em
+                                                             -                      -                   -
+formato impresso
+Listagem de sequências*                        Código de Controle            870180051551        15/06/2018
+Quadro Reivindicatório                                    1a3                870180051551        15/06/2018
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                  Página 1
+                                               PI0916773-0
+
+Desenhos                                      -                          -             -
+Resumo                                       1                 870180051551        15/06/2018
+
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+     C035562A5809F253 (Campo 1) e 164BE577BAF5318D (Campo 2).
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                               Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)           X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                       X
+O pedido está de acordo com disposto no art. 32 da LPI                        X
+Comentários/Justificativas
+
+       Como mencionado no parecer anterior, a matéria das reivindicações 1, 2 e 13 não é
+considerada invenção nem modelo de utilidade, pois se trata do todo ou parte de seres vivos
+naturais e/ou materiais biológicos encontrados na natureza, se enquadrando no disposto no Art.
+10 (IX) da LPI e a matéria das reivindicações 3, 4 e 7, como reivindicada de maneira ampla, não
+é considerada invenção nem modelo de utilidade, pois se engloba todo ou parte de seres vivos
+naturais e/ou materiais biológicos encontrados na natureza, se enquadrando no disposto no Art.
+10 (IX) da LPI.
+
+       O Requerente alega que incluiu o termo modificado de modo a superar a objeção.
+Porém, a inclusão do termo por si só não supera a objeção quanto ao Artigo 10 (IX) da LPI, uma
+vez que não descreve o tipo de modificação e, sendo assim, as reivindicações ainda englobam
+todo ou parte de seres vivos naturais e/ou materiais biológicos encontrados na natureza.
+Portanto, a objeção está mantida.
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                               Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                       X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                     X
+Comentários/Justificativas
+        Como mencionado no parecer anterior, as reivindicações 1 e 2 não atendem ao
+disposto no Art. 25 da LPI e na Instrução Normativa nº 30/2013  Art. 4º (III), pois a matéria
+pleiteada não está definida de maneira clara, precisa e positiva por conter o termo
+compreende/compreendendo que é um termo amplo e, assim, engloba outras sequências além
+das reveladas na SEQ ID NO: em questão. Como é amplamente sabido na técnica, a adição,
+substituição ou deleção de sequências em uma região regulatória podem alterar drasticamente o
+padrão de expressão e intensidade de um promotor ou sua funcionalidade, no caso de ambos.
+Com isso, o termo compreende, além da falta de clareza, incide no Art. 25 da LPI e na Instrução
+
+
+                                                                                           Página 2
+                                           PI0916773-0
+
+Normativa nº 30/2013  Art. 4º (IV), pois a matéria pleiteada não está fundamentada no relatório
+descritivo do pedido uma vez que não é possível, sem experimentação adicional e indevida, um
+técnico no assunto prever o resultado que seria obtido com a inclusão de sequências adicionais a
+SEQ ID NOs. Ainda, segundo as Diretrizes de exame  Bloco I: 3.49 - Os termos compreender,
+conter, englobar e incIuir, bem como seus derivados, são considerados termos abertos de
+definição da invenção, ou seja, no exemplo acima, a forma caracterizada por compreender os
+componentes A, B e C não se limita a apenas estes elementos, e pode ser aceita, desde que tais
+elementos sejam os essenciais para a realização da invenção. Sendo assim, o relatório descritivo
+do presente pedido não descreve suficientemente a invenção de forma a possibilitar sua
+realização por um técnico no assunto, contrariando o disposto no Art. 24 da LPI.
+        O Requerente alega que tem direito de usar tal linguagem. O argumento foi considerado
+improcedente e a objeção está, portanto mantida.
+        Como mencionado no parecer anterior, as reivindicações 10 e 13 não atendem ao
+disposto no Art. 25 da LPI e na Instrução Normativa nº 30/2013  Art. 4º (III), pois a matéria
+pleiteada não está definida de maneira clara, precisa e positiva por apresentar o termo
+substancialmente.
+        O Requente alega que o termo não torna, por si só, a totalidade da reivindicação
+indefinida. O argumento foi considerado improcedente e a objeção está, portanto mantida.
+        Com mencionado no parecer anterior, as reivindicações 1, 3, 5, 7, 8 e 10-12 não
+atendem ao disposto no Art. 25 da LPI e na Instrução Normativa nº 30/2013  Art. 4º (IV), pois a
+matéria pleiteada não está fundamentada no relatório descritivo do pedido por utilizar o termo
+promotor de planta. O referido promotor revelado no relatório descritivo desse pedido é um
+promotor de milho. Outros promotores não foram descritos no pedido.
+        O Requerente não comentou tal objeção que está, portanto, mantida.
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                            Data de publicação
+     -       ---                                                                     -
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento              Reivindicações
+                                                    Sim                      1-13
+            Aplicação Industrial
+                                                    Não                       -
+                                                    Sim                      1-13
+                   Novidade
+                                                    Não                       -
+                                                    Sim                      1-13
+            Atividade Inventiva
+                                                    Não                       -
+Comentários/Justificativas
+
+         O presente quadro atende aos requisitos de patenteabilidade.
+
+
+
+
+                                                                                         Página 3
+                                             PI0916773-0
+
+
+Outras considerações
+
+        A título de observação, a listagem de sequências apresenta as seguintes irregularidades:
+o primeiro campo 151 apresenta a data de depósito e o campo 150 não informa que a prioridade
+é US.
+
+
+
+Conclusão
+
+        Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+        -   não apresenta suficiência descritiva (Art. 24 da LPI)
+
+        -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+            descritivo (Art. 25 da LPI)
+
+        -   não é considerado invenção, uma vez que incide no Art. 10 da LPI
+
+
+
+        De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                    Publique-se o indeferimento (9.2).
+
+
+
+                                                                Rio de Janeiro, 2 de agosto de 2018.
+
+
+
+
+Amanda Mangeon Vieira Ferreira
+Pesquisador/ Mat. Nº 1711587
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+009/18
+
+
+
+
+                                                                                             Página 4
+

@@ -1,0 +1,315 @@
+                              SERVIÇO PÚBLICO FEDERAL
+                               MINISTÉRIO DA ECONOMIA
+                   INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+N.° do Pedido:              BR112016022147-8         N.° de Depósito PCT: EP2015/056424
+                                                     (28/03/2014)
+
+                        Publicação Nacional:     Publicação Internacional: WO 2015/144770
+                        15/08/2017 (RPI 2432) (01/10/2015)
+Data de Depósito (PCT): 25/03/2015
+Prioridade Unionista:   IT MI2014A000532 (28/03/2014)
+Depositante:            PIRELLI TYRE S.P.A. (IT)
+Inventor(es):           MARCO SABATINI (IT), ALBERTO BOTTA (CH), GAETAN
+                        BOULARD (CH)
+Título:                 Dispositivo de sensor de pneu, e, pneu de veículo..
+
+                                PARECER DE EXAME TÉCNICO
+
+
+
+       O presente pedido de Patente de Invenção (PI), refere-se a um dispositivo de sensor de
+pneu (100) compreendendo um elemento de conexão (210) para conectar o dispositivo de
+sensor de pneu com um pneu de veículo, e um conjunto eletrônico de dispositivo de sensor de
+pneu (230) alojado no elemento de conexão, em que o conjunto eletrônico de dispositivo de
+sensor de pneu compreende uma placa de circuito impresso flexível (510) sendo dobrável e
+compreendendo pelo menos duas porções de placa de circuito impresso (705, 710, 715) cada
+uma tendo duas superfícies.
+
+
+
+       Para realização industrial do reivindicado como inventivo no presente pedido de PI, as
+pelo menos duas porções de placa de circuito impresso sendo adequadas para o
+posicionamento, em pelo menos uma superfície das mesmas, dos componentes eletrônicos do
+dispositivo de sensor de pneu, em que os ditos componentes eletrônicos compreendem pelo
+menos um sensor (1125) para detectar pelo menos um parâmetro de pneu, a dita placa de
+circuito impresso (510) sendo dobrada de forma que o conjunto eletrônico de dispositivo de
+sensor de pneu pode ser inserido no elemento de conexão com as pelo menos duas porções de
+placa de circuito impresso que é essencialmente plana.
+
+
+
+       Em 15/02/2022, foi publicada através da RPI Nº 2667, notificação de emissão de parecer
+técnico relativo ao pedido de Patente de Invenção (PI), referente a Ciência de Parecer (7.1),
+decorrendo a partir daquela data o prazo de 90 (noventa) dias para manifestação da Requerente
+quanto ao contido no citado parecer técnico.
+
+
+
+                                                                                                    1
+                                          BR112016022147-8
+
+
+
+
+       Em    26/09/2016      e    31/08/2020,      através    das      Petições    870160054375/RJ     e
+870200110671/RJ, a Requerente apresenta os documentos listados no Quadro 1, a seguir:
+
+                            Quadro 1  Páginas do pedido examinadas
+            Elemento                     Páginas               N.o da Petição               Data
+
+Relatório Descritivo (RD): com       08/33  20/33            870160054375/RJ             26/09/2016
+13 (Treze) folhas, numerada
+como 01/13  13/13.
+Quadro Reivindicatório (QR):         09/11  11/11            870200110671/RJ             31/08/2020
+com      03    (Três) folhas,
+apresentando      12  (Doze)
+reivindicações.
+Desenhos (D´s): com 09               24/33  32/33            870160054375/RJ             26/09/2016
+(Nove) folhas, apresentando
+18       (Dezoito)      figuras,
+numeradas de: Fig. 01  Fig.
+11; Fig. 12A  Fig. 12G.
+Resumo (R): com 01 (Uma)                  33/33               870160054375/RJ             26/09/2016
+folha.
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                    Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                            X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                    X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                            X
+O pedido está de acordo com disposto no art. 32 da LPI                             X
+Comentários/Justificativas
+
+
+
+              Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                    Sim         Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI               X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI             X
+Comentários/Justificativas
+
+       Em 15/11/2021, a Justiça Federal, da 13a. Vara Federal do Rio de Janeiro (TRF-RJ), no
+âmbito do Mandado de Segurança nº 5051373-49.2019.4.02.5101, sentenciou:
+       Do exposto, concedo parcialmente a segurança (CPC/2015, art. 269, I), para
+       determinar a nulidade parcial da Resolução n.º 241 de 2019, apenas no que se refere
+
+
+                                                                                                           2
+                                     BR112016022147-8
+
+        à impossibilidade de realização de buscas complementares, sendo assegurado aos
+        representados pelas associações impetrantes que, em cada caso concreto, possam
+        fazer tais buscas, quando o entenderem adequado e pertinente.
+        Em 14/12/2021, o INPI publicou a PORTARIA/INPI/PRNº052, que em seu Art. 6º. revoga a
+Resolução INPI/PR Nº 241, de 03/07/2019. No seu Art. 5º, estabelece:
+        Por ocasião do prosseguimento do exame do pedido, poderá ser realizada a
+complementação da busca a que se refere o art. 3º desta Portaria.
+        Face à decisão judicial supracitada e à publicação da Portaria 52/2021, em pesquisas
+realizadas em bases de dados de documentos de (e pedidos de) patentes e em literatura não
+patentaria, foi encontrado o seguinte documento capaz de indicar arranjos técnicos funcionais
+semelhantes aos pleiteados no QR do presente pedido:
+                         Quadro 4  Documentos citados no parecer
+
+ Código                              Documento                           Data de publicação
+(Relevân
+  cia)
+ D6_New       CN1958317 (A) (TAIDA ELECTRONICS IND CO LTD[CN])               09/05/2007
+Comentários/Justificativas
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15, da LPI)
+     Requisito de Patenteabilidade          Cumprimento              Reivindicações
+                                                 Sim                      01  12
+            Aplicação Industrial
+                                                 Não                         
+
+                                                 Sim                      01  12
+                 Novidade
+                                                 Não                         
+
+                                                 Sim                         
+            Atividade Inventiva
+                                                 Não                     01  12
+
+Comentários/Justificativas
+
+
+
+       A análise do QR do presente pedido, apresentado em 31/08/2020, através da Petição
+870200110671/RJ, e mais especificamente sua Reivindicação Independente do Presente
+Pedido (RI**pp), que é a RI01pp (Dispositivo de sensor de pneu ), quando confrontadas
+com o documento D6_New, constatamos, via Parecer Técnico de primeiro exame, publicado em
+15/02/2022, através da RPI 2667, que tanto a parte não caracterizante do pedido sob exame,
+quanto a parte caracterizante, encontravam-se contempladas naquele documento, como vimos
+a seguir.
+
+       Através da Reivindicação Independente 01 (RI01pp), do presente pedido, a
+Requerente reivindica:
+
+
+
+
+                                                                                             3
+                                               BR112016022147-8
+
+
+        RI01pp (Dispositivo de sensor de pneu (100) compreendendo um elemento de
+conexão (210) para conectar o dispositivo de sensor de pneu com um pneu de veículo, e um
+conjunto eletrônico de dispositivo de sensor de pneu (230) alojado no elemento de conexão)
+        caracterizado pelo fato de que:
+        ETAPA01: o conjunto eletrônico de dispositivo de sensor de pneu compreende uma
+placa de circuito impresso flexível (510) sendo dobrável e compreendendo pelo menos
+duas porções de placa de circuito impresso (705, 710, 715) cada uma tendo duas
+superfícies, as pelo menos duas porções de placa de circuito impresso (705, 710, 715)
+sendo unidas por porções de união (720, 725) para garantir uma conexão mecânica flexural
+entre as pelo menos duas porções de placa de circuito impresso (705, 710, 715), as pelo menos
+duas porções de placa de circuito impresso sendo adequadas para o posicionamento, em pelo
+menos uma superfície das mesmas, dos componentes eletrônicos do dispositivo de sensor de
+pneu, em que os ditos componentes eletrônicos compreendem pelo menos um sensor (1125)
+para detectar pelo menos um parâmetro de pneu, a dita placa de circuito impresso (510)
+sendo dobrada de forma que o conjunto eletrônico de dispositivo de sensor de pneu pode ser
+inserido no elemento de conexão com as pelo menos duas porções de placa de circuito
+impresso que é essencialmente plana.
+
+
+        No que se refere a sua manifestação, de 04/05/2022, através da Petição
+870220038739/RJ, a Requerente entende que o documento D6_New, não contempla o
+reivindicado no presente pedido, pois:
+         A Requerente salienta que a reivindicação independente 1 pendente para o presente pedido é direcionada
+a um dispositivo de sensor de pneus. O dispositivo de sensor de pneus reivindicado compreende um elemento de
+conexão para conectar o dispositivo sensor a um pneu de veículo. Um conjunto eletrônico de dispositivo de sensor de
+pneus está alojado no referido elemento de conexão. A independente reivindicação 1 estabelece ainda que o conjunto
+eletrônico do dispositivo de sensor de pneu compreende uma placa de circuito impresso dobrável, e que a referida
+placa de circuito impresso é dobrada para que o conjunto eletrônico do dispositivo de sensor de pneu possa ser inserido
+no elemento de conexão com pelo menos duas porções da placa de circuito impresso sendo essencialmente planares.
+        Diante disso, a Requerente alega que, de acordo com o documento D6, o elemento de conexão nada mais é
+do que um filme de conexão, particularmente um adesivo de parte traseira, como uma fita adesiva de dupla face, que é
+fixada na parte de trás da placa de circuito flexível (102 ou 202). Ademais, o dispositivo de monitoramento da pressão
+dos pneus (100 ou 200), de acordo com D6, é colado diretamente no quadro da roda usando a fita adesiva de dupla
+face. Portanto, a placa de circuito flexível (102 ou 202) de D6 não é dobrada para que o conjunto eletrônico do
+dispositivo de sensor de pneu possa ser inserido no elemento de conexão  de fato, em D6, não há elemento de
+conexão (para conectar o dispositivo sensor de pneus a um pneu de veículo) que possa acomodar nele o conjunto
+eletrônico do dispositivo de sensor de pneus. Destarte, convém mencionar que a solução proposta por D6, com uma
+placa de circuito flexível (102 ou 202) colada no quadro da roda usando uma fita adesiva, é muito rudimentar porque
+deixa os elementos eletrônicos do dispositivo de monitoramento de pressão do pneu (100 ou 200) totalmente expostos
+a qualquer tipo de condições adversas do ambiente, tanto dentro como fora do pneu. Diante disso, uma pessoa versada
+na técnica, com base nos ensinamentos de D6, não seria motivada a considerar a provisão de um elemento de conexão
+adaptado para acomodar a eletrônica do dispositivo sensor de pneu. Pelo contrário, o documento D6 ensina longe da
+invenção aqui reivindicada  releva mencionar que, ao longo do texto, D6 salienta as vantagens de colar a placa de
+circuito flexível diretamente na estrutura da roda sem qualquer elemento de conexão previsto para acomodar a referida
+placa de circuito flexível (D6 explicita que, uma vez que a espessura da placa de circuito flexível é bastante fina,
+
+
+
+
+                                                                                                                      4
+                                               BR112016022147-8
+
+geralmente não superior a 0,03 mm, embora o placa de circuito flexível seja estendida e anexada à estrutura interna e à
+estrutura externa do quadro da roda, depois de instalado no aro, a estanqueidade do pneu ainda pode ser mantida).. 
+
+
+
+        Ainda na sua manifestação, de 04/05/2022, através da Petição 870220038739/RJ, a
+Requerente EVOCA o mesmo QR, de 31/08/2020, através da Petição 870200110671/RJ, com a
+mesma RI01pp (Dispositivo de sensor de pneu (100) compreendendo um elemento de
+conexão (210) para conectar o dispositivo de sensor de pneu com um pneu de veículo, e um
+conjunto eletrônico de dispositivo de sensor de pneu (230) alojado no elemento de
+conexão), e com a mesma ETAPA01.
+
+
+        Face ao disposto acima, e às argumentações da Requerente de 04/05/2022, através da
+Petição 870220038739/RJ, voltamos a sustentar QUE o documento de anterioridade (D6_New)
+(CN1958317 (A) (TAIDA ELECTRONICS IND CO LTD[CN])), ensina tanto através da sua
+Reivindicação Independente (RI) 01 (dispositivo de monitoramento da pressão dos
+pneus), juntamente com suas respectivas Reivindicações Dependentes (RDp) 02, 04 e 10,
+aqui chamadas de RI01_D6_New, RDp02_D6_New, RDp04_D6_New e RDp10_D6_New,
+quanto através do seu relatório descritivo, e mais especificamente o Parágrafo [0039], e figura
+Fig. 01, de D6_New, incluindo na sua RI01_D6_New, um dispositivo de monitoramento da
+pressão dos pneus, disposto em uma estrutura de um pneu, incluindo pelo menos uma placa de
+circuito flexível que tem uma primeira parte e uma segunda parte. Em adição, a placa flexível
+possui um sensor de pressão disposto na primeira parte da placa de circuito flexível, além de
+uma antena que se estende da primeira parte da placa de circuito flexível até a segunda
+parte, e conectada eletricamente ao sensor de pressão. Na RDp02_D6_New, temos que a
+primeira porção da placa de circuito flexível se estende da estrutura interna da estrutura da
+roda até a estrutura externa e o sensor de pressão é fixado à estrutura interna da estrutura
+da roda superior. Por sua vez, segundo a RDp04_D6_New, um circuito que é disposto na
+segunda parte da placa de circuito flexível é conectado eletricamente ao sensor de pressão,
+e uma fonte de alimentação é disposta na segunda parte da placa de circuito flexível e conectada
+eletricamente ao circuito e ao sensor de pressão. Por fim, temos na RDp10_D6_New, que o
+dispositivo de monitoramento da RI01_D6_New, compreende pelo menos uma película de
+conexão localizada entre a parte traseira da placa de circuito flexível e a estrutura da roda
+para fixar a placa de circuito flexível à estrutura da roda. Assim, concluímos que todo este
+conjunto, contempla a ETAPA01 da RI01pp.
+
+
+       Tal reafirmação se sustenta dado que o documento de anterioridade D6_New, à Fig. 01,
+de D6_New, descrita no Parágrafo [0039], temos a representação de um diagrama esquemático
+de um dispositivo de monitoramento da pressão dos pneus. Neste diagrama, o dispositivo de
+monitoramento da pressão dos pneus 100 é um dispositivo ativo composto principalmente por
+uma placa de circuito flexível 102, que por sua vez tem uma primeira parte 118 e uma
+segunda parte 120. A placa de circuito flexível 102 inclui pelo menos o sensor de pressão 104,
+além de uma antena 122, um circuito 106 e uma fonte de alimentação 108. Por sua vez, o sensor
+de pressão 104 está disposto na área de extremidade frontal da primeira porção 118 da
+placa de circuito flexível 102. Em oposição, o circuito 106 e a fonte de alimentação 108 estão
+dispostos respectivamente na segunda parte 120 da placa de circuito flexível 102. Por fim, o
+dispositivo de monitoramento da pressão dos pneus 100 pode incluir ainda uma película de
+conexão tal como um adesivo traseiro, como uma fita adesiva de dupla face, e é fixada à parte
+
+
+
+                                                                                                                      5
+                                      BR112016022147-8
+
+traseira da placa de circuito flexível 102. Assim, concluímos que todo este conjunto, contempla a
+ETAPA01 da RI01pp.
+
+
+       Desta forma, a matéria reivindicada através da reivindicação independente RI01pp, do
+presente pedido, encontra-se totalmente absorvida por D6_New.
+
+
+
+       Quanto às demais reivindicações, as mesmas também não são válidas por serem
+dependentes das reivindicações independentes contestadas acima
+
+
+
+Conclusão
+       Sendo assim, face ao exposto, considerando o QR da forma apresentada, somos de
+opinião que o presente pedido carece de atividade inventiva por ser mera decorrência do estado
+da técnica, representado por D6_New, não possuindo, pois, condições de patenteabilidade.
+
+
+       Face às conclusões a que se chegou o Exame Técnico, de acordo com o Art. 37, baseado
+no Art. 8º, combinado com o Art. 13, da LPI, INDEFIRO o presente pedido como PATENTE DE
+INVENÇÃO.
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2)
+
+
+                                                            Rio de Janeiro, 17 de Maio de 2022.
+
+
+                                   Edson Ferreira Suisso
+                    Pesquisador em Propriedade Industrial / Mat. Nº 1548985
+                          Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+                           DIRPA / CGPAT III / DIPAT XV (DIPEQ)
+
+
+
+
+                                                                                                6
+

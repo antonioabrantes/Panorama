@@ -1,0 +1,376 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        PI0719984-8               N.° de Depósito PCT: US2007/087386
+ Data de Depósito:                     13/12/2007
+ Prioridade Unionista:                 US 11/611,782 (15/12/2006)
+ Depositante:                          U.S SMOKELESS TOBACCO COMPANY LLC (US)
+ Inventor:                             Dongmei Xu, Mark T. Nielsen, Yanxin Shen
+ Título:                               Plantas de tabaco possuindo atividade de nicotina desmetilase
+                                       reduzida 
+
+                                                              PARECER
+           A presente invenção refere-se a métodos e materiais envolvidos na produção de plantas
+de tabaco tendo níveis reduzidos de conversão de nicotina em nornicotina. Em certas formas de
+realização, a invenção é direcionada para mutações no gene da nicotina desmetilase, plantas de
+tabaco compreendendo mutações no gene da nicotina desmetilase, bem como composições e
+produtos de tabaco derivados dos mesmos. Em outras formas de realização, a invenção é
+direcionada para RNA de interferência de nicotina desmetilase, plantas de tabaco compreendendo
+um transgene do RNA de interferência da nicotina desmetilase, bem como composições e
+produtos de tabaco derivados dos mesmos.
+           Esse exame foi realizado em ambiente digital, tendo sido consideradas as seguintes
+petições:
+Petição                                                           Data
+
+NPRJ 020090058269                                                 12/06/09
+NPRJ 020090076844                                                 11/08/09
+NPRJ 020100111793                                                 30/11/10
+NPRJ 020120016182                                                 27/02/12
+NPRJ 020140025491                                                 18/08/14
+RJ 870170025320                                                   17/04/17
+RJ 870170036032                                                   29/05/17
+RJ 870190017033                                                   19/02/19
+RJ 870190021267                                                   01/03/19
+           Através da petição RJ 870190017033, de 19/02/2019, a Depositante apresentou
+manifestação a respeito do parecer técnico referente ao despacho 7.1 notificado na RPI nº 2498,
+de 21/11/2018 (doravante denominado parecer técnico anterior), trazendo esclarecimentos a
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                    Página 1
+                                                              PI0719984-8
+
+
+respeito da matéria, novas vias do relatório descritivo, do resumo e do quadro reivindicatório e
+listagem de sequências em formato eletrônico, além de um quadro reivindicatório alternativo.
+
+       Por intermédio da petição RJ 870190021267, de 01/03/2019, Souza Cruz LTDA
+apresentou subsídios ao exame técnico da matéria em questão, de acordo com o artigo 31 da Lei
+9279/96.
+
+  Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                              Sim      Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                            X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    X
+
+O pedido refere-se a Sequências Biológicas                                                             X
+
+Comentários/Justificativas
+
+       No parecer técnico anterior, foi observado que a listagem de sequências apresentada
+anteriormente não incluía as sequências de nucleotídeos empregadas como iniciadores
+(primers) descritos no relatório descritivo, sequências essas que compreendem mais de 10
+nucleotídeos e, de acordo com o artigo 4º § 1º da Resolução nº 187/17, deveriam ser incluídas
+na listagem de sequências. Através da petição RJ 870190017033, de 19/02/2019, foi
+apresentada nova Listagem de Sequências, na qual os iniciadores foram adicionados.
+
+                                    Quadro 1  Páginas do pedido examinadas
+            Elemento                                   Páginas               n.o da Petição           Data
+Relatório Descritivo                                    1 a 74              RJ 870190017033       19/02/2019
+Listagem de sequências em
+                                                           ---                     ---                 ---
+formato impresso
+Listagem de sequências*                       Código de Controle            RJ 870190017033       19/02/2019
+Quadro Reivindicatório**                                 1e2                RJ 870190017033       19/02/2019
+Desenhos                                                 1a6            NPRJ 020090076844         11/08/2009
+Resumo                                                      1               RJ 870190017033       19/02/2019
+
+      *Listagem de sequências em formato eletrônico referente ao código de controle
+      54D7BB328692E5A3 (Campo 1) e DB4EABD55A51EAD8 (Campo 2).
+      **Adicionalmente, foi apresentado quadro reivindicatório alternativo, também levado
+      em consideração no presente exame.
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                            Sim          Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                        X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                   X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                       X
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                        Página 2
+                                                                PI0719984-8
+
+
+O pedido está de acordo com disposto no art. 32 da LPI                        X
+Comentários/Justificativas
+
+1)        No parecer técnico anterior, foi apontado que o quadro reivindicatório ainda incluía
+matéria não-patenteável em virtude do artigo 18 (III) da LPI, uma vez que compreendia proteção
+para tabaco curado proveniente do híbrido, variedade ou linhagem obtida pelo processo
+ensinado de acordo com a presente invenção, o que equivaleria à proteção das folhas do tabaco
+geneticamente modificado, além de proteção para produto de tabaco, termo esse que pode
+incluir diferentes produtos, tal como rapé, que se trata das folhas do tabaco moídas
+
+          A esse respeito, a Requerente manifestou-se argumentando que o processo de curar as
+folhas de tabaco leva a uma transformação química que altera permanentemente as
+características físicas e químicas da folha, de tal modo que essa não pode mais ser considerada
+como parte de um ser vivo. Alegou-se que curar as folhas de tabaco, independentemente da
+prática específica, resulta em uma folha de tabaco que é significativamente transformada em
+comparação com uma folha verde viva. Foi também observado que a cura aquecida das folhas
+do tabaco proporcionam uma alteração enzimática menos extensa em comparação com a cura
+ao sol.
+
+          Os argumentos da Requerente não são suficientes para superar a objeção ao
+patenteamento da matéria em virtude do artigo 18 (III) da LPI. A proteção a tabaco curado
+equivale à proteção para as folhas de tabaco em si. Mesmo no caso de uma folha de tabaco
+seca, o fato dessa não estar viva não a exclui da classificação como parte de um ser vivo, visto
+que é obtida a partir da planta de tabaco transgênica, qual seja, um ser vivo. Portanto, as
+reivindicações 4, 5 e 10 a 12 não são patenteáveis frente ao artigo 18 (III) da LPI. No que diz
+respeito às reivindicações de produto de tabaco (reivindicações 5, 11 e 12), essas enquadram-
+se, ao menos parcialmente, no veto do artigo 18 (III) dada a abrangência do termo produto de
+tabaco. Contudo, se tal termo tivesse sido melhor caracterizado (especificando que se trata de
+um cigarro, charuto, cigarrilha etc), tais reivindicações poderiam ter sido consideradas
+patenteáveis.
+
+          Vale observar que as reivindicações referentes a tabaco curado ou produto de tabaco
+foram excluídas do quadro reivindicatório alternativo proposto. Portanto, o enquadramento no
+artigo 18 (III) não se aplica a tal quadro.
+
+2)        A Oponente, em sua petição de subsídio, de 01/03/2019, aponta para a substituição do
+termo contenha, na reivindicação 1, por compreenda, o que se trataria de adição de matéria.
+Contudo, tais termos são considerados equivalentes (item 3.49 das Diretrizes de Exame de
+Pedidos de Patente  Conteúdo do Pedido de Patente, instituídas pela Resolução PR nº
+124/2013) e, portanto, tal argumentação é improcedente.
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                     Página 3
+                                                              PI0719984-8
+
+
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                              Sim        Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                    X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI       X
+Comentários/Justificativas
+
+1)     No parecer técnico anterior, bem como no primeiro parecer técnico, foi argumentado que o
+processo de produção de planta de tabaco pleiteado baseia-se no tratamento das sementes com
+um agente mutagênico (EMS), gerando mutações ao acaso, de tal modo que sua realização
+implicaria experimentação indevida por um técnico no assunto. Em sua argumentação, a
+Requerente alegou que o relatório descritivo fornece instruções detalhadas de modo a realizar a
+mutagênese com EMS e identificar mutantes (Exemplos 1 e 2), além de fornecer referências, para
+métodos conhecidos, do uso de agentes mutagênicos alternativos. É também argumentado que
+um técnico no assunto saberia prever o número de sementes que precisam ser rastreadas para
+encontrar qualquer mutação desejada e que são conhecidas técnicas, tal como o TILLING, que
+podem simplificar o processo de triagem. Concluiu, portanto, a Requerente, que um técnico no
+assunto entenderia que a reivindicação 1 do presente pedido não demanda qualquer
+experimentação por um versado na arte.
+       A esse respeito, comenta-se que, muito embora o relatório descritivo relate o procedimento
+de tratamento das sementes com o agente EMS, a natureza aleatória da ação desse agente não
+permite que se preveja quais resultados serão obtidos. Esse tipo de abordagem experimental é útil
+em triagens genéticas, como foi feito no presente caso. No entanto, após identificada uma
+sequência com mutação que leva a um fenótipo de interesse, a obtenção de uma planta contendo
+tal sequência mutada por um versado na arte ocorre via a introdução de construção gênica
+específica compreendendo a mutação de interesse em sementes e a identificação de plantas
+contendo tal mutação.
+       A argumentação da Requerente de que a questão, portanto, não é se um técnico no
+assunto irá gerar as mutações reivindicadas, mas quando, durante o processo de triagem, uma
+mutação específica será encontrada, apontando, ainda, para a alta frequência de mutação
+causada pelo EMS, desde que haja triagem suficiente, apenas reflete a necessidade de
+experimentação indevida por um versado na arte.
+       Corroborando o acima discutido, cabe ser citado o item 2.15 das Diretrizes de exame de
+pedidos de patente  Conteúdo do Pedido de Patente, instituídas pela Resolução PR nº 124/2013,
+que define experimentação indevida como a situação na qual um técnico no assunto, a partir do
+revelado na invenção, necessita de experimentação adicional para realizar a mesma, o que seria
+o caso do processo ora objeto de proteção. Adicionalmente, a conclusão de que o método de
+produção de planta de tabaco reivindicado se encontra insuficientemente descrito é corroborada
+pelas Diretrizes de Exame de Pedidos de Patente na Área de Biotecnologia, instituídas pela
+Resolução nº 144/2015, conforme consta em seu o Exemplo 5, abaixo transcrito:
+Exemplo 5
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                     Página 4
+                                                              PI0719984-8
+
+
+O pedido descreve um método novo e inventivo de obtenção de microrganismos mutantes através
+de mutagênese aleatória. Como as etapas do referido método estão descritas detalhadamente no
+relatório descritivo, é possível que um técnico no assunto reproduza a invenção. Portanto, tal
+método apresenta suficiência descritiva, atendendo ao disposto no art. 24 da LPI. Caso esse
+método esteja vinculado à obtenção de apenas um mutante com características
+específicas, a informação do depósito do mesmo deve estar presente na reivindicação,
+uma vez que não há garantia de obtenção do mesmo resultado. (ênfase adicionada)
+       O método das reivindicações 1 a 3 e 6 a 8 claramente está vinculado à obtenção de
+plantas mutantes com características específicas (fenótipo não-conversor de menos de 5% de
+desmetilação de nicotina e com mutação no gene de nicotina desmetilase que codifica a SEQ ID
+nº 2, com as substituições W329* ou P107L) e, de acordo com o entendimento das citadas
+Diretrizes, a suficiência descritiva em tal caso só seria reconhecida perante informação de
+depósito das linhagens mutantes, pois não há garantia de obtenção do mesmo resultado.
+       Em suma, os argumentos da Requerente não são suficientes para comprovar a suficiência
+descritiva da matéria reivindicada. Conclui-se, dessarte, que o relatório descritivo não divulga
+informação e orientação suficiente para permitir que um técnico no assunto possa executar a
+invenção em todo seu escopo, com expectativa de sucesso. Portanto, o relatório descritivo não
+está de acordo com o artigo 24 da LPI. Essa mesma conclusão se aplica ao quadro reivindicatório
+alternativo apresentado, uma vez que esse contém as reivindicações de método de produção de
+planta de tabaco tal como no quadro examinado.
+2)     O termo fenótipo não-conversor, apontado no parecer técnico anterior como insuficiente
+para a caracterização clara e precisa da matéria, foi definido no atual quadro reivindicatório como
+sendo fenótipo não-conversor de menos de 5% de desmetilação de nicotina. Tal termo encontra-
+se suportado pelo relatório descritivo. Não haveria necessidade de se identificar um limite inferior
+para tal termo, como aponta a Oponente em seus subsídios, visto que a faixa de ao menos 5% é
+devidamente restrita e de acordo com os resultados experimentais demonstrados na Tabela 2 do
+relatório descritivo. Desse modo, a irregularidade apontada quanto à clareza do termo em questão
+foi sanada no atual quadro reivindicatório.
+3)     A respeito do suporte da matéria, a Requerente manifestou-se argumentando que o
+direcionamento da SEQ ID nº 1, usando RNAi, fornece o fenótipo não-conversor reivindicado.
+Observou, adicionalmente, que linhagens homozigóticas para as mutações W329* e P107L
+apresentam o fenótipo reivindicado (100% de fenótipo não-conversor, como mostrado na Tabela
+2).
+       O atual quadro reivindicatório encontra-se restrito às plantas com as mutações W329* e
+P107L, excluindo, desse modo, mutações que não se relacionam com as linhagens para as quais
+se observou um fenótipo não-conversor. No que diz respeito à afirmação de que não há
+comprovação experimental alguma de que a substituição observada na SEQ ID nº 1 seja a
+responsável pelo fenótipo de interesse, do parecer técnico anterior, deve ser observado que essa
+foi feita considerando-se as linhagens de tabaco obtidas pelo processo de geração de mutantes
+empregando-se o mutágeno EMS e listadas na Tabela 1 do relatório descritivo. Foram
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                        Página 5
+                                                                PI0719984-8
+
+
+desconsideradas, portanto, nessa afirmação as linhagens obtidas pela técnica de RNAi, já que
+essa técnica representa uma abordagem distinta da ora pleiteada.
+          Cabe destacar aqui o argumento da Oponente, em sua petição de subsídios ao exame (RJ
+870190021267, de 01/03/2019), de que apenas haveria suporte para a combinação das mutações
+W329* e P107L, já que o relatório descritivo não demonstra os efeitos esperados para os demais
+mutantes definidos anteriormente na reivindicação 1. Nos pareceres técnicos anteriores, o que foi
+sugerido é que, dada a ação abrangente e inespecífica do agente EMS no genoma, o fenótipo
+não-conversor observado para as linhagens TN 90-4246 e TN 90-1849 poderia não ser referente
+apenas às mutações W329* e P107L, respectivamente, já que mutações poderiam ter ocorrido
+concomitantemente em outras regiões do genoma, como, por exemplo, em outras sequências
+genéticas. Em nenhum momento pretendeu-se sugerir que apenas haveria suporte para a
+combinação das mutações W329* e P107L, já que as linhagens TN 90-4246 e TN 90-1849, com
+fenótipo não-conversor, apresentam as referidas mutações isoladamente (dados da Tabela 2).
+          Com relação aos argumentos apresentados pela Requerente, conclui-se que, de fato, os
+resultados da Tabela 2, demonstrando o fenótipo 100% não-conversor para as linhagens
+homozigóticas para as mutações W329* e P107L, podem ser considerados como evidência
+experimental suficiente do papel das mutações W329* e P107L em levar ao fenótipo não-
+conversor. Portanto, tendo em vista os esclarecimentos da Requerente e a restrição na
+reivindicação 1 às mutações W329* e P107L, essa é considerada suportada pelo relatório
+descritivo.
+4)        A reivindicação referente a tabaco curado (atual reivindicação 4) foi modificada de modo
+a sanar sua falta de clareza no que dizia respeito ao trecho caracterizado por ser feito a partir do
+híbrido, variedade ou linhagem de qualquer uma das reivindicações 1, 2 ou 3.
+
+
+                                    Quadro 4  Documentos citados no parecer
+
+ Código                                                 Documento                   Data de publicação
+     D1        US2006/0041949                                                            23/02/06
+     D2        US2005/0223442                                                            06/10/05
+     D3        Gavilano, L. B. et al. Genetic engineering of Nicotiana tabacum Novembro de 2006
+               for reduced nornicotine content. JOURNAL OF AGRICULTURAL
+               AND FOOD CHEMISTRY. 2006. Vol. 54, páginas: 9071-9078.
+     D4        Gavilano, L. B. et al. Functional analysis of nicotine demethylase          2007
+               genes reveals insights into the evolution of modern tobacco.            (manuscrito
+               Novembro de 2006. JOURNAL OF BIOLOGICAL CHEMISTRY.                     publicado em
+               Vol. 282, páginas: 249-256.                                             13/11/2006)
+     D5        WO2005038018                                                              28/04/05
+     D6        McCaluum, C. M. et al. Targeted screening for induced                      2000
+               mutations. Nat Biotechnol. 2000. Vol. 18, No. 4, páginas: 455-
+               457.
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                         Página 6
+                                                              PI0719984-8
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                    Cumprimento   Reivindicações
+                                                                          Sim           1 a 12
+            Aplicação Industrial
+                                                                         Não              ---
+                                                                          Sim           1 a 12
+                    Novidade
+                                                                         Não              ---
+
+                                                                          Sim           1 a 12
+            Atividade Inventiva
+                                                                         Não              ---
+Comentários/Justificativas
+
+       No parecer técnico anterior, foram citadas as anterioridades D1 a D6, sendo concluído
+que apenas as anterioridades D1 e D2 seriam impeditivas quanto ao patenteamento da matéria,
+visto que esses documentos, isoladamente, trazem o entendimento de que plantas de tabaco
+com mutações no gene codificador da enzima nicotina desmetilase podem ser obtidas por
+diferentes estratégias, como é o caso de mutações randômicas pelo agente químico EMS,
+havendo a possibilidade de se obter linhagens mutantes de tabaco com redução da conversão
+de nicotina em nornicotina. Apontou-se no entanto, que os dados do relatório descritivo
+demonstram efeito inesperado especificamente para as mutações W329* e P107.
+
+       A Requerente, em defesa da atividade inventiva, comentou que não foram apontados em
+D1 e/ou D2, os alelos mutantes descritos na SEQ ID nº 1 para o fenótipo não-conversor e que os
+resultados apresentados no presente pedido são surpreendentes na medida em que uma
+mutação em um único membro da família de genes em questão pode proporcionar o fenótipo
+não-conversor com menos de 5% de desmetilação de nicotina.
+
+       Tendo em vista a modificação do quadro reivindicatório, agora restrito às mutações
+W329* e P07L, e face às observações da Requerente de que linhagens homozigóticas para as
+mutações W329* e P107L apresentam o fenótipo reivindicado (100% de fenótipo não-conversor,
+como mostrado na Tabela 2), resultados esses considerados como evidência experimental
+suficiente do papel das mutações W329* e P107L em levar ao fenótipo não-conversor, a
+atividade inventiva da matéria tal como ora pleiteada é reconhecida.
+
+
+
+Conclusão
+
+       Os argumentos apresentados pela Requerente, bem como as modificações introduzidas
+no quadro reivindicatório (considerando-se também o quadro reivindicatório alternativo), não
+foram suficientes para superar todas as objeções ao patenteamento da matéria levantadas e
+extensivamente discutidas nos pareceres técnicos anteriores.
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 7
+                                                              PI0719984-8
+
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não
+apresenta suficiência descritiva (Art. 24 da LPI) e não é considerado patenteável, uma vez que
+incide no Art. 18 da LPI.
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                            Publique-se o indeferimento (9.2).
+
+
+
+Rio de Janeiro, 28 de março de 2019.
+
+
+
+
+Flávia Riso Rocha
+Pesquisador/ Mat. Nº 1550511
+DIRPA / CGPAT II/DIMOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                   Página 8
+

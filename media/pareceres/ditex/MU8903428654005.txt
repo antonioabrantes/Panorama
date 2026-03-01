@@ -1,0 +1,212 @@
+                                  SERVIÇO PÚBLICO FEDERAL
+                   MINISTÉRIO DA INDÚSTRIA, COMÉRCIO EXTERIOR E SERVIÇOS
+                       INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      MU8903428-7                N.° de Depósito PCT:
+ Data de Depósito:                   20/03/2009
+ Prioridade Unionista:               -
+ Depositante:                        Whirlpool S.A. (BRSP)
+ Inventor:                           Ana Paula Teixeira, Vera Coelho de Aguiar
+ Título:                             Máquina de secar roupas e método de secagem de roupas 
+
+                                                                PARECER
+          Através da petição nº 870170044153, de 26/06/2017, a requerente apresentou
+manifestação ao parecer técnico notificado na RPI nº 2412, de 28/03/2017, propondo
+modificações no pedido.
+
+          Através da petição nº 870170044309, de 27/06/2017, a empresa ELECTROLUX DO
+BRASIL S.A. impetrou subsídio ao exame técnico.
+
+          Através da petição nº 870170045644, de 30/06/2017, a empresa ELECTROLUX DO
+BRASIL S.A. impetrou novo subsídio ao exame técnico.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição          Data
+
+Relatório Descritivo                                     1a5                 870170008011          06/02/2017
+Quadro Reivindicatório                                      1                870170044153       26/06/2017
+
+Desenhos                                                 1a2                 870170008011          06/02/2017
+Resumo                                                      1                870170008011          06/02/2017
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 23 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                                Sim           Não
+A matéria enquadra-se no art. 10 da LPI (não se considera modelo de utilidade)                               x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                  x
+O pedido apresenta unidade técnico funcional (art. 23 da LPI)                                  x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                              Página 1
+                                              MU8903428-7
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                   Sim             Não
+O relatório descritivo está de acordo com o disposto no art. 24 da LPI            x
+O quadro reivindicatório está de acordo com o disposto no art. 25 da LPI          x
+Comentários/Justificativas
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                     Data de publicação
+    D1       BRPI0701784-7                                                             18/11/2008
+    D2       US3611759                                                                 12/10/1971
+    D3       DE3804624                                                                 24/08/1989
+    D4       JP2007282732                                                              01/11/2007
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 9.º, 11, 14 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento                   Reivindicações
+                                                         Sim                              1
+            Aplicação Industrial
+                                                        Não                            nenhuma
+                                                         Sim                              1
+                 Novidade
+                                                        Não                            nenhuma
+
+                                                         Sim                           nenhuma
+               Ato Inventivo
+                                                        Não                               1
+Comentários/Justificativas
+
+Manifestação da requerente:
+
+         A requerente sanou as iregularidades formais e argumentou quanto à anterioridade
+apontada D3.
+
+         Informou que a máquina objeto do presente modelo de utilidade compreende dispositivo
+com indicadores visuais, cuja escala relaciona a altura da carga de roupa no compartimento com
+o tempo de secagem a ser selecionado, enquanto a                 anterioridade    D3     apresenta    uma
+máquina compreendendo escala visual baseada no peso da carga de roupas (Kg).
+
+         A Requerente esclarece que tal diferença é de suma importância, porque a tecnologia
+empregada na máquina objeto do presente modelo de utilidade não está relacionada com a
+quantidade de água e insumos adicionados no interior do cesto em D3, mas com base no fluxo
+de ar interno gerado para secar as roupas. Por mais que o consumidor coloque uma carga de
+roupas até o nível máximo da escala da máquina secadora, ainda haverá um volume vazio no
+interior do cesto, de modo que tal volume vazio permita que haja uma circulação de ar e,
+consequentemente as roupas sejam secas.
+
+
+
+                                                                                                    Página 2
+                                           MU8903428-7
+
+
+       Dessa forma, a requerente alega que a escala utilizada no presente pedido facilita o
+uso para o consumidor, o qual não precisa se preocupar com o peso nem com o volume do
+cesto após a inserção da carga de roupas.
+
+
+
+Subsídio petição 870170044309:
+
+       A empresa subsidiante propôs maiores esclarecimentos sobre o documento japonês D4,
+concluindo com detalhes que a figura 6 revela a associação de um tempo de operação a partir
+da quantidade da carga de roupas dentro do tambor da máquina de lavar/secar.
+
+
+Subsídio petição 870170045644:
+
+       A empresa subsidiante relata um breve histórico do pedido em exame e busca comprovar
+a falta de ato inventivo do objeto reivindicado frente a D3 e D4.
+
+       Resgata do primeiro parecer técnico o trecho em que se aponta que Apesar de a
+requerente ilustrar a relação conhecida da técnica entre peso de carga de roupas e tempo de
+secagem (figura 1), não explica como concluiu a relação de altura (volume) com o tempo, ou
+seja, faz apenas uma associação de informações. Ao que a depositante do pedido respondeu:
+Não é sugerida ou revelada no pedido de patente em questão por dois simples motivos, a
+saber: 1) Esta possível fórmula ou relação, se quantificada, não exerceria ou sofreria qualquer
+tipo de influência sobre o escopo inventivo do pedido de patente em questão.... 2) Esta possível
+fórmula ou relação, além de ser majoritária e simplesmente experimental e variável, costuma
+variar ainda em função de outros múltiplos parâmetros e características da secadora de roupas
+(potência do motor, área de contato da troca de calor, dimensões da câmara de secagem,
+umidade do ambiente externo, dentre outros).
+
+       A subsidiante busca identificar uma contradição entre a resposta da depositante ao
+primeiro parecer, que desqualifica a importância do estudo, e a resposta ao último parecer,
+valorizando-o e apontando que D3 levou em consideração parâmetros processuais distintos.
+
+       Com relação a D4, a subsidiante insiste no fato de que revela uma máquina de lavar e
+secar roupas compreendendo vários programas e tipos de operação. Especificamente, D4
+propõe aos usuários das máquinas de secar e lavar uma seleção simples e eficiente do tempo
+de operação com base em uma indicação visual da carga de roupas que está alocada dentro da
+dita máquina.   Com isso, a solução proposta pelo pedido MU8903428-7 estaria revelada no
+documento D4.
+
+
+
+Decisão:
+
+       Os parâmetros técnicos enfatizados pela requerente como tendo sido usados na
+definição da escala numérica não podem ser verificados no conteúdo da única reivindicação
+nem mesmo revelados no relatório descritivo como objeto do pedido de patente. A matéria
+
+
+
+                                                                                         Página 3
+                                          MU8903428-7
+
+
+pleiteada limita-se a descrever uma disposição visual para máquina de secar roupas contendo
+um dispositivo com indicadores numéricos que associam a altura ocupada pela carga de roupa
+no compartimento com o respectivo tempo de secagem a ser selecionado pelo usuário no botão
+que contém os mesmos números.
+
+       Como já comentado, a comparação entre a figura 2 do presente pedido e a figura de D3
+comprova que em ambas há um dispositivo de indicação visual externo (e não na coluna do
+agitador ou na parede interna do cesto) compreendendo marcadores visuais correspondentes à
+altura da carga (ainda que a altura identificada em D3 tenha relação com o peso do material) e
+dispostos em uma faixa adjacente a uma abertura de recepção do compartimento de roupas,
+podendo ser visualizados mesmo após a inserção da carga de roupas. O fato de D3 também se
+referir a uma secadora invalida os argumentos da requerente no sentido de que os espaços
+vazios em D3 são sempre preenchidos com água e insumos, pois no caso de secagem, há
+circulação de ar. Nessa modalidade, o dispositivo de controle de operação que comanda uma
+funcionalidade da máquina de D3 certamente relaciona os sinais que detectam a altura de
+preenchimento do cesto com um parâmetro de secagem específico.
+
+       Portanto, a matéria reivindicada no pedido de Modelo de Utilidade não apresenta ato
+inventivo com relação à máquina secadora de D3, uma vez que é considerada comum e trivial
+na técnica a identificação visual da quantidade de roupas no cesto de uma secadora através de
+uma marcação numérica da altura da carga, com associação direta de um parâmetro de controle
+do processo a partir de identificação equivalente no botão de seleção do painel.
+
+       Com relação a D4, apesar de se verificar o mesmo tipo de funcionalidade ao
+correlacionar a quantidade de carga na máquina com a definição de programa correspondente
+no painel de controle, não sugere um dispositivo de indicação visual com faixas predeterminadas
+de altura da carga na abertura da porta do compartimento de roupas.
+
+
+
+Conclusão
+
+     Diante do exposto, INDEFIRO o presente pedido pelo fato de que a matéria não atende ao
+requisito de ato inventivo frente aos ensinamentos de D3 (Art .9º combinado com Art. 14 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                              Rio de Janeiro, 12 de julho de 2017.
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+Flavia Pinheiro Faria
+Pesquisador/ Mat. Nº 1287129
+DIRPA / CGPAT I/DITEX
+Del. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                         Página 4
+

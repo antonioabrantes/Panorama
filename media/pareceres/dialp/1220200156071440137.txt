@@ -1,0 +1,235 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122020015607-4           N.° de Depósito PCT: US2012/058481
+ Data de Depósito:                   02/10/2012
+ Prioridade Unionista:               US 61/542,953 (04/10/2011)
+ Depositante:                        ARCADIA BIOSCIENCES, INC. (US)
+ Inventor:                           ANN J. SLADE, DAYNA L. LOEFFLER, AARON M. HOLM, JESSICA
+                                     C. MULLENBERG
+ Título:                             Polinucleotídeo SBEIIa de trigo.
+
+                                                              PARECER
+
+
+          O presente exame técnico foi realizado à luz da LPI nº 9.279/96 e em observação a IN/INPI/PR Nº
+118 de 12/11/2020, publicada em 01/12/2020, que institui a nova versão das Diretrizes de Exame de
+Pedidos de Patente na área de Biotecnologia; a Resolução Nº 124/2013, de 17/12/2013, que institui as
+Diretrizes de Exame e Pedidos de Patentes Módulo 1, a Resolução Nº 169/2016, de 15/07/2016, que institui
+as Diretrizes de exame de pedidos de patentes  Bloco II  Patenteabilidade e a Resolução nº 093/2013 que
+instituiu as Diretrizes sobre a aplicabilidade do disposto no artigo 32 da Lei 9279/96 nos pedidos de
+patentes, no âmbito do INPI.
+
+          O presente pedido corresponde a uma divisão do pedido BR112014007928-5, solicitada por meio da
+petição nº 870200095408 em 30/07/2020. A notificação de depósito do pedido dividido foi publicada na RPI
+nº 2597 de 13/10/2020. Considerando o disposto no Art. 28 da IN PR nº 031/2013 (publicada na RPI nº 2241
+de 17/12/2013), o pedido dividido entra na mesma fase processual em que se encontra o pedido original, de
+forma que são aproveitados todos os documentos, pareceres, petições e despachos constantes no pedido
+original até a data de depósito do pedido dividido, cabendo ao INPI reduzir a termo a referência aos
+documentos e petições que se encontram no pedido original. Assim, são válidas para o presente pedido
+dividido as publicações e manifestações trazidas aos autos pela Requerente para o pedido original,
+especificamente o despacho 6.20 (notificado na RPI nº 2532 de 16/07/2019), a respectiva manifestação
+(petição nº 870190091446 de 13/09/2019) e o despacho 6.1 (notificado na RPI nº 2574 de 05/05/2020).
+
+
+
+  Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao Conselho
+         de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                              Sim     Não
+
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                           x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    x
+
+O pedido refere-se a Sequências Biológicas                                                             x
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                 Página 1
+                                           BR122020015607-4
+
+
+Comentários/Justificativas
+
+        O presente pedido não foi encaminhado à ANVISA uma vez que não se enquadra no art. 229-C da
+LPI, incluído pela Lei 10.196/2001.
+
+        A declaração negativa de acesso referente a Resol. INPI PR n.º 69/2013 foi apresentada no
+depósito do pedido dividido apresentado por meio da petição nº 870200095408 de 30/07/2020.
+
+        Por meio da petição nº 870200095408 de 30/07/2020 foi apresentada a Listagem Eletrônica de
+Sequências (Códigos de controle campos 1 e 2, B88CFF1AB4457A10 e 29E0789A9F527ACB,
+respectivamente). Tomando como base as regras estabelecidas na Portaria INPI/PR Nº 405/2020
+publicada na RPI nº 2608 de 29/12/2020 foi observado que o campo <140> não apresenta o número do
+BR122020015607-4. Dessa forma, deve ser apresentada uma nova Listagem de Sequências com as
+devidas correções, em conformidade com a Portaria INPI/PR Nº 405/2020, cabendo ressaltar que a
+listagem de sequências deve ter o título harmonizado com o título apresentado no relatório descritivo e
+resumo.
+
+
+
+                               Quadro 1  Páginas do pedido examinadas
+             Elemento                      Páginas             n.o da Petição                   Data
+Relatório Descritivo                       1 a 122             870200095408                   30/07/2020
+Listagem de sequências em
+                                           1 a 78              870200095408                   30/07/2020
+formato impresso
+Listagem de sequências*               Código de Controle       870200095408                   30/07/2020
+Quadro Reivindicatório                      1e2                870200095408                   30/07/2020
+Desenhos                                      -                       -                           -
+Resumo                                        1                870200095408                   30/07/2020
+      *Listagem de sequências em formato eletrônico referente ao                código   de    controle
+      B88CFF1AB4457A10 (Campo 1) e 29E0789A9F527ACB (Campo 2).
+
+        O presente exame considerou os argumentos apresentados por meio da petição nº 870210058384
+de 28/06/2021.
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n. o 9.279 de 14 de maio de
+                                           1996  LPI
+
+Artigos da LPI                                                                  Sim               Não
+
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)              -                    -
+
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                      -                    -
+
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                          -                    -
+
+O pedido está de acordo com disposto no art. 32 da LPI                                                x
+
+Comentários/Justificativas
+
+        No parecer técnico anterior, publicado na RPI nº 2621 de 30/03/2021, foi discutido que o quadro
+reivindicatório proposto no presente pedido dividido amplia indevidamente a matéria reivindicada no
+
+
+
+                                                                                                      Página 2
+                                           BR122020015607-4
+
+
+quadro reivindicatório válido do pedido original (BR112014007928-5), apresentado na petição nº
+860140083125 de 29/05/2014, para o qual foi solicitado exame por meio da petição nº 800150257388 de
+02/10/2015. Foi apontada falta de previsão no quadro reivindicatório válido do pedido original para: (i) a
+matéria pleiteada nas reivindicações 3, 6 e 10 referentes a polipeptídeo SBEIIa de trigo compreendendo a
+SEQ ID NO: 2, em que a glicina na posição 472 é um glutamato, polipeptídeo SBEIIa de trigo
+compreendendo a SEQ ID NO: 4, em que a glicina na posição 467 é um glutamato e polipeptídeo SBEIIb
+de trigo compreendendo a SEQ ID NO: 12, em que o triptofano na posição 233 é um códon de parada; (ii)
+as reivindicações que incluem no escopo da proteção pleiteada sequências com modificações não
+limitadas aquelas que foram inicialmente reivindicadas, tal como proposto nas reivindicações 1, 2, 4, 5, 7 e
+8 e (iii) os polinucleotídeo SBEIIb de trigo compreendendo a SEQ ID NO: 9, exceto por ter uma
+substituição de guanina por adenina na posição do nucleotídeo 1916, que corresponde a gene parcial de
+Triticum aestivum para a enzima de ramificação do amido lIb, genoma B, éxons 1-11 (par. 26). Dessa
+forma, concluiu-se que o quadro reivindicatório proposto no presente pedido dividido não poderia ser
+aceito.
+
+          Por meio da petição nº 870210058384 de 28/06/2021, a Requerente apresentou argumentos
+questionando a legalidade da Resolução nº 93/2013 do INPI. Alega que: (i) o Artigo 32 da LPI não foi
+violado, visto que nenhuma emenda foi efetuada no presente pedido de patente; (ii) a matéria reivindicada
+no presente pedido dividido estaria dentro do escopo de proteção do pedido principal no momento em que
+seu exame foi requerido; (iii) o Artigo 26 da LPI autoriza o depósito de pedido de divisão reivindicando
+concretização revelada em seu pedido de patente original ainda que não reivindicada; e (iv) o exame do
+presente pedido de divisão foi solicitado antes da publicação da Resolução n° 093/2013.
+
+          Os argumentos apresentados foram considerados, no entanto, não podem ser aceitos. A
+Resolução nº 093/2013, que estabelece as Diretrizes sobre a aplicabilidade do disposto no artigo 32 da
+Lei 9279/96 nos pedidos de patentes, no âmbito do INPI, está vigente e deve ser seguida pelo examinador
+durante o exame técnico de pedidos de patentes realizados na Diretoria de Patentes do INPI. Os itens 2.2
+e 3.3 de tal Resolução, que tratam da incidência do artigo 32 da LPI em pedidos divididos, determinam
+que alterações no quadro reivindicatório que ampliem a matéria reivindicada no quadro reivindicatório
+válido do pedido original, infringem o disposto no artigo 32 da LPI e, por conseguinte, não devem ser
+aceitas, devendo o quadro reivindicatório do pedido dividido ser recusado em sua totalidade. Portanto,
+mantém-se no presente exame a objeção quanto a incidência da matéria pleiteada no Art. 32 da LPI.
+
+
+
+
+                   Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                   Sim              Não
+
+O relatório descritivo está de acordo com disposto no art. 24 da LPI               -                -
+
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI             -                -
+
+Comentários/Justificativas
+
+
+
+
+                                                                                                    Página 3
+                                              BR122020015607-4
+
+
+                                Quadro 4  Documentos citados no parecer
+
+  Código                                     Documento                                 Data de publicação
+
+      -                                            -                                             -
+
+
+            Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+
+          Requisito de Patenteabilidade                Cumprimento                Reivindicações
+
+                                                              Sim                         -
+               Aplicação Industrial
+                                                              Não                         -
+
+                                                              Sim                         -
+                     Novidade
+                                                              Não                         -
+
+                                                              Sim                         -
+                Atividade Inventiva
+                                                              Não                         -
+
+Comentários/Justificativas
+
+
+
+Conclusão
+
+
+
+          Com base no artigo 32 da LPI, o quadro reivindicatório proposto no presente pedido dividido por
+meio da petição nº 870200095408 de 30/07/2020 foi recusado na sua totalidade, uma vez que propõe
+reivindicações que ampliam o escopo da proteção reivindicada no quadro reivindicatório válido do pedido
+original (BR112014007928-5). Considerando que tal questão foi anteriormente discutida no parecer técnico
+publicado na RPI nº 2621 de 30/03/2021, de acordo com o Art. 37, indefiro o presente pedido, uma vez que
+pleiteia proteção para reivindicações que ampliam o escopo das reivindicações pleiteadas no quadro
+reivindicatório válido do pedido original (Art. 32 da LPI).
+
+          De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da data de
+publicação na RPI, para interposição de recurso.
+
+
+
+                                                                           Publique-se o indeferimento (9.2).
+
+
+
+                                                                         Rio de Janeiro, 29 de junho de 2021.
+
+
+
+
+Erika Tarré Borges Antonelli
+Pesquisador/ Mat. Nº 1472698
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+                                                                                                     Página 4
+BR122020015607-4
+
+
+
+
+                   Página 5
+

@@ -1,0 +1,220 @@
+                              SERVIÇO PÚBLICO FEDERAL
+                               MINISTÉRIO DA ECONOMIA
+                 INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+                             RELATÓRIO DE EXAME TÉCNICO
+ N.° do Pedido:        BR112017023839-0            N.° de Depósito PCT:KR2016/004686
+ Data de Depósito:     04/05/2016
+ Prioridade Unionista: KR 10-2015-0064622 (08/05/2015)
+ Depositante:          CJ CHEILJEDANG CORPORATION (KR)
+ Inventor:             Won Sik Gwak; Hong Xian Li; Hyun Ju Won; Hyo Hyoung Lee; Kyung
+                       Su Na; Su Jin Park; Young Lyeol Yang; Hye Won Um; Chang Yub Oh;
+                       Kyoung Min Lee
+ Título:               Métodos para purificar 1,4-diaminobutano
+                                                                PARECER
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-50               870170099621           19/12/2017
+Quadro Reivindicatório                                     1-4               870210028207           25/03/2021
+Desenhos                                                    1                870170099621           19/12/2017
+Resumo                                                      1                870170085240           06/11/2017
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         x
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                       BR112017023839-0
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                             Data de publicação
+    D3                              JP2012201817A                               22/10/2012
+    D7                               EP2910543A1                                26/08/2015
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento               Reivindicações
+                                                    Sim                   1-11; 12-22
+            Aplicação Industrial
+                                                    Não
+                                                    Sim                   2-11; 13-22
+                 Novidade
+                                                    Não                      1 e 12
+                                                    Sim
+            Atividade Inventiva
+                                                    Não                   1-11; 12-22
+Comentários/Justificativas
+
+         A documentação analisada neste exame técnico do pedido consiste em um novo quadro
+reivindicatório com um total de 22 reivindicações, adaptado às disposições da Instrução Normativa
+IN030/2013, e ainda, das alegações feitas pela requerente em relação ao exame anterior,
+apresentadas através da petição nº870210028207 de 25/03/2021 como resposta ao parecer
+técnico de ciência notificado na RPI nº2608 de 29/12/2020.
+         Baseado nas referências do estado da técnica JP2012201817A(D3) e EP2910543A1(D7) a
+requerente apresenta suas alegações em relação ao parecer de ciência, adequando o escopo
+reivindicado de forma a fundamentar que os documentos D3 e D7 não podem antecipar, indicar ou
+sugerir uma solução técnica equivalente ao métodos para purificar 1,4-diaminobutano, conforme a
+descrição das matérias das reivindicações 1-22 do quadro reformulado.
+         A solução do problema da técnica visa prover meios de purificação e recuperação de 1,4-
+diaminobutano de fontes biológicas compreendidas por caldos de fermentação, e que sejam
+alternativos aos métodos biológicos convencionais de produção de 1,4-diaminobutano, cujo caldo
+fermentado apresenta um meio contendo sulfato de 1,4-diaminobutano, sendo necessária a
+adição de um composto alcalino para proporcionar a purificação do sulfato, mas que fornece,
+simultaneamente, a formação de uma grande quantidade de reações paralelas, as quais impõem
+etapas adicionais de purificação dos subprodutos.
+         Nesse sentido, o escopo reivindicado visa fornecer um método simples e econômico que
+evite o uso de reagentes alcalinos necessários a purificação de subprodutos, o qual envolve
+separar e recuperar 1,4-diaminobutano a partir do uso do sal de carbonato de 1,4-diaminobutano,
+e por meio de uma etapa de destilação de uma segunda composição que inclui sal de carbonato
+de 1,4-diaminobutano, remover o carbonato do sal do carbonato de 1,4-diaminobutano, e prover a
+recuperação do composto 1,4-diaminobutano.
+         No manifesto interposto, a requerente alega que o documento D7 não revela como
+característica técnica, no método de purificação e recuperação de 1,4-diaminobutano, o uso de
+um composto contendo nitrogênio, selecionado dentre amônia, sal de amônio de um composto
+
+
+                                                                                         Página 2
+                                      BR112017023839-0
+
+
+orgânico, um azo composto orgânico, e ainda, por um composto carbonato inorgânico, conforme
+agora preconizado a partir da reivindicações independentes 1 e 12 emendadas.
+       A requerente alega que a referência D7 destaca o uso de sulfato de amônio como fonte de
+nitrogênio no caldo fermentativo contendo o produto alvo 1,4-diaminobutano, e sustenta, a partir
+do exemplo comparativo 1 citado, constante no relatório descritivo do presente pedido, que
+quando empregado o sulfato de amônio como composto nitrogenado par purificar e recuperar o
+produto alvo, a saber, o 1,4-diaminobutano, este não é obtido conforme a referida concretização.
+       Por outro lado, a requerente sustenta que as concretizações preconizadas conforme o
+escopo reivindicado, sobretudo, a partir do uso da amônia, como composto nitrogenado
+empregado para prover a extração, purificação e recuperação do 1,4-diaminobutano, pôde
+proporcionar uma recuperação do produto alvo com um rendimento superior a 90%.
+       Em relação ao documento D3 citado, a requerente embora considere que a referência
+preconize uma etapa de decomposição térmica no caldo fermentado e/ou em um concentrado
+deste, contudo sustenta que o produto alvo 1,4-diaminobutano também não seria obtido, tal como
+aquilo que se verifica a partir do exemplo comparativo 1 do escopo reivindicado, de forma a
+destacar a ineficácia do sulfato de amônio como composto extrator do produto alvo, em contraste
+ao uso da amônia, que permite recuperar 1,4-diamoinobutano com um rendimento superior a
+90%.
+       Reexaminando o presente pedido em relação à manifestação apresentada, e com base no
+estado da técnica citado a partir dos documentos D3 e D7, são aqui feitas algumas considerações
+frente às matérias reivindicadas.
+       O documento D7, referência mais próxima, divulga um método para a purificação de 1,4-
+diaminobutano que envolve concentrar uma solução de fermentação, incluindo pelo menos um
+1,4-diaminobutano e um sal deste para obter um concentrado, e adicionar uma base ao
+concentrado da solução de fermentação para preparar uma composição básica com um pH 12, ou
+superior, recuperando 1,4-diaminobutano da composição básica.
+       Essencialmente, o processo de purificação de 1,4-diaminobutano envolve as etapas de
+fermentação, remoção celular por separação com membranas, uma etapa de concentração pela
+eliminação de água, com o ajuste de pH por uma base que, dentre as possibilidades citadas,
+envolve o emprego amônia em fase aquosa (hidróxido de amônio) para o ajuste de pH, e
+destilação para a recuperação de 1,4-diaminobutano, que dentre as concretizações, se encontra
+na forma de sais de carbonato de 1,4-diaminobutano produzidos no curso da fermentação em
+meio básico, conforme os aspectos já mencionados no parecer anterior.
+       O método de recuperação de 1,4-diaminobutano da composição básica inclui a separação
+da composição que inclui 1,4-diaminobutano em meio básico por destilação (seção da segunda
+etapa de concentração), e ainda, a separação de carbonato de 1,4-diaminobutano do 1,4-
+diaminobutano por meio de destilação fracionada, conforme os aspectos já mencionados no
+parecer anteriormente exarado.
+       A requerente alega em sua manifestação que o aspecto que diferencia o escopo
+reivindicado, e proporciona um efeito inesperado frente a anterioridade D7, deve-se ao uso de
+amônia como agente de ajuste do pH de solução durante a preparação do caldo de fermentação.
+
+
+                                                                                       Página 3
+                                         BR112017023839-0
+
+
+          Para isso, a requerente se baseia nas concretizações do relatório descritivo, sobretudo, os
+exemplos 1-5 preparados conforme o escopo que emprega amônia como meio de ajuste de pH,
+sendo avaliado a luz do exemplo comparativo, que emprega sulfato de amônia como agente
+contendo nitrogênio para uso no ajuste de pH na preparação do caldo. Nesse sentido, a
+requerente alega que após a etapa da concentração do caldo de fermentação, sua primeira
+destilação, seguida por uma destilação fracionada, que visam remover o carbonato de 1,4-
+diaminobutano e recuperar o produto alvo 1,4-diaminobutano, pôde prover um fator de
+recuperação superior a 90%.
+          Posto isso, deve-se aqui ressaltar, que D7 declara como agentes de ajuste de pH de
+solução compostos básicos da classe dos hidróxidos, que dentre as possibilidades, sugere e
+ensina o uso de hidróxido de amônio (ver em D7, parágrafo 0024 e 0049), que na verdade trata-se
+da amônia em fase aquosa.
+          A requerente sugere que o processo de preparação do caldo de fermentação em D7 faz o
+uso de sulfato de amônia para o ajuste do pH (ver em D7, parágrafo 0066), entretanto, D7 nada
+relata em relação ao fato do sulfato de amônio ser usado para essa finalidade, mas de forma
+adversa, os hidróxidos, conforme já aqui mencionados neste parecer.
+          Tanto é fato, que a referência D7 indica o ajuste de pH do caldo de fermentação para obter
+nas etapas de destilação subsequentes a purificação e recuperação do produto alvo, cujo
+desempenho em recuperação de 1,4-diaminobutano proporciona valores superiores a 75%, ou
+ainda, superiores a 85%, ou ainda, superiores a 90% (p/p) (ver em D7, parágrafos 0061-0062),
+sendo, em particular, o exemplo 2 preconizado por um desempenho em recuperação de 1,4-
+diaminobutano em 95%(p/p)(ver em D7, tabela 5).
+          Mesmo pode ser observado no documento D3, que também sugere e indica um processo
+de purificação de uma alcanodiamina (pentanodiamina), tal como propõe o processo reivindicado,
+sendo conduzido a partir de uma solução aquosa de carbonato de pentanodiamina, que é
+submetida a pressão reduzida em rotaevaporador, concentrando a solução de carbonato de
+pentadiamina, e ainda, a indicação da etapa de destilação para a obtenção da pentanodiamina
+sob temperatura de 80° C, em pressão reduzida, sendo obtida em sua forma purificada.
+          Portanto ao considerar a referência D7, que antecipa parte da matéria referente ao
+processo de purificação de 1,4-diaminobutano, quando a referência destaca hidróxido de amônio
+(amônia em fase aquosa) como agente de ajuste de pH, depreende-se que as matérias das
+reivindicações 1 e 12 , continuam carecendo de NOVIDADE, por não atenderem os Artigos 8o e 11
+da LPI.
+          Além disso, conforme a análise feita neste parecer, um técnico no assunto assumindo o
+documento D7, mais próximo, combinado ou não com o documento D3, teria os meios de alcançar
+de forma óbvia as matérias das reivindicações 1-11 e 12-22, que inclusive, não apresentam efeito
+inesperado frente ao estado da técnica citado, as quais permanecem carecendo de ATIVIDADE
+INVENTIVA, por não atenderem aquilo que preconizam os Artigos 8o e 13 da LPI.
+
+
+
+
+                                                                                            Página 4
+                                         BR112017023839-0
+
+
+Conclusão
+
+       Portanto, baseado no documento D7 citado, as matérias das reivindicações 1 e 12 não
+apresentam NOVIDADE, infringindo os Artigos 8o e 11 da LPI.
+       Além disso, com base no documento D7, combinado ou não, com o documento D3, as
+matérias das reivindicações 1-11 e 12-22 carecem de ATIVIDADE INVENTIVA, por ambas
+infringirem os Artigos 8o e 13 da LPI.
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido.
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+                                                            Rio de Janeiro, 2 de outubro de 2021.
+Flávio dos Reis Gonçalves
+Pesquisador/ Mat. Nº 1550074
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº 022/12
+
+
+
+
+                                                                                        Página 5
+

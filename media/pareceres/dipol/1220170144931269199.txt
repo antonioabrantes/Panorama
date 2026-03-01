@@ -1,0 +1,235 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122017014493-6         N.° de Depósito PCT:
+ Data de Depósito:                   07/07/2010
+ Prioridade Unionista:               US 12/510.478 (28/07/2009)
+ Depositante:                        CP KELCO APS (DK)
+ Inventor:                           Helle Bech Olsen, Mogens Andersen, Jens Eskil Trusdsoe
+ Título:                             Processos para desidratar materiais de biomassa de partida
+                                     compreendendo pectina ou carragenina e água
+
+                                                                PARECER
+        Em resposta ao parecer técnico, de 21 de janeiro de 2020, notificado pela publicação na
+RPI n° 2560, de 28 de janeiro de 2020, a requerente apresentou manifestação na petição n°
+870200073528, de 12 de junho de 2020, onde anexou alguns esclarecimentos e modificações
+no quadro reivindicatório, em razão das objeções oferecidas no referido parecer.
+
+          Desta forma, o exame do pedido teve continuidade com base nas vias apontadas no
+Quadro 1 desse parecer e considerando o conteúdo de manifestação apresentada.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 67               870170086478           09/11/2017
+Quadro Reivindicatório                                   1a6                 870200073528           12/06/2020
+Desenhos                                                 1a4                 870190103446           14/10/2019
+Resumo                                                      1                870170086478           09/11/2017
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR122017014493-6
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas:
+
+     As emendas realizadas para a apresentação do novo quadro reivindicatório superaram as
+objeções apontadas no parecer anterior no que diz respeito ao disposto no Artigo 25 da Lei da
+Propriedade Industrial.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                  US6183806B1                                   06/02/2001
+
+    D2                                  EP0761692B1                                   05/06/2002
+
+    D3                                 WO01/38400A2                                   31/05/2001
+
+    D4                                  EP0514890B1                                   25/09/1996
+
+    D5                                  US4895938A                                    23/01/1990
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                   1 a 29
+           Aplicação Industrial
+                                                        Não                       -
+                                                         Sim                   1 a 29
+                 Novidade
+                                                        Não                       -
+
+                                                         Sim                      -
+            Atividade Inventiva
+                                                        Não                    1 a 29
+Comentários/Justificativas
+
+          A análise das alegações da depositante, assim como do quadro reivindicatório,
+apresentados na petição 870200073528 de 12/06/2020, permitiu concluir que o pedido em
+questão permanece não atendendo ao Artigo 8º, combinado com o Artigo 13, da LPI, devido
+aos motivos expostos a seguir:
+
+         Entende-se que a característica técnica da invenção que proporciona o efeito técnico de
+aumento significativo de eficácia de separar mecanicamente água de biomassa é a introdução
+de álcool como uma composição umectante para facilitar a separação de água do material
+de biomassa de partida umedecido (vide página 2, linhas 11 a 13 do relatório descritivo do
+presente pedido de patente). Cabe destacar que a expressão material de biomassa de partida
+não restringe o escopo da matéria pleiteada de processo para biomassa fresca ((ou seja,
+
+
+                                                                                            Página 2
+                                       BR122017014493-6
+
+
+biomassa que não foi submetida a etapas anteriores de desidratação). Sem definir a
+composição ou constituição química desse sistema chamado de material de biomassa de
+partida, as reivindicações de processo pleiteadas podem incluir a possibilidade de que resíduos
+de biomassa sejam submetidos, por exemplo, a etapas de pré-tratamento anteriores às etapas
+descritas. Com base nessas considerações, conclui-se que os documentos D1-D4 permanecem
+sendo relevantes para análise dos critérios de patenteabilidade de novidade e atividade
+inventiva do presente pedido.
+
+         O documento D1 descreve um processo de recuperação de produtos de interesse de
+cascas de frutas cítricas que envolve a desidratação de material de biomassa. Nesse processo, há
+etapas de umedecer o material de biomassa (casca ou bagaço, previamente prensados) com
+solvente miscível em água (alcanol de baixo peso molecular como metanol, propanol e butanol) a
+fim de formar uma pasta de biomassa (col.3, 49-54; col.4, l. 4-7), sendo que esse processo de
+extração por solvente pode ocorrer em contracorrente (col.3, l.56) e separar mecanicamente pelo
+menos uma parte da água do material de biomassa umedecido da etapa anterior pela prensagem
+do material de biomassa umedecido para formar um material de biomassa desidratado (col. 4, l. 4
+e 43). Dessa forma, ele antecipa o ensinamento de que a desidratação de materiais de biomassa
+(de partida ou secundários) é favorecida pela etapa de extração, que envolve umedecer o material
+com uma composição contendo álcool (composição umectante) seguida por uma etapa de
+separação mecânica, como prensagem. Além disso, apesar de não ser definida especificamente
+uma etapa de drenagem, como é pleiteado pelo presente pedido, cabe destacar que, conforme
+trecho da última manifestação, a extração por solvente ou a extração líquido-líquido remove a
+porção da casca solúvel no solvente da porção insolúvel e que um técnico num assunto poderia
+entender que a drenagem é um meio de remoção da parte solúvel compreendido dentro de (ou
+associado a) essa operação de extração.
+
+         O documento D2 descreve um método para utilizar uma prensa para remover líquido de
+uma dispersão contendo pululano precipitada. Tal processo de recuperação de pululano
+compreende etapas de: umedecer o material de biomassa de partida (solução de pululano) com
+uma composição umectante que contenha álcool (solvente orgânico hidrofílico como álcool
+metílico, etílico, isopropílico, dioxano, acetona e tetrahidrofurano) a fim de formar uma pasta de
+biomassa (dispersão contendo pululano precipitada) com o material de biomassa umedecido e um
+componente líquido (reivindicações 1 e 7); separar mecanicamente ao menos parte do
+componente líquido da pasta e biomassa por meio de prensagem (reivindicação 1); e separar
+mecanicamente ao menos parte da água do material de biomassa umedecido para formar um
+material de biomassa desidratado, pois é prevista a possibilidade de remoção contínua de líquido
+e saída de solução de isopropanol (parágrafo 33). Ao final, o material compreende conteúdo
+líquido em uma quantidade de 40-50% em peso (ou seja, matéria seca em uma quantidade de 50
+a 60% em peso do material de biomassa) (parágrafo 24). Conclui-se que tal documento se
+diferencia da matéria pleiteada pelo presente pedido por utilizar um material de biomassa
+compreendendo polissacarídeos distintos, porém, revela o ensinamento de que a desidratação de
+
+
+
+
+                                                                                         Página 3
+                                        BR122017014493-6
+
+
+materiais de biomassa é favorecida quando há uma etapa de umedecer o material com uma
+composição contendo álcool (que causa a precipitação de pululano).
+
+           O documento D3 revela um método para        extrair pectina de resíduos de cascas e
+hipocótilo de soja compreendendo etapas de precipitação de pectina do licor de pectina usando
+álcool seguido por várias lavagens, prensagem e secagem (p.3, l. 22-26 e p.13, l.16 - p.19, l.16 e
+figura 2). Mesmo considerando o escopo mais restrito do quadro reivindicatório modificado, tal
+invenção ainda seria considerada óbvia para um técnico no assunto considerando os
+ensinamentos de D3 que a desidratação de materiais de biomassa (de partida ou secundários) é
+favorecida pela precipitação do polissacarídeo mediante umedecer o material de biomassa com
+uma composição contendo álcool (composição umectante).
+
+           De forma semelhante, o documento D4 também demonstra que a mistura de uma
+material de biomassa (solução aquosa de um polissacarídeo como pectina e carragenina) com um
+solvente orgânico hidrofílico (como uma composição umectante contendo álcool) promove a
+precipitação do polissacarídeo. Nesse documento, tal fenômeno é explicado pela maior afinidade
+do polissacarídeo com esse solvente do que com a água, o que facilita a remoção da água e
+assim há a separação e desidratação da suspensão contendo polissacarídeo (vide D4, coluna 2,
+linhas 15-26 e 49-58 e coluna 3, linhas 1 a 5).
+
+           Portanto, os documentos D1-D4 demonstram que, para diferentes materiais de
+biomassa, contendo pectina e carragenina  os mesmos polissacarídeos de que trata-se a
+invenção, sendo esses materiais previamente tratados (como D1 e D2) ou não (como D3 e D4), as
+etapas de a) cominuir o material de biomassa de partida; b) umedecer o material de biomassa de
+partida com uma composição umectante compreendendo um álcool ; c) separar, mecanicamente,
+pelo menos uma primeira parte do componente líquido da pasta de biomassa para formar um
+material de biomassa umedecido, através da drenagem do componente líquido do material de
+biomassa umedecido; e d) separar, mecanicamente, pelo menos uma segunda parte da água do
+material de biomassa umedecido por prensagem do material de biomassa umedecido permitem
+desidratar de forma eficaz materiais de biomassa. Nenhum efeito técnico inesperado foi
+observado mediante uso de material de biomassa de partida selecionado a partir do grupo
+consistindo em casca de fruta cítrica, polpa de maçã, resíduos de beterraba da produção de
+açúcar, resíduos de girassol da produção de óleo de girassol e resíduos de batata da produção de
+amido.
+
+         Diante dos ensinamentos encontrados no estado da técnica mais próximo (D1-D4), a
+matéria pleiteada pelas reivindicações 1 a 29 é considerada óbvia para um técnico no assunto e,
+portanto, não cumpre o requisito de atividade inventiva (Artigo 13 da LPI).
+
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+
+
+                                                                                         Página 4
+                                       BR122017014493-6
+
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                            Rio de Janeiro, 31 de agosto de 2020.
+
+
+
+
+Shalimar Pimenta Cheble Caplan
+Pesquisador/ Mat. Nº 2359423
+DIRPA / CGPAT I/DIPOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+008/18
+
+
+
+
+                                                                                         Página 5
+

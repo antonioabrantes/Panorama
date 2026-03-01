@@ -1,0 +1,268 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR112012025379-4          N.° de Depósito PCT:US10/050067
+ Data de Depósito:     23/09/2010
+ Prioridade Unionista: US 61/321,865 (07/04/2010); US 61/321,866 (07/04/2010); US
+                       61/351,814 (04/06/2010); US 61/378,924 (31/08/2010); US 61/378,926
+                       (31/08/2010); US 61/382,479 (13/09/2010); US 12/886,490
+                       (20/09/2010)
+ Depositante:          Apple Inc (US)
+ Inventor:             Justin Santamaria, David Mcleod, Jeremy Brown
+ Título:               Transição entre chamadas comutadas por circuito e chamadas de
+                       vídeo 
+
+                                                                PARECER
+          O presente pedido refere-se a métodos e dispositivos clientes cujo objetivo é estabelecer
+uma chamada de vídeo com dispositivos clientes que aceitam um convite a partir de um
+dispositivo cliente para transicionar de uma chamada de áudio comutada por circuito para uma
+chamada de vídeo IP (comutada por pacotes).
+          Em 07/04/2020, por meio da petição 870200044215, o Depositante apresentou
+modificações no pedido em resposta ao parecer emitido no âmbito da Resolução Nº 241/2019,
+notificado na RPI 2558 de 14/01/2020 segundo a exigência preliminar (6.21).
+
+          Em 25/06/2021, por meio da petição 870210057536, a Requerente apresentou
+argumentações e modificações no pedido em resposta ao parecer de ciência (despacho 7.1),
+notificado na RPI 2621 de 30/03/2021, no qual se considerou que o presente pedido carecia de
+atividade inventiva frente ao estado da técnica representado por D1 (EP0583094), D2
+(US7102663) e D3 (US2008123685).
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                   1 a 103               870210057536     25/06/2021
+
+Quadro Reivindicatório                                   1a9                 870210057536     25/06/2021
+
+Desenhos                                                1 a 40               020120112015     03/12/2012
+
+Resumo                                                      1                870210057536     25/06/2021
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                          Página 1
+                                           BR112012025379-4
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                           Sim               Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                         x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                 x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   x
+O pedido está de acordo com disposto no art. 32 da LPI                    x
+Comentários/Justificativas -
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas -
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                   EP0583094                                    16/02/1994
+    D2                                   US7102663                                    05/09/2006
+    D3                                 US2008123685                                   29/05/2008
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                   1 a 20
+            Aplicação Industrial
+                                                         Não                      -
+                                                         Sim                   1 a 20
+                 Novidade
+                                                         Não                      -
+
+                                                         Sim                      -
+            Atividade Inventiva
+                                                         Não                   1 a 20
+
+
+
+Comentários/Justificativas
+
+         Em sua manifestação, a Requerente argumenta que:
+
+
+
+
+                                                                                            Página 2
+                                  BR112012025379-4
+
+
+1. 'D1 divulga um sistema baseado em ISDN para fazer uma chamada de vídeo (vide o título
+  de D1). A implementação de ISDN descrita em D1 não divulga um método em um
+  dispositivo cliente para fazer a transição entre uma chamada de áudio comutada por
+  circuito e uma chamada de vídeo de Protocolo de Internet. Assim, D1 também não divulga,
+  "em resposta ao recebimento de pelo menos um quadro de vídeo de cada um do conjunto
+  de outros dispositivos de cliente do conjunto de participantes remotos, realizar transição da
+  chamada de áudio comutada por circuito na primeira rede para a chamada de vídeo IP na
+  segunda rede enquanto mantém o áudio da chamada de áudio comutada por circuito
+  aberta para comunicação de participante até que a chamada de vídeo IP seja
+  estabelecida, em que a manutenção do áudio da chamada de áudio comutada por circuito
+  inclui transmitir dados de áudio ao vivo para cada um do conjunto de outros dispositivos
+  clientes do conjunto de participantes remotos na chamada de áudio comutada por circuito
+  até completar a transição para a chamada de vídeo IP", conforme definido nas novas
+  reivindicações independentes 1, 6, 11 e 16 do presente pedido'.
+
+2. 'D2 ensina que uma chamada de áudio pode realizar transição para uma chamada de
+  vídeo. D2 divulga que "no momento, uma chamada de vídeo só pode ser feita quando uma
+  única chamada de áudio de saída estiver em andamento. Se uma chamada de conferência
+  estiver em andamento ou uma chamada estiver em espera, a opção de vídeo não estará
+  disponível" (vide a coluna 9, linhas 1-4 de D2). Portanto, a requerente respeitosamente
+  argumenta que D2 não ensina ou sugere, pelo menos, realizar transição entre uma
+  chamada de áudio comutada em circuito e uma chamada de vídeo de Protocolo de
+  Internet (IP). D2 também divulga o uso de uma conexão HSCSD (High Speed Circuit
+  Switched Data), que é um serviço fornecido por GSM (vide a coluna 8, linhas 40-44 de
+  D2). Para fazer a transição de uma chamada, D3 (sic D2) divulga colocar a chamada áudio
+  em espera, e então iniciar uma segunda chamada através de uma ligação HSCSD (ou
+  seja, a mesma rede que a chamada áudio). Portanto, a requerente respeitosamente
+  argumenta que D2 não ensina ou sugere "realizar transição da chamada de áudio
+  comutada por circuito na primeira rede para a chamada de vídeo IP na segunda rede
+  enquanto mantém o áudio da chamada de áudio comutada por circuito aberta para
+  comunicação de participante até que a chamada de vídeo IP seja estabelecida, em que a
+  manutenção do áudio da chamada de áudio comutada por circuito inclui transmitir dados
+  de áudio ao vivo para cada um do conjunto de outros dispositivos clientes do conjunto de
+  participantes remotos na chamada de áudio comutada por circuito até completar a
+  transição para a chamada de vídeo IP", conforme definido nas novas reivindicações
+  independentes 1, 6, 11 e 16 do presente pedido. Pelo menos pelos motivos descritos
+  acima, a requerente respeitosamente argumenta que D2 é limitado a liberar a chamada de
+  voz antes de realizar a transição para o vídeo (vide a coluna 8, linhas 11-15 de D2)'.
+
+3. 'D3 supostamente ensina uma chamada de vídeo IP. No entanto, a requerente
+  respeitosamente argumenta que D3 não ensina ou sugere, "realizar transição da chamada
+  de áudio comutada por circuito na primeira rede para a chamada de vídeo IP na segunda
+
+
+
+                                                                                      Página 3
+                                    BR112012025379-4
+
+
+  rede enquanto mantém o áudio da chamada de áudio comutada por circuito aberta para
+  comunicação de participante até que a chamada de vídeo IP seja estabelecida", conforme
+  definido nas novas reivindicações independentes 1, 6, 11 e 16 do presente pedido'.
+
+4. 'Portanto, pelo menos pelas razões acima indicadas, a requerente respeitosamente
+  argumenta que as novas reivindicações independentes 1, 6, 11 e 16 do presente pedido
+  são novas inventivas em relação aos documentos D1-D3, sejam eles considerados
+  individualmente ou em qualquer combinação dos mesmos'.
+
+
+
+  Análise das argumentações da Requerente:
+
+1. Quanto às argumentações da Requerente presentes no item 2 anterior, as mesmas foram
+  consideradas satisfatórias.
+
+2. Quanto às argumentações da Requerente presentes no item 1, 3-4 anteriores,
+  constatou-se que:
+
+   a) D1 (ver D1, resumo) descreve que uma chamada de voz (áudio apenas) iniciada por
+      um vídeo fone ISDN é convertida em uma chamada multimídia (áudio e vídeo) ISDN
+      em que as seguintes etapas são executadas:
+
+         a conexão para a chamada de voz é mantida sobre um canal de portadora 201
+          enquanto a chamada de áudio e vídeo é estabelecida sobre um outro canal de
+          portadora 230 distinta;
+
+         os sinais de áudio (sobre 201) da chamada de voz são comutados para a conexão
+          de áudio e vídeo (sobre 203) assim que a conexão de áudio e vídeo é estabelecida;
+          e
+
+         por fim, a chamada de voz (sobre 201) é desconectada.
+
+   b) Portanto, D1 sugere a um técnico no assunto a manutenção do áudio da chamada de
+      áudio (voz) transmitindo os dados de áudio ao vivo para os dispositivos clientes
+      participantes remotos na chamada de áudio até completar a transição para a chamada
+      de vídeo.
+
+   c) Um técnico no assunto sabe que uma rede ISDN é capaz de lidar tanto com
+      comutação de circuitos quanto com comutação por pacotes. Embora D1 não explicite
+      se tratar de duas redes distintas, apenas dois canais distintos dentro de uma única
+      rede ISDN, a anterioridade D3 ensina realizar a transição de uma chamada comutada
+      por circuito em uma primeira rede GSM para uma chamada de vídeo comutada por
+      pacotes em uma segunda rede IP (ver D3, Figuras 6-7 e resumo, particularmente o
+      trecho que cita (...) durante uma chamada GSM ou outro tipo de chamada telefônica,
+      habilitando a chamada para migrar para uma chamada VoIP ou para uma chamada
+      de vídeo sobre IP).
+
+
+
+
+                                                                                   Página 4
+                                         BR112012025379-4
+
+
+          d) Portanto, frente ao objetivo de prover a continuidade entre as chamadas e frente à
+            combinação dos ensinamentos de D1 e D3 (ver também trechos de D1 e D3 apontados
+            pelo exame anterior), um técnico no assunto obviamente proporia realizar a transição
+            da chamada de áudio comutada por circuito na primeira rede para a chamada de vídeo
+            IP na segunda rede enquanto mantém o áudio da chamada de áudio comutada por
+            circuito aberta para comunicação de participante até que a chamada de vídeo IP seja
+            estabelecida. Por conseguinte, a matéria pleiteada pelas reivindicações independentes
+            1, 6, 11 e 16 do presente pedido é mera decorrência do estado da técnica.
+
+       Sendo assim, as modificações e argumentações apresentadas pela Requerente foram
+consideradas insuficientes para sustentar que a matéria pleiteada pelas reivindicações
+independentes 1, 6, 11 e 16 possua atividade inventiva frente ao estado da técnica representado
+por D1 em combinação com D3.
+
+       Portanto, reafirma-se o dito anteriormente de que a matéria pleiteada pelas reivindicações
+de 1 a 20 é mera decorrência do estado da técnica.
+
+
+
+Conclusão
+
+
+       Face ao exposto neste parecer, reafirma-se que o presente pedido não atende às
+disposições do Art. 8° combinado com o Art. 13 da LPI, conforme apontado na seção
+comentários/justificativas do Quadro 5 deste parecer.
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -     não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                                Rio de Janeiro, 20 de julho de 2021.
+
+
+
+
+Carolina Medeiros Carvalho
+Pesquisador/ Mat. Nº 1504559
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+022/12
+
+
+
+
+                                                                                           Página 5
+

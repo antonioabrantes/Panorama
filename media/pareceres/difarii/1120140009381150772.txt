@@ -1,0 +1,188 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112014000938-4           N.° de Depósito PCT:EP2012/063852
+ Data de Depósito:                   13/07/2012
+ Prioridade Unionista:               EP 11 174266.4 (15/07/2011); EP 12 170055.3 (30/05/2012)
+ Depositante:                        BOEHRINGER INGELHEIM INTERNATIONAL GMBH (DE)
+ Inventor:                           WALDEMAR PFRENGLE, MARKUS FRANK, THOMAS KLEIN
+ Título:                             Quinazolinas substituídas, a preparação das mesmas e o uso das
+                                     mesmas em composições farmacêuticas 
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-47               870190065086           11/07/2019
+Quadro Reivindicatório                                     1-6               870190065086           11/07/2019
+Resumo                                                      1                870190065086           11/07/2019
+
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR112014000938-4
+
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI       x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                      x
+Comentários/Justificativas
+
+         As objeções relacionadas com o artigo 25 da LPI apresentadas no parecer técnico
+anterior são mantidas. A requerente não apresentou novo quadro reivindicatório, tampouco
+argumentos técnicos capazes de superar as objeções apresentadas.
+
+         A matéria pleiteada no quadro reivindicatório não está descrita de forma clara e precisa.
+Por exemplo, na reivindicação 1, os grupos X e Y podem ser os mesmos ou são diferentes. No
+entanto, só é apresentada opção de radical para o grupo, de modo que não é possível que os
+grupos sejam diferentes. O mesmo ocorre na descrição de R1 e R2.
+
+          Além disso, reivindicações que pleiteiam além dos compostos per se, seus
+estereoisômeros, solvatos, pró-fármacos, éteres e ésteres ou outros derivados não são aceitas.
+Estas expressões, por si só não identificam tais derivados de maneira clara e precisa, visto que
+somente definem os derivados por meio de sua classe ou função química (Diretrizes de Exame
+de Pedidos de Patente da Área de Química (Resolução No 208, de 27/12/2017)). Portanto, os
+estereoisômeros pleiteados não estão descritos de maneira suficiente no RD, contrariando o
+Artigo 24 e tal matéria não é suportada pela descrição, contrariando o Artigo 25 da LPI.
+
+         A reivindicação 9 pleiteia o uso de um composto para a preparação de uma composição
+para uso em um método de tratamento. No entanto, conforme as Diretrizes de Exame de
+Pedidos na Área de Química (Resolução/INPI/PR No 208, de 27/12/2017) as
+reivindicações de uso para preparar um medicamento devem especificar a doença a
+ser tratada. Reivindicações de novo uso que se refiram à condição tratada em
+termos de mecanismo de ação ou método terapêutico não são aceitas. Por esse
+motivo, tais reivindicações não estão de acordo com o disposto no Artigo 25 da LPI.
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1       Eckhardt et al: J Med Chem 50 (2007) p 6450-6453                         2007
+
+
+
+
+                                                                                           Página 2
+                                         BR112014000938-4
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento              Reivindicações
+                                                   Sim                       1-22
+          Aplicação Industrial
+                                                   Não
+                                                   Sim                       1-22
+                 Novidade
+                                                   Não
+                                                   Sim
+             Atividade Inventiva
+                                                   Não                       1-22
+
+
+
+Comentários/Justificativas
+
+       Em sua manifestação, a requerente apresentou os seguintes argumentos:
+
+         1.     A requerente argumenta que as condições relatadas no presente pedido para
+preparar o composto dimérico de fórmula I (HCl / meio aquoso) são diferentes daquelas
+relatadas na citação mais próxima D1 para a preparação do composto monomérico de D1 (HCl
+isopropanólico em cloreto de metileno), como por exemplo em termos da natureza do meio de
+reação (aquoso versus não aquoso), que pode influenciar e resultar em diferentes
+mecanismos de nucleofilicidade, reatividade e reação.
+
+         2.     Para a requerente, não se pode dizer que o composto dimérico da fórmula I, sua
+estrutura e ação, está direta e inequivocamente disponível / fornecido pela D1. Ainda, a
+requerente argumenta que a excelente atividade inibidora de DPP IV do composto de
+fórmula I, ora encontrada (vide Tabela na página 13), não é ensinada em D1, nem as
+referências citadas sugerem as modificações estruturais específicas feitas no composto de D1 e
+a atividade observada.
+
+
+
+       As argumentações apresentadas pela requerente não foram consideradas pertinentes. O
+fato de D1 apresentar diferentes condições de preparo do monômero não é relevante, tendo em
+vista que o produto final é o mesmo e está definido de maneira clara. Como pode ser observado,
+o composto 1 de D1 é idêntico ao composto de partida (IIA) utilizado no presente pedido (página
+44 do RD).
+
+       O composto pleiteado no presente pedido trata-se de um dímero do composto descrito
+em D1. Conforme já estabelecido no parecer técnico anterior, o dímero pleiteado possui
+novidade, conforme o artigo 11 da LPI.
+
+       No entanto, o técnico no assunto, conhecendo a atividade inibidora da DPP-4 do
+composto linagliptina relatado em D1, tem alta expectativa de sucesso ao propor que um dímero
+de tal composto irá manter a mesma atividade de seu monômero, uma vez que o dímero
+apresenta os mesmos grupos responsáveis pela interação com a enzima do fármaco conhecido.
+
+
+                                                                                        Página 3
+                                      BR112014000938-4
+
+
+Além disso, o RD não apresenta nenhum efeito técnico relacionado com a formação do dímero,
+que possa ser considerado uma contribuição para o estado da técnica, tendo em vista que o
+dímero possui a mesma atividade do seu monômero descrito em D1.
+
+       Desse modo, conclui-se que o composto pleiteado deriva de maneira óbvia do revelado
+em D1 para o técnico no assunto e não possui atividade inventiva, contrariando o disposto nos
+artigos 8o e 13 da LPI.
+
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI) e as reivindicações
+estão indefinidas (Art. 25 da LPI).
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+                                                           Rio de Janeiro, 04 de fevereiro de 2020.
+
+
+
+
+Carolina Soares Bemvindo Hashimoto
+Pesquisador/ Mat. Nº 2675420
+DIRPA / CGPAT I/DIFAR-II
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/15
+
+
+
+
+                                                                                          Página 4
+

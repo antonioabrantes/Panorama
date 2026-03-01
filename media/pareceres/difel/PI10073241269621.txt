@@ -1,0 +1,319 @@
+                                         SERVIÇO PÚBLICO FEDERAL
+                                          MINISTÉRIO DA ECONOMIA
+                              INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.º do Pedido:                       PI1007324-8                N.º de Depósito PCT: US2010/021291
+ Data de Depósito:                    16/01/2010
+ Prioridade Unionista:                US 61/145541 (17/01/2009)
+ Depositante:                         Inductoheat, Inc. (US)
+ Inventor:                            Gary A. Doyon, Don L. Loveless, Douglas R. Brown, Valery I. Rudnev,
+                                      Timothy G. Boussie, Glenville Colin Desmier
+ Título:                              Unidade Indutora, e, Método para Aquecer Indutivamente pelo menos
+                                      um Componente Substancialmente Cilíndrico de uma Peça de Trabalho
+                                      Metálica
+                                                                      PARECER
+
+      A Requerente recebeu notificação de Ciência de Parecer (7.1) publicada na RPI nº 2557, de
+07/01/2020. Através da petição nº 870200042036 de 01/04/2020, a mesma apresentou
+Manifestação sobre o Parecer Técnico, novo Relatório Descritivo, novo Quadro Reivindicatório e
+novo Resumo. Para fins de continuidade do exame estão sendo consideradas as vias abaixo:
+
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas           Nº da Petição      Data
+                                                                                870190077338
+ Relatório Descritivo                                          1-25                              09/08/2019
+                                                                                 Págs. 6 a 30
+                                                                                870200042036
+ Quadro Reivindicatório                                         1-9                              01/04/2020
+                                                                                 Págs. 11 a 19
+                                                                                020110074890
+ Desenhos                                                       1-4                              15/07/2011
+                                                                                Págs. 79 a 82
+                                                                                020110074890
+ Desenhos                                                       5                                15/07/2011
+                                                                                   Pág. 42
+                                                                                020110074890
+ Desenhos                                                      6-18                              15/07/2011
+                                                                                Págs. 84 a 96
+                                                                                870190077338
+ Resumo                                                         1                                09/08/2019
+                                                                                   Pág. 40
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                            Página 1
+                                                PI1007324-8
+
+            Quadro 2 - Considerações referentes aos Artigos 10, 18, 22 e 32 da LPI
+Artigos da LPI                                                                            Sim                     Não
+A matéria enquadra-se no Art. 10 da LPI (não se considera invenção)                                               X
+A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                                                       X
+O pedido apresenta Unidade de Invenção (Art. 22 da LPI)                                     X
+O pedido está de acordo com disposto no Art. 32 da LPI                                      X
+Comentários/Justificativas: ----
+                 Quadro 3 - Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                            Sim                     Não
+O relatório descritivo está de acordo com disposto no Art. 24 da LPI                        X
+O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI                                            X
+Comentários/Justificativas:
+
+    A reivindicação independente 8 contraria o disposto no Art. 25 da LPI e na Instrução
+Normativa nº 30/2013  Art. 5º (IV e V), pois possui dupla expressão caracterizado por.
+
+
+                            Quadro 4 - Documentos citados no parecer
+ Código                                  Documento                                                Data de publicação
+    D1                                  US2676242A                                                       1954-04-20
+
+
+
+
+      Quadro 5 - Análise dos Requisitos de Patenteabilidade (Art. 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento                              Reivindicações
+                                                         Sim                                        1-13
+           Aplicação Industrial
+                                                        Não                                          ----
+                                                         Sim                                        1-13
+                 Novidade
+                                                        Não                                          ----
+                                                         Sim                                         ----
+           Atividade Inventiva
+                                                        Não                                         1-13
+Comentários/Justificativas:
+
+    Reivindicação 1: Unidade indutora (10) para aquecer pelo menos um componente cilíndrico
+de uma peça de trabalho metálica, a unidade indutora sendo formada de um segmento indutor
+ativo (12) e um segmento indutor passivo (32), os segmentos indutores ativo e passivo (12, 32)
+tendo meios (60a, 60b, 60c, 60d) para magneticamente acoplar ao segmento indutor passivo (32)
+uma corrente alternada de alta frequência suprida ao segmento indutor ativo (12), pelo menos
+uma abertura fechada formada parcialmente no segmento indutor ativo (12) e parcialmente no
+segmento indutor passivo (32) para colocação do pelo menos um componente cilíndrico para
+aquecimento indutivo pela aplicação de um campo magnético ao pelo menos um componente
+
+
+
+                                                    Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12       Página 2
+                                             PI1007324-8
+
+cilíndrico, o campo magnético gerado pelos segmentos indutores ativo e passivo (12, 32), em
+resposta à excitação pela corrente alternada de alta frequência, em que:
+
+    o segmento indutor ativo (12) compreende ainda:
+
+    um segmento indutor ativo externo (14) formado em tomo de um segmento indutor ativo
+externo através da abertura:
+
+    um segmento indutor ativo interno (16) disposto dentro do segmento indutor ativo externo
+através da abertura e separado do segmento indutor ativo externo (14) por um espaço dielétrico
+eletricamente isolante (20);
+
+    uma abertura passante de indutor ativo (18) formada dentro do segmento indutor ativo interno
+(16), a abertura passante de indutor ativo (18) formando um primeiro segmento de bobina de
+indutor ativo interno (16a) e um primeiro segmento de bobina de indutor ativo externo adjacente
+(14a) e um segundo segmento indutor ativo interno (16b) e um segundo segmento de bobina de
+indutor ativo externo adjacente (14b), os primeiro segmento de bobina de indutor ativo interno
+(16a) e primeiro segmento de bobina de indutor ativo externo adjacente (14a) e segundo
+segmento indutor ativo interno (16b) e segundo segmento de bobina de indutor ativo externo
+adjacente (14b) dispostos em lados opostos da abertura passante de indutor ativo (18); e
+
+    pelo menos um par de aberturas de segmento indutor parcial ativo genericamente alinhadas
+(16a, 16b) formado da combinação de uma primeira abertura parcial ativa em cada um dos
+primeiros segmentos de bobina de indutor ativos externo (14a) e interno (16a) adjacentes, ou a
+combinação de uma segunda abertura parcial ativa em cada um dos segmentos de bobina de
+indutor ativos externo (14b) e interno (16b) adjacentes, cada uma da primeira abertura parcial
+ativa no primeiro segmento de bobina de indutor ativo externo (14a) e interno (16a) adjacentes, ou
+cada de segunda abertura parcial ativa nos segundos segmentos de bobina de indutor ativos
+externo (14b) e interno (16b) adjacentes tendo uma superfície de bobina arqueada de segmento
+indutor ativo (15a, 17a; 15b, 17b) interfaceando respectivamente com uma superfície (14f, 160
+faceando os segmentos de bobina ativos externo e interno; e
+
+    o segmento indutor passivo (32) compreendendo ainda:
+
+    um segmento indutor passivo externo (34) formado em tomo de uma abertura transpassante
+de segmento indutor passivo externo;
+
+    um segmento indutor passivo interno (36) disposto dentro da abertura transpassante de
+segmento indutor passivo externo e separado do segmento indutor passivo externo (34) por um
+espaço dielétrico eletricamente isolante (20);
+
+
+
+
+                                                 Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 3
+                                            PI1007324-8
+
+      uma abertura transpassante de indutor passivo (38) formada dentro do segmento indutor
+passivo interno (36), a abertura transpassante de indutor passivo (38) formando um primeiro
+segmento de bobina de indutor passivo externo (34a) e um primeiro segmento de bobina de
+indutor passivo interno (36a) adjacentes e um segundo segmento de bobina de indutor passivo
+externo (34b) e um segundo segmento de bobina de indutor passivo interno (36b) adjacentes, os
+primeiro segmento de bobina de indutor passivo externo (34a) e primeiro segmento de bobina de
+indutor passivo interno (36a) adjacentes e os segundo segmento de bobina de indutor passivo
+externo (34b) e interno (36b) adjacentes dispostos em lados opostos da abertura transpassante
+de indutor passivo (38); e
+
+      pelo menos um par adjacente de aberturas de segmento indutor parcial passivo (36a*, 36b)
+genericamente alinhadas formadas da combinação de uma primeira abertura parcial passiva em
+cada um dos primeiro segmento de bobina de indutor passivo externo (34a) e primeiro segmento
+de bobina de indutor passivo interno (36a) adjacentes, ou a combinação de uma segunda abertura
+passiva em cada um dos segundo segmento de bobina de indutor passivo externo (34b) e interno
+(36b) adjacentes, cada uma das aberturas parciais passivas dos primeiro segmento de bobina de
+indutor passivo externo (34a) e primeiro segmento de bobina de indutor passivo interno (36a)
+adjacentes, ou de cada das segundas aberturas parciais passivas nos segundo segmento de
+bobina de indutor passivo externo (34b) e interno (36b) adjacentes tendo uma superfície de
+bobina arqueada de segmento indutor passivo interfaceando respectivamente com uma superfície
+faceando o segmento de bobina passivo externo e interno (34f, 360, os pares de pelo menos um
+par adjacente de aberturas de segmentos indutores parciais ativos (16a, 16b) e passivos (36a,
+36b), genericamente alinhados,
+
+      respectivamente formando a pelo menos uma abertura fechada, quando as superfícies
+faceando os segmentos de bobina ativos externo (140 e interno (160 faceiam as superfícies
+faceando os segmentos de bobina passivos externo (340 e interno (360 com as superfícies
+faceando os segmentos de bobina ativos extemo (140 e interno (160 eletricamente isoladas das
+superfícies faceando o segmento de bobina passivo extemo (340 e interno (360;
+
+      caracterizado pelo fato de que o segmento de indutor ativo externo (14) é eletricamente
+isolado do segmento de indutor ativo interno (16) e que o segmento de indutor passivo extemo
+(34) é eletricamente isolado do segmento indutor passivo interno (36).
+
+      Reivindicação 8: Método para aquecer indutivamente pelo menos um componente cilíndrico
+de uma peça de trabalho metálica, o método caracterizado pelo fato de compreender as etapas
+de:
+
+      formar uma abertura fechada em tomo da extensão axial do pelo menos um componente
+cilíndrico, em que a abertura fechada é formada parcialmente em um segmento indutor ativo (12)
+
+
+
+                                                Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 4
+                                             PI1007324-8
+
+e parcialmente em um segmento indutor passivo (32), o segmento indutor ativo (12)
+compreendendo:
+
+    um segmento indutor ativo externo (14) formado em tomo de uma abertura transpassante de
+segmento indutor ativo externo:
+
+    um segmento indutor ativo interno (16) disposto dentro da abertura transpassante do
+segmento indutor ativo externo e separado do segmento indutor ativo externo por um espaço
+dielétrico eletricamente isolante (20);
+
+    uma abertura transpassante de indutor ativo (18), formada dentro do segmento indutor ativo
+interno (16), a abertura transpassante de indutor ativo (18) formando primeiros segmentos de
+bobina de indutor ativos externo (14a) e interno (16a) adjacentes e segmentos de bobina de
+indutor ativos externo (14b) e interno (16b) adjacentes, os segundos segmentos de bobina de
+indutor ativos externo (14b) e interno (16b) adjacentes sendo dispostos em lados opostos da
+abertura transpassante de indutor ativo (18); e pelo menos um par de aberturas adjacentes de
+segmentos indutores parciais ativos genericamente alinhadas (16a, 16b), formadas da
+combinação de uma primeira abertura parcial ativa em cada um dos primeiros segmentos de
+bobina de indutor ativos externo (14a) e interno (16a) adjacentes, ou a combinação de uma
+segunda abertura parcial ativa em cada um dos segmentos de bobina de indutor ativos externo
+(14b) e interno (16b) adjacentes, cada uma da primeira abertura parcial ativa no primeiro
+segmento de bobina de indutor ativo externo (14a) e interno (16a) adjacentes, ou cada de
+segunda abertura parcial ativa nos segundos segmentos de bobina de indutor ativos externo (14b)
+e interno (16b) adjacentes tendo uma superfície de bobina arqueada de segmento indutor ativo
+(15a, 17a; 15b, 17b) contorneada como uma borda de bobina ativa interfaceando respectivamente
+com uma superfície faceando os segmentos de bobina ativos externo (14f) e interno (160;
+
+    o segmento indutor passivo (32) compreendendo ainda: um segmento indutor passivo externo
+(34) formado em tomo de uma abertura transpassante do segmento indutor passivo externo;
+
+    um segmento indutor passivo interno (36) disposto dentro da abertura transpassante do
+segmento indutor passivo extemo e separado do segmento indutor passivo externo (34) por um
+espaço dielétrico eletricamente isolante (20);
+
+    uma abertura transpassante de indutor passivo (38) formada dentro do segmento indutor
+passivo interno (36), a abertura transpassante de indutor passivo (38) formando primeiros
+segmentos de bobina passivos externo (34a) e interno (36a) e um segundo segmento de bobina
+de indutor passivo externo (34b) e um segundo segmento de bobina de indutor passivo interno
+(36b) adjacentes, os um primeiro segmento de bobina de indutor passivo externo (34a) e um
+primeiro segmento de bobina de indutor passivo interno (36a) adjacentes e os segundo segmento
+
+
+
+                                                 Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 5
+                                           PI1007324-8
+
+de bobina de indutor passivo externo (34b) e interno (36b) adjacentes dispostos em lados opostos
+da abertura transpassante de indutor passivo (38); e
+
+    pelo menos um par de aberturas adjacentes de segmentos indutores parciais passivos
+genericamente alinhadas (36, 36b) formadas da combinação de uma primeira abertura parcial
+passiva de cada um do par de um primeiro segmento de bobina de indutor passivo externo (34a) e
+um primeiro segmento de bobina de indutor passivo interno (36a) adjacentes, ou a combinação de
+uma segunda abertura passiva em cada um dos segundo segmento de bobina de indutor passivo
+externo (34b) e interno (36b) adjacentes, cada uma da primeira abertura parcial passiva de cada
+um do par dos um primeiro segmento de bobina de indutor passivo externo (34a) e um primeiro
+segmento de bobina de indutor passivo interno (36a) adjacentes, cada uma de segunda abertura
+parcial passiva no segundo segmento de bobina de indutor passivo externo (34b) e interno (36b)
+adjacentes tendo uma superfície de bobina arqueada de segmento indutor passivo contomeada
+como uma borda de bobina passiva interfaceando, respectivamente, com uma superfície faceando
+o segmento de bobina passivo externo e interno (34f, 36f), os pares de pelo menos um par
+adjacente de aberturas de segmentos indutores parciais ativo (16a, 16b) e passivo (36a*, 36b)
+genericamente alinhados respectivamente formando a pelo menos uma abertura fechada, quando
+as superfícies que se faceiam de segmento de bobina ativos externo (140 e interno (160 faceiam
+as superfícies que se faceiam de segmentos de bobina passivos externo (340 e interno (360 com
+as superfícies que se faceiam de segmentos de bobina ativos externo e interno eletricamente
+isolados das superfícies que se faceiam de segmentos de bobina passivos externo e interno:
+
+    suprir uma primeira corrente alternada para o segmento indutor ativo externo (14);
+
+    suprir uma segunda corrente alternada para o segmento indutor ativo interno (16);
+
+    acoplar magneticamente os segmentos indutores ativo externo (14) e passivo externo (34) de
+modo que um primeiro campo de fluxo magnético seja estabelecido pelo menos em tomo das
+bordas de bobina ativa e passiva respectivamente formadas nos segmentos indutores ativo (14) e
+passivo externos (34); e
+
+    acoplar magneticamente os segmentos indutores passivos ativo interno (16) e passivo interno
+(36), de modo que um segundo campo de fluxo magnético seja estabelecido pelo menos em tomo
+das bordas de bobina passiva e ativa respectivamente formadas nos segmentos indutores ativo
+(16) e passivo (36) internos;
+
+    caracterizado pelo fato de que o segmento de indutor ativo externo (14) é eletricamente
+isolado do segmento de indutor ativo interno (16) e que o segmento de indutor passivo externo
+(34) é eletricamente isolado do segmento de indutor passivo interno (36).
+
+
+
+
+                                               Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 6
+                                                  PI1007324-8
+
+    Na manifestação a Requerente alega que D1 não sugere segmentos indutores ativos duplos
+(internos e externos) em combinação com segmentos indutores passivos duplos (internos e
+extemos) em que os segmentos indutores ativos e passivos internos e externos são eletricamente
+isolados um do outro, de acordo com a reivindicação 1, e ainda a configuração de segmentos
+indutores ativos e passivos como pleiteado na reivindicação 1 não seria óbvia para um técnico no
+assunto com conhecimento de D1.
+
+    Além disso, a Requerente alega que o método de solda por indução ensinado em D1 não
+sugere o método de aquecimento indutivo de pelo menos um componente cilíndrico de uma peça
+de trabalho de metal na reivindicação 8.
+
+Conclusão
+
+    Face ao exposto, conclui-se que a invenção ora pleiteada decorre de maneira evidente ou
+óbvia, para um técnico no assunto, a partir do estado da técnica, sendo desprovida de atividade
+inventiva, conforme Art. 13 da LPI.
+
+    Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que o mesmo não
+atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+    Rio de Janeiro, 31 de agosto de 2020.
+
+    Publique-se o indeferimento (9.2).
+
+    CAMILO BRAGA GOMES
+    Pesquisador / Mat. Nº 1547071
+    DIRPA / CGPAT III / DIFEL
+    Deleg. Comp. - Port. INPI / DIRPA Nº 022/12
+
+
+
+
+                                                      Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 7
+

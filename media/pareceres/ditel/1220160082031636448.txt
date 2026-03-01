@@ -1,0 +1,240 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR122016008203-2          N.° de Depósito PCT:US2013/040614
+ Data de Depósito:     10/05/2013
+ Prioridade Unionista: US 61/653,369 (30/05/2012); US 61/707,784 (28/09/2012); US
+                       13/673,791 (09/11/2012)
+ Depositante:          APPLE INC. (US)
+ Inventor:             SEUNGHEE HAN; YUAN ZHU; JONG-KAE FWU
+ Título:               Alocação de recurso de PUCCH com PDCCH aumentado
+
+                                                                PARECER
+
+
+      Em 31/05/2022 foi publicado, através da RPI nº 2682, notificação de ciência (7.1) conforme
+parecer de exame técnico do presente pedido datado de 23/05/2022.
+      O Depositante, através da petição nº 870220071022 de 09/08/2022, apresentou
+manifestação a respeito do parecer técnico, com novas vias do pedido.
+          O presente pedido é uma divisão do pedido original BR112014027216-6.
+       O exame do pedido dividido foi solicitado através do protocolo 800160124404 de
+09/05/2016, mesma data de solicitação do exame do pedido original.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 23               870220071022           09/08/2022
+                                                   1 a 3 (QRd2)              870220071022           09/08/2022
+Quadro Reivindicatório
+                                                    1 a 4 (QRv)              870160013765           13/04/2016
+Desenhos                                                 1a6                 870160013765           13/04/2016
+Resumo                                                      1                870220071022           09/08/2022
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                                   x
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                      BR122016008203-2
+
+
+Comentários/Justificativas
+         Em sua manifestação, o Depositante apresenta um novo quadro reivindicatório
+(identificado como QRd2 no Quadro 1).
+        O item 2.6 da Resolução no 093/2013 do INPI define que no caso da análise dos pedidos
+de patente resultantes da divisão de um Pedido Original (pedidos divididos), esta será feita com
+base no QR válido apresentado pelo Requerente até a data de pedido do exame do pedido de
+Patente Original (ou o QR apresentado junto a esta petição, se houver). O Quadro Reivindicatório
+válido encontra-se identificado como QRv no Quadro 1.
+        Da análise, constatamos que o QRd2 apresenta ampliação de matéria com relação ao
+QRv, conforme estabelece a Resolução INPI n° 093/2013, contrariando desta forma o Art. 32 da
+LPI, pelas seguintes razões:
+       2.1) Reivindicação Independente 1 do QRd2 comparada a Reivindicação 1 do QRv:
+       - O eNB da reivindicação independente 1 do QRv pleiteava originalmente as seguintes
+características técnicas (grifadas) que não se fazem presentes na reivindicação independente 1
+do QRd2: uma indicação de um valor de deslocamento selecionado a partir de uma pluralidade
+de valores de deslocamento compreendendo valores de deslocamento -2, -1, 0 e 2.
+        - Neste caso, constatamos que o QR apresenta ampliação de matéria com relação ao
+QRv, conforme estabelece o item 2.3 da Resolução INPI n° 093/2013, contrariando desta forma o
+Art. 32 da LPI, já que elementos da reivindicação independente não poderão ser retirados, após
+a data limite representada pela solicitação do exame do pedido de patente.
+        - A reivindicação independente 1 do QR passou a pleitear, de forma genérica,
+transmitir,..., um valor de deslocamento selecionado (grifos nossos). Mesmo que a expressão
+caracterizado por estabeleça que o valor de deslocamento selecionado é o 2, havia a restrição
+de que o eNB selecionava a partir de um conjunto de valores de deslocamento específico. Por
+conseguinte, a nova reivindicação independente 1 do QR possibilita que o valor de deslocamento
+2 seja selecionado de qualquer conjunto de valores, enquanto que originalmente tinha a
+obrigatoriedade de ser de um conjunto de valores -2, -1, 0 e 2. Com isso, por exemplo, o novo
+escopo de proteção possibilita que o valor de deslocamento seja selecionado de um conjunto
+contendo os valores de deslocamento (-3, 1, 2, 4). E tal conjunto vai além do escopo de proteção
+originalmente reivindicado na reivindicação independente 1 do QRv, pois não seria permitida já
+que o conjunto era restrito somente àqueles que compreendem obrigatoriamente os seguintes
+valores: -2, -1, 0 e 2.
+
+
+       2.2) Reivindicação Independente 1 do QRd2 comparada a Reivindicação 16 do QRv:
+        - Apesar do eNB da reivindicação independente 16 do QRv ser específica para o valor de
+deslocamento 2, essa reivindicação pleiteava originalmente as seguintes características técnicas
+(grifadas) que não se fazem presentes na reivindicação independente 1 do QRd2: um receptor
+acoplado ao transmissor, o receptor para receber um sinal em um canal de controle de enlace
+ascendente físico (PUCCH) que utiliza um recurso de enlace ascendente que é alocado com
+base, pelo menos em parte, em um índice de um primeiro eCCE dos um ou mais eCCEs e o valor
+de deslocamento.
+      - Neste caso, constatamos que o QR apresenta ampliação de matéria com relação ao
+QRv, conforme estabelece o item 2.3 da Resolução INPI n° 093/2013, contrariando desta forma o
+
+
+
+
+                                                                                        Página 2
+                                          BR122016008203-2
+
+Art. 32 da LPI, já que elementos da reivindicação independente não poderão ser retirados, após
+a data limite representada pela solicitação do exame do pedido de patente.
+
+
+         2.3) Reivindicação Independente 9 do QRd2 comparada a Reivindicação 9 do QRv:
+        - Não existe reivindicação de Método no QRv. Para comparação, será utilizada a
+reivindicação independente 9 do QRv de meio legível contendo um método, considerando-se
+que esta foi alterada de produto para processo em conformidade com o item 2.4 (i) da Resolução
+INPI n° 093/2013.
+       - A reivindicação independente 9 do QRv pleiteava originalmente as seguintes
+características técnicas (grifadas) que não se fazem presentes na reivindicação independente 9
+do QRd2: monitorar... para um valor de deslocamento selecionado a partir de um conjunto que
+compreende -2, -1, 0 e 2.
+       - Com isso, consideramos que a reivindicação independente 9 do QRd2 incide no Art. 32
+da LPI, com entendimento na Resolução INPI n° 093/2013, pelos mesmos argumentos contidos
+na análise realizada no item 2.1.
+        Do exposto, o novo quadro reivindicatório contraria o disposto no Art. 32 da LPI e, de
+acordo com os itens 2.5 e 3.2 (2.iii)(3.ii) da Resolução INPI PR n° 93/2013, o pedido será
+indeferido (despacho 9.2), considerando-se as razões de não-patenteabilidade apontadas no
+parecer de exame anterior, e, adicionalmente, o artigo 32 da LPI.
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                   x
+Comentários/Justificativas
+        Considera-se que a matéria do pedido atende ao disposto no Artigo 24 da LPI, visto que a
+suficiência descritiva não foi questionada nos Escritórios/Autoridades consultados para elaboração
+da exigência preliminar (6.21), conforme a Portaria/INPI/DIRPA N° 10/2021, procedimento CPAT-
+ETP-PP-0005, item 6.2.11.
+       Mantemos entendimento de que o QRv não atende as disposições do Art. 25 da LPI e
+Instrução Normativa nº 30/2013, considerando válidos os argumentos exarados nos pareceres
+técnicos publicados na RPI 2667 de 15/02/2022 e RPI 2682 de 31/05/2022.
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+             RESEARCH IN MOTION ET AL, "Rel-11 Channel Selection
+             Transmit Diversity Alternatives", 3GPP DRAFT; R1-122725 RIM
+    D1       REL11 CHANNEL SELECTION TXD ALTERNATIVES, 3RD                         12/05/2012
+             GENERATION PARTNERSHIP PROJECT (3GPP)
+             https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_69/Docs/
+
+
+
+                                                                                         Página 3
+                                      BR122016008203-2
+
+
+           SAMSUNG, "HARQ-ACK PUCCH Resources in Response to
+           ePDCCH Detections", 3GPP DRAFT; R1-122259 A_N FOR
+    D2     EPDCCH, 3RD GENERATION PARTNERSHIP PROJECT                               12/05/2012
+           (3GPP)
+           https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_69/Docs/
+           PANTECH, "PUCCH resource allocation in response to E
+           PDCCH", 3GPP DRAFT; R1-122456, 3RD GENERATION
+    D3                                                                              12/05/2012
+           PARTNERSHIP PROJECT (3GPP)
+           https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_69/Docs/
+    D4     CN101442818A                                                             27/05/2009
+    D5     CN102215094A                                                             12/09/2011
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade           Cumprimento                Reivindicações
+                                                  Sim                           -
+          Aplicação Industrial
+                                                  Não                           -
+                                                  Sim                           -
+                Novidade
+                                                  Não                           -
+                                                  Sim                           -
+           Atividade Inventiva
+                                                  Não                           -
+Comentários/Justificativas
+       Tendo em vista que o pedido não está de acordo com o Artigo 32 da LPI, não serão
+tecidos comentários quanto aos Artigos 8º, 11, 13 e 15 da LPI, conforme Portaria/INPI/DIRPA N°
+01/2022, procedimento CPAT-ETP-PP-0005, item 6.2.25.4.
+        De acordo com a Resolução INPI/PR no 052/2021  Art. 5o (§4o) em conjunto com o item
+2.5 da Resolução INPI/PR no 093/2013 e Portaria/INPI/DIRPA N° 01/2022, procedimento CPAT-
+ETP-PP-0005, item 6.2.25.5., mesmo nos casos de recusa do quadro reivindicatório com base no
+Art. 32 da LPI, deve ser avaliado se o quadro reivindicatório recusado contém matéria apta ao
+deferimento que possa ser usada como subsídio e/ou que possa direcionar o exame do quadro
+reivindicatório anterior.
+        Consideramos que o pedido contém matéria apta        ao deferimento, uma vez que as
+reivindicações independentes do QRd2 equivalem à matéria     da reivindicação independente 1 da
+patente EP 3,182,625 B1, a qual atende aos requisitos        de novidade e atividade inventiva
+conforme       análise    realizada   pelo     EPO           (https://register.epo.org/application?
+number=EP17155977&lng=en&tab=doclist).
+        Contudo, mesmo que o quadro reivindicatório apresentado esteja adequado às
+anterioridades citadas como impeditivas à patenteabilidade, a Portaria INPI/PR no 052/2021  Art.
+5o (§ 2o) estabelece, para que ocorra o deferimento, que o pedido deverá estar de acordo com a
+legislação nacional. Como o pedido reincide ao Art. 32 da LPI, o mesmo será indeferido conforme
+determina os itens 2.5 e 3.2 (2.iii)(3.ii) da Resolução INPI PR n° 93/2013, considerando-se as
+razões de não-patenteabilidade apontadas no parecer de exame anterior (Art. 25 da LPI).
+
+
+
+
+                                                                                          Página 4
+                                         BR122016008203-2
+
+
+Conclusão
+         Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -    as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+           descritivo (Art. 25 da LPI)
+
+     -     acréscimo de matéria do pedido ou do escopo das reivindicações (Art. 32 da LPI)
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 4 de outubro de 2022.
+
+
+
+
+Leonardo Cavalcanti de Sá Neto
+Pesquisador/ Mat. Nº 1738842
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 007/16
+
+
+
+
+                                                                                          Página 5
+

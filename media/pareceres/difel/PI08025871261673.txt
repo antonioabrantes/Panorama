@@ -1,0 +1,194 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0802587-8                N.° de Depósito PCT:
+ Data de Depósito:                   21/05/2008
+ Prioridade Unionista:               -
+ Depositante:                        PROCOMP AMAZÔNIA INDUSTRIA ELETRÔNICA LTDA (BRSP)
+ Inventor:                           Valmir Henrique da Cruz, Wilson Hideo Isawa, Cássio Akio Higuchi,
+                                     Marcelle Kapel Gontow
+ Título:                             Impressora com a junção dos mecanismos de impressão térmica e
+                                     matricial por impacto em um único equipamento compacto 
+
+                                                              PARECER
+Em relação às objeções apontadas no parecer anterior, com notificação de ciência de parecer,
+emitida na RPI nº 2577, de 26/05/2020, a requerente protocolou em 03/07/2020, sob nº
+870200083151, sua manifestação ao parecer. Foram apresentadas novas páginas do relatório
+descritivo, um novo quadro reivindicatório, com 4 reivindicações, das 5 anteriores, onde a antiga
+reivindicação 4 foi eliminada e um novo resumo. A Requerente incluiu páginas das
+reivindicações anteriores com marcações, indicando as modificações realizadas. A requerente
+também apresentou argumentações em defesa de seu pedido.
+
+O pedido refere-se a uma impressora para a automação de caixa para impressão de recibos,
+extratos e comprovantes utilizando impressão térmica e a autenticação ou validação de
+documentos utilizando impressão matricial por impacto. Com essas funcionalidades e de forma
+compacta conjugando e unindo, em um único equipamento, estando dentro de um único
+gabinete compacto e dotado de duas tampas de acesso independentes que se localizam na
+parte superficial do equipamento e se abrem, respectivamente, para trás e para frente, e que
+possibilita a montagem opcional de um dispositivo para cortar o comprovante, extrato e recibo
+impresso na impressora térmica. O título foi modificado e passou a ter a seguinte formulação:
+IMPRESSORA COM A JUNÇÃO DOS MECANISMOS DE IMPRESSÃO TÉRMICA E MATRICIAL POR
+IMPACTO.
+Para fins de continuidade do exame estão sendo consideradas as vias abaixo:
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                   1/5 a 5/5             870200083151     03/07/2020
+Quadro Reivindicatório                                     1/1               870200083151     03/07/2020
+Desenhos                                               1/3 a 3/3             870200083151     03/07/2020
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                               PI0802587-8
+
+
+Resumo                                      1/1                 870200083151                03/07/2020
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                             Sim                  Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                  x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                          x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                        x
+O pedido está de acordo com disposto no art. 32 da LPI                         x
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                             Sim                  Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                               x
+Comentários/Justificativas
+As páginas foram numeradas, mas erroneamente. A numeração da última página dos desenhos
+está equivocadamente apresentada como 3/6, ao invés de 3/3.
+A reivindicação independente 1 permanece contrariando o disposto no Art. 25 LPI e na Instrução
+Normativa nº 30/2013  Art. 4º (III) e Art. 5º (I), pois omite a definição das características técnicas
+do objeto, limitando-se a descrição do resultado alcançado.
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                 Data de publicação
+    D1      Subsídio DESP018110040623  Anexo C-2.1.3                                         ----
+    D2      Subsídio DESP018110040623  Anexo C-2.1.4                                  31/01/2006
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento               Reivindicações
+                                                         Sim                        1a4
+           Aplicação Industrial
+                                                         Não                         ----
+                                                         Sim                        1a4
+                 Novidade
+                                                         Não                         ----
+
+                                                         Sim                         ----
+           Atividade Inventiva
+                                                         Não                        1a4
+Comentários/Justificativas
+
+
+
+
+                                                                                                     Página 2
+                                          PI0802587-8
+
+
+Em defesa de seu pedido, a Requerente afirma que não é possível aferir todos os detalhes com
+a simples referência IMPRESSORA FISCAL, MODELO FS2100. Isso porque, nas páginas 94 e
+95 do mesmo subsídio, há a descrição do modelo FS2100, porém não há qualquer menção a
+impressão térmica. E, afirma ainda que, nas páginas 97 a 102 é apresentado o processo de
+produção das impressoras descritas        anteriormente, que inclui a FS2100, não sendo
+apresentado, novamente, qualquer informação sobre a impressão térmica e ainda adiciona o
+argumento de que é possível observar em D1 a observação conteúdo/características podem
+ser alterados sem prévio aviso o que reforça a falta de comprovação da característica técnica
+que ligam a descrição na nota fiscal com o produto comercializado.
+
+Estas argumentações são totalmente inconsistentes, embora a requerente tenha razão de que
+nas páginas 94 e 95 não seja citada impressão térmica, mas isto foi analisado e será discutido a
+seguir:
+
+O documento de subsídio citado refere-se várias vezes às características matricial e térmica da
+impressora FS2100T, como pode ser comprovado nas páginas:
+
+36, que mostra uma lista de vários modelos da FS 2100T, todos equipados com estações de
+impressão matricial e térmico;
+
+38, que apresenta as especificações técnicas de cada tipo de impressão;
+
+67, onde há recomendações em LIMPEZA INTERNA para as duas cabeças, matricial e térmica -
+confira-se o modelo da impressora referida à pág. 60);
+
+71, que apresenta uma página de CARACTERÍSTICAS TÉCNICAS, especificando os dois tipos
+de impressão;
+
+Dentre outras páginas que também se referem a diferentes modelos de impressora matricial e
+térmica, mas que não foram incluídos no parecer anterior.
+
+Quanto a falta de citação do mecanismo térmico de impressão nas páginas 94 e 95, uma análise
+mais específica mostra que as impressoras, onde somente o mecanismo matricial foi citado,
+refere-se aos modelos FS2000, FS2005 e FS2100 (ver pág. 95) e que estes modelos se
+basearam em um modelo matricial de outra marca/modelo. Então, de fato, estes 3 modelos (e
+possivelmente todos os modelos da tabela 2.1.2, da página 94, sejam exclusivamente matriciais
+(como também os modelos citados nas páginas 97 a 102, onde, de fato, nem a FS2100 foi
+encontrada).
+
+No entanto, o modelo que incorpora ambas os tipos de impressão, matricial e térmico é o
+modelo FS2100T, citado no parecer anterior como anterioridade para a impressora do presente
+pedido. Possivelmente o T refere-se a inclusão de impressão térmica ao modelo FS2100.
+Observe-se, novamente, que as páginas citada acima, referentes ao modelo FS2100T, não
+deixam dúvidas, são claramente apresentados os dois tipos de mecanismo. E a página 128, do
+anexo C-2.1.4, citada no parecer anterior para combinar com o anexo C-2.1.3 que traz uma nota
+fiscal datada de 31/01/06, também mostra claramente que o modelo vendido foi o modelo
+FS2100T.
+
+
+                                                                                        Página 3
+                                           PI0802587-8
+
+
+Assim sendo, os argumentos não se sustentam e reitera-se a conclusão do parecer anterior, de
+que a nova reivindicação 1 e suas dependentes não possuem atividade inventiva (e
+reconsiderou-se neste parecer como sem novidade também).
+
+
+
+Conclusão
+
+
+Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   as reivindicações estão indefinidas em suas características técnicas (Art. 25 da LPI)
+
+
+
+De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da data
+de publicação na RPI, para interposição de recurso.
+
+                                                                 Publique-se o indeferimento (9.2).
+
+                                                            Rio de Janeiro, 17 de agosto de 2020.
+
+
+
+
+Peter Michael Beer
+Pesquisador/ Mat. Nº 1547227
+DIRPA / CGPAT III/DIFEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+022/12
+
+
+
+
+                                                                                          Página 4
+

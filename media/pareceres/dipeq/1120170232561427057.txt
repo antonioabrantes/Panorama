@@ -1,0 +1,266 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112017023256-1         N.° de Depósito PCT:US2016/029445
+ Data de Depósito:                   27/04/2016
+ Prioridade Unionista:               US 14/696,632 (27/04/2015)
+ Depositante:                        GAS TECHNOLOGY INSTITUTE (US)
+ Inventor:                           MARTIN B. LINCK; TERRY L. MARKER; MICHAEL J. ROBERTS;
+                                     LARRY G. FELIX
+ Título:                             COPROCESSAMENTO PARA CONTROLE DE PROCESSOS DE
+                                     HIDROPIRÓLISE E PRODUTOS DOS MESMOS
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               No da Petição           Data
+
+Relatório Descritivo                                    1 a 80               870200071228          08/06/2020
+Quadro Reivindicatório                                   1a5                 870170082724          27/10/2017
+Desenhos                                                 1a5                 870170082724          27/10/2017
+Resumo                                                      1                870200071228          08/06/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                               Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                     X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                             X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                       X
+O pedido está de acordo com disposto no art. 32 da LPI                                                  X
+
+Comentários/Justificativas
+
+         O quadro reivindicatório modificado apresentado na petição 870210019423, de
+01/03/2021, e submetido para exame não pode ser aceito, pois as alterações foram efetuadas
+após o requerimento de exame e modificam substancialmente o escopo de proteção, não tendo
+sido motivadas para satisfazer a necessidade de melhor esclarecer ou definir a matéria objeto
+de proteção, configurando acréscimo de matéria reivindicada, contrariando o disposto no Art. 32
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                              Página 1
+                                       BR112017023256-1
+
+
+da LPI segundo o entendimento da Resolução PR nº 093/2013 (Diretrizes sobre a aplicabilidade
+do disposto no Art. 32 da LPI nos pedidos de patentes, no âmbito do INPI).
+      Nesta situação, o novo quadro reivindicatório, apresentado por meio da petição
+870210019423, é recusado em sua totalidade e o exame técnico é efetuado com base no
+quadro reivindicatório válido anterior, que corresponde àquele apresentado por meio da petição
+870170082724, de 27/10/2017.
+      Segundo o entendimento da Resolução PR nº 093/2013 (item 2.3), elementos da
+reivindicação independente não poderão ser retirados, após a data limite representada pela
+solicitação do exame do pedido de patente, pois, da mesma forma, não se pode ampliar o
+escopo da matéria requerida na data do pedido de exame. Assim sendo, considera-se que a
+remoção de parte do item (c) do processo ora reivindicado (petição 870170082724) acarreta na
+ampliação do escopo de proteção, nomeadamente a remoção do trecho: em que (i) uma
+condição de operação do reator de hidropirólise, (ii) uma condição de operação do reator de
+hidroconversão, (iii) uma propriedade do líquido de hidrocarboneto substancialmente
+completamente desoxigenado, ou (iii) qualquer combinação de (i), (ii), e/ou (iii), é aprimorada em
+virtude do coprocessamento de um precursor de hidrocarboneto alifático ou um precursor de
+hidrocarboneto aromático em pelo menos um dentre o vaso de reator de hidropirólise e o vaso
+de reator de hidroconversão.
+      Cabe ressaltar que, de acordo com o entendimento da Resolução PR nº 093/2013 (item
+2.3), também não é aceita a transferência, para uma reivindicação dependente, de uma
+característica originalmente presente em reivindicação independente.
+      Ademais, no quadro originalmente válido (petição 870170082724) era pleiteado o
+coprocessamento de um precursor de hidrocarboneto alifático ou um precursor de
+hidrocarboneto aromático (reivindicação independente 1). O precursor de hidrocarboneto
+alifático era definido como (reivindicação 2) um componente que contém triglicerídeo ou um
+produto de síntese de Fischer-Tropsch (F-T) e o precursor de hidrocarboneto aromático
+compreende (reivindicação 3) óleo bruto de pirólise, um subproduto de processamento de
+sulfato ou Kraft, um produto derivado de biomassa, ou lignina.
+      Já o quadro apresentado por meio da petição, 870210019423, de 01/03/2021, reivindica
+o coprocessamento, como uma matéria-prima separada, de um polímero oxigenado, em que o
+polímero oxigenado compreende poli(metil)metacrilato ou uma poliamida (reivindicação 9) ou um
+policarbonato ou tereftalato de polietileno (reivindicação 10), e tais compostos não eram
+originalmente pleiteados no quadro reivindicatório apresentado por meio da petição
+870170082724, de 27/10/2017.
+       Acresce frisar que após a solicitação do exame do pedido de patente, não é permitido
+que elementos presentes no relatório descritivo e não reivindicados originalmente sejam trazidos
+para o quadro reivindicatório, se esta inserção venha modificar e/ou ampliar o escopo da matéria
+reivindicada.
+
+
+
+
+                                                                                     Página 2 de 6
+                                           BR112017023256-1
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      -                  -
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    -                  -
+
+Comentários/Justificativas
+
+      Tendo em vista que o pedido não está de acordo com o Artigo 32 da LPI, não serão tecidos
+comentários quanto aos Artigos 24 e 25 da LPI, conforme a Norma de Execução SEI Nº 7/2019,
+procedimento P029, item 5.2.25.2.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                 US2014100395                                10/04/2014
+    D2                                 US2011099888                                05/05/2011
+    D3                                   US8492600                                 23/07/2013
+    D4                                 US20120088945                               12/04/2012
+    D5                                 US20090250376                               08/10/2009
+    D6                                 WO2013074437                                23/05/2013
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                   1 a 20
+           Aplicação Industrial
+                                                        Não                     -----
+                                                         Sim                   1 a 20
+                 Novidade
+                                                        Não                     -----
+
+                                                         Sim                    -----
+           Atividade Inventiva
+                                                        Não                    1 a 20
+
+Comentários/Justificativas
+
+
+      Em 08/06/2020, por meio da petição n° 870200071228, o depositante apresentou
+manifestação, em resposta ao parecer técnico emitido no âmbito da Resolução Nº 241/2019 e
+notificado na RPI 2566, de 10/03/2020, segundo a exigência de exame preliminar (6.21) e, em
+anexo, novas vias do relatório descritivo, quadro reivindicatório (total de 20 reivindicações) e
+
+
+
+
+                                                                                        Página 3 de 6
+                                       BR112017023256-1
+
+
+resumo, nas quais o título foi harmonizado com o preâmbulo das reivindicações independentes,
+de modo a prover uma melhor identificação da matéria reivindicada.
+      O quadro reivindicatório modificado apresentado na petição 870200071228, de
+08/06/2020, e submetido para exame não pôde ser aceito, pois as alterações foram efetuadas
+após o requerimento de exame e modificavam substancialmente o escopo de proteção, não
+tendo sido motivadas para satisfazer a necessidade de melhor esclarecer ou definir a matéria
+objeto de proteção, configurando acréscimo de matéria reivindicada, contrariando o disposto no
+Art. 32 da LPI segundo o entendimento da Resolução PR nº 093/2013 (Diretrizes sobre a
+aplicabilidade do disposto no Art. 32 da LPI nos pedidos de patentes, no âmbito do INPI).
+      O quadro reivindicatório contendo tais alterações foi recusado em sua totalidade, e o
+exame técnico foi efetuado com base no quadro reivindicatório válido anterior, que corresponde
+àquele apresentado por meio da petição 870170082724, de 27/10/2017.
+      Contudo, por economia processual, foi aproveitada a matéria patenteável contida no
+quadro reivindicatório recusado, como subsídio ao exame técnico, de acordo com o Artigo 5º
+parágrafo quarto da Resolução Nº 241/2019.
+      Assim sendo, em 01/03/2021, por meio da petição 870210019423, a requerente
+apresentou manifestação em resposta ao parecer emitido, notificado na RPI 2604, de
+01/12/2020 (despacho 7.1) e, em anexo, novas vias do quadro reivindicatório (total de 15
+reivindicações), o qual também não pôde ser aceito, por contrariar o disposto no Art. 32 da LPI
+segundo o entendimento da Resolução PR nº 093/2013 (Diretrizes sobre a aplicabilidade do
+disposto no Art. 32 da LPI nos pedidos de patentes, no âmbito do INPI).
+      Nesta situação, o novo quadro reivindicatório, apresentado por meio da petição
+870210019423, foi recusado em sua totalidade, sendo o exame técnico realizado com base no
+quadro reivindicatório válido anterior, que corresponde àquele apresentado por meio da petição
+870170082724, de 27/10/2017.
+      Desta forma, reiteram-se as argumentações de que, de acordo com o Artigo 5º §1º da
+Resolução Nº 240/2019, o exame realizado no escritório/autoridade EPO e apontado no parecer
+de exigência preliminar (6.21), é considerado como subsídio ao presente exame, sendo aqui
+apontadas as mesmas considerações quanto aos requisitos de patenteabilidade do quadro
+válido, conforme a procedimento P029, da Norma de Execução SEI Nº 7/2019, item 5.2.25.4.
+      Todavia, a requerente não apresentou manifestação com relação aos documentos D2-D6.
+      Cabe salientar que o documento D3 (parágrafos [0003], [0022], [0025], [0040] e Fig. 1
+(12)) ensina a hidropirolizar uma biomassa em um reator de hidropirólise, contendo hidrogênio
+molecular e um catalisador desoxigenante, produzindo gás CO2, CO e C1-C3, um líquido de
+hidropirólise parcialmente desoxigenado e carvão. O carvão vegetal produzido está na forma de
+
+
+                                                                                    Página 4 de 6
+                                      BR112017023256-1
+
+
+partículas e CO2 e CO são considerados gases não condensáveis. O documento D3 ensina
+como hidroconverter o referido líquido de hidropirólise parcialmente desoxigenado em um reator
+de hidroconversão, usando um catalisador de hidroconversão para produzir um hidrocarboneto
+líquido substancialmente totalmente desoxigenado e uma mistura gasosa compreendendo CO,
+CO2 e gases de hidrocarbonetos leves (C1-C3), em que o produto totalmente desoxigenado e os
+gases são recuperados. Em relação a carga de alimentação, D3 ensina que a alimentação de
+biomassa refere-se a material biológico derivado de organismos vivos ou não e inclui materiais
+lignocelulósicos, como madeira, materiais aquáticos, como algas, plantas aquáticas, algas
+marinhas e subprodutos animais e resíduos, como gorduras e lodo de esgoto.
+      Entretanto, D3 é silente sobre o fato de que a propriedade do hidrocarboneto líquido
+substancialmente completamente desoxigenado é aumentada em virtude do coprocessamento,
+como uma matéria-prima separada, um precursor de hidrocarboneto alifático ou um precursor de
+hidrocarboneto aromático em, pelo menos, um dentre o reator de hidropirólise e o reator de
+hidroconversão, e em que uma taxa de alimentação do precursor de hidrocarboneto alifático é
+ajustada em resposta a uma alteração medida ou desejada.
+      No entanto, o documento D4 (parágrafos [0010], [0011], [0015], [0016], [0026] e [0033] 
+[0035]) divulga um método para co-produção de diesel e gasolina por coprocessamento de óleos
+e gorduras de biomassa (triglicerídeos ou precursores de hidrocarbonetos alifáticos) com polióis
+de biomassa (precursor de aromáticos), em que os aromáticos de gasolina incluem benzeno e
+tolueno. O coprocessamento envolve o hidrotratamento das alimentações separadas na
+presença de hidrogênio para converter os óleos e gorduras em diesel renovável e para converter
+os polióis em gasolina. A vantagem do coprocessamento das duas matérias-primas inclui
+flexibilidade na fonte e disponibilidade da matéria-prima, bem como na demanda e preços da
+gasolina e do diesel. Ademais, o hidrotratamento de D4 é realizado na presença de hidrogênio e
+um catalisador compreendendo Ni, Co e/ou Mo ([0033] - [0035]) a uma temperatura de 300-
+850°F e uma pressão de 100-3000psig. Esta reação é semelhante à reação de hidroconversão
+de D3 (D3, parágrafo [0038]).
+      Portanto, decorreria de uma maneira óbvia ou evidente para um técnico no assunto ter
+modificado o método de D3, adicionando uma alimentação separada à reação de
+hidroconversão e coprocessando uma biomassa que produz diesel e/ou coprocessamento de
+um precursor de poliol aromático que produz aromáticos, usados na gasolina, com os benefícios
+de escolha flexível da fonte de biomassa e flexibilidade para responder à demanda econômica
+de gasolina e diesel (D4, parágrafos [0015] e [0016]) e também porque isso envolve a aplicação
+de uma técnica de co-processamento de alimentação conhecida a uma reação de
+hidroconversão/hidrotratamento, com resultados previsíveis e uma expectativa razoável de êxito.
+
+
+                                                                                    Página 5 de 6
+                                        BR112017023256-1
+
+
+Conclusão
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º e Art. 13 da LPI) e
+
+     -    acréscimo de matéria do pedido ou do escopo das reivindicações (Art. 32 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                                Rio de Janeiro, 25 de maio de 2021.
+
+
+
+
+Carla Maria Salerno Polato
+Pesquisador/ Mat. Nº 1485559
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                        Página 6 de 6
+

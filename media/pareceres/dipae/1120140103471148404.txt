@@ -1,0 +1,503 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112014010347-0           N.° de Depósito PCT: US2012/000534
+ Data de Depósito:                   01/11/2012
+ Prioridade Unionista:               US 61/554,291 (01/11/2011)
+ Depositante:                        DSM IP ASSETS B.V. (NL)
+ Inventor:                           MICHAEL LENN STEFANSKI, KRISTINE SHEILA CRAWFORD,
+                                     TANG XUEJUN
+ Título:                             óleo contendo ácido graxo poliinsaturado oxidativamente estável
+
+                                                              PARECER
+
+
+
+O pedido objeto deste parecer técnico foi depositado na natureza de Patente de Invenção e
+refere-se a um óleo que composto por ácidos graxos poli-insaturados, antioxidantes e lecitina, e
+foi submetido a exame técnico, resultando em um Parecer de Ciência (7.1), notificado na RPI nº
+2525, de 28/05/2019.
+
+Por meio da petição nº RJ 870190083463, de 26/08/2019, o Requerente manifestou-se,
+apresentando novas vias do Relatório Descritivo, do Quadro Reivindicatório e do Resumo. Cabe
+ressaltar que o Quadro Reivindicatório apresentado nesta petição não foi aceito em virtude da
+retirada de matéria da Reivindicação independente 7, ampliando a matéria inicialmente
+reivindicada e infringindo no Art. 32 da LPI.
+
+Por meio da petição nº RJ 870190141654, de 30/12/2019, o Requerente voltou a manifestar-se,
+apresentando novas vias do Quadro Reivindicatório. Cabe ressaltar que o Quadro Reivindicatório
+apresentado nesta petição não foi aceito em virtude da retirada de matéria da Reivindicação
+independente 1, a saber: em que o óleo é livre de lecitina, ampliando a matéria inicialmente
+reivindicada e infringindo no Art. 32 da LPI.
+
+Portanto, considera-se ainda o preconizado no inciso ii, do item 2.2, Parte 2, da Resolução n.º
+93/2013, que diz: Alterações no QR, voluntárias ou decorrentes de exames técnicos
+(despachos 6.1 ou 7.1) que venham a ampliar a matéria reivindicada, infringirão o disposto no
+artigo 32 da LPI e, por conseguinte, não serão aceitas. Nestas situações, o QR contendo tais
+alterações SERÁ RECUSADO EM SUA TOTALIDADE, mesmo que a alteração incida em
+apenas algumas das reivindicações (ou ainda que incida em apenas em UMA reivindicação),
+devendo o exame técnico ser efetuado tendo como base o QR anterior.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                   Página 1/10
+                                       BR112014010347-0
+
+
+Também na petição RJ 870190141654 o Requerente apresentou esclarecimentos/alegações
+quanto à falta de novidade e de atividade inventiva, citada no Parecer de 2º Exame, os quais são
+respondidos a seguir:
+
+      D2 descreve como evitar a oxidação adicionando antioxidantes durante o processo de
+       produção, D3 não fornece nenhum ensinamento sobre como o óleo usado na
+       composição é estabilizado e, D2 e D3 nem sequer ensinam sobre a estabilização do
+       óleo- O uso de antioxidantes é bem conhecido do estado da técnica (D1 a D3). O
+       documento D2 antecipa uma gordura compreendendo ácido graxo de cadeia longa poli-
+       insaturado (página 2, linhas 12 a 18), que pode ser tratado com antioxidantes em qualquer
+       momento do processamento (página 7, linhas 28 a 30), em que o antioxidante pode ser
+       tocoferol ou ácido ascórbico (página 8, linhas 29 e 30) e, de acordo com o documento D1
+       (parágrafo 104) o processo de refino elimina a lecitina. Logo, combinando os ensinamentos
+       do documento D1 com o revelado pelos documentos D2 ou D3, a matéria da atual
+       Reivindicação 1, mesmo que nova, seria destituída de atividade inventiva.
+
+Os comentários que se seguem estão baseados nos seguintes documentos:
+
+ Lei da Propriedade Industrial (LPI) - Lei n.0 9.279, de 14 de maio de 1996;
+
+ Instrução Normativa INPI PR n.0 030 de 04/12/2013 (IN n.0 30/2013), publicada na RPI 2241 de
+  17/12/2013, que dispõe sobre estabelecimento de normas gerais de procedimentos para
+  explicitar e cumprir dispositivos da Lei de Propriedade Industrial - Lei n° 9279, de 14 de maio
+  de 1996, no que se refere às especificações dos pedidos de patente;
+
+ Instrução Normativa INPI PR nº 031 de 04/12/2013, publicada na RPI 2241 de 17/12/2013, que
+  dispõe sobre estabelecer normas gerais de procedimentos para explicitar e cumprir dispositivos
+  da Lei de Propriedade Industrial - Lei n° 9279, de 14 de maio de 1996, no que se refere às
+  especificações formais dos pedidos de patente;
+
+ Resolução Normativa INPI PR n.º 69 de 18/03/2013 (Resolução n.º 69/2013), publicada na RPI
+   nº 2202 de 19/03/2013, que normaliza o acesso à amostra de componente do patrimônio
+   genético nacional dos pedidos de patente;
+
+ Resolução n.0 93 de 10/06/2013, publicada na RPI 2215 de 18/06/2013 (Resolução n.º
+  93/2013), que institui as Diretrizes sobre a aplicabilidade do disposto no Artigo 32 da Lei
+  9279/96 nos pedidos de patentes, no âmbito do INPI;
+
+ Resolução n.0 124 de 04/12/2013 (Resolução n.0 124/2013), publicada na RPI 2241 de
+  17/12/2013, que institui as Diretrizes de Exame de Pedidos de Patente  Conteúdo do Pedido
+  de Patente.
+
+
+
+
+                                                                                     Página 2/10
+                                             BR112014010347-0
+
+
+  Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                              Sim       Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                             x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)     x
+
+O pedido refere-se a Sequências Biológicas                                                                       x
+
+Comentários/Justificativas:
+
+A matéria do presente pedido não se enquadra no disposto no Art. 229-C da LPI.
+
+O Requerente manifestou-se, voluntariamente, por meio da petição RJ 860140083282 de
+29/05/2014, declarando que o objeto do presente pedido de patente de invenção não foi obtido
+em decorrência de acesso à amostra de componente do patrimônio genético nacional.
+
+A matéria do presente pedido não trata de Sequências Biológicas.
+
+
+
+                              Quadro 1  Páginas do pedido examinadas
+            Elemento                        Páginas                 n.o da Petição                    Data
+Relatório Descritivo                                             RJ 870190083463
+                                             1 a 68                                              26/08/2019
+
+Listagem de sequências em
+                                              ------                      ------                       -----
+formato impresso
+Listagem de sequências*               Código de Controle                  -------                     -------
+Quadro Reivindicatório                                           RJ 860150256460
+                                              1a7                                                03/11/2015
+
+Desenhos                                                         RJ 860140104722
+                                              1a4                                                27/06/2014
+
+Resumo                                                           RJ 870190083463
+                                                1                                                26/08/2019
+
+Comentários/Justificativas:
+O presente pedido tem data de depósito no PCT em 01/11/2012. Por meio da petição nº. RJ
+860140061032 de 29/04/2014, o presente pedido entrou em fase nacional e o Requerente
+apresentou as vias do Quadro Reivindicatório (49 Reivindicações) e do Resumo.
+
+Por meio da petição nº. RJ 860140104722, de 27/06/2014, o Requerente apresentou
+voluntariamente     novas     vias    do   Relatório     Descritivo,    do   Quadro      Reivindicatório        (49
+Reivindicações), dos Desenhos e do Resumo. Desta petição foram consideradas no presente
+exame técnico apenas as vias dos Desenhos.
+
+Ainda, por meio da petição nº. RJ 860150256460, de 03/11/2015, o Requerente apresentou
+voluntariamente novas vias do Quadro Reivindicatório (41 Reivindicações), do Resumo e da
+primeira página do Relatório Descritivo, alterando o título para ÓLEOS CONTENDO ÁCIDO
+GRAXO POLI-INSATURADO OXIDATIVAMENTE ESTÁVEL, USOS, PROCESSO PARA A
+PREPARAÇÃO DE UM PRODUTO ALIMENTAR E PRODUTO ALIMENTAR. Desta petição
+foram consideradas apenas no presente exame técnico as vias do Quadro Reivindicatório.
+
+
+                                                                                                      Página 3/10
+                                           BR112014010347-0
+
+
+Por meio da petição nº. RJ 870190083463, de 26/08/2019, o Requerente apresentou novas vias
+do Relatório Descritivo, Quadro Reivindicatório (38 reivindicações) e do Resumo, além de
+alteração   no    título   para   ÓLEOS     CONTENDO         ÁCIDO      GRAXO       POLI-INSATURADO
+OXIDATIVAMENTE ESTÁVEL, SEUS USOS E PRODUTO ALIMENTAR COMPREENDENDO
+ESSES REFERIDOS ÓLEOS. Desta petição foram consideradas apenas as vias do Relatório
+Descritivo e do Resumo no presente exame técnico. As vias do Quadro Reivindicatório não
+puderam ser consideradas no presente exame técnico, por incidirem no Art. 32 da LPI, conforme
+previsto no item 2.2, Parte 2, da Resolução n.º 93/2013.
+
+Por meio da petição nº. RJ 870190141654, de 30/12/2019, o Requerente apresentou novas vias
+do Quadro Reivindicatório (30 reivindicações), as quais não puderam ser consideradas no
+presente exame técnico por incidirem no Art. 32 da LPI, conforme previsto no item 2.2, Parte 2,
+da Resolução n.º 93/2013.
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                               Sim             Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                            x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                    x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                          x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas:
+
+No Quadro Reivindicatório apresentado na petição nº RJ 870190141654, de 30/12/2019, o
+Requerente retirou parte da matéria da Reivindicação independente 1, a saber: em que o óleo é
+livre de lecitina, contrariando o disposto no item 2.3, Parte 2, da Resolução n.º 93/2013, no
+trecho em que diz: Elementos da reivindicação independente não poderão ser retirados, após a
+data limite representada pela solicitação do exame, configurando o acréscimo de matéria e
+contrariando o disposto no Art. 32 da LPI.
+
+
+
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                               Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         x
+Comentários/Justificativas:
+
+No Parecer de Ciência (7.1), de 2º Exame, publicado na RPI nº 2543 de 01/10/2019, foi
+esclarecido para o Requerente que o Relatório Descritivo, o Quadro Reivindicatório e o Resumo
+do presente pedido não atendiam às disposições dos Artigos 24 e 25 da LPI, além apresentarem
+
+
+
+                                                                                            Página 4/10
+                                       BR112014010347-0
+
+
+irregularidades com relação ao cumprimento da Resolução n. 0 124/2013 e da Instrução
+Normativa INPI nº 30/2013.
+
+Em resposta a este parecer o Requerente apresentou a petição RJ 870190141654, com novo
+Quadro Reivindicatório, o qual foi recusado em atendimento ao disposto no inciso ii, do item 2.2,
+Parte 2, da Resolução n.º 93/2013 (vide Quadro 2 deste parecer técnico). Por outro lado, o
+Requerente não apresentou novas vias do Relatório Descritivo e do Resumo.
+
+Portanto, considera-se que o Relatório Descritivo, o Quadro Reivindicatório e o Resumo do
+presente permanecem em desacordo com o disposto nos Artigos 24 e 25 da LPI, na Resolução
+n.0 124/2013 e na Instrução Normativa INPI nº 30/2013. Assim, reiteram-se as opiniões de falta
+de clareza, reivindicações não formuladas de maneira positiva, matéria não redigida em função
+de suas características técnicas, matéria não fundamentada no Relatório Descritivo e método
+caracterizado pelo produto, citadas no Parecer de 1º Exame. A saber:
+
+O Relatório Descritivo apresentado na petição RJ 870190083463 contraria o disposto no
+parágrafo 2.03 do Capítulo II da Resolução nº 124/2013 e no Art. 24 da LPI, pois, não relata o
+estado da técnica pertinente à matéria pleiteada. O Relatório Descritivo também não cita os
+documentos que embasariam o problema técnico existente, assim como não permite relacionar
+as vantagens da dita invenção frente ao já conhecido no estado da técnica, contrariando os
+parágrafos IV e V do Art. 2º da Instrução Normativa nº 30/2013. Em alguns exemplos são
+citados alguns documentos do estado da técnica, porém, relacionando-os apenas aos processos
+de obtenção de óleos.
+
+O Relatório Descritivo do presente pedido também contraria o disposto no Art. 24 da LPI por não
+revelar de maneira suficiente os meios para melhorar a estabilidade oxidativa, uma vez que
+não lista e não descreve clara e precisamente quais são os meios adequados e necessários
+para melhorar a estabilidade oxidativa do referido óleo, sem levar a experimentação indevida por
+parte de um técnico, para a concretização da matéria para a qual se requer proteção,
+contrariando o Art. 24 da LPI e o estabelecido no parágrafo 2.13 do Capítulo II da Resolução n. 0
+124 /2013.
+
+Quanto ao Quadro Reivindicatório apresentado na petição RJ 870190083463, de 26/08/2019,
+considerando que o mesmo foi recusado em atendimento ao disposto no inciso ii, do item 2.2,
+Parte 2, da Resolução n.º 93/2013 (vide Quadro 2 deste parecer técnico), reiteram-se as
+opiniões citadas no Parecer de 1º Exame, a saber:
+
+As Reivindicações utilizam de expressões como pelo menos, de um ou mais e menos do
+que cerca de para definir o escopo da matéria para a qual se requer proteção. A aplicação de
+tais termos não apresenta efeito limitativo no escopo da matéria pleiteada e não descreve a
+invenção de maneira clara e precisa, contrariando o disposto nos parágrafos 3.01 e 3.50 do
+Capítulo III da Resolução n.º 124/2013 e o Art. 25 da LPI.
+
+Observam-se no Quadro Reivindicatório quatro (4) reivindicações independentes para a
+categoria de produto: 1, 3, 6 e 7. Decorre que, de acordo com o parágrafo 3.24 do Capítulo III da
+
+
+
+                                                                                      Página 5/10
+                                       BR112014010347-0
+
+
+Resolução n.º 124/2013 somente será admitida mais de uma reivindicação independente da
+mesma categoria se tais reivindicações definirem diferentes conjuntos de características
+alternativas e essenciais à realização da invenção. Da maneira como estão formuladas, as
+Reivindicações independentes 1, 3, 6 e 7 não apresentam diferentes conjuntos de
+características técnicas alternativas, visto que o elemento III dos quatro óleos pleiteados são
+distintos e os quatro óleos pleiteados apresentam pequenas diferenças no elemento I.
+
+Apesar de estarem ligadas pelo mesmo conceito inventivo, tais reivindicações diferem na
+composição, em especial o produto pleiteado na Reivindicação 6 e, portanto, não cumprem com
+o disposto no parágrafo 3.24 do Capítulo III da Resolução n.º 124/2013. Assim, a apresentação
+das Reivindicações independentes 1, 3, 6 e 7 não permite uma definição clara e correta do
+objeto do pedido e do escopo da matéria para a qual se requer proteção, contrariando o Art. 25
+da LPI e o preconizado no parágrafo I do Art. 5º da Instrução Normativa nº 30/2013.
+
+Adicionalmente, as Reivindicações independentes 3, 6 e 7 contrariam o disposto nos parágrafos
+III do Art. 5º da Instrução Normativa INPI nº 30/2013 e 3.25 do Capítulo III da Resolução nº
+124/2013 por não apresentarem de maneira clara a interligação entre os diferentes óleos, dentre
+a categoria de produto. Ou seja, o Requerente não apresentou uma expressão que evidenciasse
+a interligação e a ligação, pelo mesmo conceito inventivo, do produto pleiteado nas
+Reivindicações 3, 6 e 7 com o pleiteado anteriormente na Reivindicação independente 1. A
+interligação entre os três conceitos inventivos é fundamental para a alegação, conclusão e
+afirmação da unidade inventiva existente no pedido de patente, além de permitir precisar o
+escopo da matéria para a qual se requer proteção. Da maneira com estão redigidas as
+reivindicações 3, 6 e 7, particularidades do pedido, como a relação entre os diferentes óleos da
+categoria de produto, não estão definidas de maneira clara e precisa, contrariando o Art. 25 da
+LPI e as diretrizes estabelecidas nos parágrafos III dos Art. 3º e 5º da Instrução Normativa INPI
+nº 30/2013 e 3.25 do Capítulo III da Resolução nº 124/2013.
+
+Parte da matéria pleiteada nas Reivindicações 7, 17, 23 não encontra fundamentação no
+Relatório Descritivo, pois, as particularidades pleiteadas e relacionadas abaixo não estão
+devidamente definidas e caracterizadas no Relatório Descritivo apresentado, contrariando o
+disposto no Art. 25 da LPI o Art. 4º (IV) da Instrução Normativa INPI nº 30/2013, a saber:
+
+        1. dos meios para melhorar a estabilidade oxidativa (Reivindicação 7);
+
+        2. dos valores de POV e de AnV (Reivindicação 7) e;
+
+        3. das combinações das microalgas Thraustochytrium sp. e Schizochytrium sp.
+           (Reivindicação 23).
+
+O óleo pleiteado na Reivindicação 13 não está definido de maneira clara, precisa e positiva, já
+que a descrição das características técnicas a serem protegidas foi construída com base em
+elementos excludentes, a saber essencialmente livre de e livre de. Assim, a definição do
+produto para o qual se requer proteção contraria o disposto no Art. 25 da LPI e nos parágrafos
+
+
+
+
+                                                                                        Página 6/10
+                                       BR112014010347-0
+
+
+VIII do Art. 4º da Instrução Normativa nº 30/2013 e 2.01 e 3.83 do Capítulo III da Resolução n.º
+124/2013.
+
+A matéria da Reivindicação dependente 15 Reivindicações não está compreendida nas
+limitações das características técnicas da Reivindicação 13 a que se refere, provocando falta de
+clareza no Quadro Reivindicatório, contrariando o Art. 25 da LPI e os parágrafos 3.31 do
+Capítulo III da Resolução n.º 124/2013 e II do Art. 6º da Instrução Normativa nº 30/2013.
+
+A Reivindicação 20 contraria o disposto no Art. 25 da LPI pois não descreve a invenção de
+maneira clara e precisa, por afirmarem que o referido óleo é um óleo orgânico ou um óleo
+natural, visto que o termo/definição óleo natural não encontra suporte técnico na legislação
+brasileira pertinente, como o Padrão de Identidade e Qualidade de Óleos e Gorduras Vegetais e/
+ou a de Rotulagem de Alimentos.
+
+A Reivindicação 32 está descrita de maneira ampla, provocando falta de clareza e precisão ao
+Quadro Reivindicatório e ferindo o disposto no Art. 25 da LPI e no parágrafo 3.21 do Capítulo III
+da Resolução nº 124/2013, por não apresentar integralmente todas as etapas essenciais à
+realização do processo para o qual se requer proteção. De acordo com o disposto no parágrafo
+3.09 do Capítulo III da Resolução nº 124/2013, o conjunto das etapas sequenciais é que vem a
+definir corretamento o pleito de processos. O pleito de processo por meio de uma única etapa
+de realização, descrevendo-o de maneira ampla, não define clara, precisa e detalhadamente a
+matéria para a qual se requer proteção, contrariando o disposto no Art. 25 da LPI.
+
+As Reivindicações 34 a 41 não estão agrupadas de modo a trazer concisão à estrutura do
+Quadro Reivindicatório, contrariando o parágrafo 3.35 do Capítulo III da Resolução n.º 124/2013.
+
+Outras irregularidades:
+
+O Resumo apresentado pelo Requerente também não está de acordo com os parágrafos III do
+Art. 70 da Instrução Normativa INPI nº 30/2013 e 5.02 da Resolução nº 124/2013, por não
+permitir uma compreensão clara do problema técnico e da essência da sua solução por meio da
+matéria apresentada.
+
+A seguir são apresentados no Quadro 4 abaixo os documentos que constituem o estado da
+técnica mais próximo da matéria reivindicada e, portanto, foram considerados relevantes à
+constatação de novidade e atividade inventiva do objeto pleiteado.
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                               Data de publicação
+    D1      US2007003686A1  Polyunsaturated fatty acid-containing oil               04/01/2007
+            product and uses and production thereof
+    D2      WO03092628A2  High quality lipids and methods for producing             13/11/2003
+            by enzamatic liberation from biomass
+    D3      GB2444896A  Food additive mix comprising poly unsaturated               25/06/2008
+            fatty acids and an emulsifier
+
+
+
+                                                                                        Página 7/10
+                                        BR112014010347-0
+
+
+O documento D1 refere-se a um método para a produção de uma composição de gordura que
+compreende gordura saturada, um óleo microbiano e um emulsificante, em que o óleo
+microbiano compreende um LC-PUFA.
+
+O documento D2 antecipa uma gordura compreendendo ácido graxo de cadeia longa poli-
+insaturado, com três ou quatro ligações duplas e com um valor de anisidina igual ou menor que
+2. O ácido graxo poli-insaturado pode ser os ácidos docosaexaenoico, docosaexaenoico ou
+araquidônico.
+
+O documento D3 revela uma composição contendo ácidos graxos poli-insaturados (PUFA),
+particularmente os derivados de fontes marinhas como peixes, algas, micro-organismos e/ou
+plantas geneticamente modificadas. O documento também prevê o uso de tal composição na
+fortificação de alimentos, bebidas, suplementos e produtos nutracêuticos ou farmacêuticos.
+
+
+
+       Quadro 5 - Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade           Cumprimento               Reivindicações
+                                                    Sim                       1 a 41
+               Aplicação Industrial
+                                                    Não                        ------
+                                                    Sim                        ------
+                    Novidade
+                                                    Não                       1 a 41
+
+               Atividade Inventiva                  Sim                        ------
+
+                                                    Não                       1 a 41
+Comentários/Justificativas:
+
+Conforme apontado no Quadro 2 deste Parecer Técnico, o Quadro Reivindicatório apresentado
+na petição nº RJ 870190141654, de 30/12/2019, foi recusado por acréscimo de matéria,
+provocado pela retirada de matéria da Reivindicação independente 1. Portanto, reiteram-se as
+opiniões citadas no Parecer de 1º Exame, a saber:
+
+As Reivindicações de 1 a 41 não são novas, pois o documento D1, considerado o estado da
+técnica mais próximo da matéria pleiteada no presente pedido, antecipa um óleo que
+compreende mais de 4 ligações duplas numa quantidade acima de 30% em peso (parágrafo 12)
+e pode ser selecionado de ARA, DHA, DPA (parágrafo 72), o tocoferol como agente antioxidante
+(parágrafo 29) e menos de 1000 ppm de lecitina (parágrafo 18).
+
+Adicionalmente, nos exemplos do documento D1 são revelados os processos para obtenção do
+referido óleo. O óleo descrito pelo documento D1 ainda apresenta as seguintes caraterísticas:
+
+        possui extrato de alecrim como agente aromatizante (Reivindicações 11 e 12): parágrafo
+         29;
+
+        possui palmitato de ascorbila como agente antioxidante (Reivindicação 15): parágrafo 29;
+
+        possui de 35 a 50% e menos de 60% de DHA (Reivindicações 34 e 35): parágrafo 109;
+
+
+
+                                                                                        Página 8/10
+                                          BR112014010347-0
+
+
+      valor de Rancimat abaixo de 19 (Reivindicação 36): parágrafo 124;
+
+      os ácidos graxos poli-insaturados presentes incluem ácido docasoahexaenóico (DHA),
+       ácido eicosapentaenóico (EPA), ácido araquidônico (ARA), ácido docosaentaenóico
+       omega-3 (DPA n-3) e/ou ácido docosapentaenóico omega-6 (DPA n-6) (Reivindicação
+       41): parágrafo 124;
+
+      o óleo é obtido a partir das microalgas Thraustochytrium sp. e Schizochytrium sp.
+       (Reivindicações 22 e 23): parágrafo 15;
+
+      valor de Rancimat abaixo de 19 (Reivindicação 36): parágrafo 124;
+
+      pode ser utilizado como aditivo para o preparo de um produto alimentar (Reivindicações 30
+       e 31): parágrafo 100;
+
+Já os documentos D2 (página 8, linha 28) e D3 revelam (página 7, linha 14) o uso de ferro como
+oligoelemento fortificante no composto.
+
+O D3 também antecipa um óleo como mistura de aditivo alimentar, que compreende ácidos
+graxos poli-insaturados e um agente emulsificante, o qual é estabilizado com o uso de um
+antioxidante selecionado a partir de tocoferol, extrato de alecrim, ácido ascórbico e ainda discute
+o aroma de peixe nas formulações (página 4, linhas 5 a 13) e apresenta valores de aroma para
+formulações a base de óleo de peixe (Tabela 4, página 15).
+
+Assim, assunto reivindicado é conhecido do estado da técnica e as Reivindicações de 1 a 41
+não atendem ao requisito essencial de novidade frente ao estado da técnica representado pelos
+documentos D1 a D3, contrariando o disposto no Art. 8° da LPI combinado com o Art. 1 1 da
+mesma Lei, não podendo ser concedida a proteção patentária. Adicionalmente, nenhuma etapa
+inventiva relevante ou um efeito técnico surpreendente foram demonstrados.
+
+
+
+Conclusão:
+
+Assim sendo, de acordo com o Art. 37, opino pelo indeferimento do presente pedido, uma vez que
+não atende ao requisito de atividade inventiva (Art.8º combinado com Art. 13 da LPI), as
+reivindicações não estão claramente definidas e não estão fundamentadas no relatório descritivo
+(Art. 25 da LPI) e, também, pelo acréscimo de matéria do escopo inicialmente pleiteado nas
+reivindicações (Art. 32 da LPI).
+
+De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da data
+de publicação na RPI, para interposição de recurso.
+
+
+
+                                                           Rio de Janeiro, 03 de fevereiro de 2020.
+
+
+
+
+                                                                                        Página 9/10
+                                     BR112014010347-0
+
+
+Gisele Lara de Almeida
+Pesquisador/ Mat. Nº 1727611
+DIRPA / CGPAT II/DIPAE
+
+
+
+De acordo com o parecer acima, indefiro o presente pedido.
+
+
+
+                                                             Publique-se o indeferimento (9.2).
+
+
+
+
+Lúcia Aparecida Mendonça
+Chefe de Divisão/ Mat. Nº 1551960
+DIRPA / CGPAT II/DIPAE
+Portaria INPI/PR Nº778/10
+
+
+
+
+                                                                                 Página 10/10
+

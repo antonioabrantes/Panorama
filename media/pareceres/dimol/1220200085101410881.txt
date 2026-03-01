@@ -1,0 +1,207 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122020008510-0                        N.° de Depósito PCT:
+ Data de Depósito:                   24/02/2011
+ Prioridade Unionista:               -
+ Depositante:                        IMMUNOGEN, INC. (US)
+ Inventor:
+ Título:                             Anticorpo humanizado ou fragmento de ligação ao antígeno do
+                                     mesmo que se liga especificamente a um receptor de folato humano
+                                     1, seu método de preparação e seu uso, imunoconjugado e seu uso,
+                                     reagente diagnóstico e kit
+
+                                                              PARECER
+          O presente pedido é uma divisão do pedido BR112012021296-6 solicitada através da
+petição n° 870200053121 de 29 de abril de 2020 e foi aceito por se encontrar na mesma fase
+processual de seu pedido original, de acordo com as disposições do artigo 26 da Lei 9.279/1996
+(LPI).
+
+          O pedido original, até o momento, sofreu exigência de pré-exame (6.20) notificada por
+meio da RPI n° 2531 de 02/07/2019. A requerente respondeu a dita exigência por meio da petição
+n° 870190087022 de 05/09/2019. O INPI notificou então parecer técnico de ciência de parecer
+(7.1) através da RPI n° 2561 de 04/02/20. A requerente apresentou resposta por meio da petição
+n° 870200054275 de 30/04/20. O INPI então notificou parecer técnico de exigências técnicas (6.1)
+por meio da RPI n° 2609 de 05/01/2021. A requerente respondeu ao referido parecer através da
+petição n° 870210029954 de 31/03/2021.
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                              Sim    Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                     X     ---
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)      X     ---
+
+O pedido refere-se a Sequências Biológicas                                                               X     ---
+
+Comentários/Justificativas
+
+          Referente ao pedido original:
+
+          Por intermédio da petição n° 20130038864 de 07 de maio de 2013, a requerente negou
+o acesso ao material genético e ao conhecimento tradicional associado, de acordo com o artigo
+31 da MP 2186-16/01.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                            Página 1 de 4
+                                         BR122020008510-0
+
+
+       Através da RPI no 2455 de 23 de janeiro de 2018 o INPI publicou um despacho 7.4
+encaminhando o presente pedido de patente de invenção à ANVISA, de acordo com o artigo
+229-C da lei no 9279/96. Além disso, por meio da RPI no 2525 de 29 de maio de 2019, o INPI
+publicou um despacho 7.5 de notificação de anuência do pedido pela ANVISA por não se
+enquadrar nos termos do Artigo 229-C da lei no 9279/96, conforme redação dada pela lei n°
+10.196/01.
+
+                           Quadro 1  Páginas do pedido examinadas
+           Elemento                     Páginas               n.o da Petição           Data
+Relatório Descritivo                      1-140               870200126097           06/10/2020
+Listagem de sequências em
+                                            ---                       ---                ---
+formato impresso
+Listagem de sequências*           Código de Controle          870200053121           29/04/2020
+Quadro Reivindicatório                     1-7                870200126097           06/10/2020
+Desenhos                                  1-21                870200053121           29/04/2020
+Resumo                                       1                870200126097           06/10/2020
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+     A4D6B5559DDB322C (Campo 1) e 9CC792F9BCD8C735 (Campo 2).
+
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                              Sim          Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)            ---         X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                    ---         X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                        ---         X
+O pedido está de acordo com disposto no art. 32 da LPI                         X          ---
+Comentários/Justificativas
+       Cumpre notar que o presente pedido foi depositado em 29 de Abril de 2020 e que o INPI
+notificou parecer técnico de ciência de parecer (7.1) para o pedido original em 04 de Fevereiro
+de 2020, no qual o seguinte foi levantado:
+
+       A análise do quadro reivindicatório do presente pedido de patente de invenção revelou a
+existência de alguns grupos distintos de conceitos inventivos, a saber: O grupo 1 composto
+pelas reivindicações 1-4 e 6-9 (parcialmente) e 19 (parcialmente), 20-21, 22 (parcialmente), 23
+(parcialmente) e 32 trata do anticorpo humov19 e do uso dele. Os grupos 2-6 são compostos
+pela reivindicação 5. A dita reivindicação pleiteia em seus sub-itens (a)-(e) 5 anticorpos que se
+ligam ao receptor de folato humano 1 distintos. Os grupos 7-12 são compostos pelas
+reivindicações 10-18, 19, 22 ,23, 24-31 (todas parcialmente) e trata do imunoconjugado
+contendo os diferentes anticorpos definidos pelos grupos 1-6 e dos seus usos. O grupo 13
+
+
+
+                                                                                      Página 2 de 4
+                                            BR122020008510-0
+
+composto pelas reivindicações 33 e 34 trata de diferentes polinucleotídeos e de vetor contendo
+estes. De acordo com o disposto no item 3.99 das Diretrizes de Exame de Pedidos de Patente,
+publicadas na RPI n° 2241 de 17 de dezembro de 2013, há conceito inventivo único, ou unidade
+de invenção, quando as matérias reivindicadas apresentam uma relação técnica entre si
+representada por uma ou mais características técnicas especiais, que são as mesmas ou
+correspondentes para todas as matérias reivindicadas. Em tempo: características técnicas
+especiais, conforme a definição estabelecida no item 3.100 das Diretrizes supracitadas, são
+quaisquer características técnicas que representam uma contribuição que a invenção
+reivindicada traz em relação ao estado da técnica e que sejam comuns ou correlacionadas a
+cada uma das invenções reivindicadas. Neste contexto, cumpre ressaltar que o conceito técnico
+em comum entre os grupos 1-13 é o fato destes conterem um anticorpo ou fragmento de ligação
+que se liga ao receptor de folato humano 1. Entretanto, um anticorpo humanizado ou fragmento
+de ligação que se liga a este alvo já era conhecido como demonstra o estudo de Spannuth
+(Farletuzumab in epithelial ovarian carcinoma. Expert opinion on biological therapy. Volume 10,
+Issue   3.   2010.   Publicado     online    em   22/01/2010,     como   pode         ser   conferido    em:
+https://www.tandfonline.com/doi/abs/10.1517/14712591003592069 ). Além disso, este parecer
+técnico entende que nem todos os polinucleotídeos da reivindicação 33 apresentam uma
+estrutura em comum ou se referem a uma molécula que apresente estrutura ou função em
+comum. Desta maneira, entende-se que a matéria pleiteada pelo presente pedido não
+compreende um único conceito inventivo, infringindo assim o disposto no artigo 22 da lei
+9.279/96 (LPI).
+
+        Nota-se claramente que apesar da objeção supra já ter sido apontado em referência ao
+pedido original, a requerente, neste presente pedido divisional, apresenta os grupos 2-6 que
+estavam definidos pela antiga reivindicação 5 do pedido original. Nestes termos, uma vez que as
+reivindicações 1-25 pleiteiam matéria que não apresenta unidade de invenção é necessário
+considerar o item 3.17 da Resolução n° 124/2013 que dita: Em caso de um pedido dividido ter
+sido gerado a partir de matéria já examinada e que não apresente mérito de patenteabilidade, o
+mesmo deverá ser indeferido, persistindo as mesmas objeções relativas a este mérito. Nestes
+termos, é evidente que o presente pedido de patente de invenção não atende ao disposto no
+Artigo 22 da LPI e será indeferido.
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                              Sim                   Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI            ---                ---
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI          ---                ---
+Comentários/Justificativas
+
+
+
+
+                                                                                               Página 3 de 4
+                                         BR122020008510-0
+
+          Por conta do disposto no quadro 2 deste parecer técnico não foram realizadas
+considerações referentes ao Artigos 24 e 25 da LPI.
+
+
+                            Quadro 4  Documentos citados no parecer
+
+ Código                                 Documento                            Data de publicação
+    ---      ---                                                                       ---
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade              Cumprimento              Reivindicações
+                                                      Sim                       ---
+             Aplicação Industrial
+                                                    Não                         ---
+                                                      Sim                       ---
+                    Novidade
+                                                    Não                         ---
+
+                                                      Sim                       ---
+             Atividade Inventiva
+                                                    Não                         ---
+Comentários/Justificativas
+
+                   Por conta do disposto no quadro 2 deste parecer técnico não foi realizada a
+análise de requisitos de patentabilidade.
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -     não apresenta unidade de invenção, não atendendo ao disposto no Artigo 22 da LPI.
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                               Rio de Janeiro, 26 de abril de 2021.
+
+
+
+
+Eduardo Garcia Necco Peixoto Regis
+Pesquisador/ Mat. Nº 1880420
+DIRPA / CGPAT II/DIMOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+003/14
+
+
+
+
+                                                                                      Página 4 de 4
+

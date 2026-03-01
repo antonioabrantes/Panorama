@@ -1,0 +1,209 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0905864-8                N.° de Depósito PCT:-
+ Data de Depósito:                   27/10/2009
+ Prioridade Interna:                 4/10/2008 (PI0806060-)
+ Depositante:                        MIRAKULO SOFTWARE LTDA (BRRJ)
+ Inventor:                           Weber George Canova, David Estevam de Britto, Marcio Antonio
+                                     Ramos Alves
+ Título:                             Sistema e processo para disponibilização, autorização, transferência,
+                                     persistência, reprodução, execução e migração de conteúdo digital
+                                     através de aparato de recepção de tv digital 
+
+                                                                PARECER
+         Em 02 de março de 2021 foi publicada através da RPI nº 2617, notificação de Ciência de
+Parecer, conforme parecer de exame técnico do presente pedido datado de 23 de fevereiro de
+2021. Tal parecer concluiu que o pedido infringia o disposto nos Artigo 25 e Artigo 8º combinado
+com o Artigo 13 da Lei 9.279/96 (LPI).
+
+         A Requerente, através da petição nº 870210049346, de 31 de maio de 2021, e portanto
+tempestivamente, apresentou manifestação a respeito do parecer técnico propondo alterações no
+relatório descritivo, quadro reivindicatório, contendo 20 reivindicações, e resumo.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                        1                870210049346           31/05/2021
+Relatório Descritivo                                    2  11               020090100644           27/10/2009
+Quadro Reivindicatório                                   14                 870210049346           31/05/2021
+Desenhos                                                    1                020090100644           27/10/2009
+Resumo                                                      1                870210049346           31/05/2021
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                               PI0905864-8
+
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                             Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI         x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI       x
+
+
+
+                             Quadro 4  Documentos citados no parecer
+
+ Código                                   Documento                              Data de publicação
+    D1      US2006089933 A1                                                          27/04/2006
+    D2      WO03/096669 A2                                                              20/11/2003
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento              Reivindicações
+                                                         Sim                     1  20
+           Aplicação Industrial
+                                                        Não                         
+
+                                                         Sim                     1  20
+                   Novidade
+                                                        Não                         
+
+                                                         Sim                        
+           Atividade Inventiva
+                                                        Não                      1  20
+Comentários/Justificativas
+
+      A Requerente apresentou através da petição nº 870210049346 alterações ao quadro
+reivindicatório contendo 20 reivindicações.
+
+      Argumentação da requerente: Em relação ao revelado no documento D1 a Requerente
+argumenta que:
+
+                       O modo de transmissão de ambos os formatos de carrossel de objetos ou
+                 de dados pressupõe uma transmissão cíclica, repetida por um período de tempo
+                 configurável, de uma quantidade de dados limitada, por uma técnica de push,
+                 onde o cliente não demanda, apenas recebe passivamente a transmissão. () Em
+                 conclusão, a natureza básica da transmissão do carrossel forçosamente limita a
+                 quantidade de informações transmitidas.
+
+                       Esse tipo de transmissão é inerentemente diferente de uma transmissão
+                 contínua por broadband onde não há uma repetição cíclica e o conteúdo é
+                 requisitado (pull) pelo cliente através da Internet e não tem limitações enquanto a
+                 conexão estiver ativa.
+
+                       ()
+
+
+
+                                                                                              Página 2
+                                         PI0905864-8
+
+
+                    Em comparação, a técnica apresentada no presente pedido, tem como
+              possível implementação, em uma de suas possíveis materializações, o uso do
+              mesmo formato do carrossel de objetos como possibilidade, mas é feita de tal
+              forma que balanceia o uso do canal de broadcast e do canal de broadband, sob o
+              comando do radiodifusor, de forma a que a integração do conteúdo que é sempre
+              requisitado pelo cliente (para uma compra de uma mídia, por exemplo), permite ao
+              radiodifusor o melhor uso de ambos os canais da forma que lhe for mais
+              conveniente para fazer chegar ao consumidor o conteúdo requisitado. Assim sendo,
+              configura uma inovação em relação à técnica apresentada em D1.
+
+      Análise da argumentação:
+
+      Ao contrário do argumento apresentado pela Requerente, o presente pedido não apresenta
+que o sistema e processo reivindicados (reivindicações 1 e 13, respectivamente) tenham como
+característica técnica balancear o uso do canal de broadcast e do canal de broadband, sob o
+comando do radiodifusor, de forma a que a integração do conteúdo que é sempre requisitado pelo
+cliente (para uma compra de uma mídia, por exemplo), permite ao radiodifusor o melhor uso de
+ambos os canais da forma que lhe for mais conveniente para fazer chegar ao consumidor o
+conteúdo requisitado. Portanto, o argumento apresentado não é válido.
+
+      Argumentação da requerente: Em relação ao revelado no documento D2 a Requerente
+argumenta que:
+
+                    D2 revela que a entrega de conteúdo recebida de origens diferentes deve
+              ser coordenada baseada em um conceito de sessão síncrona que permite o uso
+              paralelo e integrado do conteúdo que venha do ambiente de broadcast com o
+              ambiente de broadband/internet e pressupõe a navegação nesse conteúdo
+              agregado e integrado de forma síncrona e em paralelo em um ambiente que remete
+              a um navegador de Internet (com navegação de páginas e hyperlinks). Esta
+              implementação descrita em D2 deriva do conceito de sessões usadas comumente
+              pelos navegadores de internet, que também fazem uso de sessões
+
+                    Em comparação, o presente pedido pressupõe um processo cujo uso das
+              funções de entrega de conteúdo não apresenta quaisquer limitações que
+              necessitem de um uso sincronizado por uma sessão de uso síncrona onde o
+              conteúdo seja consumido paralelamente.
+
+                    ()
+
+                    Em contraposição, o presente pedido descreve cenários de completa
+              independência dos meios de entrega de conteúdo que podem ser integrados ou
+              não, conforme a necessidade do radiodifusor que controla a transmissão, entrega e
+              exibição desse conteúdo, assim como o processo de aquisição do mesmo seja
+              permanentemente ou temporariamente para o uso do consumidor no receptor de
+              TV ou em dispositivos secundários como celulares ou outros, ligados na mesma
+
+
+
+                                                                                      Página 3
+                                          PI0905864-8
+
+
+              rede doméstica que o receptor de TV. Desta forma nenhum controle de
+              sincronização de entrega e consumo de conteúdo entre diferentes meios de
+              transporte baseado em sessões de uso é necessário.
+
+      Análise da argumentação:
+
+      Como a própria Requerente apresenta em seus argumentos, no presente pedido os meios
+de entrega podem ser integrados ou não, ou seja, a forma de implementação de como a
+transferência do conteúdo será realizada entre o servidor de conteúdo, receptor de TV Digital e os
+demais dispositivos não é parte do escopo do presente pedido, portanto, quaisquer formas de
+implementação dessa transferência são abarcadas pelo sistema e método reivindicados.
+Conforme exposto no parecer anterior, de acordo com o item 4.11 da Resolução 169/2016, a
+matéria revelada no documento D2 é relevante para análise da atividade inventiva do presente
+pedido.
+
+      Assim, pelo exposto, apesar das argumentações apresentadas pela Requerente,
+mantém-se a opinião de que a matéria pleiteada nas reivindicações 1 a 20 não é passível de
+patenteabilidade por ser mera decorrência do estado da técnica.
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 4 de agosto de 2021.
+
+
+
+
+Marcelo de Azevedo Miguel
+Pesquisador/ Mat. Nº 2041813
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+007/16
+
+
+
+
+                                                                                           Página 4
+

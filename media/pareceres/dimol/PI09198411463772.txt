@@ -1,0 +1,330 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0919841-5               N.° de Depósito PCT: EP2009/062793
+ Data de Depósito:                   01/10/2009
+ Prioridade Unionista:               US 61/101,857 (01/10/2008)
+ Depositante:                        AMGEN RESEARCH (MUNICH) GMBH (DE)
+ Inventor:                           Peter Kufer, Tobias Raum, Roman Kischel, Ralf Lutterbuse, Patrick
+                                     Hoffmann, Doris Rau, Susanne Mangold, Matthias Klinger, Evelyne
+                                     Schaller, Susanne Hausmann, Petra Fluhr, Carola Steiger
+ Título:                             Anticorpo de cadeia unica biespecifico de psmaxcd3, especifico de
+                                     especies cruzadas 
+
+                                                              PARECER
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                   x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    x
+
+O pedido refere-se a Sequências Biológicas                                                             x
+
+Comentários/Justificativas
+
+         Por se tratar de produto/processo farmacêutico, seguindo o disposto no artigo 229-C da
+          LPI, incluído pela Lei 10.196/2001, o pedido foi primeiramente encaminhado à ANVISA
+          para as providências cabíveis, com notificação a publicada na RPI n° 2507 de 22/01/2019,
+          sob despacho 7.4. Através do ofício n° 166/20/COOPI/GGMED/ANVISA de 04 de maio de
+          2020, a ANVISA encaminhou um parecer técnico n° 169/20/COOPI/GGMED/ANVISA de
+          22 de abril de 2020, sugerindo a prévia anuência ao presente pedido de patente de
+          invenção, nos termos do art. 229-C da Lei n° 9.279/1996, conforme redação dada pela Lei
+          n° 10.196/2001. A notificação de Anuência prévia do pedido pela ANVISA nas disposições
+          do artigo 229-C da Lei 9.279/96, foi publicada na RPI n°2576 de 19/05/2020, sob despacho
+          7.5.
+
+         O INPI emitiu a exigência de código 6.6.1 na RPI 2467 de 17/04/2018, para fins de
+          manifestação do depositante quanto à ocorrência de acesso ao Patrimônio Genético
+          nacional e/ou Conhecimento Tradicional Associado para obtenção do objeto do presente
+          pedido. Não tendo havido manifestação do depositante no prazo de 60 (sessenta) dias
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                 Página 1
+                                              PI0919841-5
+
+
+        contados a partir da publicação na RPI, o INPI deu prosseguimento ao exame técnico com
+        o entendimento de que não houve acesso ao patrimônio genético nacional e/ou
+        conhecimento tradicional associado, conforme consta no texto do despacho de código
+        6.6.1 publicado na RPI, de acordo com entendimento firmado pela Procuradoria Federal
+        Especializada        junto       ao         INPI      (PFE-INPI)        no   Parecer      nº
+        00001/2018/PROCGAB/PFE-INPI/PGF/AGU (Processo INPI nº 52400.002142/2018-30),
+        publicado na RPI 2465 de 03/04/2018.
+
+       O pedido apresenta listagem de sequências apresentada em formato eletrônico através da
+        petição nº870210072372 de 09/08/2021.
+
+
+
+                            Quadro 1  Páginas do pedido examinadas
+            Elemento                      Páginas              n.o da Petição           Data
+Relatório Descritivo                      1 a 235              870210072372          09/08/2021
+Listagem de sequências*              Código de Controle        870210072372          09/08/2021
+Quadro Reivindicatório                     1a7                 870210072372          09/08/2021
+Desenhos                                  1 a 115              870210072372          09/08/2021
+Resumo                                        1                870210072372          09/08/2021
+       *Listagem de sequências em formato eletrônico referente ao código de controle
+       1F441E13EAE40CD4 (Campo 1) e 787A6243D2FDA38D (Campo 2).
+
+
+
+
+        No primeiro exame técnico publicado na RPI 2627 de 11.05.2021, foi feita uma ciência de
+parecer, com despacho 7.1 ao pedido em análise. Foram apontadas irregularidades acerca dos
+artigos 8° c/c 11, 13, 18 (III), 25 da LPI 9279/96.
+
+        Por meio da petição n°870210072372 de 09/08/2021 a requerente se manifestou sobre o
+primeiro parecer técnico. Foram apresentados argumentos acerca do primeiro exame técnico e
+anexados um novo quadro reivindicatório, contendo 11 reivindicações, novas vias do Relatório
+Descritivo, Desenhos, Resumo e uma nova listagem de sequências em formato eletrônico. Além
+disso, foi anexado documentos Anexo 1 a 6 para darem suporte aos seus esclarecimentos.
+
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                              Sim           Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                        x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                x
+
+
+
+                                                                                           Página 2
+                                               PI0919841-5
+
+
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                      x
+O pedido está de acordo com disposto no art. 32 da LPI                       x
+Comentários/Justificativas
+
+       No primeiro exame técnico foi apontado que a antiga reivindicação 10 tratava de célula
+hospedeira modificada que engloba células eucariotas de animais e plantas, o que não é
+patenteável segundo artigo 18, III da LPI.
+
+       No novo quadro reivindicatório apresentado por meio da petição n°870210072372 de
+09/08/2021, tal reivindicação foi excluída.
+
+       Portanto, o pedido se encontra de acordo com artigo 18, III da LPI.
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim           Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI         x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                   x
+Comentários/Justificativas
+
+       No primeiro exame técnico foi apontado que quadro reivindicatório apresenta diversas
+irregularidades acerca do artigo 25 da LPI. No novo quadro reivindicatório apresentado por meio
+da petição n°870210072372 de 09/08/2021, observa-se que:
+
+   1. Foi apontado no primeiro exame que as antigas reivindicações 1, 15 a 18 tratavam de
+       anticorpo caracterizado por se ligar a um antígeno, o que não é claro em definir o objeto a
+       ser protegido. No entanto, no novo quadro reivindicatório as reivindicações 1, 8 e 9
+       mantiveram o pleito de anticorpo caracterizado por se ligar a uma antígeno, sem definir o
+       anticorpo por sua sequência das cadeias leves e pesadas que formam o produto que se
+       deseja proteção. Desta forma, mantém-se o entendimento de falta de clareza e precisão
+       para as reivindicações 1, 8 e 9 e o não atendimento ao artigo 25 da LPI.
+
+   2. Foi apontado no primeiro exame que as antigas reivindicações 2, 3, 5 tratam de cada
+       cadeia de imunoglobulina isolada definidas somente pelas cadeias leves ou pelas cadeias
+       pesadas e caracterizadas sequências de ligação CDRs. No entanto, no novo quadro
+       reivindicatório a reivindicação 2 manteve o pleito anteriormente apresentado e a
+       irregularidade apontada.
+
+       Conforme exposto no primeiro exame o pedido trata de anticorpos biespecíficos, ou seja,
+       imunoglobulinas com as cadeias leves e pesadas associadas gerando uma molécula ativa,
+       capazes de se ligar a 2 antígenos diferentes. No entanto, tais reivindicações tratam apenas
+       de parte destas sequências de forma isolada, onde é reivindicado de forma independente
+
+
+                                                                                         Página 3
+                                           PI0919841-5
+
+
+        os CDRs de cadeias leves e pesada, de maneira que a reivindicação abrangeria a
+        formação de uma infinidade de moléculas associadas a essas pequenas sequências,
+        moléculas essas não previsas e não alcançáveis pela descrição do pedido. Além disso, a
+        partir da descrição do pedido, não se verifica a atuação dessas pequenas cadeias de
+        forma isolada. O pedido não revela uma troca de cadeias de imunoglobulinas de forma a
+        sugerir que a cadeia leve de um clone associada a cadeia pesada de outro clone
+        funcionaria da forma como esperado no pedido, ou que o CDR1 de um clone associado ao
+        CDR2 de outro clone, e CDR3 de outro clone de cada uma das cadeias leve ou pesada,
+        resultariam em um anticorpo com as mesmas propriedades esperadas e descritas no
+        pedido. Ainda, sabe-se que a afinidade/especificidade de um anticorpo clássico é o
+        resultado direto dos três estruturas dimensionais da região de ligação ao antígeno, que se
+        baseia na estrutura e características da combinação de regiões VH + VL, três CDRs e
+        quatro regiões FR - VH e VL. Assim, uma definição de anticorpo que não inclua
+        características estruturais que resultam na afinidade / especificidade desejada, vai carecer
+        em definir claramente as características técnicas essenciais da invenção. Portanto,
+        mantém-se o entendimento de falta de clareza e precisão para a reivndicação 2 e o não
+        atendimento ao artigo 25 da LPI.
+
+
+
+
+                         Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                               Data de publicação
+   D1       BÜHLER P ET AL, "A bispecific diabody directed against                      2007
+            prostate-specific membrane antigen and CD3 induces
+            T-cell mediated lysis of prostate cancer cells", CANCER
+            IMMUNOLOGY, IMMUNOTHERAPY, SPRINGER,
+            BERLIN, DE, (20070620), vol. 57, no. 1, pages 43  52,
+   D2       WO 2006/125481                                                              2006
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento                Reivindicações
+                                                    Sim                        1 a 11
+           Aplicação Industrial
+                                                    Não                           --
+                                                    Sim                           --
+                 Novidade
+                                                    Não                        1 a 11
+
+                                                    Sim                           --
+           Atividade Inventiva
+                                                    Não                        1 a 11
+Comentários/Justificativas
+
+
+                                                                                           Página 4
+                                             PI0919841-5
+
+
+       No primeiro exame técnico publicado na RPI 2627 de 11.05.2021, foi feita uma ciência de
+parecer, com despacho 7.1 ao pedido em análise. Foram apontadas irregularidades acerca dos
+artigos 8° c/c 11, 13, 18 (III), 25 da LPI 9279/96.
+
+       Por meio da petição n°870210072372 de 09/08/2021 a requerente se manifestou sobre o
+primeiro parecer técnico.
+
+       Dentre os argumentos apresentados se depreende os trechos abaixo:
+
+      A requerente respeitosamente esclarece que a invenção definida nas reivindicações
+       apensas é nova e inventiva frente às referências citadas D1 (BÜHLER P et al., 2007)
+       e D2 (WO 2006/125281). A requerente primeiramente esclarece que o documento D2
+       (WO 2006/125281), citado no parecer ora sob manifestação, refere-se a uma outra área
+       técnica, a saber, pedras preciosas e seu método de corte. Sendo assim, a requerente
+       apresenta a seguir comentários sobre D1 (BÜHLER P et al., 2007) e sobre o documento
+       WO2007/042261 (referido, a partir daqui, como D2). A requerente fez a escolha de
+       apresentar     esclarecimentos     sobre   o   documento WO2007/042261 uma vez que o
+       parecer técnico se refere aos documentos que foram abordados no exame técnico
+       internacional.
+
+      A invenção, conforme reivindicada, refere-se a um anticorpo biespecífico que tem como
+       alvo PSMA e o N-terminal de CD3e. A presente invenção ensina o recrutamento de células
+       T específicas para o marcador tumoral PSMA (página 9, último parágrafo, do relatório
+       descritivo) de tal maneira que (i) haja reatividade entre espécies para evitar a necessidade
+       de testes em chimpanzés (parágrafo entre as páginas 6 e 7) e (ii) os efeitos colaterais
+       associados à redistribuição de células T são minimizados (parágrafo entre as páginas 14 e
+       15).
+
+       O anticorpo ora reivindicado difere de D1 por se ligar a um epítopo localizado nos
+       aminoácidos 1-27 da região N-terminal de CD3e que compreende pelo menos QDGNE.
+       Em contraste, o anticorpo em D1 é derivado de OKT3, que se liga a CD3e no trecho de
+       aminoácidos 35-88.
+
+      O requerente refere-se aos exemplos 13-15, 22, 24.5 e 24.8 do relatório descritivo do
+       presente pedido de patente como evidência de que o problema foi resolvido. As moléculas
+       de ligação de CD3e utilizadas nos Exemplos 14, 15, 24.5 e 24.8 ligam-se ao epítopo como
+       definido na reivindicação 1 (ANEXO 2 - citado no processamento EP como D29).
+
+      As moléculas de ligação de CD3e usadas nos Exemplos 14, 15, 24.5 e 24.8 também
+       facilitam a atividade citotóxica das células T que se engajam contra o antígeno tumoral.
+       Os Exemplos 14 e 15 do relatório descritivo do presente pedido fornecem evidências
+       de que as moléculas de ligação de CD3e ora reivindicadas - em contraste com as
+       moléculas de       ligação   de   CD3e convencionais (ver Exemplos 13 e 22 do relatório
+       descritivo do presente pedido) - não induzem eventos adversos graves na fase inicial
+       de uma terapia de redirecionamento de células T, tal como redistribuição de células T.
+
+
+
+                                                                                          Página 5
+                                            PI0919841-5
+
+
+
+
+          Dando prosseguimento ao exame técnico, primeiramente cabe apontar que o número do
+documento D2 teve um erro de digitação no parecer técnico, (sendo o correto WO2006/125481),
+mas havia sido enviado corretamente em anexo ao parecer técnico de primeiro exame, e
+também esse documento foi apresentado durante o processamento internacional na EPO, sendo
+de conhecimento do requerente. Mas devido ao erro, optou-se por não utilizar este documento
+(WO2006/12548) neste parecer técnico.
+
+          Observa-se que o pedido manteve o pleito de forma ampla para anticorpos biespecíficos
+que se ligam a um antígeno, sem a definição concreta de qual molécula de anticorpo
+biespecífica seria o objeto da invenção a ser protegido.
+
+          Assim, não é possível diferenciar os anticorpos abrangidos no escopo de proteção
+pleiteado neste pedido com os anticorpos já revelados no estado da técnica, como em D1 aqui
+citado.
+
+          D1 já revela moléculas biespecíficas de cadeia única CD3 x PSMA (diabody A5-CD3 - ver
+resumo de D1, descrição pág. 44 de D1). D1 demonstra que o anticorpo descrito pode reduzir
+drasticamente o volume do tumor em camundongos SCID injetado com células de câncer de
+próstata C4-2 (LNCaP) positivas para PSMA. É explicitamente declarado em D1 (último
+parágrafo na página 51) que esta eficácia surge da molécula biespecífica redirecionando as
+células T efetoras (através da ligação ao CD3) às células do câncer de próstata (através da
+ligação ao PSMA).
+
+          Não é possível diferenciar a presente invenção do estado da técnica, visto que D1 já
+revelam anticorpo biespecífico de cadeia única anti CD3 epsilon x PSMA. Assim, mantêm-se os
+argumentos que o pedido não apresenta novidade ou atividade inventiva frente a D1 e não
+atende ao disposto nos artigos 8º c/c 11 e 13 da LPI.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -     não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+      -     não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -     as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+            descritivo (Art. 25 da LPI)
+
+
+
+
+                                                                                           Página 6
+                                          PI0919841-5
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 16 de agosto de 2021.
+
+
+
+
+Camila Chaves Santos
+Pesquisador/ Mat. Nº 1741260
+DIRPA / CGPAT II/DIMOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+023/12
+
+
+
+
+                                                                                        Página 7
+

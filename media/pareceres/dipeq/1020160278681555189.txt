@@ -1,0 +1,372 @@
+                              SERVIÇO PÚBLICO FEDERAL
+                               MINISTÉRIO DA ECONOMIA
+                   INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+N.° do Pedido:              BR102016027868-6         N.° de Depósito PCT: (28/11/2016)
+
+                        Publicação Nacional:   Publicação Internacional: EP3188114 (A1 
+                        03/10/2017 (RPI 2439) 05/072017)
+Data de Depósito (PCT): 28/11/2016
+Prioridade Unionista:   US 14/987205 (04/01/2016)
+Depositante:            DEERE & COMPANY (US)
+Inventor(es):           CHUNG YIN SO (US), BETH KAMP (US), BRIAN R. BOELENS (US),
+                        STEWART J. MOOREHEAD (US), MARGAUX M. PRICE (US),
+                        NATHAN A. MARIMAN (US), GRANT J. WONDERLICH (US),
+                        JULIAN SANCHEZ (US)
+Título:                 Máquina móvel, e, método para controlar uma máquina móvel..
+
+                                PARECER DE EXAME TÉCNICO
+
+
+
+       O presente pedido de Patente de Invenção (PI), refere-se a um problema que é
+detectado na operação de uma máquina móvel.
+
+
+
+       Para realização industrial do reivindicado como inventivo no presente pedido de PI, um
+sistema de interação de usuário é disparado, e identifica um processo específico do problema
+com base no problema detectado. Uma informação é transmitida para um operador para realizar
+ações para solucionar o problema. As ações são agrupadas com base em se elas podem ser
+realizadas dentro ou fora de um compartimento de operador.
+
+
+
+       Em 07/12/2021, foi publicada através da RPI Nº 2657, notificação de emissão de parecer
+técnico relativo ao pedido de Patente de Invenção (PI), referente a Ciência de Parecer (7.1),
+decorrendo a partir daquela data o prazo de 90 (noventa) dias para manifestação da Requerente
+quanto ao contido no citado parecer técnico.
+
+
+
+       Em    28/11/2016    e   31/08/2020,     através   das   Petições   870160070769/RJ      e
+870200109930/RJ, a Requerente apresenta os documentos listados no Quadro 1, a seguir, e
+solicita alteração do título do presente pedido para: MÁQUINA MÓVEL AGRÍCOLA, E,
+MÉTODO PARA CONTROLAR UMA MÁQUINA MÓVEL..
+
+                          Quadro 1  Páginas do pedido examinadas
+
+
+
+
+                                                                                                    1
+                                          BR102016027868-6
+
+
+            Elemento                     Páginas               N.o da Petição           Data
+
+Relatório Descritivo (RD): com 06/160  52/160                870200109930/RJ         31/08/2020
+47 (Quarenta e sete) folhas,
+numerada como 01/47 
+47/47.
+Quadro Reivindicatório (QR): 53/160  59/160                  870200109930/RJ         31/08/2020
+com      07   (Sete)  folhas,
+apresentando 17 (Dezessete)
+reivindicações.
+Desenhos (D´s): com 26 (Vinte 230/256  256/256               870160070769/RJ         28/11/2016
+e seis) folhas, apresentando
+26 (Vinte e seis) figuras,
+numeradas de: Fig. 01  Fig.
+05; Fig. 06A  Fig. 06E; Fig.
+07A  Fig. 07K; Fig. 08  Fig.
+12.
+Resumo (R): com 01 (Uma)                  60/160              870200109930/RJ         31/08/2020
+folha.
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                  Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                        X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                          X
+O pedido está de acordo com disposto no art. 32 da LPI                           X
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                  Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI             X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI           X
+Comentários/Justificativas
+
+        Em pesquisas realizadas em bases de dados de documentos de (e pedidos de) patentes e
+em literatura não patentaria, de acordo com os critérios publicados em 02/06/2020, através da
+RPI 2578, foi encontrado o seguinte documento capaz de indicar arranjos técnicos funcionais
+semelhantes aos pleiteados no QR do presente pedido:
+                           Quadro 4  Documentos citados no parecer
+
+
+
+
+                                                                                                   2
+                                       BR102016027868-6
+
+
+ Código                               Documento                              Data de publicação
+(Relevân
+  cia)
+    D1                             US2015199360 (A1)                             16/07/2015
+
+                 Correspondente: WO2015108633 (A1)  (Publicação:
+                                   23/07/2015)
+
+                  Correspondente no Brasil: BR112016013737 (A2) 
+                             (Publicação: 18/05/2021)
+Comentários/Justificativas
+
+         Para fins de aferição dos requisitos de patenteabilidade do presente pedido, usaremos o
+documento correspondente da anterioridade D1, ou seja, WO2015108633 (A1)  (Publicação:
+23/07/2015), dado que se trata do documento contendo toda a matéria original dos
+correspondentes documentos posteriormente depositados em outros escritórios de patentes da
+invenção sob consideração.
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15, da LPI)
+     Requisito de Patenteabilidade            Cumprimento                Reivindicações
+                                                    Sim                      01  17
+            Aplicação Industrial
+                                                    Não                         
+
+                                                    Sim                      01  17
+                 Novidade
+                                                    Não                         
+
+                                                    Sim                         
+            Atividade Inventiva
+                                                    Não                      01  17
+
+Comentários/Justificativas
+
+
+
+         A análise do QR do presente pedido, apresentado em 31/08/2020, através da Petição
+870200109930/RJ, e mais especificamente suas Reivindicações Independentes do Presente
+Pedido (RI´s**pp´s), que são as RI01pp (Máquina móvel agrícola ), RI12pp (Método para
+controlar uma máquina móvel ) e RI15pp (Máquina agrícola móvel ), quando
+confrontadas com o documento D1, constatamos, via Parecer Técnico de primeiro exame,
+publicado em 14/12/2021, através da RPI 2658, que tanto a parte não caracterizante do pedido
+sob exame, quanto a parte caracterizante, encontravam-se contempladas naquele documento,
+como vimos a seguir.
+
+         Através da Reivindicação Independente 01 (RI01pp), do presente pedido, a
+Requerente reivindica:
+
+         RI01pp (Máquina móvel agrícola (102))
+         caracterizado pelo fato de que compreende:
+
+
+
+                                                                                                   3
+                                            BR102016027868-6
+
+
+        ETAPA01: um mecanismo de interface de usuário (110) montado em uma cabine da
+máquina agrícola móvel (102);
+        ETAPA02: um sistema de disparo (152) configurado para gerar uma saída de disparo
+indicativo de um problema a ser solucionado com base em dados de sensor (120) a partir de
+uma pluralidade de sinais de sensor (262), cada sinal de sensor (262) sendo indicativo de uma
+variável sensoreada; e
+        ETAPA03: um sistema de interação de usuário (134) configurado para auxiliar um
+operador na solução do problema a ser solucionado, compreendendo:
+        ETAPA04: uma lógica identificadora de problema (164) configurada para receber a
+entrada de disparo, e identificar o problema a ser solucionado com base na entrada de disparo;
+        ETAPA05: uma lógica de busca e recuperação (166) configurada para identificar e obter
+um fluxo de processo de problema específico (138-140) correspondendo ao problema a ser
+solucionado; e
+        ETAPA06: um sistema de execução (168) configurado para começar a executar o
+fluxo de processo de problema específico (138-140) por revelação de instruções para o
+operador para realizar ações para solucionar o problema no mecanismo de interface de usuário
+(110), em que as instruções estão configuradas para serem divididas em um conjunto de
+instruções dentro da cabine, indicativas de ações a serem realizadas dentro da cabine, para
+solucionar o problema identificado e um conjunto de instruções fora da cabine, indicativas de
+ações a serem realizadas fora da cabine, para solucionar o problema identificado, detectando se
+o problema identificado foi resolvido a partir do conjunto de instruções dentro da cabine e,
+comunicando com um dispositivo de interface de usuário móvel (104) configurado para exibir o
+conjunto de instruções fora da cabine se o problema a ser resolvido não foi resolvido a partir do
+conjunto de instruções dentro da cabine.
+
+
+       No que se refere a sua manifestação, de 07/03/2022, através da Petição
+870220019556/RJ, a Requerente entende que o documento D1, não contempla o reivindicado no
+presente pedido, pois:
+         5. Primeiramente, a Requerente destaca que a presente invenção está relacionada com um sistema para
+melhorar o desempenho de uma máquina móvel. Quando um problema é detectado na operação de uma máquina
+móvel, um sistema de interação de usuário é disparado e identifica um processo específico do problema com base no
+problema detectado. As informações são exibidas para que um operador execute ações para solucionar o problema. As
+ações são agrupadas com base em se elas podem ser executadas dentro ou fora de um compartimento de operador.
+        6. O documento D1 se refere à identificação de oportunidades de desempenho para melhorar o desempenho
+na operação de equipamentos móveis. Em D1, são recebidas informações de desempenho indicativas do desempenho
+do operador de uma máquina móvel. Um espaço de oportunidade de desempenho é identificado, indicativo de possível
+melhoria de desempenho. As economias identificadas no espaço de oportunidade de desempenho são quantificadas.
+        7. A reivindicação 53 de D1, citada pela Digna Perícia, define um sistema de computação, compreendendo: um
+sistema calculador de métrica configurado para receber informação de desempenho de operador individual, a
+informação de desempenho de operador individual sendo recebida para uma pluralidade de operadores diferentes em
+uma equipe de operadores predefinida, a informação de desempenho de operador individual sendo indicativa de uma
+comparação do desempenho de operador individual sensoreado ao controlar uma dada máquina móvel, dentre uma
+pluralidade de máquinas móveis diferentes operadas pela pluralidade de operadores diferentes na equipe, com dados
+de desempenho de referência, o sistema calculador de métrica sendo configurado para calcular uma pontuação de
+
+
+
+                                                                                                                 4
+                                              BR102016027868-6
+
+desempenho para cada um dos diversos operadores diferentes na equipe, com base na informação de desempenho de
+operador individual; um agregador de pontuação de equipe configurado para combinar as pontuações de desempenho
+para cada um dos diversos operadores diferentes na equipe, para obter uma pontuação de desempenho de equipe; e,
+um componente de interface de usuário configurado para emitir a pontuação de desempenho da equipe com um
+mecanismo de entrada de usuário que é atuado para visualizar informação detalhada correspondente a cada um dos
+diversos operadores.
+        8. Fica claro para a Requerente que a técnica anterior falha em ensinar, tornar óbvio ou sugerir uma máquina
+móvel agrícola e um método para controlar uma máquina móvel agrícola, compreendendo, entre outras limitações,
+detectar um problema relacionado ao desempenho da máquina móvel; disparar a execução de um fluxo de processo
+correspondente ao problema detectado, o fluxo de processo compreendendo um primeiro conjunto de instruções
+correspondente a uma primeira posição no fluxo de processo e um segundo conjunto de instruções correspondente a
+uma segunda posição no fluxo de processo; executar o fluxo de processo em um primeiro dispositivo de computação
+por revelar, em um primeiro mecanismo de interface de usuário, o primeiro conjunto de instruções para realizar um
+primeiro conjunto de ações para resolver o problema detectado; e detectar a entrada de usuário indicativa de se o
+problema detectado está resolvido; e se o problema detectado não estiver resolvido, controlar um sistema de
+transferência para gerar uma saída de transferência compreendendo um indicador de posição e caminho indicativo de
+uma posição atual no fluxo de processo e um caminho percorrido através do fluxo de processo para chegar à posição
+atual, emitindo o indicador de posição e caminho como um código perceptível pelo usuário para entrada em um
+segundo dispositivo de computação para iniciar o fluxo de processo no segundo dispositivo de computação e, com base
+na entrada, começar a revelar o segundo conjunto de instruções indicativo de um segundo conjunto de ações a serem
+realizadas para solucionar o problema detectado no segundo dispositivo de computação.
+        9. Portanto, embora a presente invenção e D1 (também da própria Requerente) visem resolver problemas
+técnicos semelhantes, eles o fazem de maneiras muito diferentes.
+        10. Destarte, as reivindicações independentes 1, 12 e 15 são dignas de obter proteção patentária nos termos
+da LPI por evidenciarem não apenas novidade, mas também atividade inventiva diante do documento citado.. 
+
+
+
+        Ainda na sua manifestação, de 07/03/2022, através da Petição 870220019556/RJ, a
+Requerente EVOCA o mesmo QR, de 31/08/2020, através da Petição 870200109930/RJ, com a
+mesma RI01pp (Máquina móvel agrícola ), e com as mesmas ETAPA01 a ETAPA06.
+
+
+       Face ao disposto acima, e às argumentações da Requerente de 07/03/2022, através da
+Petição 870220019556/RJ, voltamos a sustentar QUE o documento de anterioridade (D1)
+(US2015199360 (A1)), ensina tanto através da sua Reivindicação Independente (RI) 53
+(sistema de computação implementado em uma máquina agrícola móvel), aqui chamada de
+RI53_D1, juntamente com sua respectiva Reivindicação Dependente (Rdp) 58, quanto através
+do seu relatório descritivo, e mais especificamente à Páginas 04/149  07/149, Páginas 07/149
+ 13/149, Páginas 62/149  70/149, e figuras Fig. 01; Fig. 02A; Fig. 02B; Fig. 15A; Fig. 15B; de
+D1, incluindo na sua RI53_D1  referente a um sistema de computação implementado em uma
+máquina agrícola móvel  um sistema de calculadora métrica (1074) configurado para receber
+(1112) informações de desempenho de operador individual, que é recebida de uma
+pluralidade de operadores diferentes em uma equipe predefinida de operadores, contemplando
+a ETAPA02, da RI01pp. Existe ainda um componente de interface de usuário (1094)
+configurado para emitir (1158) a pontuação de desempenho da equipe com um mecanismo de
+entrada de usuário que é acionado para visualizar (1180) informações detalhadas
+correspondentes a cada um da pluralidade de operadores, contemplando as ETAPA01 e
+ETAPA03, da RI01pp. O sistema de computação, da RI53_D1, possui ainda a informação de
+desempenho de operador individual sendo indicativa de uma comparação de detecção do
+
+
+
+                                                                                                                   5
+                                    BR102016027868-6
+
+desempenho do operador individual no controle de uma determinada máquina móvel (102),
+de uma pluralidade de diferentes máquinas móveis (102) operadas pela pluralidade de
+diferentes operadores na equipe, contemplando a ETAPA04, da RI01pp. Em seguida, o sistema
+de computação referencia tais dados de desempenho (114), aciona o sistema calculador
+métrico (1074), que é sendo configurado para calcular (11 16) uma pontuação de desempenho
+para cada um da pluralidade de diferentes operadores na equipe com base nas informações de
+desempenho de operador individual, além de possuir um agregador de pontuação de equipe
+(1082) configurado para combinar (1 140) as pontuações de desempenho para cada um da
+pluralidade de diferentes operadores na equipe, obtendo assim uma pontuação de
+desempenho de equipe, contemplando a ETAPA05, da RI01pp. Na RDp58_D1, temos que o
+sistema de computação, é tal que o componente calculadora é configurado para identificar
+um primeiro operador na equipe que opera uma colheitadeira, isto é, INTERNAMENTE na
+cabine da máquina agrícola, para calcular um primeiro conjunto de métricas de
+desempenho individuais para o operador da colheitadeira, e possui ainda um segundo
+operador na equipe, que opera um trator (EXTERNO), e um segundo conjunto de métricas
+de desempenho para o operador do trator, contemplando a ETAPA06, da RI01pp.
+
+        Tal reafirmação se sustenta dado que o documento de anterioridade D1, à Figura 1,
+Páginas 04/149  07/149, existe um diagrama de blocos de uma arquitetura de computação de
+desempenho dos operadores. Nesta Figura 1, a máquina móvel (102) é descrita como sendo
+uma máquina agrícola (e especificamente uma colheitadeira), podendo ser também outro tipo
+de máquina agrícola móvel, como trator, semeadora, colhedora de algodão, colhedora de
+cana-de-açúcar ou outras. A máquina 102 inclui ilustrativamente a camada de detecção de
+dados brutos 116 e a camada de computação de dados derivados 118. Nas Figuras 2A e 2B
+(coletivamente Figura 2), Páginas 07/149  13/149, é mostrado um diagrama de blocos mais
+detalhado da arquitetura mostrada na Figura 1. Nestas Figuras 2A e 2B, temos que a camada
+de detecção de dados brutos 116 na máquina 102, inclui uma pluralidade de sensores de
+máquina 130-132 (internos), juntamente com uma pluralidade de sensores de ambiente 134-
+136 (externos), contemplando a ETAPA06, da RI01pp. A camada de detecção de dados brutos
+1116 também pode obter dados brutos de outras fontes de dados de máquina 138, contemplando
+a ETAPA04, da RI01pp. Os sensores de máquina 130-132, mostrados, podem incluir uma ampla
+variedade de diferentes sensores que detectam parâmetros operacionais e condições de
+máquina na máquina 102, contemplando a ETAPA02, da RI01pp. Por exemplo, eles podem
+incluir sensores de velocidade, sensores de fluxo de massa que medem o fluxo de massa do
+produto através da máquina, vários sensores de pressão, sensores de deslocamento da bomba,
+sensores do motor que detectam vários parâmetros do motor, sensores de consumo de
+combustível, entre uma ampla variedade de outros sensores. Nas Figuras 15A e 15B
+(coletivamente Figura 15), Páginas 62/149  70/149, é mostrado um diagrama de blocos de um
+exemplo de arquitetura de análise de equipe, possui seus componentes descritos no parágrafo
+anterior.
+
+
+       Em relação à RI12pp, relativa a (Método para controlar uma máquina móvel ), isto é,
+referente à sequência lógica das etapas de aparelho da RI01pp, e considerando que a RI31_D1,
+dispõe sobre o método da RI01_D1, temos que a RI12pp, encontra-se identicamente
+contemplada pelas passagens de D1, descritas acima. Já a RI15pp (Máquina agrícola móvel
+), encontra-se contemplada pela RI30_D1 (Máquina Móvel), conforme descrito nos parágrafos
+anteriores.
+
+
+
+
+                                                                                           6
+                                     BR102016027868-6
+
+
+      Desta forma, a matéria reivindicada através das reivindicações independentes RI01pp,
+RI12pp e RI15pp, do presente pedido, encontram-se totalmente absorvida por D1.
+
+
+
+      Quanto às demais reivindicações, as mesmas também não são válidas por serem
+dependentes das reivindicações independentes contestadas acima
+
+
+
+Conclusão
+       Sendo assim, face ao exposto, considerando o QR da forma apresentada, somos de
+opinião que o presente pedido carece de atividade inventiva por ser mera decorrência do estado
+da técnica, representado por D1, não possuindo, pois, condições de patenteabilidade.
+
+
+       Face às conclusões a que se chegou o Exame Técnico, de acordo com o Art. 37, baseado
+no Art. 8º, combinado com o Art. 13, da LPI, INDEFIRO o presente pedido como PATENTE DE
+INVENÇÃO.
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                              Publique-se o indeferimento (9.2)
+
+
+                                                         Rio de Janeiro, 30 de Março de 2022.
+
+
+                                  Edson Ferreira Suisso
+                   Pesquisador em Propriedade Industrial / Mat. Nº 1548985
+                         Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+                           DIRPA / CGPAT III / DIPAT XV (DIPEQ)
+
+
+
+
+                                                                                              7
+

@@ -1,0 +1,185 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112013030890-7           N.° de Depósito PCT:US2012/041862
+ Data de Depósito:                   11/06/2012
+ Prioridade Unionista:               US 13/168264 (24/06/2011); US 13/368403 (08/02/2012)
+ Depositante:                        PRAXAIR TECHNOLOGY, INC. (US)
+ Inventor:                           PAUL W. BELANGER, MICHAEL S. MANNING, ANDREW C.
+                                     ROSINSKI
+ Título:                             Processo e sistema de adsorção cíclica, método para melhorar a
+                                     eficiência de potência de um processo de adsorção cíclica, processo
+                                     de adsorção com oscilação de pressão, e, método para usar pelo
+                                     menos um compressor centrífugo. 
+
+                                                                PARECER
+
+
+         Em resposta ao parecer de ciência publicado na RPI n° 2584 de 14/07/2020, foi
+apresentada a petição n° 870200128701 de 13/10/2020, trazendo argumentações. Não foram
+apresentadas modificações no pedido.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 20               870190108803           25/10/2019
+Quadro Reivindicatório                                   1a3                 870190108803           25/10/2019
+Desenhos                                                 1a3                 020130090705           29/11/2013
+Resumo                                                      1                870190108803           25/10/2019
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR112013030890-7
+
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                             Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                          x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                        x
+Comentários/Justificativas
+
+      No parecer anterior foi destacado que o pedido não cumpre com o disposto nos Art. 24 e 25
+da LPI, uma vez que o parâmetro inércia e a razão pleiteada na reivindicação 1 da inércia de 0,3
+vezes a potência total de uma ou mais máquinas centrífugas que seria consumida na ausência de
+efeitos inerciais não são usuais ao campo técnico em questão.
+
+      Em sua manifestação, a requerente trouxe um livro como referência, a fim de justificar que
+o parâmetro inércia é o resultado de um cálculo que se baseia em variáveis conhecidas da Física.
+
+      As alegações da requerente não foram consideradas suficientes para superar a falta de
+suficiência descritiva e clareza do presente pedido, uma vez que a determinação do parâmetro
+requer uma série de etapas de cálculo para verificar se uma máquina centrífuga de um processo
+de adsorção cíclica está dentro do escopo da reivindicação ou não. Como a razão depende de um
+grande número de variáveis estruturais da máquina centrífuga, uma comparação com o estado da
+técnica não é possível sem experimentação indevida para um técnico no assunto. Por isso,
+mantêm-se a opinião de que o pedido está em desacordo com os Art. 24 e 25 da LPI.
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                               Data de publicação
+    D1                                 US2009241771                                  01/10/2009
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento              Reivindicações
+                                                         Sim                      1-11
+           Aplicação Industrial
+                                                        Não                      Nenhuma
+                                                         Sim                      1-11
+                 Novidade
+                                                        Não                      Nenhuma
+                                                         Sim                     Nenhuma
+           Atividade Inventiva
+                                                        Não                       1-11
+
+
+
+Comentários/Justificativas
+
+
+
+
+                                                                                             Página 2
+                                        BR112013030890-7
+
+
+      Em sua manifestação, a requerente afirma que:
+
+      ...embora fosse almejado projetar um processo com um tempo de ciclo mínimo de 27
+segundos, um técnico no assunto provavelmente não projetaria um processo usando uma
+máquina centrífuga com um tempo de ciclo inferior a 46 segundos porque, ao fazê-lo, as perdas
+inerciais seriam grandes o suficiente que a melhoria de desempenho seria inferior aos 10%
+necessários para justificar o custo. Esta é a razão pela qual a Requerente afirma que foi,
+portanto, surpreendentemente descoberto que os sistemas de adsorção cíclica usando
+compressores centrífugos não são mais eficientes em termos de energia do que os sistemas
+atuais usando sopradores do tipo de deslocamento positivo sem ajustar tais sistemas para ter
+tempos de ciclo de processo suficientemente longos.
+
+      Os argumentos trazidos pela requerente em relação ao documento D1 não são
+considerados convincentes para superar as objeções em relação à atividade inventiva do presente
+pedido, uma vez que, como já foi comentado no parecer anterior, o documento D1 afirma no
+parágrafo [0011] que os motores que acionam compressores centrífugos em processos de
+adsorção cíclica operam com eficiência otimizada com tempos de ciclo iguais ou maiores que os
+tempos de ciclo dos sistemas e processos PSA e VPSA atuais (cerca de 30 a 35 segundos).
+Portanto, as características apontadas pela requerente como um diferencial do presente pedido
+não são consideradas surpreendentes em relação ao conteúdo descrito no documento D1.
+
+      Além disso, a característica de que a melhoria de eficiência de potência compreende
+operar o processo de maneira tal que o tempo de ciclo seja maior que a razão da inércia para 0,3
+vezes a potência total de uma ou mais máquinas centrífugas que seria consumida na ausência de
+efeitos inerciais representa uma definição utilizando um parâmetro de difícil comparação com o
+estado da técnica, conforme comentado no Quadro 3 deste parecer.
+
+      Assim sendo, permanece a constatação de que as reivindicações 1-11 não apresentam
+atividade inventiva frente ao conteúdo do documento D1, decorrendo de maneira óbvia a partir do
+mesmo.
+
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI);
+
+      -   não apresenta suficiência descritiva (Art. 24 da LPI); e
+
+      -   as reivindicações estão indefinidas (Art. 25 da LPI).
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+
+                                                                                         Página 3
+                               BR112013030890-7
+
+
+
+
+                                                    Publique-se o indeferimento (9.2).
+
+
+
+                                             Rio de Janeiro, 28 de dezembro de 2020.
+
+
+
+
+Graziela Salvan Cerveira
+Pesquisador/ Mat. Nº 2358029
+DIRPA / CGPAT I/DINOR
+Deleg. Comp. - Port. INPI/DIRPA Nº
+014/18
+
+
+
+
+                                                                             Página 4
+

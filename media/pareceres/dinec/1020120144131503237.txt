@@ -1,0 +1,153 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102012014413-1          N.° de Depósito PCT:
+ Data de Depósito:                   14/06/2012
+ Prioridade Unionista:               -
+ Depositante:                        ROMA JENSEN COMÉRCIO E INDÚSTRIA LTDA (BRSP)
+ Inventor:                           GUSTAVO JENSEN
+ Título:                             Veículo de brinquedo com funções 
+
+                                                                PARECER
+         O INPI emitiu a exigência de código 6.6.1 na RPI 2501 de 11/12/2018, para fins de
+manifestação do depositante quanto à ocorrência de acesso ao Patrimônio Genético nacional e/
+ou Conhecimento Tradicional Associado para obtenção do objeto do presente pedido. Por meio
+da petição nº 870190008951 de 28/01/2019, o(a) Depositante informou que não houve acesso
+ao patrimônio genético nacional e/ou conhecimento tradicional associado.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                       1-4               870210041230           06/05/2021
+Quadro Reivindicatório                                     1-2               870210091363           04/10/2021
+Desenhos                                                   1-4               018120021358           14/06/2012
+Resumo                                                      1                870210041230           06/05/2021
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR102012014413-1
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+Comentários/Justificativas
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                   US5512001                                    30/04/1996
+    D2                                   US6645037                                    11/11/2003
+    D3                                  KR200263438                                   04/02/2002
+    D4                                 US20060099882                                  11/05/2006
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                     1-2
+           Aplicação Industrial
+                                                        Não                       -
+
+                                                         Sim                     1-2
+                 Novidade
+                                                        Não                       -
+
+                                                         Sim                      -
+           Atividade Inventiva
+                                                        Não                      1-2
+Comentários/Justificativas
+
+      O dito pedido foi considerado inelegível a proteção por patente de invenção na ocasião do
+exame técnico por carência de atividade inventiva, em face das anterioridades D1-D4 e não con-
+formidade com disposições presentes na LPI e na IN 30/2013.
+       Através da petição 870210091363 de 04/10/2021, o interessado manifestou-se sobre o
+parecer técnico, publicado na RPI 2635 de 06/07/2021, alegando que o novo quadro reivindica-
+tório supera as não conformidades previamente apontadas e que a matéria pleiteada não é ante-
+cipada em sua essência por nenhum dos documentos D1-D4.
+
+      Após analisar as argumentações da Requerente, bem como os novos documentos apre-
+sentados, observa-se que o caráter denegatório do parecer técnico permanece mantido, uma
+vez que a reivindicação independente 1 continua desprovida de atividade inventiva (Art. 8º, em
+vista do Art. 13, da LPI). Como já dito, não há um efeito técnico novo ou surpreendente no fato
+de um veículo de brinquedo com funções compreender um compartimento ligado por fios elétri-
+cos a uma placa de circuito eletrônico que fica montada sobre o mesmo; a placa de circuito ele-
+trônico por sua ser conectada, através de fios a uma outra placa eletrônica, dotada de contatos
+que são seletivamente operados por uma botoeira configurada por uma membrana de borracha
+
+
+
+                                                                                            Página 2
+                                          BR102012014413-1
+
+
+com projeções que atuam como botões individuais; a botoeira estar montada internamente à
+carroceria preferivelmente na sua região frontal, de onde cada uma das projeções da membrana
+de borracha pode ser operada. Para um técnico no assunto, estas características são evidentes
+a partir de D2 (vide todo o documento, em especial figura 5c) ou D3 (vide resumo; figuras 1-4),
+por exemplo. Além disso, D4 (vide parágrafo [0006]), já descreve como estado da arte veículos
+de brinquedo dotados de luzes e sons com acionamentos correspondentes a estes ora pleitea-
+dos.
+       A reivindicação dependente 2 não parece conter quaisquer características adicionais que,
+em combinação com as características técnicas da reivindicação independente 1, agreguem ati-
+vidade inventiva ao pedido de patente, contrariando o Art. 8º, em vista do Art. 13, da LPI. O fato
+de uma a placa de circuito eletrônico poder incluir um processador, onde está armazenada a roti-
+na de funcionamento do presente brinquedo de modo que ao serem comprimidos os botões são
+selecionadas funções específicas que incluem a reprodução de sons de motor, buzinas e músi-
+cas, é uma característica já comumente empregada no estado dar arte e inerente ao conheci-
+mento de um técnico no assunto.
+       É importante observar que questões referentes à forma ou disposição de elementos cons-
+tituintes do veículo de brinquedo com funções, principalmente quando estes componentes cor-
+respondentemente já são empregados no estado da arte, costumam não envolver atividade in-
+ventiva (Art. 8º, em vista do Art. 13, da LPI).
+
+
+Conclusão
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+       -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 16 de novembro de 2021.
+
+
+
+
+Fabrício Meneses Resende
+Pesquisador/ Mat. Nº 1568422
+DIRPA / CGPAT IV/DINEC
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                           Página 3
+

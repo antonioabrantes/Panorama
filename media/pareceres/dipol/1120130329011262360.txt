@@ -1,0 +1,225 @@
+                                       SERVIÇO PÚBLICO FEDERAL
+                                        MINISTÉRIO DA ECONOMIA
+                            INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+  N.° do Pedido:                      BR112013032901-7         N.° de Depósito PCT:EP2012/061958
+  Data de Depósito:                   21/06/2012
+  Prioridade Unionista:               EP 11170761.8 (21/06/2011)
+  Depositante:                        SERUMWERK BERNBURG AG (DE)
+  Inventor:                           WERNER ZIMMERMANN, JAN LUKOWCZYK
+  Título:                             PROCESSO      PARA FABRICAÇÃO          DE    DERIVADOS    DE
+                                      HIDROXIETILAMIDO
+
+                                                                 PARECER
+
+
+          Em resposta ao parecer técnico realizado em 02 de abril de 2020, notificado pela
+publicação na RPI n°2571, de 14 de abril de 2020, a requerente apresentou na petição
+n°870200083560, de 06 de julho de 2020, alguns esclarecimentos e novas páginas do relatório
+descritivo, das reivindicações e desenhos. Conforme argumenta na manifestação ao parecer, o
+novo quadro reivindicatório contendo 10 reivindicações é mais restrito do que o original e, assim,
+acredita ter superado integralmente as objeções levantadas nos Quadros 3 e 5 do referido
+parecer.
+
+                                       Quadro 1  Páginas do pedido examinadas
+                 Elemento                               Páginas              n.o da Petição           Data
+
+ Relatório Descritivo                                    1 a 17              870200083560           06/07/2020
+ Quadro Reivindicatório                                   1a3                870200083560           06/07/2020
+ Desenhos                                                    1               870200083560           06/07/2020
+ Resumo                                                      1               870200002599           07/01/2020
+
+
+    Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei no 9279 de 14 de
+                                    maio de 1996  LPI
+ Artigos da LPI                                                                               Sim       Não
+ A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                     X
+ A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                             X
+ O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                      X
+ O pedido está de acordo com disposto no art. 32 da LPI                                       X
+Comentários/Justificativas: ---
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                              Página 1
+                                           BR112013032901-7
+
+                Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+ Artigos da LPI                                                            Sim          Não
+ O relatório descritivo está de acordo com disposto no art. 24 da LPI       X
+ O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                  X
+Comentários/Justificativas:
+
+         O novo quadro reivindicatório com 10 reivindicações, apesar das modificações realizadas
+em sua formulação, permanece sem definir de modo claro e preciso, a matéria objeto de
+proteção, em desacordo, portanto, com o artigo 25 da LPI e Instrução Normativa n°30/2013.
+Embora tenham sido realizadas algumas modificações para melhor definir o pleito, o quadro
+reivindicatório permanece impreciso.
+
+         O novo quadro reivindicatório com uma única reivindicação independente (reivindicação
+1) refere-se ao método para fabricação de um hidroxietilamido transportando um resíduo de
+ácido heptônico em pelo menos um de seus terminais. No entanto, a referida reivindicação 1
+permanece imprecisa. Apesar de agora definir o peso molecular ponderal médio e o grau médio
+de substituição molar do hidroxietilamido, não define outras características essenciais ao
+processo reivindicado, como por exemplo, a natureza do composto cianeto e a quantidade de
+tal composto empregado na etapa (c).
+
+         A própria requerente argumenta na manifestação ao parecer técnico que a quantidade
+de cianeto usada quando é realizado o método compreendido pela reivindicação 1 são ora
+descritas em mais detalhes de modo a superar tal objeção, o que não se verifica, no entanto, na
+formulação da reivindicação 1.
+
+         Com relação à contestação feita a respeito da definição do composto cianeto, em que a
+requerente destaca na manifestação ao parecer que o contraíon do composto cianeto é
+completamente irrelevante, o próprio relatório descritivo menciona na página 6, parágrafo
+[00022], que o cianeto de sódio é usado como composto cianeto na etapa c), em uma
+modalidade preferida, o que torna a afirmativa feita pela requerente incerta.
+
+         O exemplo 1 apresentado no parágrafo [00051] do relatório descritivo do pedido também
+emprega o cianeto de sódio na preparação do hidroxietilamido modificado, assim como já havia
+sido mencionado pela requerente, na manifestação ao parecer 6.21, que utilizou o cianeto de
+sódio.
+
+         Além disso, a reivindicação 5, apresentada na forma de uma reivindicação dependente
+(método, de acordo com qualquer uma das reivindicações 1 a 4) não é clara já que define outras
+etapas (e), (f), (g) e (h), que conduzem a um produto diferente daquele reivindicado nas
+reivindicações 1 a 4. No caso, a reivindicação 5 leva a um complexo de hidroxietilamido e
+ferro pela adição de um composto de ferro à solução de hidroxietilamido.
+
+         Portanto, a reivindicação 5 produz um produto distinto daquele preparado na
+reivindicação 1.      A contestação da requerente a esta observação que argumenta na
+                                                                              Página 2
+                                        BR112013032901-7
+
+manifestação ao parecer técnico que a reivindicação 1 se refere à fabricação de um derivado
+de hidroxietilamido e o método da reivindicação 5 se refere à fabricação do mesmo derivado
+de hidroxietilamido, não satisfaz, já que o complexo formado com o íon ferro tem natureza e
+propriedades distintas, o complexo de ferro é um composto transportador de ferro metálico,
+propriedade particular do complexo de ferro e não do hidroxietilamido per se.
+
+         Por outro lado, foram considerados relevantes os seguintes documentos do estado da
+técnica:
+
+                          Quadro 4  Documentos citados no parecer
+
+  Código                               Documento                                Data de publicação
+    D1                                 US3639588                                      01/02/1972
+    D2               Nephrol dial transplant (NDT), vol.22, 2824 -2830                07/06/2007
+
+
+   Quadro 5  Análise dos Requisitos de Patenteabilidade (Artigos 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento               Reivindicações
+                                                    Sim                         1 a 10
+            Aplicação Industrial
+                                                    Não                           -
+                                                    Sim                         1 a 10
+                 Novidade
+                                                    Não                           -
+
+                                                    Sim                           -
+            Atividade Inventiva
+                                                    Não                         1 a 10
+Comentários/Justificativas:
+
+         Com relação à matéria revelada nos documentos citados no parecer, a requerente traz
+na manifestação alguns argumentos que, tal como os apresentados com a relação à clareza da
+matéria reivindicada, não foram considerados plenamente satisfatórios e integralmente
+convincentes também.
+
+         A requerente menciona que D1 deve ser considerado como o documento do estado da
+técnica mais próximo uma vez que este se refere a métodos de fabricação de ácido heptónico
+dextrano e ácido heptônico dextrina e, embora haja uma diferença estrutural significante entre o
+hidroxietilamido por um lado e dextrano ou dextrina por outro lado, D1 compartilha os elementos
+mais comuns com o método reivindicado no pedido em exame uma vez que revela um método
+para fabricação de um composto transportando um resíduo de ácido heptônico. (negrito
+nosso)
+
+         A diferença aludida pela requerente seria o grau de heptonização no hidroxietilamido,
+comparativamente a dextrana ou dextrina. No entanto, para avaliar a aludida diferença foi feita,
+naturalmente, a aquisição dos procedimentos realizados em D1.
+
+
+                                                                                            Página 3
+                                       BR112013032901-7
+
+       Neste sentido, cabe destacar, por exemplo, que os esclarecimentos prestados com
+relação à quantidade de cianeto na mistura de reação conforme a reivindicação 1 do pedido
+em análise, comparativamente ao ensinado em D1, não faz sentido já que não há qualquer
+definição de tal parâmetro no quadro reivindicatório em exame.
+
+       E com relação à outra diferença destacada pela requerente, entre o método reivindicado
+no pedido em exame e o método de acordo com D1, como o grau de heptonização maior no
+produto obtido de acordo com o método conforme reivindicado no pedido em exame, corrobora
+o fato da reivindicação 1 não estar claramente definida já que se refere a um método para
+fabricação de um hidroxietilamido transportanto um resíduo de ácido heptônico em pelo menos
+um de seus terminais, ou seja, não há nada mais além dessa informação descrita no relatório
+em relação ao grau de substituição com ácido heptónico na estrutura do hidroxietilamido.
+
+       Por outro lado, é perfeitamente compreensível e aceitável que o grau de heptonização
+seja importante para a capacidade do hidroxietilamido heptonizado formar complexos com íons
+de ferro. No entanto, a aludida diferença, relacionada ao efeito técnico, de que o produto
+obtido conforme o método reivindicado no pedido em exame é muito mais adequado na
+formação dos complexos com íons de ferro não se mostra convincente já que os produtos
+conforme preparados em D1 apresentam a mesma capacidade de formar complexos com
+íons metálicos.
+
+       Com relação à alegação da requerente, em razão dos ensinamentos de D1, que aqueles
+versados na técnica seriam impedidos de usar temperaturas de 80 a 99° C, conforme a
+reivindicação 1 em exame, não é possível concordar com a requerente já que D1 ensina que
+temperaturas entre 90 a 100° C são adequadas para o aquecimento da solução (coluna 2, linhas
+60 a 64) e que o produto da hidrólise é o ácido heptônico (coluna 3, linhas 1 a 6). (negritos
+nossos)
+
+       Portanto, em razão de todas as falhas apontadas, não foi possível concordar com a
+requerente e, considerando a matéria ensinada nos documentos apontados no parecer (D1 e
+D2), a matéria tal como definida nas reivindicações do pedido em análise para um técnico no
+assunto decorre de maneira óbvia.
+
+       O maior grau de heptonização atribuído ao método conforme reivindicado no pedido em
+exame não é descrito no relatório descritivo do pedido e, tampouco, são definidas, de forma
+clara e precisa, as características técnicas apresentadas nas reivindicações.
+
+       Com relação à referência D2 (documento completo), de fato tal documento não cuida,
+especificamente, do método de preparação dos compostos de hidroxietilamido com ácido
+heptônico e seus complexos com íons metálicos, mais particularmente ferro. No entanto, D2
+faz um estudo comparativo da disponibilidade deste íon (ferro) baseando-se na estabilidade
+dos complexos de hidroxietilamido-ferro e complexos de dextrana-ferro. Obviamente, a
+
+                                                                                      Página 4
+                                        BR112013032901-7
+
+eficácia da disponibilidade dos íons ferro promovidas por esses complexos é de grande
+interesse na preparação destes compostos e, naturalmente, estimula aqueles versados na
+técnica a prepará-los, assim como a utilizar todo o ensinamento da técnica descrita em D1.
+Conclusão:
+
+       Diante das objeções apresentadas neste parecer e da matéria revelada nos documentos
+mencionados, o pedido em análise não atende ao disposto nos artigos 8°, 13 e 25 da LPI.
+Assim sendo, de acordo com o Art. 37 da LPI, indefiro o presente pedido, uma vez que não
+atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI) e as
+reivindicações não são claras e precisas (Art. 25 da LPI).
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 18 de agosto de 2020.
+
+
+
+ Julia Candida Afonso Martins
+ Pesquisador/ Mat. Nº 1225171
+ DIRPA / CGPAT I/DIPOL
+ Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                          Página 5
+

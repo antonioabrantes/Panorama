@@ -1,0 +1,217 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                             RELATÓRIO DE EXAME TÉCNICO
+ N.° do Pedido:        PI0814548-2                  N.° de Depósito PCT:EP2008/059054
+ Data de Depósito:     11/07/2008
+ Prioridade Unionista: EP 07 112392.1 (12/07/2007)
+ Depositante:          JANSSEN SCIENCES IRELAND UC (IE)
+ Inventor:             Sigrid Carl Maria Stokbroekx, Carina Leys, Elisabeth Maria Hélène
+                       Egide Ghislaine Theunissen, Lieven Elvire Colette Baert
+ Título:               Forma cristalina de 4-[[4-[[4-(2-cianoetenil)-2,6-dimetilfenil]amino]-2
+                       pirimidinil]amino]benzonitrila, seu processo de preparação, sua
+                       composição farmacêutica sólida, sua composição de micro ou
+                       nanopartículas farmacêuticas e usos desta composição
+
+                                                                PARECER
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição          Data
+
+Relatório Descritivo                                    1 a 32               20100002539            12/01/10
+Quadro Reivindicatório                                   1a4                 870190075005           05/08/19
+Desenhos                                                 1a8                 20100002539            12/01/10
+Resumo                                                      1                870190075005           05/08/19
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim      Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                     x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                             x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim      Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                                    x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                                  x
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                              Página 1
+                                            PI0814548-2
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                                Documento                               Data de publicação
+    D1                                WO03016306                                    27/02/03
+    D2                                WO04016581                                    26/02/04
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade              Cumprimento                 Reivindicações
+                                                     Sim                        1 a 22
+            Aplicação Industrial
+                                                     Não
+                                                     Sim
+                 Novidade
+                                                     Não                        1 a 22
+
+                                                     Sim
+            Atividade Inventiva
+                                                     Não                        1 a 22
+Comentários/Justificativas
+
+         A documentação analisada neste exame constituiu-se do parecer técnico notificado na
+RPI n°2522, de 07/05/19, sob o despacho 7.1, da manifestação acerca do mesmo, apresentada
+através da petição INPI n°870190073075, de 30/07/19, no qual o Requerente apresentou
+manifestação sobre o parecer e submeteu a este INPI novas páginas 1 e 1a do relatório
+descritivo, resumo e quadro reivindicatório (total de 22 reivindicações).
+
+         No tocante o questionamento acerca da falta de novidade frente aos ensinamentos de
+D1-D2, a Requerente salientou que: O polimorfo I de rilpivirina e seu processo de preparação
+ora reivindicados no presente pedido de patente apresentam novidade frente a WO2003016306
+(D1) ou WO2004016581 (D2) na medida em que tais documentos definitivamente não revelam
+(i) esse polimorfo e (ii) a preparação de uma forma cristalina de rilpivirina a partir de 2-
+propanona. A partir das Figuras do presente pedido de patente, o polimorfo obtido a partir de
+uma cetona  isto é, o polimorfo I ora reivindicado  é diferente do polimorfo II, que pode ser
+obtido usando os métodos de preparação descritos em D1.
+
+         Em adição, a Requerente salientou também que Conforme item 4.7 das diretrizes de
+exame de pedidos de patente (bloco II), uma invenção apresenta novidade quando todas as
+suas características definidas em uma reivindicação não estão reveladas, de forma integral, em
+um único documento do estado da técnica
+
+         Acerca da contraposição da Requerente, ressalta-se que para aferição do requisito de
+novidade de um polimorfo faz-se necessário dados comparativos de caracterização
+físico-química do composto no estado sólido revelado no estado da técnica e o pleiteado no
+presente pedido (item 4.3 da Resolução nº 208/2017- que institui as diretrizes de exame de
+pedidos de patente na área de química). Assim, tendo em vista que os documentos D1-D2, em
+sua forma integral, revelam o composto TCM278 faz-se necessário para aferição da novidade do
+
+
+
+                                                                                             Página 2
+                                            PI0814548-2
+
+
+polimorfo do referido composto é imprescindível a comparação por meio dos dados
+físico-químicos entre o sólido revelado no estado da técnica (D1-D2) e o reivindicado no pedido
+em tela conforme item 4.3 da Resolução nº 208/2017- que institui as diretrizes de exame de
+pedidos de patente na área de química). Logo, tendo em vista que não foram apresentados
+dados comparativos de difração de raios-x pelo método do pó, calorimetria de varredura
+diferencial (DSC) IV TMC278 revelado em D1 e D2 e o cristal do presente pedido, conclui-se que
+não foi possível aferir a novidade da matéria objeto da proteção do PI0814548-2 e,
+consequentemente, a matéria das reivindicações 1-22 do pedido em tela não é nova de acordo
+com o disposto no Art. 11 da LPI.
+
+       No que concerne o questionamento sobre a falta de novidade frente aos ensinamentos
+de D1-D2, a Requerente salientou
+
+1. A questão não é se um técnico no assunto poderia chegar a uma invenção, mas sim se ele
+seria motivado pelo estado da técnica a percorrer o caminho necessário para chegar a tal
+invenção na esperança de resolver um problema técnico conforme item 5.20 das diretrizes de
+exame de pedidos de patente (bloco II) (...); e
+
+2.  () deve-se ter cuidado para não se valer da análise em retrospectiva, que é vedada tanto
+pelas diretrizes de exame de pedidos de patentes (bloco II) quanto pela doutrina, que ensina
+que o requisito da atividade inventiva deve sempre ser analisado de forma prospectiva ()'.
+
+       Acerca da contraposição da Requerente, ressalta-se que o item 4.4 da da Resolução nº
+208/2017- que institui as diretrizes de exame de pedidos de patente na área de química dispõe
+que é importante ressaltar que a busca por sólidos cristalinos de um composto é uma prática
+comum da indústria para se aprimorar as características físico-químicas de compostos em geral.
+Logo, no presente caso um técnico no assunto seria motivado a investigar diferentes formas
+cristalinas TMC278 com propriedades benéficas, haja vista que o estado da técnica já ensinava
+que o composto TMC278 foi cristalizado a partir de dietiléter (D1) apresentando ponto de fusão
+de 245ºC (D2). Em suma, as anterioridades (D1-D2) apresentam ensinamentos que motivariam
+um técnico no assunto a buscar novos polimorfos do TCM278 e, portanto, não é o caso de uma
+análise retrospectiva como afirmou a Requerente.
+
+       Em suma, a seleção de um cristal TCM278, composto este já revelado no estado da
+técnica na forma cristalina, é uma solução que deriva do estado da técnica mais próximo (D1
+-D2) de maneira óbvia e evidente para um técnico no assunto e, portanto, a matéria reivindicada
+no presente pedido não apresenta atividade inventiva e, portanto não atende ao disposto no Art.
+13 da LPI.
+
+       Conforme dispõe o item 4.1 da Resolução nº 208/2017 - que institui as diretrizes de
+exame de pedidos de patente na área de química, relativo a suficiência descritiva do processo
+de obtenção de um polimorfo, os parâmetros de obtenção da forma cristalina devem ser
+especificados no relatório descritivo, de modo a garantir sua reprodutibilidade por um técnico no
+assunto. Consideram-se parâmetros essenciais nestes processos, por exemplo, a indicação
+do(s) solventes(s, e suas) concentração(ões), taxas de adição de solvente(s), taxas de
+
+
+                                                                                         Página 3
+                                           PI0814548-2
+
+
+aquecimento e resfriamento, descrição do processo de obtenção de eventuais sementes
+empregadas no processo de cristalização e demais parâmetros que possam ser considerados
+críticos. Assim, os exemplos 1 a 3 do presente pedido não atende o art. 24 da LPI, uma vez que
+não estão descritos alguns parâmetros críticos à obtenção do polimorfo reivindicado, tais como:
+taxa de resfriamento e torque, entre outros.
+
+       O processo pleiteado na reivindicação 2 não descreve alguns parâmetros essenciais de
+modo a garantir sua reprodutibilidade por um técnico tais como: as taxas de aquecimento,
+resfriamento e de concentração da solução final, logo a dita reivindicação não está
+fundamentada no relatório descritivo conforme dispõe o art. 25 da LPI.
+
+       Examinando-se o quadro reivindicatório foram encontradas expressões que acarretam
+indefinição e imprecisão no mesmo, como, por exemplo, insumo farmacêutico, diluente,
+polímero, agente de umidificação não caracterizando as particularidades do pedido,
+contrariando o disposto no artigo 25 da LPI.
+
+
+
+       Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   não apresenta suficiência descritiva (Art. 24 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                            Rio de Janeiro, 03 de outubro de 2019.
+
+
+
+
+Jaqueline Mendes Soares
+Pesquisador/ Mat. Nº 1568553
+DIRPA / CGPAT I/DIFAR-II
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+                                                                                           Página 4
+PI0814548-2
+
+
+
+
+              Página 5
+

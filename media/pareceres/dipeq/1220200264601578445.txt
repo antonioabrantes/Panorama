@@ -1,0 +1,242 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+
+ N.° do Pedido:                      BR122020026460-8      N.° de Depósito PCT:
+ Data de Depósito:                   28/07/2014
+ Prioridade Unionista:               -
+ Depositante:                        INNOSPEC LIMITED (GB)
+ Inventor:                           JACQUELINE REID, STEPHEN LEONARD COOK
+ Título:                             COMPOSIÇÃO DE COMBUSTIVEL, MÉTODO PARA APRIMORAR
+                                     O DESEMPENHO DE UM MOTOR E USO DE UM ADITIVO EM UMA
+                                     COMPOSIÇÃO DE COMBUSTÍVEL
+
+                                                                PARECER
+
+
+         O presente pedido corresponde a uma divisão do pedido BR112016001151-1, solicitada
+pelo depositante por meio da petição 870200160414, em 22/12/2020.
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               No da Petição           Data
+
+Relatório Descritivo                                    1 a 81               870200160414          22/12/2020
+Quadro Reivindicatório                                   1a5                 870220000889          05/01/2022
+Desenhos                                                    1                870200160414          22/12/2020
+Resumo                                                      1                870210009236          27/01/2021
+
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                               Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                     X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                             X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                       X
+O pedido está de acordo com disposto no art. 32 da LPI                                        X
+Comentários/Justificativas ______________________________
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1 de 5
+                                           BR122020026460-8
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                      X
+
+Comentários/Justificativas
+
+      As reivindicações 9-12 e 14 definem o objeto em termos do resultado alcançado e não
+pelas características técnicas do objeto, em desacordo ao disposto no Art. 25 da LPI.
+
+      A reivindicação 13 define o uso por características relacionadas ao produto, o que ocasiona
+falta de clareza e precisão à matéria que se deseja proteger, descumprindo-se o disposto no Art.
+25 da LPI e na Instrução Normativa nº 30/2013  Art. 4º (III).
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                   EP2604674                                 19/03/2013
+
+    D2                                 EP2033945 (A1)                              11/03/2009
+
+    D3                             US2012/0010112 (A1)                             12/01/2012
+
+    D4                                 US20100191014                               29/07/2010
+
+    D5                                WO9854119 (A1)                               03/12/1998
+
+    D6                              WO2006135881 (A2)                              21/12/2006
+
+    D7                                 GB2496514 (A)                               15/05/2013
+
+    D8                                 EP2589647 (A1)                              08/05/2013
+
+    D9                              WO2010132259 (A1)                              18/11/2010
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                   1 a 14
+           Aplicação Industrial
+                                                        Não                     -----
+                                                         Sim                   1 a 14
+                 Novidade
+                                                        Não                     -----
+                                                         Sim                    -----
+           Atividade Inventiva
+                                                        Não                    1 a 14
+
+
+
+                                                                                        Página 2 de 5
+                                       BR122020026460-8
+
+
+Comentários/Justificativas
+
+      Por meio da Petição Nº 870220000889, de 05/01/2022, a requerente apresentou
+manifestação ao parecer de ciência (despacho 7.1), notificado na RPI 2649, de 13/10/2021 e, em
+anexo, novas vias do quadro reivindicatório (total de 14 reivindicações), as quais foram aceitas e
+analisadas, conforme solicitação. As referidas modificações estão consideradas no Quadro 1.
+
+      Diante das argumentações técnicas apresentadas tempestivamente pela requerente e das
+alterações efetuadas no quadro reivindicatório, considera-se que os documentos encontrados não
+são mais relevantes à novidade da matéria objeto de proteção do presente pedido de patente.
+
+      Entretanto, as alegações da requerente não foram consideradas suficientes para superar as
+objeções efetuadas com relação a falta de atividade inventiva da matéria objeto de proteção do
+presente pedido e, deste modo, reitera-se que o documento D1 (cujo correspondente
+BR112014014305 (A2) é doravante citado como referência  página 6 a página 10, parágrafo
+[0022] e reivindicações) ensina uma composição de combustível compreendendo como um aditivo
+um ou mais compostos de amônio quaternário que são caracterizados pelo fato de ser o produto
+de reação de:
+
+      (a) uma amina terciária;
+
+      (b) um agente alquilante ativado por ácido; e
+
+      (c) um monoéster de um diácido que inclui uma porção química de hidrocarbil
+opcionalmente substituída que tem pelo menos 6 átomos de carbono.
+
+      D1 (D1, reivindicação 8) ensina que a composição de combustível ou composição
+lubrificante compreende combustíveis de diesel e combustíveis de gasolina.
+
+      D1 (D1, reivindicações 11 a 14) também faz menção ao uso da referida composição para
+aprimorar o desempenho de um motor, reduzindo e/ou evitando depósitos nos sistemas de
+injeção, do mesmo modo como pleiteado no presente pedido.
+
+      No que diz respeito aos detergentes empregados na composição combustível do presente
+pedido (reivindicações 6 e 8), D1 (parágrafos [0062] e [0063]) já divulga estes compostos e ensina
+que a sua utilização é convencional.
+
+      O documento D2 ensina sais de amônio quaternário de ácidos carboxílicos úteis como
+melhoradores de fluxo a frio em combustíveis destilados médios (diesel).
+
+      Os sais são preparados por reação de uma amina terciária e um alquiléster C1-C4 de um
+ácido carboxílico, na presença de um catalisador de ácido livre (resumo; parágrafo [0022]). O sal
+de amônio quaternário tem a fórmula [NR2R13R14]X em que R é metil, etil ou propil; R13 é um
+grupo alquil contendo 8-40 átomos de carbono; R14 é um grupo alquil contendo até 40 átomos de
+carbono; e X é um ânion carboxilato monovalente (parágrafos [0006], [0008], [0014], [0016],
+[0017]). O sal de amônio quaternário é usado em uma quantidade de 10-500 ppm p/p de
+
+
+
+
+                                                                                    Página 3 de 5
+                                      BR122020026460-8
+
+
+combustível (parágrafo [0024]). D2 também ensina o uso de outros aditivos, em combinação com
+os sais de amônio quaternário de ácidos carboxílicos (parágrafo [0025]).
+
+      Embora D2 não divulgue o uso de um epóxido, o documento D1 (parágrafos [0050] a
+[0052]) e o documento D3 (parágrafos [0104] a [0107]) já ensinam essa diferença.
+
+      D3 ensina compostos quaternários, sem ácido, como um aditivo de combustível e
+lubrificante, mais particularmente como um aditivo de detergente, como um aditivo anti-
+sedimentação de cera (WASA) ou como um aditivo para reduzir depósitos de injetor de diesel
+interno (IDID), especialmente em sistemas de injeção common-rail, para reduzir o consumo de
+combustível de motores a diesel de injeção direta e para minimizar a perda de potência em
+motores a diesel de injeção direta (resumo). D3 ensina que os epóxidos são sistemas de injeção
+common-rail usados (resumo). D3 (parágrafos [0104] a [0107]) ensina que os epóxidos são
+usados na ausência de ácidos livres, tais como ácidos monocarboxílicos C1-C12 (ácido
+neodecanóico, ensinado por D2).
+
+      Seria óbvio para um especialista na técnica substituir o ácido de D2 por um epóxido
+porque D3 ensina que os epóxidos podem ser usados, em vez de um ácido, para reagir na
+presença da amina e do monoéster.
+
+      No que diz respeito aos detergentes empregados na composição combustível do presente
+pedido, D3 (parágrafos [0149] a [0166]) já divulga estes compostos e ensina que a sua utilização
+é convencional .
+
+      Os documentos D1 a D9 já fazem menção a compostos que se enquadram na fórmula (Y)
+do presente pedido e acresce frisar que os compostos de fórmula (Y) são compostos derivados
+de compostos da fórmula (X)
+
+
+
+
+      em que R0 significa
+
+
+
+
+      Assim sendo, diante da análise técnica das referências, considera-se que o presente
+pedido carece de atividade inventiva, mediante os ensinamentos dos documentos citados.
+
+
+
+
+                                                                                    Página 4 de 5
+                                         BR122020026460-8
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º e Art. 13 da LPI) e as reivindicações estão indefinidas e/
+ou não estão fundamentadas no relatório descritivo (Art. 25 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                                  Rio de Janeiro, 2 de maio de 2022.
+
+
+
+
+Carla Maria Salerno Polato
+Pesquisador/ Mat. Nº 1485559
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                        Página 5 de 5
+

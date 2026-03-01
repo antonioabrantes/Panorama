@@ -1,0 +1,345 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR112012008957-9           N.° de Depósito PCT: US2010/051903
+ Data de Depósito:                     08/10/2010
+ Prioridade Unionista:                 US 61/252,313 (16/10/2009)
+ Depositante:                          DSM IP Assets B.V. (NL)
+ Inventor:                             Nelson R. Barton, Tim S. Hitchman, Jonathan D. Lyon, Eileen
+                                       ODonaghue, Mark A. Wall
+ Título:                               Fosfolipases, ácidos nucleicos que codificam os mesmos e métodos
+                                       para fazer e usar os mesmo 
+
+                                                              PARECER
+           O presente pedido refere-se a polinucleotídeos que codificam polipeptídeos que têm a
+atividade de enzima fosfolipase C específica de fosfatidilinositol (PI-PLC) ou equivalente, e/ou
+outra atividade de fosfolipase, incluindo uma atividade de enzima fosfolipase (A, B, C, D, patatina,
+ácido fosfatídico fosfatases (PAP) e/ou lipídio acil hidrolase (LAH) ou equivalente, os
+polinucleotídeos as codificam, anticorpos que se ligam especificamente às mesmas e métodos
+para fazê-las e utilizá-las.
+
+          Quanto à exigência pré-exame (RPI nº 2523, de 14/05/2019)  Artigo 34 da LPI:
+
+           De acordo com o artigo 34 da LPI, o INPI emitiu parecer de Exigência Pré-Exame, com
+despacho 6.20, cuja notificação foi publicada pela RPI nº 2492, de 09/10/2018. A depositante
+apresentou por meio da petição nº 870180159614, de 06/12/2018, uma proposta de quadro
+reivindicatório (total de 15 reivindicações), o qual sustenta ter escopo de proteção
+substancialmente idêntico à patente correspondente EP 2 488 542 B1. Adicionalmente, a
+depositante considerou estar dispensada de reapresentar argumentação técnica quanto à
+patenteabilidade da matéria ora pleiteada frente aos documentos da técnica citados.
+
+           O presente exame foi realizado sob a orientação da Norma de Execução SEI nº
+7/2019/DIRPA/PR (páginas 36-46), que estabelece os procedimentos de exame após exigência
+preliminar (6.20  Resolução INPI/PR nº 227, 25/10/2018, ora revogada) que forem realizados na
+vigência da Resolução INPI/PR nº 241/2019 (6.21). Neste sentido, conforme a determinação, o
+presente exame foi realizado com base na Resolução INPI/PR nº 241/2019.
+
+           No que se refere aos documentos considerados estado da técnica, o presente exame está
+seguindo a determinação dos itens 5.1.6 e 5.2.1 e do art. 5º da Norma de Execução SEI nº
+7/2019/DIRPA/PR. Assim, cabe ressaltar que como a Busca foi considerada realizada na etapa de
+exigência de Pré-exame (6.20) - conforme item 5.2.1 da referida Norma de Execução SEI nº
+7/2019/DIRPA/PR - os documentos avaliados no presente exame estão limitados aos documentos
+citados na exigência de Pré-exame (6.20), publicada na RPI nº 2492, de 09/10/2018.
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                       Página 1
+                                                          BR112012008957-9
+
+        Quanto ao parecer técnico anterior (RPI nº 2543, de 01/10/2019)
+
+         No parecer técnico anterior, o presente pedido foi objetado por contrariar o disposto nos
+artigos 10 (IX), 18 (III), 22, 24 e 25 da LPI.
+
+         Por meio da petição nº 870190141459, de 30/12/2019, a depositante apresentou
+manifestação ao parecer supracitado, juntando uma nova cópia do relatório descritivo, resumo,
+listagem de sequências e uma nova proposta de quadro reivindicatório.
+
+
+
+  Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                              Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                           x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)            x
+
+O pedido refere-se a Sequências Biológicas                                                             x
+
+Comentários/Justificativas
+
+        Quanto ao encaminhamento à ANVISA (art. 229-C da LPI, incluído pela Lei
+         10.196/2001):
+
+         O INPI considerou que a matéria do presente pedido não está contemplada nas
+disposições do artigo 229-C da Lei n° 10196/2001, que modificou a Lei n° 9.279/96 (LPI).
+
+
+
+        Quanto à declaração de acesso ao patrimônio genético nacional:
+
+         Para cumprimento do artigo 47 da Lei nº 13.123/2015, o INPI, na RPI nº 2467, de
+17/04/2018, emitiu uma exigência formal (6.6.1) para a comprovação do cadastramento e/ou
+autorização de acesso ao Patrimônio Genético Nacional e/ou Conhecimento Tradicional
+Associado, quando pertinente, no prazo de 60 dias a contar da publicação na Revista Eletrônica
+da Propriedade Industrial (RPI). A Procuradoria Federal Especializada junto ao INPI (PFE-INPI)
+no       Parecer         nº       00001/2018/PROCGAB/PFE-INPI/PGF/AGU               (Processo         INPI     nº
+52400.002142/2018-30), publicado nas RPIs nº 2465 (03/04/2018), 2466 (10/04/2018) e 2467
+(17/04/2018), ao qual foi atribuído caráter normativo na RPI nº 2485, de 21/08/2018, concluiu
+que após a emissão do despacho 6.6.1 não tendo havido manifestação da depositante no prazo
+de 60 (sessenta) dias contados a partir da publicação na RPI, o exame técnico deve ser
+prosseguido com o entendimento de que não houve acesso ao patrimônio genético nacional
+e/ou conhecimento tradicional associado, conforme consta no texto do despacho de código 6.6.1
+publicado na RPI.
+
+         Cabe ressaltar que a depositante não apresentou resposta à exigência supracitada.
+Contudo, em sua resposta à exigência Pré-exame (6.20), a depositante apresenta seu
+entendimento que em vista da publicação do despacho 6.6.1 (RPI nº 2466, de 10/04/2018), não
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                      Página 2
+                                                         BR112012008957-9
+
+seria necessária a apresentação da Declaração Negativa de Acesso ao Patrimônio Genético
+Nacional.
+
+        O estabelecido no artigo 47 da Lei nº 13.123/2015 é um requisito da concessão da
+patente, mas não repercute e compromete, s.m.j., a avaliação dos requisitos técnicos
+necessários à concessão de patentes estabelecidos na LPI, objeto da presente análise. Neste
+sentido, frente à normatização publicada na RPI nº 2485, de 21/08/2018, resta a presente
+análise dar andamento ao exame técnico. Contudo, cabe alertar que a Lei nº 13.123/2015,
+estabelece que nos termos desta Lei, o cadastramento é um instrumento declaratório obrigatório
+a concessão de direito de propriedade intelectual pelo órgão competente sobre produto acabado
+ou sobre material reprodutivo obtido a partir de acesso a patrimônio genético ou a conhecimento
+tradicional associado.
+
+       Quanto à Listagem de Sequências e apresentação eletrônica  Resolução nº 187, de
+        27/04/2017:
+
+        Em resposta a exigência, notificada na RPI nº 2524, de 11/06/2019, a depositante
+apresentou por meio da petição n° 870190072052, de 29/07/2019, a listagem de sequências
+para cumprimento da Resolução INPI PR nº 228/09, substituída pela Resolução INPI PR nº
+187/2017. No parecer técnico anterior, foi apontado que na referida listagem de sequências foi
+identificado que o campo 150 não informa que a prioridade é US. Adicionalmente, foi ressaltado
+que o artigo 4º, § 1º da Resolução nº 187/2017 não estava atendido tendo em vista que, são
+citadas sequências no relatório descritivo que não estavam presentes na listagem de sequências
+(por. ex., página 364).
+
+        Por meio da petição nº 870190141459, de 30/12/2019, uma nova cópia da listagem de
+sequências foi apresentada, na qual as objeções supramencionadas foram superadas.
+
+
+
+                                     Quadro 1  Páginas do pedido examinadas
+             Elemento                                   Páginas         n.o da Petição     Data
+Relatório Descritivo                                                   870190141459      30/12/2019
+                                                          1-434
+
+Listagem de sequências em
+                                                            ---               ---            ---
+formato impresso
+Listagem de sequências*                                                870190141459      30/12/2019
+                                               Código de Controle
+
+Quadro Reivindicatório                                                 870190141459      30/12/2019
+                                                            1-6
+
+Desenhos                                                   1-21         870170048633     12/07/2017
+Resumo                                                                 870190141459      30/12/2019
+                                                             1
+
+       *Listagem de sequências em formato eletrônico referente ao código de controle
+       93238ECBF650CF19 (Campo 1) e 77D7DF6552178346 (Campo 2).
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                           Página 3
+                                                        BR112012008957-9
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                             Sim           Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                        x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                 x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                     x
+O pedido está de acordo com disposto no art. 32 da LPI                      x
+Comentários/Justificativas
+
+
+
+      Quanto ao artigo 18 (III) da LPI:
+
+       No parecer técnico anterior, foi apontado que a antiga reivindicação 3 de célula hospedeira
+ou célula transformada incluía em seu escopo de proteção, células de inseto e planta,
+contrariando o disposto no artigo 18 (III), § único da LPI.
+
+       Após análise da nova proposta de quadro reivindicatório, verifica-se que a atual
+reivindicação 3 de célula continua incluindo em seu escopo de proteção para células de inseto e
+plantas. Portanto, ratifica-se que a matéria pleiteada pela referida reivindicação não é passível de
+privilégio conforme o artigo 18 (III) da LPI .
+
+       Do mesmo modo, a nova reivindicação 15 de biomassa continua incluindo em seu escopo
+de proteção matéria que não é passível de proteção conforme o artigo 18 (III) da LPI (animal e
+plantas). Portanto, ratifica-se que a matéria pleiteada pela referida reivindicação não é passível
+de privilégio conforme o artigo 18 (III) da LPI .
+
+
+
+      Quanto ao artigo 22 da LPI:
+
+       Na nova proposta de quadro reivindicatório a matéria pleiteada foi restrita ao GRUPO I
+anteriormente indicado. Neste sentido, considera-se que a objeção formulada com base no artigo
+22 da LPI foi superada.
+
+
+
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                             Sim           Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                       X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                     X
+Comentários/Justificativas
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                        Página 4
+                                                    BR112012008957-9
+   A redação da atual reivindicação 1 continua fazendo referência a sequências de
+    polinucleotídeos e polipeptídeos dificultando o entendimento do escopo pleiteado
+    contrariando assim, o disposto no artigo 25 da LPI. Conforme orientado nas Diretrizes para
+    exame de pedidos de patentes na área de Biotecnologia vigente em seu item 6.1
+    (Resolução PR nº 144/15), polinucleotídeos/ácido nucleico para efeitos de clareza devem
+    ser caracterizadas pelas sequências de nucleotídeos (SEQ ID NO X) que os compõem.
+    Neste sentido, referências feitas ao aminoácido modificado e não ao códon continuam
+    gerando falta de clareza;
+   Ao longo do quadro reivindicatório ora analisado é utilizado a expressão compreende ou
+    consiste e suas variações para definir a SEQ ID utilizada. Contudo, a referida expressão
+    gera falta de clareza ao escopo pleiteada e, portanto, não pode ser aceita;
+   Especificamente, a objeção quanto ao termo compreende e suas variações, a
+    depositante sustenta que as novas reivindicações 1 e 4 não só são específicas para a
+    SEQ       ID      NO:5         e     SEQ         ID      NO:6,   como   também   é   necessário   que   o
+    polinucleotídeo/polipeptídeo codifique/possua pelo menos uma substituição de aminoácido
+    como ali definida. Contudo, o presente exame não considera a argumentação persuasiva.
+    Conforme mencionado anteriormente, o escopo da proteção reivindicada deve ser
+    determinado com base na análise do quadro reivindicatório frente relatório descritivo
+    apresentado. Neste sentido, constitui objeto de irregularidade, com base no artigo 25 da
+    LPI, a utilização de todo termo que possa implicar em ampliação de modo vago e
+    indefinido o escopo da proteção reivindicada. A utilização deste termo inclui ácidos
+    nucleicos não revelados ou ensinados no inicialmente apresentado. Não há no inicialmente
+    apresentado qualquer ensinamento de uma sequência de polinucleotídeos ou aminoácidos
+    que contenha outros elementos adicionais àquelas ora reveladas e, ainda mantenha os
+    efeitos ora propostos, a referida expressão não pode ser aceita. Portanto, ratifica-se que a
+    referida expressão inclui matéria não atende ao disposto no artigo 25 da Lei nº 9.279/96
+    (LPI) e na Instrução Normativa nº 30/2013  Art. 4º (IV), pois define matéria que não está
+    fundamentada no relatório descritivo do pedido, uma vez que tal matéria não se encontra
+    suficientemente descrita no relatório descritivo, de modo a fundamentar o amplo escopo
+    reivindicado, o que contraria também o disposto no artigo 24 da LPI;
+   Verifica-se que na nova proposta de quadro reivindicatório foi mantida a utilização da
+    definição por percentual de identidade para as sequências que estão inclusas no escopo
+    pleiteado. Novamente, conforme orientado nas Diretrizes para exame de pedidos de
+    patentes na área de Biotecnologia vigente em seu item 6.2 (Resolução PR nº 144/15), a
+    caracterização do escopo das sequências biológicas que estão abrangidas pela proteção
+    reivindicada quando feita por meio da utilização da definição por grau de identidade não
+    atende ao disposto no artigo 25 da LPI e, portanto, não pode ser aceita;
+
+
+    Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                       Página 5
+                                                              BR112012008957-9
+         Do mesmo modo, continuam na presente proposta de quadro reivindicatório, as
+          expressões uma sequência do mesmo que codificando um polipeptídeo que, mudanças
+          de aminoácidos que não podem ser aceitas por gerarem falta de clareza e precisão
+          quanto ao escopo pleiteado. Conforme orientado nas Diretrizes para exame de pedidos de
+          patentes na área de Biotecnologia vigente em seu item 6.1 (Resolução PR nº 144/15),
+          polinucleotídeos/ácido nucleico para efeitos de clareza devem ser caracterizadas pelas
+          sequências de nucleotídeos (SEQ ID NO X) que os compõem e, não por codificar uma
+          proteína Y, uma vez que não é suficiente para definir com precisão o objeto a ser
+          protegido. Portanto, as referidas expressões estão em desacordo com o disposto no artigo
+          25 da LPI;
+         Na atual reivindicação 3, a expressão veículo de clonagem foi mantida, contrariando o
+          disposto no artigo 25 da LPI;
+
+
+
+                                        Quadro 4  Documentos citados no parecer
+
+ Código                                                     Documento                        Data de publicação
+    ---                                                             ---                                  ---
+          No que se refere aos documentos considerados estado da técnica, o presente exame está
+seguindo a determinação dos itens 5.1.6 e 5.2.1 e do art. 5º da Norma de Execução SEI nº
+7/2019/DIRPA/PR. Assim, cabe ressaltar que como a Busca foi considerada realizada na etapa de
+exigência de Pré-exame (6.20) - conforme item 5.2.1 da referida Norma de Execução SEI nº
+7/2019/DIRPA/PR - os documentos avaliados no presente exame estão limitados aos documentos
+citados na exigência de Pré-exame (6.20), publicada na RPI nº 2492, de 09/10/2018.
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+    Requisito de Patenteabilidade1,2                                        Cumprimento   Reivindicações
+                                                                                Sim          1-2, 4-11
+                  Aplicação Industrial
+                                                                               Não              ---
+                                                                                Sim          1-2, 4-11
+                          Novidade
+                                                                               Não              ---
+                                                                                Sim          1-2, 4-11
+                  Atividade Inventiva
+                                                                               Não              ---
+Comentários/Justificativas
+          1
+          De acordo com o disposto no item 5.1.5 da Norma de Execução SEI nº
+7/2019/DIRPA/PR (página 38), tendo em vista que as atuais reivindicações 3 e 12 referem-se a
+matéria que não é considerada invenção ou não é passível de proteção conforme os artigos 10
+(IX) e 18 (III) da LPI, respectivamente, as referidas reivindicações não foram avaliadas quanto
+aos requisitos de patenteabilidade.
+              Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                      Página 6
+                                                          BR112012008957-9
+
+       Conclusão
+
+       Diante da limitação imposta à presente análise técnica pelo artigo 5º da Resolução
+INPI/PR nº 241/19, a matéria ora pleiteada foi confrontada apenas com os documentos citados
+RPI nº 2489, de 18/09/2018 (6.20). Após a análise, o presente exame considera que, s.m.j., os
+documentos D1-D5 citados na RPI nº 2492, de 09/10/2018, não antecipam nem sugerem a
+matéria ora pleiteada.
+
+       Contudo, conforme exposto nos Quadros 2-3 acima, a matéria ora pleiteada não atende
+ao disposto nos artigos 18 (III), 24 e 25 da LPI.
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+
+
+      -      não apresenta suficiência descritiva (Art. 24 da LPI)
+
+      -      as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+             descritivo (Art. 25 da LPI)
+
+      -      não é considerado patenteável, uma vez que incide no Art. 18 da LPI.
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                                             Rio de Janeiro, 24 de março de 2020..
+
+
+
+
+Vania Lucia Ferreira Linhares da Silva
+Pesquisador/ Mat. Nº 1473306
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                     Página 7
+

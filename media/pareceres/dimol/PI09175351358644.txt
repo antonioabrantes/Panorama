@@ -1,0 +1,260 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        PI0917535-0                 N.° de Depósito PCT: US2009/053443
+ Data de Depósito:     11/08/2009
+ Prioridade Unionista: US 61/087.943 (11/08/2008); US 61/097.495 (16/09/2008); US
+                       61/097.516 (16/09/2008); US 61/138.863 (18/12/2008)
+ Depositante:          MANNKIND CORPORATION (US)
+ Inventor:             Peter Richardson; Robert A. Baughman; Elizabeth Potocka; ANDERS
+                       HASAGER BOSS; Richard Petrucci; Campbell Howard; ALFRED
+                       MANN
+ Título:               Uso de insulina de ação ultra rápida
+
+                                                              PARECER
+           O presente pedido de patente ensina método de tratar hiperglicemia empregando-se uma
+insulina de ação ultra rápida, em combinação ou não com outros medicamentos, compreendendo
+a administração prandial da insulina ultra rápida.
+           Esse exame foi realizado em ambiente digital, tendo sido consideradas as seguintes
+petições:
+
+Petição                                                           Data
+
+NPRJ 020110010412                                                 01/02/11
+NPRJ 020120075589                                                 13/08/12
+RJ 860150007208                                                   15/01/15
+RJ 860150303007                                                   21/12/15
+RJ 870190089191                                                   09/09/19
+RJ 870200136495                                                   29/10/20
+           Através da petição RJ 870200136495, de 29/10/2020, a Requerente manifestou-se ao
+parecer técnico notificado na RPI 2587, de 04/08/2020 (despacho 7.1), doravante denominado
+parecer técnico anterior, apresentando esclarecimentos a respeito da matéria, bem como novas
+vias do relatório descritivo, quadro reivindicatório e resumo.
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas Sim                                Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                  X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)   X
+
+O pedido refere-se a Sequências Biológicas                                                                    X
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                               Página 1
+                                                                 PI0917535-0
+
+
+Comentários/Justificativas: ---
+
+
+
+                                       Quadro 1  Páginas do pedido examinadas
+               Elemento                                   Páginas               n.o da Petição        Data
+Relatório Descritivo                                       1 a 96              RJ 870200136495       29/10/20
+Listagem de sequências em
+                                                              ---                     ---              ---
+formato impresso
+Listagem de sequências*                                       ---                     ---              ---
+Quadro Reivindicatório                                      1e2                RJ 870200136495       29/10/20
+Desenhos                                                   1 a 18              RJ 870190089191       09/09/19
+Resumo                                                         1               RJ 870200136495       29/10/20
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                               Sim        Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                          X
+O pedido está de acordo com disposto no art. 32 da LPI                                           X
+Comentários/Justificativas: ---
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                               Sim        Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                             X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                                   X
+Comentários/Justificativas
+
+       As reivindicações 1 a 8 não estão de acordo com o artigo 25 da LPI, visto que não
+caracterizam a matéria clara e precisamente. Como alegado no parecer técnico anterior, as
+Diretrizes de Exame de Pedidos de Patente na Área de Química, instituídas pela
+Resolução/INPI/PR nº 208/2017, em seu item 9.1.4, estabelece que reivindicações de novo uso
+médico devem, de modo a ser consideradas claras e precisas, especificar a doença a ser tratada.
+É também determinado que trechos contidos nas reivindicações de novo uso médico relacionados
+a grupo de pacientes e esquema terapêutico não podem ser aceitos por causar indefinição à
+matéria.
+       Nesse sentido, observa-se que o trecho para tratar diabetes em um paciente com diabetes
+do tipo 1, o qual não produz insulina endógena, e o qual está atualmente recebendo terapia de
+
+
+           Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                   Página 2
+                                                                PI0917535-0
+
+
+insulina basal não atende ao artigo 25, já que se refere a um grupo de pacientes e não a uma
+patologia em específico.
+          Adicionalmente, o trecho em que o medicamento é formulado para ser administrado a
+uma dosagem pré-determinada entre 1 a 120 unidades da formulação de insulina de ação
+ultrarrápida no momento de cada refeição diária e a dose de insulina não é ajustada para o teor da
+refeição, na reivindicação 1, vai de encontro com o artigo 25 da LPI, visto que se relaciona ao
+esquema terapêutico e, portanto, é inconsistente com a matéria pleiteada. Do mesmo modo,
+trechos relacionados a esquema terapêutico e/ou grupo de pacientes são encontrados nas
+reivindicações 2 a 8.
+          Portanto, os trechos introduzidos na reivindicação 1 apenas se referem a grupo de
+pacientes ou a esquemas terapêuticos. A doença a ser tratada, no entanto, continua sendo
+diabetes do tipo 1. Sendo assim, para os propósitos do presente exame técnico, considerou-se
+que a reivindicação 1 se refere ao uso de uma formulação de insulina de ação ultrarrápida
+caracterizado pelo fato de que é para a manufatura de um medicamento para tratar diabetes do
+tipo 1.
+
+
+                                    Quadro 4  Documentos citados no parecer
+
+ Código                                                 Documento                        Data de publicação
+    D1         TACK, C. J. et al. Randomized forced titration to different doses           Janeiro de 2008
+               of technosphere insulin demonstrates reduction in postprandial
+               glucose excursions and hemoglobin A1c in patients with type 2
+               diabetes. J Diabetes Sci Technol. 2008. Vol. 2, No.1, páginas:
+               47-57. doi: 10.1177/193229680800200108.
+    D2         WO2006105501                                                                   05/10/2006
+    D3         US2007027063                                                                   01/02/2007
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+      Requisito de Patenteabilidade                                     Cumprimento   Reivindicações
+                                                                            Sim           1a8
+              Aplicação Industrial
+                                                                           Não              ---
+                                                                            Sim             ---
+                      Novidade
+                                                                           Não            1a8
+
+                                                                            Sim             ---
+              Atividade Inventiva
+                                                                           Não            1a8
+Comentários/Justificativas
+
+          Todas as reivindicações ora em exame estão estruturadas como fórmula-suíça e se
+referem a um novo uso médico. De acordo com as Diretrizes de Exame de Pedidos de Patente
+na Área de Química, instituídas pela Resolução/INPI/PR nº 208/2017, item 9.1.1, para ser
+considerada nova, a invenção de novo uso médico deve revelar a aplicação de um produto
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 3
+                                                              PI0917535-0
+
+
+farmacêutico já conhecido para produzir um medicamento para tratar ou prevenir uma doença
+diferente daquela para a qual o dito produto já era empregado no estado da técnica. Ainda,
+características relacionadas ao uso do composto (por exemplo, esquema terapêutico e/ou grupo
+de pacientes) não conferem novidade ao uso conhecido do composto.
+
+       Como já discutido no parecer técnico anterior, o documento D1 se refere especificamente
+a pacientes com diabetes do tipo 2 e, portanto, não é relevante à presente discussão.
+
+       D2, por sua vez, revela métodos de se reduzir excursões de glicemia pós-prandial
+mediante a administração de uma composição de insulina de ação ultrarrápida a pacientes com
+diabetes do tipo 1 (resumo, reivindicação 9). Mais particularmente, o Exemplo 6 de D2 relata a
+administração por inalação de FDKP-insulina (Technosphere®, um tipo de insulina de ação
+ultrarrápida) a pacientes com diabetes do tipo 1 que não estão recebendo nenhum outro
+fármaco, além de insulina, mostrando o efeito dessa medicação na redução dos níveis
+glicêmicos pós-prandiais. O Exemplo 11 de D2 apresenta uma comparação entre a
+administração de FDKP-insulina e a de outra insulina de ação rápida (Novolog®).
+
+       A respeito de D2, a Requerente esclareceu que esse documento não descreve uma
+formulação fornecida em cartuchos múltiplos de quantidades variáveis de fármaco como ora
+reivindicado no presente pedido de patente. Tal diferença em relação a D2, no entanto, não é
+suficiente para que a novidade e a atividade inventiva da matéria reivindicada seja reconhecida
+frente a D2. Como já dito acima, a novidade no caso de um novo uso médico se dá pela
+avaliação da aplicação de um produto farmacêutico já conhecido para produzir um medicamento
+para tratar ou prevenir uma doença diferente daquela para a qual o dito produto já era
+empregado no estado da técnica. D2 se refere ao uso da insulina de ação ultrarrápida FDKP
+(insulina humana recombinante e 3,6-di(fumaril-4-aminobutil)-2,5-dicetopiperazina) (parágrafo
+[0075]) no tratamento de diabetes do tipo 1. Logo, o uso objeto da reivindicação 1, bem como de
+suas reivindicações dependentes, 2 a 8, não é novo perante D2.
+
+       D3 divulga composições e métodos direcionados ao controle dos níveis séricos de
+glicose para aumentar a longevidade de células produtoras de insulina em pacientes com
+diabetes do tipo 1 através da administração da insulina de ação ultrarrápida Technosphere®
+(resumo; parágrafos [0066] e [0094]; Exemplo 5; reivindicações 12 e 20). Logo, do mesmo modo
+que D2, D3 divulga uso da insulina de ação ultrarrápida FDKP (insulina humana recombinante e
+3,6-di(fumaril-4-aminobutil)-2,5-dicetopiperazina) (parágrafo [0066]) no tratamento de diabetes
+do tipo 1. Logo, o uso objeto da reivindicação 1, bem como de suas reivindicações dependentes,
+2 a 8, não é novo perante D3. A respeito de D3, a Requerente argumentou que essa
+anterioridade inclui pacientes que ainda podem produzir a sua própria insulina, não revelando
+paciente com diabetes do tipo 1, o qual não produz insulina endógena. No entanto, tal
+argumentação não é válida, na medida que diferencia a matéria objeto de proteção daquela
+revelada no estado da técnica com base no grupo de pacientes. Contudo, características
+relacionadas ao uso do composto, tais como grupo de pacientes, não conferem novidade ao uso
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                     Página 4
+                                                                PI0917535-0
+
+
+conhecido do composto, conforme determinado pelo item 9.1.1 das Diretrizes de Exame de
+Pedidos de Patente na Área de Química, instituídas pela Resolução/INPI/PR nº 208/2017.
+
+       Vale frisar que, mesmo que se considerasse o uso reivindicado novo frente a D2 ou a D3,
+não seria possível reconhecer sua atividade inventiva, tendo em vista que o relatório descritivo
+da invenção em exame não provê nenhum resultado experimental que demonstre qual seria o
+efeito particularmente vantajoso e inesperado, frente a D2, do uso de insulina FDKP em um ou
+mais cartuchos contendo até 12 unidades de insulina e da administração de uma dosagem pré-
+determinada entre 1 a 120 unidades. O simples fato de fornecer mais opções de administração
+ao usuário, tal como alegado pela Requerente, não pode ser considerado como uma observação
+surpreendente face ao estado da técnica.
+
+       Conclui-se, então, que D2 ou D3 antecipam o uso de uma formulação de insulina de
+ação ultrarrápida para a manufatura de um medicamento para tratar diabetes do tipo 1.
+Dessarte, face a D2 ou a D3, as reivindicações 1 a 8 não são consideradas novas e, portanto,
+também não atendem ao requisito de atividade inventiva, de acordo com os artigos 8º c/c artigos
+11 e 13 da LPI, respectivamente.
+
+Conclusão
+
+       Face ao acima exposto, o presente pedido de patente não atende aos artigos 8º c/c 11,
+8º c/c 13 e 25 da LPI.
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -      não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI);
+
+      -      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI);
+
+      -      as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+             descritivo (Art. 25 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                                    Publique-se o indeferimento (9.2).
+
+
+
+                                                                              Rio de Janeiro, 01 de fevereiro de 2021.
+
+
+
+
+Flávia Riso Rocha
+Pesquisador/ Mat. Nº 1550511
+DIRPA / CGPAT II/DIMOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                        Página 5
+

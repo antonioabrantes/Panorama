@@ -1,0 +1,220 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102013001541-5          N.° de Depósito PCT:
+ Data de Depósito:                   21/01/2013
+ Prioridade Unionista:               -
+ Depositante:                        PEARSON EDUCATION DO BRASIL S.A. (BRSP)
+ Inventor:                           CARLOS ROBERTO WIZARD MARTINS
+ Título:                             Sistema de cartão de áudio + caneta acionadora, usado como
+                                     material de apoio em métodos de ensino de idiomas 
+
+                                                              PARECER
+A presente invenção descreve um sistema de cartão de áudio + caneta acionadora, usado
+como material de apoio em métodos de ensino de idiomas representado por uma
+solução inventiva no rico mercado de comunicação, notadamente no setor de mercado de
+educação, em especial no segmento de aprendizado de idiomas, onde o uso deste sistema,
+em substituição ao convencional [cujo material de apoio é formado por apostila texto, apostila
+de exercícios e CD's], agregando valor ao serviço prestado de aprendizado, com redução de
+custo operacional, notadamente custo de mão de obra, bem como trata de uma solução
+sustentável, onde uma vez terminado o tempo de vida útil da mídia, esta pode ser descartada
+e seus componentes podem ser reaproveitados por conceito de reciclagem, sendo que
+para atender a tais predicados a solução é balizada em um cartão [A] que tem agregado a si,
+uma memória provida de arquivos eletrônicos para o portfólio de lições [1a], bem como
+permite o controle de volume [2b] e controle de execução [2a], sendo que para o acionamento
+de suas funções é utilizada, de forma mandatária, uma caneta [B].
+
+Em 26/04/2021, através da Petição 870210037682, o requerente apresenta uma manifestação
+ao primeiro exame realizado, solicitando um novo exame do presente pedido com as citadas 2
+(duas) reivindicação.
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                     18-25               870210037682     26/04/2021
+Quadro Reivindicatório                                17 ou 26*              870210037682     26/04/2021
+Desenhos                                                 28-30               870210037682     26/04/2021
+Resumo                                                     27                870210037682     26/04/2021
+(*) Quadro auxiliar
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                          BR102013001541-5
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                           Sim               Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                         x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                 x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   x
+O pedido está de acordo com disposto no art. 32 da LPI                    x
+Comentários/Justificativas
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                 US2009315834                                   24/12/2009
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+      Requisito de Patenteabilidade               Cumprimento            Reivindicações
+                                                         Sim                     1-2
+            Aplicação Industrial
+                                                         Não                      -
+                                                         Sim                     1-2
+                   Novidade
+                                                         Não                      -
+
+                                                         Sim                      -
+            Atividade Inventiva
+                                                         Não                     1-2
+Comentários/Justificativas
+
+Na ocasião do primeiro exame, foi emitida uma ciência de parecer na qual se indicava que as
+reivindicações 1 e 2 não apresentavam atividade inventiva.
+
+A requerente, por sua vez, ingressou com uma manifestação a esse exame realizado com
+argumentações contrapondo a conclusão do primeiro exame e modificações no quadro
+reivindicatório.
+
+Quanto às argumentações, a requerente ao comparar a presente invenção com o documento
+D1, informa que o documento D1 apresenta um dispositivo do tipo Palmtop ou Handhelds, que
+são computadores de mão dotados de grande capacidade de processamento computacional que
+
+
+
+                                                                                            Página 2
+                                       BR102013001541-5
+
+
+incluem funções de agenda e de informática com possibilidade de conexões com outros
+computadores e com conexões Wi-Fi, e que foram, posteriormente, descontinuados em função
+da popularização dos smartphones e tablets, que absorveram todas as suas funcionalidades.
+Adicionalmente, a requerente menciona que ainda que D1 apresente um dispositivo com duas
+telas sensíveis ao toque  tela touch  que permitem executar ações de acordo com a
+ativação de elementos correspondentes nessas telas, a matriz de linhas e colunas de D1 pode
+estar relacionada com (i) um display, onde o encontro de uma linha e coluna corresponde a um
+pixel, e (ii) com o sensor touch, que por meio de uma matriz de linhas e colunas indutivas
+é capaz de identificar a localização do toque do usuário na tela.
+
+Além disso, a requerente também afirma que na presente invenção, a matriz de linhas e
+colunas com 63 pontos de acesso impressos em formato circular e dispostos na face superior do
+cartão se difere de D1, pois é relacionada com a disposição e organização dos arquivos de
+áudio das lições no cartão, ou seja, com a disposição das tarefas a serem realizadas pelo aluno,
+de modo que os pontos de acesso aos arquivos de áudio e aos comandos de áudio ou execução
+são botões/sensores acionados pela caneta acionadora. Isto não se confunde com uma tela
+sensível ao toque. Ademais, cada lição é associada exclusivamente a um ponto de acesso e,
+para executar este arquivo, o usuário necessita acionar o ponto de acesso com a caneta
+acionadora, de maneira estática. Como proposto na metodologia da Requerente, o arquivo de
+lição precisa ser executado para que o aluno o repita algumas vezes para melhor
+absorção do conteúdo lecionado.
+
+Feitas essas observações, ressalta-se que um técnico no assunto dispondo do dispositivo de D1
+conseguiria (sem maiores esforços), a partir de aplicativos específicos, emular todas as funções
+indicadas na presente invenção. Em outras palavras, um técnico no assunto poderia acessar um
+programa ou aplicativo com as funções apresentadas pela presente invenção instalado no
+Palmtop especificado em D1 e, assim, chegar ao mesmo efeito técnico pleiteado pela presente
+invenção que é o uso de um cartão de áudio (tela do palmtop sensível ao toque adaptada pelo
+uso de um programa ou aplicativo com 63 campos específicos contendo lições, em formato mp3
+- por exemplo, quaisquer) mais caneta (pode ser a própria caneta do palmtop ou o dedo do
+usuário, por exemplo).
+
+O referido programa ou aplicativo é de simples concepção e pode ser considerado como já
+fazendo parte do estado da técnica sob a óptica de um técnico no assunto.
+
+Em se tratando das emendas feitas no quadro reivindicatório, considerando-se o quadro
+preferencial (página 17 da petição 870210037682), a requerente acrescentou como parte
+caracterizante na reivindicação 1 o seguinte trecho: caracterizado pelas referidas lições
+[1a]   compreenderem      regiões   de formato circular impressas na face superior [1] e
+posicionadas na dita forma de uma matriz de linhas e colunas, e por somente a
+caneta [B], através do dispositivo de acionamento posicionado na ponta da caneta
+[B], liberar o acionamento do arquivo eletrônico de áudio correspondente à cada lição
+
+
+
+
+                                                                                        Página 3
+                                      BR102013001541-5
+
+
+[1a] selecionada na face superior [1] do cartão [A] e controlar a área de controle de áudio
+[2b] e a área de comando de execução [2a].
+
+Novamente, considerando-se o documento D1, a questão do formato das lições e seu
+posicionamento já estariam antecipados por D1, conforme já discutido mais acima.
+
+Quanto ao fato de haver um dispositivo de acionamento específico, um técnico no assunto, sem
+maiores problemas poderia efetuar algum tipo de configuração ou implementação no dispositivo
+de D1, a fim de chegar a esse mesmo efeito técnico.
+
+Adicionalmente, ressalta-se que um técnico no assunto poderia, a partir da invenção pleiteada
+em D1, implementar um hardware dedicado tal como o reivindicado pela presente invenção, em
+vez de usar o próprio dispositivo indicado em D1 com um programa ou aplicativo específico.
+
+Sendo assim, o quadro reivindicatório preferencial está integralmente antecipado pelo
+documento D1.
+
+Tal como o quadro preferencial apresentado, o quadro reivindicatório auxiliar (página 26 da
+petição 870210037682), também está antecipado pelo documento D1.
+
+Portanto, ratifica-se que a matéria pleiteada nas reivindicações 1-2 (do quadro preferencial) e
+na reivindicação 1 (do quadro auxiliar) não apresenta atividade inventiva. Logo, a mesma está
+em desacordo com o artigo 8º combinado com o artigo 13 da Lei nº 9.279/96 (LPI).
+
+
+
+
+                                                                                       Página 4
+                                      BR102013001541-5
+
+
+Conclusão
+
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 21 de junho de 2021.
+
+
+
+
+Michel Igor de Almeida Ennes
+Pesquisador/ Mat. Nº 2041239
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+001/16
+
+
+
+
+                                                                                         Página 5
+

@@ -1,0 +1,280 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112013027462-0          N.° de Depósito PCT: JP2012/060904
+ Data de Depósito:                   24/04/2012
+ Prioridade Unionista:               JP 2011-097645 (25/04/2011); US 61/478878 (25/04/2011)
+ Depositante:                        DAIICHI SANKYO COMPANY, LIMITED (JP)
+ Inventor:                           SHU TAKAHASHI, TATSUJI MATSUOKA, KENJI MURAKAMI,
+                                     TAKESHI TAKIZAWA, KENJI HIROTANI, ATSUSHI URANO, KEISUKE
+                                     FUKUCHI, MITSUHIRO YAZAWA
+ Título:                             Anticorpo ou fragmento funcional do anticorpo, polinucleotídeo, vetor
+                                     de expressão, célula hospedeira, método para produzir um anticorpo
+                                     ou um fragmento funcional do anticorpo, composição farmacêutica, e,
+                                     método de tratamento de um tumor 
+
+                                                              PARECER
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim      Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                    x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)     x
+
+O pedido refere-se a Sequências Biológicas                                                              x
+
+Comentários/Justificativas
+
+         Por se tratar de produto/processo farmacêutico, seguindo o disposto no artigo 229-C da
+          LPI, incluído pela Lei 10.196/2001, o pedido foi primeiramente encaminhado à ANVISA
+          para as providências cabíveis, com notificação a publicada na RPI n° 2454 de 16/01/2018,
+          sob despacho 7.4. Através do ofício n° 073/19/COOPI/GGMED/ANVISA de 06/02/2019, a
+          ANVISA          encaminhou           um       parecer        técnico   n°039/19/COOPI/GGMED/ANVISA     de
+          24/01/2019, sugerindo a prévia anuência ao presente pedido de patente de invenção, nos
+          termos do art. 229-C da Lei n° 9.279/1996, conforme redação dada pela Lei n°
+          10.196/2001. A notificação de Anuência prévia do pedido pela ANVISA nas disposições do
+          artigo 229-C da Lei 9.279/96, foi publicada na RPI n°2515 de 19/03/2019, sob despacho
+          7.5.
+
+         Através da petição n° 020150007653 de 15/04/2015, foi apresentada pelo requerente a
+          declaração negativa de acesso aos recursos genéticos brasileiro.
+
+         O pedido apresenta listagem de sequências apresentada em formato eletrônico através da
+          petição nº 020130084706 de 24/10/2013.
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                  Página 1
+                                           BR112013027462-0
+
+
+
+
+                            Quadro 1  Páginas do pedido examinadas
+           Elemento                       Páginas               n.o da Petição         Data
+Relatório Descritivo
+                                          1 a 140                87019010541         18/10/2019
+Listagem de sequências*                                         020130084706         24/10/2013
+                                   Código de Controle
+
+Quadro Reivindicatório
+                                           1 a 15               870200073064         12/06/2020
+Desenhos                                                        020130084706         24/10/2013
+                                           1 a 26
+
+Resumo
+                                             1                   87019010541         18/10/2019
+
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+     9999999999999999 (Campo 1) e 9999999999999999 (Campo 2).
+
+
+       No primeiro exame técnico publicado na RPI 2567 de 17/03/2020, foi dada a ciência de
+parecer, com despacho 7.1 ao pedido em análise. Foram apontadas irregularidades acerca dos
+artigos 8° c/c 11, 13, 18 (III), 25 da LPI 9279/96.
+
+       Por meio da petição n°870200073064 de 12/06/2020, o requerente se manifestou sobre o
+primeiro parecer técnico. Foi anexado um novo quadro reivindicatório, contendo 37 reivindicações.
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                               Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                       x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                          x
+O pedido está de acordo com disposto no art. 32 da LPI                           x
+Comentários/Justificativas
+
+       As reivindicações que se enquadravam no artigo 18, III foram modificadas de forma a
+excluir matéria não patenteável. Assim, o pedido encontra-se de acordo com artigo 18 da LPI.
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                               Sim         Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI             x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                    x
+Comentários/Justificativas
+
+
+                                                                                          Página 2
+                                        BR112013027462-0
+
+
+1)     No primeiro exame técnico foi apontado que a reivindicação 13 pleiteava anticorpo
+caracterizado por ter x% de homologia com uma SEQ ID No, o que não podia ser aceito pois tal
+característica abrangeria um grande número de possibilidades não especificadas, o que resulta
+em falta de clareza ao objeto a ser protegido.
+
+       Em sua manifestação a requerente trouxe a seguinte argumentação:
+
+       Embora a Requerente não concorde que uma proteína não possa ser definida por sua
+porcentagem de homologia com outra molécula e, a fim de agilizar a tramitação do pedido,
+a reivindicação de processo 12(e) foi alterada para recitar "uma sequência de aminoácidos que
+possui uma homologia de pelo menos 95% ou mais com qualquer um dos aminoácidos
+estruturais das sequências de (a) a (d)". Adicionalmente, a reivindicação 12(n) foi alterada de
+forma semelhante para recitar "uma sequência de aminoácidos que possui uma homologia
+de pelo menos 95% ou mais com qualquer um dos aminoácidos estruturais das sequências de (g)
+a (m)". É bem conhecido na arte que os domínios estruturais de um anticorpo podem variar
+consideravelmente sem alterar a especificidade de ligação ao antígeno, conforme definido
+pelas CDRs para seu epítopo alvo.
+
+
+
+       Observa-se que o novo quadro reivindicatório, em sua reivindicação 12, se manteve o
+pleito do anticorpo por % de homologia. Reitera-se aqui que, de acordo com o item 6.2 a
+Resolução INPI n° 144/15 (Diretrizes de Biotecnologia), tal característica não pode ser aceita por
+abranger um grande número de possibilidades não especificadas, o que resulta em falta de
+clareza ao objeto a ser protegido. Desta forma, as reivindicações deveriam se restringir as
+sequências descritas no pedido. Assim, o pedido não atende ao disposto no artigo 25 da LPI.
+
+
+
+2) No primeiro exame técnico foi apontado também que a reivindicação 18 tratava de anticorpo
+que possuia modificação em aminoácido. Contudo, não foi revelado qual seria o aminoácido a ser
+excluído e em qual posição da cadeia. Assim, tal reivindicação carecia de clareza em precisão.
+
+       Em sua manifestação o requerente argumentou que: A antiga reivindicação 18 já afirmava
+expressamente que o um ou dois aminoácidos a serem excluídos estão na região carboxi terminal
+da cadeia pesada. Esta posição é muito facilmente determinada para qualquer cadeia
+pesada recitada nas reivindicações pendentes. Além disso, a Requerente chama atenção para as
+informações detalhadas no parágrafo [0285], em que tais deleções são descritas. Tendo em
+vista a natureza comum desta modificação da sequência de aminoácidos e a descrição
+escrita do processo no pedido apresentado, a Requerente respeitosamente solicita a
+reconsideração e retirada dessas objeções.
+
+
+
+
+                                                                                         Página 3
+                                         BR112013027462-0
+
+
+         Observa-se que a reivindicação 18 foi mantida como tal, no novo quadro reivindicatório
+apresentado (nova reivindicação 17) e que a falta das informações de qual aminoácido seria o
+excluído não foram adicionadas à reivindicação. Sendo assim, reitera-se que a atual reivindicação
+17 carece de clareza em precisão e não atende ao disposto no artigo 25 da LPI.
+
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                                Documento                             Data de publicação
+    D1        WO2008/116219                                                           2008
+    D2        CASTRICONI R, ET AL, Identification of 4Ig-B7-H3 as a                  2004
+              neuroblastoma-associated molecule that exerts a protective
+              role from an NK cell-mediated lysis PNAS, 20040824
+              National Academy of Sciences, US, Vol: 101, Nr: 34, Page(s):
+              12640 - 12645
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade            Cumprimento             Reivindicações
+                                                      Sim                    1 a 37
+             Aplicação Industrial
+                                                      Não                        --
+                                                      Sim                    1 a 37
+                  Novidade
+                                                      Não                        --
+                                                      Sim                    1 a 37
+             Atividade Inventiva
+                                                      Não                        --
+Comentários/Justificativas
+
+         No primeiro exame técnico publicado na RPI 2567 de 17/03/2020 , foi dada a ciência de
+parecer, com despacho 7.1 ao pedido em análise. Foram apontadas irregularidades acerca dos
+artigos 8° c/c 11, 13, 10 (VIII e IX), 25 da LPI 9279/96.
+
+         Por meio da petição n° 870200073064 de 12/06/2020 o requerente se manifestou sobre o
+primeiro parecer técnico. Foram anexados um novo quadro reivindicatório, contendo 37
+reivindicações e argumentos acerca do primeiro exame técnico.
+
+         Dentre os argumentos apresentados, se depreende as seguintes informações citadas
+abaixo:
+
+         O INPI alegou que a diferença entre os documentos de referência (D1 e D2) e o
+          presente pedido está nas sequências específicas das cadeias de anticorpos, sendo estas
+
+
+
+
+                                                                                         Página 4
+                                           BR112013027462-0
+
+
+           alternativas à técnica anterior. Além disso, o INPI afirmou que as reivindicações
+           pendentes são amplas e
+
+          abrangem vários anticorpos possíveis. Por fim, o INPI concluiu que as reivindicações
+           de 1 a 7, 10, 11, de 17 a 22 e de 33 a 39 não podem ser consideradas novas em vista de
+           D1 ou D2. Da mesma forma, o INPI alegou que esses anticorpos não possuem
+           inventividade em relação ao estado da arte.
+
+          Embora a Requerente discorde de que seja necessário especificar as sequências de
+           aminoácidos dos CDRs dos anticorpos reivindicados para distinguir claramente os
+           anticorpos reivindicados em relação à técnica anterior, a Requerente alterou a
+           reivindicação 1 para especificar as sequências dos CDRs anteriormente descritos na
+           reivindicação 8 com o único propósito de acelerar a tramitação do presente pedido. A
+           descrição das sequências de aminoácidos dos CDRs na reivindicação 1 supera a
+           objeção de suposta falta de novidade e inventividade exarada contra as reivindicações
+           de 1 a 7, 10, 11, de 17 a 22 e de 33 a 39.
+
+
+
+       Dando prosseguimento ao exame técnico, verifica-se que a reformulação da reivindicação
+1 do novo quadro reivindicatório apresenta uma definição mais clara do anticorpo da invenção,
+com uma sequência diferente ao já conhecido no estado da técnica. Assim, observa-se que o dito
+anticorpo trata-se de uma alternativa não conhecida em relação ao estado da técnica e possui
+novidade, atividade inventiva e aplicação industrial. Portanto, o pedido encontra-se de acordo com
+artigo 8° da LPI.
+
+
+
+Conclusão
+
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+       -     as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+             descritivo (Art. 25 da LPI)
+
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+
+                                                                                         Página 5
+                               BR112013027462-0
+
+
+                                                    Publique-se o indeferimento (9.2).
+
+
+
+                                                  Rio de Janeiro, 7 de agosto de 2020.
+
+
+
+Camila Chaves Santos
+Pesquisador/ Mat. Nº 1741260
+DIRPA / CGPAT II/DIMOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+023/12
+
+
+
+
+                                                                             Página 6
+

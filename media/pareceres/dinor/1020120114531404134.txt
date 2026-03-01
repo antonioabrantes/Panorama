@@ -1,0 +1,352 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102012011453-4           N.° de Depósito PCT:
+ Data de Depósito:                   15/05/2012
+ Prioridade Unionista:               -
+ Depositante:                        INSTITUTO DE ESTUDOS AVANÇADOS - IEAV (BRSP)
+ Inventor:                           MILTON SÉRGIO FERNANDES DE LIMA
+ Título:                             Processo de texturização a laser para a preparação de superfície de
+                                     trabalho de ferramentas de conformação 
+
+                                          PARECER
+ Em 24/02/2021, por meio da petição 870210018065, o Depositante apresentou
+ esclarecimentos e novas vias do quadro reivindicatório em resposta ao parecer de ciência (7.1)
+ publicado na RPI n° 2605 de 08/12/2020.
+ De acordo com a manifestação apresentada os documentos encontrados no estado da técnica
+ não antecipam ou sugerem um processo de limpeza e texturização a laser para a melhoria das
+ propriedades de adesão de revestimentos sobre superfícies de ferramentas de conformação
+ mecânica.
+ O exame do pedido foi conduzido conforme apontado no Quadro 1 deste parecer, sob a
+ vigência das resoluções INPI/PR nº 240 de 03 de julho de 2019 publicada na RPI nº 2531 de 9
+ de julho de 2019, e considerando o conteúdo da manifestação apresentada.
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 14               18120016969            15/05/2012
+Quadro Reivindicatório                                   1a3                 870210018065           24/02/2021
+Desenhos                                                 1a3                 18120016969            15/05/2012
+Resumo                                                      1                18120016969            15/05/2012
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR102012011453-4
+
+
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                            Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI        X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                       X
+Comentários/Justificativas
+A reivindicação 1 está redigida de forma imprecisa e pouco clara, estando em desacordo com o
+Art. 25 da LPI, uma vez deseja proteger um processo caracterizado pelo resultado desejado e
+através de trechos explicativos. Entretanto, tais características em um processo de obtenção não
+são suficientes para definir de modo claro e preciso o processo. As reivindicações de processos
+formuladas corretamente devem definir: (a) o material de partida, o produto obtido e o meio de se
+transformar o primeiro no segundo; ou (b) as diversas etapas necessárias a se atingir o objetivo
+proposto.
+
+A partir dos esclarecimentos apresentados entendeu-se que a reivindicação independente 1
+contraria o disposto no Art. 25 LPI e na Instrução Normativa nº 30/2013  Art. 4º (III) e Art. 5º (I),
+pois omite a definição das características essenciais e específicas do objeto descrito. Cabe
+observar que a requerente alega que só é possível alcançar o efeito técnico desejado no processo
+de texturização a laser se o mesmo for realizado de acordo com a matéria das reivindicações 4 e
+5 do presente pedido.
+
+A reivindicação 1 contém a expressão opcionalmente, que resulta na falta de clareza e precisão
+da matéria reivindicada, contrariando o disposto no Art. 25 da LPI e na Instrução Normativa nº
+30/2013  Art. 4º (III).
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                              Data de publicação
+    D1                                DE102010028183                                 27/10/2011
+    D2                                  CN102218647                                  19/10/2011
+    D3                                  CN101318261                                  10/12/2008
+    D4      J.M. Arroyo et al. Wear performance of laser precoating treated             2010
+            cemented carbide milling tools. Wear 268 (2010) 13291336
+    D5      Yuanjie Wu, Study of interface friction reduction using laser               2008
+            micro-textured die surfaces in metal forming, The Ohio State
+            University, Dissertação
+    D6      Geiger, Manuel & Popp, U. & Engel, Ulf. (2002). Excimer Laser               2002
+            Micro Texturing of Cold Forging Tool Surfaces - Influence on Tool
+            Life. CIRP Annals - Manufacturing Technology. 51. 231-234.
+            10.1016/S0007-8506(07)61506-6.
+    D7      Andersson, P. & Koskinen, Jari & Varjus, S. & Gerbig, Yvonne &              2007
+
+
+
+                                                                                            Página 2
+                                        BR102012011453-4
+
+
+           Haefke, H. & Georgiou, S. & Zhmud, Boris & Buss, W.. (2007).
+           Microlubrication effect by laser-textured steel surfaces. Wear.
+           262. 369-379. 10.1016/j.wear.2006.06.003.
+    D8     Dumitru, G. & Romano, Valerio & Weber, H.P. & Haefke, H. &                      2000
+           Gerbig, Yvonne & Pflüger, E.. (2000). Laser microstructuring of
+           steel surfaces for tribological applications. Applied Physics A. 70.
+           485-487. 10.1007/s003390051073.
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento                 Reivindicações
+                                                     Sim                          1 a 10
+          Aplicação Industrial
+                                                     Não                            -
+                                                     Sim                          1 a 10
+                Novidade
+                                                     Não                            -
+                                                     Sim                            -
+           Atividade Inventiva
+                                                     Não                          1 a 10
+
+
+
+Comentários/Justificativas
+   1. A manifestação apresentada pela requerente foi considerada parcialmente persuasiva pois
+      os documentos encontrados no estado da técnica antecipam a matéria pleiteada.
+A matéria da reivindicação 1 do presente pedido pleiteia um processo de texturização para a
+preparação de superfície de trabalho de ferramentas de conformação compreendendo o uso de
+tecnologia laser pulsado com guiamento de feixe sobre ferramentas de conformação sendo que o
+laser varre a superfície de trabalho da ferramenta de conformação, promovendo a vaporização e a
+refusão de uma camada microscópica na superfície do material, causando modificação
+topográfica da superfície da peça de forma a produzir um padrão periódico pré-determinado, na
+superfície limpa e texturizada de modo que sejam configurados vazios para alojar um filme líquido
+na superfície de conformação.
+A requerente argumenta que o documento D1 não antecipa o uso de uma ferramenta de
+conformação, o padrão impresso à superfície de trabalho ou o laser utilizado no presente pedido.
+No entanto, a reivindicação principal não faz referência a um padrão específico na superfície de
+trabalho ou das características do laser utilizado. Ainda, o documento D1 ([0001]) refere-se a
+ferramentas de conformação, especificamente deep-drawing tool. O processo pleiteado não
+menciona um tipo específico de ferramenta de conformação, desta forma, entende-se que todas
+as ferramentas de conformação são aplicáveis ao processo.
+Em relação ao documento D2, a requerente argumenta que D2 sugere o uso de materiais
+diferentes e propõe cavidades discretas (furos cegos), enquanto o presente pedido propõe um
+padrão ondulatório. O documento D2 refere-se a materiais compósitos no final da página 2 do
+documento traduzido, assim como a reivindicação 8 do presente pedido pleiteia um processo em
+que o material pode ser um material compósito. Conforme mencionado anteriormente, a
+
+
+
+
+                                                                                              Página 3
+                                     BR102012011453-4
+
+reivindicação principal não pleiteia um padrão específico na superfície de trabalho, mas uma
+modificação topográfica da superfície de forma a produzir um padrão periódico.
+As mesmas considerações podem ser feitas em relação ao documento D3. O documento ainda
+ensina que a distância (h) entre o topo (pico) e o fundo (vale) e a distância entre dois picos
+consecutivos está dentro do intervalo pleiteado no presente pedido (página 3 do documento
+traduzido).
+Em relação aos documentos D5 a D7, a requerente aponta que há diferenças entre o laser
+utilizado e o padrão obtido na superfície da ferramenta, mas a reivindicação 1 não aponta tais
+detalhamentos. Assim, um documento que tenha como finalidade resolver o mesmo problema
+técnico do presente pedido utilizando um laser pulsado e obtendo uma mudança topográfica da
+superfície de uma ferramenta de conformação antecipará a matéria pleiteada.
+A requerente alega que os documentos do estado da técnica não antecipam a limpeza da
+superfície, no entanto, uma vez que os processos são equivalentes, é esperado que os processos
+ensinados nos documentos D1 a D3 e D5 a D7 também obtenham uma superfície limpa durante a
+etapa de texturização a laser.
+Ainda, a requerente alega que os documentos D1 a D3 e D5 a D8 referem-se a processos de
+estruturação e o presente pedido refere-se a um processo de texturização. No entanto, apenas o
+documento D8 refere-se a processos de estruturação, os demais documentos referem-se a
+processos de texturização a laser.
+Os esclarecimentos apontados em relação aos documentos D4 e D8 foram considerados
+satisfatórios e são não considerados impeditivos frente aos requisitos de novidade e atividade
+inventiva.
+
+
+   2. O documento D1 (reivindicações e relatório descritivo) antecipa uma ferramenta de
+      conformação com uma superfície voltada para uma peça a ser formada em que a
+      superfície (2) tem uma pluralidade de depressões (6) produzidas com um laser de pulso
+      ultracurto (5). Em que é utilizado um laser Nd:YAG pulsado, e são introduzidas na
+      superfície da ferramenta microestruturas delimitadas em forma de arco, que se destinam a
+      formar bolsas de lubrificação. De acordo com o documento, a aplicação do lubrificante na
+      ferramenta de conformação também é consideravelmente mais eficaz do que na peça a
+      ser conformada e melhores resultados de conformação podem ser obtidos.
+       D1 tem como objetivo criar uma ferramenta de moldagem e um método para processar a
+       superfície de uma ferramenta de moldagem em que o lubrificante adere bem de uma
+       maneira simples entre a ferramenta de moldagem e uma peça a ser processada com a
+       mesma.
+   3. O documento D2 (resumo, relatório descritivo e reivindicações) ensina que durante o
+      processamento de pressão de metal, o metal deformado gera um fluxo direcional em
+      relação à superfície do molde durante o plástico deformação, gerando assim fricção e
+      forças de fricção na interface entre o corpo deformado e o molde, causando desgaste do
+      molde e reduzindo significativamente a vida útil do mesmo. O desgaste é um fator decisivo
+      que afeta a vida útil do molde. Para moldes de metal e plástico (moldagem, extrusão,
+      laminação, forjamento de precisão, etc.), resolver o atrito e desgaste e lubrificação do
+      molde sob o as condições de alta pressão e grande taxa de deformação de cisalhamento
+      tornaram-se a chave para restringir o sucesso do processo. Durante o processo de
+      formação, o metal deformado está em um estado de fluxo viscoplástico e a nova superfície
+
+
+
+                                                                                      Página 4
+                                   BR102012011453-4
+
+   é gerada constantemente, resultando em condições de lubrificação e mecanismos de atrito
+   e desgaste variáveis e complicados.
+   D2 tem como objetivo fornecer um método de autolubrificação texturizado para moldes de
+   formação de plástico metálico, de modo a realizar a distribuição ideal do desempenho de
+   lubrificação da superfície do molde, melhorar o fluxo de plástico da formação material, e
+   aumentar a vida útil do molde e a qualidade do produto.
+   Em D2 o tratamento de texturização é realizado na superfície da matriz e, em seguida, o
+   tratamento de formação, aderência e usinagem de um material compósito autolubrificante
+   é realizado na matriz. Como o tratamento de texturização e autolubrificação é realizado em
+   uma superfície de molde de metal plástico, a distribuição de otimização da propriedade de
+   lubrificação da superfície do molde é realizada enquanto a capacidade de carga do molde
+   e a precisão de correspondência da superfície moldada são garantidas, o fluxo do material
+   e a resistência à lubrificação e abrasão da matriz é melhorada, a vida da matriz é
+   prolongada e a qualidade do produto é aprimorada.
+   O método de texturização dos moldes de conformação de plástico metálico texturizado e
+   autolubrificante compreende a texturização a laser usa um laser Nd:YAG bombeado por
+   diodo e o comprimento focal da lente de foco é 60  90 mm, frequência de repetição 6,0 
+   9,0 KHz, comprimento de onda do laser 532 nm, 1064 nm, intensidade da corrente 13 
+   20A, diâmetro da microcavidade 20  180 m, profundidade 4  40 m, espaçamento da
+   cavidade 20  400 m, o arranjo das microcavidades é controlado por controle numérico
+   controle do programa, a taxa de ocupação da área da cavidade é 10%  35%, o gás
+   auxiliar adota 99,9% N2.
+4. O documento D3 (reivindicações e relatório descritivo) ensina um método de tratamento de
+   compósito a laser para a superfície de um molde conformador de metal-plástico, em que o
+   tratamento de fabricação a laser é realizado nas partes de atrito favoráveis das porções de
+   canto convexas da superfície do molde de conformação, composto por microfossas e suas
+   saliências periféricas, onde a geometria parâmetros da microgeometria semelhante a
+   cratera são: diâmetro do poço B = 20-500 m, altura h = 1-8 m, largura do ressalto b =
+   3-20m, distância D entre dois poços adjacentes D = 50-500m. O laser é aplicado a
+   essas peças de fricção prejudiciais na área de filete da matriz do metal plástico formando a
+   superfície do molde.
+   O método de processamento de modelagem de compósito a laser para a superfície de um
+   molde de conformação de metal plástico em que os parâmetros do processo de
+   texturização e micromodelagem do laser incluem potência do laser 10 5 -108 W/cm², largura
+   de pulso 5ns-500ms, obturador ou Q-switch, seleção de gases auxiliares, como ar,
+   nitrogênio, oxigênio, pressão 0,1-0,5 MPa, frequência de pulso (1KHz - 6x10 5 Hz) e
+   parâmetros de movimento do sistema mecânico, como velocidade e direção, obtidos
+   antecipadamente em a superfície do molde.
+   A texturização a laser é realizada nos locais onde for favorável ocorrer atrito, formando
+   uma série de formas geométricas microscópicas semelhantes a crateras com
+   protuberâncias na periferia e poços no meio. A vantagem é que a tensão de tração radial
+   na estrutura na porção de filete da punção é reduzida, e a capacidade de carga da seção
+   perigosa é melhorada, a condição de lubrificação do processo de estampagem reduz o
+   coeficiente de atrito da superfície de contato, reduz a abrasão, adesão e desgaste, e é
+   propício ao fluxo de material; o material da superfície do molde é endurecido
+
+
+
+
+                                                                                      Página 5
+                                   BR102012011453-4
+
+   microscopicamente, fixado e reforçado macroscopicamente, o que melhora
+   significativamente a resistência ao desgaste do desempenho antidesgaste do molde.
+   Ainda, de acordo com D3, após o molde ser processado conforme descrito acima, o atrito
+   e as propriedades mecânicas da superfície do molde são significativamente melhoradas, a
+   vida útil do molde é estendida, o processo de estiramento, como a fluidez e uniformidade
+   de deformação do material é otimizado, e o desenho profundo da peça de trabalho,
+   tenacidade, brilho e outras propriedades.
+5. O documento D5 (resumo, páginas 6, 8, 64, 65, 73, 75, 76) investiga a redução do atrito da
+   interface por meio da texturização a laser de superfícies de matrizes, com a hipótese de
+   que as texturas retenham lubrificantes, melhorando assim a lubrificação de contorno.
+   Ainda, D5 ensina que do ponto de vista da vida útil da ferramenta de forjamento, a
+   condição de lubrificação hidrodinâmica é desejada. Uma forma de obter a condição
+   desejada é através da gravação de texturas de endentação em locais selecionados na
+   superfície da ferramenta. As texturas atuam como reservatórios de microlubrificantes que
+   serão capazes de reter o lubrificante sob compressão de alta pressão e, junto com o
+   deslizamento de metal plástico na superfície da ferramenta, permeará na zona de contato
+   para formar a lubrificação de filme misto. Este processo melhorará dramaticamente a
+   lubrificação da conformação de metal. Além disso, após modelar os mecanismos de
+   lubrificação das microtexturas, será possível controlar a lubrificação para obter os
+   processos de conformação do metal impecáveis. De acordo com D5 a texturização a laser
+   ou ablação a laser é a primeira escolha para fabricar microtexturas nas ferramentas de
+   conformação de metal devido à sua boa precisão, fácil controle e capacidade de texturizar
+   qualquer material.
+   O documento D5 cita os documentos D6 a D7 antecipando a texturização a laser.
+6. O documento D6 antecipa texturização a laser na ferramenta e sua relevância para a
+   microlubrificação. De acordo com D6, o desenho da tira e a profundidade da textura
+   possuem uma grande influência nos fatores de atrito.
+7. O documento D7 versa sobre o efeito benéfico na lubrificação alcançado através da
+   microtextura de superfícies deslizantes por ablação a laser e polimento foi investigado. O
+   documento objetiva demonstrar os benefícios da texturização a laser de superfícies de
+   ferramentas para redução de atrito em operações de corte e modelagem de chapas. A fim
+   de simular as características das ações recíprocas na escavação, repuxo, puncionamento
+   e corte de chapa metálica, foram realizados experimentos com aço rápido em contato
+   deslizante oscilante linear com aço inoxidável austenítico sob condições de lubrificação por
+   óleo minuto. Para obter indicações da sensibilidade do efeito de microlubrificação
+   suportado pelos padrões de cavidade texturizada a laser.
+8. A partir do relatório descritivo e do quadro reivindicatório infere-se que o presente pedido
+   pleiteia um processo de texturização a laser para preparação de uma ferramenta de
+   conformação em que são configurados vazios para alojar um filme líquido com a finalidade
+   de reduzir o desgaste das ferramentas de conformação.
+   Os documentos encontrados no estado da técnica mostram que o processo de
+   texturização a laser a fim obter vazios e alojar um lubrificante para aumentar a vida útil da
+   peça de conformação é conhecida, inclusive com os parâmetros pleiteados nas
+   reivindicações 4 a 10. Desta forma, é evidente para um técnico no assunto realizar um
+   tratamento a laser para obter uma peça de conformação com vazios para alojar um
+   lubrificante. O processo descrito no presente pedido não apresentou nenhum resultado
+
+
+
+                                                                                       Página 6
+                                         BR102012011453-4
+
+          inesperado frente ao estado da técnica e, portanto, não atende aos requisitos de atividade
+          inventiva.
+
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -     não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -     as reivindicações estão indefinidas (Art. 25 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                   Publique-se o indeferimento (9.2).
+
+
+
+                                                                   Rio de Janeiro, 8 de abril de 2021.
+
+
+
+
+Nichele Cristina de Freitas Juchneski
+Pesquisador/ Mat. Nº 1976580
+DIRPA / CGPAT I/DINOR
+Deleg. Comp. - Port. INPI/DIRPA Nº
+008/18
+
+
+
+
+                                                                                            Página 7
+

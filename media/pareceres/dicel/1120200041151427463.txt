@@ -1,0 +1,202 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR112020004115-7         N.° de Depósito PCT:US2018/048169
+ Data de Depósito:                     27/08/2018
+ Prioridade Unionista:                 US 15/688,567 (28/08/2017)
+ Depositante:                          THE CLIMATE CORPORATION (US)
+ Inventor:                             JUAN     PABLO     BEDOYA;      VICTOR      STUBER;    GERARD
+                                       GUILLEMETTE; JOOST KEMINK; YAQI CHEN; DANIEL WILLIAMS;
+                                       YING SHE; MARIAN FARAH; JULIAN BOSHARD; WEI GUAN
+ Título:                               Meio de armazenamento não transitório, método implementado por
+                                       computador de reconhecimento de doença em tempo real em um
+                                       campo de cultura e método implementado por computador de
+                                       determinação de um número de grãos a partir de uma imagem de um
+                                       milho 
+
+                                                                    PARECER
+
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas         n.o da Petição           Data
+
+Relatório Descritivo                                           1-80           870210012754           08/02/2021
+Quadro Reivindicatório                                         1-05           870210012754           08/02/2021
+Desenhos                                                       1-17           870200027537           28/02/2020
+Resumo                                                          1             870210012754           08/02/2021
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                 Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                       x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                         x
+O pedido está de acordo com disposto no art. 32 da LPI                                          x
+Comentários/Justificativas
+
+
+
+                      Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                 Sim       Não
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                               Página 1
+                                                        BR112020004115-7
+
+
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI              x
+Comentários/Justificativas
+
+
+
+
+                                  Quadro 4  Documentos citados no parecer
+
+ Código                                               Documento                         Data de publicação
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                    Cumprimento   Reivindicações
+                                                                          Sim            1-14
+            Aplicação Industrial
+                                                                         Não               -
+                                                                          Sim            1-14
+                    Novidade
+                                                                         Não               -
+
+                                                                          Sim              -
+            Atividade Inventiva
+                                                                         Não             1-14
+
+
+
+Comentários/Justificativas
+
+
+
+Em 08/02/2021, por meio da petição 870210012754, a Requerente apresentou argumentações e
+modificações no pedido em resposta ao parecer emitido, notificado na RPI 2601 de 10/11/2020
+(despacho 7.1). Estas modificações estão consideradas no Quadro 1.
+
+
+
+Assim como foi exposto no parecer anterior, o documento D1 (WO 2016/110832 A1) divulga, de
+acordo com as referências apresentadas, as características de um meio de armazenamento não
+transitório armazenando instruções que, quando executadas por um ou mais dispositivos de
+computação (parágrafo 169)
+
+causam desempenho de um método de reconhecimento de doença em tempo real (parágrafo
+42) em um campo de cultivo (parágrafo 32),
+
+compreendendo as etapas de:
+
+fazer uma câmera capturar continuamente o ambiente para gerar múltiplas imagens (parágrafos
+179-180);
+
+fazer um dispositivo de exibição exibir continuamente as múltiplas imagens à medida que as
+múltiplas imagens são geradas (parágrafo 8; claim 3);
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 2
+                                                        BR112020004115-7
+
+
+processar cada uma ou mais das imagens:
+
+identificar pelo menos uma de uma pluralidade de doenças (claim 14)
+
+e calcular pelo menos uma pontuação de doença associada a pelo menos uma doença para
+uma imagem específica (parágrafo 173; a característica de calculo é associada a um método
+matemático não técnico que não pode contribuir para a atividade inventiva da solução técnica
+envolvida);
+
+fazer o dispositivo de exibição exiba informações (parágrafo 156) em relação a pelo menos uma
+doença (parágrafo 191: optional stage 830)
+
+e a pelo menos uma pontuação de doença em associação com uma imagem atual exibida (mera
+apresentação de informações previamente adquiridas, não envolve atividade inventiva)
+
+receber entrada especificando um ou mais da pelo menos uma doença (parágrafos 159 e 191);
+
+fazer o dispositivo de exibição mostrar dados adicionais a uma ou mais doenças, incluindo uma
+medida corretiva para uma ou mais doenças em associação com a imagem em questão
+(parágrafos 100, 122, 124, 158 e 172).
+
+
+
+Em sua manifestação, a Requerente argumenta que D1 não revela calcular pelo menos uma
+pontuação de doença associada a pelo menos uma doença para uma imagem particular.
+Entretanto, assim como apontado no parecer anterior, a característica de calculo é associada a
+um método matemático não técnico que não pode contribuir para a atividade inventiva da
+solução técnica envolvida. O parágrafo 173 de D1 revela "leaf disease above certain coverage
+that is significant to the entire field, per crop and time in the growing season". Considera-se
+assim que D1 é capaz de elaborar um algorítimo envolvendo cálculos capazes de identificar
+entre diversas características um conjunto que representa uma possível irregularidade a ser
+reportada ao cliente responsável pelo campo agrícola. A apresentação de informações
+relacionadas à doença em combinação com a imagem atual não apresenta efeito técnico sendo
+sua implementação, utilizando meios conhecidos para mostrar essas informações, considerada
+simples e não envolvendo atividade inventiva para um técnico no assunto.
+
+
+
+Assim sendo, verifica-se que o documento citado antecipa as características das novas
+reivindicações independentes 1 e 11 que, assim, não envolvem atividade inventiva em relação
+ao estado da técnica. As reivindicações dependentes não contêm características adicionais que,
+em combinação com as características anteriores a que se referem, envolvem atividade
+inventiva em relação ao documento citado, sendo consideradas óbvias para um técnico no
+assunto. Conclui-se, assim, que um técnico no assunto, a partir dos conhecimentos disponíveis
+no estado da técnica, seria capaz de implementar sem esforço inventivo todas as características
+mencionadas nas reivindicações apresentadas que, assim, não envolvem atividade inventiva em
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                     Página 3
+                                                        BR112020004115-7
+
+
+relação ao estado da técnica. Desta forma, verifica-se que o documento citado antecipa o
+conteúdo do presente pedido que, assim, não atende ao requisito de atividade inventiva.
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva, sendo mera decorrência do estado da técnica (Art. 8º
+combinado com Art. 13 da LPI).
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Rio de Janeiro, 1 de Junho de 2021.
+
+
+
+                                                                                 Publique-se o indeferimento (9.2).
+
+
+
+
+               Rony Leite Giffoni
+           Pesquisador / Mat. Nº 1549606
+             DIRPA / CGPATIII / DICEL
+          Portaria INPI / DIRPA Nº 002 / 11
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                       Página 4
+

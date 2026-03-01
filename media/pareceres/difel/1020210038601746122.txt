@@ -1,0 +1,218 @@
+                              SERVIÇO PÚBLICO FEDERAL
+          MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                   INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102021003860-8           N.° de Depósito PCT:
+ Data de Depósito:                   01/03/2021
+ Prioridade Unionista:               -
+ Depositante:                        JOSERLI PEREZ KAPAZI (BRPR)
+ Inventor:                           JOSERLI PEREZ KAPAZI
+ Título:                             Dispositivo e sistema para captura e tratamento de informações de
+                                     transeuntes
+
+                                                                PARECER
+
+
+          O presente pedido de patente de invenção sofreu parecer de Ciência (7.1), conforme
+publicado na RPI nº 2726 de 04/04/2023. Por meio da petição nº 870230046715 de 01/06/2023,
+o Requerente apresentou Manifestação sobre o parecer técnico, além de novas vias do Quadro
+Reivindicatório. Para fins de continuidade do exame, estão sendo consideradas as vias abaixo:
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 15               870220052456           14/06/2022
+Quadro Reivindicatório                                      1                870230046715           01/06/2023
+Desenhos                                                 1a4                 870220052456           14/06/2022
+Resumo                                                      1                870220052456           14/06/2022
+
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR102021003860-8
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                               WO2019193822A1                                10/10/2019
+    D2                                KR20200072776A                               23/06/2020
+    D3                                KR20200017778A                               19/02/2020
+    D4                                  CA3130634A1                                27/08/2020
+    D5                                  FR3068132B1                                09/08/2019
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                     1
+            Aplicação Industrial
+                                                        Não                     -----
+                                                         Sim                     1
+                 Novidade
+                                                        Não                     -----
+                                                         Sim                    -----
+            Atividade Inventiva
+                                                        Não                      1
+Comentários/Justificativas
+
+         A matéria pleiteada na reivindicação 1 possui aplicação industrial conforme o disposto
+no artigo 15 da Lei 9279 de 14/05/1996 (LPI).
+
+         A matéria da reivindicação 1 possui novidade perante os documentos selecionados no
+processo de busca de referências do estado da técnica, cumprindo o disposto no artigo 11 da
+Lei 9279 de 14/05/1996 (LPI).
+
+         Em buscas realizadas neste Instituto, foram encontrados os documentos D1 a D5,
+citados no parecer anterior, considerados relevantes para o exame do presente pedido de
+patente de invenção.
+
+
+
+
+                                                                                          Página 2
+                                        BR102021003860-8
+
+
+       O documento D1 divulga um dispositivo com sensoriamento estratificado de compressão
+mecânica compreendendo (Resumo; Relatório Descritivo, parágrafo [0025]; Figuras 2, 3, 4 e
+8, elemento 3):
+
+       um conjunto de barras metálicas, cada uma suportando uma fita de polímero condutor,
+ditas barras metálicas transversais ao sentido do deslocamento ao longo do dispositivo, sendo
+que cada barra é isolada eletricamente da barra adjacente (Relatório Descritivo, parágrafos
+[0030], [0038] e [0039]; Figuras 5, 6, 7 e 10),
+
+       sendo cada barra e cada fita ligada eletricamente ao circuito eletrônico, dito circuito
+eletrônico capaz de receber os sinais gerados pela compressão das fitas, processá-los, gerar
+informações e enviá-las ao servidor ou ao dispositivo acionado (Relatório Descritivo,
+parágrafos [0026], [0040] e [0048]; Figuras 8, elemento 23),
+
+       dito dispositivo dotado de sensoriamento estratificado de compressão mecânica
+(Resumo; Relatório Descritivo, parágrafo [0025]; Figuras 2, 3, 4 e 8, elemento 3)
+
+       com um circuito eletrônico que captura os sinais gerados pelas passadas de um
+transeunte sobre o dispositivo, processa-os e gera informações para envio a um servidor de
+rede, que gera dados sobre dito transeunte, ou a um dispositivo acionado (Relatório Descritivo,
+parágrafos [0026], [0040] e [0048]; Figuras 8, elemento 23),
+
+       com base na detecção do deslocamento do transeunte ao longo do dispositivo, onde tiras
+de material condutor são pressionadas e transmitem o sinal capturado, representando uma linha
+de compressão da pegada formada por este passo do transeunte (Relatório Descritivo,
+parágrafos [0033] e [0034]; Figuras 5, 6, 7 e 10).
+
+
+
+       O documento D2 divulga um dispositivo com sensoriamento estratificado de compressão
+mecânica compreendendo (Resumo; Figuras 1 a 5, 7 e 8):
+
+       um conjunto de barras metálicas, cada uma suportando uma fita de polímero condutor,
+ditas barras metálicas transversais ao sentido do deslocamento ao longo do dispositivo, sendo
+que cada barra é isolada eletricamente da barra adjacente (Resumo; Relatório Descritivo,
+parágrafos [0014], [0035] e [0043]; Figuras 1 a 5, 7 e 8),
+
+       sendo cada barra e cada fita ligada eletricamente ao circuito eletrônico, dito circuito
+eletrônico capaz de receber os sinais gerados pela compressão das fitas, processá-los, gerar
+informações e enviá-las ao servidor ou ao dispositivo acionado (Relatório Descritivo,
+parágrafo [0035]),
+
+       dito dispositivo dotado de sensoriamento estratificado de compressão mecânica (Figuras
+1 a 5, 7 e 8)
+
+       com um circuito eletrônico que captura os sinais gerados pelas passadas de um
+transeunte sobre o dispositivo, processa-os e gera informações para envio a um servidor de
+
+
+
+
+                                                                                       Página 3
+                                       BR102021003860-8
+
+
+rede, que gera dados sobre dito transeunte, ou a um dispositivo acionado (Relatório Descritivo,
+parágrafo [0035]),
+
+       com base na detecção do deslocamento do transeunte ao longo do dispositivo, onde tiras
+de material condutor são pressionadas e transmitem o sinal capturado, representando uma linha
+de compressão da pegada formada por este passo do transeunte (Resumo; Relatório
+Descritivo, parágrafos [0014], [0035] e [0043]; Figuras 1 a 5, 7 e 8).
+
+
+
+       Além disso, os documentos
+
+       D3 (Resumo; Relatório Descritivo, parágrafos [0021] a [0048]; Figuras 1 a 4),
+
+       D4 (Resumo; Relatório Descritivo, parágrafos [0044] a [0099]; Figuras 1 a 9) e
+
+       D5 (Resumo; Relatório Descritivo, parágrafos [0029] a [0084]; Figuras 1 a 14)
+
+também divulgam, de forma independente, todas as características técnicas da invenção
+definida na reivindicação independente 1.
+
+       Então, a reivindicação independente 1 decorre de maneira evidente ou óbvia, para um
+técnico no assunto, a partir do estado da técnica e, portanto, a reivindicação independente 1 é
+desprovida de atividade inventiva.
+
+
+
+
+Conclusão
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                              Rio de Janeiro, 2 de agosto de 2023.
+
+
+
+
+Alexandre Luis Cardoso Bissoli
+Pesquisador/ Mat. Nº 1332765
+DIRPA / CGPAT III/DIFEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+008/19
+
+
+
+
+                                                                                          Página 4
+

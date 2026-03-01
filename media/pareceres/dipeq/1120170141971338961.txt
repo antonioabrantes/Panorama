@@ -1,0 +1,400 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR112017014197-3           N.° de Depósito PCT:US2015/068314
+ Data de Depósito:                     31/12/2015
+ Prioridade Unionista:                 US 62/098.935 (31/12/2015)
+ Depositante:                          SUNCOKE TECHNOLOGY AND DEVELOPMENT LLC (US)
+ Inventor:                             JOHN FRANCIS QUANCI, SYED AHMED, JAKE SARPEN,
+                                       JONATHAN PERKINS, JEFF WOZEK
+ Título:                               Leitos multimodais de material de coque 
+
+                                                                    PARECER
+
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas         n.o da Petição           Data
+
+Relatório Descritivo                                          1 a 44          870200130957           16/10/2020
+Quadro Reivindicatório                                         1a5            870200130957           16/10/2020
+Desenhos                                                      1 a 21          870200006116           13/01/2020
+Resumo                                                          1             870200130957           16/10/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                 Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                       X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                               X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                         X
+O pedido está de acordo com disposto no art. 32 da LPI                                          X
+Comentários/Justificativas
+
+XXX
+
+                      Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                 Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                            X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                          X
+Comentários/Justificativas
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                          Página 1 de 8
+                                                         BR112017014197-3
+
+
+XXX
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                        Data de publicação
+    D1                                                US2907698A                            06/10/1959
+    D2                                            US2011014406A1                            20/01/2011
+    D3                                                US3933443A                            20/01/1976
+    D4                                              JP2008231278A                           02/10/2008
+    D5                                               US6596128B2                            22/07/2003
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                     Cumprimento   Reivindicações
+                                                                           Sim           1 a 21
+             Aplicação Industrial
+                                                                          Não              --
+                                                                           Sim           1 a 21
+                     Novidade
+                                                                          Não              --
+                                                                           Sim             --
+             Atividade Inventiva
+                                                                          Não            1 a 21
+Comentários/Justificativas
+
+      Através da petição INPI-RJ nº 870200130957 de 16/10/2020, a requerente apresentou
+manifestação ao parecer de ciência em 1ª instância, notificado na RPI N° 2585, em 21/07/2020,
+apresentando novas vias do relatório descritivo e do resumo, com título modificado, bem como
+nova via do quadro reivindicatório, com 21 reivindicações, em que contesta os critérios de não
+novidade e não atividade inventiva, relativamente à matéria que se pleiteia proteção no presente
+pedido, frente ao quadro reivindicatório emendado, em contraste com os documentos do estado
+da técnica ora considerados ao exame técnico.
+
+      O presente pedido refere-se a um método de coqueificar leitos de material, caracterizado
+pelo fato de que o método compreende: processar um primeiro leito de material contendo
+carbono em um forno de coqueificação para produzir um primeiro volume de coque e um
+primeiro volume de material de refugo: preparar um segundo leito de material contendo carbono,
+compreendendo uma quantidade de material particulado coqueificável. Tendo um primeiro
+tamanho de particulado e um primeiro teor de umidade, e o primeiro volume de material de
+refugo, tendo um segundo tamanho de particulado que é menor que o primeiro tamanho de
+particulado e um segundo teor de umidade: um diferencial de teor de umidade existente entre o
+primeiro teor de umidade e o segundo teor de umidade que aumenta a resistência de adesão
+entre o primeiro material particulado e o segundo material particulado; o material particulado
+coqueificável sendo combinado com o primeiro volume de material de refugo, de modo que o
+material particulado coqueificável é distribuído de uma maneira que defina uma pluralidade de
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                              Página 2 de 8
+                                                        BR112017014197-3
+
+espaços vazios entre particulados individuais dentro do material particulado coqueificável e os
+vazios sejam pelo menos parcialmente preenchidos com o primeiro volume de material de
+refugo, para definir o segundo leito de material contendo carbono como um leito multimodal de
+material tendo uma distribuição geralmente uniforme da quantidade de material contendo
+carbono coqueificável e do material de refugo de processo sem pó a partir de uma parte inferior
+do leito de material coqueificável para uma parte superior do leito de material coqueificável;
+processar o segundo leito de material contendo carbono no forno de coqueificação para produzir
+um segundo volume de coque e um segundo volume de material de refugo: o segundo volume
+de material de refugo sendo menor que o primeiro volume de material de refugo (reivindicação
+1).
+
+      Ainda, o presente pedido refere-se a um método de coqueificar leitos de material,
+caracterizado pelo fato de que o método compreende: fornecer uma quantidade de material
+contendo carbono coqueificável tendo um primeiro tamanho de particulado; fornecer uma
+quantidade de material de refugo de processo sem pó tendo um segundo tamanho de
+particulado, em que o segundo tamanho de particulado é menor que o primeiro tamanho de
+particulado; combinar a quantidade de material contendo carbono coqueificável com a
+quantidade de material de refugo de processo, de modo que o material contendo carbono
+coqueificável seja distribuído de uma maneira que defina uma pluralidade de espaços vazios
+entre particulados individuais dentro do material contendo carbono coqueificável e os vazios
+sejam pelo menos parcialmente preenchidos com o material de refugo de processo, para definir
+um leito multimodal de material tendo uma distribuição geralmente uniforme da quantidade de
+material contendo carbono coqueificável e do material de refugo de processo sem pó a partir de
+uma parte inferior do leito de material coqueificável para uma parte superior do leito de material
+coqueificável; e processar o leito multimodal de material em um forno de coqueificação
+(reivindicação 16).
+
+      Destaca-se das argumentações da requerente que D1 não objetiva otimizar a densidade
+aparente do leito de coque, bem como não revela nenhuma motivação e capacidade para tentar
+reduzir o espaço vazio entre diferentes materiais particulados. Além disso, D1 também não
+considera o "teor de umidade" de seus materiais (ou seja, pó de coque e pó de carvão). A
+mesma argumentação, segundo a requerente, é válida para os documentos D2 a D5, mesmo
+que combinados ou isolados com D1.
+
+      As argumentações da requerente foram aceitas, mas foram não consideradas
+persuasivas ao preenchimento dos critérios de patenteabilidade, pelos motivos que se seguem,
+em ratificação ao parecer anterior, parecer de ciência em 1ª instância, notificado na RPI N°
+2585, em 21/07/2020:
+
+      D1 ensina um método de preparar e coqueificar um leito multimodal de material, (D1,
+coluna 1, linhas 15-20, coluna 3, linha 45-coluna 4, linha 11), o método compreende processar
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                  Página 3 de 8
+                                                        BR112017014197-3
+
+
+um primeiro leito de material contendo carbono em um forno de coqueificação para produzir um
+primeiro volume de coque e um primeiro volume de material de refugo (D1, coluna 3, linhas 45
+-75), em que se entende ser implícito em D1 processar um primeiro leito de material contendo
+carbono em um forno de coqueificação.
+
+      D1 revela preparar um segundo leito de material contendo carbono, compreendendo uma
+quantidade de material de coqueificação de partículas (pó de carvão), tendo um primeiro
+tamanho de partículas, e o primeiro volume de material de resíduo (brisa de coque), tendo um
+segundo tamanho de partículas, em que a (D1, Figura 3, coluna 4, linha 74-coluna 5, linha 25,
+coluna 5, linhas 35-61), onde o segundo tamanho das partículas é menor que o tamanho das
+primeiras partículas, ou seja, uma porção (45%) do material de coque contendo carbono (pó de
+carvão) tem um primeiro tamanho de partículas entre 1 e 2 milímetros, enquanto uma porção
+(60%) do material resíduo do processo (brisa de coque) tem um segundo tamanho de partículas,
+abaixo de 0,5 mm (D1, coluna 5, linhas 1 -25). A preparação do segundo leito de material
+contendo carbono compreende a quantidade de material de coque particulado (pó de carvão)
+com a quantidade de material resíduo de processo (brisa de coque), para definir o segundo leito
+de carbono, contendo material como um leito multimodal de material (D1, coluna 4 Linha 74-
+coluna 5, linha 25, coluna 5, linhas 35-45).
+
+      A despeito de não ser explicitamente ensinado por D1, entende-se que etapa da
+combinação envolve uma parte do material de coque de partículas (pó de carvão), ou seja, que
+tem o primeiro tamanho de partículas entre 1 e 2 mm, sendo distribuído de forma a definir uma
+pluralidade de espaços vazios entre partículas individuais de material de coqueificação
+particulado, em que os vazios são, pelo menos, parcialmente preenchidos com uma porção de
+resíduos particulados (brisa de coque), ou seja, de modo que tenha um segundo tamanho de
+partículas abaixo de 0,5 mm (D1, coluna 5, linhas 1-25). Isso ocorre porque as partículas
+menores de brisa de coque, com o segundo tamanho de partículas abaixo de 0,5 mm, irão,
+naturalmente, preencher, pelo menos, alguns dos espaços vazios entre as partículas de carvão
+maiores, que tem o primeiro tamanho de partículas de 1 a 2 mm. Este preenchimento de
+espaços vazios é retratado na Figura 2 (D1, coluna 5, linhas 1-25). Ainda, verifica-se que parte
+do pó de carvão é prensado nos poros da superfície da brisa de coque. No entanto, D1 revela
+que apenas "as melhores partículas de pó de carvão são pressionadas e ocupam tais poros
+superficiais (D1, Coluna 5 Linhas 23-25), ou seja, partículas maiores de 1-2 mm de pó de carvão
+não seriam pressionadas nos poros superficiais das partículas de brisa de coque, pois o pó de
+carvão de 1-2 mm não entraria, obviamente, em poros de partículas menores de brisa de coque,
+com um tamanho total de 0,5 mm ou menos.
+
+      D1 revela processar um segundo leito de carbono contendo material no forno de coque
+para produzir um segundo volume de coque e um segundo volume de resíduos (brisa de coque);
+o segundo volume de resíduos (brisa de coque produzido na segunda etapa de processamento)
+é menor do que o primeiro volume de resíduos (brisa de coque produzido na primeira etapa de
+processamento) (D1, Figura 3, coluna 4, linha 74-coluna 5, linha 25, coluna 5, linhas 35-61).
+Neste caso, embora D1 não ensine explicitamente que o segundo volume de resíduos é menor
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                Página 4 de 8
+                                                        BR112017014197-3
+
+
+que o primeiro, entende-se que este está revelado na coluna 5, linhas 45-55, que ensinam que
+uma quantidade menor de brisa de coque é produzida ao quebrar o segundo volume de coque,
+em relação à quantidade de brisa de coque produzida, quando este se forma apenas a partir do
+carvão, por exemplo, o primeiro volume de coque.
+
+      Observa-se, ainda, que D1 não revela explicitamente que o primeiro e o segundo leitos de
+carbono contendo material são processados no mesmo forno de coqueificação. No entanto,
+entende-se ser implícito que as várias operações de coqueificação de D1 são realizadas na
+mesma instalação de coqueificação, como, por exemplo, nos mesmos fornos de coqueificação
+dentro da bateria de coque mostrada na Figura 3 de D1.
+
+      Assim, seria óbvio e evidente para um técnico no assunto modificar D1, com a finalidade
+de processar o primeiro e segundo leitos de carbono contendo material num mesmo forno de
+coqueificação, a fim de realizar, tanto a etapa de processamento do primeiro leito para obter a
+brisa de coque, quanto a etapa de processamento do segundo leito, de modo a não exigir um
+forno adicional.
+
+      Denota-se, ainda, que D1 é silente ao material de coqueificação de partículas com um
+primeiro teor de umidade e o material resíduo com um segundo teor de umidade, no qual existe
+um diferencial de teor de umidade entre o primeiro teor de umidade e o segundo teor de
+umidade, que aumenta a força de adesão entre o material de coqueificação particulado e o
+material resíduo.
+
+      Por outro lado, D3 ensina um método para preparar e coqueificar um leito multimodal de
+material (D3, resumo), em que o método que compreende: misturar um primeiro material
+particulado (substância contendo carbono, por exemplo, carvão), ter um primeiro teor de
+umidade de 5-10%, e um segundo material particulado (pó de coque), tendo um segundo teor de
+umidade, ou seja, o coque é "seco" (ou deve ser seco antes de ser moído em pó) (D3, coluna 2,
+linha 40-coluna 3, linha 42). Embora não seja explicitamente revelado em D3, entende-se que o
+coque sendo "seco", ou "seco" é indicativo de que o coque tenha um teor de umidade
+essencialmente zero (D3, coluna 2, linhas 55-56), em que o coque, a partir do qual o pó de
+coque é formado, tem um teor de umidade de 0% (D3, Exemplos l-lll, coluna B nas Tabelas 1, 2
+e 3). Assim, entende-se que o segundo teor de umidade do segundo material particulado (pó de
+coque) é de 0%. No mínimo, no exemplo 1 de D3, um primeiro material particulado (carvão de
+coque) C, com um primeiro teor de umidade (água) de 10%, é misturado com um segundo
+material particulado (pó de coque obtido a partir de coque B), tendo um segundo teor de
+umidade de 0% (D3, coluna 3, linha 45-coluna 4 Linha 5). Assim, os exemplos II e III de D3
+ensinam conteúdos e misturas de umidade semelhantes aos revelados no presente pedido.
+Portanto, D3 ensina um método de preparar e e coqueificar um leito multimodal de material, em
+que o método compreende: misturar um primeiro material particulado (substância contendo
+carbono, por exemplo, carvão), ter um primeiro teor de umidade, e um segundo material de
+partículas (pó de coque), ter um segundo teor de umidade, onde existe um diferencial de teor de
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                Página 5 de 8
+                                                        BR112017014197-3
+
+
+umidade entre o primeiro teor de umidade e o segundo teor de umidade (ou seja, o primeiro teor
+de umidade, que é de 5 a 10%, é maior que o segundo, que é 0%).
+
+      D3 ensina que fornecer o primeiro material particulado (material contendo carbono, por
+exemplo, carvão) com o primeiro teor de umidade de 5-10% mantém o carvão em um estado
+estável, que é improvável de coagular (D3, coluna 2m linha 61-coluna 3, linha 2).
+Especificamente, D3 ensina que fornecer um primeiro material particulado com o primeiro teor
+de umidade de 5-10% como umidade mais baixa resultaria numa estabilidade de mistura (ou
+seja, a mistura de primeiro e segundo materiais particulados) muito fraca (D3, coluna 2, linha 61
+coluna 3, linha 2). Por outro lado, D3 ensina que o maior teor de umidade corre o risco de
+formação de coágulos (D3, coluna 2 Linha 61-Coluna 3 Linha 2). Portanto, entende-se que um
+técnico no assunto reconheceria, de maneira óbvia e evidente, que o primeiro teor de umidade
+do primeiro material em particular é uma variável determinante ao resultado eficaz. Por
+extensão, pois o segundo teor de umidade do segundo material particulado (pó de coque) é
+ensinado ser zero, um técnico no assunto também reconheceria, de maneira óbvia e evidente,
+que o diferencial de umidade entre o primeiro e o segundo material particulado é uma variável
+determinante ao resultado eficaz.
+
+      Entende-se que um técnico no assunto seria motivado, de maneira óbvia e evidente, a
+modificar o método de D1 a partir dos ensinamentos de D3, de modo a otimizar o diferencial de
+umidade entre o primeiro material particulado (pó de carvão) e o segundo material particulado
+(brisa de coque), ou seja, de modo a hidratar o primeiro material particulado, a fim de ter um
+primeiro teor de umidade (por exemplo, 5-10%), e secando o segundo material particulado para
+um segundo teor de umidade (por exemplo, 0%), a fim de obter uma mistura do primeiro material
+particulado e do segundo particulado, que é estável, de modo a não incorrer no risco de
+aglomeração ou coagulação, conforme ensinado em D3.
+
+      Denota-se, ainda, que D1 modificado por D3 não ensinaria explicitamente que o
+diferencial de umidade entre o primeiro teor de umidade e o segundo teor de umidade que
+aumenta uma aderência forte entre o primeiro material particulado e o segundo material
+particulado. No entanto, entende-se ser óbvio que o aumento reivindicado da força de adesão
+entre o primeiro material e o segundo material é resultado inerente do diferencial de umidade
+diferencial de umidade entre o primeiro e o segundo teor de umidade. Além disso, o método de
+D1 modificado por D3 compreende todas as etapas do método da reivindicação 1. Assim, D1 em
+vista de D3 produz inerentemente um aumento na força de adesão entre o primeiro material
+particulado e o segundo material particulado como resultado do diferencial de umidade entre o
+primeiro e o segundo teor de umidade.
+
+      Em relação à reivindicação 2, D1 em vista de D3 é silente ao forno de coqueificação
+sendo um forno de coque de recuperação de calor horizontal. No entanto, fornos de
+coqueificação de recuperação de calor horizontal são bem conhecidos do estado da técnica. Por
+exemplo, tais fornos, conforme empregados no presente pedido, são revelados em D5 (D5,
+resumo, Figuras 1 -4, coluna 3, linhas 40-61, coluna 5, linhas 49-58). D5 ensina, ainda, que o
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                 Página 6 de 8
+                                                        BR112017014197-3
+
+
+calor dos fornos horizontais de coque de recuperação de calor pode ser usado para gerar vapor
+(D5, coluna 5, linhas 49-58). Desta forma, entende-se ser óbvio e evidente para um técnico no
+assunto modificar ainda mais o método de D1, a partir de D5, ao utilizar um forno de coque de
+recuperação de calor horizontal, a fim de aproveitar o calor desperdiçado do processo de
+coqueificação, para gerar vapor.
+
+      Em relação à reivindicação independente 16, D3 ensina um método de coqueificação de
+leitos de material (D3, resumo), o método que compreende: fornecer uma quantidade de
+material de coque contendo carbono (substância contendo carbono, por exemplo, carvão) com
+um primeiro tamanho de partículas, ou seja, um tamanho 90% menor que 3 mm (D3, coluna 2,
+linha 45-coluna 3, linha 20); fornecer uma quantidade de material de não-pó de refugo de
+processo (pó moído de coque por um moinho de esfera) com um segundo tamanho de
+partículas de 90% abaixo de 0,2 mm, em que o segundo tamanho de partículas é menor que o
+primeiro tamanho de partículas (D3, coluna 2 Linha 45-coluna 3, linha 20); Combinar combinar a
+quantidade de material contendo carbono coqueificável (substância contendo carbono, por
+exemplo, carvão) com a quantidade de material de refugo de processo (pó de coque moído de
+coque por um moinho de bola), para definir um leito multimodal de material (mistura de coque)
+(D3, coluna 3, linhas 3-42).
+
+      A despeito de não ser explicitamente ensinado em D3, entende-se que a etapa de
+combinação envolve uma porção do material de coque contendo carbono (tendo o primeiro
+tamanho de partículas de 90% menos de 3 mm) sendo distribuído de forma a definir uma
+pluralidade de espaços vazios entre partículas individuais de material de coque contendo
+carbono, em que os vazios estão pelo menos parcialmente preenchidos com uma porção de
+material de resíduos de partículas (tendo o segundo tamanho de partículas menor de 90%
+abaixo de 0,2 mm) (D3, coluna 2, linhas 10-26, coluna 2, linha 45-coluna 3, linha 20). Isso ocorre
+porque as partículas menores de pó de coque com o segundo tamanho de partículas abaixo de
+0,2 mm irão naturalmente preencher, pelo menos, alguns dos espaços vazios entre o carbono
+maior contendo partículas materiais de coque com o primeiro tamanho de partículas de 3 mm.
+
+      D3 não ensina explicitamente o processamento do leito multimodal de material em um
+forno de coque. No entanto, D3 ensina que o leito multimodal do material é um componente
+destinado à coqueificação (D3, coluna 2, linhas 40-45, coluna 3, linhas 3-42). Portanto, o método
+de D3 inclui, implicitamente, uma etapa de processamento do leito multimodal de material em
+um forno de coque. O processamento do leito multimodal de material em um forno de
+coqueificação é fortemente sugerido pela caracterização de D3 do leito multimodal como uma
+mistura/componente de coque. Assim, a etapa de coqueificação, implícita em D3, leva, de
+maneira óbvia e evidente, para um técnico no assunto a modificar D3, processando o leito
+multimodal de material em um forno de coque, a fim de obter coque a partir desse leito de
+material, que é descrito como uma mistura de componentes de coque.
+
+      Por fim, relativamente às reivindicações 8-11, D1 em vista de D3 não ensina ou revela
+adicionar um agente de suspensão ao primeiro material particulado em que o agente de
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                  Página 7 de 8
+                                                          BR112017014197-3
+
+
+suspensão era composto por um hidrocarboneto fluido. Mas, D4 ensina um método de
+coqueificação de lodo de piche de carvão juntamente com carvão bruto em um forno de coque,
+para recuperar lodo de piche de carvão, como este é adequado para coqueificação, e para evitar
+a liberação de baixa fração de ebulição no piche de carvão para a atmosfera (D4, resumo).
+
+      Assim, entende-se que seria óbvio e evidente, um técnico no assunto modificar ainda
+mais o método de D1 em vista de D3, a partir dos ensinamentos de D4, ao adicionar um agente
+de suspensão de hidrocarbonetos fluido (ou seja, lodo de piche de carvão) ao primeiro material
+particulado antes de combinar o primeiro material particulado pó de carvão) com o segundo
+material particulado (brisa de coque), de modo a definir o leito multimodal de material, com o
+objetivo de recuperar o lodo de piche de carvão para coqueificação, evitando a liberação de
+baixa fração de ebulição em piche de carvão para a atmosfera.
+
+      Por fim, D2 ensina um catalisador para a decomposição térmica de uma substância
+orgânica, onde o catalisador está na forma de um particulado, ou seja, um grânulo esférico, com
+um diâmetro de 0,1-1,2 mm (D2, resumo). Assim, entende-se que um técnico no assunto, de
+maneira óbvia e evidente, em vista de D2, modificaria ainda mais o método de D1, adicionando
+o catalisador de decomposição particulada de D1 ao leito multimodal de material de
+coqueificação, a fim de ajudar na decomposição térmica do mesmo.
+Conclusão
+
+      Conclui-se que os argumentos apresentados pela requerente foram aceitos, mas NÃO
+foram considerados persuasivos. Sobre tal, conclui-se, frente aos documentos do estado da
+técnica, que a matéria que se pleiteia proteção nas reivindicações 1 a 21 NÃO apresenta
+atividade inventiva, descumprindo o disposto nos artigos 8°, 11 e 13 da LPI.
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da
+             LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a
+partir da data de publicação na RPI, para interposição de recurso.
+
+
+                                                                        Rio de Janeiro, 14 de dezembro de 2020.
+
+
+
+                                                                               Publique-se o indeferimento (9.2).
+
+
+
+Josias Azeredo Barbosa
+Pesquisador/ Mat. Nº 1882823
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº
+003/14
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                              Página 8 de 8
+

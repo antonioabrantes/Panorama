@@ -1,0 +1,241 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112017022266-3         N.° de Depósito PCT:US2016/028109
+ Data de Depósito:                   18/04/2016
+ Prioridade Unionista:               US US 62/150,117 (20/04/2015)
+ Depositante:                        UNIVATION TECHNOLOGIES, LLC (US)
+ Inventor:                           CATHERINE ANNE FALER; KEVIN P. RAMIREZ
+ Título:                             MÉTODOS      PARA      A    PREPARAÇÃO       DE    LIGANDOS
+                                     BIAROMÁTICOS EM PONTE 
+
+                                                              PARECER
+
+
+         Em 04/01/2021, por meio da petição 870210000487, o Depositante apresentou
+manifestação em resposta ao parecer de exigência (despacho 6.1), notificado na RPI 2596, de
+06/10/2020, e, em anexo, novas vias do quadro reivindicatório (total de 17 reivindicações), as
+quais foram aceitas e analisadas, conforme solicitação. As referidas modificações estão
+consideradas no Quadro 1.
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+           Elemento                                     Páginas              No da Petição     Data
+
+                                                     1 a 27
+Relatório Descritivo                        (Petição 870200068090,           870200068090    01/06/2020
+                                             páginas 46/80 a 72/80)
+Quadro Reivindicatório                                    1a8                870210000487    04/01/2021
+Desenhos                                                     1               870200068090    01/06/2020
+Resumo                                                       1               870200068090    01/06/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                        Sim        Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                               X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                       X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                 X
+O pedido está de acordo com disposto no art. 32 da LPI                                  X
+Comentários/Justificativas ______________________________
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                   Página 1 de 5
+                                           BR112017022266-3
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                     X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                   X
+
+
+
+Comentários/Justificativas
+
+
+
+      Por meio da petição 870210000487, de 04/01/2021, a requerente cumpriu parcialmente as
+exigências formuladas no parecer notificado na RPI 2596, de 06/10/2020, de modo que o novo
+quadro apresentado (total de 17 reivindicações), ainda apresenta irregularidades com relação ao
+cumprimento dos Artigos 24 e 25 da LPI.
+
+      Na reivindicação 1 há uma grande diversidade de radicais substituintes para o composto de
+Fórmula (I), sem que alguns estejam suportados no relatório descritivo. Somente há concretização
+da invenção para os casos em que os radicais R1 a R14, A, Ar, Y e Y são como descritos na
+página 15, parágrafo [0058] e nos exemplos do relatório descritivo do presente pedido, ou seja, no
+que diz respeito aos compostos da reivindicação 1, considera-se que somente foram encontradas
+as etapas descritivas da síntese dos compostos cujos radicias estão evidenciados na Tabela 1.
+
+      Ressalta-se que o objeto reivindicado em um pedido de patente, neste caso a preparação
+dos compostos enquadrados na Fórmula Markush, deve representar uma solução do problema
+do estado da técnica e o escopo da reivindicação principal deve apresentar uma generalização
+apropriada dos exemplos apresentados no relatório descritivo (Resolução Nº 124/2013 
+Diretrizes de Exame de Pedidos de Patente - Conteúdo do Pedido de Patente, Parágrafo 3.41).
+
+      De forma geral, não se pode assumir que a mesma maneira de preparo pode ser aplicada a
+todas a diferentes classes de substituintes previstas na Fórmula I, ou seja, a preparação dos
+compostos cujos substituintes pertencem a classes cuja preparação não tenha sido descrita no
+relatório descritivo, não estão suficientemente descritas de modo a possibilitar que um técnico no
+assunto a reproduza, estando em desacordo com o disposto no Art. 24 da LPI. Desta forma,
+segundo o Art. 25 da LPI, a preparação de tais compostos não poderá ser reivindicada, uma vez
+que as reivindicações devem ser fundamentadas no relatório descritivo e devem definir de forma
+clara e precisa a matéria do objeto de proteção.
+
+      Diante do exposto, a reivindicação 1 deveria ter sido reformulada de modo a restringir os
+substituintes àqueles que se encontram suficientemente descritos e fundamentados no relatório
+descritivo, de forma a respeitar o disposto no Art. 25 da Lei 9279/96. O mesmo deveria ter sido
+feito nas reivindicações dependentes da reivindicação 1 quando fosse o caso.
+
+
+
+
+                                                                                    Página 2 de 5
+                                         BR112017022266-3
+
+      A reivindicação 1 deveria ter sido reformulada de modo a incluir em sua redação a definição
+do radical A, uma vez que é dito que A é um grupo em ponte, contendo de 1 a 50 átomos de não
+hidrogênio. O substituinte A não está clara e precisamente definido, uma vez que a expressão um
+grupo em ponte pode representar uma infinidade de definições e a expressão átomos de não
+hidrogênio, pode ser entendido como todos os átomos da tabela periódica dos elementos, exceto
+o hidrogênio. O mesmo deveria ter sido feito nas reivindicações dependentes da reivindicação 1,
+quando fosse o caso.
+
+
+
+      Tabela 1: Radicais R1 a R14, A, Ar, Y e Y descritos na página 15, parágrafo [0058] e nos
+exemplos do relatório descritivo do presente pedido.
+
+         Radical                                           Definição
+
+R1 = R3 = R4 = R6 = R7 =     H (hidrogênio)
+R8 = R10 = R11 = R13 = R14
+
+         R2 = R9             H
+  significam hidrogênio,     CH3 ou CH3(C) (t-butila)
+   alquila ou halogênio      F
+
+         R5 = R12            H (hidrogênio)
+ representam hidrogênio, CH3 (alquila)
+     alquila, alcóxi ou      CH3(O) (alcóxi)
+        halogênio
+                             F (halogênio)
+
+          Y = Y             O, S, NRa, em que Ra = metila (alquila)
+
+             A
+
+
+
+
+                             Alquila C1-C6
+
+
+
+                                                                                   Página 3 de 5
+                                         BR112017022266-3
+
+
+          Radical                                       Definição
+
+
+             Ar
+é um grupo fenil, naftil,
+bifenil, antracenil, pirrol,
+ou    análogos      fundidos
+com benzo destes anéis,
+os   quais     podem       ser
+opcionalmente
+substituídos e em que os
+substituintes são alquila,
+haloalquila,      alcóxi   ou
+halogênio.
+
+
+
+
+      Ressalta-se que o pedido não pode ser alterado, de maneira tal, que o mesmo contenha
+matéria que se estenda além do conteúdo do pedido originalmente apresentado  interpretação do
+Art. 32 da LPI segundo a Resolução PR nº 093/2013 (Diretrizes sobre a aplicabilidade do disposto
+no Art. 32 da LPI nos pedidos de patentes, no âmbito do INPI).
+
+
+
+
+                             Quadro 4  Documentos citados no parecer
+
+ Código                                Documento                             Data de publicação
+
+     D1                                WO03091262                                06/11/2003
+
+     D2                               US2011054122                               03/03/2011
+
+     D3      LI B, CHIU P, "A protecting-group-free route to chiral BINOL-       20/05/2011
+             phosphoric acids", EUROPEAN JOURNAL OF ORGANIC
+             CHEMISTRY, Vol. 2011, N. 20-21, pp. 3932  3937
+             https://doi.org/10.1002/ejoc.201100328
+
+
+
+
+                                                                                   Página 4 de 5
+                                       BR112017022266-3
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento                 Reivindicações
+                                                    Sim                         1 a 17
+           Aplicação Industrial
+                                                    Não                          -----
+                                                    Sim                         1 a 17
+                Novidade
+                                                    Não                          -----
+                                                    Sim                         1 a 17
+           Atividade Inventiva
+                                                    Não                          -----
+Comentários/Justificativas ____________________________
+
+
+
+
+Conclusão
+
+
+      A requerente cumpriu parcialmente as exigências formuladas no parecer notificado na
+RPI 2596, de 06/10/2020, de modo que o novo quadro reivindicatório, apresentado por meio da
+petição 870210000487, de 04/01/2021, ainda possui irregularidades, com relação ao disposto nos
+Artigos 24 e 25 da LPI.
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não
+apresenta suficiência descritiva (Art. 24 da LPI) e as reivindicações estão indefinidas e/ou não
+estão fundamentadas no relatório descritivo (Art. 25 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                                Rio de Janeiro, 15 de março de 2021.
+
+
+
+
+Carla Maria Salerno Polato
+Pesquisador/ Mat. Nº 1485559
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                         Página 5 de 5
+

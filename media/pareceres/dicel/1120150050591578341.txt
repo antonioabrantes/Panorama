@@ -1,0 +1,148 @@
+                                         SERVIÇO PÚBLICO FEDERAL
+                                          MINISTÉRIO DA ECONOMIA
+                              INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                         BR112015005059-0          N.° de Depósito PCT:US2013/058629
+ Data de Depósito:                      06/09/2013
+ Prioridade Unionista:                  US 61/698,437 (07/09/2012)
+ Depositante:                           AMERICAN CHEMICAL SOCIETY (US)
+ Inventor:                              JEFFREY FISHER, DAVID PAUL LEVY, JOHN SULLIVAN
+ Título:                                Avaliador de composição automatizado 
+
+                                                                     PARECER
+       Em 06/05/2022, por meio da petição nº 870220039206, a Requerente apresentou
+modificações no pedido em resposta ao parecer emitido, notificado na RPI nº 2666 de 08/02/2022
+(despacho 7.1). Estas modificações estão consideradas no Quadro 1.
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas          n.o da Petição         Data
+Relatório Descritivo                                          1 à 72           870220039206         06/05/2022
+Quadro Reivindicatório                                         1à7             870220039206         06/05/2022
+Desenhos                                                      1 à 14       860150064032-NPWB        13/04/2015
+Resumo                                                           1             870220039206         06/05/2022
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                              Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                         X
+O pedido está de acordo com disposto no art. 32 da LPI                                          X
+Comentários/Justificativas
+
+
+
+                       Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                              Sim         Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                            X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                          X
+Comentários/Justificativas
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                              Página 1
+                                                         BR112015005059-0
+
+
+
+
+                                    Quadro 4  Documentos citados no parecer
+ Código                                                Documento                        Data de publicação
+    D1                                              WO 0077609 A1                              21/12/2000
+
+    D2                                           US 2010174732 A1                              08/07/2010
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                     Cumprimento   Reivindicações
+                                                                           Sim           1 à 15
+             Aplicação Industrial
+                                                                          Não              -
+                                                                           Sim           1 à 15
+                     Novidade
+                                                                          Não              -
+                                                                           Sim             -
+             Atividade Inventiva
+                                                                          Não            1 à 15
+
+Comentários/Justificativas
+
+         A requerente argumenta que o documento D1 não revela ou sugere determinar um ou
+mais parâmetros com base na pluralidade de objetos dentro do segundo arquivo. Esta etapa é
+realizada em relação ao conteúdo do segundo arquivo ao invés de D1 que opera sobre o
+conteúdo do arquivo não estruturado, o que levaria somete a determinação de parâmetros
+limitados a possíveis caminhos dos elementos de entrada da DTD. A requerente argumenta
+ainda que o documento D1 não revela ou sugere avaliar um ou mais parâmetros para
+conformidade com uma pluralidade de regras de composição ou avaliação de conformidade de
+qualquer um dos parâmetros do segundo arquivo.
+
+         O propósito da verificação de definição de tipo de documento (DTD) é verificar se
+parâmetros estruturais de um arquivo baseado na pluralidade de objetos dentro dele estão em
+conformidade com as regras dessa definição (DTD). Os nós em D1 são acessados com base em
+caminhos candidatos (parâmetros) dentro do documento que já inclui uma pluralidade de objetos
+(página 3: linhas 1 à 11 de D1).
+
+         É mantida a análise anterior, à luz da nova reivindicação 1 não é identificado na
+transformação do primeiro arquivo para o segundo arquivo um efeito técnico distinto daquele
+operado no primeiro arquivo em D1. O cerne da matéria pleiteada é revelado na combinação dos
+documentos citados D1 e D2. De acordo com o parecer anterior, o documento D1 revela um
+...método (executado em processadores operativos com dispositivos de memória) para avaliação
+de composição de um primeiro arquivo representando um documento para ser avaliado (resumo;
+figuras 1 e 2; página 5: linhas 21 à 26; página 6: linha 19 à página 7: linha 6 de D1). O método
+compreendendo a transformação do primeiro arquivo em um segundo arquivo que inclui uma
+pluralidade de objetos correspondentes a composição do primeiro arquivo (página 8: linhas 22 à
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 2
+                                                          BR112015005059-0
+
+
+27 de D1) no qual a pluralidade de objetos inclui ao menos um objeto de texto (figura 6; página
+13: linha 25 à página 15: linha 2 de D1), determinando um ou mais parâmetros baseados na
+pluralidade de objetos, incluindo parâmetros de texto associados ao dito ao menos um objeto de
+texto, parâmetros de página associados ao menos a uma página do documento e um ou mais
+parâmetros de documentos associados ao documento em si (figura 6; página 13: linha 25 à
+página 15: linha 2 de D1). O método ainda avaliando os ditos parâmetros baseado em uma
+pluralidade de regras de composição fornecidas por um motor de regras, gerando e armazenando
+resultados de avaliação nos dispositivos de memória e gerando uma conclusão baseada nos ditos
+resultados indicando conformidade do documento às ditas regras de composição (figuras 2 e 3;
+página 6: linhas 19 à 29; reivindicação 1 de D1). - enquanto o documento D2 revela ...método
+que recebe um primeiro documento não estruturado que possui um número de elementos
+primitivos, sendo que o método identifica um conjunto de operações para reconstrução de um
+documento em um documento estruturado bem como determinar parâmetros baseados na
+pluralidade de objetos (conjunto de glifos, elementos de borda, atributos geométricos) para serem
+utilizados na reconstrução (resumo; figuras 1 à 9; parágrafos 0007 à 0012, 0121 à 0164 de D2)..
+
+       Considera-se que a matéria da reivindicação 1, bem como suas dependentes 2 à 13 e
+mutatis mutandis das reivindicações 14 e 15 carece de atividade inventiva frente a combinação
+dos ensinamentos dos documentos D1 e D2, estando em desacordo com o Artigo 8º combinado
+ao 13 da LPI.
+
+
+
+Conclusão
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                             Rio de Janeiro, 30 de maio de 2022.
+
+                                                                               Publique-se o indeferimento (9.2).
+
+Luciano Lauand Viana de Paula
+Pesquisador/ Mat. Nº 2042359
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 001/16
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                   Página 3
+

@@ -1,0 +1,175 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112018074843-9           N.° de Depósito PCT:AU2017/050650
+ Data de Depósito:                   26/06/2017
+ Prioridade Unionista:               AU 2016902490 (24/06/2016)
+ Depositante:                        WEIR MINERALS AUSTRALIA LTD (AU)
+ Inventor:                           KEVIN FRANCIS DOLMAN; TIMOTHY JUSTIN LUCEY
+ Título:                             Ferros fundidos brancos resistentes à erosão e corrosão
+
+                                                              PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                1/24 a 24/24             870220070350           08/08/2022
+Quadro Reivindicatório                                 1/4 a 4/4             870220070350           08/08/2022
+Desenhos                                               1/3 a 3/3             870180157179           30/11/2018
+Resumo                                                     1/1               870220070350           08/08/2022
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                                   x
+Comentários/Justificativas
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                        BR112018074843-9
+
+
+      Em petição de nº 870220070350, impetrada em 08/08/2022, a requerente apresentou
+esclarecimentos. Nessa petição a requerente informa que apresenta um novo quadro
+reivindicatório no qual a reivindicação 16 foi modificada pela retirada do seguinte trecho: onde o
+equipamento é exposto a qualquer um ou mais do que um de desgaste por abrasão severa,
+impacto, erosão e corrosão. A requerente ainda informa que realizou as correções exigidas no
+parecer anterior.
+
+
+
+      A requerente não concorda com a modificação da categoria da reivindicação 16 de produto
+(equipamento) para uso. De acordo com a mesma, a supressão do trecho supramencionado
+evidenciaria que a nova reivindicação 16 reivindica não o uso de um equipamento, mas sim o
+próprio equipamento que inclui a peça fundida como definida nas reivindicações 1 a 15.
+
+      Tal argumento não se sustenta. A reivindicação independente 16 não apresenta nenhuma
+característica especial do equipamento em si. O equipamento pleiteado meramente inclui a peça
+fundida conforme pleiteada no presente pedido. A categoria correta para esse tipo de
+reivindicação é a de uso.
+
+
+
+
+                            Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                              Data de publicação
+    D1       WO84/04760 A1                                                           06/12/1984
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento                Reivindicações
+                                                    Sim                       1 a 21
+            Aplicação Industrial
+                                                   Não                           -
+                                                    Sim                       1 a 21
+                 Novidade
+                                                   Não                           -
+                                                    Sim                          -
+            Atividade Inventiva
+                                                   Não                        1 a 21
+
+
+
+Comentários/Justificativas
+
+
+
+         No que concerne ao mérito de patenteabilidade do presente pedido, a requerente afirma
+que a diferença entre a razão Cr:C de 7,8 no Exemplo 4B da Tabela IV de D1 e a razão Cr:C
+mínima de 8:1 na reivindicação 1 seria significativa, pois, de acordo com a requerente, a razão
+Cr:C do Exemplo 4B significa que o Cr em solução na matriz ferrosa do fundido será menor que
+
+
+
+                                                                                           Página 2
+                                       BR112018074843-9
+
+
+o mínimo de 12% em peso de Cr na faixa reivindicada de 12 a 20 % em peso de Cr em solução
+na matriz, que é importante para fornecer resistência à corrosão. Ainda segundo a requerente, a
+Tabela 2 do relatório descritivo não seria uma comparação relevante porque as composições
+mostradas na tabela são estimativas gerais e não medições reais. Como tal, segue a
+requerente, a linha total na tabela deveria ser vista apenas como uma soma das composições
+de fase desejadas gerais e proporções de fase desejadas gerais e não uma composição
+medida.
+
+
+
+       Os argumentos da requerente foram levados em consideração mas não foram
+considerados procedentes.
+
+
+
+       O cerne da questão, conforme levantado pela própria requerente, é que os valores
+apresentados na Tabela 2 do presente pedido não são medições reais. Como é de
+conhecimento do técnico do assunto qualquer medição real apresenta erros. Ademais, conforme
+já apontado no parecer anterior, exatamente em função de erros que ocorrem em medições
+reais, o valor mínimo de Cr:C de 8:1 conforme pleiteado comporta valores entre 7,5:1 e 8,5:1.
+Assim, considera-se que o valor calculado do exemplo 4B da tabela IV de D1 é colidente com o
+valor mínimo da faixa pleiteada no presente pedido. Em outras palavras, é esperado que o valor
+calculado de Cr:C de 7,8:1 (conforme divulgado no exemplo 4B da tabela IV de D1) resulte em
+teores de Cr de no mínimo 12% na matriz da peça fundida, conforme pleiteado no presente
+pedido, uma vez que o valor calculado não é exato em função do erro de medição que está
+sempre presente.
+
+       Assim, este Instituto mantém o entendimento que o presente pedido é evidente para um
+técnico no assunto a partir dos conhecimentos divulgados em D1.
+
+
+
+Conclusão
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 25 de novembro de 2022.
+
+
+                                                                                           Página 3
+                                       BR112018074843-9
+
+
+
+
+Frederico de Carvalho Nunes
+Pesquisador/ Mat. Nº 1741637
+DIRPA / CGPAT IV/DIMAT
+Deleg. Comp. - Port. INPI/DIRPA Nº 003/13
+
+
+
+
+                                                          Página 4
+

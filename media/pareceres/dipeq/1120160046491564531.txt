@@ -1,0 +1,155 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112016004649-8         N.° de Depósito PCT: EP2014/068479
+ Data de Depósito:                   01/09/2014
+ Prioridade Unionista:               FR 13 58410 (03/09/2013)
+ Depositante:                        GETINGE LA CALHENE (FR)
+ Inventor:                           CHRISTOPHE DUFOUR, JULIEN FELIX
+ Título:                             Conjunto de conexão vedada, método para uma conexão vedada e
+                                     método para uma desconexão vedada
+
+                                                              PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+           Elemento                                     Páginas              n.o da Petição     Data
+Relatório Descritivo                                        33               870220017266     25/02/2022
+Quadro Reivindicatório                 24 reivindicações em 6 páginas        870220017266     25/02/2022
+Desenhos                                   14 figuras em 12 páginas          870170054720      01/08/17
+Resumo                                                       1               870220017266     25/02/2022
+         houve mudança no título
+         ver pedido BR 11 2016 004570-0
+
+    Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                     maio de 1996  LPI
+Artigos da LPI                                                                        Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                        x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                x
+O pedido está de acordo com disposto no art. 32 da LPI                                 x
+Comentários/Justificativas
+
+
+                     Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                        Sim         Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                   x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                 x
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                           Quadro 4  Documentos citados no parecer
+ Código                                Documento                           Data de publicação
+    D1                                 US5139318A                                 18/08/1992
+    D2                                 US5421626A                                 06/06/1995
+    D3                                US6591662B1                                 15/07/2003
+
+
+    Quadro 5 - Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade              Cumprimento            Reivindicações
+                                                     Sim                   1 a 24
+            Aplicação Industrial
+                                                     Não                      -
+                                                     Sim                   1 a 24
+                  Novidade
+                                                     Não                      -
+                                                     Sim                   1 a 22
+             Atividade Inventiva
+                                                     Não                   23 e 24
+Comentários/Justificativas
+         A requerente apresentou argumentação em relação a opinião emitida em relatório técnico
+precedente em relação ao Art. 6º da LPI. Entretanto, a argumentação falha em demonstrar que os
+pedidos em questão tem, de fato, diferenças patenteáveis.
+
+         A seguir, a matéria reivindicada no presente pedido:
+reiv1 CONJUNTO que compreende um primeiro espaço fechado e um dispositivo de conexão
+      para a conexão vedada entre o primeiro espaço fechado e um segundo espaço fechado,
+      em que o primeiro espaço fechado compreende
+         1) um primeiro flange (18) e uma primeira porta (22) que fecha de uma maneira
+             vedada uma abertura delimitada pelo primeiro flange (18) e o
+         2) segundo espaço fechado compreende um segundo flange (26) e uma segunda
+             porta (28) que fecha de uma maneira vedada uma segunda abertura delimitada
+             pelo segundo flange (26), em que o dispositivo de conexão é montado em uma
+             parede do primeiro espaço fechado e que compreende:
+              primeiro meio (A) para prender o primeiro e o segundo flanges um ao outro,
+              segundo meio (B) para prender a segunda porta e a primeira porta de uma
+                 maneira vedada e para desafixar a segunda porta do segundo flange,
+              terceiro meio (C) para liberar a primeira porta em relação ao primeiro flange
+                 (18),
+              quarto meio (D) para abrir uma passagem entre o primeiro e o segundo
+                 espaços fechados,
+         3) sendo que o dispositivo também compreende meios para travar (118) o segundo
+             meio (B) de preensão da segunda porta e da primeira porta que impede a
+             separação da primeira e da segunda portas desde que a conexão entre os dois
+             espaços fechados seja efetiva, em que os meios de travamento são ativados
+             automaticamente pela atuação do segundo meio para preensão (B);
+             caracterizado pelo segundo meio (B) de preensão compreender
+                 (1) uma placa de preensão (80) montada de modo móvel em rotação em uma
+                     superfície externa da primeira porta (22) ao redor do eixo geométrico
+                     longitudinal (X) e com capacidade para ser presa a uma superfície externa
+
+
+
+                                                                                        Página 2
+                       da segunda porta (28) por uma conexão de baioneta, com os meios de
+                       travamento configurados de tal modo a limitar a rotação da placa nas duas
+                       direções de rotação quando a primeira porta e a segunda porta estiverem
+                       presas.
+
+       Conforme foi dito anteriormente, o pedido BR112016004570 apresenta um segundo meio
+(B) de preensão que pode ser visualizado nas ilustrações das 14 figuras. A requerente argumenta,
+em seu quadro comparativo, que a diferença entre os conjuntos compreende um meio de
+travamento do segundo meio de preensão da segunda e da primeira porta. Mas, o texto da
+reivindicação 1 de BR112016004570 menciona sendo que o dispositivo compreende, também,
+um dispositivo para manter o segundo espaço fechado em relação ao primeiro espaço fechado de
+maneira que a segunda porta (28) seja mantida voltada para a primeira porta (22) antes da
+preensão pelos primeiros meios para preensão.
+
+       Outra diferença apontada diz respeito a placa de preensão montada de modo móvel e
+meios de travamento configurados para limitar a rotação da placa nas duas direções de rotação.
+Contudo, o texto da reivindicação 1 de BR112016004570 menciona que a porta (28) seja mantida
+voltada para a primeira porta (22) antes da preensão. Assim, entende-se que placa de preensão
+montada de modo móvel trata-se da porta (28). E o meio de travamento configurados para limitar
+a rotação da porta (28) sejam os meio para controlar o primeiro (A), segundo (B), terceiro (C) e
+quarto (D) meios que permite a conexão vedada entre os dois espaços fechados sem rotação do
+primeiro e/ou segundo espaços fechados.
+
+
+
+       Dessa forma, embora apresente aplicação industrial e seja novo, o conjunto caracterizado
+nas reivindicações 1 a 22 do presente pedido não deve receber o privilégio reivindicado por
+incorrer no Art. 6º da LPI.
+
+
+
+Conclusão
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   as reivindicações incidem na proibição estabelecida no Art. 6º inc. VII da Lei nº
+          11.105/05 e/ou no Art. 12 da Lei nº 10.814/03
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+                                                              Rio de Janeiro, 27 de Abril de 2022.
+
+
+Bernardo Nepomuceno Pinto Mosquera
+Pesquisador/ Mat. Nº 1742312
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº 008/13
+
+
+                                                                                         Página 3
+

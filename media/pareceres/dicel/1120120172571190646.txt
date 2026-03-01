@@ -1,0 +1,135 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112012017257-3             N.° de Depósito PCT:EP2011/050273
+ Data de Depósito:                   11/01/2011
+ Prioridade Unionista:               US 61/294,357 (12/01/2010)
+ Depositante:                        FRAUNHOFER - GESELLSCHAFT ZUR FOERDERUNG DER
+                                     ANGEWANDTEN TEN FORSCHUNG E.V. (DE)
+ Inventor:                           GUILLAUME        FUCHS,        MARKUS       MULTRUS,      NIKOLAUS
+                                     RETTELBACH, VIGNESH SUBBARAMAN, OLIVER WEISS, MARC
+                                     GAYER, PATRICK WARMBOLD, CHRISTIAN GRIEBEL
+ Título:                             "codificador de áudio, codificados de áudio, método de codificação de
+                                     uma informação de audio método de codificação de uma informação
+                                     de áudio de programa de computador que utiliza uma modificação de
+                                     uma representção numérica de um valor de contexto prévio numérico"
+
+                                                              PARECER
+          O presente pedido refere-se a um decodificador de áudio para prover uma informação
+de áudio decodificada com base em uma informação de áudio codificada compreende um
+decodificador aritmético para prover diversos valores espectrais decodificados com base em
+uma representação aritmeticamente codificada dos valores espectrais.
+
+          Em 09/12/2019, por meio da petição 870190130511, o Depositante apresentou
+modificações no pedido em resposta ao parecer emitido no âmbito da resolução nº 241/2019,
+notificado na rpi 2540 de 10/09/2019 segundo a exigência preliminar (6.21).                     O quadro
+reivindicatório foi mantido, com exceção da reivindicação 19, suprimida por se tratar de
+programa de computador.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                            161 Págs. (Págs.             018120030836     20/08/2012
+                                                5 a 165 do PDF)
+Quadro Reivindicatório                          12 Págs. (Págs. 8            870190130511     09/12/2019
+                                                  a 19 do PDF)
+Desenhos                                         59 Págs. (Págs.             018120030836     20/08/2012
+                                                   178 a 238)
+Resumo                                           1 Pág. (Pág. 239            018120030836     20/08/2012
+                                                     do PDF)
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                           BR112012017257-3
+
+                                          maio de 1996  LPI
+Artigos da LPI                                                                Sim               Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                               X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                       X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                       X
+O pedido está de acordo com disposto no art. 32 da LPI                        X
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI          X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI        X
+Comentários/Justificativas
+
+
+
+    Quadro 4  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento                Reivindicações
+                                                         Sim                           -
+           Aplicação Industrial
+                                                         Não                           -
+                                                         Sim                           -
+                 Novidade
+                                                         Não                           -
+
+                                                         Sim                           -
+           Atividade Inventiva
+                                                         Não                           -
+Comentários/Justificativas:
+
+       O    depositante     apresentou     em    sua     manifestação    um   quadro       reivindicatório
+substancialmente igual ao quadro anterior, apenas suprimindo a reivindicação referente a
+programa de computador. Não foi, portanto, apresentado um quadro reivindicatório adequado
+às anterioridades citadas como impeditivas à patenteabilidade no parecer anterior, nem foram
+apresentadas argumentações quanto à patenteabilidade do pedido. A requerente não comparou
+o pedido com as anterioridades, apenas alegou que outros escritórios no exterior concederam a
+patente.
+
+
+
+
+Conclusão
+
+
+                                                                                                  Página 2
+                                      BR112012017257-3
+
+       As exigências não foram cumpridas. Não foi apresentado novo quadro reivindicatório
+nem apresentadas argumentações técnicas considerando as anterioridades encontradas.
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não foram
+cumpridas as exigências.
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 10 de abril de 2020.
+
+
+
+
+Paulo Roberto Dutra Magalhaes
+Pesquisador/ Mat. Nº 1287310
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+008/13
+
+
+
+
+                                                                                        Página 3
+

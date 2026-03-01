@@ -1,0 +1,153 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112021006108-8         N.° de Depósito PCT:KR2019/012992
+ Data de Depósito:                   04/10/2019
+ Prioridade Unionista:               US 62/742,269 (05/10/2018)
+ Depositante:                        LG ELECTRONICS INC. (KR)
+ Inventor:                           NAERI PARK; JUNGHAK NAM; HYEONGMOON JANG; JAEHO LEE
+ Título:                             Método de codificação de imagem usando informações de
+                                     movimento baseadas em histórico e dispositivo para o mesmo 
+
+                                                                PARECER
+
+
+          Em 28/06/2022, por meio da petição 870220056700, a Requerente apresentou
+modificações no pedido em resposta ao parecer emitido, notificado na RPI 2674 de 05/04/2022
+(despacho 7.1). Estas modificações estão consideradas no Quadro 1.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-75               870220056700           28/06/2022
+Quadro Reivindicatório                                     1-5               870220056700           28/06/2022
+Desenhos                                                  1-30               870210050719           04/06/2021
+Resumo                                                      1                870220056700           28/06/2022
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR112021006108-8
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1        ZHANG (BYTEDANCE) L ET AL: "CE4-related: History-based               03/07/2018
+                Motion Vector Prediction", no. JVET-K0104, 3 July 2018
+                                    (2018-07-03),
+    D2                                US2017127086A1                               04/05/2017
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento            Reivindicações
+                                                         Sim                    1-15
+            Aplicação Industrial
+                                                        Não
+                                                         Sim                    1-15
+                 Novidade
+                                                        Não
+                                                         Sim
+            Atividade Inventiva
+                                                        Não                     1-15
+Comentários/Justificativas
+
+
+
+         A requerente argumenta em sua manifestação que o documento D2 trata de codificação
+de contexto e a codificação de paleta (uma espécie de previsão intra). Isso difere do pleiteado
+no presente pedido que trata da decodificação baseada em HMVP utilizando inter predição e
+modo fusão. Essa argumentação não é suficiente para modificar a opinião expressa em parecer
+anterior sobre atividade inventiva. O documento D1 trata de codificação baseada em HMVP
+utilizando inter predição e modo fusão com características semelhantes às pleiteadas no
+presente pedido. Neste contexto, o problema a ser solucionado seria como melhorar a
+paralelização da codificação/decodificação. O documento D2, de forma semelhante ao proposto
+no presente pedido, propõe que inicialização de buffers de forma mais frequente. É proposto que
+o ajuste da inicialização possa ser mais grosso ou mais fino permitindo um ajuste melhor da
+paralelização (ver D2, parágrafo 42) e resiliência ao erro. De forma explicita, é antecipado que o
+a inicialização pode ser feita desde a cada fatia, tile, frente de onda (WPP), ou por linha de CTU
+ou CTU. Uma vez que não há característica técnica especifica da inicialização dos buffers para o
+
+
+
+                                                                                           Página 2
+                                        BR112021006108-8
+
+
+HMVP de D1 ou codificação de paleta de D2, não haveria qualquer impedimento técnico para
+um técnico no assunto adaptar o ensinamento de D2 em D1. Assim, seria evidente ou óbvio para
+um técnico no assunto, propor a periodicidade de inicialização dos buffers de forma a ajustar a
+paralelização da codificação/decodificação baseada em HMVP. Não foi apresentado no presente
+pedido ou na manifestação da requerente a razão pela qual a escolha especifica da
+periodicidade pleiteada (CTU de primeira ordem em uma linha de CTU de uma fatia) possa
+conferir atividade inventiva. Não há qualquer efeito técnico surpreendente identificado e esta
+periodicidade está entre faixas de periodicidade propostas em D2. Trata de um mero
+detalhamento de projeto. Desta forma, é mantida a opinião que os objetos pleiteados no
+presente pedido decorrem de maneira evidente ou óbvia para um técnico no assunto a partir dos
+ensinamentos de D1 e D2.
+
+       Com relação à dupla proteção, a argumentação apresentada pela requerente e
+modificações nos quadros reivindicatórios foram suficiente para modificar a opinião expressa
+anteriormente referente a duplicidade de matéria pleiteada nos diversos pedidos.
+
+
+
+Conclusão
+
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                               Rio de Janeiro, 14 de julho de 2022.
+
+
+
+
+Rafael Galvao de Oliveira
+Pesquisador/ Mat. Nº 1990912
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+007/17
+
+
+
+
+                                                                                          Página 3
+

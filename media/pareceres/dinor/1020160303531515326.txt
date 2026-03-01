@@ -1,0 +1,222 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102016030353-2        N.° de Depósito PCT:
+ Data de Depósito:                   22/12/2016
+ Prioridade Unionista:               -
+ Depositante:                        UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL (BRRS)
+ Inventor:                           ÉDER CLAÚDIO LIMA; PASCAL SILAS THUE; JÚLIO CÉSAR
+                                     PACHECO VAGHETTI; SILVIO LUIS PEREIRA DIAS @FIG
+ Título:                             Carvão ativado magnético,processo de obtenção e aplicação do
+                                     mesmo 
+
+                                                                PARECER
+          Em 24/10/2021, por meio da petição 870210098084, a requerente apresentou novas vias
+do pedido e esclarecimentos em resposta à ciência de parecer (7.1), notificado por meio da RPI
+2638 de 27/07/2021, doravante denominado como parecer técnico anterior.
+          Neste contexto, a requerente apresenta novas vias do Quadro Reivindicatório (composto
+por 13 reivindicações), bem como comentários técnicos na expectativa de evidenciar as
+diferenças do presente pedido frente aos documentos citados como estado da técnica em parecer
+técnico anterior.
+          Desta forma, o exame do pedido foi conduzido considerando-se as alegações da
+requerente e as vias apresentadas no Quadro 1 deste parecer.
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1  13               870160078447           22/12/2016
+Quadro Reivindicatório                                   12                 870210098084           24/10/2021
+Desenhos                                                 14                 870160078447           22/12/2016
+Resumo                                                      1                870160078447           22/12/2016
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                       X
+O pedido está de acordo com disposto no art. 32 da LPI                                        X
+Comentários/Justificativas
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR102016030353-2
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                   X
+Comentários/Justificativas
+
+         As emendas apresentadas na reivindicação 1 não estão em conformidade às disposições
+do Art. 25 da LPI e Instrução Normativa nº 030/2013  Art. 4º (III), visto que o trecho obtido em
+uma etapa de pirólise em forno de micro-ondas diz respeito ao processo de obtenção do referido
+carvão ativado magnético, não sendo esta característica compatível com a categoria pleiteada
+(produto) e tampouco suficiente para caracterizar o objeto ao qual se requer proteção.
+         Vale mencionar que um produto deve ser adequadamente definido por especificações
+referentes aos aspectos construtivos dos elementos que o constituem e não por características
+referentes aos seus processos de obtenção ou por matérias-primas ou insumos utilizados neste
+processo.
+
+
+         No que diz respeito ao apontamento de que a característica técnica apresentada na
+reivindicação 2 refere-se ao diâmetro médio dos poros, e não à porosidade do dito carvão ativado,
+os comentários apresentados pela requerente não foram suficientes para esclarecer a utilização
+do termo porosidade em vez de diâmetro médio dos poros.
+         Novamente, as características apresentadas na reivindicação 2 referem-se a diâmetro
+médio dos poros (Dp), em consonância ao relatório descritivo (parágrafo [49]; Tabela 1), e não à
+porosidade, sendo esta compreendida como a quantidade/distribuição de poros existentes em
+uma dada superfície/volume.
+         Deste modo, permanece o entendimento de que a reivindicação 2 não cumpre ao disposto
+no Art. 25 da LPI e na Instrução Normativa nº 30/2013  Art. 4º (III).
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                   WO9948811                                 30/09/1999
+    D2                                   RU2237513                                 10/10/2004
+    D3                                  CN101502789                                12/08/2009
+
+
+
+
+                                                                                         Página 2
+                                       BR102016030353-2
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento                Reivindicações
+                                                   Sim                        1  13
+           Aplicação Industrial
+                                                   Não                       ----------
+                                                   Sim                        2  12
+                 Novidade
+                                                   Não                        1 e 13
+                                                   Sim                       ----------
+           Atividade Inventiva
+                                                   Não                        1  13
+Comentários/Justificativas
+
+       No que diz respeito aos documentos citados como estado da técnica, a requerente
+apresentou comentários e argumentos técnicos na expectativa de evidenciar diferenciar os
+documentos citados como estado da técnica frente ao presente pedido de invenção
+
+
+       Em relação ao documento D1 a requerente discorre acerca de eventuais incoerências e
+erros de grafia do documento, e que levariam a dificuldades de reprodução da metodologia
+proposta por este documento.
+       A requerente continua seus comentários voltados para descaracterizar a invenção
+apresentada pelo referido documento, quando o esperado seria que a requerente apresentasse as
+diferenças (caso existam) deste documento frente ao presente pedido de invenção, bem como
+indicasse a não obviedade da matéria pleiteada frente aos ensinamentos antecipados pelo
+documento D1.
+       Neste sentido, permanece o entendimento de que o documento D1 ensina um processo de
+obtenção de um material de carbono ativado com propriedades magnéticas compreendendo as
+etapas de impregnação de material de biomassa lignocelulósica com uma solução de metal de
+transição; de filtração e secagem do dito material; performance de ciclo(s) de pirólise (resumo;
+relatório descritivo: página 3, linhas 90  97; reivindicações 1  4). O documento D1 ainda ensina
+modalidades em que a dita solução de metal de transição seja uma solução de cloreto de níquel
+(reivindicação 6). Quanto ao uso, o documento D1 antecipa o uso do material obtido para o
+tratamento de água ou ar, e de recuperação de solventes (relatório descritivo: página 1, linhas 17
+ 19, linhas 32  35).
+
+
+       No que diz respeito ao documento D2, a requerente alega que o dito documento não revela
+nenhuma propriedade magnética no material resultante ou material final, e que o propósito de D2
+seria aumentar a capacidade de adsorção do carvão ativo comercial para a remoção de NH 3 (g),
+enquanto que o caráter magnético conferido ao produto final apresentado pelo presente pedido
+seria resultante da impregnação de biomassa vegetal com sal de cloreto de níquel seguido de
+
+                                                                                          Página 3
+                                         BR102016030353-2
+
+pirólise assistida por micro-ondas, na qual se forma níquel metálico (Ni ), o qual, por sua vez,
+confere o requerido caráter magnético.
+       Desta forma, os comentários apresentados pela requerente acerca do documento D2
+foram aceitos e considerados satisfatórios.
+
+
+       Sobre o documento D3, brevemente, a requerente alega que os inventores partiram de um
+carvão ativado comercialmente, e que a proposta apresentada pelo presente pedido de invenção
+utiliza a biomassa vegetal como fonte de carbono para a obtenção de carvão ativo.
+       A requerente ainda alega que a proposta do presente pedido de invenção apresenta um
+produto final com área superficial entre 334  405 m 2/g e magnetização de 3,86  12,56 emu/g,
+utilizando biomassa vegetal seca e moída impregnada com solução de cloreto de níquel (III).
+
+
+       Vale mencionar que a reivindicação 1 é silente às ditas características (área superficial,
+magnetização), bem como à definição de diâmetro médio dos poros. Do modo como descrita, a
+reivindicação 1, de categoria de produto, diz respeito ao carvão ativado magnético
+compreendendo biomassa lignocelulósica e cloreto de níquel (III). As características referentes ao
+seu processo de obtenção não são suficientes e adequadas para a caracterização do referido
+produto, conforme apontado no Quadro 3 deste parecer.
+
+
+       Desta forma, as características consideradas compatíveis com a categoria pleiteada (de
+produto) para a reivindicação 1, seriam antecipadas pelo documento D3, conforme apontado em
+parecer técnico anterior.
+
+
+       Diante do exposto, permanece o entendimento de que a matéria pleiteada nas
+reivindicações 1 e 13 seriam antecipadas pelos documentos D1 e/ou D3.
+
+
+
+       Sobre o processo de obtenção do carvão ativado magnético (reivindicações 3  12), os
+documentos D1 e D3 são silentes a todas as etapas combinadas apresentadas nas respectivas
+reivindicações. No entanto, tal como apontado em parecer técnico anterior, aparentemente, as
+ditas etapas seriam facilmente alcançadas por um técnico do assunto quando considerado, em
+especial, o documento D1.
+       Assim sendo, as reivindicações 3  12 não cumprem ao requisito de atividade inventiva,
+quando considerado o documento D1.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+                                                                                         Página 4
+                                       BR102016030353-2
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   as reivindicações estão indefinidas (Art. 25 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 13 de dezembro de 2021.
+
+
+
+
+Cleyton Martins da Silva
+Pesquisador/ Mat. Nº 2390320
+DIRPA / CGPAT I/DINOR
+Deleg. Comp. - Port. INPI/DIRPA Nº
+020/18
+
+
+
+
+                                                                                           Página 5
+

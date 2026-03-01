@@ -1,0 +1,147 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR112012029457-1          N.° de Depósito PCT:KR2011/003653
+ Data de Depósito:     17/05/2011
+ Prioridade Unionista: KR 10-2010-0046110 (17/05/2010); KR 10-2010-0046111
+                       (17/05/2010); KR 10-2010-0047585 (20/05/2010); KR
+                       10-2010-0047584 (20/05/2010); KR 10-2010-0047583 (20/05/2010);
+                       KR 10-2010-0057641 (17/06/2010)
+ Depositante:          LG ELECTRONICS ,INC (KR)
+ Inventor:             CHANG KWON PARK, MI KYUNG HA, MIN HWAN HONG, WOON JE
+                       CHOE, JONG HYE HAN, PYOUNG HWAN KIM, SANG SU LEE
+ Título:               Aparelho eletrodoméstico, sistema de aparelho eletrodoméstico e
+                       método para operar o mesmo 
+
+                                                                PARECER
+          Este é um parecer de segundo exame em resposta ao parecer técnico, notificado pela
+publicação na RPI 2570, de 07/04/2020.
+Para fins de exame estão sendo consideradas as seguintes vias:
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+Relatório Descritivo                                    1 a 57               870200108340           27/08/2020
+Quadro Reivindicatório                                   1a5                 870200108340           27/08/2020
+Desenhos                                                1 a 33               020130029253           05/04/2013
+Resumo                                                      1                870200108340           27/08/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         x
+Comentários/Justificativas
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                        BR112012029457-1
+
+
+
+                           Quadro 4  Documentos citados no parecer
+ Código                                Documento                                 Data de publicação
+    D2       EP 1 906 094 A1                                                             02/04/2008
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade              Cumprimento                Reivindicações
+                                                     Sim                         1 a 18
+            Aplicação Industrial
+                                                     Não                             -
+                                                     Sim                             -
+                  Novidade
+                                                     Não                         1 a 18
+                                                     Sim                             -
+             Atividade Inventiva
+                                                     Não                         1 a 18
+Comentários/Justificativas
+
+         Em resposta ao parecer técnico, notificado pela publicação na RPI 2570, de 7 de abril de
+2020, a requerente apresentou manifestação na petição 870200108340, de 27 de agosto de
+2020, apresentando argumento a e emenda a reivindicação 1 incorporando a caracteristica da
+antiga reivindicação 11.
+         A nova reivindicação 1 apresenta a seguinte formulação (grifo nosso):
+             1. Aparelho eletrodoméstico, CARACTERIZADO por compreender:
+             uma unidade de exibição emitindo um estado de operação,
+             uma unidade de montagem de terminal para o qual um terminal móvel que tem
+             meios de exibição está montado; e
+             uma unidade de controle transmitindo dados de estado de operação para o terminal
+             móvel por meio da unidade de montagem de terminal durante uma operação do
+             aparelho eletrodoméstico, e controlando os dados de estado de operação a serem
+             exibidos no terminal móvel, quando o terminal móvel está montado na unidade de
+             montagem de terminal;
+             em que a unidade de montagem de terminal compreende:
+             um terminal de conexão eletricamente conectado ao terminal móvel;
+             uma unidade de detecção de conexão que detecta se o terminal móvel está montado
+             na unidade de montagem de terminal através do terminal de conexão; e
+             uma unidade de processamento de dados que transmite os dados do estado de
+             operação para o terminal móvel através do terminal de conexão e fornecendo os
+             dados recebidos do terminal móvel para a unidade de controle,
+             em que, se o terminal móvel está montado na unidade de montagem de terminal, a
+             unidade de controle ajusta o meio de exibição do terminal móvel como um exibidor
+             principal e define a unidade de exibição como um exibidor auxiliar, e
+             em que, se o terminal móvel está separado da unidade de montagem terminal, a
+             unidade de comando exibe o estado de operação por meio da unidade de exibição.
+
+
+
+                                                                                               Página 2
+                                         BR112012029457-1
+
+
+
+       Entretanto, a nova reivindicação 1 em nada modifica o entendimento anterior, ou seja,
+este continua não atendendo aos requisitos de patenteabilidade segundo os artigos 8°, 11 e 13
+da lei da propriedade industrial, considerando que o documento D2, citado no referido parecer
+técnico publicado na RPI 2570.
+       Conforme citado no referido parecer:
+                  O argumento com relação a D2:
+                  A presente invenção divulga que um aparelho eletrodoméstico tendo uma
+                  unidade de montagem de terminal. Quando o terminal é montado na unidade de
+                  montagem de terminal, um controlador transmite dados para o terminal através
+                  da unidade de montagem de terminal para exibir os dados em uma unidade de
+                  exibição do terminal. Assim, o terminal exibe dados do aparelho eletrodoméstico
+                  como uma unidade de exibição do eletrodoméstico.
+                  ...
+                   D2 divulga uma interface de usuário para um aparelho de cozimento. A interface
+                  do usuário pode ser mantida em algum suporte na superfície lateral do aparelho
+                  de cozimento, mas também não está montada no aparelho de cozimento.
+                  Mesmo uma das unidades de exibição e interface do usuário estão conectadas
+                  com algum cabo, elas não estão montadas.
+                  não pode ser aceito pois no parágrafo [0027] de D2 o terminal é montado na
+                  unidade de montagem de terminal uma vez que há comunicação bidirecional
+                  entre o aparelho e a interface de exibição.
+       Concluindo, diante de D2, considera-se que a matéria das reivindicações 1 a 18, ora
+pleiteadas, não atendem ao requisito de novidade e, consequentemente, atividade inventiva,
+infringindo os artigos 8º, 11° e 13° da LPI.
+
+
+Conclusão
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que: não atende
+ao requisito de novidade (Art .8º combinado com Art. 11 da LPI); e, consequentemente não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+                                                                  Publique-se o indeferimento (9.2).
+                                                             Rio de Janeiro, 27 de outubro de 2020.
+
+
+Maria Elisa Marciano Martinez
+Pesquisador/ Mat. Nº 1548925
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                           Página 3
+

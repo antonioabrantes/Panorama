@@ -1,0 +1,212 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112020023487-7        N.° de Depósito PCT:US2018/035044
+ Data de Depósito:                   30/05/2018
+ Prioridade Unionista:               -
+ Depositante:                        COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN (FR)
+ Inventor:                           CHARLOTTE CAFFEAU; DALES GREEN; REMY GUERIN; OLIVIER
+                                     BERGAMASCHI
+ Título:                             Pneu de caminhão com sobreposição de armadura de contenção 
+
+                                                                PARECER
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1  15               870200145324           17/11/2020
+Quadro Reivindicatório                                   13                 870230039829           12/05/2023
+Desenhos                                                 15                 870200145324           17/11/2020
+Resumo                                                      1                870200145324           17/11/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                       X
+O pedido está de acordo com disposto no art. 32 da LPI                                        X
+Comentários/Justificativas
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                          X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                        X
+Comentários/Justificativas
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                                        BR112020023487-7
+
+
+
+
+                                  Quadro 4  Documentos citados no parecer
+
+  Código                                            Documento                   Data de publicação
+     D1                                             EP0492504                        01/07/1992
+     D2                                           US2009114332                       07/05/2009
+
+
+
+
+      Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade                         Cumprimento     Reivindicações
+                                                                 Sim             1  15
+               Aplicação Industrial
+                                                                 Não               ---
+                                                                 Sim             1  15
+                       Novidade
+                                                                 Não               ---
+
+                                                                 Sim               ---
+               Atividade Inventiva
+                                                                 Não             1  15
+
+
+
+Comentários/Justificativas
+Neste parecer serão utilizados os seguintes símbolos:
+LPI  Lei da Propriedade Industrial (Lei N° 9.279/96)
+IN  Instrução Normativa
+RD  relatório descritivo
+QR  quadro reivindicatório
+R  reivindicação
+
+
+
+
+         Após notificação de despacho de ciência de parecer (7.1) publicada na RPI nº 2719 em
+14/02/2023, a requerente impetrou a petição de n° 870230039829 em 12/05/2023, onde apresenta
+nova via do quadro reivindicatório.
+
+
+
+         A requerente alega que:
+
+
+
+         D1 descreve camadas de sobreposição (8b) e borracha de enchimento (7) e não a
+estrutura da reivindicação independente 1 do presente pedido. Além disso, D1 não tem um projeto
+no qual toda a sobreposição (8b) está localizada para fora na direção radial de toda a haste (3).
+
+
+
+
+                                                                                              Página 2
+                                       BR112020023487-7
+
+      D1 descreve (vide col. 5, l. 20 a col. 9, l. 9 e figura 1) um pneu de caminhão pesado que
+tem um eixo central, uma direção radial e uma direção axial, caracterizado pelo fato de que
+compreende:
+
+      uma banda de rodagem;
+
+      um invólucro que carrega a banda de rodagem, em que o invólucro tem um talão (4) que
+tem um núcleo de talão (3) que tem uma haste com um perímetro, em que o núcleo de talão (3)
+tem borracha de preenchimento (7), em que o talão (4) tem uma armadura de contenção (8) que
+envolve o núcleo do talão (3) e que engata na borracha de preenchimento (7), em que a armadura
+de contenção tem uma sobreposição (8b) que está livre de engate com a haste, em que a maior
+parte da sobreposição (8b) está localizada para fora na direção radial da haste;
+
+      em que uma primeira linha radial se estende na direção radial e está localizada na direção
+axial em um ponto mais externo do perímetro na direção axial;
+
+      em que uma segunda linha radial se estende na direção radial e está localizada na direção
+axial em um ponto mais interno do perímetro na direção axial;
+
+      em que uma primeira linha axial se estende na direção axial e está localizada na direção
+radial em um ponto mais interno do perímetro na direção radial;
+
+      em que uma segunda linha axial se estende na direção axial e está localizada na direção
+radial em um ponto mais externo do perímetro na direção radial;
+
+      em que o perímetro da haste define uma área ST;
+
+      em que uma área externa SU da borracha de enchimento (7) é a área da borracha de
+enchimento localizada para fora do perímetro na direção radial que é delimitada pela primeira
+linha radial e pela segunda linha radial e pela armadura de contenção (8);
+
+      em que uma área interna SD da borracha de enchimento (7) é a área da borracha de
+enchimento (7) localizada para dentro do perímetro na direção radial que é delimitada pela
+primeira linha radial e pela segunda linha radial e pela armadura de contenção (8);
+
+      em que uma área axialmente externa SO da borracha de enchimento (7) é a área da
+borracha de enchimento localizada para fora do perímetro na direção axial que é delimitada pela
+primeira linha axial e a segunda linha axial e a armadura de contenção (8);
+
+      em que a área axialmente interna SI da borracha de enchimento (7) é a área da borracha
+de enchimento localizada para dentro do perímetro na direção axial que é delimitada pela primeira
+linha axial e a segunda linha axial e a armadura de contenção (8);
+
+      em que SU >= 0,2 ST;
+
+      em que SD >= 0,2 ST;
+
+      em que SO >= 0,2 ST; e
+
+      em que SI >= 0,1 ST.
+
+                                                                                        Página 3
+                                        BR112020023487-7
+
+
+
+      Como demonstrado acima, D1 descreve todas as características técnicas pleiteadas na R1.
+
+
+
+      Quanto à alegação de que D1 não teria um projeto no qual toda a sobreposição (8b) está
+localizada para fora na direção radial de toda a haste (3), como já informado no exame anterior, a
+modificação feita na R1, que inicialmente pleiteava que uma maior parte da sobreposição é
+localizada para fora na direção radial da haste, e agora pleiteia que toda a sobreposição é
+localizada para fora na direção radial de toda a haste, não parece ter qualquer efeito técnico no
+contexto da matéria pleiteada, uma vez que ambas as alternativas são apresentadas no pedido
+(vide §[0021] e §[0025] do RD, e resumo). Embora a requerente alegue que há um efeito técnico,
+este efeito é secundário, ou seja, não é essencial para a execução da invenção. A leitura do RD
+corrobora esse ponto de vista, conforme já demonstrado acima.
+
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                               Rio de Janeiro, 18 de maio de 2023.
+
+
+
+
+Rafael Vieira Camerini
+Pesquisador/ Mat. Nº 2317410
+DIRPA / CGPAT IV/DIMAT
+Deleg. Comp. - Port. INPI/DIRPA Nº
+012/18
+
+
+
+
+                                                                                          Página 4
+

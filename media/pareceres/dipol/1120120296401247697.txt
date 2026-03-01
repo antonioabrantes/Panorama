@@ -1,0 +1,182 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112012029640-0           N.° de Depósito PCT:US11/036434
+ Data de Depósito:                   13/05/2011
+ Prioridade Unionista:               US 12/785,333 (21/05/2010)
+ Depositante:                        Chevron Phillips Chemical Company LP (US)
+ Inventor:                           John D. Hottovy
+ Título:                             Técnica de retirada contínua e controle de pressão de reatores de
+                                     polimerização 
+
+                                                                PARECER
+Em resposta ao parecer técnico (despacho 7.1) publicado na RPI nº 2573 de 28 de abril de
+2020, o depositante se manifestou por meio da petição n. 870200077305 de 22 de julno de 2020
+alegando que o pedido atende aos requisitos de novidade e atividade inventiva frente aos
+ensinamentos das referências citadas. O depositante apresentou ainda novas vias de quadro
+reivindicatório.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-37               870190138769           23/12/2019
+Quadro Reivindicatório                                     1-3               870200077305           22/06/2020
+Desenhos                                                   1-6               020120107871           21/11/2012
+Resumo                                                      1                870190138769           23/12/2019
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+Não se aplica
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR112012029640-0
+
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                    x
+Comentários/Justificativas
+        O quadro reivindicatório apresentado encontra-se, quase que inteiramente, com as
+mesmas não conformidades do quadro anteriormente apresentado. A título de exemplo, o diluente
+não especificado na reivindicação 1 é definido como um hidrocarboneto inerte na página 1, linha
+32 do relatório descritivo. Outro exemplo que pode ser citado:  concentração de sólidos média
+maior que a primeira, não está definido as faixas aceitas, de forma que faz parecer que esteja a
+concentração de sólidos média 1% ou 100% em peso maior que a primeira, a matéria que se quer
+proteger tem o efeito desejado. O que, infere-se, não se trata de característica essencial para
+efeito inesperado em função da abrangência da faixa.
+        O método, por conseguinte, como se apresenta descrito, não demonstra qualquer efeito
+inesperado em relação ao estado da técnica, tal a abrangência da matéria que se quer proteger.
+        Não há que se falar em restrição indevida quando a descrição do método na reivindicação
+1 não pode sequer ter seus parâmetros de contorno reconhecidamente definidos.
+        Desta forma, a argumentação do requerente não é aceita, e o quadro reivindicatório
+permanece não estando de acordo com o artigo 25 da LPI.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1       WO2009027197                                                          05/03/2009
+    D2       FI96216                                                               15/02/1996
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                    1-18
+            Aplicação Industrial
+                                                        Não                      ---
+                                                         Sim                    1-18
+                 Novidade
+                                                        Não                      ---
+
+                                                         Sim                     ---
+            Atividade Inventiva
+                                                        Não                     1-18
+
+
+
+Comentários/Justificativas
+
+         As argumentações trazidas pelo requerente não foram suficientes para superarem às
+objeções trazidas no parecer anterior.
+
+         Na página 5/8 de sua manifestação, é relatado que uma nova informação foi adicionada
+à reivindicação 1, que agora detalha que a lama de transferência tenha uma concentração de
+sólidos média maior que a primeira lama do primeiro reator. Ocorre que, nem o relatório
+
+
+
+                                                                                          Página 2
+                                        BR112012029640-0
+
+
+descritivo, nem a manifestação e nem o estado da técnica informam ou sugerem que essa
+diferença eventualmente crie um efeito técnico inesperado. Além disso, supondo-se, num
+exercício de elucubração, que houvesse realmente tal efeito, não está definido em que faixa a
+diferença entre essas duas concentrações apresentaria o referido efeito. Outro ponto a ser
+considerado é que essa diferença a maior não tem sua faixa definida nem mesmo no relatório
+descritivo, entendendo-se daí que não se trata de característica que diferencia o processo de
+forma disruptiva, dada a falta de clareza como tal parâmetro é descrito.
+
+       A antiga reivindicação 07 teve sua novidade reconhecida uma vez que não se descreve a
+diferença entre as concentrações médias nos documentos analisados. Mas quando tal
+informação é inserida dentro do contexto de uma reivindicação principal, não apresenta um
+efeito técnico inesperado, e portanto não há que se falar em atividade inventiva dentro da
+reivindicação principal 1, quando comparada ao estado da técnica.
+
+       Com relação a D2, o mesmo pode ser dito. O requerente afirma que em momento
+nenhum D2 faz referência a relação entre as concentrações de sólidos médias das lamas. O
+mesmo argumento usado para D1 pode ser aqui utilizado. Não há embasamento nem no estado
+da técnica e nem no relatório descritivo, e nem na manifestação do requerente que possa haver
+efeito técnico nesta característica.
+
+       Contudo o argumento do requerente é parcialmente aceito. A adição do detalhe
+concentração média de sólidos na reivindicação 1 faz com a matéria não seja mais
+textualmente idêntica às anterioridades.
+
+       Ocorre que para o privilégio da patente ser concedido, não basta que a matéria seja
+textualmente nova, é importante também que se afira a aplicação industrial e a atividade
+inventiva. O quadro reivindicatório está tão amplo, com tão poucos parâmetros de contorno, que
+a clareza do texto está comprometida e não é possível distinguir nenhum efeito técnico diferente
+das anterioridades analisadas.
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+
+                                                                                          Página 3
+                                    BR112012029640-0
+
+
+                                                       Rio de Janeiro, 21 de julho de 2020.
+
+
+
+
+Flavia Alice Praca Nogueira
+Pesquisador/ Mat. Nº 1281939
+DIRPA / CGPAT I/DIPOL
+Del. Comp. - Port. INPI/DIRPA Nº 002/19
+
+
+
+
+                                                                                  Página 4
+BR112012029640-0
+
+
+
+
+                   Página 5
+

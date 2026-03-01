@@ -1,0 +1,198 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102014013800-5        N.° de Depósito PCT:
+ Data de Depósito:                   06/06/2014
+ Prioridade Unionista:               -
+ Depositante:                        LOCALIZA RENT A CAR S.A. (BRMG)
+ Inventor:                           ALBERTO WAGNER TEIXEIRA CAMPOS; GUSTAVO GONTIJO
+                                     LEAL
+ Título:                             Sistema de autoatendimento com identificação automatizada do
+                                     usuário
+
+                                                              PARECER
+O pedido de patente de invenção trata de sistema de autoatendimento com identificação
+automatizada do usuário.
+
+O depositante não apresentou novo Quadro Reivindicatório e tampouco argumentações técnicas
+em resposta ao parecer emitido no âmbito da Resolução Nº 241/2019, notificado na RPI 2564 de
+27/02/2020 segundo a exigência preliminar (6.21).
+
+Em 18/07/2022, por meio da petição 8702200632000, o depositante apresentou modificações no
+pedido em resposta ao parecer emitido, notificado na RPI 2676 de 19/04/2022 (despacho 7.1).
+Estas modificações estão consideradas no Quadro 1.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                 n.o da Petição      Data
+
+Relatório Descritivo                               22/34 a 29/34
+Quadro Reivindicatório                             10/34 a 13/34               870220063200      18/07/2022
+Desenhos                                           30/34 a 32/34
+Resumo*                                                    30                NPRJ 020140019265   06/06/2014
+*Numeração     correspondente       à       paginação      eletrônica   do      documento
+102014013800-5_020140019265.tif, relativo à petição NPRJ 020140019265 de 06/06/2014.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                            Página 1
+                                         BR102014013800-5
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                         Sim             Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                  x
+O pedido está de acordo com disposto no art. 32 da LPI                   x
+Comentários/Justificativas
+
+A matéria das reivindicações 1 e 2 não é considerada invenção nem modelo de utilidade, pois se
+trata de esquemas, planos, princípios ou métodos comerciais, se enquadrando no disposto no
+Art. 10 (III) da LPI. São pleiteadas características que descrevem um método comercial baseado
+na otimização de serviço prestado de aluguel de carros, envolvendo etapas que não são
+consideradas técnicas. Tais etapas resultam em um método comercial/administrativo que é
+implementado a partir de elementos computacionais corriqueiros e largamente conhecidos na
+data de prioridade do presente pedido de patente de invenção, como reconhecimento
+biométrico, obtenção de dados em banco de dados, utilização de display, tela sensível ao toque,
+dispositivo de captação de imagem etc (observar seção de Comentários/Justificativas do Quadro
+5).
+
+Ressalta-se ainda que, de acordo com a Resolução N° 169/2016 (que institui as Diretrizes de
+Exame de Pedidos de Patente  Bloco II  Patenteabilidade), os itens contidos no inciso III do
+artigo 10 da LPI, mesmo quando utilizarem meios técnicos ou tenham utilidade prática não serão
+considerados invenção. O examinador deve identificar se a matéria reivindicada, considerada
+como um todo, soluciona problemas comerciais, contábeis, financeiros, educativos, publicitários,
+de sorteio e/ou de fiscalização, e não um problema técnico (1.9).
+
+Em sua manifestação (870220063200 de 18/07/2022), o depositante alega que Importa dizer
+que o presente método proporciona uma solução técnica para um problema técnico. O problema
+técnico solucionado é a autenticação biométrica do usuário sem Smart card. Portanto, com a
+devida licença para discordar do ilustre Examinador, a matéria pode ser considerada invenção. A
+aplicação comercial do método (em locação de veículos) não necessariamente o qualifica como
+método comercial, pois a matéria reivindicada resolve um problema de natureza técnica. No
+entanto, todas as características posicionadas na parte caracterizante da reivindicação 1 e na
+reivindicação 2, tais quais pleiteadas, dizem respeito a etapas de otimização do procedimento de
+aluguel de veículos, onde um usuário pode escolher o carro desejado, pode escolher upgrade de
+categoria, recebe instruções para preenchimento de CPF etc. Ou seja, o Quadro Reivindicatório,
+considerado como um todo, trata de procedimento comercial/administrativo para facilitar o
+aluguel de carros por parte de clientes, de tal maneira que não é resolvido um problema técnico.
+Portanto, a argumentação provida pelo depositante não é considerada persuasiva e o
+enquadramento da matéria pleiteada no Art. 10 (III) é mantido.
+
+
+
+
+                                                                                         Página 2
+                                           BR102014013800-5
+
+
+                Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI       x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                     x
+Comentários/Justificativas
+
+        O Quadro Reivindicatório não apresenta os sinais de referência presentes nos Desenhos
+         que acompanham o pedido, prejudicando a compreensão das características técnicas da
+         matéria reivindicada, contrariando o disposto no Art. 25 da LPI e na Instrução Normativa nº
+         30/2013  Art. 4º (VI).
+
+        As reivindicações 1 e 2 definem produto/aparato por características relacionadas a um
+         processo, o que ocasiona falta de clareza e precisão à matéria que se deseja proteger,
+         descumprindo-se o disposto no Art. 25 da LPI e na Instrução Normativa nº 30/2013  Art.
+         4º (III). Um produto/aparato deve ser adequadamente definido por especificações
+         referentes aos aspectos construtivos dos elementos que o constituem e não por
+         características referentes aos processos ou etapas destes eventualmente conduzidos no
+         referido produto/aparato, tampouco por matérias-primas ou insumos utilizados no
+         processo.
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                US20120293642 A1                             22/11/2012
+
+
+       Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade               Cumprimento            Reivindicações
+                                                         Sim                     ---
+            Aplicação Industrial
+                                                        Não                      ---
+                                                         Sim                     ---
+                  Novidade
+                                                        Não                      ---
+
+                                                         Sim                     ---
+             Atividade Inventiva
+                                                        Não                      ---
+Comentários/Justificativas
+
+De acordo com o disposto na seção Comentários/Justificativas do Quadro 2, a matéria pleiteada
+nas reivindicações 1 e 2 está fundamentada na implementação de esquemas, planos, princípios
+ou métodos comerciais. Neste contexto, tais reivindicações não são avaliadas quanto aos
+requisitos de patenteabilidade (vide Resolução n° 169/2016  Diretrizes de Exame de Pedidos
+de Patente  Bloco II  1.1 e 1.2).
+
+
+                                                                                           Página 3
+                                         BR102014013800-5
+
+
+No entanto, exclusivamente por economia processual, são indicados trechos do documento D1
+(previamente citados em parecer de exame técnico notificado na RPI 2676 de 19/04/2022) que
+descrevem características da matéria pleiteada; características essas totalmente posicionadas
+no preâmbulo da reivindicação 1, corroborando o fato de que a matéria reivindicada,
+considerada   como    um todo,     não    soluciona   um problema        técnico   (observar    seção
+Comentários/Justificativas do Quadro 2): o documento D1 revela sistema de autoatendimento
+com identificação automatizada do usuário compreendendo um totem (folha de rosto  abstract
+57, fig. 1), um microcomputador, uma tela sensível ao toque (parágrafo [0154]), caracterizado
+por um terminal de autoatendimento dotado de reconhecimento biométrico facial com uma
+câmara frontal (parágrafo [0068] e fig. 1), a dita câmara composta por carenagem para
+revestimento da câmara frontal, superfície plana acoplada à carenagem (fig. 1, fig. 1E),
+dispositivo de captação de imagem (parágrafo [0053], fig. 1), lâmpadas LED para iluminação
+interna da câmara (parágrafos [0070], [0093], fig. 1), filtros polarizadores para ajuste da
+iluminação interna da câmara (parágrafo [0147]).
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   as reivindicações estão indefinidas (Art. 25 da LPI);
+
+      -   não é considerado invenção, uma vez que incide no Art. 10 da LPI.
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                    Publique-se o indeferimento (9.2).
+
+
+
+                                                                  Rio de Janeiro, 20 de julho de 2022.
+
+
+
+
+Fábio Vieira Batista de Nazaré
+Pesquisador/ Mat. Nº 1958231
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 001/18
+
+
+
+
+                                                                                               Página 4
+

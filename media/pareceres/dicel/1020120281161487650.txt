@@ -1,0 +1,215 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102012028116-3       N.° de Depósito PCT:
+ Data de Depósito:                   01/11/2012
+ Prioridade Unionista:               -
+ Depositante:                        FUNDAÇÃO        CPQD   -    CENTRO      DE     PESQUISA      E
+                                     DESENVOLVIMENTO EM TELECOMUNICAÇÕES (BRSP)
+ Inventor:                           GEOVANE CAYRES MAGALHÃES, RAFAEL DE MELO CUBA,
+                                     CARLOS ALBERTO PREVIDELLI
+ Título:                             Método e sistema de desenvolvimento de aplicações de software
+                                     georreferenciadas 
+
+                                                              PARECER
+A presente invenção pleiteia a criação de soluções abertas e interoperáveis, por meio da criação
+de uma base de dados corporativa que serve de repositório para todas as aplicações que a
+utilizam. Essa base de dados é modelada de forma a atender aos padrões de mercado e poder
+ser acessada por diferentes áreas da organização. Inicialmente, é realizada a etapa de definição
+da Arquitetura de Referência, utilizada no projeto de todas as geoaplicações geradas pelo
+método proposto. A partir da Arquitetura de Referência, é realizada a etapa de Definição do
+Framework de Desenvolvimento, que subsidia a etapa de Geração de Geoaplicações. Esse
+framework é composto por elementos de framework que vão sendo implementados,
+categorizados e armazenados no Repositório de Frameworks de Desenvolvimento. Numa etapa
+seguinte, é definido um ambiente de desenvolvimento que materializa os recursos de
+middleware, de hardware e de qualidade, necessários à etapa de Geração de Geoaplicações. A
+etapa de Definição do Ambiente de Desenvolvimento é realizada a partir dos resultados
+fornecidos pelas etapas anteriores. Na etapa de geração de geoaplicações, são criadas novas
+geoaplicações a partir da adaptação, combinação ou criação de novos elementos de framework,
+que são devidamente incorporados ao Repositório de Frameworks de Desenvolvimento,
+tornando-se disponíveis para a geração de novas geoaplicações. O método proposto, cujas
+etapas são resumidas acima, atende à vasta gama de requisitos das geoaplicações, além de
+implementar o conceito de evolução incremental. A combinação desses dois fatores proporciona
+efeitos técnicos novos, ou seja, uma série de benefícios em relação às soluções existentes.
+Entre esses benefícios, destacam-se: maior independência tecnológica, mais agilidade e maior
+escalabilidade no desenvolvimento de geoaplicações de software para gerência de redes.
+
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                   Página 1
+                                         BR102012028116-3
+
+           Elemento                     Páginas              n.o da Petição           Data
+
+Relatório Descritivo                       36                 018140000925          16/01/2014
+Quadro Reivindicatório                     4                  870210042150          10/05/2021
+Desenhos                                   2                  018120040777          01/11/2012
+Resumo                                     1                  018140000925          16/01/2014
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)            x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                        x
+O pedido está de acordo com disposto no art. 32 da LPI                         x
+Comentários/Justificativas
+
+Conforme conteúdo do parecer 7.1 de junho/2021, todo o quadro reivindicatório do presente
+pedido recaiu no Artigo 10 (V) da LPI pois trata de um "programa de computador em si" cujo
+efeito técnico resume-se a tão somente algo ainda pertencente estritamente à interação do
+programa (software) e o computador (hardware) no qual está sendo executado sem ir além
+disso. Um produto de programa de computador não está excluído da patenteabilidade se,
+quando executado num computador, produz um efeito técnico adicional que vai além das
+interações físicas "normais" entre o programa (software) e computador (hardware). As Diretrizes
+de Exame de Pedidos de Patente envolvendo Invenções Implementadas em Computador (IIC)
+publicado na PORTARIA-INPI-PR Nº 412, DE 23 DE DEZEMBRO DE 2020, item 4.4 parágrafo
+[040], esclarecem dentre variados exemplos que não são patenteáveis reivindicações de
+produtos de um programa de computador.
+
+A Lei do Software (Lei 9609 de 19/02/1998) citada pelo D.Requerente traz em seu Art.1º uma
+definição para programa de computador que utilizamos em patentes, cujas concessões são
+supra-regidas pela LPI (Lei 9279 de 14/05/1996) concomitantemente às Diretrizes de Exame de
+Pedidos de Patente envolvendo Invenções Implementadas em Computador (IIC) publicado na
+PORTARIA-INPI-PR Nº 412, DE 23 DE DEZEMBRO DE 2020. Entretanto, convém observar que
+no Artigo 2º da Lei do Software temos que "Art. 2º O regime de proteção à propriedade
+intelectual de programa de computador é o conferido às obras literárias pela legislação de
+direitos autorais". Ou seja, se o INPI utilizasse tal Lei do Software para examinar pedidos
+nenhum deles envolvendo programas de computador seria concedido porque não seriam
+considerados propriedade industrial e sim direito autoral, recaindo todos no Artigo 10 da LPI.
+Nesse contexto, entendemos que fica clara a distinta aplicabilidade dessas leis, a LPI e a Lei do
+
+
+
+                                                                                         Página 2
+                                           BR102012028116-3
+
+Software e a importância do IIC (PORTARIA-INPI-PR Nº 412, DE 23 DE DEZEMBRO DE 2020)
+na eventual concessão de patente de invenção implementada por programa de computador.
+
+Para melhor diferenciar do presente pedido há diversos casos na literatura de invenções
+implementadas por programas de computador que receberam patentes, cujos programas de
+computador       produziram    efeitos   técnicos    que    foram      além   das    meras   interações
+software-hardware. Um primeiro exemplo foi o caso "Diamond vs Diehr" (US4344142 -
+20/08/1982) o qual resolveu o problema da cura da borracha usando termopares incorporados
+para verificar constantemente a temperatura e, em seguida, alimentando os valores medidos em
+um computador que usou a equação de Arrhenius para calcular quando energia suficiente tinha
+sido absorvida para que a máquina de moldagem abrisse a prensa sem torrar a borracha. Um
+segundo exemplo foi o caso "IMAGE ASSOCIATES" (EP0005954 - 12/12/1979) que consistia em
+um método e um dispositivo para o processamento digital de imagens em que os pontos de uma
+imagem eram representados em duas sequências de imagens bidimensionais que executavam
+um método matemático e que, particularmente, tornavam o processamento mencionado mais
+rápido. Há o caso "KOCH & STERZEL" (EP78101198 - 02/05/1979) o qual consistia em um
+dispositivo de raio-X que a operação era controlada por um programa de computador que
+permitia, evitando sobrecarga, atingir o máximo desempenho desse mesmo dispositivo. Há
+também casos envolvendo Inteligência Artificial como o robô-cirurgião de US2012035764 que
+faz uso de redes-neurais artificiais para aprimorar o método de operação de tal robô. Exaustivos
+casos poderiam ser citados, mas buscamos citar alguns famosos que pudessem esclarecer a
+distinção entre uma invenção envolvendo programa de computador e um pedido que não é
+considerado invenção por se tratar de programa de computador em si.
+
+No caso do presente pedido usar o programa de computador para criar uma base de dados
+corporativa recai portanto no conceito do "programa de computador em si". Opcionalmente, se
+alguém irá (opcionalmente ou não) fazer uso dos dados da tal base não é considerado inventivo.
+Visualizamos as emendas e supressão de reivindicações realizadas pelo D. Requerente em seu
+quadro reivindicatório que o fez visando sanar conflitos com documentos D1-D5 (quadro 4),
+porém não foram suficientes para resolver a questão de seu pedido ter recaído no Artigo 10 (V)
+da LPI.
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                 Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI            x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI          x
+Comentários/Justificativas
+---
+
+                           Quadro 4  Documentos citados no parecer
+
+
+                                                                                                Página 3
+                                        BR102012028116-3
+
+ Código                                Documento                               Data de publicação
+    D1                               WO01/24003 A1                                 05/04/2001
+    D2                             US2012256918 A1                                 11/10/2012
+    D3                               CN102739771 A                                 17/10/2012
+    D4                               CN102682110 A                                 19/09/2012
+    D5                               CN101996249 A                                 30/03/2011
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento               Reivindicações
+                                                    Sim                          ---
+            Aplicação Industrial
+                                                    Não                          ---
+                                                    Sim                          ---
+                  Novidade
+                                                    Não                          ---
+
+                                                    Sim                          ---
+            Atividade Inventiva
+                                                    Não                          ---
+
+
+
+Comentários/Justificativas
+
+Não serão alocadas no Quadro 5 as reivindicações do presente pedido uma vez que o mesmo
+não foi considerado invenção por recair no Artigo 10 (V) da LPI como explicado no Quadro 2.
+
+Conclusão
+
+      O D. Requerente respondeu o parecer 7.1 de junho/2021 desta Autarquia via protocolo
+870210080726 em 01/09/2021 expondo seus argumentos em defesa de seu pedido. Após análise,
+concluímos que os argumentos do D. Requerente não foram suficientes para alterar o nosso
+posicionamento.
+
+      Assim sendo, de acordo com o Art. 37, opino pelo indeferimento do presente pedido, uma
+vez que:
+
+         - não é considerado invenção, uma vez que incide no Art. 10 da LPI.
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                             Rio de Janeiro, 5 de outubro de 2021.
+
+
+
+
+                                                                                          Página 4
+                                      BR102012028116-3
+Marcelo Ricardo A. C. Tredinnick
+Pesquisador/ Mat. Nº 1472889
+DIRPA / CGPAT III/DICEL
+
+
+
+     De acordo com o parecer acima, indefiro o presente pedido como Patente de Invenção.
+
+                                                            Publique-se o indeferimento (9.2).
+
+
+
+
+Elias Lawrence Marques
+Chefe de Divisão/ Mat. Nº 1547032
+DIRPA / CGPAT III/DICEL
+Del. Comp. - Port. INPI/PR Nº971/16
+
+
+
+
+                                                                                     Página 5
+

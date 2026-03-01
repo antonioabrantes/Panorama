@@ -1,0 +1,153 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102012010569-1           N.° de Depósito PCT:
+ Data de Depósito:                   04/05/2012
+ Prioridade Unionista:               -
+ Depositante:                        ROMA JENSEN COMÉRCIO E INDÚSTRIA LTDA (BRSP)
+ Inventor:                           GUSTAVO JENSEN @FIG
+ Título:                             Brinquedo com dispositivo eletrônico microprocessado em mémoria 
+
+                                                                PARECER
+         O INPI emitiu a exigência de código 6.6.1 na RPI 2501 de 11/12/2018, para fins de
+manifestação do depositante quanto à ocorrência de acesso ao Patrimônio Genético nacional e/ou
+Conhecimento Tradicional Associado para obtenção do objeto do presente pedido. Por meio da
+petição nº 870190009169 de 29/01/2019, o(a) Depositante informou que não houve acesso ao
+patrimônio genético nacional e/ou conhecimento tradicional associado.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                       1-9               870210044410           17/05/2021
+
+Quadro Reivindicatório                                      1                870210044410           17/05/2021
+
+Desenhos                                                   1-3               870210044410           17/05/2021
+
+Resumo                                                      1                870210044410           17/05/2021
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR102012010569-1
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+Comentários/Justificativas
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                   US5376038                                    27/12/1994
+
+    D2                                 US20030162475                                  28/08/2003
+
+    D3                                   US6544097                                    08/04/2003
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                     1
+           Aplicação Industrial
+                                                        Não                       -
+                                                         Sim                     1
+                 Novidade
+                                                        Não                       -
+
+                                                         Sim                      -
+           Atividade Inventiva
+                                                        Não                      1
+Comentários/Justificativas
+
+      Através da petição 870210100207 de 29/10/2021, a Requerente manifestou-se sobre o
+despacho 7.1 (conhecimento de parecer técnico), publicado na RPI 2639 de 03/08/2021,
+novamente alegando que o presente pedido reivindica uma boneca que conta estórias, piadas,
+canta canções infantis, discursa sobre temas referentes à geografia, matemática, português,
+ciências, história, inglês e profere parlendas, sendo, essencialmente, uma boneca educativa que
+interage com a criança de modo a auxiliar no seu desenvolvimento cognitivo. A requerente optou
+por não modificar o quadro reivindicatório já apresentado na petição 870210044410 de
+17/05/2021.
+
+      Em que pesem as argumentações da Requerente, não há efeito técnico novo ou
+surpreendente no fato do brinquedo com dispositivo eletrônico microprocessado e memória
+representar uma boneca com o formato substancial de uma criança humana, dotado,
+internamente, de um dispositivo eletroeletrônico, uma caixa acústica com alto-falante, para a
+propagação dos sons; interruptor, do tipo LIGA/DESLIGA responsável pelo fornecimento ou
+interrupção da energia elétrica ao circuito eletroeletrônico; compartimento para acondicionamento
+de pilhas dotado de tampa e elemento de fixação, abrangendo a caixa, dotada de base e tampa.
+
+
+
+                                                                                            Página 2
+                                         BR102012010569-1
+
+
+Estas características, inclusive, estão posicionadas no preâmbulo da reivindicação independente
+1, corroborando com o entendimento que estas já são compreendidas pelo estado da arte.
+
+      O fato do brinquedo adicionalmente conter no interior, circuito eletroeletrônico, que interliga
+todos os componentes e compreende pelo menos: uma placa de circuito impresso com
+microprocessador; memória, na qual todos os sons e falas que serão emitidos são armazenados;
+dois sensores de toque posicionados nas regiões correspondentes as mãos direita e esquerda da
+boneca; e conjuntos de fios para interligar os componentes descritos, é considerado evidente para
+um técnico no assunto, a partir de D1 (todo o documento, especialmente figuras 1-5 e coluna 4,
+linhas 17-37; coluna 6, linha 52-coluna 7, linha 2; coluna 9, linhas 26-35); D2 (parágrafos [0026],
+[0038], [0044]) ou D3 (vide Figuras 4-8 e reivindicação 1). Por estas serem as características
+técnicas de fato pleiteadas na reivindicação 1 e por estas já serem compreendidas pelo estado da
+arte (documentos D1-D3), considera-se que a reivindicação independente 1 é desprovida de
+atividade inventiva (Art. 8º, em vista do Art. 13, da LPI).
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                              Rio de Janeiro, 21 de janeiro de 2022.
+
+
+
+
+Fabrício Meneses Resende
+Pesquisador/ Mat. Nº 1568422
+DIRPA / CGPAT IV/DINEC
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                           Página 3
+

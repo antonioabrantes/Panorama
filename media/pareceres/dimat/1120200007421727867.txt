@@ -1,0 +1,157 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112020000742-0           N.° de Depósito PCT:US2018/042167
+ Data de Depósito:                   13/07/2018
+ Prioridade Unionista:               US 62/532,565 (14/07/2017); US 62/668,604 (08/05/2018)
+ Depositante:                        EQUALAIRE SYSTEMS, INC. (US)
+ Inventor:                           DANE HENRY
+ Título:                             Módulo de controle eletrônico para um sistema de inflação de pneu 
+
+                                                              PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                               1/43 a 43/43              870230046220           31/05/2023
+Quadro Reivindicatório                                 1/5 a 5/5             870230046220           31/05/2023
+Desenhos                                            1/14 a 14/14             870200005805           13/01/2020
+Resumo                                                     1/1               870230046220           31/05/2023
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                                   X
+Comentários/Justificativas
+
+
+          A requerente reapresentou através da petição 870230046220 de 31/05/2023, após
+ciência de parecer 7.1 publicada na revista 2722 de 07/03/2023, o relatório descritivo, o resumo
+e o quadro reivindicatório, entretanto este ainda infringindo o Artigo 32 da LPI com a inclusão de
+matéria na reivindicação R10, matéria esta não pleiteada no quadro reivindicatório apresentado
+na petição anterior (870210063316 de 13/07/2021) ao pedido de exame. Conforme Resolução
+Nº 093/2013, Parte 1, item 1.1 (2,3), o Artigo 32 da LPI relata que para melhor esclarecer ou
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR112020000742-0
+
+definir o pedido de patente, o depositante poderá efetuar alterações no pleito até o requerimento
+do exame, desde que estas se limitem à matéria inicialmente revelada no pedido.
+
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                            Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI       X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI     X
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                              Data de publicação
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento             Reivindicações
+                                                         Sim               R1 a R9 e R11
+           Aplicação Industrial
+                                                        Não                      ------
+                                                         Sim               R1 a R9 e R11
+                 Novidade
+                                                        Não                      ------
+                                                         Sim               R1 a R9 e R11
+           Atividade Inventiva
+                                                        Não                      ------
+Comentários/Justificativas
+
+
+
+       A requerente reapresentou através da petição 870230046220 de 31/05/2023 os seguintes
+argumentos (baseados nas Resoluções Nº 093/2013 e Nº 124/2013) quanto à rejeição do quadro
+reivindicatório devido ao fato da reivindicação dependente R10 infringir o Artigo 32 da LPI:
+
+-Modificações nas reivindicações são aceitas desde que não seja constatado que houve
+aumento do seu escopo, quando comparado com o que estava sendo reivindicado quando da
+solicitação do exame do pedido de patente;
+
+-A adição de reivindicações dependentes ao quadro reivindicatório não possui efeito no escopo
+de proteção do pedido uma vez que a matéria da reivindicação dependente inclui, além das
+características nela definida, também todas as características das reivindicações as quais ela
+depende. Em outras palavras, o escopo de uma reivindicação dependente está contido no escopo
+definido na reivindicação independente a que ela se refere. Assim, as reivindicações
+
+
+
+                                                                                            Página 2
+                                       BR112020000742-0
+
+independentes delimitam o escopo de proteção enquanto que as reivindicações dependentes
+possuem a função de acrescentar detalhamentos e alternativas à matéria das reivindicações
+independentes.
+
+
+
+       Os argumentos da requerente não são persuasivos. A matéria da reivindicação dependente
+R10, apesar de estar fundamentada no relatório descritivo, não pode ser aceita pelo fato dela não
+ser um detalhamento da matéria a que ela se refere. O pleito de R10 está descrito da seguinte
+forma: sistema, de acordo com a reivindicação 5, em que o módulo de controle eletrônico é
+caracterizado por compreender ainda: um interruptor de palheta ou sensor de efeito Hall . O
+produto interruptor de palheta ou sensor de efeito Hall não é um detalhamento da matéria
+descrita pela reivindicação independente R5, e sim uma inclusão de um produto no módulo de
+controle eletrônico, o que caracteriza inclusão de matéria conforme versa o Artigo 32 da LPI.
+
+
+
+       Apesar das reivindicações citadas no Quadro 5 serem passíveis de patenteabilidade de
+acordo com a 1a analise, com o não cumprimento da exigência de exclusão da reivindicação R10,
+todo o quadro reivindicatório será negado.
+
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que há
+acréscimo de matéria no escopo das reivindicações (Art. 32 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                              Rio de Janeiro, 13 de junho de 2023.
+
+
+Marcelo Rocha Lopes
+Pesquisador/ Mat. Nº 1106163
+DIRPA / CGPAT IV/DIMAT
+Deleg. Comp. - Port. INPI/DIRPA Nº 012/18
+
+
+
+
+                                                                                          Página 3
+

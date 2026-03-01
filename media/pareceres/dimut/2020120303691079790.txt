@@ -1,0 +1,140 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR202012030369-3           N.° de Depósito PCT:
+ Data de Depósito:                   29/11/2012
+ Prioridade Unionista:               -
+ Depositante:                        SIMONE MONJIAN DE MENEZES (BRSP)
+ Inventor:                           SIMONE MONJIAN DE MENEZES
+ Título:                             Disposição aplicada em trava digital multifuncional 
+
+                                                                PARECER
+
+     1. O Requerente apresentou manifestação referente ao parecer técnico publicado na RPI
+2492 de 09/10/2018 por meio da petição 870190001001 de 04/01/2019. Para fins de continuidade
+do exame, foram analisadas as seguintes vias:
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                  Nº da Petição          Data
+Relatório Descritivo                                     1a7                 DESP 018120043966     29/11/2012
+Quadro Reivindicatório                                      1                DESP 018120043966     29/11/2012
+Desenhos                                                 1a4                 DESP 018120043966     29/11/2012
+Resumo                                                      1                DESP 018120043966     29/11/2012
+Comentários / Justificativas:
+     2. Nada a comentar ou justificar.
+
+               Quadro 2  Considerações referentes aos Artigos 10, 18, 23 e 32 da LPI
+Artigos da LPI                                                                                        Sim     Não
+A matéria enquadra-se no Art. 10 da LPI (não se considera modelo de utilidade)                                 X
+A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                                                    X
+O pedido apresenta unidade técnico funcional (Art. 23 da LPI)                                          X
+O pedido está de acordo com disposto no Art. 32 da LPI                                                 X
+Comentários / Justificativas:
+     3. Nada a comentar ou justificar.
+                     Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                                   Sim         Não
+O relatório descritivo está de acordo com disposto no Art. 24 da LPI                              X
+O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI                                        X
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                  Página 1
+                                         BR202012030369-3
+
+Comentários / Justificativas:
+
+    4. O parecer técnico anterior relatou que o quadro reivindicatório do presente pedido não
+         estava claro e preciso (art. 25 da LPI), uma vez que no mesmo figuravam trechos
+         explicativos, contrariando o disposto no item 15.2.1.3.2, (k) do Ato Normativo n.° 127/1997.
+         Sobre tal fato, não foram identificadas alegações, ou contestações, na manifestação
+         apresentada pelo requerente.
+                           Quadro 4  Documentos citados no parecer
+ Código                               Documento                               Data de publicação
+    D1                               PI0704820 A2                                  11/08/2009
+    D2                              CN201343911 Y                                  11/11/2009
+
+
+       Quadro 5  Análise dos Requisitos de Patenteabilidade (Art. 9º, 11, 14 e 15 da LPI)
+       Requisito de Patenteabilidade            Cumprimento                Reivindicações
+                                                     Sim                           1
+            Aplicação Industrial
+                                                     Não                           -
+                                                     Sim                           1
+                    Novidade
+                                                     Não                           -
+                                                     Sim                           -
+                Ato Inventivo
+                                                     Não                           1
+Comentários / Justificativas:
+
+   5. O parecer técnico anterior relatou que o presente pedido não apresentava ato inventivo
+(art. 14 da LPI), devido à antecipação das características técnicas por parte de D1, e indicando
+que as características não antecipadas decorriam de maneira comum do estado da técnica, tal
+como visto complementarmente em D2. Desta forma o depositante, em sua manifestação, pontua
+que:
+         (a) a trava (1) para travamento de objetos diversos encontra-se no estado da técnica, não
+            procedendo o item (4.a) apresentado no parecer técnico anterior, e portanto tal
+            elemento encontra-se devidamente posicionado antes da expressão caracterizado
+            por;
+         (b) D1 especifica uma trava eletro-mecênica, mas que o aludido modelo presente no
+            pedido trata-se de uma trava eletrônica digital, com teclado alfanumérico digital, e
+            baseando-se no significado do termo eletromecânico sustenta que D1 não é uma
+            anterioridade do estado da técnica, por não tratar-se de um aparelho digital.
+
+   6. Considerando a argumentação resumida em (5.a), entende-se que os comentários
+presentes no itens (4a) a (4k) do parecer técnico anterior justamente elencam os elementos
+técnicos reivindicados que estão antecipados pelo estado da técnica, não havendo irregularidades
+com relação ao posicionamento, na redação da reivindicação, do elemento técnico trava (1).
+
+
+
+
+                                                                                            Página 2
+                                            BR202012030369-3
+
+    7. Considerando a argumentação resumida em (5.b), entende-se que D1 possui como título
+trava eletro-mecânica com painel digital e senha para destravamento. Não apenas pela redação
+de seu título, mas com o conteúdo de seus ensinamentos, há de se convir que além do mero
+significado de termos técnicos, as características técnicas reivindicadas já encontram-se
+presentes no estado da técnica, representados em D1 e D2. Ademais, por mais que se conceitue
+o objeto reivindicado como digital, o bloqueio da trava só pode ocorrer através de alguma
+interação mecânica, seja por deslocamento de peças móveis, como um ferrolho, ou pela
+submissão de um campo eletro-magnético sobre os elementos de engate. Assim, identificando-se
+o objeto presente em D1, através do entendimento do seu relatório descritivo, é imediato perceber
+que se trata do mesmo objeto tal como reivindicado no presente pedido de patente de modelo de
+utilidade.
+
+Conclusão:
+
+    8. Assim sendo, de acordo com o art. 37, indefere-se o presente pedido, uma vez que:
+        (a) não atende ao requisito de ato inventivo (art. 9º combinado com o art. 14 da LPI);
+        (b) as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+             descritivo (art. 25 da LPI).
+
+    9. De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+
+                                                                    Publique-se o indeferimento (9.2).
+
+
+
+                                                               Rio de Janeiro, 21 de outubro de 2019.
+
+
+Raul Flores da Fonseca
+Pesquisador/ Mat. Nº 1951007
+DIRPA/CGPATIV/DIPATXVI
+Del. Comp. - Port. INPI/DIRPA Nº008/15
+
+
+
+
+                                                                                             Página 3
+

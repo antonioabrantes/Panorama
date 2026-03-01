@@ -1,0 +1,211 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR112017002549-3         N.° de Depósito PCT: IB2015/056101
+ Data de Depósito:                     11/08/2015
+ Prioridade Unionista:                 US 62/035,748 (11/08/2014)
+ Depositante:                          LALLEMAND HUNGARY LIQUIDITY MANAGEMENT LLC (HU)
+ Inventor:                             ALLAN FROEHLICH, BROOKS HENNINGSEN, SEAN COVALLA,
+                                       RINTZE M. ZELLE
+ Título:                               Mutações em proteínas de grupos de ferro e enxofre que aperfeiçoam
+                                       a utilização de xilose 
+
+                                                                 PARECER
+
+
+           Em 06/03/2023, por meio da petição 870230018772, o Depositante apresentou
+argumentações e modificações no pedido em resposta ao parecer de exigência emitido pelo INPI
+(notificação de despacho 6.1, publicado na RPI 2709 de 06/12/2022).
+
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                           X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)            X
+
+O pedido refere-se a Sequências Biológicas                                                             X
+
+Comentários/Justificativas
+PATRIMÔNIO GENÉTICO: A requerente apresentou declaração negativa de acesso ao
+patrimônio genético nacional através da petição 870170008430 de 08/02/2017.
+
+LISTAGEM DE SEQUÊNCIAS: A requerente apresentou nova listagem de sequências em
+23/03/2020 por meio da petição 870200038088. Mediante exame formal, a referida listagem foi
+considerada apta para o exame técnico.
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas      n.o da Petição             Data
+Relatório Descritivo                                          1 a 85       870230018772           06/03/2023
+Listagem de sequências em
+                                                               ----             ----                  ----
+formato impresso
+Listagem de sequências*                            Código de Controle      870200038088           23/03/2020
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                                Página 1
+                                                        BR112017002549-3
+
+Quadro Reivindicatório                                   1a2           870230018772        06/03/2023
+Desenhos                                                1 a 10         870170008430        08/02/2017
+Resumo                                                      1          870230018772        06/03/2023
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+     C5B1BA68669145F0 (Campo 1) e 545A6F513B5ED6E0 (Campo 2).
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                   Sim           Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                              X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                      X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                               X
+O pedido está de acordo com disposto no art. 32 da LPI                                X
+Comentários/Justificativas
+
+
+
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                   Sim           Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                             X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                           X
+Comentários/Justificativas
+       Em parecer anterior, foram apontadas irregularidades no que diz respeito ao
+cumprimento do art. 24 da LPI. Os esclarecimentos prestados apresentados em manifestação
+não sanam as irregularidades apontadas pelas seguintes razões:
+
+- A requerente apresenta esclarecimentos, no entanto, o relatório descritivo segue inalterado e
+sem clareza. Alega a requerente:
+
+                              Ao contrário da alegação no parecer ora sob resposta, fica claro a partir
+                             do relatório descritivo que a cepa de base descrita no exemplo 1 é a cepa
+                             de levedura industrial usada como cepa de base para todos os
+                             recombinantes descritos nos exemplos 2 a 9 do relatório descritivo (ênfase
+                             adicionada):
+
+                             [000146] Uma cepa de S. cerevisiae foi criada que foi adequada para a
+                             testagem das isomerases de xilose funcionais. O lócus de GRE3 de uma
+                             cepa de levedura industrial foi substituído por pacotes de expressão para
+                             os genes de trajetória de fosfato de pentose RPE1, RKI1, TKL1, e TAL1
+                             bem como a xiulocinase de S. cerevisiae nativa XKS1 (Figura 1).
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                              Página 2
+                                                          BR112017002549-3
+
+                               Portanto, diante do exposto, o técnico no assunto não teria dificuldade em
+                               entender que as cepas XUS-1 e XUS-2 dos exemplos 3, 4, 5, 7, 8 e 9,
+                               juntamente com as diferentes cepas exemplificadas no exemplo 6 para
+                               testar diferentes xilose isomerases, são feitas a partir de cepas de base
+                               que foram manipuladas conforme descrito no exemplo 1. Essas cepas de
+                               base foram ainda manipuladas para expressar diferentes xilose isomerase
+                               ou para engenharia direcionada das mutações identificadas, conforme
+                               indicado no exemplo correspondente usando técnica de rotina na arte.
+
+       Não se verifica a obviedade alegada pela requerente. Ressalta-se que o relatório
+descritivo deve revelar de forma clara, consistente e precisa as informações referentes à
+invenção, considerando-se os exemplos apresentados as melhores formas de execução do
+invento. Nesse aspecto, não deve restar margem para interpretações pelo técnico no assunto.
+No que pesem os esclarecimentos quanto ao exemplo 1, seguem obscuras as naturezas das
+cepas XUS1 e XUS2 e suas variantes. Por tudo aquilo já discutido em parecer anterior, é
+injustificada a relutância em apresentar uma revisão criteriosa do relatório descritivo. Assim,
+mantém-se o entendimento anterior de que o presente pedido não atende àquilo disposto pelo
+artigo 24 da LPI no que diz respeito a suficiência descritiva.
+
+
+
+       Em parecer anterior, foram apontadas irregularidades no que diz respeito ao
+cumprimento do art. 25 da LPI. Os esclarecimentos prestados apresentados em manifestação
+não sanam as irregularidades apontadas em sua totalidade. Persistem as seguintes
+irregularidades:
+
+- Reivindicações 1 a 3: A reivindicação 1 segue incoerente conforme apontado anteriormente,
+uma vez que é mantida a menção a uma ou mais mutações. Ainda, as reivindicações 1 a 3
+seguem fazendo menção a mutações não especificadas em sequência de polinucleotídeos, a
+qual é definida em função de proteína codificada. Ressalta-se que devem ser observados os
+itens 6 e 6.1 das Diretrizes de Exame de Pedidos de Patente na Área de Biotecnologia, os quais
+dispõem que polinucleotídeos devem ser definidos em função de sua sequência de nucleotídeos
+através de SEQ ID apresentada em listagem de sequências.
+
+- Reivindicações 1 a 6: Aquilo discutido sobre a fundamentação da matéria em parecer anterior
+segue sem esclarecimentos ou alterações no pedido que permitam identificar adequadamente o
+background genético das cepas reveladas.
+
+
+
+                                    Quadro 4  Documentos citados no parecer
+
+ Código                                                 Documento                     Data de publicação
+   ----        ----                                                                          ----
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                             Página 3
+                                                          BR112017002549-3
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                      Cumprimento              Reivindicações
+                                                                            Sim                  1 a 6 (limitadas)
+              Aplicação Industrial
+                                                                           Não                        ----
+                                                                            Sim                  1 a 6 (limitadas)
+                      Novidade
+                                                                           Não                        ----
+
+                                                                            Sim                  1 a 6 (limitadas)
+              Atividade Inventiva
+                                                                           Não                        ----
+Comentários/Justificativas
+
+       Diante da falta de clareza, a matéria examinada referente à reivindicação limitou-se a
+uma cepa de levedura compreendendo a YFH1 de sequência SEQ ID NO:31 apresentando a
+substituição T163P e, adicionalmente, a expressão de uma xilose isomerase heteróloga. Sem
+prejuízo daquilo discutido nos quadros anteriores do presente parecer, as anterioridades
+apontadas em parecer de exigência preliminar 6.21 não são prejudiciais à matéria pleiteada, de
+modo que esta atende aos requisitos conforme artigos 8, 11, 13 e 15 da LPI.
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -      não apresenta suficiência descritiva (Art. 24 da LPI)
+
+      -      as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+             descritivo (Art. 25 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                                        Publique-se o indeferimento (9.2).
+
+
+
+                                                                                      Rio de Janeiro, 16 de junho de 2023.
+
+
+
+
+Bruno Leonardo Bozaquel Morais
+Pesquisador/ Mat. Nº 1322859
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+013/19
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                                Página 4
+

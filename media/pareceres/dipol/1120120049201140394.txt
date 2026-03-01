@@ -1,0 +1,175 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112012004920-8           N.° de Depósito PCT:KR2010/006229
+ Data de Depósito:                   13/09/2010
+ Prioridade Unionista:               KR 10-2009-0086244 (14/09/2009)
+ Depositante:                        SK CHEMICALS CO., LTD. (KR)
+ Inventor:                           ROY LEE, JAE-BONG LIM, WON-JAE YOON, DONG-JIM KIM
+ Título:                             Resina de polieser e metodo para preparae a mesma 
+
+                                                                PARECER
+          Em resposta ao parecer técnico notificado pela publicação na RPI n°2535 de 6 de agosto
+de 2019, a Requerente apresentou manifestação na petição n° 870190111716 de 1 de novembro
+de 2019, onde anexou alegações e um novo quadro reivindicatório emendado em razão das
+objeções levantadas no parecer anterior com relação ao Art. 25 e ao Art. 8º combinado com os
+Art. 11 e 13 da LPI.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 16               018120006603           05/03/2012
+Quadro Reivindicatório                                   1a3                 870190111716           01/11/2019
+Desenhos
+Resumo                                                      1                08120006603            05/03/2012
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR112012004920-8
+
+
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                            Data de publicação
+    D1                                 US2004092703                                  13/05/2004
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                   1a6
+             Aplicação Industrial
+                                                        Não                      -
+                                                         Sim                   1a6
+                  Novidade
+                                                        Não                      -
+
+                                                         Sim                     -
+             Atividade Inventiva
+                                                        Não                    1a6
+
+
+
+Comentários/Justificativas
+
+          A análise das alegações da depositante e do novo quadro reivindicatório apresentado na
+petição nº 870190111716 de 01/11/2019 permitiu concluir que o pedido em questão permanece
+não atendendo ao Art. 8º combinado com os Art. 13 da LPI, devido aos motivos expostos a
+seguir:
+
+          O novo quadro reivindicatório apresentado pela Requerente é composto por 6
+reivindicações, sendo a nova reivindicação [1] emendada e mais restrita com relação à faixa de
+concentração dos componentes de diol, que agora compreendem (i) 42 a 58 mol% de 1,4
+ciclohexanodimetanol (vs. 20 a 91% de 1,4 ciclohexanodimetanol na antiga reivindicação [1]) e
+(ii) 19 a 40 mol% de isosorbida (vs. 4 a 40% de isosorbida na antiga reivindicação [1]) com
+relação aos componentes totais de diol. (nosso grifo)
+
+          Como já apontado anteriormente, o documento D1 é considerado a anterioridade mais
+próxima da matéria pleiteada do presente pedido pois descreve uma resina copolimerizada de
+poliéster compreendida mais preferencialmente por 80% a 100% em mol de seus componentes
+provenientes de ácido dicarboxílico sendo proveniente de ácido tereftálico e sua fração de diol é
+compreendida por 50% a 99,75% em mol de 1,4-ciclohexanodimetanol e 0,25% a 50% em mol
+de isosorbida com relação aos componentes totais de diol, e tendo a resina de poliéster uma Tg
+de 97 ºC ([0033]; [0037] a [0038]; exemplo 2; reivindicação 35)]. O documento D1 também
+descreve que o componente de diácido pode ser compreendido um ou mais dentre ácidos
+
+
+
+                                                                                           Página 2
+                                        BR112012004920-8
+
+
+dicarboxílicos aromáticos com 8 a 14 átomos de carbono e ácidos dicarboxílicos alifáticos com 4
+a 12 átomos de carbono ([0025]) e descreve que a resina copolimerizada de poliéster pode ser
+usada na fabricação de garrafas, filmes e fibras ([0040]). Além disso, o documento D1 descreve
+que o processo para preparar a resina copolimerizada de poliéster é compreendido pelas etapas
+de reação de esterificação ou transesterificação dos componentes diácidos e dióis, seguida da
+reação de policondensação dos produtos da esterificação ou transesterificação, e que pode ser
+obtido por diversos métodos tradicionais conhecidos do estado da técnica ([0043]; exemplo 2).
+
+          As reivindicações [22] e [30] do documento D1 descrevem que o poliéster é
+compreendido por até 40% em mol de isosorbida do total dos componentes de diol do poliéster,
+assim como o presente pedido de invenção, o que, a princípio, contraria a novidade da matéria
+relativa à fração de isosorbida. Por outro lado, o documento D1 não descreve explicitamente
+que a faixa de concentração do 1,4-ciclohexanodimetanol no total dos componentes de diol do
+poliéster seja de 42 a 58 mol%. Desta forma, as reivindicações [1] a [6] podem ser consideradas
+novas, de acordo com o disposto no Art. 11 da LPI.
+
+       No entanto, a mera escolha desta faixa de concentração de 1,4-ciclohexanodimetanol
+não garante a atribuição de atividade inventiva para a seleção (Resolução PR nº169/2016 
+Diretrizes de Exame de Pedidos de Patente  Itens 5.31 a 5.34). O depositante relaciona esta
+faixa de concentração ao fornecimento de uma alta resistência térmica da composição, ou seja,
+uma Tg > 90 ºC, porém o documento D1 também descreve uma resina de poliéster com Tg = 97
+ºC. Desta forma, a nova reivindicação [1] não pode ser considerada dotada de atividade
+inventiva, de acordo com o Art. 8º combinado com o Art. 13 da LPI.
+
+       As novas reivindicações [2] a [6] não sofreram emendas, e assim como exposto no
+parecer técnico anterior não revelam nenhuma característica técnica diferente daquelas
+apresentadas pelo documento D1. E portanto, não podem ser consideradas dotadas de
+atividade inventiva, de acordo com o Art. 8º combinado com o Art. 13 da LPI.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -    não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 21 de janeiro de 2020.
+
+
+
+                                                                                          Página 3
+                               BR112012004920-8
+
+
+
+
+Vitor Brait Carmona
+Pesquisador/ Mat. Nº 2317407
+DIRPA / CGPAT I/DIPOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/18
+
+
+
+
+                                                  Página 4
+

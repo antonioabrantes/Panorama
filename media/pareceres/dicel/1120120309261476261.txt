@@ -1,0 +1,226 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112012030926-9          N.° de Depósito PCT:US2011/039161
+ Data de Depósito:                   03/06/2011
+ Prioridade Unionista:               US 12/794,508 (04/06/2010)
+ Depositante:                        APPLE INC. (US)
+ Inventor:                           CLAYTON WILLIAMSON
+ Título:                             Sistema para isolamento da vibração 
+
+                                                                PARECER
+A Requerente apresentou modificações no pedido em resposta ao parecer emitido (despacho
+7.1). Estas modificações estão consideradas no Quadro 1.
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-16               870210077052           23/08/2021
+Quadro Reivindicatório                                     1-5               870210077052           23/08/2021
+Desenhos                                                   1-3               020130009682           04/02/2013
+Resumo                                                      1                870210077052           23/08/2021
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                                   x
+Comentários/Justificativas
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                      BR112012030926-9
+
+No parecer anterior constava:
+
+Reivindicação 1: A "região interna do diafragma (122);"não é plana.
+Portanto, não está claro (Art. 25) como o "ângulo" definido na reivindicação 1 é formado. Em
+particular, não é aparente se este ângulo é formado por um plano que descreve o topo da região
+interna do diafragma ou por uma tangente em a borda do regior interno do diafragma. Uma vez
+que características técnicas pouco claras não podem ser usadoas para distinguir uma invenção da
+técnica anterior, a definição do ângulo não pode ser considerada na aferição da novidade /
+atividade inventiva.
+
+Não foi apresentada argumentação convincente nesse sentido, tampouco foi modificada a
+redação do dito trecho, permanecendo portanto a falta de clareza (Art. 25).
+
+A requerente argumenta que:
+
+a) Uma revisão cuidadosa da Figura 4 do presente pedido mostra a porção do
+diafragma 120 que está fora do formador de bobina de voz [332] e se sobrepõe e se
+liga à região interna da suspensão 134 do elemento de suspensão 132 externo
+e, assim, pode-se observar qual porção do diafragma se flexiona em um
+ângulo definido entre 45 graus e 135 graus em relação à região interna do
+diafragma.
+
+Em contrapartida, consta na Reivindicação 1:
+
+b) por meio da qual a região interna do diafragma (122) é localizada no interior do
+formador de bobina de voz (332) e a região externa do diafragma (124) é localizada no exterior
+do formador de bobina de voz (332); e
+
+Há uma contradição entre os trechos negritados anteriormente pois:
+    no item (a) o diafragma 120 (que inclui a região interna do diafragma 122) está fora
+      do formador de bobina de voz [332],
+    em contrapartida, no item (b) a região interna do diafragma (122) está localizada
+      no interior do formador de bobina de voz (332).
+
+Permanece portanto a falta de clareza quanto ao ângulo apontada anteriormente (Art. 25).
+
+
+
+                        Quadro 4  Documentos citados no parecer
+
+ Código                             Documento                              Data de publicação
+    D1     US20080205688A1                                                 28/08/08
+
+
+
+
+                                                                                       Página 2
+                                       BR112012030926-9
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento                Reivindicações
+                                                   Sim                         1-18
+          Aplicação Industrial
+                                                   Não                          -
+                                                   Sim                         1-18
+                Novidade
+                                                   Não                          -
+
+                                                   Sim                          -
+           Atividade Inventiva
+                                                   Não                         1-18
+
+
+
+Comentários/Justificativas
+A reivindicação 1 não atende ao requisito atividade inventiva, pois decorre de maneira evidente ou
+óbvia para um técnico no assunto a partir do documento D1, conforme a seguir:
+Alto-falante (100), caracterizado pelo fato de que compreende:
+- similar a D1 (speaker 1k Fig. 12 par. 93 a 100)
+um diafragma (120) que se estende de uma região interna do diafragma (122) para uma região
+externa do diafragma (124)
+- similar a D1 (diafragma 6a Fig. 12 par. 93 a 100)
+ a região externa do diafragma (124) flexionando-se em um ângulo definido entre 45 graus
+e 135 graus em relação à região interna do diafragma (122);
+- como detalhado anteriormente o dito ângulo carece de clareza. Essa característica dão pode
+portanto ser usada como diferencial do presente pedido.
+uma carcaça (102);
+- similar a D1 (frame 3b Fig. 12 par. 93 a 100)
+um formador de bobina de voz (332) localizado sob o diafragma (120) e proporcionando
+um suporte estrutural a este, o formador de bobina de voz (332) tendo uma borda
+superior que faz interface com o diafragma (120) entre a região interna do diafragma (122)
+e a região externa do diafragma (124),
+- similar a D1 (bobina 4 Fig. 12 par. 93 a 100)
+por meio da qual a região interna do diafragma (122) é localizada no interior do formador de
+bobina de voz (332) e a região externa do diafragma (124) é localizada no exterior do formador de
+bobina de voz (332); e
+- como detalhado anteriormente carece de clareza a argumentação da requerente nesse sentido.
+Essa característica dão pode portanto ser usada como diferencial do presente pedido.
+um elemento de suspensão (132) que se estende de uma região interna da suspensão (134)
+para uma região externa da suspensão (136), sendo a região externa da suspensão (136)
+fixada à carcaça (102), a região interna da suspensão (134) sobrepondo-se à região externa do
+diafragma (124) e sendo fixada a ela para formar uma porção de confinamento de
+vibração (510)
+- similar a D1 (surround 11 Fig. 12 par. 93 a 100)
+orientada no ângulo definido em relação à região interna de diafragma (122);
+sendo que uma orientação da porção de confinamento de vibração (510) no ângulo definido
+isola a região interna do diafragma (122) de ondas de flexão espúrias provenientes da região
+externa da
+suspensão (136).
+- como detalhado anteriormente o dito ângulo carece de clareza. Essa característica dão pode
+
+
+                                                                                          Página 3
+                                        BR112012030926-9
+
+
+portanto ser usada como diferencial do presente pedido.
+
+
+A falta de clareza quanto ao ângulo apontada anteriormente parece estar melhor esclarecida na
+Reivindicação 16 onde consta:
+
+
+um diafragma (120) suportado pela borda superior do
+formador de bobina de voz (332) e se estendendo de uma região
+interna de domo côncavo no interior do formador de bobina de voz
+(332) para uma região externa anular no exterior do formador de
+bobina de voz (332), a região externa anular estendendo-se para baixo
+em um ângulo definido entre 10 graus e 70 graus em relação ao plano
+horizontal; e
+
+
+- no entanto essa característica foi antecipada por D1 ver F1g. 1A elemento 6 (diafragma)
+A(s) reivindicação(ões) independente(s) restante(s) é(são) similar(es) à 1.
+
+
+Nas reivindicações dependentes não foram identificadas características que, mesmo quando
+combinadas com as características de qualquer reivindicação independente a que se referem,
+venham a prover novidade e/ou a atividade inventiva à matéria.
+
+
+Conclusão
+
+
+Diante ao exposto nesse parecer, o presente pedido não atende às disposições dos Art. 25 e Art.
+8° combinado com Art 13 da LPI, conforme apontado na seção de comentários/justificativas dos
+Quadros 3 e 5 deste parecer.
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 12 de setembro de 2021.
+
+
+
+                                                                                            Página 4
+                               BR112012030926-9
+
+
+
+
+Denise Freitas Silva
+Pesquisador/ Mat. Nº 1472730
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+008/13
+
+
+
+
+                                                  Página 5
+

@@ -1,0 +1,128 @@
+                                         SERVIÇO PÚBLICO FEDERAL
+                                          MINISTÉRIO DA ECONOMIA
+                              INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.º do Pedido:                       BR112014009640-6          N.º de Depósito PCT: EP2012/070871
+ Data de Depósito:                    22/10/2012
+ Prioridade Unionista:                DE 10 2011 054 752.5 (24/10/2011)
+ Depositante:                         STEGO-Holding GmbH (DE)
+ Inventor:                            Robert Dent, Elmar Mangold
+ Título:                              Corpo de Resfriamento e Retenção para Elementos de Aquecimento,
+                                      Aquecedor que Tem um Corpo de Resfriamento e Retenção, e, Método
+                                      para a Fabricação de um Corpo de Resfriamento e Retenção
+                                                                      PARECER
+
+      A Requerente recebeu notificação de Ciência de Parecer (7.1) publicada na RPI nº 2596 de
+06/10/2020. Através da petição nº 870200163043 de 30/12/2020, a mesma apresentou
+Manifestação sobre o Parecer Técnico e novo Quadro Reivindicatório. Para fins de continuidade
+do exame estão sendo consideradas as vias abaixo:
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas              Nº da Petição         Data
+                                                                                DESP 018140008452
+ Relatório Descritivo                                          1-34                                    22/04/2014
+                                                                                   Págs. 7 a 40
+                                                                                  870200163043
+ Quadro Reivindicatório                                         1-4                                    30/12/2020
+                                                                                   Págs. 7 a 10
+                                                                                DESP 018140008452
+ Desenhos                                                       1-6                                    22/04/2014
+                                                                                   Págs. 45 a 50
+                                                                                DESP 018140008452
+ Resumo                                                         1                                      22/04/2014
+                                                                                     Pág. 51
+
+                  Quadro 2 - Considerações referentes aos Artigos 10, 18, 22 e 32 da LPI
+ Artigos da LPI                                                                                Sim         Não
+ A matéria enquadra-se no Art. 10 da LPI (não se considera invenção)                                        X
+ A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                                                X
+ O pedido apresenta Unidade de Invenção (Art. 22 da LPI)                                           X
+ O pedido está de acordo com disposto no Art. 32 da LPI                                            X
+Comentários/Justificativas: ----
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                                  Página 1
+                                            BR112014009640-6
+
+                 Quadro 3 - Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                            Sim                     Não
+O relatório descritivo está de acordo com disposto no Art. 24 da LPI                        X
+O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI                      X
+Comentários/Justificativas: ----
+                            Quadro 4 - Documentos citados no parecer
+ Código                                  Documento                                                Data de publicação
+            EP1847785A1
+    D1      Título: Heating Device                                                                     2007-10-24
+            Depositante: Stego Holding GmbH
+
+       Quadro 5 - Análise dos Requisitos de Patenteabilidade (Art. 8º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade              Cumprimento                              Reivindicações
+                                                         Sim                                        1-16
+           Aplicação Industrial
+                                                        Não                                          ----
+                                                         Sim                                        1-16
+                 Novidade
+                                                        Não                                          ----
+                                                         Sim                                         ----
+            Atividade Inventiva
+                                                        Não                                         1-16
+Comentários/Justificativas:
+   Na manifestação a Requerente alega que D1 revela um aquecedor com um trocador de calor
+200, em que uma unidade de aquecimento 300 está disposta na cavidade de recepção 206 do
+trocador de calor. A parte em forma de plástico 100 tem unidades de preensão para preensão por
+braçadeira na parte frontal do trocador de calor. A parte em forma de plástico tem unidades de
+guia 109 que engatam forma ajustada com unidades de guia de contador 404, 405 no alojamento
+600.
+
+   A Requerente alega ainda que ferramentas de prensagem são necessárias e são aplicadas
+contra o trocador de calor de Dl para fixar um elemento de aquecimento dentro da cavidade
+receptora. Se o trocador de calor tivesse sido combinado com o alojamento como uma peça, a
+aplicação de pressão no alojamento e/ou no trocador de calor para fixar o elemento de
+aquecimento deformaria a superfície externa do alojamento. Portanto, um técnico no assunto não
+forneceria simplesmente um elemento de uma peça sem qualquer abordagem inventiva adicional.
+
+   Entretanto, o Documento D1 descreve um corpo de resfriamento e retenção (200) para
+elementos de aquecimento, em particular elementos de aquecimento PTC, que compreende um
+alojamento plano com pelo menos um eixo de aquecimento no qual pelo menos um elemento de
+aquecimento está disposto, o eixo de aquecimento sendo paredes opostas do eixo (204, 205),
+entre as quais o elemento de aquecimento é fixado, e pelo menos tem uma fenda lateral que
+separa as paredes do eixo de tal forma que a distância entre as paredes do eixo para a montagem
+do elemento de aquecimento pode ser alterada, com pelo menos uma seção de fixação (231)
+
+
+                                                    Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12     Página 2
+                                                  BR112014009640-6
+
+projetando-se para fora sobre a carcaça plana engatando na carcaça plana, que abrange a fenda
+lateral e quando o elemento de aquecimento é instalado é elasticamente deformado para gerar
+uma força de pressão que atua sobre o elemento de aquecimento das paredes do poço
+(Parágrafos [0024] -[0029]; Figura 3). O documento D1 também divulga um corpo de resfriamento
+e retenção (200) em que os pontos de aplicação da seção de fixação no alojamento plano são
+dispostos acima e abaixo da fenda lateral e espaçados da fenda lateral (Figura 3). Um corpo de
+refrigeração e retenção com uma única conduta de aquecimento central (Figura 3).
+
+Conclusão
+    Face ao exposto, conclui-se que a invenção ora pleiteada decorre de maneira evidente ou
+óbvia, para um técnico no assunto, a partir do estado da técnica, sendo desprovida de atividade
+inventiva, conforme Art. 13 da LPI.
+
+    Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que o mesmo não
+atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+    Rio de Janeiro, 29 de janeiro de 2021.
+
+    Publique-se o indeferimento (9.2).
+
+    CAMILO BRAGA GOMES
+    Pesquisador / Mat. Nº 1547071
+    DIRPA / CGPAT III / DIFEL
+    Deleg. Comp. - Port. INPI / DIRPA Nº 022/12
+
+
+
+
+                                                        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 3
+

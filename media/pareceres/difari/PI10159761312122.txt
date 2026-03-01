@@ -1,0 +1,288 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        PI1015976-2                N.° de Depósito PCT:US2010/026271
+ Data de Depósito:     04/03/2010
+ Prioridade Unionista: US 61/157.506 (04/03/2009); US 12/484.137 (12/06/2009); US
+                       PCT/US2009/047281 (12/06/2009); US 61/222,810 (02/07/2009); US
+                       61/258,184 (04/11/2009)
+ Depositante:          Mannkind Corporation (US)
+ Inventor:             Chad C. Smutney, Benoit Adamo, John M. Polidoro, P. Spencer
+                       Kinsey, Dennis Overfield, Carl R. Sahi, Christine Billings, Mark T.
+                       Marino
+ Título:               Sistema de liberação de fármaco em pó seco 
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-96               870200117413           23/09/2020
+Quadro Reivindicatório                                     1-5               870200117413           23/09/2020
+Desenhos                                                  1-35               870190106546           21/10/2019
+Resumo                                                      1                870200117413           23/09/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                                  x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+          As reivindicações independentes do presente pedido de patente (reivindicações 1, 17 e 18)
+não estão interligadas, podendo-se interpretar que a matéria de tais reivindicações representam
+diferentes conceitos inventivos, o que caracteriza falta de unidade de invenção (Art. 22 da LPI).
+Por economia processual, todas as reivindicações serão analisadas.
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                             Página 1/6
+                                               PI1015976-2
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                    x
+Comentários/Justificativas
+
+
+       Mesmo com os argumentos da Requerente, entende-se que, no relatório descritivo, há uma
+infinidade de possibilidades de sistema de inalação. Assim, entende-se que o relatório descritivo
+não descreve clara e suficientemente todas as possibilidades, de modo a permitir a sua realização
+por técnico no assunto (Art. 24 da LPI). O referido técnico necessitaria realizar várias
+experimentações para encontrar quais os constituintes adequados dos sistemas, suas
+concentrações e as condições favoráveis ao processo de preparação, além do formato adequado
+do inalador. Desta forma, como a matéria das reivindicações principais do presente pedido de
+patente também está descrita de modo amplo e genérico, considera-se que as reivindicações não
+estão fundamentadas no relatório descritivo (Art. 25 da LPI).
+
+
+       Ademais, as reivindicações de composições, de formulações e/ou de formas de
+apresentação devem definir esses objetos a partir de suas características técnicas e não pelo seu
+uso e/ou aplicação e/ou processo de preparação e/ou efeito. Assim, as composições devem ser
+definidas pelos seus constituintes. Cabe ressaltar que as formulações e as formas de
+apresentação devem ter seus constituintes definidos quantitativamente e, especificamente, as
+formas de apresentação (como um sistema de inalação) devem ser especificadas quanto à forma
+física das mesmas.
+
+
+       Nesse contexto, seguem as seguintes considerações:
+
+
+       1)        no quadro reivindicatório, os termos a seguir não estão definindo, de modo claro e
+preciso, a matéria ora reivindicada (Art. 25 da LPI): inalador de pó seco (não são descritas as
+características técnicas do inalador; não foram feitas referências aos números contidos nos
+desenhos que representam cada parte do sistema), pluralidade de partículas em pó (não está
+clara qual a quantidade e qual o tamanho de partículas do pó), a dicetopiperazina no plasma de
+um indivíduo tem uma área (...) (trata-se de efeito técnico do sistema e não de características
+técnicas), em que 20% a 70% do fluxo de ar total através do inalador entra e sai do reservatório
+e  em que 30% a 80% do fluxo de ar total através do inalador desvia do reservatório
+(também tratam-se de efeitos técnicos), acionado por respiração (também trata-se de efeito
+técnico), configurado para liberação da dicetopiperazina para a circulação pulmonar de um
+indivíduo (também trata-se de efeito técnico), configuração de dosificação (também trata-se de
+efeito técnico),  tem um T max de menos de 1 hora (também trata-se de efeito técnico),  é
+
+
+                                                                                        Página 2/6
+                                           PI1015976-2
+
+operacionalmente configurado para emitir uma névoa em pó () (também trata-se de efeito
+técnico), é operacionalmente configurado para emitir mais que 90% da formulação em pó seco
+(...) (também trata-se de efeito técnico), é configurado para distribuir insulina na circulação
+pulmonar (...) (também trata-se de efeito técnico), um pico de concentração (C max ) para
+insulina é alcançado () (também trata-se de efeito técnico), a primeira passagem de fluxo é
+cortada pela segunda passagem de fluxo quando a primeira passagem de fluxo sai do
+reservatório (também trata-se de efeito técnico), não inclui um canal de ar resultante de
+perfuração ou descamação (também relacionado ao efeito técnico), a primeira passagem de
+fluxo sai do reservatório substancialmente de forma perpendicular à segunda passagem de
+fluxo e é cortado pela segunda passagem de fluxo (também trata-se de efeito técnico),  a
+segunda passagem de fluxo converge com a primeira passagem de fluxo em um ângulo
+substancialmente perpendicular (também trata-se de efeito técnico), substancialmente;
+       3)     no quadro reivindicatório, os trechos explicativos relacionados ao efeito, aplicação,
+método de preparo ou mecanismo de ação (como ilustrados no item anterior) não são suficientes
+para diferenciar a matéria ora reivindicada do estado da técnica. Ressalta-se que a objeção é
+relacionada à falta de clareza (Art. 25 da LPI) quanto aos elementos técnicos caracterizantes da
+matéria pleiteada;
+       4)     a Tabela 9 não está apresentada de forma clara, apresentando uma disposição
+confusa, dificultando a interpretação dos dados.
+
+
+
+
+                         Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                              Data de publicação
+    D1      US2009110647 A1 (PI0818872, prioridade 24/10/2007)                    30/04/2009
+    D2      US2007196503 A1                                                       23/08/2007
+    D3      US2006239934 A1                                                       26/10/2006
+    D4      US2006153778 A1                                                       13/07/2006
+    D5      US2004077528 A1                                                       22/04/2004
+    D6      US2006169280 A1                                                       03/08/2006
+    D7      US5239993 A                                                           31/08/1993
+    D8      US6026809 A                                                           22/02/2000
+    D9      US2002088643 A1                                                       11/07/2002
+       Os documentos D1 a D9 foram discutidos no exame do pedido correspondente
+EP2403490, no Escritório Europeu de Patentes. Como D1 foi publicado posteriormente à
+prioridade US 61/157.506 (04/03/2009), não será utilizado para análise da atividade inventiva.
+
+
+
+
+                                                                                        Página 3/6
+                                          PI1015976-2
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento              Reivindicações
+                                                     Sim                     1-18
+           Aplicação Industrial
+                                                     Não
+                                                     Sim
+                 Novidade
+                                                     Não                     1-18
+
+                                                     Sim
+            Atividade Inventiva
+                                                     Não                     1-18
+
+
+
+Comentários/Justificativas
+
+
+
+       Em sua manifestação, a Requerente alega que o quadro reivindicatório foi emendado
+para definir, nas reivindicações independentes, que o inalador de pó seco compreende um
+bocal e um cartucho que compreende uma tampa e um reservatório. Esta configuração
+leva a um inalador mais eficiente e não é ensinado ou sugerido pelos documentos do
+estado da técnica citados. (Grifo do examinador).
+
+
+
+       No entanto, a Requerente não apresentou comprovação de que a tampa e reservatório,
+do seu sistema de inalação, diferenciam-se das estrutura do inalador de D3, "a small
+MannKindTM inhaler (D3, exemplos 2, 5; par. 100). O termo tampa e reservatório podem ser
+interpretados de diversas formas, e sem uma comparação mais precisa, não está claro que
+esses parâmetros apresentados nas novas reivindicações independentes do presente pedido
+sejam suficientes para conferir novidade à matéria reivindicada. Assim, entende-se que a
+matéria das reivindicações 1 a 18 não apresenta novidade em relação ao documento D3 (Art. 11
+da LPI).
+
+
+
+       Adicionalmente, na hipótese de superação da falta de novidade em relação à D3,
+considera-e que o problema a ser resolvido no presente pedido pode ser considerado como
+fornecer um sistema de inalação que resulte na desaglomeração de partículas compreendendo
+dicetopiperazina. No entanto, considera-se que o sistema de inalação ora reivindicado não
+apresentaria atividade inventiva, tendo em vista que a configuração do inalador do presente
+pedido, responsável pelo efeito técnico, já estava revelada no estado da técnica, assim como o
+próprio efeito técnico.
+
+       Nesse sentido, D7 divulga, na col. 3, l. 3-45, reivindicação 1 e Fig. 3, um inalador com
+dois caminhos de fluxo de ar, dos quais um passa através de uma câmara que compreende um
+
+
+                                                                                      Página 4/6
+                                             PI1015976-2
+
+
+pó, "redemoinhos" (col. 4, l. 39) e isso causa desagregação (col. 4 , 39-42). Dois caminhos se
+fundem na entrada do bocal. Por sua vez, D8 divulga na col. 5, l. 10-55 e Fig. 3 um inalador com
+dois caminhos de fluxo de ar, dos quais um está arrastando partículas de uma câmara que
+compreende um pó e depois se funde com o outro caminho. Por fim, D9 divulga no par. 21-28 e
+Fig. 1-5 um desaglomerador para inaladores de pó seco com duas vias de fluxo de ar que se
+fundem e arrastam o pó na câmara central. Portanto, em vista de D3 em combinação com
+qualquer um dos documentos D7-D9, a matéria das reivindicação 1 a 18 não envolve atividade
+inventiva (Art. 13 da LPI).
+
+       Ademais, as características adicionais das referidas reivindicações são diretamente
+conhecidos do documento D3 (dicetopiperazina, insulina), ou são, como já descrito no parecer
+técnico anterior, uma combinação de artifícios óbvios para um técnico no assunto combinando
+dois ou três dos documentos do Quadro 4 (com exceção de D1), acima, (veja, por exemplo, o
+resumo e quadro reivindicatório dos documentos), ou dizem respeito a pequenas modificações
+que estão dentro da prática usual do técnico no assunto. Em especial, o fato da Requerente
+alegar que seu sistema de inalação compreende um bocal e um cartucho que compreende
+uma tampa e um reservatório, e na hipótese da Requerente tivesse comprovado que esse
+era o diferencial técnico em relação ao documento D3, isso não conferiria atividade inventiva à
+matéria reivindicada, tendo em vista que não foram apresentados dados demonstrando que tais
+características técnicas seriam essenciais para promoção do efeito técnico, ou que
+proporcionariam um efeito técnico que não fosse óbvio para um técnico no assunto. Além disso,
+a presença de tampas (ou seus sinônimos: capa, cobertura, filme de proteção, lacre, etc.) e
+reservatórios são usuais nesses dispositivos de inalação, como exemplificado, por exemplo, em
+D6 (parágrafos 0060, 0070, 0071, 0075), D7 (col. 4, l. 3 a col. 5, l. 7; reivindicação 1), D8 (col. 5,
+l. 12 a 67), não representando atividade inventiva a sua presença em sistemas de inalação.
+
+
+
+       Portanto, conclui-se que a matéria das reivindicações 1 a 18 não apresenta novidade (Art.
+11 da LPI) e atividade inventiva (Art. 13 da LPI).
+
+
+
+Conclusão
+
+
+       Tendo em vista o exposto, a matéria reivindicada não apresenta novidade (Arts. 8º e 11 da
+LPI: reivindicações 1-18) em relação ao documento D3 e também não apresenta atividade
+inventiva (Arts. 8º e 13 da LPI: reivindicações 1-18) em relação à combinação de dois ou três dos
+documentos do Quadro 4 (com exceção de D1), acima. Ademais, o presente pedido de patente
+também não está de acordo com os Arts. 22, 24 e 25 da LPI.
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI);
+
+
+
+                                                                                            Página 5/6
+                                           PI1015976-2
+
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI);
+
+      -   não apresenta suficiência descritiva (Art. 24 da LPI);
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI);
+
+      -   não está de acordo com o Art. 22 da LPI.
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                   Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 16 de novembro de 2020.
+
+
+
+
+Rodinelli Borges de Oliveira
+Pesquisador/ Mat. Nº 1561216
+DIRPA / CGPAT I/DIFAR-I
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                          Página 6/6
+

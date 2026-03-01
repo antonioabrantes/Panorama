@@ -1,0 +1,185 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112020008257-0           N.° de Depósito PCT:IT2018/000141
+ Data de Depósito:                   26/10/2018
+ Prioridade Unionista:               IT 102017000128910 (13/11/2017)
+ Depositante:                        UR FOG S.R.L. (IT)
+ Inventor:                           GIOVANNI BALESTRINI; LUCA GATTONI
+ Título:                             Dispositivo gerador de névoas melhorado 
+
+                                                                PARECER
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                     18                 870200051369           24/04/2020
+Quadro Reivindicatório                                   12                 870220109342           25/11/2022
+Desenhos                                                 12                 870200051369           24/04/2020
+Resumo                                                      1                870200051369           24/04/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         x
+Comentários/Justificativas
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                                        BR112020008257-0
+
+
+                                  Quadro 4  Documentos citados no parecer
+
+  Código                                            Documento                   Data de publicação
+     D1                                             US4764660                        16/08/1988
+     D2                                             US2630412                        03/03/1953
+
+
+
+
+      Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade                         Cumprimento     Reivindicações
+                                                                 Sim             13
+               Aplicação Industrial
+                                                                 Não               ---
+                                                                 Sim             13
+                       Novidade
+                                                                 Não               ---
+                                                                 Sim               ---
+               Atividade Inventiva
+                                                                 Não             13
+
+
+Comentários/Justificativas
+Neste parecer serão utilizados os seguintes símbolos:
+LPI  Lei da Propriedade Industrial (Lei N° 9.279/96)
+IN  Instrução Normativa
+RD  relatório descritivo
+QR  quadro reivindicatório
+R  reivindicação
+
+
+
+
+           Após notificação de despacho de ciência de parecer (7.1) publicada na RPI nº 2705 em
+08/11/2022, a requerente impetrou a petição de n° 870220109342 em 25/11/2022, onde apresenta
+nova via do quadro reivindicatório.
+
+
+           D1 ensina um dispositivo de geração de névoa compreendendo:
+           - pelo menos um meio de armazenamento (12) de pelo menos um fluido gerador de névoa
+(col. 3, linhas 3-22; fig. 1);
+           - pelo menos um trocador de calor (28) configurado para liberar rapidamente energia
+térmica ao referido fluido gerador de névoa para produzir vapor para se difundir em um ambiente
+externo através de um ou mais meios de dispensação (32) (col. 3, linhas 45-55; fig. .1);
+           - meios de bombeamento (14) do referido fluido gerador de névoa do referido meio de
+armazenamento (12) para o referido trocador de calor (28), o referido meio de bombeamento
+compreendendo pelo menos uma bomba volumétrica mecânica (bomba de engrenagem) com
+
+                                                                                              Página 2
+                                         BR112020008257-0
+fluxo contínuo configurado para receber como entrada pelo menos um fluxo de fluido gerador de
+névoa proveniente do referido meio de armazenamento (12) e emitindo pelo menos um fluxo do
+referido fluido gerador de névoa pressurizado em direção ao referido trocador de calor (28) (col. 3,
+linhas 23-44; fig. 1);
+         - em que a bomba volumétrica mecânica (bomba de engrenagens) com fluxo contínuo
+compreende pelo menos uma câmara de compressão (característica implícita de uma bomba de
+engrenagens) equipada com pelo menos um duto de entrada do referido fluxo de fluido gerador de
+névoa proveniente dos referidos meios de armazenamento (12) (col . 3, linhas 23-26; fig. 1) e pelo
+menos um duto de saída configurado para emitir o referido fluxo de fluido gerador de névoa
+pressurizado em direção ao referido trocador de calor (28) (col. 3, linhas 40-42; fig. 1).
+
+
+         O objeto da reivindicação 1, portanto, difere deste conhecido dispositivo gerador de névoa
+pelo fato de que a referida câmara de compressão é internamente equipada com pelo menos um
+rotor excêntrico em relação à referida câmara de compressão e girando de acordo com uma
+direção de rotação, sendo o referido rotor equipado com pelo menos pelo menos uma lâmina de
+movimento radial configurada para divisão cíclica e progressiva, durante a referida rotação, a
+referida câmara de compressão em pelo menos uma porção da câmara despressurizada colocada
+a montante da referida lâmina em relação à referida direção de rotação e pelo menos uma porção
+da câmara pressurizada colocada a jusante da referida lâmina em relação ao referido sentido de
+rotação, e em que o dispositivo gerador de névoas compreende adicionalmente um motor
+fornecido com corrente contínua.
+
+
+         O problema a ser resolvido pela presente invenção pode, portanto, ser considerado como
+o fornecimento de uma bomba volumétrica alternativa com fluxo contínuo.
+
+
+         Seria óbvio para um técnico no assunto substituir a bomba de engrenagens de D1 por
+uma bomba excêntrica de palhetas rotativas como alternativa, caso se fizesse necessário. O
+mesmo pensamento é aplicável, mutatis mutandis, à escolha de um motor de corrente contínua,
+cujas vantagens e desvantagens são conhecidas por um técnico no assunto. Em outras palavras,
+tanto uma bomba excêntrica de palhetas rotativas, quanto um motor de corrente contínua são
+equipamentos amplamente utilizados e não há nada no RD que indique que o uso dos mesmos
+conduziria a um efeito inesperado.
+
+
+         Desta forma, a reivindicação 1 não atende ao requisito de atividade inventiva em relação
+ao estado da técnica, contrariando o disposto no artigo 8° c/c 13 da LPI.
+
+
+        As reivindicações 2 e 3, todas dependentes, não apresentam características técnicas que,
+se adicionadas à reivindicação independente 1, confiram-lhe atividade inventiva.
+
+                                                                                             Página 3
+                                        BR112020008257-0
+
+
+
+
+Conclusão
+
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 23 de janeiro de 2023.
+
+
+
+
+Rafael Vieira Camerini
+Pesquisador/ Mat. Nº 2317410
+DIRPA / CGPAT IV/DIMAT
+Deleg. Comp. - Port. INPI/DIRPA Nº
+012/18
+
+
+
+
+                                                                                          Página 4
+

@@ -1,0 +1,314 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR112015013286-3             N.° de Depósito PCT: US2013/074637
+ Data de Depósito:                     12/12/2013
+ Prioridade Unionista:                 US 13/715,246 (14/12/2012)
+ Depositante:                          DEERE & COMPANY (US)
+ Inventor:                             Elijah B. Garner, Charles T. Graham
+ Título:                               Prescrição para operar uma máquina de semear, e, máquina de
+                                       distribuição de semente
+
+                                                              PARECER
+
+     O presente pedido de Patente de Invenção, contido no campo de invenção de máquinas e
+equipamentos agrícolas, refere-se a máquinas de semear, tais como semeadores de colheita em
+fileira, adaptados para semear duas ou mais variedades de semente dentro de um campo, e em
+particular ao controle de uma tal máquina.
+     O pedido com prioridade de 14/12/2012, foi depositado via PCT em 12/12/2013, entrou em
+fase nacional em 08/06/2015, por meio da petição NPWB 860150115289, em que foram
+apresentados o relatório descritivo, quadro reivindicatório, desenhos e o resumo.
+     Através da petição 870190074447 de 02/08/2019, a requerente se manifestou ao parecer de
+Exigência de pré-exame (6.20), notificado pela RPI 2526, de 04/06/2019, apresentando
+Cumprimento de exigência decorrente de exame formal - Cumprimento de exigência decorrente
+de pré-exame com novas vias do quadro reivindicatório.
+     As novas vias do pedido foram analisadas e foi exarado um 2 o Exame Técnico que recebeu
+parecer de Ciência (7.1), notificado na RPI 2549 de 12/11/2019.
+     A requerente novamente se manifestou ao parecer através de petição 870200016786 de
+04/02/2020 apresentando Manifestação sobre invenção, modelo de utilidade, certificado de
+adição de invenção em 1ª instância com novas vias do relatório descritivo, quadro reivindicatório
+e o resumo.
+     A requerente modificou o título.
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                           X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    X
+
+O pedido refere-se a Sequências Biológicas                                                                     X
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                                Página 1
+                                                          BR112015013286-3
+
+
+Comentários/Justificativas
+       INPI emitiu a exigência de código 6.6.1 na RPI 2473 de 29/05/2018, para fins de
+manifestação do depositante quanto à ocorrência de acesso ao Patrimônio Genético nacional
+e/ou Conhecimento Tradicional Associado para obtenção do objeto do presente pedido. Não
+tendo havido manifestação do depositante no prazo de 60 (sessenta) dias contados a partir da
+publicação na RPI, o INPI deu prosseguimento ao exame técnico com o entendimento de que
+não houve acesso ao patrimônio genético nacional e/ou conhecimento tradicional associado,
+conforme consta no texto do despacho de código 6.6.1 publicado na RPI, de acordo com
+entendimento firmado pela Procuradoria Federal Especializada junto ao INPI (PFE-INPI) no
+Parecer             nº            00001/2018/PROCGAB/PFE-INPI/PGF/AGU                      (Processo          INPI
+nº52400.002142/2018-30), publicado nas RPIs nº 2465 (03/04/2018), 2466 (10/04/2018) e 2467
+(17/04/2018), ao qual foi atribuído caráter normativo na RPI nº 2485 de 21/08/2018.
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+              Elemento                                   Páginas          n.o da Petição               Data
+Relatório Descritivo                                      1 a 20          870200016786            04/02/2020
+Listagem de sequências em
+                                                             ---                ---                     ---
+formato impresso
+Listagem de sequências*                                      ---                ---                     ---
+Quadro Reivindicatório                                     1a6            870200016786            04/02/2020
+Desenhos                                                   1a8          NPWB 860150115289         08/06/2015
+Resumo                                                        1           870200016786            04/02/2020
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                         Sim               Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                       X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                               X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                    X
+O pedido está de acordo com disposto no art. 32 da LPI                                     X
+
+
+
+
+                   Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                         Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                       X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                     X
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                     Página 2
+                                                         BR112015013286-3
+
+
+Comentários/Justificativas
+         Na petição 870200016786 de 04/02/2020 a requerente realizou correções no pedido,
+definindo o tipo de reivindicação pleiteada nas reivindicações 1 e 11; retirando erros de tradução;
+sendo as reivindicações 12 e 17 emendadas. Tornando assim, o presente pedido em
+conformidade com o artigo 25 da LPI e com a Instrução Normativa nº 30/2013.
+
+
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                        Data de publicação
+    D1                                                 US5915313                            29/06/1999
+Comentários/Justificativas
+
+         O documento D1 revela um sistema para distribuir vários tipos de sementes como um
+aparelho de plantio percorre um campo agrícola. O aparelho de plantio é tipicamente um
+implemento com unidades de fileira para aplicar sementes ao campo quando o implemento é
+puxado por um veículo (trator). O sistema inclui várias caixas de sementes configuradas para
+armazenar vários tipos de sementes (por exemplo, várias culturas ou variedades). Caixas
+múltiplas podem ser formadas dentro de uma tremonha de sementes por uma parede divisória
+removível. Um conjunto de chaves descarrega seletivamente sementes de um compartimento de
+sementes em resposta aos sinais de controle gerados no modo manual ou automático. Os sinais
+de controle são gerados usando um dispositivo de entrada do operador no modo manual e usando
+sinais de localização e um mapa do tipo de prescrição no modo automático. A semente
+descarregada é recebida por um conjunto de distribuição para entrega nas unidades de linha. O
+conjunto de distribuição inclui preferencialmente um seletor de sementes para separar sementes
+individuais e um sistema de fornecimento de ar para entregar as sementes individuais às unidades
+de fileira. O seletor de sementes pode incluir um tambor rotativo acionado por um motor de taxa
+variável. A taxa de rotação determina a taxa na qual as sementes são dispensadas e é controlada
+pelos sinais de controle de taxa gerados usando os sinais de localização e um mapa de taxa de
+prescrição.
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                     Cumprimento   Reivindicações
+                                                                           Sim           1 a 21
+             Aplicação Industrial
+                                                                          Não          Nenhuma.
+                                                                           Sim           1 a 21
+                     Novidade
+                                                                          Não          Nenhuma.
+                                                                           Sim           1 a 21
+              Atividade Inventiva
+                                                                          Não          Nenhuma.
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 3
+                                                         BR112015013286-3
+
+
+Comentários/Justificativas
+    Em prosseguimento ao exame deste pedido, o documento considerado mais próximo da
+matéria reivindicada está relacionados no Quadro 4 deste parecer.
+    Por meio da petição 870200016786 de 04/02/2020, a requerente respondeu o parecer anterior,
+apresentando novas vias do relatório descritivo, quadro reivindicatório e o resumo. As
+reivindicações 1 a 11 foram modificadas de modo melhorar a tradução do pedido, entretanto
+permaneceram as mesmas. Ou seja, não houve alteração significativa no novo quadro
+reivindicatório em relação ao apresentado anteriormente.
+    Segundo a requerente:
+       As reivindicações independentes 1 e 7 são voltadas para o próprio processo, enquanto
+       as reivindicações 12 e 17 são voltadas para a máquina de plantio com um controlador
+       recebendo e armazenando o processo. As melhorias no processo incluem 1) uma
+       quantidade programada de valor de semente (explicada abaixo) e 2) um plano de
+       trajeto incluindo uma direção de deslocamento para o plantio para otimizar o plantio
+       de duas variedades diferentes (também descrito abaixo). 
+    Contudo, isso foi mostrado em documento D1, conforme o parecer anterior. As vantagens
+apresentadas que diferenciariam o presente pedido de D1, não foram pleiteados no quadro
+reivindicatório.
+       A reivindicação independente 1 não atende ao requisito atividade inventiva, pois decorre de
+maneira evidente ou óbvia para um técnico no assunto a partir do documento D1, pois o
+documento D1 apresenta uma prescrição para operar uma máquina de semear (10), a máquina de
+semear incluindo um dosador de sementes (32) tendo um alojamento (300) adaptado para reter
+um conjunto de sementes a ser escolhido e entregue sequencialmente (coluna 5, linhas 35-45),
+um sistema de entrega de sementes (64) para fornecer pelo menos duas variedades diferentes de
+sementes ao dosador (coluna 5, linhas 32-45), tendo o sistema de entrega de sementes um
+mecanismo de comutação (324) para mudar de uma primeira variedade de sementes para uma
+segunda variedade sendo entregue ao compartimento do dosador (figura 7; coluna 5, linha 36-37)
+e um controlador (100) adaptado para operar o mecanismo de comutação para controlar qual
+variedade de sementes da primeira e da segunda variedades de sementes é entregue ao dosador
+com base na localização da máquina em um campo (coluna 8, linha 24-44; coluna 11, linha
+53-60), o controlador sendo programado para operar o mecanismo de comutação com base em
+uma quantidade programada armazenada de valor de semente que representa a quantidade de
+semente no compartimento do dosador (coluna 9, linha 39-51, coluna 11, linha 53-60), a
+prescrição compreendendo: uma atribuição de onde cada variedade de sementes deve ser
+plantada dentro de uma determinada área de terra (160; coluna 7, Iinha 44-54); e uma quantidade
+programada de sementes para cada variedade de sementes a ser usada pelo controlador para
+determinar quando interromper o fornecimento de sementes ao dosador ao fazer uma troca de
+variedades (coluna 8, linha 10-44; coluna 11, linha 53-67), a quantidade programada de sementes
+
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                     Página 4
+                                                       BR112015013286-3
+
+sendo adaptada à máquina de semeadura específica e à variedade de sementes, descrito no
+Resumo.
+      A reivindicação independente 7 não atende ao requisito atividade inventiva, pois decorre de
+maneira evidente ou óbvia para um técnico no assunto a partir do documento D1, pois D1 divulga
+também uma prescrição para operar uma máquina de semear (10), a máquina de semear
+incluindo um dosador de sementes (32) tendo um alojamento (300) adaptado para armazenar um
+conjunto de sementes a serem escolhidas e entregues sequencialmente (coluna 5, linhas 35-45),
+um sistema de entrega de sementes (64) para fornecer pelo menos duas variedades diferentes de
+sementes ao medidor (coluna 5, Iinhas 32-45), tendo o sistema de entrega de sementes um
+mecanismo de comutação (324) para mudar de uma primeira variedade de sementes para uma
+segunda variedade de sementes sendo entregue ao compartimento do medidor (gura 7; coIuna
+5, Iinhas 36-37) e um controlador (100) adaptado para operar o mecanismo de comutação para
+controlar qual variedade de sementes da primeira e da segunda variedades de sementes é
+entregue ao dosador com base na localização da máquina em um campo (columa 8, Iinha 24-44;
+coluna 11, Iinhas 53-60), a prescrição compreendendo uma atribuição de onde cada variedade de
+sementes deve ser plantada dentro de uma determinada área de terra (160; coluna 7, Iinhas
+44-54); e um plano de caminho para percorrer a área de terra (160), incluindo pelo menos uma
+direção de deslocamento para a máquina de semear (coluna 7, Iinhas 44-66).
+      A reivindicação independente 12 não atende ao requisito atividade inventiva, pois decorre
+de maneira evidente ou óbvia para um técnico no assunto a partir do documento D1, pois D1
+revela uma máquina distribuidora de sementes (10) compreendendo um dosador de sementes
+(32) com um alojamento (300) adaptado para reter um conjunto de sementes a serem singuladas
+e entregues sequencialmente (coluna 5, Iinhas 35-45); um sistema de entrega de sementes (64)
+para fornecer pelo menos duas variedades diferentes de sementes ao dosador (coluna 5, Iinhas
+32-45), o sistema de entrega de sementes tendo um mecanismo de comutação (324) para mudar
+de uma primeira variedade de sementes a uma segunda variedade de sementes sendo entregues
+ao compartimento do dosador (gura 7; coluna 5, Iinha 36-37); e um controlador (100) adaptado
+para operar o mecanismo de comutação para controlar qual variedade de sementes das primeira
+e segunda variedades de sementes é entregue ao dosador com base na localização da máquina
+em um campo (coluna 8, Iinhas 24-44; coluna 11, linhas 53-60), o controlador (100) com uma
+memória (106) adaptada para receber e armazenar uma prescrição com uma atribuição de onde
+cada variedade de sementes deve ser plantada dentro de uma determinada área de terra (160;
+coluna 7, Iinhas 34-54), e uma quantidade programada de valor de semente para cada variedade
+de semente a ser usada pelo controlador para determinar quando interromper o fornecimento de
+semente ao dosador ao fazer a troca de variedades (coluna 8, Iinhas 10-44; coluna 11, Iinhas
+53-67), sendo a quantidade programada de sementes adaptada à máquina de semeadura
+específica e à variedade de sementes, descrito no Resumo.
+      A reivindicação independente 17 não atende ao requisito atividade inventiva, pois decorre
+de maneira evidente ou óbvia para um técnico no assunto a partir do documento D1, pois D1
+
+
+       Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                      Página 5
+                                                        BR112015013286-3
+
+revela uma máquina distribuidora de sementes (10) que compreende um dosador de sementes
+(32) com um alojamento (300) adaptado para reter um conjunto de sementes a serem escolhidas
+e entregues sequencialmente (coluna 5, Iinhas 35-45); um sistema de fornecimento de sementes
+(64) para fornecer pelo menos duas variedades diferentes de sementes ao dosador (coluna 5,
+Iinha 32-45), o sistema de entrega de sementes tendo um mecanismo de comutação (324) para
+mudar de uma primeira variedade de sementes a uma segunda variedade de sementes sendo
+entregues ao compartimento do dosador (figura 7; coluna 5, linhas 36-37); e um controlador (100)
+configurado para operar o mecanismo de comutação para controlar qual variedade de sementes é
+entregue ao dosador com base na localização da máquina em um campo (coluna 8, linhas 24-44;
+coluna 11, linhas 53-60), o controlador (100) com uma memória (106) adaptada para receber e
+armazenar uma prescrição com uma atribuição de onde cada variedade de sementes deve ser
+plantada dentro de uma determinada área de terra (160; coluna 7, linha 34-54) e um plano de
+caminho para percorrer uma determinada área de terra (160; coluna 7, Iinha 20-44), o plano de
+caminho incluindo pelo menos uma direção de deslocamento da máquina de semeadura sobre a
+área de terra (coluna 12, Iinha 48-62).
+       Nas reivindicações dependentes 2 a 6, 8 a 11, 13 a 16 e 18 a 21 não foram identificadas
+características que, mesmo quando combinadas com as características de qualquer
+reivindicação independente a que se referem, venham a prover novidade e/ou a atividade
+inventiva à matéria.
+       Apesar do exame técnico anterior, onde o presente pedido recebeu parecer de Ciência,
+ter mencionado que o quadro reivindicatório do modo apresentado não tinha atividade inventiva
+frente ao documento D1, a requerente não apresentou argumentos convincentes sobre os
+questionamentos realizados no primeiro parecer, nem realizou estreitamento do escopo de
+proteção do pedido.
+       Desta forma, na ausência de elementos ou informações que permitam averiguar a
+existência de um efeito diferenciado ou melhoramento no objeto ora pleiteado frente a D1,
+tem-se que um técnico no assunto seria motivado a conceber, com um razoável expectativa de
+sucesso, o objeto ora pleiteado no presente pedido. Assim sendo, uma vez que não foi
+apresentado um avanço técnico por parte da matéria reivindicada no presente pedido, tem-se
+que o objeto do presente pedido decorre, para um técnico no assunto, de maneira evidente e
+óbvia, não apresentando atividade inventiva.
+       Deste modo, conforme descrito acima, o assunto das reivindicações 1 até 21 não
+apresenta atividade inventiva, contrariando o requisito de Patenteabilidade definido no art. 8º
+combinado com o art. 13 da LPI.
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                    Página 6
+                                                        BR112015013286-3
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                             Publique-se o indeferimento (9.2).
+
+
+
+                                                                       Rio de Janeiro, 22 de fevereiro de 2020.
+
+
+
+
+Marcelo Andrade Pereira
+Pesquisador/ Mat. Nº 2317180
+DIRPA / CGPAT II/DIPAE
+Deleg. Comp. - Port. INPI/DIRPA Nº
+016/17
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                   Página 7
+

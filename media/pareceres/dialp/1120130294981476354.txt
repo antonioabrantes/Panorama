@@ -1,0 +1,406 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR112013029498-1          N.° de Depósito PCT: US2012/038193
+ Data de Depósito:                     16/05/2012
+ Prioridade Unionista:                 US 61/519076 (16/05/2011)
+ Depositante:                          THE CURATORS OF THE UNIVERSITY OF MISSOURI (US)
+ Inventor:                             KEVIN WELLS, KRISTIN WHITWORTH, RANDALL S. PRATHER
+ Título:                               Método para produzir um suíno geneticamente modificado
+
+                                                              PARECER
+           O presente pedido refere-se a suínos geneticamente modificados em que, pelo menos, um
+alelo de um gene SIGLEC1 foi inativado e/ou, pelo menos, um alelo de um gene CD163 foi
+inativado. Métodos para produzir esses suínos transgênicos também são fornecidos.
+
+
+
+          Quanto à exigência pré-exame (RPI nº 2510, de 12/02/2019)  Artigo 34 da LPI:
+
+           De acordo com o artigo 34 da LPI, o INPI emitiu parecer de Exigência Pré-Exame, com
+despacho 6.20, cuja notificação foi publicada pela RPI nº 2510, de 12/02/2019. A depositante
+apresentou por meio da petição 870190032944, de 05/04/2019, uma proposta de quadro
+reivindicatório (total de 18 reivindicações), que foi modificado de acordo com o quadro concedido
+para patente norte-americana correspondente US 10,080,353 e europeia EP 2709445.
+
+           Cabe ressaltar que, o presente exame foi realizado sob a orientação da Norma de
+Execução SEI nº 7/2019/DIRPA/PR (substituída pela Portaria INPI PR nº 01, 07/01/2021), que
+estabelece os procedimentos de exame após exigência preliminar (6.20  Resolução INPI/PR nº
+227, 25/10/2018, ora revogada) que forem realizados na vigência da Resolução INPI/PR nº
+241/2019 (6.21). Neste sentido, conforme a determinação, o presente exame foi realizado com
+base na Resolução INPI/PR nº 241/2019.
+
+
+          Quanto aos pareceres técnicos anteriores:
+
+           No parecer técnico notificado na RPI nº 2576, de 19/05/2020, o presente pedido foi
+objetado por contrariar o disposto nos artigos 8º, 13, 25 e 32 da LPI.
+
+           Por meio da petição nº 870200101927, de 14/08/2020, a depositante apresentou uma nova
+proposta de quadro reivindicatório (total de 22 reivindicações), nova cópia do relatório descritivo e
+resumo, nova cópia da listagem de sequências assim como argumentos em defesa do mérito do
+presente pedido.
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                     Página 1
+                                                         BR112013029498-1
+
+
+       No parecer técnico notificado na RPI nº 2614, de 09/02/2021, a proposta de quadro
+reivindicatório supracitada foi recusada com base no artigo 32 da LPI. Adicionalmente, com base
+no artigo 220 da LPI, foi apontado que a proposta de quadro reivindicatório recusado também
+contém matéria que não atende ao disposto nos artigos 8º, 13, 24, 25 da LPI. Considerando a
+recusa da nova proposta de quadro reivindicatório, foi informado que o quadro reivindicatório
+válido não atende ao disposto nos artigos 8º, 13, 22, 24 e 25 da LPI.
+
+       Por meio da petição nº 870210041802, de 07/05/2021, a depositante apresentou uma nova
+proposta de quadro reivindicatório (total de 19 reivindicações), nova cópia do relatório descritivo e
+resumo assim como argumentos em defesa do mérito do presente pedido.
+
+       No parecer técnico notificado na RPI nº 2629, de 25/05/2021, a nova proposta de quadro
+reivindicatório foi recusada por não atender ao disposto nos artigos 8º, 13, 22 e 32 da LPI. Diante
+da recusa, foram ratificadas as objeções com base nos artigos 8º, 13, 22, 24 e 25 da LPI para o
+quadro reivindicatório válido.
+
+       Por meio da petição nº 870210077038, 22/08/2021, a depositante apresentou uma nova
+de proposta de quadro reivindicatório (total de 22 reivindicações), nova cópia do relatório
+descritivo e resumo assim como argumentos em defesa do mérito do presente pedido.
+
+
+
+  Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                                    Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                                 X
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)                  X
+O pedido refere-se a Sequências Biológicas                                                                   X
+Comentários/Justificativas
+
+       Quanto ao encaminhamento à ANVISA (art. 229-C da LPI, incluído pela Lei
+        10.196/2001):
+
+       O INPI considerou que a matéria do presente pedido não está contemplada nas
+disposições do artigo 229-C da Lei n° 10196/2001, que modificou a Lei n° 9.279/96 (LPI).
+
+
+
+       Quanto à declaração de acesso ao patrimônio genético nacional:
+
+       Para cumprimento do artigo 47 da Lei nº 13.123/2015, o INPI, na RPI nº 2465, de
+03/04/2018, emitiu uma exigência formal (6.6.1) para a comprovação do cadastramento e/ou
+autorização de acesso ao Patrimônio Genético Nacional e/ou Conhecimento Tradicional
+Associado, quando pertinente, no prazo de 60 dias a contar da publicação na Revista Eletrônica
+da Propriedade Industrial (RPI). Cabe ressaltar que a depositante não apresentou resposta à
+exigência supracitada.
+
+       A Procuradoria Federal Especializada junto ao INPI (PFE-INPI) no Parecer nº
+00001/2018/PROCGAB/PFE-INPI/PGF/AGU                                    (Processo   INPI   nº   52400.002142/2018-30),
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                             Página 2
+                                                        BR112013029498-1
+
+
+publicado nas RPIs nº 2465 (03/04/2018), 2466 (10/04/2018) e 2467 (17/04/2018), ao qual foi
+atribuído caráter normativo na RPI nº 2485, de 21/08/2018, concluiu que após a emissão do
+despacho 6.6.1 não tendo havido manifestação da depositante no prazo de 60 (sessenta) dias
+contados a partir da publicação na RPI, o exame técnico deve ser prosseguido com o
+entendimento de que não houve acesso ao patrimônio genético nacional e/ou conhecimento
+tradicional associado, conforme consta no texto do despacho de código 6.6.1 publicado na RPI.
+
+       O estabelecido no artigo 47 da Lei nº 13.123/2015 é um requisito da concessão da
+patente, mas não repercute e compromete, s.m.j., a avaliação dos requisitos técnicos
+necessários à concessão de patentes estabelecidos na LPI, objeto da presente análise. Neste
+sentido, frente à normatização publicada na RPI nº 2485, de 21/08/2018, resta ao presente
+exame dar andamento ao exame técnico. Contudo, cabe alertar que a Lei nº 13.123/2015,
+estabelece que nos termos desta Lei, o cadastramento é um instrumento declaratório obrigatório
+a concessão de direito de propriedade intelectual pelo órgão competente sobre produto acabado
+ou sobre material reprodutivo obtido a partir de acesso a patrimônio genético ou a conhecimento
+tradicional associado.
+
+
+
+      Quanto à Listagem de Sequências e apresentação eletrônica  Resolução nº 187, de
+       27/04/2017:
+
+       A depositante apresentou voluntariamente por meio da petição n° 020130088216, de
+14/11/2013, a listagem de sequências para cumprimento da Resolução INPI PR nº 228/09,
+substituída pela Resolução INPI PR nº 187/2017.
+
+       No exame formal da listagem de sequências supracitada, verificou-se que No código de
+controle apresentado na petição, falta o "0" no início campo 1 e tem a letra "F" ao final desse
+campo, enquanto falta a letra "F" no início do campo 2. No campo 110, o nome do depositante
+não confere exatamente com o constante na petição de depósito. No campo 120, o título não
+confere com o constante na petição. No campo 151 a data apresentada não está no formato
+dia/mês/ano.
+
+        Por meio da petição nº 870200101927, de 14/08/2020, uma nova cópia da listagem de
+sequências foi apresentada.
+
+
+
+                                    Quadro 1  Páginas do pedido examinadas
+            Elemento                                   Páginas         n.o da Petição     Data
+Relatório Descritivo                                      1-48        870210077038      22/08/2021
+Listagem de sequências em
+                                                           ---               ---            ---
+formato impresso
+Listagem de sequências*                       Código de Controle      870200101927      14/08/2020
+Quadro Reivindicatório**                                  1-5         870210077038      22/08/2021
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                           Página 3
+                                                         BR112013029498-1
+
+Desenhos                                                               020130088216       14/11/2013
+                                                           1-6
+
+Resumo                                                       1         870210077038       22/08/2021
+
+       *Listagem de sequências em formato eletrônico referente ao código de controle
+       ABF7AA69ED3C41C5 (Campo 1) e 5188514A238CE563 (Campo 2).
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                    Sim          Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                             X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                     X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                         X
+O pedido está de acordo com disposto no art. 32 da LPI                                X
+Comentários/Justificativas
+
+
+
+       Quanto ao artigo 32 da LPI:
+
+        No parecer técnico anterior, a antiga reivindicação 1 foi rejeitada por contrariar o artigo 32
+da LPI, pois a expressão célula somática amplia o escopo pleiteado no quadro reivindicatório
+válido (QRV - petição nº 860150086639, 08/05/2015), visto que o QRV define que o ovócito é
+fundido com uma célula de fibroblasto.
+
+        A nova proposta de quadro reivindicatório foi emendada de modo a definir que o ovócito é
+fundido a uma célula de fibroblasto compreendendo pelo menos um alelo de SIGLEC 1 inativado.
+Portanto, a objeção com base no artigo 32 da LPI está retirada.
+
+
+
+       Quanto ao artigo 22 da LPI:
+
+        Conforme já mencionado nos pareceres técnicos anteriores, o QRV não atende ao
+disposto no artigo 22 da LPI, sendo identificados os grupos a seguir:
+
+        GRUPO I  método para produzir um suíno geneticamente modificado em, pelo menos, um
+alelo do gene CD163 (reivindicações 1, 2, 5 e 16-24 (parcialmente);
+
+        GRUPO II  método para produzir um suíno geneticamente modificado em, pelo menos,
+um alelo do gene SIGLEC1 (reivindicações 3, 4, 6 e 16-24 (parcialmente);
+
+        GRUPO III  método para produzir um suíno geneticamente modificado por cruzamento
+em ambos alelos dos genes CD163 e SIGLEC1 (reivindicações 7, 8, 9, 10-15 e 16-24
+(parcialmente)
+
+        Após a avaliação da nova proposta de quadro reivindicatório, verifica-se que os escopos
+pleiteados continuam referindo-se aos GRUPOS II (reivindicações 1-8) e III (reivindicações 9-21)
+anteriormente identificados.
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                            Página 4
+                                                         BR112013029498-1
+
+
+       A depositante sustenta que as emendas realizadas superam a objeção formulada com
+base no artigo 22 da LPI. Contudo, reitera-se que o GRUPO III, atuais reivindicações 9-21, não
+compartilham das mesmas características técnicas essenciais do GRUPO II. O método pleiteado
+no Grupo III trata da produção de um suíno geneticamente modificado que apresenta os alelos
+SIGLEC1 e os alelos CD163 inativados por meio do cruzamento de suínos que apresentam cada
+um dos alelos inativados. Logo, o método do GRUPO III não compartilha das características de
+transferência nuclear observadas no GRUPO II para a produção de um suíno com, pelo menos,
+um alelo SIGLEC1 inativado. Deste modo, ratifica-se que os GRUPOS II e III identificados
+anteriormente não atendem o disposto no artigo 22 da LPI.
+
+       Conforme o item 3.115 da Diretrizes de Exame Dirpa/2013, ao ser constatado que um
+pedido não atende ao artigo 22 da LPI, o parecer técnico deverá ser emitido com base no primeiro
+conceito inventivo detectado, aqui o Grupo II (reivindicações 1-8).
+
+
+
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI*
+
+Artigos da LPI                                                                Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI           X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI         X
+Comentários/Justificativas
+
+       ---
+
+
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                    Data de publicação
+    D1                                             US2011/0016546                       20/01/2011
+    D4                                             US2011/0038841                       17/02/2011
+       No que se refere aos documentos considerados estado da técnica, o presente exame está
+seguindo a determinação dos itens 5.1.6 e 5.2.1 e do art. 5º da . Assim, cabe ressaltar que como a
+Busca foi considerada realizada na etapa de exigência de Pré-exame (6.20), os documentos
+avaliados no presente exame estão limitados aos documentos citados na exigência de Pré-exame
+(6.20), publicada na RPI nº 2510, de 12/02/2019.
+
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                          Página 5
+                                                        BR112013029498-1
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade*                                   Cumprimento   Reivindicações
+                                                                          Sim            1-8
+             Aplicação Industrial
+                                                                         Não              ---
+                                                                          Sim            1-8
+                    Novidade
+                                                                         Não              ---
+                                                                          Sim             ---
+             Atividade Inventiva
+                                                                         Não             1-8
+
+       O Quadro 5 foi preenchido com base no GRUPO II (reivindicações 1-8) de invenção
+identificado conforme o Quadro 2.
+
+Comentários/Justificativas
+
+       A matéria pleiteada pela atual reivindicação 1 refere-se a um método para a produção de
+suínos geneticamente modificados pela inativação de um gene SIGLEC1 por meio transferência
+nuclear. Contudo, ratifica-se que a matéria ora pleiteada não é inventiva.
+
+       No tempo do desenvolvimento do presente pedido, a tecnologia de transferência nuclear
+de células somáticas por meio da enucleação do ovócito e a inserção de uma célula doadora
+somática no ovócito já era uma ferramenta usual para a biologia reprodutiva, inclusive em
+suínos. Do mesmo modo, ferramentas para a edição da célula doadora ora utilizadas também já
+eram prática de um técnico no assunto.
+
+       Para ilustrar o conhecimento na área de produção de suínos geneticamente modificados
+pela tecnologia de transferência nuclear e edição genômica o documento D4 foi citado. D4
+demonstra que a tecnologia para a criação de suínos com alelos específicos inativados também
+já estava disponível na técnica [0133, 0138-0139, 0261-0263]. D4 revela um método de
+modificar geneticamente suínos em que um alelo de um gene alfa 1, 3 galactosiltransferase
+(aGT) é inativado. O método de D4 envolve a enucleação de um oócito porcino, o oócito
+enucleado é fundido a um fibroblasto porcino (célula doadora) no qual o genoma contém um
+gene modificado (deletado inclusive por sistema CRE-lox), seguido da ativação do oócito para
+produzir um embrião. Os embriões em D4 são transferidos para as porcas receptoras que são
+sincronizados em estro, que estiveram em cio, mas não completaram a ovulação [0348]. Logo,
+D4 revela a mesma abordagem ora utilizada para a produção dos suínos modificados. Cabe
+ressaltar que considera-se que as características adicionais mencionadas nas reivindicações
+dependentes como a deleção dos exons e o uso do timerosal, são adaptações usuais para um
+técnico no assunto e não sustentam em um mérito inventivo no desenvolvimento da matéria ora
+pleiteada.
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 6
+                                                        BR112013029498-1
+
+       Em sua manifestação, embora reconheça que D4 demonstra a tecnologia de suínos
+reprodutores com alelos inativados específicos, a depositante sustenta que o referido
+documento não divulga ou sugere a modificação do alelo SIGLEC1 sozinho ou em combinação
+com o alelo CD163. Neste sentido, a depositante sustenta que um técnico no assunto não teria
+nenhuma motivação para selecionar SIGLEC e CD163 para desenvolver a matéria ora pleiteada.
+
+       Conforme já mencionado nos pareceres anteriores, a PRRS é uma das doenças dos
+suínos mais importante economicamente no entanto, as vacinas PRRSV disponíveis têm várias
+limitações. Logo, um técnico no assunto estava interessado em desenvolver formas mais
+eficazes de combater a PRRS.
+
+       À época do desenvolvimento do presente pedido já era notório que o processo de
+infecção do PRRSV começa com ligação inicial ao heparan sulfato na superfície do macrófago
+alveolar sendo a interação com as moléculas SIGLEC 1 e CD163 fundamental para a eficiência
+da infecção. De fato, já havia sido demonstrado que o SIGLEC1 é um receptor celular que é
+essencial para a entrada do PRRSV por endocitose na célula durante a infecção [vide
+referências, 007]. Portanto, a importância deste receptor para o processo de infecção por
+PRRSV já era do conhecimento de um técnico no assunto.
+
+       Mesmo diante da importância do SIGLEC1 para funções imunológicas, um técnico no
+assunto sabia que já havia sido demonstrado que animais deficientes de SIGLEC1 são viáveis
+[vide referências §008 do presente pedido]. Neste sentido, dado impacto da infecção por PRRSV
+para a suinocultura, considera-se que um técnico no assunto interessado em fornecer suínos
+resistentes à infecção por PRRSV ou até mesmo em avaliar a importância deste receptor para a
+infecção em um sistema in vivo, seria fortemente motivado a produzir um suíno SIGLEC1
+deficiente.
+
+       Acresce mencionar o documento D1 (documento citado para manifestação na Exigência
+Pré-Exame), contudo sem trazer argumentação nova. Conforme o documento D1, já havia sido
+claramente sugerida a produção de suínos geneticamente modificados pela deleção das
+sequências de SIGLEC1 e CD163 para produzir resistência amentada a PRRSV [0028; Exemplo
+1]. Tendo em vista que a sequência gênica do SIGLEC1 e os domínios do SIGLEC1 cruciais
+para a infecção por PRRSV também já haviam sido identificados [vide referências 008], um
+técnico no assunto ciente dos ensinamentos da técnica sobre o receptor SIGLEC1 e sua relação
+com a infecção por PRRSV, habilidoso nos procedimentos de rotina da área, partindo dos
+ensinamentos de D4, teria grande expectativa de sucesso de obter um suíno deficiente de
+SIGLEC1.
+
+       Assim, a solução proposta nas atuais reivindicações 1-8 não pode ser considerada como
+envolvendo uma etapa inventiva, visto que representa um avanço natural do campo técnico.
+Considera-se que a solução ora apresentada só poderia ser considerada como inventiva se
+apresentasse efeitos ou propriedades inesperados ou surpreendentes em relação aos
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                   Página 7
+                                                          BR112013029498-1
+
+esperados por um técnico no assunto. No entanto, esses efeitos ou propriedades não são
+indicados na aplicação. Aqui, cabe ressaltar que, não há dados que sustente que os suínos
+obtidos são resistentes a infecção por PRRSV. Chama-se a atenção da depositante que para o
+fato de que, "efeito inesperado" significa algo que não está dentro do escopo das expectativas
+de uma pessoa especialista da técnica. Portanto, considera-se que a matéria ora pleiteada não
+atende ao disposto nos artigos 8º e 13 da LPI.
+
+Conclusão
+
+       A nova proposta de quadro reivindicatório continua contrariando ao disposto no artigo 22
+da LPI. Considera-se que os argumentos trazidos não foram satisfatórios em demonstrar o
+envolvimento de engenhosidade inventiva no desenvolvimento da matéria ora pleiteada.
+Portanto, ratifica-se que a matéria pleiteada não atende ao disposto nos artigos 8º e 13 d LPI.
+
+
+      Assim sendo, de acordo com o artigo 37, indefiro o presente pedido, uma vez que:
+
+      -      não atende ao requisito de atividade inventiva (artigo 8º combinado com artigo 13 da
+             LPI)
+
+      -      não atende ao disposto no artigo 22 da LPI.
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                              Publique-se o indeferimento (9.2).
+
+
+
+                                                                        Rio de Janeiro, 13 de setembro de 2021.
+
+
+
+
+Vania Lucia Ferreira Linhares da Silva
+Pesquisador/ Mat. Nº 1473306
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 8
+

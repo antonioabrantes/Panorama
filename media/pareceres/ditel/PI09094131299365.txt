@@ -1,0 +1,356 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0909413-0               N.° de Depósito PCT:IB2009/000567
+ Data de Depósito:                   20/03/2009
+ Prioridade Unionista:               US 61/038,506 (21/03/2008)
+ Depositante:                        APPLE INC. (US)
+ Inventor:                           Jianglei Ma, Aaron Callard, Ming Jia, Wen Tong, Peiying Zhu, Hang
+                                     Zhang
+ Título:                             Serviço ,ulticast de difusão multimídia (mbms) utilizando
+                                     multiplexação espacial
+
+                                                                PARECER
+
+
+      Em 02/06/2020 foi publicado, através da RPI nº 2578, notificação de ciência (7.1) conforme
+parecer de exame técnico do presente pedido datado de 25/05/2020.
+      O Depositante, através da petição nº 870200108222 de 27/08/2020, apresentou
+manifestação a respeito do parecer técnico. Não foram apresentadas novas vias do pedido.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 23               870200000441           02/01/2020
+Quadro Reivindicatório                                   1a3                 870200000441           02/01/2020
+Desenhos                                                1 a 15               020100087947           20/09/2010
+Resumo                                                      1                870200000441           02/01/2020
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                               PI0909413-0
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+        Considera-se que a matéria do pedido atende ao disposto no Artigo 24 da LPI, visto que a
+suficiência descritiva não foi questionada nos Escritórios/Autoridades consultados para elaboração
+da exigência preliminar (6.21), conforme a Norma de Execução SEI Nº 7/2019, procedimento
+P029, item 5.2.11.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1      US 2004/0203816 A1                                                        14/10/2004
+    D2      US 2006/0250937 A1                                                        09/11/2006
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento            Reivindicações
+                                                        Sim                     1a9
+           Aplicação Industrial
+                                                        Não                       -
+                                                        Sim                     1a9
+                 Novidade
+                                                        Não                       -
+
+                                                        Sim                       -
+           Atividade Inventiva
+                                                        Não                     1a9
+Comentários/Justificativas
+        O parecer de exame técnico anterior concluiu que o presente pedido não apresenta
+atividade inventiva quando comparado ao estado da técnica de D1 e D2.
+      O Depositante apresentou manifestação contrária ao parecer de exame técnico anterior,
+não apresentando novo quadro reivindicatório.
+      A seguir, são reproduzidos os argumentos apresentados pelo Depositante, com
+subsequente contra-argumentação:
+        (1) Os Srs. Examinadores indicam que "o parecer de exame realizado por Escritórios de
+Patentes de outros países, de Organizações Internacionais ou Regionais será considerado como
+subsídio ao exame técnico" e, em seguida, citam o parecer da Autoridade de Busca Internacional
+(ISA) para a antiga reivindicação 19 do presente pedido. A requerente respeitosamente indica que
+está claro de qual ISA os Srs. Examinadores estão se referindo, e presume que seja relativa à
+reivindicação 19 original ao invés da reivindicação após as emendas.
+
+
+
+
+                                                                                            Página 2
+                                           PI0909413-0
+
+        O examinador informa que no parecer de exame técnico anterior reconheceu que a nova
+reivindicação independente 1 consiste da reivindicação independente 19 original emendada com a
+seguinte característica técnica:
+      (a) ...em que as informações compreendem um respectivo ID da zona de MBMS que é
+usado para decodificar dados na zona correspondente, inclusive na determinação de um código
+de embaralhamento e uma sequência para modulação de pilotos da respectiva zona de MBMS.
+       Após análise, foram considerados pertinentes os argumentos no parecer da Autoridade de
+Busca Internacional (ISA) de que a reivindicação independente 19 original não seria nova com
+relação a D1 (D1: Parágrafos [0010-12, 0043], e Figura 4).
+       O Depositante não contesta a análise realizada pelo ISA, por conseguinte mantemos
+entendimento de que todas as características técnicas da reivindicação independente 19 original
+que encontram-se presentes na nova reivindicação independente 1 são antecipadas por D1.
+       Por conseguinte, a análise anterior foi direcionada para avaliar se a característica técnica
+(a) que foi adicionada à reivindicação independente 19 original para compor a nova reivindicação
+independente 1 seria suficiente para dotá-la de inventividade com relação a D1.
+       Da análise exarada no parecer de exame técnico anterior, foi concluído que a característica
+técnica (a) não seria suficiente para considerar que a nova reivindicação independente 1 possa
+ser considerada inventiva quando comparado ao estado da técnica de D1 e D2.
+
+
+       (2) A requerente observa que esta reivindicação (ou algo muito semelhante e ainda mais
+amplo) foi permitida em várias jurisdições, a saber: Patente norte-americana número US
+9,801,028, patente coreana número 10-1571580, patente chinesa número ZL 201410049522.0 e
+patente japonesa número 6,134,298.
+       De acordo com a Resolução INPI/PR no 241/2019  Art. 5o (§ 1o), o parecer de exame
+realizado por Escritórios de Patentes de outros países, de Organizações Internacionais ou
+Regionais será considerado como subsídio ao exame técnico.
+       Mesmo que a reivindicação tenha sido permitida em várias jurisdições, o examinador
+atesta não poder ignorar a análise de outras jurisdições nas quais o pedido foi ou está sendo
+contestado. Como por exemplo no Escritório Europeu de Patentes (EPO), onde o processo dos
+pedidos de patente EP 2,269,392 e EP 3,343,790 considera relevantes os exames realizados pelo
+ISA, e elenca as anterioridades D1 e D2 na relação de documentos do estado da técnica
+considerados relevantes para análise do presente pedido de invenção.
+
+
+       (3) A requerente ressalta que a reivindicação 1 do presente pedido define: "em que as
+informações compreendem um respectivo ID da zona de MBMS que é usado para decodificar
+dados na zona correspondente, inclusive na determinação de um código de embaralhamento e
+uma sequência para modulação de pilotos da respectiva zona de MBMS". Portanto, não é apenas
+uma informação, mas especificamente o ID da zona MBMS que é usado para decodificar
+dados na zona correspondente, incluindo um código de embaralhamento e uma sequência para
+modulação de pilotos na respectiva zona MBMS.
+       Com referência a característica técnica (a) citada pelo Depositante, fazemos referência as
+seguintes passagens contidas nos parágrafos [0028] e [0030] do relatório descritivo (grifos
+nossos):
+
+
+
+
+                                                                                          Página 3
+                                         PI0909413-0
+
+        [0028] Os IDs da zona podem ser usados para decodificação. Mais especificamente, o ID
+da zona ou outra informação identificando as estações base 34-1 a 34-5 como pertencentes à
+zona de MBMS 30 pode habilitar os elementos do usuário dentro da zona de MBMS 30, como tal,
+o elemento do usuário 36, para identificar os parâmetros de decodificação precisam identificar a
+difusão de sinais pelas estações base 34-1 a 34-5 para a zona de MBMS 30. Por exemplo, os
+parâmetros de decodificação podem ser um código de embaralhamento, uma intercalação, um
+padrão-piloto, ou similares. Do mesmo modo, o ID da zona ou outra informação identificando as
+estações base 34-5 a 34-9 como pertencentes à zona de MBMS 32 pode habilitar os elementos
+do usuário dentro da zona de MBMS 32, tal como o elemento do usuário 38, para identificar os
+parâmetros de decodificação necessários para decodificar a difusão de sinais pelas estações
+base 34-5 a 34-9 para a zona de MBMS 32. Além disso, ou alternativamente, os IDs da zona
+podem ser usados para indicar a informação secundária tal como serviço/tipo de dados ou
+similares.;
+        [0030] . Como discutido acima, o ID da zona pode ser usado para identificar os
+parâmetros de decodificação apropriados. Neste caso, o elemento do usuário 36
+efetua a transferência identificando os parâmetros de decodificação para a zona de MBMS 32
+baseados no ID da zona e reconfigurando um decodificador do elemento do usuário 36 com os
+parâmetros de decodificação para a zona de MBMS 32. Nota-se que embora a discussão acima
+focalize IDs da zona para as zonas de MBMS 30 e 32 deveria ser notado que para cada serviço
+pode ser designado um ID diferente de modo que existam zonas de MBMS diferentes para
+serviços diferentes..
+       O examinador depreende das supracitadas passagens da descrição do pedido que o ID da
+zona de MBMS identifica ao usuário os parâmetros necessários para decodificação. Ou seja, para
+cada ID é associado um conjunto de parâmetros necessários para decodificação.
+         Portanto, respeitosamente o examinador discorda do entendimento dado pelo Depositante
+em sua argumentação de que o ID da zona MBMS seria usado diretamente para decodificar
+dados na zona correspondente, ou que o ID da zona MBMS contenha em sua composição um
+código de embaralhamento e uma sequência para modulação de pilotos na respectiva zona
+MBMS. Conforme descrição do pedido, o ID da zona MBMS serve tão somente para
+identificação, sendo necessário que usuário tenha ou obtenha conhecimento das demais
+informações associadas a este ID e que serão usadas para decodificação de dados.
+       Contudo, caso este seja o entendimento do Depositante, o examinador informa que após
+análise da descrição do pedido não encontrou passagens que fundamentem que o ID da zona
+MBMS seja usado diretamente para decodificação de dados, ou que este contenha em seu corpo
+um código de embaralhamento e uma sequência para modulação de pilotos na respectiva zona
+MBMS. Portanto, caso seja este o entendimento do objeto que está sendo pleiteado,
+consideramos que o mesmo não possui fundamentação na descrição do pedido, fazendo com que
+a reivindicação pleiteada esteja objetivando proteção além da matéria revelada, além de
+considerar que a atual redação da reivindicação produz ambiguidade de entendimento do objeto
+para o qual deseja-se proteção.
+       Mesmo que seja este o entendimento, consideramos que este não seria inventivo com
+relação a anterioridade D2, que também revela a possibilidade de que os dados sejam
+embaralhados utilizando para tal diretamente o ID da zona de radiodifusão. Portanto, é evidente
+que o código de desembaralhamento a ser usado pelo usuário estará diretamente relacionado ao
+ID da zona de radiodifusão (D2: Parágrafo [0044], In particular, the wide-area TDM3 symbols
+-WTPC are scrambled using a wide-area ID in the seed, and the local area TDM3 symbols-LTPC
+
+
+
+
+                                                                                       Página 4
+                                          PI0909413-0
+
+are scrambled using both the wide-area and local area Ids in the seed. Ver também Parágrafos
+[0050, 0051]).
+        Do exposto, para análise do pedido, consideramos para a característica técnica (a) o
+entendimento depreendido a partir dos parágrafos [0028] e [0030] do relatório descritivo de que o
+ID da zona do MBMS é utilizado para identificar por associação as informações e parâmetros
+necessárias da zona MBMS para que o usuário consiga decodificar os sinais difundidos na
+referida zona, não havendo portanto o entendimento de que estas informações façam parte da
+composição do ID da zona MBMS.
+
+
+        (4) Os parágrafos [0027] e [0028] de D1 apenas indicam que o BCMCS_ZONE_ID pode
+ser transmitido, mas não indicam em momento algum que esse ID é "usado para decodificar
+dados na zona correspondente, incluindo um código de embaralhamento e uma sequência para
+modulação de pilotos na respectiva zona MBMS". A requerente respeitosamente argumenta que
+as outras informações e parâmetros citados (por exemplo, no parágrafo citado [0034]) são
+irrelevantes, uma vez que não são o ID e não são relevantes para usar o ID para decodificar
+dados da maneira conforme definida no presente pedido. Na verdade, as informações discutidas
+no parágrafo [0034] parecem ser fornecidas durante a negociação e não relacionadas ao ID da
+zona MBMS.
+       Conforme exposição realizada para o argumento (3), o examinador depreende dos
+parágrafos [0028] e [0030] do relatório descritivo que não é o ID do MBMS que é usado para
+decodificar os dados, mas sim as informações associadas a este ID.
+        Assim sendo, mantemos entendimento exarado no parecer de exame de que D1 antecipa
+a característica técnica (a) ao executar um procedimento similar ao pleiteado, pois D1 revela que
+as informações associadas a cada zona (BCMCS-associated information) contém um identificador
+de zona correspondente (BCMCS_ZONE_ID), que identifica o controlador responsável pelo
+serviço de radiodifusão (D1: Parágrafos [0027-28]). A estação móvel utiliza estas informações
+associadas para estabelecer os parâmetros necessários (chave de acesso, temporização,
+endereços IP, portas, etc) para receber o conteúdo de radiodifusão do controlador (D1: Parágrafo
+[0034]). Portanto, é evidente para um técnico no assunto que a estação móvel, ao utilizar o
+BCMCS_ZONE_ID para identificar o controlador de uma determinada zona, por conseguinte
+também estabelece os parâmetros necessários para recepção e decodificação dos dados de
+radiodifusão na correspondente zona do controlador.
+
+
+       (5) Os Srs. Examinadores abordam então, neste parecer, as novas limitações, afirmando
+que D1 (US 2004/0203816) divulga informações fornecidas incluindo um identificador de zona
+(citando os parágrafos [0027] e [0028]) e que a estação móvel usa essas informações para
+estabelecer os parâmetros usados para receber o conteúdo transmitido. Os Srs. Examinadores
+então admitem que D1 não estabelece que os parâmetros de decodificação de dados também se
+relacionam com a determinação de um código de embaralhamento e uma sequência de
+modulação de pilotos e então cita outros parâmetros que não estão relacionados ao identificador
+de zona. Por fim, os Srs. Examinadores citam o parágrafo [0042] de D2 (U.S. 2006/0250937).
+       A anterioridade D1 lista diversos parâmetros que o usuário pode utilizar para recepção do
+serviço de radiodifusão (chave de acesso, temporização, endereços IP, portas, etc) mediante
+conhecimento do ID associado (BCMCS_ZONE_ID) (D1: Parágrafos [0027, 0028 e 0034]).
+Contudo, o examinador reconhece que D1 não se refere explicitamente e especificamente ao uso
+
+
+
+                                                                                         Página 5
+                                          PI0909413-0
+
+de um código de embaralhamento e uma sequência de modulação, conforme o argumento (5) do
+Depositante.
+        Contudo, conforme já manifestado no parecer de exame técnico anterior, não
+consideramos que esta diferença dote a reivindicação independente 1 de inventividade com
+relação a D1, pois: Apesar de D1 não estabelecer diretamente que os parâmetros de
+decodificação de dados referem-se inclusive a determinação de um código de embaralhamento e
+uma sequência para modulação de pilotos, consideramos que tais alternativas não seriam
+inventivas em comparação a anterioridade, pois esta exemplifica diversos parâmetros que podem
+ser estabelecidos para a decodificação dos dados na zona correspondente (chave de acesso,
+temporização, endereços IP, portas, etc) (D1: Parágrafo [0034]). Portanto, consideramos que seria
+evidente, a partir do revelado em D1, utilizar diversos outros parâmetros amplamente conhecidos
+do estado da técnica, tais como códigos de embaralhamentos e sequências de modulação,
+considerando-se portanto opções óbvias de projeto que se enquadram no escopo da prática
+habitual seguida pelos técnicos do assunto.
+        Além disto, no parecer de exame técnico anterior também foi exposto: Mesmo que
+argumente-se que o estabelecimento de código de embaralhamento e sequência de modulação
+de pilotos seria inventivo por D1 não revelar tal característica, constatamos que a mesma seria
+evidente a partir de D2, que revela um processo no qual o código de embaralhamento e
+sequências de símbolos OFDM (modulação) é estabelecido de acordo com o ID de uma área de
+radiodifusão (D2: Parágrafo [0042], Figura 3). Portanto, consideramos que seria evidente para um
+técnico no assunto, com conhecimento em D2, implementar em D1 a possibilidade de estabelecer
+o código de embaralhamento e sequência de modulação de acordo com o BCMCS_ZONE_ID
+correspondente a uma determinada zona de radiodifusão.
+
+
+        (6) O parágrafo [0042] de D2 indica apenas que o entrelaçamento dos pilotos é escolhido
+a partir do ID de transmissão de área ampla para reduzir a probabilidade de colisão do piloto
+entre as transmissões de área ampla vizinha; assim, entende a requerente que D2 está focado
+em torno de evitar colisões de transmissões piloto das estações base, o que não está relacionado
+com um UE usando um ID de zona MBMS "que é usado para decodificar dados na zona
+correspondente, incluindo um código de embaralhamento e uma sequência para modulação de
+pilotos na respectiva zona MBMS".
+       Não consideramos o argumento (6) pertinente. A anterioridade D2 estabelece que um
+determinado entrelaçamento (interlace) e símbolos OFDM (sequência de modulação) é associado
+de acordo com o ID da área de radiodifusão (D2: Parágrafo [0042]). Portanto, é evidente que o
+usuário deverá ter conhecimento dos parâmetros necessários para o desentrelaçamento e
+demodulação da radiodifusão, para os quais bastaria o conhecimento do ID da área, já que estão
+associados.
+       Ademais, caso exista possível questionamento por considerar que a técnica de
+entrelaçamento não equivale a um embaralhamento, o examinador esclarece que a
+anterioridade D2 também antecipa a capacidade de associar um código de embaralhamento
+(scrambler) a cada ID de área de difusão (D2: Parágrafos [0044, 0050-51]).
+
+
+
+        Do exposto, consideramos que os argumentos presentes na manifestação do Depositante
+não foram considerados pertinentes para alterar o entendimento do parecer de exame técnico
+anterior.
+
+
+
+                                                                                        Página 6
+                                         PI0909413-0
+
+       Por conseguinte, mantemos o entendimento de que a reivindicação independente 1 não
+atende ao requisito atividade inventiva, pois decorre de maneira evidente ou óbvia para um
+técnico no assunto a partir do documento D1 combinado a D2, conforme argumentos
+apresentados neste parecer em conjunto com os exarados no parecer de exame técnico anterior.
+       Nas reivindicações dependentes 2 a 9 não foram identificadas características que, mesmo
+quando combinadas com as características de qualquer reivindicação independente a que se
+referem, venham a prover atividade inventiva à matéria.
+      Do exposto, mandemos entendimento de que a matéria pleiteada nas reivindicações 1 a 9
+é mera decorrência do estado da técnica de D1 e D2, não apresentando atividade inventiva, e
+estando em desacordo com os artigos 8º e 13 da LPI.
+
+
+
+
+Conclusão
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                              Publique-se o indeferimento (9.2).
+
+
+
+                                                         Rio de Janeiro, 21 de outubro de 2020.
+
+
+
+
+Leonardo Cavalcanti de Sá Neto
+Pesquisador/ Mat. Nº 1738842
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 007/16
+
+
+
+
+                                                                                       Página 7
+

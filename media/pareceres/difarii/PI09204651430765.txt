@@ -1,0 +1,383 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0920465-2                 N.° de Depósito PCT:US2009/059321
+ Data de Depósito:                   02/10/2009
+ Prioridade Unionista:               US 61/102349 (02/10/2008)
+ Depositante:                        Salix Pharmaceuticals, Inc. (US)
+ Inventor:                           William Forbes
+ Título:                             Uso de Rifaximina
+
+                                                                PARECER
+
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                        1                870210049109           31/05/2021
+Relatório Descritivo                                     2-104               870210011047           02/02/2021
+Quadro Reivindicatório*                                     1                870210049109           31/05/2021
+Desenhos                                                  1-13               20110034211            08/04/2011
+Resumo                                                      1                870210049109           31/05/2021
+* Além do quadro principal, dois quadros subsidiários foram apresentados, cada um com 3
+reivindicações.
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                          Página 1 de 8
+                                               PI0920465-2
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                   X
+Comentários/Justificativas
+       O primeiro parecer técnico concluiu que a matéria das antigas reivindicações 1, 2, 5-8 não
+era nova e o restante da matéria não apresenta atividade inventiva frente aos documentos D1-D3
+(Arts. 8o, 11 e 13 da Lei 9279/96); além disso, o quadro continha termos que não definiam de
+maneira e precisa a matéria pleiteada (Art. 25 da Lei 9279/96).
+
+       Com base nos três novos quadros reivindicatórios, e em todos os esclarecimentos
+apresentados pela Requerente, entende-se que as objeções anteriormente levantadas sobre a
+novidade, atividade inventiva e clareza e precisão do quadro não foram resolvidas.
+
+
+
+       A nova reivindicação 1 do quadro principal está assim redigida:
+
+       (a) uso de rifaximina, caracterizado pelo fato de que é para preparação de um
+medicamento para reduzir risco em um indivíduo de um episódio de surto recorrente de
+encefalopatia hepática (HE), em que
+
+       (b) o medicamento é usado em um método compreendendo administrar rifaximina
+diariamente por um período de 12 meses ou maior, em que
+
+       (c) o episódio de surto é definido por uma pontuação de Conn de Grau  2, em que o
+indivíduo teve dois ou mais episódios de HE equivalentes a pontuação de Conn  2 em 6 meses
+antes do uso de rifaximina, e em que o indivíduo tem uma pontuação de linha de base de 0 ao
+iniciar o uso de rifaximina.
+
+       Conforme apontado no primeiro parecer técnico, o trecho (c) acima define o uso por meio
+de um resultado clínico/estatístico esperado. Esta definição não permite que o escopo da
+reivindicação 1 seja precisamente distinto do uso já conhecido da rifaximina na prevenção,
+melhoria e/ou tratamento da HE. Em outras palavras, não há clareza e precisão (Art. 25 da LPI)
+neste trecho uma vez que tal definição não representa um elemento novo ao uso pleiteado (ver
+discussão sobre novidade adiante). Consequentemente, este trecho não pode ser considerado um
+elemento limitante para conferir novidade ao uso como ora pleiteado no trecho (a).
+
+       O quadro subsidiário 2 contém passagem semelhante ao referido trecho (c).
+
+       A nova reivindicação 5 recita diversos nomes comerciais: Align, Alínea, Pentasa, Amitiza,
+Flagil, Zegerid, Prevacid e Miralax. A mesma objeção é válida para a matéria dos quadros
+
+
+                                                                                     Página 2 de 8
+                                            PI0920465-2
+
+subsidiários. Entretanto, segundo o item 2.25 da Resolução INPI/PR 124 de 04/12/2013, que
+institui as diretrizes de exame de pedido de patente, o uso de nomes próprios, marcas
+registradas, nomes comerciais ou palavras similares quando tais palavras simplesmente se
+referirem à origem ou a um conjunto de diferentes produtos não é permitido.
+
+
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                                Documento                               Data de publicação
+    D1        LEEVY CB & PHILLIPS JA. Hospitalizations During the Use of               2007
+                Rifeximin Versus Lactulose for the Treatment of Hepatic
+                    Encephalopathy. Dig Dis Sci (2007) 52: 737-741
+    D2       BASS NM. Review article: the current pharmacological therapies            2006
+             for hepatic encephalopathy. Aliment. Pharmacol. Therap. (2006)
+                                   25 (suppl. 1): 23-31
+    D3       ZENEROLI ML ET AL. Management of Hepatic Encephalopathy:                  2005
+              Role of Rifaximin. Chemotherapy (2005) 51 (suppl. 1): 90-95
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade              Cumprimento                Reivindicações
+                                                     Sim                         1-5
+            Aplicação Industrial
+                                                     Não                          -
+                                                     Sim                        4e5
+                  Novidade
+                                                     Não                         1-3
+
+                                                     Sim                          -
+             Atividade Inventiva
+                                                     Não                         1-5
+
+
+
+Comentários/Justificativas
+
+
+         A nova reivindicação 1 do quadro principal está assim redigida:
+
+         (a) uso de rifaximina, caracterizado pelo fato de que é para preparação de um
+medicamento para reduzir risco em um indivíduo de um episódio de surto recorrente de
+encefalopatia hepática (HE), em que
+
+         (b) o medicamento é usado em um método compreendendo administrar rifaximina
+diariamente por um período de 12 meses ou maior, em que
+
+         (c) o episódio de surto é definido por uma pontuação de Conn de Grau  2, em que o
+indivíduo teve dois ou mais episódios de HE equivalentes a pontuação de Conn  2 em 6 meses
+
+
+
+                                                                                       Página 3 de 8
+                                         PI0920465-2
+
+antes do uso de rifaximina, e em que o indivíduo tem uma pontuação de linha de base de 0 ao
+iniciar o uso de rifaximina.
+
+
+
+
+Novidade
+
+       O primeiro parecer técnico concluiu que a matéria das reivindicações 1, 2, 5-8 não era
+nova frente a D1-D3.
+
+       Sobre a questão da novidade, a Requerente defende que, segundo os itens 4.6 e 4.7 das
+diretrizes de exame (bloco II), todas as características de uma determinada reivindicação
+independente devem ser consideradas na avaliação de novidade de invenção. (grifo da
+Requerente). Logo, a Requerente conclui que a matéria ora pleiteada não é antecipada em D1-
+D3.
+
+       Mais adiante, a Requerente defende que existem patentes com reivindicações de uso
+contendo limitações quantitativas da composição farmacêutica/medicamento fabricado pelo uso
+patenteado.
+
+       Entretanto, não é possível concordar, respeitosamente, com a Requerente nestes
+pontos.
+
+       Primeiramente, é preciso considerar que apenas características válidas devem ser
+levadas em conta na aferição da novidade de um novo uso médico.
+
+       Conforme discutido anteriormente, características de um resultado clínico/estatístico
+esperado (trecho c) não conferem novidade a um uso já conhecido (uso de rifaximina para o
+tratamento de HE).
+
+       Além disso, esquemas terapêuticos, tais como dosagens, vias de administração e intervalo
+posológico não são características válidas para conferir novidade a um segundo uso médico.
+
+       A propósito, o trecho (b) recita um esquema terapêutico em que o medicamento é usado
+em um método compreendendo administrar rifaximina diariamente por um período de 12 meses
+ou maior.
+
+       É importante ressaltar que, para a aferição da novidade de um segundo uso médico, o item
+9.1.1. da Resolução INPI/PR 208 de 27/12/2017, que institui as diretrizes de exame de pedidos na
+área de química, define o seguinte:
+
+       Para ser considerada nova, a invenção de novo uso médico deve revelar a aplicação de
+       um produto farmacêutico já conhecido para produzir um medicamento para tratar ou
+
+
+
+
+                                                                                  Página 4 de 8
+                                            PI0920465-2
+
+       prevenir uma doença diferente daquela para a qual este produto jé era empregado no
+       estado da técnica.
+
+       Características relacionadas ao uso do composto, tais como o esquema terapêutico
+       (dosagem, via de administração/aplicação, intervalo posológico) e/ou grupo de pacientes
+       não conferem novidade ao uso conhecido do composto. Por exemplo, se o estado da
+       técnica revela o uso do composto X para fabricar um medicamento para tratar a doença
+       Y" e o pedido pleiteia o uso do composto X para fabricar um medicamento para tratar a
+       doença Y em pacientes diabéticos", o uso pleiteado não é considerado novo. (grifo
+       nosso).
+
+
+
+       Consequentemente, a aferição da novidade é dirigida ao uso definido no trecho (a)
+acima, ou seja, ao uso de rifaximina para preparação de um medicamento para reduzir risco em
+um indivíduo de um episódio de surto recorrente de encefalopatia hepática (HE).
+
+       O documento D1 (Leevy & Phillips, 2007) investiga os casos de hospitalizações durante o
+uso de rifaximina versus lactulose para o tratamento de encefalopatia hepática. Os pacientes
+foram tratados por > 6 meses com lactulose (30 cc duas vezes ao dia) (período lactulose). Findo
+este período, os pacientes foram tratados com rifaximina (400 mg 3 vezes ao dia) por > 6 meses
+(período rifaximina). O tratamento da HE com rifaximina foi associado com frequência reduzida
+de hospitalização e duração, reduzidos encargos hospitalares, melhores resultados clínicos e
+menores efeitos adversos (ver resumo e seção Discussion).
+
+       D1, portanto, antecipa o uso de rifaximina para o tratamento da HE, cujo tratamento
+resultou em uma melhora clínica, redução dos efeitos adversos e redução do número e da
+duração das hospitalizações. Consequentemente, uma redução de risco de um indivíduo de um
+episódio de avanço de encefalopatia hepática (HE) está implicita e indissociavelmente atrelada
+ao resultado clínico decorrente do uso ensinado em D1.
+
+       Consequentemente, a matéria das novas reivindicações 1-3 não é nova frente a D1.
+
+       O documento D2 (Bass, 2006) revisa as terapias farmacológicas para a encefalopatia
+hepática. O tratamento com rifaximina, em doses de 1200 mg/dia, resultou em melhores
+concentrações de amônia sanguínea, melhores resultados de EEG, melhores escores gerais de
+HE, incluindo o escore asterixis e estado mental comparado com o tratamento com lactulose
+(página 27, coluna esquerda, terceiro parágrafo). Uma redução significativa no índice PSE
+mediano foi observado com uma dose de 1200 ou 2400 mg/dia de rifaximina, indicando que
+níveis de dose > 1200 mg/dia são mais benéficos do que 600 mg/dia no tratamento de HE
+(página 25, coluna direita, quarto parágrafo).
+
+
+
+
+                                                                                   Página 5 de 8
+                                           PI0920465-2
+
+       Consequentemente, a matéria das novas reivindicações 1-3 não é nova frente a D2.
+
+       O documento D3 (Zeneroli et al, 2005) revela que rifaximina pode ser útil na prevenção
+de episódios de HE em pacientes com cirrose hepática. Outros antibióticos e compostos são
+revelados como úteis no tratamento da HE, incluindo neomicina, paromomicina, metronizadol,
+vancomicina, lactulose (página 93, coluna esquerda). Duas combinações de rifaximina, uma com
+sorbitol e outra com lactitol é mostrada na tabela 1 de D3.
+
+       Consequentemente, a matéria das novas reivindicações 1-3 não é nova frente a D3.
+
+       Por outro lado, D1-D3 não antecipam usos de rifaximina para o tratamento da HE em
+combinação com lactulose e outros componentes recitados nas reivindicações 4 e 5.
+
+       Consequentemente, a matéria das novas reivindicações 4 e 5 é nova frente a D1-D3.
+
+
+
+
+Atividade inventiva
+
+       Sobre o quesito da atividade inventiva, a Requerente defende que conforme item 5.6
+das diretrizes de exame (bloco II), todas as características de uma determinada
+reivindicação independente devem ser consideradas na avaliação da atividade inventiva de
+uma invenção definida em tal reivindicação. (grifo da Requerente).
+
+       A defesa da atividade inventiva pela Requerente se sustenta, basicamente, com base em
+um esquema posológico no qual a rifaximina é administrada diariamente, na dose de 550 mg
+duas vezes ao dia, por um período de 12 meses ou maior.
+
+       Segundo a Requerente, devido ao problema de resistência aos antibióticos e ao risco de
+surgimento de bactérias resistentes à rifaximina, um técnico no assunto não teria razão, à
+época, para tentar regimes de administração mais longos de rifaximina.
+
+       Ademais, a Requerente esclarece que os dados no presente relatório descritivo
+demonstram que, quando administrada "diariamente" "por um período de 12 meses ou mais", a
+rifaximina é eficaz para diminuir com segurança o "risco de um episódio de surto recorrente de
+encefalopatia hepática (HE)" com baixo risco de antibiótico resistência quando comparada a
+outros antibióticos comumente usados, como a neomicina. Estes resultados não podiam ter sido
+previstos na altura da invenção e vão contra o conhecimento geral sobre antibióticos e os dados
+disponíveis sobre a rifaximina na altura da presente invenção.
+
+       Sobre as alegações acima, é importante destacar que a novidade não foi restabelecida
+no presente exame técnico, como discutido acima. Cabe repetir que características de esquema
+
+
+
+
+                                                                                    Página 6 de 8
+                                          PI0920465-2
+
+terapêutico, dosagem, via de administração/aplicação, intervalo posológico ou resultado
+clínico/estatístico esperado não conferem novidade a um uso já conhecido.
+
+       Sobre a atividade inventiva, o item 9.1.2 da Resolução INPI/PR de 27/12/2017, que
+institui as diretrizes de exame de pedidos de patente na área de química, estabelece que no
+caso das invenções de novo uso médico, alguns aspectos devem ser observados para aferição
+do requisito de atividade inventiva:
+
+       1. O mecanismo de ação do composto envolvido no novo uso não deve ser depreendido
+do seu mecanismo de ação para uso médico já revelado no estado da técnica.
+       2. O novo uso deve se referir ao tratamento de uma doença cuja etiologia seja diferente
+da etiologia da doença relacionada ao uso revelado no estado da técnica.
+
+       Em primeiro lugar, como o uso pleiteado (uso de rifaximina para HE) é o mesmo daquele
+é antecipado no estado da técnica (D1-D3) o mecanismo de ação evidentemente o mesmo nos
+dois casos.
+
+       Em segundo lugar, não é possível identificar uma etiologia diferente para o uso pleiteado,
+uma vez que a rifaximina é direcionada ao tratamento da mesma enfermidade (encefalopatia
+hepática) já revelada no estado da técnica.
+
+       Conforme discutido acima, os usos antecipados em D1-D3 diferem daqueles ora
+pleiteados no sentido de não anteciparem usos de uma combinação entre rifaximina e lactulose
+e outros compostos para o tratamento da HE.
+
+       Conforme discutido no primeiro parecer técnico, não é possível aferir uma atividade
+inventiva a estas combinações.
+
+       Em primeiro lugar, os compostos suplementares listados nas reivindicações 4 e 5 são
+compostos tipicamente usados como terapia de primeira linha para HE (ver D3). Dissacarídeos
+não-absorvíveis, por exemplo, lactulose ou lactitol, são comumente usados para HE. Da mesma
+forma, alguns os antibióticos representam opções terapêuticas, tais como aqueles mencionados
+em D3.
+
+       Consequentemente, um técnico no assunto sabe que, além daquelas mencionadas na
+tabela de D3, outras combinações com rifaximina são possíveis a partir da lista de compostos de
+D3, as quais podem se elaboradas com uma razoável expectativa de sucesso.
+
+       Em segundo lugar, o presente pedido não traz nenhuma evidência experimental de que
+os usos em combinação de rifaximina com os compostos recitados nas reivindicações 4 e 5
+produzam um efeito notável ou inesperado sobre aqueles já revelados em D3. O presente
+pedido menciona estudos anteriores, nos quais esquemas de tratamento com rifaximina são
+
+
+
+                                                                                    Página 7 de 8
+                                          PI0920465-2
+
+comparados com outros esquemas envolvem outros compostos, porém não apresenta
+resultados a partir de usos combinados de rifaximina com os referidos compostos. Não há,
+portanto, evidências concretadas de que o presente pedido atingiu o objetivo proposto.
+
+
+
+
+Conclusão
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não
+foram apresentados argumentos técnicos que permitam reverter o entendimento anterior, no
+primeiro parecer técnico (7.1) notificado na RPI 2617 de 02/03/20221, visto que o presente
+pedido encontra-se em desacordo com os Arts. 8o, 11, 13 e 25 da Lei 9279/96.
+
+De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da data
+de publicação na RPI, para interposição de recurso.
+
+
+
+                                                           Rio de Janeiro, 08 de junho de 2021.
+
+                                                              Publique-se o indeferimento (9.2).
+
+
+
+
+Dárcio Gomes Pereira
+Pesquisador/ Mat. Nº 1741666
+DIRPA / CGPAT I/DIFAR-II
+Deleg. Comp. - Port. INPI/DIRPA N o
+001/15
+
+
+
+
+                                                                                    Página 8 de 8
+

@@ -1,0 +1,158 @@
+                              SERVIÇO PÚBLICO FEDERAL
+                               MINISTÉRIO DA ECONOMIA
+                   INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                RELATÓRIO DE EXAME TÉCNICO
+
+N.° do Pedido:            PI0719770-5                N.° de Depósito PCT:US2007/080273
+Data de Depósito:         03/10/2007
+Prioridade Unionista:     US 60/828365 (05/10/2006)
+Depositante:              Shell Internationale Research Maatschappij B. V. (NL)
+Inventor:                 George Rodenbusch, Heping Zhang, Jane Qing Zhang
+Título:                   Sistema de flutuação, e, método de modificação de um sistema de
+                          flutuação 
+
+                                             PARECER
+        Trata-se de continuidade de exame do pedido de patente PI0719770-5.
+        O pedido examinado apresentou algumas irregularidades perante a legislação vigente.
+Desta forma, foi publicado despacho de ciência na RPI nº 2515 (de 13/03/2019).
+
+        Por meio da petição nº 870190053617 de 11/06/2019 o requerente apresentou razões e
+novos documentos.
+        No Quadro 1, após avaliação dos documentos apresentados até o presente momento,
+consta a especificação da parte do pedido que será objeto de análise técnica.
+
+                           Quadro 1  Páginas do pedido examinadas
+             Elemento                   Páginas               n.o da Petição           Data
+
+Relatório Descritivo                 10/70  29/70            870190053617           11/06/2019
+Quadro Reivindicatório               30/70  32/70            870190053617           11/06/2019
+Desenhos                             33/70  41/70            870190053617           11/06/2019
+Resumo                                   42/70                870190053617           11/06/2019
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                 Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                       x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                         x
+O pedido está de acordo com disposto no art. 32 da LPI                          x
+Comentários/Justificativas: ***
+
+
+
+
+MODELO_SISCAP@                                                                          Página 1/3
+                                                PI0719770-5
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                            Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI        x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI      x
+Comentários/Justificativas: ***
+
+      Efetuada a busca, foram encontrados como estado da técnica mais próximo os documentos
+citado no quadro 4.
+
+                            Quadro 4  Documentos citados no parecer
+
+ Código                                   Documento                             Data de publicação
+                                            Já citado
+
+
+    Quadro 5 - Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                  Cumprimento            Reivindicações
+                                                          Sim                    1  12
+           Aplicação Industrial
+                                                          Não                   nenhuma
+                                                          Sim                    1  12
+                   Novidade
+                                                          Não                   nenhuma
+                                                          Sim                   nenhuma
+           Atividade Inventiva
+                                                          Não                    1  12
+
+
+
+Comentários/Justificativas
+
+       Após a análise de documentação apresentada na manifestação quanto ao parecer
+desfavorável, o(a) requerente, em síntese, apresenta os seguintes argumentos em defesa da
+suposta patenteabilidade do objeto reivindicado:
+
+                 Note-se que a reivindicação 1 foi restringida e agora incorpora as características
+                 da reivindicação 4 anterior. ( pág. 5/70);
+
+                 Em função de o quadro reivindicatório anterior estar redigido de maneira
+                 excessivamente abrangente e, quiçá, confuso, a Requerente pede vênia para
+                 concordar com a Digna Perícia de que determinados aspectos técnicos das
+                 reivindicações independentes 1 e 16 anteriores estariam, em parte, em conflito com
+                 os ensinamentos daqueles documentos D1-D3 (pág. 7/70);
+
+                O sistema da reivindicação 1 atual é novo e inventivo em face de D1 porque ele
+                 evidencia o uso de uma âncora que é conectada à porção inferior em formato de
+                 catenária da estrutura de linha subaquática alongada por uma linha de âncora que
+                 é inclinada a partir da vertical.  (pág. 7/70);
+
+
+
+                                                                                          Página 2/3
+                                           PI0719770-5
+
+
+       Dando continuidade à análise técnica, incorporando-se a documentação acima indicada,
+faz-se as seguintes observações:
+
+             A nova formulação do quadro reivindicatório e os argumentos apresentados pelo
+              requerente, embora contribuam para enfatizar a novidade da matéria reivindicada
+              no novo quadro apresentado, não foram suficientes para afastar a falta de atividade
+              inventiva já apontada. Ou seja, o requerente não se desincumbiu do ônus de
+              comprovar a atividade inventiva do objeto reivindicado.
+
+             D1 não revele um sistema de flutuação com todas as características técnicas da
+              parte caracterizante da reivindicação 1. Assim, a matéria reivindicada 1 é
+              considerada nova face ao estado da técnica citado. Consequentemente, a matéria
+              das reivindicações dependentes 2  12, também é considerada nova;
+
+             na    presente    análise,   não    restou   evidente     nenhum      efeito   técnico
+              inesperado/surpreendente capaz de contribuir para indicação de atividade incentiva
+              do objeto reivindicado;
+
+             Embora a matéria da reivindicação possa         considerada nova, um técnico no
+              assunto, ao tempo do depósito do pedido, com base nos documentos do estado da
+              técnica citados e nos conhecimentos comuns de construção/otimização de
+              estruturas petrolíferas flutuantes, ao se deparar com a necessidade de redução de
+              cargas de fadiga desse tipo de sistema,         naturalmente chegaria ao sistema
+              proposto na reivindicação 1. Analogamente, o técnico no assunto naturalmente
+              chegaria aos detalhamentos das reivindicações 2  12;
+
+             As atuais reivindicações estão formuladas com trechos explicativos quanto ao
+              funcionamento e/ou aos efeitos obtidos com o sistema de flutuação, o que é
+              vedado.
+
+Conclusão
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não
+atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                   Publique-se o indeferimento (9.2).
+
+                                                             Rio de Janeiro, 28 de junho de 2019.
+
+
+Flávio Aureliano da Costa
+Pesquisador/ Mat. Nº 1380006
+DIRPA / CGPAT IV/DIMEC
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                         Página 3/3
+

@@ -1,0 +1,238 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122020003174-3          N.° de Depósito PCT:JP2009/005622
+ Data de Depósito:                   26/10/2009
+ Prioridade Unionista:               JP 2008-283004 (04/11/2008); JP 2009-230545 (02/10/2009)
+ Depositante:                        MITSUBISHI ELECTRIC CORPORATION (JP)
+ Inventor:                           Miho Maeda, Mitsuru Mochizuki, Taiga Saegusa, Yasushi Iwane, Yuji
+                                     Kakehi, Masayuki Nakazawa, Taisei Suemitsu
+ Título:                             Método de comunicação, sistema de comunicação móvel,
+                                     equipamentos de usuário, e, controlador de rede de rádio
+
+                                                                PARECER
+
+
+      Em 13/10/2020 foi publicado, através da RPI nº 2597, notificação de ciência (7.1) conforme
+parecer de exame técnico do presente pedido datado de 02/10/2020.
+      O Depositante, através da petição nº 870210002104 de 07/01/2020, apresentou
+manifestação a respeito do parecer técnico, sem novas vias do pedido..
+       O presente pedido corresponde a uma divisão do pedido PI0921326-0, cujo deferimento foi
+publicado na RPI 2591 de 01/09/2020.
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 196              870200022092           14/02/2020
+                                                    1 a 4 (QRv)              020110044979           03/05/2011
+Quadro Reivindicatório
+                                                    1 a 3 (QRd)              870200022092           14/02/2020
+Desenhos                                                1 a 44               870200022092           14/02/2020
+Resumo                                                      1                870200022092           14/02/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                                   x
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                       BR122020003174-3
+
+
+Comentários/Justificativas
+       O parecer de exame técnico anterior manifestou que o presente pedido dividido contraria o
+disposto no Art. 32 da LPI.
+       Em sua manifestação, o Depositante apresenta os seguintes argumentos:
+        Em seu parecer técnico ora sob resposta, a Digna Perícia afirmou que o quadro
+reivindicatório apresentado na petição 870200022092 de 14/02/2020 viria a infringir o Art. 32 da
+LPI. A Requerente pede vênia para discordar da opinião da Digna Perícia pelos motivos a seguir.
+       A Requerente esclarece que as reivindicações 1 a 4 apresentadas na petição
+870200022092 se referem à quarta modalidade que começa a ser descrita no parágrafo [00121]
+do relatório descritivo. As reivindicações referem-se especialmente à matéria presente na Fig. 24,
+e especialmente a partir da etapa ST2406 à etapa ST2412.
+       Dessa forma, a matéria pleiteada pelo pedido dividido em questão é suportada pela quarta
+modalidade e, em particular, a fig. 24. Sendo assim, a Requerente entende que não houve
+qualquer infração ao Artigo 32 da LPI ou à Resolução PR 93/2013 no quadro reivindicatório
+apresentado na petição 870200022092 de 14/02/2020 .
+       Portanto, a Requerente respeitosamente diverge da opinião da Digna Perícia pelos
+motivos aqui expostos e solicita o reexame dessa questão. (Grifos nossos).
+
+
+        O item 2.6 da Resolução no 093/2013 do INPI estabelece que De acordo com o disposto
+no artigo 26, a divisão de um pedido de patente terá sua aceitação com base na matéria
+inicialmente revelada. Uma vez cumpridos os requisitos dispostos no artigo 26, a divisão do
+pedido de patente será aceita. Porém, o QR do pedido dividido será analisado, no momento de
+seu exame técnico, considerando o disposto no artigo 32 da LPI: Se a divisão do pedido de
+patente ocorrer APÓS a solicitação de exame do Pedido Original, o QR do Pedido Dividido
+DEVERÁ SE RESTRINGIR À MATÉRIA REIVINDICADA no QR válido quando da solicitação de
+exame do Pedido Original, mesmo que tais reivindicações estejam baseadas na matéria revelada
+no Pedido Original. A partir disto, serão aplicadas as deliberações já apresentadas nesta
+Resolução quanto à aceitação do QR, considerando o disposto no artigo 32 da LPI. (Grifos
+nossos).
+        O pedido original teve seu exame solicitado em 03/11/2011, através da petição no
+020110112264. O presente pedido dividido foi realizado após a solicitação de exame do pedido
+original. Neste caso, o Quadro Reivindicatório válido encontra-se identificado como QRv no
+Quadro 1.
+        Respeitosamente, mantemos entendimento de que o quadro reivindicatório do pedido
+dividido (indicado como QRd no Quadro 1) incide no Art. 32 da LPI, uma vez que:
+        Conforme argumentação do Depositante, as implementações pleiteadas no QRd são
+oriundas do relatório descritivo e quadro de desenhos, ou seja, da matéria revelada;
+         Portanto, o QRd contraria o estabelecido na Resolução no 093/2013, uma vez que a
+divisão do pedido de patente após a solicitação do pedido original deve limitar-se à matéria
+reivindicada no QRv;
+        No presente caso, a matéria revelada foi utilizada para pleitear processos e produtos que
+não foram reivindicadas originalmente, o que não é permitido pela Resolução no 093/2013 por
+ampliar o escopo de proteção almejado pelo QRv.
+
+
+
+                                                                                         Página 2
+                                          BR122020003174-3
+
+       Por conseguinte, não consideramos os argumentos apresentados pelo Depositante
+persuasivos, mantendo-se o entendimento exarado no item 1 da seção comentários/justificativas
+do Quadro 2 do parecer de exame técnico anterior de que o pedido incide no Art. 32 da LPI por
+não limitar-se à matéria reivindicada originalmente no QRv.
+       Ademais, e com fundamento no estabelecido na Resolução no 093/2013, mantemos
+entendimento de que o QRd também incide no Art. 32 da LPI devido aos argumentos exarados
+nos itens 2 e 3 da seção comentários/justificativas do Quadro 2 do parecer de exame técnico
+anterior, para os quais o Depositante não apresentou contra-argumentação.
+        Do exposto, o QRd continua contrariando o disposto no Art. 32 da LPI e, de acordo com o
+item 3.2 (3.ii) da Resolução INPI PR n° 93/2013, o pedido de patente será indeferido (despacho
+9.2), considerando as razões de não-patenteabilidade apontadas no parecer de exame anterior, e,
+adicionalmente, o artigo 32 da LPI.
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      -               -
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    -               -
+Comentários/Justificativas
+       Tendo em vista que o pedido não está de acordo com o Artigo 32 da LPI, não serão
+tecidos comentários quanto aos Artigos 24 e 25 da LPI, conforme Portaria/INPI/DIRPA N° 1/ 2021,
+procedimento P029, item 5.2.25.3.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+            R2-083611  Samsung, Home cell whitelisthandling, 3GPP
+    D1                                                                              07/2008
+            TSG RAN WG2 #62bis
+            S2-085683  T-Mobile, Airvana, Rel-8 Closed Subscriber
+    D2      Group support for Home NodeB / eNodeB, 3GPP TSG SA WG2                 08/2008
+            Meeting #67
+            R2-074831  Huawei, Cell re-selection for hNB, 3GPP TSG
+    D3                                                                              11/2007
+            RAN2 #60
+    D4      US 2008/0267153 A1                                                     30/10/2008
+            R2-082203  Huawei, Rel-8 UE idle mode mobility for HNB,
+    D5                                                                              05/2008
+            3GPP TSG RAN2 Meeting #62
+
+
+
+
+                                                                                         Página 3
+                                      BR122020003174-3
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade           Cumprimento                Reivindicações
+                                                   Sim                        1a4
+          Aplicação Industrial
+                                                   Não                          -
+                                                   Sim                        1a4
+                Novidade
+                                                   Não                          -
+                                                   Sim                          -
+          Atividade Inventiva
+                                                   Não                        1a4
+Comentários/Justificativas
+       Conforme estabelecido na Resolução INPI/PR no 241/2019  Art. 5o (§4o) em conjunto com
+o item 2.5 da Resolução INPI/PR no 093/2013, por economia processual, no parecer de exame
+anterior foi realizada a análise dos requisitos de patenteabilidade do QRd recusado.
+        Com fundamento na Resolução INPI/PR no 241/2019  Art. 5o (§1o), o parecer de exame
+realizado pelo EPO para o pedido de patente EP3206438 foi considerado como subsídio ao
+exame técnico, pois verificou-se que o QRd é similar ao apresentado durante o processo do
+referido pedido europeu. Os documentos D1 a D5 foram considerados relevantes durante análise
+do EPO. Estas anterioridades foram anexadas ao parecer de exame técnico anterior, bem como
+os pareceres emitidos pelo EPO em 17/07/2017, 18/07/2018, 20/03/2019 e 22/11/2019.
+       Após análise, foram considerados pertinentes os argumentos apresentados pelo EPO
+durante o processo do referido pedido de patente europeu, que constataram que o QRd não
+atende ao requisito de atividade inventiva (por conseguinte, em desacordo com os Art. 8º e 13 da
+LPI).
+       Em sua manifestação, o Depositante apresenta argumentos contrários a análise emitida
+no parecer de exame anterior de que o QRd não atende ao requisito de atividade inventiva.
+      Respeitosamente, consideramos os argumentos apresentados pelo Depositante não
+persuasivos, uma vez que:
+         Mantemos a análise realizada pelo EPO para o pedido de patente EP3206438 como
+subsídio ao presente exame técnico. Verificamos que os argumentos apresentados pelo
+Depositante são similares aos apresentados ao EPO ao longo do referido processo, tendo sido
+considerados não persuasivos até o presente momento, tendo o EPO emitido mais um parecer
+contrário em 05/10/2020. O referido parecer será anexado ao presente exame técnico. Todos os
+documentos da análise realizada pelo EPO são públicos e podem ser acessados através do link:
+https://register.epo.org/application?number=EP17162460&lng=en&tab=doclist.
+        Após análise, consideramos pertinentes os argumentos apresentados pelo EPO durante
+o processo do referido pedido de patente europeu, e mantemos o entendimento de que o QRd
+recusado não atende ao requisito de atividade inventiva, contrariando o estabelecido nos Art. 8º e
+13 da LPI.
+        Mais especificamente, o Depositante alega que as linhas 15 a 17 da página 2 de D1 não
+revelam duas etapas do método pleiteado na reivindicação independente 1 do QRd. Contudo,
+conforme parecer emitido pelo EPO em 05/10/2018, estas etapas encontram-se antecipadas nas
+linhas 1 e 2, 6, e 18 a 21 da página 2 de D1, assim como também seriam evidentes para um
+técnico no assunto a partir da matéria revelada nas linhas 21 a 38 da página 1 de D5.
+
+
+
+                                                                                         Página 4
+                                       BR122020003174-3
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido conforme argumentos
+presentes nas seções comentários/justificativas dos quadros 2 e 5, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI); e
+
+      -   acréscimo de matéria do pedido ou do escopo das reivindicações (Art. 32 da LPI).
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 8 de fevereiro de 2021.
+
+
+
+
+Leonardo Cavalcanti de Sá Neto
+Pesquisador/ Mat. Nº 1738842
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 007/16
+
+
+
+
+                                                                                         Página 5
+

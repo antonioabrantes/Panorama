@@ -1,0 +1,318 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR122021012627-5              N.° de Depósito PCT: US2018/064503
+ Data de Depósito:     07/12/2018
+ Prioridade Unionista: US 62/595,907 (07/12/2017); US 62/626,998 (06/02/2018); US
+                       62/760,434 (13/11/2018)
+ Depositante:          EMORY UNIVERSITY (US)
+ Inventor:             GEORGE R. PAINTER; GREGORY R. BLUEMLING; MICHAEL G.
+                       NATCHUS; DAVID GUTHRIE
+ Título:               Composição farmacêutica, recipiente pressurizado, e, métodos para
+                       tratar ou prevenir uma infecção viral e de tratamento ou prevenção de
+                       coronavírus humano, sars, coronavírus mers, vírus da encefalite
+                       equina oriental, vírus da encefalite equina ocidental, vírus da
+                       encefalite equina venezuelana, vírus chikungunya e infecção por
+                       infecção de ross river, vírus orthomyxoviridae ou vírus
+                       paramyxoviridae ou vírus rsv, ou infecção pelo vírus influenza a e vírus
+                       influenza b ou vírus filoviridae ou vírus ebola. 
+
+                                            PARECER
+          O presente pedido de patente de invenção refere-se ao nucleosídeo e derivados de
+N4-hidroxicitidina, bem como composições e uso dos ditos compostos no tratamento ou
+prevenção de uma pletora de infecções virais em um sujeito em necessidade dos ditos
+compostos e composições.
+Histórico
+
+          O     pedido        em      análise,       BR122021012627-5,       refere-se   à   divisão   do   pedido
+BR112020010581-3, depositado por meio da petição n.º 870200065357 de 27/05/2020, o qual
+originalmente continha 60 reivindicações. Conforme o Art.28 da IN 31/2013, o pedido original e o
+pedido dividido estão na mesma fase processual.
+          O depósito deste pedido dividido foi feito através da petição n.º 870210057550, de
+25/06/2021, o Depositante apresentou relatório descritivo (RD), quadro reivindicatório (QR),
+resumo e desenhos (despacho 2.4, notificado na RPI n.º 2637 de 20/07/2021); o presente
+pedido passa a conter todos os despachos atribuídos ao pedido original (BR112020010581-3)
+nas RPIs anteriores à data de entrada deste dividido.
+
+          Registre-se que ao presente pedido dividido BR122021012627-5, de acordo com o
+despacho 28.30, foi concebido o trâmite prioritário requerido através da petição nº
+870210059130, de 30/06/2021, haja vista que atende ao disposto no art. 12 da Portaria INPI PR
+nº 247 de 22/06/20, publicada na RPI nº 2582 de 30/06/20.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                  Página 1
+                                        BR122021012627-5
+
+       Vale destacar que no primeiro exame técnico (despacho 7.1, RPI 2547 de 28/09/2021)
+não definitivo, apontou-se violação do art.32 da LPI, no entanto, com os argumentos pertinentes
+da Requerente trazidos em sua manifestação de 27/12/2021, petição n.º 870210120842,
+reconheceu-se que o presente pedido dividido foi depositado em 25/06/2021, ou seja, ANTES do
+requerimento de exame do pedido original, o qual foi solicitado posteriormente em 28/06/2021.
+Portanto, de acordo com a Resolução 93/2013, não se pode aplicar o limite imposto pelo artigo
+32 ao presente pedido dividido. Dessa forma, prosseguiu-se a análise do pedido a partir da
+manifestação de 25/06/2021, petição n.º 870210057550.
+
+       Em sua manifestação Nº 870210120842 de 27/12/2021, em resposta ao primeiro parecer
+técnico, a Requerente trouxe um quadro reivindicatório reformulado, aceito no segundo parecer
+técnico (despacho 6.1, RPI 2670 de 08/03/2022). Nesse segundo parecer, foram encontrados
+documentos, do estado da técnica, considerados relevantes à novidade e atividade inventiva da
+matéria reivindicada nas reivindicações 1-4, 7-19. Também, alegou-se que as reivindicações 5, 6
+e 20-22 não atendiam ao disposto no artigo 25 da LPI e no artigo 4º (III) da Instrução Normativa
+nº 30/2013, pois a matéria reivindicada não estava definida de maneira precisa, e pela alta
+insuficiência descritiva da matéria objeto dessas reivindicações 5, 6 e 20-22, a análise dos
+requisitos de patenteabilidade das referidas reivindicações não foi realizada.
+
+       Em 20/05/2022, a Requerente, em sua resposta ao parecer técnico anterior, apresentou
+sua manifestação Nº 870210120842 em que eliminou as reivindicações 5, 6 e 20-22, renumerou
+as demais, apresentando um novo quadro reivindicatório.
+
+       Através da petição n.° 870220052077, de 14/06/2022, de acordo com o artigo 31 da LPI,
+a ASSOCIAÇÃO BRASILEIRA INTERDISCIPLINAR DE AIDS - ABIA, doravante mencionada
+ABIA, apresentou subsídios ao exame técnico do pedido ora em análise. Vale citar que a
+Requerente apresentou um novo QR em resposta ao despacho 6.1 publicado na RPI 2670 de
+08/03/2022. Assim sendo, informe-se que as alegações da ABIA foram aproveitadas neste
+exame e toda a documentação apresentada no processo foi acatada no terceiro exame,
+despacho 6.1 de 12/07/2022.
+
+       Conforme citado anteriormente, em 12/07/2022, foi emitido o terceiro exame técnico,
+despacho 6.1, publicado na RPI 2688. Levando em conta o subsídio trazido pela ABIA,
+analisou-se o quadro reivindicatório apresentado pela Requerente, na sua petição n.º
+870220044146 de 20/05/2022, inferiu-se que a matéria em pleito, das reivindicações 1-12 e
+14-17, com os conhecimentos disponibilizados no estado da técnica pertinente, atendia ao
+disposto no artigo 8º da LPI. E, verificou-se, de acordo com os argumentos da Subsidiante ABIA,
+que a reivindicação 13 carecia de atividade inventiva, estando em desacordo com o Artigo 13 da
+LPI. Por fim, foi emitida nova exigência para a eliminação da reivindicação 13.
+
+       Em resposta ao terceiro exame técnico, em 22/09/2022, a Requerente apresentou novo
+quadro reivindicatório contendo 13 reivindicações, com a exclusão das reivindicações 13 a 16.
+
+
+
+                                                                                         Página 2
+                                           BR122021012627-5
+
+       Através da petição n.° 870220091550, de 06/10/2022, de acordo com o artigo 31 da LPI,
+a ASSOCIAÇÃO BRASILEIRA INTERDISCIPLINAR DE AIDS - ABIA, doravante mencionada
+ABIA, apresentou novas vias de subsídios ao exame técnico do pedido ora sob análise, com o
+intuito de submeter argumentos que reforçam a ausência de novidade e atividade inventiva
+(artigos 8°, 11 e 13 da LPI), além do não cumprimento do artigo 26 da LPI. Assim sendo, visando
+demonstrar que o presente pedido de patente em lide não cumpre requisitos de
+patenteabilidade, a Subsidiante ABIA apresentou alegações das quais algumas principais foram
+destacadas no quarto exame técnico, despacho 7.1, publicado na RPI 2714 de 10/01/2023.
+
+       Informe-se que, das alegações da ABIA, somente o arrazoado sobre a falta de atividade
+inventiva foi aproveitado no quarto exame técnico acima mencionado. Dessa forma, concluiu-se
+que para um técnico no assunto era óbvio realizar a reação de esterificação, sem
+experimentações indevidas e o técnico no assunto esperaria que variações semelhantes de
+N4-hidroxicitidinas substituídas fossem igualmente adequadas.
+
+       Em 10/04/2023, por intermédio da petição n°.                    870230029868 a Requerente
+manifestou-se em resposta ao quarto parecer técnico, apresentando um novo QR contendo
+quatro (04) reivindicações.
+
+                            Quadro 1  Páginas do pedido examinadas
+            Elemento                     Páginas                n.o da Petição           Data
+
+Relatório Descritivo                       1-244                870220086727           22/09/2022
+Quadro Reivindicatório                      1-2                 870230029868           10/04/2023
+Desenhos                                   1-13                 870210011850           04/02/2021
+Resumo                                       1                  870220086727           22/09/2022
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                   Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                         X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                 X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                           X
+O pedido está de acordo com disposto no art. 32 da LPI                            X
+Comentários/Justificativas
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                   Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI              X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI            X
+
+
+
+
+                                                                                            Página 3
+                                            BR122021012627-5
+
+
+Comentários/Justificativas
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                   Documento                              Data de publicação
+    D1                                  WO2016106050                                  30/06/2016
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                  Cumprimento              Reivindicações
+                                                          Sim                       1-4
+            Aplicação Industrial
+                                                          Não                       ---
+                                                          Sim                       1-4
+                 Novidade
+                                                          Não                       ---
+
+                                                          Sim                       2-4
+            Atividade Inventiva
+                                                          Não                        1
+
+
+
+Comentários/Justificativas
+         Em sua manifestação nº 870230029868 de 10/04/2023, em resposta à ciência de parecer
+(7.1) publicada na RPI 2714 de 10/01/2023, a Requerente reformulou o quadro reivindicatório; e,
+assim sendo, o novo quadro reivindicatório apresentado foi aceito para o presente exame
+técnico (total de quatro reivindicações).
+
+         Tal como o parecer técnico anterior (despacho 7.1, RPI 2714 de 10/01/2023), as
+reivindicações, apresentadas no novo QR da manifestação nº 870230029868 de 10/04/2023,
+permanecem novas perante o estado da técnica encontrado, portanto, a matéria objeto
+reivindicada está de acordo com o artigo 11 da LPI.
+
+         A Requerente, em resposta ao último parecer técnico não definitivo (despacho 7.1, RPI
+2714 de 10/01/2023), em sua manifestação nº 870230029868 de 10/04/2023, argumenta que:
+
+               O presente pedido confirma os ensinamentos de D1 de que o EIDD-1931 está disponível
+               oralmente em ratos, vide relatório descritivo, página 152. No entanto, os inventores do
+               presente pedido descobriram surpreendentemente que EIDD-1931 reduziu severamente a
+               disponibilidade oral em primatas não humanos em comparação com os outros animais
+               testados, vide relatório descritivo, Tabela 2.
+
+               De fato, como mostrado na tabela abaixo, EIDD-2474 e EIDD-2476 são rapidamente
+               hidrolisados em plasma humano in vitro e NHP e ensaios de estabilidade de microssomas
+               hepáticos. Estabilidades de meia-vida de três minutos ou menos sugerem que EIDD-2474
+               e EIDD-2475 são metabolicamente muito instáveis e, portanto, não teriam melhores perfis
+               farmacocinéticos em relação a EIDD-1931. É pelo menos por essas razões que
+               EIDD-2474 e EIDD-2476 não foram avançados em estudos in vivo.
+
+
+
+
+                                                                                              Página 4
+                                            BR122021012627-5
+
+              Criticamente, no momento da invenção, o versado na técnica não teria ideia de por que
+              EIDD-2474 e EIDD-2476 teriam os mesmos problemas de disponibilidade oral associados
+              a EIDD-1931. A Requerente argumenta que o técnico no assunto não teria conhecimento
+              de que EIDD-1931 foi sequestrado em células intestinais e também não teria
+              conhecimento de que EIDD-2474 e EIDD-2476 foram rapidamente convertidos em
+              EIDD-1931 e depois sequestrados da mesma maneira. O único fator que o técnico no
+              assunto saberia ao testar o EIDD-1931 em primatas não humanos era que não era
+              biodisponível por via oral.
+
+       Cabe salientar e rememorar que uma invenção reivindicada envolve uma atividade
+inventiva, se com respeito ao estado da técnica, ela não é, na data relevante, óbvia para um
+técnico no assunto. Em geral, deve-se presumir que um técnico no assunto é uma pessoa
+hipotética com habilidade ordinária no estado da técnica, e estar ciente ou possuir
+conhecimento geral comum da técnica específica disponível na data relevante. O
+conhecimento geral comum é fundamental para tudo aquilo que se exige do técnico no
+assunto, por exemplo, ler e compreender o pedido de patente ou compreender e reagir ao
+estado da técnica mencionado, ou ainda saber que toda substância promissora e testada em
+animais e que não se demonstra biodisponível demanda estudos farmacocinéticos,
+farmacodinâmicas e de mecanismo de ação. Assim sendo, quando a Requerente argumenta que
+o técnico no assunto não teria conhecimento de que EIDD-1931 foi sequestrado em células
+intestinais e também não teria conhecimento de que EIDD-2474 e EIDD-2476 foram
+rapidamente convertidos em EIDD-1931 e depois sequestrados da mesma maneira. O único
+fator que o técnico no assunto saberia ao testar o EIDD-1931 em primatas não humanos era que
+não era biodisponível por via oral, na verdade, a Requerente cita tão somente o perfil
+farmacodinâmico dos elementos EIDD-2474, EIDD-2476 e EIDD-1931 que, a princípio, não é
+considerada invenção.
+
+       É imperioso ratificar que o estado da técnica mais próximo consiste em D1 e o problema
+técnico objetivo a ser solucionado pelo pedido de patente BR122021012627-5 é fornecer
+compostos antivirais alternativos (e tratamentos para infecções virais). A solução técnica
+proposta é a síntese de derivados da nova N4-hidroxicitidina substituída com éster isopropílico.
+No entanto, conforme relatado no exame técnica anterior, entende-se que a solução na forma da
+nova N4-hidroxicitidina substituída com éster isopropílico não envolve uma atividade inventiva
+porque tal modificação estrutural seria óbvia perante D1 para um técnico no assunto. Isto posto,
+citou-se o exemplo 60 de D1 que demonstra que os substituintes éster de N4-hidroxicitidina
+podem ser ligeiramente variados sem aniquilar a atividade dos compostos (ver EIDD-02474 e
+EIDD-02476). Com efeito, o referido Exemplo 60 mostra alta atividade antiviral de ambos os
+compostos. Outrossim, como se pode verificar, o documento D1 também sugere que os
+derivados N4-hidroxicitidina revelados podem ser administrados na forma de pró-fármacos
+(página 42, parágrafo 10), explicando que estes pró-fármacos podem ser preparados pela
+
+
+
+
+                                                                                           Página 5
+                                         BR122021012627-5
+
+modificação de grupos funcionais da molécula, citando que podem ser acetato, formato e
+benzoato.
+
+       À luz deste raciocínio, concluiu-se que para um técnico no assunto é óbvio realizar a
+reação de esterificação, sem experimentações indevidas e o técnico no assunto esperaria que
+variações semelhantes de N4-hidroxicitidinas substituídas fossem igualmente adequadas.
+
+       Ao pleitear na reivindicação 1, a composição farmacêutica caracterizada pelo fato de
+que compreende o composto EIDD-2800, a Requerente, com efeito, repete o pleito da matéria
+analisada no QR da petição nº 870220086727 de 22/09/2022. Haja vista que no último exame
+técnico, este INPI insistiu no fato que o presente pedido não fornece dados de atividade antiviral
+relacionados ao uso eficiente de qualquer composto de N4-hidroxicitidina diferente do composto
+EIDD-2801. Por exemplo, não há dados de atividade antiviral relacionados ao composto
+EIDD-2800. Com efeito, o parecer técnico anterior arguiu que é preciso insistir também no fato
+de que o presente pedido não fornece dados de atividade antiviral relacionados ao uso eficiente
+de qualquer composto de N4-hidroxicitidina diferente do composto EIDD-2801.
+
+       Mais uma vez reitera-se que à luz das informações contidas no subsídio e no raciocínio
+tecido no último parecer e deste presente parecer, os dados no exemplo 60 de D1 lançam
+dúvidas sobre se qualquer composto diferente de EIDD-2801 reivindicado no presente pedido
+dividido pode ser adequado para produzir um efeito antiviral significativo. Portanto, convém pôr
+em relevo o fato de que o presente pedido não fornece dados de atividade antiviral relacionados
+ao uso eficiente de qualquer composto de N4-hidroxicitidina diferente do composto EIDD-2801.
+Vale ressaltar que no relatório descritivo, esse referido composto (EIDD-2801), em específico, é
+o que denota novidade e atividade inventiva. Por fim, reitera-se que a composição da
+reivindicação 1 tal como reivindicada não atende ao critério de atividade inventiva,
+portanto, não cumpre com o previsto no art. 13 da LPI.
+
+       Como se há verificar, a Requerente insistiu em reivindicar composto já apontado como
+sendo desprovido de atividade no último parecer.
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -     não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+
+                                                                                           Página 6
+                               BR122021012627-5
+
+
+                                                    Publique-se o indeferimento (9.2).
+
+
+
+                                                  Rio de Janeiro, 14 de junho de 2023.
+
+
+
+
+Anicet Okinga
+Pesquisador/ Mat. Nº 2390318
+DIRPA / CGPAT I/DIFAR-II
+Deleg. Comp. - Port. INPI/DIRPA Nº
+013/18
+
+
+
+
+                                                                             Página 7
+

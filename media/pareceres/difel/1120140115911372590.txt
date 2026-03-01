@@ -1,0 +1,130 @@
+                                         SERVIÇO PÚBLICO FEDERAL
+                                          MINISTÉRIO DA ECONOMIA
+                              INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.º do Pedido:                       BR112014011591-5           N.º de Depósito PCT: US2012/062035
+ Data de Depósito:                    26/10/2012
+ Prioridade Unionista:                US 13/295,199 (14/11/2011)
+ Depositante:                         ABB Schweiz AG (CH)
+ Inventor:                            Ryan M. Parrish, Frank P. Burke
+ Título:                              Método de Fabricação de Núcleo Enrolado para Configurações de
+                                      Núcleo Dividido
+                                                                      PARECER
+
+      A Requerente recebeu notificação de Ciência de Parecer (7.1) publicada na RPI nº 2601 de
+10/11/2020. Através da petição nº 870210010699 de 01/02/2021, a mesma apresentou
+Manifestação sobre o Parecer Técnico, novo Título, novo Relatório Descritivo, novo Quadro
+Reivindicatório, novas Figuras e novo Resumo. Para fins de continuidade do exame estão sendo
+consideradas as vias abaixo:
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas              Nº da Petição         Data
+                                                                                  870210010699
+ Relatório Descritivo                                           1-8                                    01/02/2021
+                                                                                   Págs. 5 a 12
+                                                                                  870210010699
+ Quadro Reivindicatório                                         1-4                                    01/02/2021
+                                                                                  Págs. 13 a 16
+                                                                                NPWB 860140071494
+ Desenhos                                                       1-4                                    14/05/2014
+                                                                                   Págs. 31 a 34
+                                                                                  870210010699
+ Resumo                                                         1                                      01/02/2021
+                                                                                     Pág. 17
+
+                  Quadro 2 - Considerações referentes aos Artigos 10, 18, 22 e 32 da LPI
+ Artigos da LPI                                                                                Sim         Não
+ A matéria enquadra-se no Art. 10 da LPI (não se considera invenção)                                        X
+ A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                                                X
+ O pedido apresenta Unidade de Invenção (Art. 22 da LPI)                                           X
+ O pedido está de acordo com disposto no Art. 32 da LPI                                            X
+Comentários/Justificativas: ----
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                                  Página 1
+                                            BR112014011591-5
+
+                 Quadro 3 - Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                            Sim                     Não
+O relatório descritivo está de acordo com disposto no Art. 24 da LPI                        X
+O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI                      X
+Comentários/Justificativas: ----
+                            Quadro 4 - Documentos citados no parecer
+ Código                                  Documento                                                Data de publicação
+           WO9909567A1
+    D1     Título: Segmented Transformer Core                                                          1999-02-25
+           Depositante: Allied Signal Inc.
+
+     Quadro 5 - Análise dos Requisitos de Patenteabilidade (Art. 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento                              Reivindicações
+                                                         Sim                                         1-9
+           Aplicação Industrial
+                                                        Não                                          ----
+                                                         Sim                                         1-9
+                 Novidade
+                                                        Não                                          ----
+                                                         Sim                                         ----
+           Atividade Inventiva
+                                                        Não                                          1-9
+Comentários/Justificativas:
+   Na manifestação a Requerente alega que um dos objetivos do método de acordo com a
+presente invenção é reduzir a necessidade de um processo de recozimento do núcleo durante o
+processo de formação do núcleo, consequentemente diminuindo tanto o tempo de produção do
+núcleo quanto seu custo. A etapa de disposição das pernas principais das primeira e segunda
+partes de núcleo uma contra a outra para definir o núcleo que tem uma perna de núcleo definida
+pelas duas pernas principais e forquilhas de núcleo opostas, definidas pelas pernas de
+extremidades opostas das primeira e segunda partes de núcleo, de acordo com o novo Quadro
+Reivindicatório possibilitaria que este objetivo de reduzir a necessidade de um processo de
+recozimento do núcleo seja alcançado pelo método.
+
+   Ainda de acordo com a Requerente, o método de produção de acordo com D1 utiliza
+recozimento, ou aquecimento, para formar o núcleo. Portanto, D1 não ensinaria um método que
+possibilite reduzir a necessidade do recozimento do núcleo durante a produção do núcleo do
+transformador e, consequentemente, não antecipa todas as características da presente invenção.
+Não seria possível para um técnico no assunto, partindo do método de D1, obter um núcleo de
+transformador como o obtido pelo método da presente invenção, sem passar por uma etapa de
+recozimento deste núcleo.
+
+   Entretanto, apesar das alegações da Requerente, o documento D1 descreve um método de
+produção do núcleo de um transformador formando através das etapas de: fornecer material de
+núcleo de transformador (ferromagnético), cortar laminações individuais e dobrá-las em membros
+
+
+                                                    Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12     Página 2
+                                                  BR112014011591-5
+
+geralmente em forma de C; empilhar alguns dos membros para definir uma primeira porção de
+núcleo tendo uma perna principal e duas pernas de extremidade opostas; empilhar outro dos
+membros para definir uma segunda porção de núcleo tendo uma perna principal e duas pernas de
+extremidade opostas; organizar as pernas principais de uma maneira costas com costas para
+definir o núcleo tendo uma perna central definida pelas duas pernas principais 70 e culatras de
+núcleo opostas, definidas pelas pernas finais, e enrolar o material condutor diretamente em torno
+da perna do núcleo para formar um enrolamento primário e um enrolamento secundário em
+qualquer ordem de disposição, proporcionando assim uma primeira porção do transformador (D1,
+Páginas 1-3, Linhas 7, 8; Página 5, Linhas 17-23; Página 9, Linhas 3-14; Figuras 6, 9).
+
+Conclusão
+    Face ao exposto, conclui-se que a invenção ora pleiteada decorre de maneira evidente ou
+óbvia, para um técnico no assunto, a partir do estado da técnica, sendo desprovida de atividade
+inventiva, conforme Art. 13 da LPI.
+
+    Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que o mesmo não
+atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+    Rio de Janeiro, 28 de fevereiro de 2021.
+
+    Publique-se o indeferimento (9.2).
+
+    CAMILO BRAGA GOMES
+    Pesquisador / Mat. Nº 1547071
+    DIRPA / CGPAT III / DIFEL
+    Deleg. Comp. - Port. INPI / DIRPA Nº 022/12
+
+
+
+
+                                                        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 3
+

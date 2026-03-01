@@ -1,0 +1,121 @@
+                                         SERVIÇO PÚBLICO FEDERAL
+                                          MINISTÉRIO DA ECONOMIA
+                              INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.º do Pedido:                       BR112014022516-8          N.º de Depósito PCT: NO2013/050059
+ Data de Depósito:                    22/03/2013
+ Prioridade Unionista:                NO 20120365 (26/03/2012)
+ Depositante:                         Rolls-Royce Marine AS (NO)
+ Inventor:                            Gunnar Johnsen, Charles Skar
+ Título:                              Rotor para Motor ou Gerador
+                                                                      PARECER
+
+      A Requerente recebeu notificação de Ciência de Parecer (7.1) publicada na RPI nº 2627 de
+11/05/2021. Através da petição nº 870210072088 de 06/08/2021, a mesma apresentou
+Manifestação sobre o Parecer Técnico, novo Relatório Descritivo, novo Quadro Reivindicatório e
+novas Figuras. Para fins de continuidade do exame estão sendo consideradas as vias abaixo:
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas              Nº da Petição         Data
+                                                                                  870210072088
+ Relatório Descritivo                                          1-11                                    06/08/2021
+                                                                                   Págs. 8 a 18
+                                                                                  870210072088
+ Quadro Reivindicatório                                         1-4                                    06/08/2021
+                                                                                  Págs. 19 a 22
+                                                                                  870210072088
+ Desenhos                                                       1-7                                    06/08/2021
+                                                                                  Págs. 23 a 29
+                                                                                NPWB 860140154555
+ Resumo                                                         1                                      11/09/2014
+                                                                                     Pág. 40
+
+                  Quadro 2 - Considerações referentes aos Artigos 10, 18, 22 e 32 da LPI
+ Artigos da LPI                                                                                Sim         Não
+ A matéria enquadra-se no Art. 10 da LPI (não se considera invenção)                                        X
+ A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                                                X
+ O pedido apresenta Unidade de Invenção (Art. 22 da LPI)                                           X
+ O pedido está de acordo com disposto no Art. 32 da LPI                                            X
+Comentários/Justificativas: ----
+                        Quadro 3 - Considerações referentes aos Artigos 24 e 25 da LPI
+ Artigos da LPI                                                                                Sim         Não
+ O relatório descritivo está de acordo com disposto no Art. 24 da LPI                              X
+ O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI                            X
+Comentários/Justificativas: ----
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                                  Página 1
+                                            BR112014022516-8
+
+                          Quadro 4 - Documentos citados no parecer
+ Código                              Documento                                                  Data de publicação
+           US2011248592
+    D1     Título: Synchronous Machine                                                               2011-10-13
+           Depositante: Aerodyn Eng GmbH
+
+     Quadro 5 - Análise dos Requisitos de Patenteabilidade (Art. 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade              Cumprimento                              Reivindicações
+                                                       Sim                                        1-16
+          Aplicação Industrial
+                                                      Não                                          ----
+                                                       Sim                                        1-16
+                Novidade
+                                                      Não                                          ----
+                                                       Sim                                         ----
+           Atividade Inventiva
+                                                      Não                                         1-16
+Comentários/Justificativas:
+    Na manifestação a Requerente alega que o documento D1 utilizado para se delimitar o estado
+da técnica não descreveria uma seção protuberante centralmente que se projeta uma dada altura
+e largura da porção radialmente externa ao longo da circunferência inteira do anel de rotor na qual
+os segmentos de culatra estão fixados. Não descreveria que a seção centralmente saliente pode
+ser vista como uma parte saliente do anel do rotor que está entre as bordas axialmente externas
+opostas do anel do rotor. Sendo a seção centralmente saliente que se projeta uma dada altura e
+largura da porção radialmente externa ao longo de toda a circunferência do anel do rotor no qual
+os segmentos de culatra são fixados. A Requerente alega que o anel do rotor que tem uma largura
+(W1) na direção do eixo central do anel do rotor e a largura (W2) da seção centralmente saliente
+seja menor do que (W1) em que a seção centralmente saliente se estende da superfície externa
+do anel do rotor e tem uma largura que fornece folga entre cada borda axial da seção saliente e a
+borda axial do próprio anel do rotor. Uma seção saliente com essas características na qual os
+segmentos de culatra são fixados claramente não seria revelada ou sugerida em D1.
+
+    Entretanto, apesar das alegações da Requerente, o documento D1 descreve um rotor para
+motor ou gerador incluindo um anel de rotor (Figura 1, Ref. 20); uma culatra formada por
+segmentos de culatra, cujos segmentos de culatra dispostos no anel do rotor formam uma culatra
+completa (Figura 1, Ref. 30a e 30b); os segmentos de culatra incluem uma base principalmente
+plana ou curva que nas suas extremidades inclui os lados (Figura 2); os lados se estendem para
+cima e ligeiramente inclinados para fora da base em direção a uma superfície superior que tem
+uma extensão mais longa do que a base [Parágrafos 19 e 20 e Figura 6], todos os segmentos de
+culatra têm um formato de setor idêntico.
+
+
+
+
+                                                  Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 2
+                                                  BR112014022516-8
+
+Conclusão
+    Face ao exposto, conclui-se que a invenção ora pleiteada decorre de maneira evidente ou
+óbvia, para um técnico no assunto, a partir do estado da técnica, sendo desprovida de atividade
+inventiva, conforme Art. 13 da LPI.
+
+    Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que o mesmo não
+atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+    Rio de Janeiro, 30 de agosto de 2021.
+
+    Publique-se o indeferimento (9.2).
+
+    CAMILO BRAGA GOMES
+    Pesquisador / Mat. Nº 1547071
+    DIRPA / CGPAT III / DIFEL
+    Deleg. Comp. - Port. INPI / DIRPA Nº 022/12
+
+
+
+
+                                                        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 3
+

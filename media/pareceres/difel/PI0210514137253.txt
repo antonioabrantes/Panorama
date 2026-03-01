@@ -1,0 +1,131 @@
+                               SERVIÇO PÚBLICO FEDERAL
+            MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA E COMÉRCIO EXTERIOR
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                              RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        PI0210514-4                 N.° de Depósito PCT: AU02/00732
+ Data de Depósito:                     06/06/2002
+ Prioridade Unionista:                 AU PR 5757 (18/06/2001)
+ Depositante:                          BHP Billiton Innovation Pty LTD. (AU)
+ Inventor:                             James Beresford Lee, Peter Mitchell Stone, Robert John Turner,
+                                       Timothy John Monks (Falecido)
+ Título:                               Aeronave para conduzir levantamentos por gravidade aéreos, e,
+                                       processo para criar levantamentos por gravidade aéreos 
+
+                                                                 PARECER
+      O presente pedido refere-se a um equipamento a LASER para produzir dados topográficos
+de uma região durante um sobrevoo. Em 09 de maio de 2011 o pedido incorreu em ciência de
+parecer (7.1) por ter sido considerado decorrente do estado da técnica quando comparado aos
+documentos (D1) WO 9505615 e (D2) US 5557397. A decisão foi publicada na RPI nº 2119 de 16
+de agosto de 2011.
+        Em 16 de novembro de 2011, através da petição nº 020110117038, a requerente
+apresentou a manifestação ao parecer técnico. Além de documentos formais, foram anexados ao
+processo um novo quadro reivindicatório (04 páginas e 08 reivindicações), uma nova página 01 do
+relatório descritivo, uma nova página do resumo e um documento de 02 (duas) páginas contendo
+argumentações e esclarecimentos a respeito do exame do pedido.
+        Em sua manifestação, a requerente discorda que falta atividade inventiva à presente
+invenção quando comparada aos documentos D1 e D2. Argumenta que o quadro reivindicatório
+foi reeditado de forma a melhor definir e precisar a matéria para a qual se quer proteção. Em
+relação à falta de clareza causada pela expressão bin, a requerente argumenta que este é um
+termo bem conhecido do estado da técnica e da literatura científica. Como informação, a
+requerente adicionou uma cópia da correspondente patente americana. Além disso, o título do
+pedido foi alterado para a devida harmonização.
+       Analisando o novo quadro reivindicatório, nota-se que o pedido não apresenta condições
+de receber o privilégio requerido. A reivindicação 1 caracteriza uma aeronave por ser equipada
+com:
+           (a) uma plataforma inercial que suporta um gradiômetro de gravidade para medir altitude;
+           (b) um gradiômetro de gravidade para medir gradiente de gravidade;
+           (c) um scanner a laser para medir distância e ângulo de inclinação do solo;
+           (d) uma antena GPS;
+           (e) um processador para gerar um mapa de elevação digital (DEM).
+
+
+        A parte caracterizante da reivindicação 1 não foi alterada e, por isso, o documento D1
+utilizado no primeiro exame técnico ainda descaracteriza a atividade inventiva da referida
+reivindicação por compreender um sistema para a realizar, pelo ar, um mapeamento da superfície
+terrestre com todas as características ora reivindicada.
+
+
+Código:f45f4353e35f05e0ceb3803b3b8fe9d4  versão 1.1  27/01/12@MODELO_SISCAP@                 Página 1
+                                                                  PI0210514-4
+
+
+       A reivindicação 5, segunda reivindicação independente, caracteriza um método para criar
+levantamentos por gravidade aéreos por compreender as seguintes etapas:
+             (a) remover dados inválidos de distância;
+       (b) interpolar dados de altitude e posição da aeronave sobre as ocorrências de tempo de
+dados de alcance;
+             (c) efetuar uma rotação no vetor de distância para obter dados de posição em relação ao
+solo;
+             (d) descartar anomalias de um só ponto de varreduras selecionada;
+       (e) decimar as varreduras selecionando os pontos com a posição mais baixa em relação
+ao solo em um número de bins uniformemente espaçados através do ângulo da faixa de
+varredura;
+        (f) manufaturar um DEM de scanner como uma versão gradeada utilizando os dados de
+retorno de solo decimados;
+             - (g) medir o gradiente de gravidade utilizando um gradiômetro de gravidade;
+             - (h) utilizar o DEM para calcular o gradiente de gravidade e
+             - (i) subtrair o gradiente de gravidade medido do gradiente de gravidade calculado.
+
+
+       É importante observar que as etapas g, h e i do método ora caracterizado não faziam parte
+do escopo da proteção no quadro reivindicatório inicialmente depositado. A adição destes novos
+itens pode ser considerado aumento da matéria inicialmente revelada.
+       Contudo, a sequência de etapas a ate f foi verificada no relatório de primeiro exame e foi
+considerada sem atividade inventiva quando comparado à matéria revelada no documento D2.
+       A reivindicação 8, terceira reivindicação independente, caracteriza um método para criar
+levantamentos por gravidade aéreos por compreender as seguintes etapas:
+             (a) remover dados inválidos de distância;
+       (b) interpolar dados de altitude e posição da aeronave sobre as ocorrências de tempo de
+dados de alcance;
+             (c) efetuar uma rotação no vetor de distância para obter dados de posição em relação ao
+solo;
+             (d) descartar anomalias de um só ponto de varreduras selecionada;
+       (e) decimar as varreduras selecionando os pontos com a posição mais baixa em relação
+ao solo em um número de bins uniformemente espaçados através do ângulo da faixa de
+varredura;
+        (f) manufaturar um DEM de scanner como uma versão gradeada utilizando os dados de
+retorno de solo decimados;
+             (g) unir a versão gradeada com um DEM regional menos exato porém maior:
+                        (1) inserção do DEM do scanner dentro do DEM regional;
+              (2) inclinação e deslocamento do DEM regional para casar com as condições
+limites do DEM do scanner e
+                        (3) permitir que o DEM regional preencha quaisquer lacunas de DEM do scanner.
+
+
+
+
+Código:f45f4353e35f05e0ceb3803b3b8fe9d4  versão 1.1  27/01/12                                Página 2
+                                                                  PI0210514-4
+
+
+       A reivindicação independente 8 não fazia parte do quadro reivindicatório inicialmente
+depositado é considerado que houve aumento do escopo da proteção.
+       Dessa forma, considera-se que a requerente não apresentou consistência em suas
+argumentações e o pedido PI0210514-4, para um técnico no assunto, é considerada mera
+decorrência do estado da técnica. Assim sendo, de acordo com o Art. 37, opino pelo indeferimento
+do presente pedido, uma vez que não atende ao requisito de atividade inventiva (Art. 8º
+combinado com Art. 13 da LPI)
+
+                                                                                Rio de Janeiro, 14 de agosto de 2012.
+       Bernardo Nepomuceno Pinto Mosquera
+        Pesquisador em Propriedade Industrial
+                 Matrícula 1742312
+                  DIRPA / CGPATIII / DIFEL
+
+
+          De acordo com o parecer acima, indefiro o presente pedido.
+
+                                                                                    Publique-se o indeferimento (9.2).
+
+                    Neide de Oliveira Gomes
+         Chefe de Divisão - Matrícula 1203806
+                  DIRPA / CGPAT III / DIFEL
+          Del. Comp. - Port. INPI/PR Nº003/11
+
+
+
+
+Código:f45f4353e35f05e0ceb3803b3b8fe9d4  versão 1.1  27/01/12                                              Página 3
+

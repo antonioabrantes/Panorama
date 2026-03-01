@@ -1,0 +1,133 @@
+                                         SERVIÇO PÚBLICO FEDERAL
+                                          MINISTÉRIO DA ECONOMIA
+                              INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.º do Pedido:                       BR112018009927-9           N.º de Depósito PCT: US2016/062257
+ Data de Depósito:                    16/11/2016
+ Prioridade Unionista:                US 14/942,993 (16/11/2015)
+ Depositante:                         GE Oil & Gas Esp, Inc. (US)
+ Inventor:                            Scott Mordin Hoyte; Christopher Martin Middleton
+ Título:                              Métodos de Operação de um Sistema de Bombeamento e Sistema de
+                                      Bombeamento Submersível Elétrico
+                                                                      PARECER
+
+      A Requerente recebeu notificação de Ciência de Parecer (7.1) publicada na RPI nº 2687 de
+05/07/2022. Através da petição nº 870220065183 de 25/07/2022, a mesma apresentou
+Manifestação sobre o Parecer Técnico, novo Título, novo Relatório Descritivo, novo Quadro
+Reivindicatório, novas Figuras e novo Resumo. Para fins de continuidade do exame estão sendo
+consideradas as vias abaixo:
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas           Nº da Petição         Data
+                                                                                870220065183
+ Relatório Descritivo                                          1-11                                 25/07/2022
+                                                                                 Págs.12 a 22
+                                                                                870220065183
+ Quadro Reivindicatório                                         1-3                                 25/07/2022
+                                                                                Págs. 23 a 25
+                                                                                870190091979
+ Desenhos                                                       1-4                                 16/09/2019
+                                                                                Págs. 25 a 28
+                                                                                870220065183
+ Resumo                                                         1                                   25/07/2022
+                                                                                   Pág. 26
+
+                  Quadro 2 - Considerações referentes aos Artigos 10, 18, 22 e 32 da LPI
+ Artigos da LPI                                                                             Sim         Não
+ A matéria enquadra-se no Art. 10 da LPI (não se considera invenção)                                     X
+ A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                                             X
+ O pedido apresenta Unidade de Invenção (Art. 22 da LPI)                                        X
+ O pedido está de acordo com disposto no Art. 32 da LPI                                         X
+Comentários/Justificativas: ----
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                               Página 1
+                                            BR112018009927-9
+
+                 Quadro 3 - Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                              Sim                     Não
+O relatório descritivo está de acordo com disposto no Art. 24 da LPI                          X
+O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI                        X
+Comentários/Justificativas: ----
+                            Quadro 4 - Documentos citados no parecer
+ Código                                   Documento                                                            Data de
+                                                                                                              publicação
+           US2008067116A1
+           Título: Determination and Control of Wellbore Fluid Level, Output
+    D1     Flow, and Desired Pump Operating Speed, Using a Control System                                     2008-03-20
+           for a Centrifugal Pump Disposed within the Wellbore
+           Depositante: Unico
+           CN102005883A
+           Título: Self-Control Permanent Magnet Synchronous Motor of Well
+    D2                                                                                                        2011-04-06
+           Submersible Pump
+           Depositante: Jiangmen Ruirong Pump Co Ltd
+
+     Quadro 5 - Análise dos Requisitos de Patenteabilidade (Art. 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                   Cumprimento                             Reivindicações
+                                                           Sim                                        1-10
+           Aplicação Industrial
+                                                          Não                                          ----
+                                                           Sim                                        1-10
+                 Novidade
+                                                          Não                                          ----
+                                                           Sim                                         ----
+           Atividade Inventiva
+                                                          Não                                         1-10
+Comentários/Justificativas:
+   Na manifestação a Requerente alega que D1 revela uma bomba submersível que inclui um
+sistema de acionamento elétrico conectado a um motor por cabos de motor. Um transformador é
+utilizado para aumentar a tensão alimentada ao motor. No entanto, uma desvantagem associada à
+bomba revelada em D1 é que devido às demandas operacionais amplamente variáveis no motor
+ao longo do tempo, as suposições inicialmente usadas para produzir o modelo inicial do motor
+podem se tornar imprecisas.
+
+   A Requerente alega que o presente privilégio de patente de invenção descreve um método de
+operação de um sistema de bombeamento que inclui um motor elétrico e um acionamento de
+velocidade variável, em que o desempenho do motor é monitorado monitorando-se uma relação
+
+teta de uma corrente de eixo geométrico          (      ) para uma corrente de eixo geométrico                            (   )
+do motor sob uma carga de conjugado.
+
+
+
+
+                                                      Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12     Página 2
+                                                  BR112018009927-9
+
+    A Requerente alega que D2 não possui relevância por não descrever um método que possua
+as características técnicas descritas no presente pedido de privilégio de patente de invenção.
+
+    Apesar das alegações da Requerente, D1 descreve um sistema de bomba (Parágrafos 0077 -
+0079; Fig.1) formado por um motor elétrico e um controlador. O controlador controla o motor
+aplicando um controle vetorial como modelo de motor (Parágrafos 0088 - 0090) na dependência
+da velocidade do motor ("primeira preferência"). D2 descreve um motor de acionamento de bomba
+de ímã permanente que utiliza controle vetorial. Portanto, a matéria pleiteada no presente pedido
+de privilégio de patente de invenção é óbvia a partir da combinação de cada um dos documentos
+D1 e D2.
+
+Conclusão
+    Face ao exposto, conclui-se que a invenção ora pleiteada decorre de maneira evidente ou
+óbvia, para um técnico no assunto, a partir do estado da técnica, sendo desprovida de atividade
+inventiva, conforme Art. 13 da LPI.
+
+    Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que o mesmo não
+atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+    Rio de Janeiro, 30 de julho de 2022.
+
+    Publique-se o indeferimento (9.2).
+
+    CAMILO BRAGA GOMES
+    Pesquisador / Mat. Nº 1547071
+    DIRPA / CGPAT III / DIFEL
+    Deleg. Comp. - Port. INPI / DIRPA Nº 022/12
+
+
+
+
+                                                        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 3
+

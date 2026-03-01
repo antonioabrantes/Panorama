@@ -1,0 +1,305 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122021001638-0            N.° de Depósito PCT: US2012/030786
+ Data de Depósito:                   28/03/2012
+ Prioridade Unionista:               US 61/468,830 (29/03/2011); US 61/568,942 (09/12/2011)
+ Depositante:                        ALNYLAM PHARMACEUTICALS, INC. (US)
+ Inventor:                           DAVID      BUMCROT,         BRIAN     BETTERNCOURT,         IVANKA
+                                     TOUDJARSKA
+ Título:                             Ácido ribonucleico de fita dupla (dsRNA), célula, composição
+                                     farmacêutica para inibir expressão de um gene de tmprss6,
+                                     método de inibição de expressão de tmprss6 em uma célula, uso
+                                     do dsrna e vetor que codifica pelo menos uma fita de um dsRNA
+
+                                                              PARECER
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                   X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    X
+
+O pedido refere-se a Sequências Biológicas                                                             X
+
+Comentários/Justificativas
+
+
+
+          O presente pedido BR122021001638-0 é um pedido dividido do BR112013025006-2 e,
+portanto, a matéria ora objeto de proteção está contida em tal pedido. Dessa forma, deverá ser
+considerada, para o presente pedido, a mesma fase processual em que se encontra o pedido
+original, cabendo ao INPI reduzir a termo a referência aos documentos e petições que se
+encontram no pedido original, conforme o disposto no Art. 28 da Instrução Normativa nº 31/2013
+(publicada na RPI nº 2241, de 17/12/2013). Desse modo, as considerações a seguir, realizadas
+para o pedido original, também são aplicadas ao pedido ora sob análise.
+
+           O pedido em análise foi enviado à ANVISA para anuência prévia de acordo com a RPI
+2554 de 16/01/2018, tendo sido anuído sem apresentação de subsídios, conforme publicado na
+RPI 2481 de 24/07/2018.
+
+           O INPI emitiu a exigência de código 6.6.1 na RPI nº 2465 de 03/04/2018, para fins de
+manifestação do depositante quanto à ocorrência de acesso ao Patrimônio Genético nacional e/
+ou Conhecimento Tradicional Associado para obtenção do objeto do presente pedido. Não tendo
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                 Página 1
+                                          BR122021001638-0
+
+havido manifestação do depositante no prazo de 60 (sessenta) dias contados a partir da
+publicação na RPI, o INPI deu prosseguimento ao exame técnico com o entendimento de que
+não ocorreu o referido acesso, de acordo com entendimento firmado pela Procuradoria Federal
+Especializada          junto        ao      INPI          (PFE-INPI)       no       Parecer           nº
+00001/2018/PROCGAB/PFE-INPI/PGF/AGU (Processo INPI nº 52400.002142/2018-30).
+
+
+
+                               Quadro 1  Páginas do pedido examinadas
+           Elemento                      Páginas               n.o da Petição            Data
+Relatório Descritivo                      1-202                870210092328            06/10/2021
+Listagem de sequências em
+                                            -                          -                      -
+formato impresso
+Listagem de sequências*             Código de Controle         870210092328            06/10/2021
+Quadro Reivindicatório                     1-5                 870210092328            06/10/2021
+Desenhos                                  1-10                 870210009679            28/01/2021
+Resumo                                      1                  870210092328            06/10/2021
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+     0D32D65E9FF24487 (Campo 1) e 24DA78A66E0E8DCD (Campo 2).
+
+
+       Em resposta ao parecer anterior, a requerente apresentou o cumprimento de exigência
+contendo um novo quadro reivindicatório com 15 reivindicações.
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                              Sim               Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)             X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                       X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                         X
+O pedido está de acordo com disposto no art. 32 da LPI                          X
+Comentários/Justificativas
+
+
+
+       No parecer anterior, foi abordado que as reivindicações 1-8 e 11 pleiteavam uma
+composição que se referia unicamente ao próprio agente de RNAi. A requerente realizou
+emendas no quadro reivindicatório, em que as novas reivindicações 1-6 e 9 caracterizam que
+todos os nucleotídeos da fita senso e todos os nucleotídeos da fita antissenso são nucleotídeos
+modificados
+
+       Conforme já exposto no parecer anterior, essa definição não é suficiente para excluir
+uma sequência biológica natural, uma vez que não são caracterizadas quais são as referidas
+
+
+
+
+                                                                                                  Página 2
+                                          BR122021001638-0
+
+
+modificações. Cabe destacar que apenas mencionar que todos os nucleotídeos são modificados
+não é suficiente para superar as objeções referentes às disposições do Art. 10 (IX) da LPI.
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                    X
+
+Comentários/Justificativas
+
+
+
+       No parecer anterior, o quadro reivindicatório foi recusado por não atender aos critérios do
+Art. 25 da LPI, uma vez que, na reivindicação 1, cada fita antissenso do agente de RNAi era
+caracterizada por ter pelo menos 15 nucleotídeos contíguos que diferem em não mais do que
+três nucleotídeos e que cada fita tem 15 a 30 nucleotídeos de comprimento.
+       A requerente não realizou modificações relacionadas diretamente a essas objeções e
+argumentou que:
+
+
+       ...um técnico no assunto consideraria que a invenção reivindicada estaria totalmente
+       descrita e suportada pelos ensinamentos no relatório descritivo e, além disso, um técnico
+       no assunto no momento do depósito do presente pedido de patente seria capaz de fazer e
+       usar os agentes de RNAi de fita dupla reivindicados e composições compreendendo tais
+       agentes, bem como métodos de uso de tais agentes sem experimentação indevida.
+       Ainda, os agentes de RNAi reivindicados, caracterizados pelas sequências citadas nas
+       reivindicações apensas, são demonstrados no relatório descritivo como tendo atividade
+       robusta. Cumpre salientar o alinhamento abaixo, que mostra o alinhamento da SEQ ID NO:
+       110 com outras sequências exemplares reveladas no pedido de patente. Conforme
+       mostrado nos alinhamentos, essas sequências exemplares incluem fitas antissenso que
+       compreendem pelo menos 15 nucleotídeos contíguos diferindo em não mais do que 3
+       nucleotídeos da sequência de nucleotídeos de 5'-AGAAUGAACCAGAAGAAGC-3' (SEQ ID
+       NO: 110), em que cada fita tem independentemente 15 a 30 nucleotídeos de
+       comprimento.
+
+
+       Nesse caso, a requerente apresentou algumas sequências que estariam dentro da
+definição pleiteada pela requerente e que apresentariam efeitos satisfatórios. No entanto,
+mantém-se o entendimento de que, da forma como está sendo reivindicado, há uma possibilidade
+imensa de outras tantas sequências que poderiam não apresentar relação com a matéria
+pleiteada e tampouco apresentar os efeitos alegados, em desacordo com os critérios do Art. 25 da
+LPI.
+
+
+
+                                                                                          Página 3
+                                           BR122021001638-0
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                  Data de publicação
+    D1      J.E. MAXSON ET AL., "Matriptase-2- and Proprotein                            10/12/2010
+            Convertase-cleaved forms of Hemojuvelin have different roles in
+            the down-regulation of Hepcidin expression", JOURNAL OF
+            BIOLOGICAL CHEMISTRY, vol. 285, no. 50, Págs. 39021 
+            39028. http://dx.doi.org/10.1074/jbc.M110.183160
+    D2      MIHIRET TEKESTE SISAY et aI.: "ldentification of the first low-                 12/08/2010
+            molecular-weight inhibitors of Matriptase-2", JOURNAL OF
+            MEDICINAL CHEMISTRY, vol. 53, no. 15, 12 August 2010,
+            pages 5523-5535
+    D3      DATABASE BIOSIS [Online] BIOSCIENCES INFORMATION                                  2010
+            SERVICE, PHILADELPHIA, PA, US; November 2010, FINBERG
+            KARIN E. et aI.: "Tmprss6, an inhibitor of hepatic Bmp/Smad
+            signaling, is required for Hepcidin suppression and iron loading
+            in a mouse model of beta-thaIassemia", Database accession no.
+            PREV201100422711
+            & BLOOD, vol. 116, no. 21, November 2010, page 75, 52"d
+            ANNUAL MEETING OF THE
+            AMERICAN-SOCIETY-OF-HEMATOLOGY (ASH); ORLANDO,
+            FL, USA; DECEMBER
+            04-07, 2010
+    D4      LAKHAL ET AL., "Regulation of type II transmembrane serine                      21/10/2010
+            proteinase TMPRSS6 by hypoxia- inducible factors: new link
+            between hypoxia signaling and iron homeostasis.", J BIOL
+            CHEM., vol. 286, no. 6, Págs. 4090  4097.
+            http://dx.doi.org/10.1074/jbc.M110.173096
+    D5      WO2010099341                                                                 02/09/2010
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+      Requisito de Patenteabilidade               Cumprimento                   Reivindicações
+                                                        Sim                        7-8, 10-15
+           Aplicação Industrial
+                                                        Não                             -
+                                                        Sim                        7-8, 10-15
+                  Novidade
+                                                        Não                             -
+
+                                                        Sim                             -
+            Atividade Inventiva
+                                                        Não                        7-8, 10-15
+
+
+Obs.: Em função do que foi discutido em relação ao Art. 10 (IX) da LPI (Quadro 2), as reivindicações 1-6 e
+9 não foram analisadas quanto ao requisito de patenteabilidade, pois não são consideradas invenção.
+
+
+
+
+                                                                                                  Página 4
+                                         BR122021001638-0
+
+
+Comentários/Justificativas
+
+
+
+          Em resposta ao segundo parecer técnico, a requerente apresentou esclarecimentos
+quanto à falta de atividade inventiva, dentre os quais:
+
+          Mais especificamente, conforme ensinado no relatório descritivo, a presente invenção é
+          baseada, pelo menos em parte, no estabelecimento de que agentes de dsRNA
+          direcionados a uma porção específica de mRNA de TMPRSS6 e tendo uma combinação
+          específica de características estruturais podem inibir significativamente a expressão de
+          TMPRSS6 in vitro e in vivo, proporcionando assim uma solução para o problema de
+          tratamento de doenças que respondem à modulação da expressão do gene TMPRSS6,
+          como em indivíduos com um distúrbio que se beneficiariam do tratamento de processos
+          patológicos que podem ser mediados por regulação negativa deTMPRSS6, como no
+          tratamento de um distúrbio que causa níveis elevados de ferro, por exemplo,
+          hemocromatose ou talassemia beta, por exemplo, talassemia beta intermediária (vide,
+          por exemplo, página 11, linhas 8-12, da publicação correspondente WO 2012/135246).
+
+
+
+          De fato, os argumentos da requerente são pertinentes, e é justamente por entender que
+sequências específicas de nucleobase apresentam atividade inibitória em relação à expressão
+do gene TMPRSS6, verifica-se que, ao pleitear que cada fita tem pelo menos 15 nucleotídeos
+contíguos que diferem em não mais do que três nucleotídeos e que em cada fita tem 15 a 30
+nucleotídeos de comprimento, é englobada uma infinidade de sequências que não têm
+correlação direta com as que foram selecionadas e tiveram seu efeito demonstrado.
+
+          Desse modo, em função do exposto neste parecer e nos pareceres anteriores, e pelo não
+cumprimento das exigências solicitadas, mantém-se o posicionamento de que o presente pedido
+não apresenta atividade inventiva, em desacordo com as disposições dos Arts. 8º e 13º da LPI.
+
+          Quanto à objeção referente ao Art. 6º da LPI, verifica-se que a matéria pleiteada nas
+reivindicações 12 e 13 do pedido em tela trata da mesma matéria da reivindicação 13 do pedido
+original BR112013025006-2, cuja patente está em vigor. Portanto, em função da duplicidade
+entre as matérias reivindicadas, o presente pedido dividido infringe os critérios do referido Art. 6º
+da LPI.
+
+
+
+Conclusão
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -     não atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI)
+
+
+
+
+                                                                                             Página 5
+                                        BR122021001638-0
+
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+      -   não é considerado invenção, uma vez que incide no Art. 10 da LPI
+
+      -   as reivindicações incidem na proibição estabelecida no Art. 6º inc. VII da Lei nº
+          11.105/05 e/ou no Art. 12 da Lei nº 10.814/03
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 13 de outubro de 2021.
+
+
+
+
+Iulla Naiff Rabelo de Souza Reis
+Pesquisador/ Mat. Nº 1214789
+DIRPA / CGPAT II/DIPAQ
+Deleg. Comp. - Port. INPI/DIRPA Nº
+013/17
+
+
+
+
+                                                                                         Página 6
+

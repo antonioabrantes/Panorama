@@ -1,0 +1,477 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                   RELATÓRIO DE BUSCA
+
+ N.° do Pedido:                      BR122019005883-0          N.° de Depósito PCT: IB2010/054934
+ Data de Depósito:                   01/11/2010
+ Prioridade Unionista:               US 61/256,905 (30/10/2009)
+ Depositante:                        NOVARTIS AG (CH)
+ Inventor:                           Paolo Costantino, Maria Rosaria Romano, Francesco Berti
+ Título:                             MÉTODO PARA LIBERAÇÃO DE POLISSACARÍDEO CAPSULAR,
+                                     PROCESSO DE PURIFICAÇÃO DE SACARÍDEOS CAPSULARES
+                                     TIPO 5 E TIPO 8 DE STAPHYLOCOCCUS AUREUS E
+                                     COMPOSIÇÃO 
+
+
+                                     IPC
+ 1  CLASSIFICAÇÃO
+                                     CPC
+ 2 - FERRAMENTAS DE BUSCA
+    EPOQUE      X ESPACENET                                       PATENTSCOPE
+    DIALOG      X USPTO                                           SINPI
+    CAPES          SITE DO INPI                                   STN
+
+
+3 - REFERÊNCIAS PATENTÁRIAS
+
+                                Número                                       Tipo   Data de Publicação Relevância *
+
+ US2003/0180816                                                              A1         25/09/2003          N, Y
+ WO1999042130                                                                A1         26/08/1999            Y
+
+4 - REFERÊNCIAS NÃO-PATENTÁRIAS
+
+                                Autor/Publicação                                    Data de publicação   Relevância *
+Fattom, al. et al. Laboratory and Clinical Evaluation of                               01/03/1993             Y
+Conjugate Vaccines Composed of Staphylococcus aureus
+Type 5 and Type 8 Capsular Polysaccharides Bound to
+Pseudomonas aeruginosa Recombinant Exoprotein A.
+Infection And Immunity, p. 1023-1032,1993.
+Cook, j. et al. Staphylococcus aureus capsule type 8                                   01/04/2009             Y
+antibodies provide inconsistent efficacy in murine models of
+staphylococcal infection. Human vaccines, 5:4, 254-263,
+2009.
+
+
+Observações:
+
+                                                                             Rio de Janeiro, 12 de setembro de 2019.
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                    Página 1
+                                                  BR122019005883-0
+
+
+Felipe Moura Knopp
+Pesquisador/ Mat. Nº 2390347
+DIRPA / CGPAT II/DIMOL
+
+
+
+
+* Relevância dos documentos citados:
+A documento que define o estado geral da técnica, mas não é       Y documento de particular relevância; a invenção
+   considerado de particular relevância;                             reivindicada não pode ser considerada dotada de
+N documento de particular relevância; a invenção reivindicada        atividade inventiva quando o documento é combinado
+   não pode ser considerada nova quando o documento é                com um outro documento ou mais de um;
+   considerado isoladamente;                                      PN documento patentário, publicado após a data de depósito
+I documento de particular relevância; a invenção reivindicada        do pedido em exame, ou da prioridade requerida para o
+   não pode ser considerada dotada de atividade inventiva ou de      pedido em exame,         cuja data de depósito, ou da
+   ato inventivo quando o documento é considerado                    prioridade reivindicada, é anterior a data de depósito do
+   isoladamente;                                                     pedido em exame, ou da prioridade requerida para o
+                                                                     pedido em exame; esse documento patentário pertence
+                                                                     ao estado da técnica para fins de novidade, se houver
+                                                                     correspondente BR, conforme o Art. 11 §2.º e §3.º da LPI.
+
+
+
+
+                                                                                                                     Página 2
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR122019005883-0          N.° de Depósito PCT: IB2010/054934
+ Data de Depósito:                     01/11/2010
+ Prioridade Unionista:                 US 61/256,905 (30/10/2009)
+ Depositante:                          NOVARTIS AG (CH)
+ Inventor:                             Paolo Costantino, Maria Rosaria Romano, Francesco Berti
+ Título:                               MÉTODO PARA LIBERAÇÃO DE POLISSACARÍDEO CAPSULAR,
+                                       PROCESSO DE PURIFICAÇÃO DE SACARÍDEOS CAPSULARES
+                                       TIPO 5 E TIPO 8 DE STAPHYLOCOCCUS AUREUS E
+                                       COMPOSIÇÃO 
+
+                                                              PARECER
+           O pedido de patente de invenção BR122019005883-0 é oriundo da divisão do
+BR112012010223-0 (doravante referenciado como pedido original). O pedido original obteve
+decisão pelo indeferimento (notificação de despacho de código 9.2 publicada na RPI nº 2536 de
+13/08/2019) após a não manifestação sobre o parecer técnico de Ciência (despacho 7.1)
+publicado na RPI nº 2503 de 26/12/2018.
+           A solicitação voluntária de divisão do pedido original foi feita através da petição nº
+870190028506 de 25/03/2019, ou seja, entre o primeiro parecer técnico (notificação de despacho
+de código 7.1 publicada na RPI nº 2451 de 26/12/2017) e a decisão pelo indeferimento da (RPI nº
+2536 de 13/08/2019). A notificação de publicação do pedido dividido (código de despacho 2.4) foi
+publicada na RPI nº 2539 de 03/09/2019.
+           De acordo com o art. 28 da Instrução Normativa INPI nº 31/2013, que reproduziu a
+redação do item 6.6 do Ato Normativo 127/1997, o pedido dividido será considerado como
+estando na mesma fase processual em que se encontra o pedido original, cabendo ao INPI
+reduzir a termo a referência aos documentos e petições que se encontram no pedido original.
+Logo, o presente pedido se encontra na mesma fase processual do pedido original, para o qual há
+a emissão de um parecer técnico, conforme já apontado.
+
+           Destarte, entende-se que todo o conteúdo que já havia sido discutido até a solicitação
+voluntária de divisão, isto é, no primeiro parecer técnico emitido para o exame do pedido original,
+era de pleno conhecimento da requerente.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                  Página 1
+                                                        BR122019005883-0
+
+
+  Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                              Sim      Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                   X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    X
+
+O pedido refere-se a Sequências Biológicas                                                             X
+
+Comentários/Justificativas
+
+ANVISA
+       Por tratar-se de produto relacionado ao setor farmacêutico, o pedido foi encaminhado à
+ANVISA para o provimento das condições estabelecidas no Art. 229-C da Lei Nº 10.196/01 que
+alterou a Lei Nº 9.279/96 (LPI) (cf. despacho 7.4 publicado na RPI nº 2454 de 16/01/2018). Por
+meio do Ofício nº. 061/18/COOPI/GGMED/ANVISA, de 04/05/2018, a referida Agência concedeu
+a prévia anuência através do parecer técnico de anuência, através do parecer técnico
+120/18/COOPI/GGMED/ANVISA notificado no despacho 7.5 (cf. RPI 2478 de 03/07/2018).
+
+
+Acesso ao Patrimônio Genético
+       O INPI emitiu a exigência de código 6.6.1 na RPI 2466 de 10/04/2018, para fins de
+manifestação do depositante quanto à ocorrência de acesso ao Patrimônio Genético nacional
+e/ou Conhecimento Tradicional Associado para obtenção do objeto do presente pedido. Não
+tendo havido manifestação do depositante no prazo de 60 (sessenta) dias contados a partir da
+publicação na RPI, o INPI deu prosseguimento ao exame técnico com o entendimento de que
+não houve acesso ao patrimônio genético nacional e/ou conhecimento tradicional associado,
+conforme consta no texto do despacho de código 6.6.1 publicado na RPI, de acordo com
+entendimento firmado pela Procuradoria Federal Especializada junto ao INPI (PFE-INPI) no
+Parecer nº 00001/2018/PROCGAB/PFE-INPI/PGF/AGU (Processo INPI nº 52400.002142/2018-
+30), publicado na RPI 2465 de 03/04/2018.
+
+
+Sequencias Biológicas
+
+       Por meio da petição nº 870190028506 de 25/03/2019, a Requerente apresentou as
+sequências biológicas em formato eletrônico. A listagem de sequências em formato digital
+apresentada cumpre adequadamente o disposto na Resolução em vigor. (Resolução INPI/PR nº
+187, de 27 de Abril de 2017).
+
+                                    Quadro 1  Páginas do pedido examinadas
+            Elemento                                   Páginas         n.o da Petição                 Data
+Relatório Descritivo                                     190          870190028506              25/03/2019
+Listagem de sequências em
+                                                             -                -                         -
+formato impresso
+Listagem de sequências*                       Código de Controle       870190028506              25/03/2019
+Quadro Reivindicatório                                    15          870190028506              25/03/2019
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                         Página 2
+                                                        BR122019005883-0
+
+Desenhos                                                  17          870190028506       25/03/2019
+Resumo                                                      1          870190028506       25/03/2019
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+     0BFB4A62BA19264C (Campo 1) e ED502F8015C19CD1 (Campo 2).
+
+O Quadro Reivindicatório para o qual foi requerido o presente exame técnico possui um escopo
+que é exatamente o mesmo das reivindicações pleiteadas no Quadro Reivindicatório analisado
+em ocasião do primeiro exame técnico do pedido original, que resultou na emissão do parecer
+técnico cuja notificação de despacho (código 7.1) foi publicada na RPI nº 2503 de 26/12/2018. No
+referido primeiro parecer técnico emitido no exame do pedido original, foram levantadas diversas
+objeções às matérias pleiteadas, com infrações nos arts.10 (IX), 22, 25, 8º, 11 e 13 da LPI.
+Entretanto, a Requerente deixou de apresentar manifestação sobre o parecer técnico negativo
+publicado na RPI n° 2503 de 26/12/2018. Portanto, as objeções apontadas não foram sanadas e o
+pedido original obteve decisão pelo indeferimento (notificação de despacho de código 9.2
+publicada na RPI nº 2536 de 13/08/2019).
+       Destaca-se que no primeiro parecer técnico emitido para o pedido original, já do
+conhecimento da requerente quando do depósito do pedido dividido, foi apontado, entre outros
+pontos, que o pedido não apresentava unidade de invenção (art. 22 da LPI), sendo constituído de
+2 grupos distintos de invenções. Entretanto, a requerente apresentou um pedido dividido com
+Quadro Reivindicatório idêntico ao original, sem considerar a presença dos dois grupos de
+reivindicações apontados anteriormente.
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                   Sim          Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                   X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                    X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                X
+Comentários/Justificativas
+
+Art. 10 da LPI
+
+       A matéria das reivindicações 25-27 não é considerada invenção nem modelo de
+utilidade, pois se trata do todo ou parte de seres vivos naturais e/ou materiais biológicos
+encontrados na natureza, se enquadrando no disposto no Art. 10 (IX) da LPI. As referidas
+reivindicações objetivam proteção para composição que compreenda polissacarídeos ou
+proteínas de S. aureus, entretanto, da forma como estão redigida, visam proteção a formulações
+que possuam a polissacarídeos ou proteínas de S. aureus como um ingrediente ativo, podendo
+consistir de uma mera diluição (uma solução aquosa, por exemplo) do produto não patenteável.
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                            Página 3
+                                                        BR122019005883-0
+
+
+Vide 4.2.1.1.1 da Resolução nº 144/2015 (Diretrizes de Exame de Pedidos de Patente na Área
+de Biotecnologia).
+
+
+Art. 22 da LPI
+       Pela leitura do pedido, foi possível verificar que o mesmo apresenta conceitos inventivos
+distintos, listados abaixo:
+1º - Reivindicações 1-23 e 25 (parcialmente): são todas reivindicações relacionadas a um método
+de liberação e de processo purificação de polipeptídeos capsulares do tipo 5 e tipo 8 de S. aureus
+e composições contendo tais polipeptídeos.
+2º - Reivindicações 24, 25 (parcialmente) e 26: são todas reivindicações relacionadas a um
+processo de conjugação de polipeptídeos capsulares do tipo 5 e tipo 8 de S. aureus a uma
+molécula transportadora e composições que compreendem tais conjugados e diversos antígenos
+proteicos de S. aureus.
+       Constata-se, então, que a matéria ora reivindicada não apresenta unidade de invenção,
+infringindo o disposto no artigo 22 da Lei 9.279/96 (LPI). Deste modo, apenas o primeiro conceito
+inventivo reivindicado será examinado. Os demais conceitos inventivos poderão ser apresentados
+na forma de um ou mais pedidos divididos.
+
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                             Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI        X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                       X
+Comentários/Justificativas
+Ainda que as reivindicações 24, 25 (parcialmente) e 26 não possuam o mesmo conceito inventivo
+do primeiro grupo inventivo, sua matéria será analisada conforme os dispostos nos Arts. 24 e 25
+da LPI por economia processual (art. 220 da LPI).
+
+
+       A reivindicação independente 1 contraria o disposto no art. 25 LPI e na Instrução
+Normativa nº 30/2013  Art. 4º (III) e Art. 5º (I), pois omite a definição das características do tipo
+de ácido, concentração e temperatura é empregado no processo para liberação dos diferentes
+polissacarídeos capsulares de S. aureus (descritas reivindicação 5, na pág. 12, l. 15-20, do
+Relatório Descritivo), essencial e específica do objeto descrito. O termo liberação de
+polissacarídeo capsular não está claro, pois não determina se o processo visa tão somente a
+obtenção do polissacarídeo capsular tipo 5 ou 8.
+       As reivindicações 6, 17, 20-23 definem o objeto em termos do resultado alcançado e não
+pelas características técnicas do objeto, em desacordo ao disposto no Art. 25 da LPI.
+       A reivindicação 6 não atende ao disposto no art. 25 da LPI e na Instrução Normativa nº
+30/2013  art. 4º (III), pois a matéria pleiteada não está definida de maneira clara e precisa, pois
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                          Página 4
+                                                         BR122019005883-0
+
+define o polissacarídeo pelo seu percentual de O-acetilação, tal definição abrange uma grande
+quantidade de polipeptídeos, de diferentes estruturas.
+         A reivindicação 9 não atende ao disposto no art. 25 da LPI e na Instrução Normativa nº
+30/2013  art. 4º (III), pois a matéria pleiteada não está definida de maneira clara e precisa, pois
+sua parte caracterizante limita-se a apenas fazer referência ao método de liberação de
+polissacarídeo da reivindicação a qual é dependente, entretanto seu preâmbulo menciona um
+método de purificação.
+         A reivindicação 21 contém a expressão cerca de, a qual resulta na falta de clareza e
+precisão da matéria reivindicada, contrariando o disposto no art. 25 da LPI e na Instrução
+Normativa nº 30/2013  Art. 4º (III).
+         A reivindicação dependente 24 excede as limitações das características compreendidas na
+reivindicação a qual se refere, o que contraria o disposto no art. 25 da LPI e na Instrução
+Normativa nº 30/2013  art. 6º (II). A presente matéria requer um processo de purificação que
+compreenda ainda uma etapa de conjugação de proteína de S. aureus a uma molécula
+transportadora, entretanto a etapa de conjugação do presente pedido não é caracterizada como
+sendo uma das etapas inerentes a processos de purificação de polissacarídeo capsulares dos
+tipos 5 e 8 de S. aureus.
+         A matéria das reivindicações 25-28 não atende ao disposto no art. 25 da LPI e na Instrução
+Normativa nº 30/2013  art. 4º (IV), pois a matéria pleiteada não está fundamentada no Relatório
+Descritivo, pois a presente matéria está relacionada a um número muito diverso de composições
+compreendendo um ou mais antígenos de S. aureus consistindo. Entretanto, o Relatório Descritivo
+do presente pedido não apresenta dados que forneçam informações sobre as realizações de tais
+composições.
+
+
+
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                   Data de publicação
+    D1        Fattom, al. et al. Laboratory and Clinical Evaluation of Conjugate       01/03/1993
+              Vaccines Composed of Staphylococcus aureus Type 5 and Type
+              8 Capsular Polysaccharides Bound to Pseudomonas aeruginosa
+              Recombinant Exoprotein A. p. 1023-1032, Infection And
+              Immunity, 1993.
+    D2        US2003/0180816                                                           25/09/2003
+    D3        Cook, j. et al. Staphylococcus aureus capsule type 8 antibodies          01/04/2009
+              provide inconsistent efficacy in murine models of staphylococcal
+              infection. Human vaccines, 5:4, 254-263, 2009.
+    D4        WO1999042130                                                             26/08/1999
+
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                         Página 5
+                                                        BR122019005883-0
+
+
+    Quadro 5 - Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                    Cumprimento      Reivindicações
+                                                                          Sim                128
+            Aplicação Industrial
+                                                                         Não                   -
+                                                                          Sim       5, 1113, 18, 19, 2628
+                    Novidade
+                                                                         Não        14, 6-10, 1417, 2025
+
+                                                                          Sim                  -
+            Atividade Inventiva
+                                                                         Não                 128
+
+
+
+Comentários/Justificativas
+
+Para o presente exame foram considerados os conteúdos do Relatório Descritivo, Resumo e
+Quadro Reivindicatório contendo 28 reivindicações, apresentados na petição em que foi
+solicitada a divisão do pedido original (nº 870190028506 de 25/03/2019).
+       Da mesma forma que o pedido original, o pedido de patente de invenção
+BR122019005883-0 refere-se [i] um método para a liberação de polissacarídeo capsular de
+células tipo 5 ou tipo 8 de S. aureus compreendendo a etapa de tratamento das células com
+ácido (reivindicações 1-8). [ii] um processo para a purificação de polissacarídeo capsular de
+células tipo 5 ou tipo 8 de S. aureus compreendendo este método (reivindicações 9-24) [iii]
+Composição que compreende um polissacarídeo capsular tipo 5 ou tipo 8 de S. aureus
+(reivindicações 25-28). Salienta-se que o novo título proposto voluntariamente pela requerente
+petição nº 870190028506 de 25/03/2019, apesar de estar harmonizado com a matéria ora
+reclamada, só poderá ser incorporado ao presente pedido em caso de deferimento.
+
+       D1 é um artigo científico que revela um método de purificação de CPS (polissacarídeo
+capsular bacteriano) do Tipo 5 e tipo 8 de S. aureus (resumo). O método de D1 compreende:
+uma etapa de liberação de CPS do Tipo 5 e tipo 8 de S. aureus utilizando tratamento com ácido,
+tratando as células com fenol, também conhecido como ácido carbólico, sendo neutralizado
+numa etapa posterior com NaOH (pág. 1024, col. esquerda, § 5º). Além disso, no método de D1
+as células encontram-se em cultura, ou seja, em um meio aquoso ((pág. 1024, col. esquerda, §
+5º), seguido de centrifugação da solução (pág. 1024, col. esquerda, l. 3 últimas), adicionalmente
+o método de D1 compreende uma etapa de tratamento com DNase e RNase (pág. 1024, col.
+esquerda, § 4º), tendo o método de purificação passado por uma cromatográfica de troca iônica
+(pág. 1024, col. direita, l. 1-2), passando por etapa de centrifugação gerando sua concentração,
+levando assim a uma nível de contaminantes de ácido nucleico e proteínas de menos de 5%
+(Tabela 1). D1 ensina ainda a conjugação de CPS de S. aureus a antígenos (pág. 1024, col.
+esquerda, l. 4-7) e proteínas carreadoras (pág. 1025, col. esquerda, § 3º).
+       Frente ao exposto, as reivindicações 1-4, 6-10, 14-17, 20-25 não atendem ao requisito
+novidade, pois todas as características pleiteadas encontram-se antecipadas no documento D1,
+não atendendo disposto nos arts. 8° c/c 11 da LPI.
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                     Página 6
+                                                        BR122019005883-0
+
+
+       D2 é um documento que revela um método para tratar bactérias Gram-positivas tanto
+com ácido sulfúrico quanto com ácido acético (D2, reivindicação 15) e um método análogo ao do
+presente pedido para a obtenção de carboidratos de bactérias Gram-positivas (D2, reivindicação
+9).
+
+       D3 é uma referência que revela um método para tratar CPS de S. aureus tipo 8 com
+mutanolisina (pág. 261, §1º, l. 1-5) de forma equivalente ao presente pedido, ou seja, para
+degradar os componentes da parede celular bacteriana, para gerar um lisado em um processo
+de purificação de polissacarídeos de S. aureus.
+
+       D4 é um documento que revela processos de conjugação de oligossacarídeos para
+produção de vacinas (resumo). D4 revela um processo de purificação de polissacarídeos de N.
+meningitidis utilizando filtração em gel (Figura 4).
+
+
+       Frente ao exposto, as reivindicações 5, 11 e 18 não atendem ao requisito atividade
+inventiva ao combinar as etapas do processo reveladas em D1-D4, chegando assim ao método
+de liberação de polipeptídeos capsulares de células tipo 5 ou tipo 8 de S. aureus ou seu
+processo de purificação não atendendo ao requisito de patenteabilidade relacionado à atividade
+inventiva conforme o disposto nos arts. 8° e 13 da LPI.
+
+       Nas reivindicações dependentes 12, 13, 19 não foram identificadas características que,
+mesmo quando combinadas com as características de qualquer reivindicação independente a
+que se referem, venham a prover novidade e/ou a atividade inventiva à matéria, pois decorrem
+de soluções óbvias para um técnico no assunto.
+
+
+
+Conclusão
+
+
+      Constatou-se que as matérias do Quadro Reivindicatório para as quais foi requerido o
+presente exame técnico consistem exatamente do mesmo escopo das matérias pleiteadas no
+Quadro Reivindicatório analisado em ocasião do primeiro exame técnico do pedido original, que
+resultou na emissão do parecer técnico cuja notificação de despacho (código 7.1) foi publicada na
+RPI nº 2503 de 26/12/2018. No referido primeiro parecer técnico emitido no exame do pedido
+original, foram levantadas diversas objeções às matérias pleiteadas, com infrações nos arts. 10
+(IX), 22, 25, 8º, 11 e 13 da LPI, as mesmas objeções são repetidas neste parecer. Não houve
+resposta em decorrência das objeções acima mencionadas e o pedido original obteve decisão
+pelo indeferimento (notificação de despacho de código 9.2 publicada na RPI nº 2536 de
+13/08/2019).
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                     Página 7
+                                                          BR122019005883-0
+
+
+      Assim sendo, de acordo com o art. 37, opino pelo indeferimento do presente pedido, uma
+vez que:
+
+      -      não atende ao requisito de novidade (art. 8º combinado com art. 11 da LPI);
+
+      -      não atende ao requisito de atividade inventiva (art. 8º combinado com art. 13 da LPI);
+
+      -      não atende ao requisito de aplicação industrial (art. 8º combinado com art. 15 da LPI);
+
+      -      as reivindicações estão indefinidas e/ou não estão fundamentadas no Relatório
+             Descritivo (art. 25 da LPI);
+
+      -      não é considerado invenção, uma vez que incide no art. 10 da LPI; e
+
+      -      não apresenta unidade de invenção (art. 22 da LPI).
+
+
+
+      De acordo com o art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                        Rio de Janeiro, 12 de setembro de 2019.
+
+
+
+
+Felipe Moura Knopp
+Pesquisador/ Mat. Nº 2390347
+DIRPA / CGPAT II/DIMOL
+
+
+
+      De acordo com o parecer acima, indefiro o presente pedido.
+
+                                                                              Publique-se o indeferimento (9.2).
+
+
+
+
+Daniel Marques Golodne
+Chefe de Divisão/ Mat. Nº 1358388
+DIRPA / CGPAT II/DIMOL
+Portaria INPI/PR Nº672/17
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 8
+

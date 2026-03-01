@@ -1,0 +1,177 @@
+                                         SERVIÇO PÚBLICO FEDERAL
+                                          MINISTÉRIO DA ECONOMIA
+                              INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.º do Pedido:                       BR102015003367-2            N.º de Depósito PCT: ----
+ Data de Depósito:                    13/02/2015
+ Prioridade Unionista:                ----
+ Depositante:                         Universidade Federal de Santa Maria (BRRS); Companhia Estadual de
+                                      Distribuição de Energia Elétrica - CEEE-D (BRRS)
+ Inventor:                            Luciane Neves Canha, Paulo Ricardo da Silva Pereira
+ Título:                              Método de Controle para Regulador de Tensão, Sistema de Controle
+                                      para Regulador de Tensão e Método de Definição de Faixa de
+                                      Insensibilidade
+                                                                      PARECER
+
+      A Requerente recebeu notificação de Ciência de Parecer (7.1) publicada na RPI nº 2657, de
+07/12/2021. Através da petição nº 870220016099 de 23/02/2022, a mesma apresentou
+Manifestação sobre o Parecer Técnico. Para fins de continuidade do exame estão sendo
+consideradas as vias abaixo:
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas              Nº da Petição         Data
+                                                                                DERS 016150000339
+ Relatório Descritivo                                           1-8                                    13/02/2015
+                                                                                   Págs. 13 a 20
+                                                                                DERS 016150000339
+ Quadro Reivindicatório                                         1-2                                    13/02/2015
+                                                                                   Págs. 21 a 22
+                                                                                DERS 016150000339
+ Desenhos                                                       1-2                                    13/02/2015
+                                                                                   Págs. 23 a 24
+                                                                                DERS 016150000339
+ Resumo                                                         1                                      13/02/2015
+                                                                                     Pág. 25
+
+                  Quadro 2 - Considerações referentes aos Artigos 10, 18, 22 e 32 da LPI
+ Artigos da LPI                                                                                Sim         Não
+ A matéria enquadra-se no Art. 10 da LPI (não se considera invenção)                                        X
+ A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                                                X
+ O pedido apresenta Unidade de Invenção (Art. 22 da LPI)                                           X
+ O pedido está de acordo com disposto no Art. 32 da LPI                                            X
+Comentários/Justificativas: ----
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                                  Página 1
+                                            BR102015003367-2
+
+                 Quadro 3 - Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                            Sim                     Não
+O relatório descritivo está de acordo com disposto no Art. 24 da LPI                        X
+O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI                      X
+Comentários/Justificativas: ----
+                            Quadro 4 - Documentos citados no parecer
+ Código                                  Documento                                                Data de publicação
+           CN102214927
+           Título: Automatic-Coupling Continuous Regulable Quick
+    D1     Reactive-Power Automatic Compensation Device                                                 2011-10-12
+           Depositante: Shandong Sunkist Electric Co Ltd; Pingyin County
+           Power Supply Co Ltd
+           B. Kasztenny, E. Rosolowski, J. Izykowski, M. M. Saha and B.
+           Hillstrom, Fuzzy logic controller for on-load transformer tap
+    D2                                                                                                      1998-01
+           changer in IEEE Transactions on Power Delivery, vol. 13, no. 1,
+           pp. 164-170, Jan. 1998, doi: 10.1109/61.660874.
+
+     Quadro 5 - Análise dos Requisitos de Patenteabilidade (Art. 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento                              Reivindicações
+                                                         Sim                                         1-9
+           Aplicação Industrial
+                                                        Não                                          ----
+                                                         Sim                                         1-9
+                 Novidade
+                                                        Não                                          ----
+                                                         Sim                                         ----
+           Atividade Inventiva
+                                                        Não                                          1-9
+Comentários/Justificativas:
+   Na manifestação a Requerente alega que no estado da técnica não há descrição de um
+módulo de ajuste que esteja instalado no regulador de tensão e opere permitindo que o controle
+existente possa ser utilizado em conjunto com o módulo proposto pelo presente pedido de
+privilégio de patente de invenção que descreve a inserção de inteligência no regulador de tensão
+de modo a evitar que o operador tenha de ir a campo parametrizar a tensão de referência (que é
+um valor que depende da carga). Atualmente, à medida que a carga se altera ou os objetivos de
+controle de tensão mudam, o operador deve ir a campo refazer a parametrização da tensão de
+referência. O sistema desenvolvido habilita que se faça essa parametrização de forma automática,
+reduzindo custos e permitindo operações em tempo real e transferências de blocos de cargas
+maiores sabendo que o regulador de tensão será automaticamente parametrizado permitindo que
+o controle inteligente proposto ocorra ampliando a funcionalidade do regulador de tensão. Dessa
+forma o sistema proposto no módulo de ajuste automático habilita o equipamento regulador de
+tensão para integração e operação em redes elétricas inteligentes. Com as redes inteligentes, a
+presença de geração renovável não estocástica, como a solar fotovoltaica implica em grandes
+
+
+                                                    Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12     Página 2
+                                         BR102015003367-2
+
+variações de carregamento das redes ao longo dos dias também os chaveamentos de cargas e
+transferência de cargas entre alimentadores passam a ocorrer em tempo real. ou seja a rede
+exige uma parametrização em tempo real dos reguladores de tensão de forma a tomar mais eficaz
+a regulação da tensão e o uso do equipamento. Nesse contexto, a definição da faixa de
+insensibilidade utilizando algoritmo próprio e inédito baseado em lógica fuzzy é fundamental para
+garantir maior flexibilidade operacional das redes e explorar por completo o conceito das redes
+elétricas inteligentes.
+
+    A Requerente alega que nenhum dos documentos utilizados para se delimitar o estado da
+técnica descreve um módulo de ajuste que esteja instalado (acoplado) no dispositivo regulador de
+tensão e insira a Inteligência no mesmo mantendo a tensão de saída estabilizada, por intermédio
+de um algoritmo de autoajuste, que leva em consideração os dados medidos (tensão, potência,
+corrente, entre outros) e armazenados na memória do regulador para definir os ajustes da tensão
+de referência, compensação da queda de tensão na linha, faixa de insensibilidade e
+temporização.
+
+    A Requerente alega que o presente pedido de privilégio de patente de invenção descreve um
+módulo para cálculo da faixa de insensibilidade a partir da lógica fuzzy. Para que o mesmo opere
+é necessária a tensão de referência que é definida pelo próprio sistema proposto sem a
+necessidade de que um operador externo forneça essa referência (tenha de ir a campo realizar
+essa parametrização) fazendo com seja possível o acoplamento a qualquer controle existente de
+forma a efetivamente inserir inteligência e automação nos controles já existentes e no próprio
+controle descrito no presente pedido de privilégio de patente de invenção. Basta que o módulo
+proposto seja instalado junto ao controle existente ou seja acoplado já no processo de fabricação
+dos reguladores de tensão novos e o regulador de tensão passe a se tomar um smart voltage
+regulator ou regulador de tensão inteligente que operará. A partir do sistema de controle
+desenvolvido e inserido junto ao módulo de acoplamento. Destaca-se que em redes inteligentes
+as alterações nas redes podem ser significativas e diversas ao longo de um dia o que é
+inviabilizado nos controles atuais dos reguladores de tensão que teriam de ser descartados em
+redes inteligentes ou operariam com baixas eficiências e reduzida eficácia.
+
+    A Requerente alega que o documento D1 não propõe ajuste de tensão, faz controle de tap
+para chegar no valor de potência reativa que o dispositivo exige.
+
+    A Requerente alega que o documento D2 descreve um novo controle que utiliza Lógica fuzzy.
+Não considera entradas de corrente e não inclui ajuste automático de compensação de queda na
+rede. Propõem um novo controlador que precisa substituir o existente no regulador de tensão,
+com duas entradas, erro de tensão e tap atual e as saídas, a direção da derivação que aumenta
+ou diminui e a temporização. O presente pedido de privilégio de patente de invenção analisa os
+dados em tempo real e define um conjunto de dados que são enviados ao controle existente sem
+
+
+
+
+                                                Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 3
+                                                  BR102015003367-2
+
+ter de substituir os controles que já existem e no caso de equipamentos novos o módulo poderá já
+ser implementado junto ao controle do regulador de tensão durante o processo de fabricação.
+
+    Apesar das alegações da Requerente o ajuste automático da referência do regulador de
+tensão, sem a necessidade de que um técnico vá a campo para fazer tal ajuste, o uso de técnicas
+inteligentes, dentre elas a lógica fuzzy, para tais ajustes e elaboração e uso do histórico de dados
+obtidos a partir do monitoramento em tempo real e a mesma quantidade de variáveis monitoradas
+sãos características inerentes à matéria pleiteada e, portanto óbvias para um técnico no assunto.
+
+Conclusão
+    Face ao exposto, conclui-se que a invenção ora pleiteada decorre de maneira evidente ou
+óbvia, para um técnico no assunto, a partir do estado da técnica, sendo desprovida de atividade
+inventiva, conforme Art. 13 da LPI.
+
+    Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que o mesmo não
+atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+    Rio de Janeiro, 28 de fevereiro de 2022.
+
+    Publique-se o indeferimento (9.2).
+
+    CAMILO BRAGA GOMES
+    Pesquisador / Mat. Nº 1547071
+    DIRPA / CGPAT III / DIFEL
+    Deleg. Comp. - Port. INPI / DIRPA Nº 022/12
+
+
+
+
+                                                        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 4
+

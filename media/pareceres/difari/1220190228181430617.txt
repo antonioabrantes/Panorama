@@ -1,0 +1,559 @@
+                                             SERVIÇO PÚBLICO FEDERAL
+                                              MINISTÉRIO DA ECONOMIA
+                                  INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+  N.° do Pedido:                            BR122019022818-3          N.° de Depósito PCT: GB2007/003733
+  Data de Depósito:                         02/10/2007
+  Prioridade Unionista:                     GB 0619942.6 (09/10/2006)
+  Depositante:                              Syngenta Limited (GB)
+  Inventor:                                 Gillian Beveridge, Ewan Campbell Boyd, Jack Hugh Vass, Alan John
+                                            Whitton
+  Título:                                   PROCESSO PARA PREPARAR UM COMPOSTO DE FÓRMULA (I) 
+
+                                           PARECER
+              O pedido BR122019022818-3, apresentado em 30/10/2019, pela petição INPIRJ n°
+870190110870, refere-se à divisão do pedido PI0717092-0. O depósito do pedido dividido foi
+notificado na RPI n° 2552, de 03/12/2019. Neste sentido, vale lembrar que, de acordo com o
+artigo 28 da Instrução Normativa 031/2013, o pedido dividido será considerado como estando na
+mesma fase processual em que se encontra o pedido original, cabendo ao INPI reduzir a termo a
+referência aos documentos e petições que se encontram no pedido original.
+
+              O presente pedido se refere a um processo de obtenção de compostos de fórmula (I) que
+engloba a reação de um composto de fórmula (III) com um composto de fórmula (IV) ou um sal do
+mesmo na presença de 0,05 a 40% em mol de (i) uma molécula à base de quinuclidina
+selecionada a partir de quinuclidina, 3-quinuclidinol ou 3-quinuclidinona ou um sal ácido da
+mesma; ou (ii) uma N-metil pirrolidina ou um sal ácido da mesma. Mais especificamente, refere-se
+a um processo como a seguir:
+
+
+                                                             quinuclidina
+                  N           N                              3-quinuclidinol ou
+                                                                                           N        N
+                                                             3-quinuclidinona
+          6                            +
+      R                                    HO                                     R6
+              O                   Cl                                CH3
+                                                                                       O                  O
+                      (III)                     R5   (IV)           N
+
+                                                                                               R7       (I)   R5
+
+
+              R6= 2-cianofenila
+
+
+          R5=
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                         Página 1
+                                      BR122019022818-3
+       Por meio do parecer notificado na RPI nº 2605, de 08/12/2020, a requerente tomou
+conhecimento que a matéria pleiteada no presente pedido era destituída de atividade inventiva e
+não poderia receber proteção patentaria por não atender ao disposto nos artigos 8º e 13 da LPI.
+
+       Através da petição INPI nº 870210020635, de 03/03/2021, a requerente apresenta novas
+páginas do relatório descritivo, novo quadro reivindicatório e novo resumo além de argumentos
+em prol da patenteabilidade da matéria pleiteada pelo pedido.
+
+                          Quadro 1  Páginas do pedido examinadas
+            Elemento                  Páginas             n.o da Petição             Data
+
+ Relatório Descritivo                   1-37              870210020635             03/03/2021
+ Quadro Reivindicatório                 1-3               870210020635             03/03/2021
+ Desenhos                                -                       -                      -
+ Resumo                                  1                870210020635             03/03/2021
+
+SUBSÍDIOS AO EXAME:
+
+Subsídio da Helm AG - petição INPI no 870210035961, de 20/04/2021:
+       A interessada apresenta subsídio, nos termos do artigo 31 da LPI, visando comentar a
+manifestação ao Parecer técnico notificado na RPI nº 2605 de 08/12/2020 e para contribuir com o
+exame do pedido. Apresenta também os seguintes documentos como relevantes para sua análise:
+
+
+
+
+Da Suficência Descritiva/Suporte e Clareza :
+       A interessada analisa que o quadro reivindicatório atual pretende protege o seguinte
+processo:
+
+
+
+
+                                                                                        Página 2
+                                       BR122019022818-3
+
+
+        Contudo, entende que o pedido não possui suficiência descritiva pelo fato de não haver
+nenhum exemplo experimental dirigido ao esquema reacional pleiteado. Considera não ser
+possível extrapolar, com base nos exemplos descritos que a azoxistrobina seria obtida
+efetivamente conforme reivindicada. Assim, conclui que o pedido não atende aos arts. 24 e 25.
+
+
+Da atividade inventiva:
+        Considera que D1 incentiva a utilização de bases orgânicas como catalisadores baseado
+no trecho (coluna 9, linha 10) onde ensina que podem ser utilizadas desde quantidades de 0,1 mol
+de base por mol de 3-metoxi-2-(halogenopirimidiniloxi-fenil)-acrilato de metila, portanto quantidade
+catalítica.
+        Aponta que contrariamente ao afirmado pela Requerente, D1'' (coluna 8, linha 58-65)
+menciona que, se apropriado, o processo também pode ser realizado na presença de sais de
+cobre (II), ou seja, assinala que a reação é realizada na presença de uma quantidade de base
+(que pode ser catalítica) mas não necessariamente na presença de sais de cobre.
+        Reforça que D25 fez referência que D1 revela que qualquer base (amina terciária) pode
+ser usada mesmo em quantidades catalíticas.
+        Acrescenta que no documento D21, anexado à petição da Interessada nº 870200153559
+de 07.12.2020, juntada ao processo do pedido original PI'092, os honoráveis Professores afirmam
+que qualquer argumento sobre o fato do exemplo em D2 (=D2) ter um átomo de flúor na posição
+5 do anel pirimidínico () é falho pois, neste caso, o átomo de flúor pouco influencia no
+transcorrer da reação pois, as reações de SNAr são dependentes da estabilidade do intermediário
+carbânion e, quem estabiliza este intermediário é o átomo de cloro e o átomo de nitrogênio devido
+às suas eletronegatividades. Assim, esta reação transcorreria de maneira similar em ambos os
+casos. (vide pp. 19-20 de D21). Ao contrário do que a Requerente afirma, fica provado que os
+derivados de pirimidina no D2'' e no presente BR'818 possuem reatividade idêntica, o que seria
+prontamente reconhecido pelo Técnico no Assunto.
+        Considera contraditória a afirmação da requerente que as reações de D2 e BR'818 são
+diferentes, que os compostos em D2 e BR'818 tem químicas diferentes e assim, um técnico no
+assunto entenderia que o ensinamento de D2 (catalisador DABCO) não seria aplicável ao
+processo do presente pedido BR'818, uma vez que a própria requerente também afirma (§ 28)
+que o DABCO (ensinamento de D2'') já tinha sido revelado como catalisador para a química da
+invenção (presente pedido BR'818), ou seja, para a síntese de Azoxistrobina.
+        Afirma ser claro que, na realidade, a Requerente considera a química e os compostos dos
+exemplos em D2'' e BR'818 como sendo equivalentes e que, consequentemente, o catalisador
+ensinado em D2'' (DABCO) é apropriado para a química descrita no BR'818, ou seja, para a
+síntese da Azoxistrobina. Assim, declara que um técnico no assunto estaria motivado a adaptar os
+
+
+                                                                                           Página 3
+                                       BR122019022818-3
+ensinamentos e exemplos descritos em D2 de modo a incluir outras aminas terciárias alifáticas
+cíclicas equivalentes ao DABCO, como a N-metilpirrolidina, para sintetizar a azoxistrobina.
+       Argumenta que um técnico no assunto não iria assumir à priori que a falta do substituinte
+de halogênio na posição cinco (5) da pirimidina no composto do presente pedido fosse influenciar
+a reatividade de modo aboli-la no caso da sua ausência.
+       Destaca que Doc. A não fornece informação suficiente que confirme que estamos perante
+condições experimentais exatamente iguais (nomeadamente temperatura e volume de solvente)
+para cada uma dessas reações. Pondera que esta informação é crucial na construção dos
+"Exemplos comparativos", uma vez que é sabido que tais condições terão um impacto significativo
+no perfil de impurezas, incluindo o teor da impureza bis-éter. Adicionalmente, considerando o
+estado da técnica mais próximo D2, indica que o DABCO deveria ter sido incluído nesses
+exemplos comparativos para avaliar o alegado efeito redutor de impurezas, especialmente pelo
+fato de ser necessário a resposta se N-metilpirrolidina tem caráter inventivo ou não face ao estado
+da técnica. Reforça que D2 já demonstrara claramente que as características reacionais ora
+reivindicadas no BR'818, incluindo temperaturas, solventes e quantidade catalíticas da amina
+terciária cíclica alifática DABCO, originavam rendimentos perto dos 100% para obter compostos
+do tipo Azoxistrobina.
+       Ressalta que D18 e D19 já demonstraram que a N-metilpirrolidina era conhecida como
+catalisador em reações de substituição nucleofílica. Ademais, observa que a N-metilpirrolidina não
+apresenta efeito técnico face às anterioridades contrariando o item 5.325, 5.476 e 5.527 das
+Diretrizes de Exame. Esta falta de efeito técnico está em linha com o exame da Sra. Examinadora
+conforme parecer de 01.12.2020, onde é apontado que a "reação com o catalisador DABCO em
+D2'' demora 2 horas a 70-80ºC e tem rendimento de 96,5% (ver exemplo 1), enquanto que a
+reação no BR'818 demora 64 horas a 60ºC e tem rendimento de 83,8%. (). Em suma, não há
+evidencias de um efeito catalítico da N-metil pirrolidina num processo de obtenção de um
+composto de fórmula (I) a partir de um composto de fórmula (III) conforme presentemente
+reivindicado." Portanto, afirma que o BR'818 não resulta em qualquer efeito técnico inesperado e
+não envolve qualquer habilidade ou capacidade além do que se espera de um Técnico no
+assunto.
+       Salienta que a Requerente tenta persuadir a Sra. Examinadora a acreditar que um Técnico
+acharia improvável que outras aminas terciárias catalisassem o processo porque os Inventores de
+D2'' consideraram que o DABCO foi "extremamente surpreendente". Contudo, considera que a
+Requerente ignora a capacidade do técnico no assunto especialmente pelo fato de D2 afirmar
+que:
+(§0014) o estado da Técnica tem desvantagem de necessitar pelo menos quantidades molares
+equivalentes da amina terciária, sendo assim inadequado para preparação industrial em grande
+escala, especialmente se são usadas aminas caras.
+
+
+
+                                                                                          Página 4
+                                           BR122019022818-3
+        Considera que o fato surpreendente de D2 é utilizar quantidades catalíticas (§0109) "é
+extremamente surpreendente que a reação possa ser realizada com 2-40 mol% de DABCO, com
+excelentes rendimentos e não o próprio DABCO em si como catalisador. Dessa forma, destaca
+que o fato do processo ser catalisado (com sucesso!) usando uma amina terciária alifática cíclica
+não só motiva, mas provoca o Técnico a considerar outras aminas terciárias alifáticas cíclicas
+como catalisadores do processo em substituição ao DABCO. Frisa que o exame Coreano (D23)
+evidencia a estreita relação química das aminas terciárias como DABCO, N-metilpirrolidina e
+Quinuclidina. Portanto, entende que o Técnico consideraria, sem qualquer esforço intelectual
+acrescido, a N-metilpirrolidina como uma alternativa viável, lógica (e mais barata!) em substituição
+ao DABCO na química do processo de D2".
+        Considera que D2 não aponta qualquer reação catalítica paralela ou cuidados especiais a
+ter quando do uso do grupamento metoxiacrilato como substituinte (grupo R5) de forma que não
+considera ser compreensível a alegação da Requerente de que um técnico no assunto não seria
+capaz de prever se o DABCO ou outra amina terciária seria eficaz de catalisar a reação desejada
+sem sofrer reação catalítica paralela na ligação da dupla do grupo metoxiacrilato.
+        Conclui seu subsídio afirmando que o pedido BR'818 não atende as disposições dos
+Artigos 8º, 13, 24 e 25 da LPI e deve ser indeferido.
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+ Artigos da LPI                                                           Sim             Não
+ A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                         x
+ A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                 x
+ O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   x
+ O pedido está de acordo com disposto no art. 32 da LPI                    x
+Comentários/Justificativas
+
+                Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+ Artigos da LPI                                                           Sim             Não
+ O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+ O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas:
+
+                            Quadro 4  Documentos citados no parecer
+
+  Código                                  Documento                             Data de publicação
+ D1 = D1 US 5773445 = DE 4 340 181 = WO 1995/014674                           01/06/1995
+ D2        WO 01/72719 (US 2003/0092723)                                      04/10/2001
+
+                                                                                             Página 5
+                                         BR122019022818-3
+
+ D2           PI9405818-0 (WO 1994/017060)                                        04/08/1994
+ D3           PI0610381-2 (WO 2006/114572)                                        02/11/2006
+ D4           PI9803388-3 (US 5,849,910)                                          15/12/1998
+ D5           PI9701203-3 (EP 0 794 177 A)                                        09/11/1997
+ D6           WO 2003/013247                                                      20/02/2003
+ D7           US 4769458                                                          06/09/1988
+ D8           WO 2003/050087                                                       19/03/2003
+ D9           WO 2004/002947                                                      08/012004
+
+
+      Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade             Cumprimento                 Reivindicações
+                                                      Sim                          1-19
+            Aplicação Industrial
+                                                      Não                            -
+                                                      Sim                          1-19
+                  Novidade
+                                                      Não                            -
+
+              Atividade Inventiva                     Sim                            -
+
+                                                      Não                          1-19
+Comentários/Justificativas:
+
+Manifestação da Requerente (Argumentos em favor da patenteabilidade do pedido):
+
+Argumentos da Requerente na petição INPI nº 870210020635, de 03/03/2021:
+
+        A Requerente alega que apresenta um novo quadro reivindicatório (total de 19
+reivindicações) no qual:
+
+O composto de fórmula (I) foi limitado à azoxistrobina e ao seu derivado dimetóxi acetal;
+
+A N-metil pirrolidina opcionalmente 3-substituída de fórmula (VII) foi limitada a N-metil pirrolidina;
+
+Os sais da reivindicação dependente 21 foram limitados a um sal de lítio, césio, sódio ou
+potássio; e
+
+As reivindicações 5 a 11 foram excluídas e a relação de dependência e numeração das demais
+reivindicações alteradas de acordo.
+
+        Acrescenta que o título foi modificado e alguns erros de tradução também foram corrigidos
+sendo que estas correções não alteram a matéria reivindicada.
+
+Da atividade inventiva:
+
+        Destaca que D1 revela compostos ésteres 3-metóxi-2-fenil-acrílicos e seu processo de
+preparação via reação de substituição nucleofílica aromática, a qual é realizada na presença de
+um auxiliar de reação (D1, coluna 6, linhas 24 a 50), os quais podem ser todas as bases
+
+                                                                                               Página 6
+                                        BR122019022818-3
+
+orgânicas ou inorgânicas habituais, inclusive aminas terciárias como trimetilamina, trietilamina,
+N,N-dimetilanilina, N-metilpiperidina, N,N-dimetilaminopiridina e diazabiciclooctano (DABCO)
+(D1, coluna 8, linhas 41 a 58) e não traz qualquer ensinamento ou motivação para que um
+técnico no assunto utilize bases orgânicas como catalisadores da reação ali revelada. Entende
+que D1 ensina o uso de catalisadores de sais de cobre (II), afastando um técnico no assunto do
+uso de derivados de quinuclidina e N-metil pirrolidina como catalisadores.
+
+       Adiciona que D2 revela um método para produzir 4,6-bis(arilóxi)pirimidinas assimétricas
+através da reação um derivado de pirimidina com um nucleófilo adequado na presença do
+catalisador DABCO, que engloba genericamente um processo para preparar a azoxistrobina. No
+entanto, D2 releva especificamente em seus exemplos a reação de derivados de 5-fluoro-
+pirimidina com diversos derivados fenólicos. Destacando que tais derivados de pirimidina e os
+derivados de pirimidina do presente pedido de patente possuem reatividade diferente.
+
+       No tocante à alegação do INPI que a reação catalisada com N-metil pirrolidina (exemplo
+3d do Doc.A apenso à petição de depósito do presente pedido de patente) apresenta
+desempenho inferior à reação não catalisada do exemplo 3 de D1 (mais lento) e à reação
+catalisada com DABCO do exemplo 1 de D2, esclarece que o exemplo 3 de D1 refere-se a uma
+reação que seria relacionada àquela entre um composto de fórmula (II) e 2-cianofenol para a
+formação de um composto de fórmula (I). Ademais, apesar de similar, o composto do exemplo 3
+de D1 não é o composto de fórmula (I) das reivindicações ora apensas e, portanto, não é
+possível comparar as taxas desta reação não catalisada com aquela entre os compostos de
+fórmula (III) e (IV) da presente invenção.
+
+       Assinala que o composto de fórmula (I) conforme atualmente reivindicado não está
+englobado no composto de fórmula (I) de D1, uma vez que os substituintes Y da fórmula
+Markush de D1 são halogênios, os quais são mais eletronegativos que o hidrogênio e ativam o
+átomo de carbono adjacente (posição 4) ao seu ponto de ligação (posição 5) à substituição
+nucleofílica aromática. Portanto, um técnico no assunto entenderia que a reatividade dos
+reagentes revelados em D1 e das reações exemplificadas em D2 é diferente da reatividade
+daqueles do presente pedido de patente. Assim, alega que um técnico no assunto entende que os
+ensinamentos de D1 e D2 não são necessariamente aplicáveis ao processo ora reivindicado,
+pois tratam de compostos com características moleculares e químicas diferentes, o que é
+particularmente relevante em uma escala comercial de produção de várias toneladas.
+
+       Pontua que as taxas de reação dos exemplos de D1, como o exemplo 3 citado pelo INPI,
+e o experimento controle (não catalisado) do processo ora reivindicado apresentado no Doc. A,
+apenso à petição de depósito do presente pedido de patente, corroboram essas diferenças.
+
+       Destaca que o exemplo 3 de D1, além de não se tratar de uma reação entre um
+composto de fórmula (III) e um composto de fórmula (IV), refere-se a uma pirimidina que possui
+um cloro na posição 5, o que a torna mais reativa do que a pirimidina equivalente para a síntese
+
+
+
+                                                                                         Página 7
+                                         BR122019022818-3
+
+de azoxistrobina, ou seja, a reação do exemplo 3 de D1 é naturalmente mais rápida. Considera
+que o mesmo vale para a reação do exemplo 1 de D2, referente a uma 5-fluoropirimidina.
+
+       Portanto, afiança que a capacidade da N-metil pirrolidina catalisar a presente reação deve
+ser avaliada com base em uma reação controle não catalisada utilizando os mesmos reagentes e
+não com base nas reações descritas em D1 e D2, as quais referem-se a compostos com
+reatividade distinta. Considera que a partir da tabela extraída do Doc. A, fica claro que o
+rendimento obtido com a reação não catalisada para a reação da presente invenção é baixíssimo,
+com a formação de diferentes subprodutos, mesmo após um longo tempo de reação. A reação
+catalisada por N-metil pirrolidina aumenta consideravelmente o rendimento do processo ora
+reivindicado, restando clara sua atividade catalítica.
+
+       Quanto à alegação de que a requerente pretende adicionar um novo problema técnico à
+invenção, qual seja, a produção de um produto mais puro. Assegura que a partir da tabela 2 do
+Doc. A, é possível verificar que a reação não catalisada entre um composto de fórmula (III) e um
+composto de fórmula (IV) apresenta baixo rendimento devido à grande formação de subprodutos,
+sendo que o catalisador aumenta o rendimento da reação e diminui a formação de subprodutos.
+Isso porque acelera a taxa de reação desejada (entre o composto de fórmula (III) e o composto de
+fórmula (IV)) de forma que esta ocorre mais rapidamente do que as reações paralelas que levam
+à formação dos subprodutos indesejáveis. Desse modo, pondera que o efeito na diminuição da
+formação de subprodutos não soluciona um novo problema técnico, como alegado no parecer ora
+sob manifestação, mas representa apenas um efeito adicional relacionado à solução do problema
+técnico, i.e., provisão de um processo alternativo para a preparação da azoxistrobina e seu
+derivado dimetóxi acetal. Além disso, ressalta que a menor formação de subprodutos é sempre
+desejada em um processo químico sintético, uma vez que subprodutos têm um impacto negativo
+no rendimento da reação. Isso não significa que um catalisador que, além de aumentar a taxa de
+reação, diminua a formação de subprodutos solucione um problema técnico distinto da catálise de
+uma reação.
+
+       Discorda da opinião do INPI que as propriedades observadas para os catalisadores à base
+de quinuclidina seriam esperadas uma vez que estes seriam estruturalmente próximos ao
+DABCO. Conforme já alegado no depósito do presente pedido de patente, os inventores de D2
+consideraram extremamente surpreendente que o DABCO tenha sido capaz de catalisar essa
+reação (D2, página 6, parágrafo [0109]). Isto indica a um técnico no assunto que é improvável
+que outras aminas terciárias catalisem esse processo.
+
+       Considerando-se a informação disponível em D2 para a produção de azoxistrobina, na
+qual o substituinte R5 é o grupo metoxiacrilato, considera que um técnico no assunto não seria
+capaz de prever se DABCO, quiçá outra amina terciária, seria eficaz em catalisar a reação
+desejada sem sofrer reação catalítica paralela na ligação dupla do grupo metoxiacrilato, ou
+mesmo em um grupo metoxipropanoato (que são os possíveis substituintes R5 para os compostos
+de fórmula (I) e (IV) do processo reivindicado pelo presente pedido de patente).
+
+
+                                                                                        Página 8
+                                        BR122019022818-3
+
+       Portanto, entende que um bom catalisador de acordo com a presente invenção deve
+acelerar a taxa de reação da reação desejada (entre o composto de fórmula (III) e o composto de
+fórmula (IV)) de forma que esta ocorra mais rapidamente do que a reação não catalisada, bem
+como do que as reações paralelas que levam à formação dos subprodutos indesejáveis. Alega
+que entre 2004 e 2006, durante o desenvolvimento da tecnologia do presente pedido de patente,
+não havia um método sistemático não empírico para prever a capacidade catalítica de um
+potencial catalisador nucleofílico orgânico.
+
+       Acentua que os resultados apresentados na tabela 2 do Doc. A demostram que nem todas
+as aminas terciárias são capazes de catalisar o processo da presente invenção. Considera que a
+partir de D2, um técnico no assunto não esperaria que outras aminas terciárias diferentes do
+DABCO fossem capazes de catalisar a reação da presente invenção. Além disso, o estado da
+técnica é incapaz de fornecer qualquer direcionamento para um técnico no assunto selecionar
+quinuclidina, 3-quinuclidinol e 3- quinuclidinona entre a miríade de aminas terciárias existentes.
+
+       Sugere que, conforme demonstrado na tabela 1 do Doc. A, as propriedades químicas e
+físicas dos derivados de quinuclidina e do DABCO são significativamente diferentes, que à época
+do depósito do pedido, um técnico no assunto poderia se basear, por exemplo, no pKa  única
+informação disponível acerca da reatividade de uma base em 2006. No entanto, fica claro que
+não há uma relação entre pKa e a capacidade de atuar como catalisador no presente processo.
+Ou seja, é quase impossível decidir sobre um catalisador apropriado com base em propriedades
+químicas ou físicas, como pKa ou a nucleofilicidade isolada e, portanto, não é óbvio para um
+técnico no assunto quais compostos seriam bons catalisadores e quais seriam catalisadores
+inadequados, mesmo se combinando os ensinamentos de D2 e D1. Desse modo, aponta que a
+capacidade dos derivados de quinuclidina de catalisarem o processo reivindicado é um efeito não
+óbvio, i.e., que não poderia ser previsto por um técnico no assunto com razoável expectativa de
+sucesso.
+
+       Conclui sua manifestação afirmando que a matéria reivindicada pelo presente pedido de
+patente é inventiva frente aos ensinamentos das anterioridades citadas, consideradas
+isoladamente ou em combinação, atende plenamente aos requisitos de patenteabilidade previstos
+nos artigos 8º e 13 da LPI. Então, solicita o deferimento do pedido.
+
+
+
+Análise das alegações da Requerente:
+Aplicação industrial:
+
+       A matéria das reivindicações 1-19 é passível de ser aplicada industrialmente.
+
+Novidade:
+
+       Nenhum dos documentos do estado da técnica citados concretiza, especificamente, um
+processo de obtenção da azoxistrobina pela utilização de uma molécula de quinuclidina
+selecionada de quinuclidina, 3-quinuclidinol ou 3-quinuclidinona ou um sal ácido da referida
+
+                                                                                            Página 9
+                                        BR122019022818-3
+quinuclidina ou uma N-metilpirrolidina ou um sal ácido da referida N-metilpirrolidina como auxiliar
+de reação. Dessa forma, a matéria ora reivindicada é nova.
+
+Atividade Inventiva:
+
+              Primeiramente reafirmamos que de acordo com o relatório descritivo, parágrafo
+003, o objetivo do presente pedido é um processo de obtenção de derivados 4,6-
+bis(arilóxi)pirimidinas assimétricas em um processo catalítico, ou seja, em um processo mais
+rápido. Essa informação é corroborada pelo trecho da petição inicial (petição INPI nº
+870190110870) onde a requerente declara que:
+
+                              (...)agem como bons catalisadores em um processo alternativo para
+                       a preparação do composto de fórmula (I) pois aceleram a reação do
+                       processo de forma suficiente a gerar benefício comercial, no caso, aceleram
+                       a reação desejada a um ponto em que a temperatura ou o tempo de reação
+                       possa ser reduzido. 
+
+       Neste contexto, deixamos claro que a análise do preenchimento do requisito atividade
+inventiva deve ser realizada fundamentada no problema técnico mencionado quando do depósito
+do pedido, no caso a catálise do processo de obtenção de 4,6-bis(arilóxi)pirimidinas assimétricas
+por aminas terciárias derivadas de quinuclidina ou pela N-metilpirrolidina.
+
+       Assim, no que se refere à utilização de N-metilpirrolidina como catalisador no processo de
+da azoxistrobina ora reivindicado, ratificamos que Doc. A ora anexado especifica um processo no
+qual um composto de fórmula (III) é convertido num composto de fórmula (I) cujo tempo reacional
+é de 64 horas, ou seja, um processo que demora muito mais tempo do que o próprio D1 que não
+utiliza nenhum catalisador em um processo de obtenção de compostos estruturalmente similares
+aos obtidos pelo processo do presente pedido.
+
+       Ratificamos que o tempo/temperatura do processo realizado em D1, sem catalisador, é de
+16 horas a 25ºC com rendimento de 81,4% (ver exemplo 3), em D2 com DABCO como
+catalisador é de 2 horas/70-80oC rendimento de 96,5% (ver exemplo 1), enquanto que no
+presente pedido (DOC.A) é de 64 horas/60oC com rendimento de 83,8%. Portanto, não há
+evidências de um efeito catalítico da N-metil pirrolidina num processo de obtenção de um
+composto de fórmula (I) a partir de um composto de fórmula (III) conforme presentemente
+reivindicado. È digno de nota que as diferenças estruturais dos compostos de D1 e D2 com
+relação ao composto obtido no presente pedido não são tão expressivas como pretende destacar
+a Requerente em sua manifestação, ao ponto da reação no presente pedido ser pelo menos
+quatro vezes mais lenta que aquela de D1 e 30 vezes mais lenta que aquela de D2.
+
+       Em suma, não há redução nem da temperatura nem do tempo de reação do processo do
+presente pedido com relação aos processos mais similares do estado da técnica D1 e D2.
+
+
+                                                                                        Página 10
+                                        BR122019022818-3
+       No que diz respeito à obviedade da utilização de quinuclidina e derivados, i.e. 3-
+quinuclidinol ou 3-quinuclidinona ou um sal ácido da referida quinuclidina e as alegações da
+Requerente que:
+
+À época do depósito não havia um método sistemático não empírico para prever a capacidade
+catalítica de um potencial catalisador nucleofílico orgânico;
+
+D2 divulgava ser surpreendente o DABCO catalisar o processo;
+
+Um técnico no assunto não seria capaz de prever se DABCO, ou outra amina terciária, seria
+eficaz em catalisar a reação desejada sem sofrer reação catalítica paralela na ligação dupla do
+grupo metoxiacrilato, ou mesmo em um grupo metoxipropanoato a partir de D2;
+
+As propriedades químicas e físicas do DABCO e derivados da quinuclidina são significativamente
+diferentes
+
+       Ratificamos que pelo fato da quinuclidina e análogos serem estruturalmente semelhantes
+ao DABCO, um técnico no assunto esperaria que os referidos compostos apresentassem, assim
+como este último, propriedades catalíticas, fundamentados pelo documento D2. Neste contexto,
+deve igualmente ser ratificado que os rendimentos obtidos nos exemplos 2a a 2n do presente
+pedido, que variam de 81 a 100%, são comparáveis aos rendimentos obtidos nos exemplos 1-3
+do documento D2 (ou seja, 79, 97 e 98%, tendo em mente que uma comparação direta não é
+possível, porque os compostos do presente pedido não são exatamente os mesmos dos
+compostos do documento D2), porém os tempos de reação são semelhantes assim como as
+temperaturas de reação. Em outras palavras, nenhum efeito não óbvio que possa estar associado
+a quinuclidina ou derivados quando comparadas ao DABCO é observado no processo do
+presente pedido que seja capaz de atribuir-lhe atividade inventiva. Ainda neste contexto,
+ratificamos que:
+
+ A partir dos dados da tabela 2 do relatório descritivo do presente pedido observa-se que ao se
+comparar o catalisador DABCO, descrito no estado da técnica, e a quinuclidina ou sal da mesma
+verifica-se que estes se comportam de modo semelhante com relação a tempo/temperatura de
+reação, dentro das mesmas condições experimentais (ambos em solvente DMF, 4 horas a 40ºC e
+mais 2 horas a 60º C); e
+
+ Enfatizamos que a molécula de DABCO tem estrutura química similar à molécula de
+quinuclidina, com a diferença de apenas um átomo de nitrogênio substituído por um átomo de
+carbono, conforme estrutura química a seguir, quinuclidina (à esquerda) e DABCO à direita:
+
+
+
+
+                                                                                       Página 11
+                                                    BR122019022818-3
+     Outrossim, embora a requerente mencione na sua manifestação que não seria necessário
+apresentar um efeito superior para a quinuclidina e compostos derivados, insistimos em discordar
+de sua posição, pois a diretriz de exame deste instituto discorre, quando da avaliação do
+preenchimento do requisito atividade inventiva, que pequenas alterações em um produto/processo
+devem ser acompanhadas de um efeito técnico não óbvio ou inesperado 1. Neste caso específico,
+os    catalisadores        quinuclidina,       3-quinuclidinol    e    3-quinuclidinona        são     aminas       terciárias
+estruturalmente relacionadas ao DABCO e por essa razão devem ser comparadas ao mesmo.
+
+     Baseado em todo o supracitado, as reivindicações 1-19 não podem receber proteção
+patentaria por serem destituídas de atividade inventiva, ou seja, não atendem ao disposto nos
+artigos 8º e 13 da LPI.
+
+Conclusão:
+
+        Os argumentos da Requerente foram analisados, porém não são capazes de suplantar as
+objeções quanto ao preenchimento do requisito atividade inventiva por parte da matéria pleiteada.
+
+        Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+        -    não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+
+
+        De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                                   Publique-se o indeferimento (9.2).
+
+                                                                               Rio de Janeiro, 10 de junho de 2021.
+
+
+
+
+ Nilda de Moraes Silva
+ Pesquisador/ Mat. Nº 1316871
+ DIRPA / CGPAT I/DIFAR-I
+ Deleg. Comp.-Port. INPI/DIRPA Nº 002/11
+
+
+1 Diretriz de exame INPI Bloco II (Resolução nº 169 de 15/07/2016) itens:
+
+         5.47 Na determinação da atividade inventiva de uma invenção por alteração de elementos, usualmente os seguintes fatores
+precisam ser considerados: se existe motivação técnica para alteração nas relações entre os elementos ou para substituição ou
+omissão de elementos e se o efeito técnico seria esperado.
+
+
+         5.52 A invenção não envolve atividade inventiva quando, na solução de um mesmo problema técnico, ocorre uma
+substituição de um elemento por outro com função correspondente para obter resultados previsíveis, ou seja, sem que se observe
+nenhum efeito técnico inesperado.
+
+
+
+
+                                                                                                                  Página 12
+

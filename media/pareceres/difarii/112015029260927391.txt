@@ -1,0 +1,157 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112015029260-7            N.° de Depósito PCT:EP2014/060665
+ Data de Depósito:                   23/05/2014
+ Prioridade Unionista:               EP 13169009.1 (23/05/2013)
+ Depositante:                        BAYER ANIMAL HEALTH GMBH (DE) , KITASATO INSTITUTE (JP)
+ Inventor:                           Dr. Gerd Kleefeld, Dr. Robrecht Froyman, Dra. Carolin Ludwig, Prof.
+                                     Dr. Satoshi Omura, Prof. Toshiaki Sunazuka, Hirose Tomoyasu,
+                                     Sugawara Akihiro, Shiomi Kazuko
+ Título:                             Derivados de tilosina e seu método de preparação 
+
+                                                                PARECER
+
+
+          O INPI emitiu a exigência de código 6.6.1 na RPI 2460 de 27/02/2018, para fins de
+manifestação do depositante quanto à ocorrência de acesso ao Patrimônio Genético Nacional
+e/ou Conhecimento Tradicional Associado para obtenção do objeto do presente pedido. Não
+tendo havido manifestação do depositante no prazo de 60 (sessenta) dias contados a partir da
+publicação na RPI, o INPI deu prosseguimento ao exame técnico com o entendimento de que
+não houve acesso ao patrimônio genético nacional e/ou conhecimento tradicional associado.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                     1-124               860150275767           23/11/2015
+Quadro Reivindicatório                                     1-4               870180136677           01/10/2018
+Resumo                                                      1                860150275767           23/11/2015
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR112015029260-7
+
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                            Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI        x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI      x
+Comentários/Justificativas
+
+         Em sua manifestação, a requerente considera que com as alterações introduzidas no
+quadro reivindicatório o presente pedido atende aos requisitos estabelecidos nos artigos 24 e 25
+da LPI. A requerente considera que o quadro atual é uma generalização razoável dos exemplos
+encontrados no RD e que os numerosos exemplos de compostos de fórmula IIa são
+representativos para o assunto reivindicado. As alegações apresentadas pela requerente foram
+consideradas pertinentes.
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                              Data de publicação
+    D1       WO 94/02496 A1                                                         03/02/1994
+    D2       Kirst, H.A. Et al. Synthesis and evaluation of Tylosin-Related             1988
+             Macrolides Modified at the Aldehyde Function: A New Series of
+             Orally Effective Antibiotics. J. Med. Chem. Vol. 31 p. 1631-1641
+    D3       WO 2008/012343 A2                                                      31/01/2008
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento             Reivindicações
+                                                         Sim                      1-4
+            Aplicação Industrial
+                                                        Não
+                                                         Sim                      1-4
+                 Novidade
+                                                        Não
+                                                         Sim
+            Atividade Inventiva
+                                                        Não                       1-4
+Comentários/Justificativas
+
+         Em sua manifestação, a requerente alegou que os compostos de D1 a D3 não possuem
+o padrão de substituição reivindicado, particularmente com R5 = hidroxila e pelo menos R11 ou
+R12 contendo um alquil C1-C3 substituído com 1,2,3-triazol que é substituído por si mesmo na
+posição 4. Com isso, a requerente acredita que as objeções de novidade e atividade inventiva
+são solucionadas.
+
+
+                                                                                            Página 2
+                                        BR112015029260-7
+
+
+       Conforme ressaltado pela requerente, os documentos do estado da técnica não
+descrevem compostos com a estrutura pleiteada. O presente pedido, portanto, possui novidade
+conforme o Artigo 11 da LPI.
+
+       No tocante à atividade inventiva, a requerente não apresentou nenhum argumento que
+busque evidenciar o avanço tecnológico representado pelo presente pedido. Conforme
+ressaltado no parecer técnico anterior, o estado da técnica revela uma grande variedade de
+compostos derivados de tilosina com ação antimicrobiana, com estrutura muito semelhante aos
+compostos pleiteados. Além disso, os compostos do estado da técnica apresentam diferentes
+substituintes nas posições dos substituintes R 5, R11, R12, sugerindo que é possível variar os
+substituintes em tais posições e manter a atividade antimicrobiana. Assim, o técnico no assunto
+encontra grande motivação para propor mudanças estruturais nos substituintes destacados, com
+o objetivo de fornecer compostos antimicrobianos alternativos. Ademais, não foram
+apresentados dados que evidenciem algum efeito técnico não óbvio resultante das alterações
+estruturais promovidas.
+
+       Por esse motivo, entende-se que os técnico no assunto poderia chegar aos compostos
+pleiteados trabalhando de maneira lógica e rotineira a partir do estado da técnica, obtendo os
+resultados já esperados face aos ensinamentos de D1-D3. A matéria pleiteada, portanto, não
+apresenta atividade inventiva, contrariando os Artigos 8o e 13 da LPI.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+                                                             Rio de Janeiro, 25 de janeiro de 2019.
+
+
+
+
+Carolina Soares Bemvindo Hashimoto
+Pesquisador/ Mat. Nº 2675420
+DIRPA / CGPAT I/DIFAR-II
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/15
+
+
+
+
+                                                                                          Página 3
+

@@ -1,0 +1,229 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                              RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112014025461-3            N.° de Depósito PCT:US2013/035908
+ Data de Depósito:                   10/04/2013
+ Prioridade Unionista:               US 13/444,115 (11/04/2012)
+ Depositante:                        GOOGLE LLC (US)
+ Inventor:                           NICOLAS LIDZBORSKI
+ Título:                             Método, dispositivo eletrônico e sistema 
+
+
+
+                                                                 PARECER
+
+
+          O pedido sob análise faz referência a aparatos para autenticar um usuário tentando
+utilizar um dispositivo, mas levando em conta a localização do usuário, bem como critérios que
+indicariam a familiaridade deste local e as condições em que a autenticação é solicitada.
+
+                                       Quadro 1  Páginas do pedido examinadas
+                Elemento                                Páginas              n.o da Petição           Data
+
+Relatório Descritivo                                      1 - 15             870200046038           13/04/2020
+
+Quadro Reivindicatório                                     1-4               870210121719           29/12/2021
+
+Desenhos                                                   1-3             NPWB 860140171850        13/10/2014
+
+Resumo                                                       1               870200046038           13/04/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+          O primeiro exame do pedido apontou infrações aos Arts. 8, 13, 25 e 32 da LPI. Em virtude
+desse fato, foi emitido um despacho de Ciência de parecer (7.1), o qual foi publicado na RPI n o
+2648, de 05/10/2021. Em resposta ao parecer de primeiro exame, o requerente submeteu, em
+29/12/2021, por meio da petição 870210121719, Manifestação na qual apresentou novo Quadro
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_S                                     Página 1
+                                           BR112014025461-3
+
+reivindicatório, bem como esclarecimentos e contestações à conclusão de falta de atividade
+inventiva apontada no parecer de primeiro exame. Não foi detectado, no novo conteúdo, infração
+ao Art. 32 da LPI.
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+
+         Contata-se que o novo Quadro reivindicatório, apresentado com a Manifestação, elimina
+as infrações ao Art. 25 da LPI apontada no primeiro parecer de exame técnico.
+
+
+                           Quadro 4  Documentos citados no parecer
+ Código                                  Documento                             Data de publicação
+    D1       US 20100175116 - A1                                                      08/07/2010
+    D2       US 20090253408 - A1                                                      08/10/2009
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                    16
+            Aplicação Industrial
+                                                        Não                       -
+                                                         Sim                    16
+                 Novidade
+                                                        Não                       -
+                                                         Sim                      -
+            Atividade Inventiva
+                                                        Não                     16
+Comentários/Justificativas
+
+         O Quadro reivindicatório do pedido sob análise apresenta 6 reivindicações, sendo
+independentes as Reivindicações 1 (pleiteando método) e 4 (pleiteando dispositivo). A matéria
+pleiteada considerada relevante para fins de análise inventiva consiste em aparatos para controlar
+o acesso de um usuário aos recursos computacionais de um dispositivo em que redes de
+comunicação disponíveis são detectadas, a localização do dispositivo é identificada com base nas
+redes de comunicação detectadas, um banco de dados com informações de localizações
+(incluindo o número de logins bem-sucedidos em cada localização) previamente coletadas de
+modo automático e periódico é consultada e se o número de logins bem-sucedidos excede um
+certo valor, a permissão de acesso é concedida, caso contrário outro mecanismo de verificação é
+empregado.
+         Em sua Manifestação, o requerente argumenta, essencialmente, que:
+            - O Documento D1 não revelaria a característica da Reivindicação 1 de as infor-
+            mações referentes às localizações familiares incluírem informações de
+
+
+
+                                                                                            Página 2
+                                  BR112014025461-3
+
+  localização coletadas automaticamente e periodicamente e salvas em uma
+  memória legível por computador. Essa característica reduziria o risco de acesso
+  fraudulento já que em caso de perda ou esquecimento do dispositivo portátil as
+  informações    relativas   ao    acesso   ao   dispositivo   seriam   constantemente
+  atualizadas e dessa forma as localizações familiares podem ser drenadas da
+  memória legível por computador quando não são mais visitadas recentemente ou
+  frequentemente e, portanto, podem não ser mais tratadas como localizações
+  familiares com métodos de autenticação preferidos. O Documento D1, por outro
+  lado apenas revelaria que a atualização do perfil apenas ocorreria se
+  explicitamente instruído pelo usuário.
+  - As deficiências que existiriam em D1 não seriam supridas por D2 e, por isso, ele
+  não seria capaz de remediar as deficiências do documento D1, portanto,
+  nenhuma combinação de D1 e D2 poderia, muito menos conduziria um técnico no
+  assunto à matéria pleiteada no pedido.
+Em resposta aos argumentos do requerente, esclarece-se que:
+  - É trivial e óbvio que seja feita a atualização e coleta automática de dados com a
+  finalidade de atualização do perfil de acesso/segurança do dispositivo/usuário. De
+  fato, vários outros tipos de informações são (já o eram muito antes do depósito do
+  pedido) coletadas de forma automática por um dispositivo móvel/portátil (por
+  exemplo, localização, estado de consumo de energia e/ou de utilização do
+  dispositivo, etc) com a consequente atualização dos perfis dos quais dependem.
+  Dessa forma, a não ser que seja dito que forçosamente não deva ocorrer a coleta
+  dos dados e consequente atualização dos respectivos perfis, deve ser assumido
+  que essas ações ocorrem. Assim, é evidente que a característica de serem
+  coletadas automática e periodicamente informações de localização (no atual
+  contexto) não agrega atividade inventiva à matéria pleiteada no pedido sob
+  análise.
+  - Adicionalmente, a referida característica está presente em D1, conforme é
+  facilmente constatável já que: i) O próprio requerente, em sua tradução de um dos
+  trechos de D1 cita que ...a atualização do perfil de uso pode ser opcional e
+  somente realizada se instruída pelo usuário... o que dá a entender que a
+  limitação das ações de D1 é ocasional (e conforme explicado neste parecer, não
+  sendo dito que forçosamente não deva ocorrer, assume-se que a coleta de
+  dados e atualização do respectivo perfil ocorrem, tal como acontece com outras
+  atualizações automáticas de um dispositivo móvel). ii) O Documento D1 também
+  revela, no Parágrafo 0044, que o usuário do dispositivo pode configurar a duração
+  do modo de aprendizado (learn mode - durante o qual ocorre atualização de
+  perfis) com ampla liberdade (learn mode may be configured for exit after a given
+
+
+
+                                                                                   Página 3
+                                        BR112014025461-3
+
+          amount of time, which may be configured by the user) o que, naturalmente, inclui
+          períodos arbitrariamente grandes de tempo. Sendo assim, o learn mode não
+          exige que o dispositivo opere, exclusivamente, para a finalidade de atualização de
+          perfis, mas se constitui em um modo que requer autorização prévia para ser
+          iniciado mas também permite que outras atividades sejam exercidas, dados sejam
+          coletados e perfis sejam atualizados. Na Figura 3, e Parágrafos 0048  0049, é
+          revelado que dados de localização são continuamente coletados e que a
+          atualização do perfil pode ocorrer mesmo fora do learn mode (blocos 335 e 310
+          da Figura 3). Em D1, portanto, dados de localização são continuamente
+          coletados, eles são utilizados na atualização de perfis, o que pode ocorrer no
+          modo de aprendizado (cuja vigência é determinável pelo usuário), mas também
+          fora do modo de aprendizado, desse modo cobrindo todos os modos de uso do
+          dispositivo.
+          - Por fim, o Documento D2 também revela a coleta contínua e o armazenamento
+          de dados relacionados ao perfil do usuário os quais provocam a atualização
+          contínua do perfil (vide especialmente, nos Parágrafos 0057-0059 e 0067, os
+          trechos   determining   a   security   compromise    event   (120)   may    include
+          accumulating a usage profile of the mobile device over a predetermined time
+          period (310), accumulating information regarding continued usage of the mobile
+          device..., usage profile can be compiled over any desired time [...] may include a
+          fixed period of time, or may be dynamically determined (e.g.shifting in time as
+          the mobile device is utilized) e security compromise event may be determined
+          based on the location of the mobile device).
+       Dando continuidade ao exame da matéria pleiteada, constata-se que o Quadro reivindi-
+catório analisado neste segundo exame técnico está incluso nas matérias pleiteadas examinadas
+no primeiro exame técnico e, por isso, continuam válidos os argumentos do primeiro parecer de
+exame técnico, os quais são reproduzidos a seguir:
+
+       O pedido sob análise é considerado destituído de atividade inventiva frente ao estado da
+técnica representado pela associação dos conteúdos dos documentos D1 e D2. De fato, o
+Documento D1 (Abstract; Figuras 1 - 9; Parágrafos 0006 - 0021, 0036 - 0069, 0075 - 0097) revela
+o controle de acesso de um usuário a um dispositivo, com esse controle incluindo detectar redes
+disponíveis e, dai determinar a localização do dispositivo, consultar um banco de dados com
+dados previamente coletados (relacionados à localização do dispositivo e logins bem-sucedidos) e
+liberar o acesso ao usuário caso a consulta indique que o acesso pode ser considerado seguro.
+No caso do Documento D2 (Abstract; Parágrafos 0025 - 0032, 0039 - 0042, 0051 - 0078, 0108 -
+0127), revelam-se dispositivos nos quais ocorre verificação de autenticidade/identidade do usuário
+corrente (tanto de modo automático recuperando-se dados previamente armazenados de
+localização e/ou histórico de uso - inclusive histórico de login - quanto por solicitação de senha ou
+identificação biométrica) e, em caso de falha dessa verificação, medidas de segurança são
+
+
+                                                                                           Página 4
+                                       BR112014025461-3
+
+
+tomadas (inclusive a solicitação de senhas ou a limitação das funcionalidades do dispositivo).
+Combinados, portanto, os conteúdos de D1 e D2, demonstra-se a falta de atividade inventiva do
+pedido, inclusive em relação a outras características secundárias da matéria revelada/pleiteada
+(por exemplo o uso em aplicações financeiras).
+
+
+
+Conclusão
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que o pedido
+não atende o requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                              Rio de Janeiro, 25 de março de 2022.
+
+
+
+
+Alvaro da Silva Ferreira
+Pesquisador/ Mat. Nº 1742398
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 008/13
+
+
+
+
+                                                                                          Página 5
+

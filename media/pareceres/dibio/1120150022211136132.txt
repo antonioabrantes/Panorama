@@ -1,0 +1,134 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112015002221-9           N.° de Depósito PCT:US2013/051782
+ Data de Depósito:                   24/07/2013
+ Prioridade Unionista:               US 13/562.975 (31/07/2012)
+ Depositante:                        S. C. JOHNSON & SON, INC. (US)
+ Inventor:                           JOEL E. ADAIR, IMRE J. DANCS, BRIAN T. DAVIS, MIGUEL A.
+                                     ESPARZA, KAMRAN FATERIOUN, TRACY L. GUARD, SEBASTIAN
+                                     D. HASIK, DIRK K. NICKEL, JESSE RICHARD, CHRISTOPHER R.
+                                     SHERIDAN
+ Título:                             Dispensador de material volátil e método para emitir material volátil 
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição                Data
+
+Relatório Descritivo                                    1  21               870190061607                02/07/2019
+Quadro Reivindicatório                                   12                 870190061607                02/07/2019
+Desenhos                                                1  23               860150015696                30/01/2015
+Resumo                                                      1                870190061607                02/07/2019
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                           X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                   X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+                     Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                                Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         X
+                                     Quadro 4  Documentos citados no parecer
+  Código                                               Documento                                    Data de publicação
+      D1         EP 2 384 771                                                                           09/11/2011
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                    Página 1
+                                      BR112015002221-9
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade           Cumprimento               Reivindicações
+                                                  Sim                        19
+           Aplicação Industrial
+                                                  Não                          
+                                                  Sim                        19
+                Novidade
+                                                  Não                          
+
+                                                  Sim                          
+           Atividade Inventiva
+                                                  Não                        19
+
+
+
+Comentários/Justificativas
+
+       A requerente traz seus argumentos em favor da patenteabilidade do mesmo quadro
+analisado no parecer anterior.
+
+       As afirmações de que D1 inclui apenas um modo wind down que altera o nível de
+intensidade de alta para baixo e que a invenção distancia-se da anterioridade em decorrência
+do escalonamento de potência de alta para baixa, não ode ser considerada correta. A
+reivindicação 1 da invenção é clara ao afirmar em que a primeira porcentagem é maior do que
+a segunda e a segunda porcentagem é maior do que a terceira porcentagem. Assim, temos que
+os dispositivos funcionam segundo programas análogos, alterando a taxa de pot~encia de mais
+alta para mais baixa.
+
+       As afirmações () o objetivo não é aumentar ou diminuir as emissões. O objetivo da
+presente invenção é criar diferentes níveis de intensidade com diferentes configurações de
+potência nominal escalonada, que alega distanciar a invenção da anterioridade D1, são
+infundadas. A alteração da potência aplicada inevitavelmente altera as emissões por volatização
+em dispositivos como aquele ora pleiteado, de forma que os resultados são idênticos, mesmo
+que os objetivos alegados sejam outros.
+
+       Também, a requerente não evidencia em seus argumentos qual seria a vantagem técnica
+decorrente do programa específico de variação de potência do dispositivo de forma escalonada.
+Como ora pleiteado, é claramente um mero ajuste de parâmetros de funcionamento do
+dispositivo para volatilizar quantidades adequadas do material, ao alcance de um técnico no
+assunto familiarizado com a construção de dispositivos capazes de aquecer uma mistura pelo
+uso de uma resistência elétrica.
+
+       Portanto, ficam mantidas as conclusões sobre a falta de atividade inventiva da matéria
+como ora pleiteada nas reivindicações 1 a 9 da invenção frente aos ensinamentos trazidos em
+D1, de acordo com os argumentos trazidos no parecer anterior, e contra os argumentos trazidos
+pela requerente em sua manifestação, nas formas deste parecer.
+
+
+
+
+                                                                                        Página 2
+                                       BR112015002221-9
+
+
+Conclusão
+
+       A matéria das reivindicações 1 a 9 da invenção não tem atividade inventiva quando
+confrontada com os ensinamentos trazidos em D1 de acordo com o Art. 13 da LPI e não pode
+ser patenteada de acordo com o Art. 8º da LPI.
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 13 de janeiro de 2020.
+
+
+
+
+Edilson Grünheidt Borges
+Pesquisador/ Mat. Nº 1550609
+DIRPA / CGPAT II/DIBIO
+Deleg. Comp. - Port. INPI/DIRPA Nº
+003/14
+
+
+
+
+                                                                                          Página 3
+

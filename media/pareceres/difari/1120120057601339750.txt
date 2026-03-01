@@ -1,0 +1,259 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112012005760-0           N.° de Depósito PCT:CN2010/001293
+ Data de Depósito:                   26/08/2010
+ Prioridade Unionista:               CN 2009101958233 (14/09/2009)
+ Depositante:                        Jiangsu Hengrui Medicine Co., Ltd. (CN) , Shanghai Hengrui
+                                     Pharmaceutical Co., Ltd. (CN)
+ Inventor:                           Peng Cho Tang, Xin Li, Bin Wang, Jun Wang, Lijun Chen
+ Título:                             "Derivados de 6-amino quinazolina ou de 3-ciano quinolina, seus
+                                     processos de preparação e seus usos, intermediário e seu processo
+                                     de preparação, composição farmacêutica e seu processo de
+                                     preparação".
+
+                                                                PARECER
+
+
+
+
+          Através da petição de n° 870200152516 de 04/12/2020, a requerente apresentou
+manifestação sobre o parecer técnico negativo notificado na RPI 2592, relatório descritivo
+resumo, com novo título e um novo quadro reivindicatório (total de 18 reivindicações).
+          Os argumentos e novo quadro reivindicatório ora apresentados pela requerente não
+superam os questionamentos feitos anteriormente com relação à atividade inventiva das
+reivindicações da matéria pleiteada no parecer (RPI 2592 de 08/09/2020), e reitera-se a opinião
+de que o presente pedido não atende aos artigos 8°e 13 da LPI.
+
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                    1 a 62               870200152516     04/12/2020
+Quadro Reivindicatório                                   1a8                 870200152516     04/12/2020
+Desenhos                                                    -                       -              -
+Resumo                                                      1                870200152516     04/12/2020
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                             Página 1
+                                           BR112012005760-0
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                 Sim                Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                        X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                          X
+O pedido está de acordo com disposto no art. 32 da LPI                           X
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                 Sim                Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI             X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI           X
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                   Data de publicação
+    D1                                  WO03089439                                           30/10/2003
+    D2                                   CN1751033                                           22/03/2006
+    D3                                 WO2005028443                                          31/03/2005
+    D4                           JP2003530395 (WO 0177104)                                    14/10/03
+
+
+
+
+         O documento D1, descreve heterociclos bicíclicos e sua ação inibitória na transdução de
+sinal conferida pelas tirosina quinases.
+
+
+         O documento D2, descreve heterociclos bicíclicos e sua ação inibitória na transdução de
+sinal conferida pelas tirosina quinases.
+
+
+         O documento D3, descreve inibidores da proteína tirosina quinase.
+
+
+         O   documento     D4,    descreve    compostos       heterocíclicos   bicíclicos,    composições
+farmacêuticas contendo esses compostos, seu uso e métodos para sua preparação.
+
+
+
+
+                                                                                                   Página 2
+                                         BR112012005760-0
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade               Cumprimento                  Reivindicações
+                                                       Sim                         1 a 18
+          Aplicação Industrial
+                                                      Não                             -
+                                                       Sim                         1 a 18
+                  Novidade
+                                                      Não                             -
+
+                                                       Sim                            -
+           Atividade Inventiva
+                                                      Não                          1 a 18
+
+
+
+Comentários/Justificativas
+
+
+
+        A matéria pleiteada apresenta novidade e aplicação industrial atendendo aos artigos 8 o,
+11 e 15 da LPI.
+
+
+Atividade Inventiva
+
+
+       A requerente em sua manifestação de 04/12/2020 em relação ao documento D1 declara:
+
+
+                   ...a base de semelhança na Figura 1 listada pelo parecer também está errada, porque o
+                   examinador considera que o RX de D1-D4 está diretamente conectado à fração de vinil,
+                   no entanto, a diferença entre o composto de D1-D4 e o composto da reivindicação 1 ora
+                    apensa é que em todos os D1-D4, a cadeia lateral que está conectada a posição 6- da
+                                                               quinolina ou quinazolina que apresenta.
+
+
+
+
+       A requerente está correta ao atestar que a cadeia na posição 6 do grupamento amídico é
+um grupamento alílico, enquanto a requerente pleiteia um grupamento vinílico. No entanto,
+conforme descrito na figura 1, os compostos descritos no estado da técnica apresentam o
+mesmo núcleo básico, a saber: anel quinazolinicos 4-NH-arila substituído, 6-propenamida
+substituida e 7-eter substituído inibidores de tirosina quinase quinolinicos e quinazolinicos.
+       Nenhum efeito novo ou inesperado foi observado em relação ao estado da técnica pela
+requerente na matéria pleiteada. Os valores de IC50 testados pela requerente dos derivados
+quinazolinicos eterados variam de 0,002 a 0,059, no documento D1 (0,5 a 2 nM), D2 (1,5), D3
+(0,02 a 0,58 nM), D4 (0,05 a 10 nM), a comparação numérica não é possível de ser realizada
+uma vez que exeperimentos distintos foram realizados, no entanto a matéria pleiteada e a
+revelada no estado da técnica apresentam inibição da proteína quinase. Tais variações, entre o
+revelado e o pleiteado pela requerente são explicadas como uma simples otimização isostérica
+
+
+
+                                                                                               Página 3
+                                              BR112012005760-0
+
+
+e/ou bioisostérica clássica e não clássica, uma vez que o mesmo alvo biológico foi influenciado
+como antagonistas.
+
+
+
+                                  RX
+
+
+
+         Documentos              R1               R2                R3                    Rx(CH2)n
+
+      BR112012005760-0    Eter-alquilico, H     N, C-CN       Aril-eter-arila            Pirolidina
+           (n=0)                                             Aril-eter-piridina        Metil-pirrolidina
+             D1              Eter-THF             N        Halogeneto de Arila    3-oxa-8-azabiciclo [3.2.1]
+            (n=1)                                                                         oct-8-il)
+             D2              Eter-THF,            N        Halogeneto de Arila            morfolina
+            (n=1)           Eter-alquilico
+             D3             Eter-alquilico      N, C-CN      Arila substituído             N(CH3)2
+            (n=1)
+             D4             Eter-alquilico       C-CN        Arila substituído            Pirolidina
+            (n=1)
+
+
+  Figura 1: Similaridade entre a matéria pleiteada pela requerente no pedido BR112012005760-0 e os
+                                       documentos D1, D2, D3 e D4.
+
+
+
+
+        A requerente em sua manifestação de 04/12/2020 em relação ao documento D1 declara:
+
+
+                                                                .O examinador europeu foi de opinião que:
+                                          D1 é visto como estado da técnica mais próximo. A diferença entre
+                                         os compostos na reivindicação 1 de D1 e os compostos na presente
+                                              reivindicação 1 é que a cadeia lateral conectada à posição 6 da
+                                                 estrutura de quinolina ou quinazolina apresenta um átomo de
+                                         carbono adicional entre a porção vinil e a estrutura de anel contendo
+                                             nitrogênio . Além disso, a estrutura do anel não está diretamente
+                                                  ligada ao átomo de nitrogênio ao resto da cadeia lateral.
+
+
+
+
+       A concessão da patente em território Brasileiro é um ato administrativo declarativo ao se
+reconhecer o direito do titular, e atributivo (constitutivo), regulamentado pela Lei n° 9.279, de 14
+de maio de 1996 - Lei da Propriedade Industrial  LPI , que regula direitos e obrigações relativos
+à Propriedade Industrial, estabelece a concessão de patentes (Art. 2° da LPI), cujos dispositivos
+constam do Art. 3° ao Art. 93 e do Art. 212 ao Art. 244, considerando o seu interesse social e o
+desenvolvimento tecnológico e econômico do País.
+
+
+
+                                                                                                           Página 4
+                                        BR112012005760-0
+
+
+          Sendo assim, as diferenças apontadas entre o pedido e o estado da técnica, se resume a
+otimização e um processo já descrito e fundamentado no estado da técnica, uma vez que o
+requerente não apresentou nenhum efeito novo ou inesperado em relação ao estado da técnica
+a matéria pleiteada é considerada isenta de atividade inventiva, contrariando os artigos 8° e 13
+da LPI.
+          Assim, o processo do presente pedido decorreria de maneira óbvia pra o técnico no
+assunto, a partir de simples aplicação e adaptação dos processos previamente revelados em D1
+a D4. Uma vez que o requerente não apresentou nenhum efeito novo ou inesperado em relação
+ao estado da técnica a matéria pleiteada nas reivindicações 1 a 18 é considerada isenta de
+atividade inventiva, contrariando os artigos 8° e 13 da LPI.
+
+
+
+
+Conclusão
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -     não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 12 de dezembro de 2020.
+
+
+
+
+Glaucia Barbosa Candido Alves Slana
+Pesquisador/ Mat. Nº 1731552
+DIRPA / CGPAT I/DIFAR-I
+Deleg. Comp. - Port. INPI/DIRPA Nº
+006/20
+
+
+
+
+                                                                                           Página 5
+

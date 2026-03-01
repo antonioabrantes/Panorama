@@ -1,0 +1,165 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112014019937-0          N.° de Depósito PCT:US2013/026194
+ Data de Depósito:                   14/02/2013
+ Prioridade Unionista:               US 61/598,819 (14/02/2012); US 13/767,593 (14/02/2013)
+ Depositante:                        APPLE INC. (US)
+ Inventor:                           DAVID HAGGERTY, JERROLD HAUCK, BEN JUANG, LI LI, ARUN
+                                     MATHIAS, KEVIN MCLAUGHLIN, AVINASH NARASIMHAN, CHRIS
+                                     SHARP, YOUSUF VAID, XIANGYING YANG
+ Título:                             Método e aparelho para distribuição em grande escala de clientes de
+                                     acesso eletrônico 
+
+                                                                PARECER
+          Em 28/12/2021 foi publicada, através da RPI nº 2660, notificação de Ciência de Parecer
+conforme parecer de exame técnico do presente pedido datado de 20/12/2021. Tal parecer
+concluiu que o quadro reivindicatório apresentado em resposta ao parecer técnico anterior (de
+18/05/2020) infringe o disposto no art. 32 da LPI, tendo sido recusado em sua totalidade. Frente
+a isso, em relação ao quadro reivindicatório válido (petição 860140152955 de 09/09/2014),
+foram reafirmadas as considerações feitas no exame realizado pelo escritório de patentes
+europeu  EPO, conforme o art. 5º, §1º, da Resolução Nº 241/2019 deste INPI.
+
+          A requerente, através da petição nº 870220024071 de 21/03/2022, manifestou-se a
+respeito do parecer de 20/12/2021 apresentando novo quadro reivindicatório (contendo 20
+reivindicações). Para fins de continuidade do exame estão sendo consideradas as vias abaixo:
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 42               870220024071           21/03/2022
+Resumo                                                      1
+Desenhos                                                1 a 19               860140152955           09/09/2014
+Quadro Reivindicatório                                   1a6
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR112014019937-0
+
+
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   X
+O pedido está de acordo com disposto no art. 32 da LPI                                   X
+Comentários/Justificativas:
+
+       O exame do quadro reivindicatório apresentado por meio da petição 870220024071
+revelou que este, apesar das modificações realizadas pela requerente, continua infringindo o
+disposto na Resolução nº 093/2013 (estando, portanto, em desacordo com o preconizado no Art.
+32 da LPI) por apresentar ampliação do escopo da matéria reivindicada no quadro reivindicatório
+válido apresentado por meio da petição 860140152955 de 09/09/2014 (contendo 20
+reivindicações). A ampliação do escopo da matéria reivindicada fica caracterizada devido a
+
+      retirada, nas reivindicações independentes 1 e 9, da característica técnica identificar um
+       dispositivo móvel sem fio ao qual o pelo menos um cliente de controle de acesso eletrônico
+       corresponde;
+
+      retirada, na reivindicação independente 16, das características técnicas quando o primeiro
+       cliente de controle de acesso eletrônico está armazenado pela memória segura: indicar
+       para a entidade servidor que o primeiro cliente de controle de acesso eletrônico está
+       armazenado pela memória segura; e receber um comando a partir da entidade servidor
+       para executar uma operação direcionada para o primeiro cliente de controle de acesso
+       eletrônico (nesse sentido, impende apontar que há um erro de tradução na nova
+       formulação apresentada para a reivindicação em comento: onde lê-se está armazenada
+       na memória segura, deveria ler-se não está armazenada na memória segura).
+
+Assim sendo, o quadro reivindicatório apresentado por meio da petição 870220024071 foi
+RECUSADO EM SUA TOTALIDADE, sendo considerado para análise de mérito do pedido o
+quadro reivindicatório apresentado por meio da petição 860140152955 (cf. Resolução nº
+093/2013, seção 2.2).
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      -              -
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    -              -
+Comentários/Justificativas
+       Tendo em vista que o pedido não está de acordo com o Artigo 32 da LPI, não serão tecidos
+comentários quanto aos Artigos 24 e 25 da LPI, conforme a Portaria/INPI/DIRPA Nº01 de
+07/01/2021, procedimento P029-02, item 5.2.25.3.
+
+
+
+
+                                                                                         Página 2
+                                       BR112014019937-0
+
+
+                         Quadro 4  Documentos citados no parecer
+
+ Código                              Documento                                Data de publicação
+   -----                                  -----                                        -----
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento             Reivindicações
+                                                      Sim                         -
+           Aplicação Industrial
+                                                     Não                          -
+                                                      Sim                         -
+                 Novidade
+                                                     Não                          -
+
+                                                      Sim                         -
+           Atividade Inventiva
+                                                     Não                          -
+Comentários/Justificativas:
+
+       De acordo com o art. 5º, §1º, da Portaria/INPI/PR nº 052 de 14 de dezembro de 2021 o
+exame realizado no escritório/autoridade EPO (pedido equivalente EP2815553) e apontado no
+parecer de exigência preliminar (6.21), é considerado como subsídio ao presente exame, sendo
+aqui apontadas as mesmas considerações quanto aos requisitos de patenteabilidade do quadro
+válido, conforme procedimento P029-02, da Portaria/INPI/DIRPA Nº 01 de 07 de janeiro de 2021,
+item 5.2.25.4.
+
+
+
+Conclusão
+       A análise do pedido de patente de invenção em tela revelou, conforme comentários ao
+Quadro 3, o quadro reivindicatório apresentado em resposta ao parecer de 20/12/2021 infringe
+as disposições do art. 32 da LPI tendo, portanto, sido recusado em sua totalidade.
+
+       Dessa forma, já tendo havido uma ciência no parecer anterior por incidência no art. 32 da
+LPI, conforme estabelecido no item 3.2 da Resolução nº 093/2013 e de acordo com o art. 37 da
+LPI, indefiro o presente pedido devido à ampliação do escopo das reivindicações (art. 32 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                                Rio de Janeiro, 24 de maio de 2022.
+
+
+
+
+                                                                                               Página 3
+                               BR112014019937-0
+
+
+Humberto Vasconcelos Beltrao Neto
+Pesquisador/ Mat. Nº 2042540
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+007/16
+
+
+
+
+                                                  Página 4
+

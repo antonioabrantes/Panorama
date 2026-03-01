@@ -1,0 +1,346 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR122020019318-2          N.° de Depósito PCT: US2011/038967
+ Data de Depósito:     02/06/2011
+ Prioridade Unionista: US 61/350,553 (02/06/2010); US 61/434,582 (20/01/2011); US
+                       61/471,622 (04/04/2011)
+ Depositante:          EVOLVA, INC. (US)
+ Inventor:             Ganesh M. Kishore; Michael Motion; PAULA M. HICKS; Jorgen
+                       Hansen; Jens Houghton-Larsen; Esben Halkjaer Hansen; Michael
+                       Dalgaarg Mikkelsen; Sabina Tavares; Charlotte Blom
+ Título:               HOSPEDEIROS        RECOMBINANTES,         ÁCIDOS    NUCLÉICOS
+                       ISOLADOS, POLIPEPTÍDEO, CEPA DE SACCHAROMYCES
+                       RECOMBINANTE, COMPOSIÇÃO DE GLICOSÍDEO DE ESTEVIOL,
+                       MÉTODO PARA PRODUZIR ESTEVIOL, GLICOSÍDEO DE
+                       ESTEVIOL OU COMPOSIÇÃO DE GLICOSÍDEO DE ESTEVIOL,
+                       MÉTODO PARA TRANSFERIR UMA SEGUNDA PORÇÃO DE
+                       AÇÚCAR EM UM GLICOSÍDEO DE ESTEVIOL, E MÉTODO PARA
+                       SÍNTESE DE ESTEVIOL OU GLICOSÍDEO DE ESTEVIOL
+
+                                                              PARECER
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                           x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)            x
+
+O pedido refere-se a Sequências Biológicas                                                             x
+
+Comentários/Justificativas
+
+O pedido BR122020019318-2, apresentado em 24/09/2020 (notificado na RPI 2601 de
+10/11/2020), refere-se à divisão do pedido BR112012030836-0 depositado em 02/06/2011, cuja
+matéria refere-se à produção de esteviol e glicosídeos de esteviol por hospedeiros
+recombinantes.
+          Considerando que a depositante apresentou o requerimento de divisão do pedido
+BR112012030836-0 em 24/09/2020, após a solicitação de exame do pedido original
+(02/06/2014), e que o presente pedido dividido se encontra na mesma fase processual do
+pedido original (conforme art. 28 da Instrução Normativa PR nº 31/2013), são aproveitados todos
+os documentos, pareceres, petições e despachos constantes no pedido original até a data de
+depósito do pedido dividido.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                 Página 1
+                                         BR122020019318-2
+
+
+       Do encaminhamento à ANVISA - Conforme relatado em parecer técnico, o pedido
+original não foi encaminhado à ANVISA tendo em vista a matéria tratada no mesmo.
+      Do acesso ao patrimônio genético nacional - A depositante declarou no formulário de depósito
+870200119666 de 24/09/2020 conforme segue: Declaração Negativa de Acesso - Declaro que o objeto
+do presente pedido de patente de invenção não foi obtido em decorrência de acesso à amostra de
+componente do Patrimônio Genético Brasileiro, o acesso foi realizado antes de 30 de junho de 2000, ou
+não se aplica.
+
+      Das sequências biológicas - Através da petição 870210064634 de 16/07/2021, a depositante
+apresentou a Listagem de sequências em formato eletrônico.
+      O primeiro exame técnico concluiu que a matéria reivindicada no presente pedido não é passível
+de proteção de acordo com o art. 10 (IX), o art. 18 (III), o art. 22 e o art. 25 da LPI, sendo emitido um
+parecer de ciência cuja notificação foi publicada na RPI 2607 de 22/12/2020. Através da petição nº
+870210026628 de 22/03/2021, a depositante apresentou novas vias do relatório descritivo, do resumo
+e da listagem de sequências em formato eletrônico e nova proposta de quadro reivindicatório contendo
+08 reivindicações e esclarecimentos.
+      No segundo exame técnico foram formuladas exigências técnicas, cuja notificação foi publicada
+na RPI 2626 de 04/05/2021. Através da petição nº 870210064634 de16/07/2021 a depositante
+apresentou novas vias do relatório descritivo, do resumo e da listagem de sequências em formato
+eletrônico e nova proposta de quadro reivindicatório contendo 8 reivindicações e esclarecimentos.
+                           Quadro 1  Páginas do pedido examinadas
+
+            Elemento                    Páginas               n.o da Petição               Data
+Relatório Descritivo                     1 a 139              870210064634              16/07/2021
+Listagem de sequências em
+                                            -                         -                       -
+formato impresso
+Listagem de sequências*           Código de Controle          870210064634              16/07/2021
+Quadro Reivindicatório                    1a3                 870210064634              16/07/2021
+Desenhos                                 1 a 14               870200119666              24/09/2020
+Resumo                                      1                 870210064634              16/07/2021
+
+      *Listagem de sequências em formato eletrônico referente ao código de controle
+      502F13EF5A6723E (Campo 1) e E91517889A7AA6D1 (Campo 2).
+
+
+        Em sua manifestação, a depositante alega que apresenta um novo quadro reivindicatório
+total de 8 reivindicações com as seguintes principais modificações:
+- a nova reivindicação 1 foi reformulada para (i) definir que os polipeptídeos têm as sequências de
+aminoácidos apresentadas nas SEQ ID NO: 5 (item a) e 7 (item b) e (ii) remover a menção ao "%
+de identidade de sequência" e definições adicionais;
+- a nova reivindicação dependente 2 foi incluída para definir uma forma de realização preferida do
+hospedeiro reivindicado;
+- a nova reivindicação 3 foi adicionada ao quadro reivindicatório para definir o ácido nucleico por
+suas próprias sequências de nucleotídeos, a saber, as sequências de nucleotídeos apresentadas
+nas SEQ ID NOs: 6 ou 9 (item a) e 8 (item b);
+
+
+                                                                                                  Página 2
+                                          BR122020019318-2
+
+- a nova reivindicação 4 foi reformulada para definir o polinucleotídeo pelas sequências de
+aminoácidos apresentas pelas SEQ ID NO: 5 ou 10 ou 12; e
+- as antigas reivindicações 2 e 3 foram canceladas do quadro reivindicatório e as reivindicações
+remanescentes, bem como suas relações de dependência, foram renumeradas de acordo.
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                           Sim             Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)        x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                    x
+O pedido está de acordo com disposto no art. 32 da LPI                     x
+Comentários/Justificativas
+        Analisando a nova proposta de quadro reivindicatório temos que a depositante não
+cumpriu as exigências formuladas em parecer anterior.
+        Nas exigências formuladas foi solicitado que as antigas reivindicações 2 a 5 fossem
+retiradas tendo em vista o art. 10 (IX) e art. 25 da LPI. A depositante alega que excluiu as
+reivindicações 2 e 3, além de ter reformulado a reivindicação 4 para definir o polipeptídeo por suas
+próprias sequências de aminoácidos. Com relação a reivindicação 5, a depositante acredita que
+um técnico no assunto prontamente compreenderia o escopo de proteção reivindicado e
+entenderia que ele não está relacionado ao todo ou parte de seres vivos naturais e/ou materiais
+biológicos encontrados na natureza.
+        Conforme discutido em parecer técnico anterior, o polipeptídeo da reivindicação 4
+referem-se ao polipeptídeo de Stevia rebaudiana, matéria que não são considerados invenção
+pois incluem no escopo de proteção o todo ou parte de seres vivos naturais e/ou materiais
+biológicos encontrados na natureza, incidindo no disposto no Art. 10 (IX) da LPI, e portanto, não é
+passível de proteção.
+        Conforme discutido em parecer técnico anterior, a composição de glicosídeo de esteviol,
+da reivindicação 5, conforme exaustivamente discutido em pareceres técnicos anteriores, não é
+considerada invenção pois se trata do todo ou parte de seres vivos naturais e/ou materiais
+biológicos encontrados na natureza, se enquadrando no disposto no Art. 10 (IX) da LPI, e
+portanto, não é passível de proteção.
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI       x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                     x
+Comentários/Justificativas
+        A depositante alega que a reivindicação 7 está definida de forma clara e precisa e que a
+limitação da beta 1,2-glicosiltransferase conforme sugerido pelo INPI, restringiria indevidamente o
+
+
+                                                                                           Página 3
+                                        BR122020019318-2
+
+escopo de proteção da reivindicação, o que apenas favoreceria terceiros interessados em tirar
+vantagem dos ensinamentos contidos neste pedido de patente de maneira impune. A depositante
+acredita que a linguagem da reivindicação 7, conforme ora apresentada, está em total
+conformidade com as disposições do item 6.1.3 da Diretrizes de Biotecnologia, que prevê que
+para as reivindicações de método/processo, quando a sequência representa apenas uma
+molécula que faz parte de um método/processo, e qualquer outra molécula semelhante (por
+exemplo, da mesma família de genes) apresentaria o mesmo resultado, o referido
+método/processo não precisa necessariamente se referir a uma SEQ ID NO: específica.
+         Ocorre que o presente pedido é baseado na descrição de uma proteína com atividade
+enzimática beta 1,2-glicosiltransferase, portanto, no presente caso, a sequência biológica está no
+cerne do presente pedido e o item 6.1.3 não se aplica. O método apresentado na reivindicação 7 é
+amplo pois a beta 1,2 glicosiltransferases refere-se ao nome sistemático da enzima baseada na
+reação catalisada, ou seja como a enzima funciona (vide parag; [093] do relatório descritivo do
+presente pedido).
+         O relatório descritivo do presente pedido não descreve todas as proteínas beta 1,2
+glicosiltransferases, identificando apenas a UGT91D2e e UGT91D2m através das sequências 5,
+10 e 12 de Stevia rebaudiana. Da forma ampla como foram redigidas, a reivindicação 7 engloba
+métodos que podem envolver uma grande possibilidade de sequências que podem funcionar
+como uma 1,2 glicosiltransferases, de forma que um técnico no assunto teria que testar várias
+sequências para alcançar aquelas capazes de levar a obtenção do método reivindicado. Portanto,
+é possível concluir que não há descrição suficiente no relatório descritivo para que um técnico no
+assunto possa realizar o método pleiteado, em toda sua extensão, sem experimentação indevida.
+As Diretrizes de exame de pedidos de patente  bloco I, publicada na RPI nº 2241 de 17/12/2013,
+item 2.15, estabelecem que o pedido deve conter informação técnica suficiente para permitir que
+um técnico no assunto coloque a invenção em prática, tal como reivindicada, sem experimentação
+indevida, ou seja, sem a necessidade de experimentação adicional para realizar a invenção, a
+partir do que foi revelado no pedido.
+         Portanto, da maneira como formulada, a reivindicação 7 é ampla e um técnico no assunto
+não seria capaz de usar a beta 1,2-glicosiltransferase conforme reivindicada para transferir uma
+segunda porção de açúcar para a posição C-2' de uma glicose em um glicosídeo de esteviol sem
+recorrer a experimentação indevida.
+         Dessa forma, permanece o fato de que a reivindicação 7 é ampla pois não define com
+clareza, precisão e fundamentação a beta 1,2-glicosiltransferase conforme o relatório descritivo
+estando em desacordo com o art. 25 da LPI.
+
+
+
+                         Quadro 4  Documentos citados no parecer
+
+ Código                                 Documento                            Data de publicação
+     -      -                                                                         -
+
+
+
+                                                                                          Página 4
+                                       BR122020019318-2
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento                 Reivindicações
+                                                    Sim                     1, 2, 3, 6 a 8
+           Aplicação Industrial
+                                                    Não                      nenhuma
+                                                    Sim                     1, 2, 3, 6 a 8
+                Novidade
+                                                    Não                      nenhuma
+                                                    Sim                     1, 2, 3, 6 a 8
+           Atividade Inventiva
+                                                    Não                      nenhuma
+Comentários/Justificativas
+
+     De acordo com a Portaria/INPI/DIRPA Nº 1/2021, reivindicações que incidam nos arts. 10 e
+18 (item 5.1.5), procedimento P029 não serão alvo de análise dos requisitos de
+patenteabilidade. Considerando que as reivindicações 4 e 5 pleiteiam proteção para matéria que
+enquadra-se nas proibições do art. 10 (IX), os critérios de patenteabilidade estabelecidos no art.
+8º da LPI não foram analisados para tais reivindicações.
+       Em relação a objeção quanto a novidade, a depositante alega que discorda deste
+entendimento e esclarece que a matéria da reivindicação 7 como ora reivindicada é nova em
+relação aos ensinamentos do estado da técnica, uma vez que D8 não revela todas as
+características técnica do método para transferir uma segunda porção de açúcar para uma
+posição C-2' de uma glicose em um glicosídeo de esteviol como ora reivindicado. Neste sentido,
+a depositante faz referência ao item 4.6 da Resolução Nº 169/2016 do INPI alegando que D8
+não revela todos os elementos da reivindicação 7 como ora apresentada.
+
+
+       Em análise feita, com base na matéria ora reivindicada, parecer técnico anterior e petição
+de esclarecimentos, constatou-se que os argumentos apresentados pela depositante referente
+às objeções apontadas no parecer técnico anterior quanto a novidade e atividade inventiva da
+reivindicação 7 foram considerados pertinentes. Dessa forma, é possível reconhecer novidade e
+atividade inventiva da matéria ora reivindicada em relação ao estado da técnica analisado.
+
+Conclusão
+
+       Diante da manifestação ora em análise, temos que a depositante não cumpriu
+satisfatoriamente as exigências publicadas na RPI 2626 de 04/05/2021 e ainda não apresentou
+argumentos técnicos considerados pertinentes para não cumprimento das exigências.
+       Deste modo, o presente pedido não é passível de proteção de acordo com o art. 10 (IX) e
+o art. 25 da LPI.
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+
+
+
+                                                                                             Página 5
+                                        BR122020019318-2
+
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+      -   não é considerado invenção, uma vez que incide no Art. 10 da LPI
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                            Rio de Janeiro, 5 de agosto de 2021.
+
+
+
+
+Sandra Toshico Tahara
+Pesquisador/ Mat. Nº 1359981
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                        Página 6
+                                         BR122020019318-2
+
+
+      [INDEFERIMENTO SOMENTE SEM DELEGAÇÃO DE COMPETÊNCIA]
+
+      Assim sendo, de acordo com o Art. 37, opino pelo indeferimento do presente pedido, uma
+vez que:
+
+      -    não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+      -    não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -    não atende ao requisito de aplicação industrial (Art .8º combinado com Art. 15 da LPI)
+
+      -    não apresenta suficiência descritiva (Art. 24 da LPI)
+
+      -    as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+           descritivo (Art. 25 da LPI)
+
+      -    não é considerado invenção, uma vez que incide no Art. 10 da LPI
+
+      -    não é considerado patenteável, uma vez que incide no Art. 18 da LPI
+
+     -     as reivindicações incidem na proibição estabelecida no Art. 6º inc. VII da Lei nº
+  11.105/05 e/ou no Art. 12 da Lei nº 10.814/03
+
+     -     acréscimo de matéria do pedido ou do escopo das reivindicações (Art. 32 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Rio de Janeiro, 5 de agosto de 2021.
+
+
+
+
+Sandra Toshico Tahara
+Pesquisador/ Mat. Nº 1359981
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+      De acordo com o parecer acima, indefiro o presente pedido.
+
+                                                                   Publique-se o indeferimento (9.2).
+
+
+
+
+Maria Hercilia Paim Fortes
+Chefe de Divisão/ Mat. Nº 1181691
+DIRPA / CGPAT II/DIALP
+Portaria INPI/PR Nº288/20
+
+
+
+
+                                                                                            Página 7
+

@@ -1,0 +1,160 @@
+                                         SERVIÇO PÚBLICO FEDERAL
+                                          MINISTÉRIO DA ECONOMIA
+                              INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.º do Pedido:                       BR102014013996-6          N.º de Depósito PCT: ----
+ Data de Depósito:                    10/06/2014
+ Prioridade Unionista:                DE 10 2013 010 249.9 (13/06/2013)
+ Depositante:                         Kienle + Spiess GmbH (DE)
+ Inventor:                            Steffen Bauer, Susanne Dutt
+ Título:                              Chapa de Estator/Rotor para Pacotes de Estator/Rotor com Chapa
+                                      Estator/Rotor desta Espécie, bem como, Método para Produzir uma
+                                      Chama de Estator/Rotor
+                                                                      PARECER
+
+      A Requerente recebeu notificação de Ciência de Parecer (7.1) publicada na RPI nº 2635 de
+06/07/2021. Através da petição nº 870210091228 de 04/10/2021, a mesma apresentou
+Manifestação sobre o Parecer Técnico, novo Título, novo Relatório Descritivo, novo Quadro
+Reivindicatório, novas Figuras e novo Resumo. Para fins de continuidade do exame estão sendo
+consideradas as vias abaixo:
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas           Nº da Petição         Data
+                                                                                870200063316
+ Relatório Descritivo                                          1-26                                 22/05/2020
+                                                                                 Págs. 6 a 31
+                                                                                870210091228
+ Quadro Reivindicatório                                         1-3                                 04/10/2021
+                                                                                 Págs. 6 a 8
+                                                                                870200063316
+ Desenhos                                                       1-3                                 22/05/2020
+                                                                                Págs. 32 a 34
+                                                                                870200063316
+ Resumo                                                         1                                   22/05/2020
+                                                                                   Pág. 35
+
+                  Quadro 2 - Considerações referentes aos Artigos 10, 18, 22 e 32 da LPI
+ Artigos da LPI                                                                             Sim         Não
+ A matéria enquadra-se no Art. 10 da LPI (não se considera invenção)                                     X
+ A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                                             X
+ O pedido apresenta Unidade de Invenção (Art. 22 da LPI)                                        X
+ O pedido está de acordo com disposto no Art. 32 da LPI                                         X
+Comentários/Justificativas: ----
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                               Página 1
+                                            BR102014013996-6
+
+                 Quadro 3 - Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                            Sim                     Não
+O relatório descritivo está de acordo com disposto no Art. 24 da LPI                        X
+O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI                      X
+Comentários/Justificativas: ----
+                             Quadro 4 - Documentos citados no parecer
+ Código                                  Documento                                                Data de publicação
+           WO2006045260A1
+    D1     Título: Magnetic Sheet Steel Comprising a Spacer Strip and a                                 2006-05-04
+           Corresponding Production Method
+           Depositante: Siemens AG
+
+      Quadro 5 - Análise dos Requisitos de Patenteabilidade (Art. 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento                              Reivindicações
+                                                         Sim                                        1-13
+           Aplicação Industrial
+                                                        Não                                          ----
+                                                         Sim                                        1-13
+                 Novidade
+                                                        Não                                          ----
+                                                         Sim                                         ----
+           Atividade Inventiva
+                                                        Não                                         1-13
+Comentários/Justificativas:
+    Na manifestação a Requerente alega que o documento D1 utilizado para se delimitar o estado
+da técnica não descreveria os espaçadores, vistos na direção radial da placa de estator/rotor,
+estão dispostos se estendendo de forma inclinada. Em outras palavras, os espaçadores 9 formam
+um ângulo com o radial que se estende por este espaçador. Esta diferença não é discutida no
+parecer de exame.
+
+    A Requerente alega que D1 descreve espaçadores que se estendem transversalmente a partir
+do plano da chapa e são dobrados para fora do plano da chapa.
+
+    A Requerente alega que as características descritas em D1 não constituem a solução
+inventiva. A solução consiste no fato de que os espaçadores não se estendem radialmente, como
+na técnica anterior de acordo com D1, mas se estendem obliquamente em relação à direção radial
+da curva do estator/rotor.
+
+    A Requerente alega que D1, descreve os espaçadores na direção radial. D1 mostra
+espaçadores antes de serem dobrados para fora da chapa de metal. A linha de dobra, ao longo da
+qual os espaçadores são dobrados para fora do plano de dobra. Como a linha de dobra se
+estende na direção radial, os espaçadores inevitavelmente também se estenderiam na direção
+radial depois de serem dobrados para fora do plano da chapa.
+
+
+
+
+                                                    Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12     Página 2
+                                         BR102014013996-6
+
+    A Requerente alega que a posição angular dos espaçadores em relação à direção radial,
+descrita no presente pedido de privilégio de patente de invenção devido à posição angular dos
+espaçadores, vista na direção radial, é obtido um contato efetivamente mais amplo para a chapa
+metálica que repousa sobre os espaçadores do que com um alinhamento radial dos espaçadores.
+Devido às peças de chapa inclinadas, é alcançada uma largura efetiva das peças de chapa que é
+consideravelmente maior do que a espessura da chapa das peças de chapa. Dentro do pacote de
+chapa, as seções do pacote de chapa que se apoiam sobre as peças de chapa são, portanto,
+apoiadas de forma ideal.
+
+    A Requerente alega que o documento D1 mostra que os técnicos no assunto sempre
+assumiram que os espaçadores dobrados para fora do plano de dobra são projetados para se
+estender radialmente. Já o presente pedido de privilégio de patente de invenção mostra outra
+maneira pela qual os espaçadores podem ser projetados, a fim de garantir um ótimo suporte das
+laminações que se apoiam sobre os espaçadores com fabricação simples e barata. Portanto, isto
+também se aplicaria ao pacote de lâminas de estator/rotor que compreende a chapa de
+estator/rotor.
+
+    Apesar das alegações da Requerente, o documento D1 descreve lâminas de estator/rotor
+para pilhas de estator/rotor de geradores e motores elétricos, com espaçadores projetando-se
+transversal mente do plano da folha e com recessos, caracterizados por os espaçadores serem
+peças de folha de metal dobradas para fora do plano da folha [Página 4, Linhas 13-24; Página 5,
+Linhas 4-22; Figuras1-2). O documento D1 descreve ainda um método para produzir uma
+laminação de estator/rotor, em que a laminação do estator/rotor com recessos é puncionada a
+partir de uma laminação e espaçadores são fornecidos, de modo que as peças das lâminas de
+metal são puncionadas, e as lâminas de metal puncionadas formam os espaçadores no plano da
+lâmina de metal que devem ser dobradas [Página 4, Linhas 18-19; Página 5, Linhas 12-13].
+
+    Apesar do documento utilizado para se delimitar o estado da técnica não descrever
+explicitamente que os espaçadores, vistos na direção radial da placa de estator/rotor, estão
+dispostos se estendendo de forma inclinada formando um ângulo com a direção radial que se
+estende por este espaçador, tal característica é inerente à matéria pleiteada e, portanto óbvias
+para um técnico no assunto.
+
+Conclusão
+    Face ao exposto, conclui-se que a invenção ora pleiteada decorre de maneira evidente ou
+óbvia, para um técnico no assunto, a partir do estado da técnica, sendo desprovida de atividade
+inventiva, conforme Art. 13 da LPI.
+
+    Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que o mesmo não
+atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+    Rio de Janeiro, 30 de outubro de 2021.
+
+
+
+                                                Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 3
+                                              BR102014013996-6
+
+Publique-se o indeferimento (9.2).
+
+CAMILO BRAGA GOMES
+Pesquisador / Mat. Nº 1547071
+DIRPA / CGPAT III / DIFEL
+Deleg. Comp. - Port. INPI / DIRPA Nº 022/12
+
+
+
+
+                                                    Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 4
+

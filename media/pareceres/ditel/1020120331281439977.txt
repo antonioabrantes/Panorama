@@ -1,0 +1,357 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102012033128-4         N.° de Depósito PCT:
+ Data de Depósito:                   21/12/2012
+ Prioridade Unionista:               -
+ Depositante:                        UNIVERSIDADE ESTADUAL DE CAMPINAS - UNICAMP (BRSP) ,
+                                     UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ - UNIOESTE
+                                     (BRPR)
+ Inventor:                           WU FENG CHUNG, CLÁUDIO SADDY RODRIGUES COY, HUEI
+                                     DIANA LEE, MARIA DE LOURDES SETSUKO AYRIZONO, RAQUEL
+                                     FRANCO LEAL, JOÃO JOSÉ FAGUNDES, RENATO BOBSIN
+                                     MACHADO, JOYLAN NUNES MACIEL, EVERTON ALVARES
+                                     CHERMAN, RICHARDSON FLORIANI VOLTOLINI, ANDRÉ
+                                     GUSTAVO MALETZKE
+ Título:                             Método para geração de chaves baseado em algoritmos genéticos 
+
+                                                                PARECER
+          O presente pedido refere-se a um método para a geração de chaves secretas utilizando
+algoritmos genéticos, definindo parâmetros como limite inferior e superior para geração de
+números aleatórios, assim como a quantidade de números que irão contribuir para compor a
+chave e ainda índice de mutação que será aplicado no algoritmo.
+
+          Em 06/11/2020, por meio da petição 870200140043, o Depositante apresentou
+argumentações e modificações no quadro reivindicatório do pedido em resposta ao parecer
+emitido no âmbito da Resolução Nº 240/2019, notificado na RPI 2588 de 11/08/2020 segundo a
+exigência preliminar (6.22).
+
+          Em 31/03/2021, por meio da petição 870210030145, a Requerente apresentou
+argumentações no pedido em resposta ao parecer emitido, notificado na RPI 2609 de
+05/01/2021 (despacho 7.1). Estas modificações estão consideradas no Quadro 1.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                    1 a 18               870200140043     06/11/2020
+Quadro Reivindicatório                                      1                870200140043     06/11/2020
+Desenhos                                                 1e2                 018120047757     26/12/2012
+Resumo                                                      1                018150008253     30/07/2015
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                           BR102012033128-4
+
+
+                                          maio de 1996  LPI
+Artigos da LPI                                                           Sim              Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                        X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   X
+O pedido está de acordo com disposto no art. 32 da LPI                    X
+Comentários/Justificativas: --
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+Comentários/Justificativas: --
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1      US7979716                                                                12/07/2011
+    D2      WO2008113279                                                           25/09/2008
+    D3      Aarti Soni, Suyash Agrawal / Using Genetic Algorithm for                  12/2012
+            Symmetric key Generation in Image Encryption
+    D4      Faiyaz Ahmad, Saba Khalid, Mohd. Shahid Hussain / Encrypting              06/2012
+            Data Using The Features of Memetic Algorithm and
+            Cryptography
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                     1
+           Aplicação Industrial
+                                                         Não                     --
+                                                         Sim                     1
+                 Novidade
+                                                         Não                     --
+
+                                                         Sim                     --
+            Atividade Inventiva
+                                                         Não                     1
+Comentários/Justificativas
+
+   1. Foram apresentadas as seguintes alegações referentes à anterioridade:
+
+         1. Cabe destacar que D3, em nenhum momento, descreve como a sequência de
+           números aleatórios é gerada, apenas deixa claro que a sequência de números
+           aleatórios gerada é binária, ou seja, composta apenas por 0 ou 1. Além disso, a sua
+
+
+
+                                                                                           Página 2
+                               BR102012033128-4
+
+
+   geração de números aleatórios emprega como base a data atual em milissegundos e,
+   novamente, D3 não especifica como esse valor em milissegundos é empregado na
+   geração dos números aleatórios.
+
+   Assim, a falta de definições sobre os aspectos do processo, por um lado inviabiliza a
+   correta análise, e por outro lado, mostra evidentes diferenças. Acreditamos que o Ilmo.
+   Examinador não deva trazer suposições, mas sim apenas se basear no que está
+   explicitamente apresentado em D3.
+
+2. Muito respeitosamente, a Requerente discorda veementemente do Ilmo. Examinador,
+   pois utilizar bits ou caracteres em uma chave não tem o mesmo resultado. Há um erro
+   conceitual grave na justificativa do respectivo trecho. Não se pode comparar bit com
+   caractere, uma vez que ambos representam aspectos distintos. Um caractere pode
+   representar um algarismo, uma letra do alfabeto, um sinal de pontuação ou qualquer
+   outro símbolo. Por sua vez, um bit representa uma unidade de medida de informação
+   para armazenamento e transmissão de dados, sendo representado unicamente pelos
+   números 0 e 1. Mesmo que consideremos 0 e 1 como caracteres, ambos os dígitos
+   (bits) já estão compreendidos pela tabela ASCII.
+
+   A Requerente ressalta novamente que o método M1 é mais seguro que o D3. Esse fato
+   pode ser constatado por meio do seguinte exemplo, com tamanho de chave igual a 1:
+   para D3, os únicos valores possíveis são 0 ou 1, enquanto para M1 há 256 diferentes
+   caracteres possíveis, conforme pode ser observado na tabela ASCII. Logo, no pior
+   caso da técnica força-bruta, que testa todas as possibilidades, serão realizadas 2 e 256
+   tentativas, respectivamente, para descobrir a chave do exemplo para D3 e M1. No
+   relatório descritivo de M1, Seção Análise de Segurança do Método para Geração de
+   Chaves Baseada em Algoritmos Genéticos são apresentadas ainda estimativas
+   adicionais que indicam quão seguro é o M1.
+
+3. Adicionalmente M1 gera uma chave final com maior força criptográfica e
+   consequentemente maior segurança, já que utiliza na sua composição informação de
+   tempo com quatro dados (hora, minuto, segundo e milissegundo) adicionado à inclusão
+   de qualquer caractere da tabela ASCII, ou seja, possibilita que diferentes tipos de
+   caracteres estejam presentes nessa chave final, como números, letras maiúsculas,
+   letras minúsculas e símbolos. Como mencionado neste documento, a sequência de
+   caracteres ASCII em M1 pode ter ainda tamanho variável.
+
+4. Em particular, M1 possibilita a geração de N números aleatórios para valores entre Y e
+   K, permitindo obter números com diferentes quantidades de dígitos, como descrito e
+   ilustrado no relatório descritivo de M1 em seções como a intitulada Análise de
+   Segurança do Método para Geração de Chaves Baseada em Algoritmos Genéticos.
+   Esse aspecto garante real e maior flexibilidade (como não ocorre em D3) para a
+   criação da chave criptográfica, além de garantir maior segurança contra invasores.
+
+
+
+
+                                                                                  Página 3
+                                  BR102012033128-4
+
+
+5. A Requerente acredita que neste trecho há um grave erro conceitual, pois se o Ilmo.
+   Examinador estiver assumindo a perspectiva string (indivíduo) dividido em metades, D3
+   divide a string (indivíduo) gerada em duas metades, completamente diferente de M1, o
+   qual, em nenhum momento, divide a chave 1 em metades. O que ocorre em M1 é a
+   utilização do componente de mutação em 50% da chave 1, ou seja, os caracteres de
+   posição par serão adicionados à chave 2, enquanto os caracteres na posição ímpar
+   serão substituídos por um caractere ASCII aleatório na chave 2. Por meio dessa breve
+   descrição, a diferença é clara entre D3 e M1. Dividir uma string (indivíduo) em metades
+   é completamente diferente de aplicar o componente de mutação em 50% da mesma,
+   como descrito de modo explícito no relatório descritivo de M1.
+
+   Se o Ilmo. Examinador estiver assumindo a perspectiva population (população) dividida
+   em metades, e considerando a literatura de AG, na qual população é definida como um
+   conjunto de indivíduos, ainda existe clara diferença entre M1 e D3. Diferentemente de
+   D3, M1 não divide a população em duas partes. De fato, quando consideramos a Fase
+   1 (b) da reivindicação de M1, anterior à Fase 2 referente ao processo de mutação,
+   observa-se que a população sofre concatenação, não divisão. Em particular,
+   considerando que as N chaves aleatórias sejam a população em M1, todos seus
+   indivíduos são na verdade concatenados para gerar a chave 1, como descrito na Fase
+   1 da reivindicação do método.
+
+   Independentemente da perspectiva assumida pelo Ilmo. Examinador, a mutação de M1
+   é diferente da divisão de string ou população de D3, e a mutação no contexto da
+   reivindicação de M1 contribui, junto com os demais tópicos tratados ao longo deste
+   documento,     para       caracterizar   a   atividade   inventiva   da   reivindicação.
+   
+   A Requerente informa que houve um equívoco de entendimento em relação ao
+   processo de geração de chaves de M1, pois M1 em nenhum momento usou o operador
+   de crossover (exemplo: single-point crossover, multi-point crossover, uniform crossover,
+   Whole Arithmetic Recombination, Davis Order Crossover (OX1), entre outros).
+
+   As duas reivindicações apontadas pelo Ilmo. Examinador se referem ao processo de
+   geração da chave 2, a partir da chave 1 em que:
+
+   1) se a posição do caractere na chave 1 for par, mantém-se o mesmo caractere nessa
+   mesma posição na chave 2, ou seja, esse mesmo caractere é copiado da chave 1 para
+   a chave 2 na mesma posição;
+
+   2) se a posição do caractere na chave 1 for ímpar, substitui-se esse caractere na
+   mesma posição na chave 2 por um caractere ASCII escolhido de modo aleatório. Ou
+   seja, não ocorre a troca de partes de indivíduos da população de acordo com os
+   critérios de crossover.
+
+6. D3 utiliza uma função de milissegundos com base na data atual apenas para a geração
+   de números aleatórios. Já M1 emprega a data atual com horas, minutos, segundos e
+
+
+                                                                                  Página 4
+                                    BR102012033128-4
+
+
+       milissegundos em sua última fase, unicamente na concatenação com a chave 2 para
+       obter a chave criptográfica final e aumentar sua força criptográfica. Ou seja, M1 não
+       usa o horário na geração de números e chaves aleatórias, pois os números aleatórios
+       já foram gerados na Fase 1. Além de D3 e M1 utilizarem formatos de tempo totalmente
+       distintos, eles empregam essas informações em processos também inteiramente
+       distintos: D3 utiliza para gerar números aleatórios; M1 emprega para concatenar com a
+       chave 2 para gerar a chave criptográfica final.
+
+2. Segue a análise das considerações interpostas pela requerente:
+
+   1. Respeitosamente, discordamos da argumentação apresentada pela requerente. De
+       fato existem diversas maneiras para gerar números aleatórios, entretanto, nos
+       baseamos no conteúdo reivindicado para nos basear na resposta. Esta escrito, de
+       forma explícita na reivindicação 1, o processo utilizado no presente pedido para gerar
+       números aleatórios no trecho: Gera N números aleatórios usando o Componente
+       Gerador de Números Aleatórios, de modo que cada número aleatório contenha uma
+       quantidade de caracteres e esteja no intervalo delimitado pelas variáveis de entrada Y
+       e K. Dessa forma não é necessário nenhuma suposição para identificar que não há
+       atividade inventiva no ato de gerar os números aleatórios, com uma quantidade de
+       caracteres definida como um intervalo de valores, se comparado a D3 ou mesmo a
+       quaisquer métodos presentes no estado da técnica a época para obter o mesmo
+       resultado descrito na reivindicação independente 1 para obter números aleatórios. Se
+       existe uma diferença substancial entre o método proposto e o método apresentado, a
+       reivindicação deveria ter sido emendada de forma a evidenciar tal vantagem.
+
+   2. Temos que discordar veementemente da requerente no tocante de utilizar bits ou
+       caracteres em uma chave não tem o mesmo resultado. Desde os primórdios da era da
+       computação foi necessário criar uma representação para trabalhar com circuitos
+       elétricos, identificando o estado ligado e desligado de determinado circuito. Dessa
+       forma, na década de 40, surgiu a representação binária (bits). Posteriormente, advindo
+       principalmente da área de telecomunicações, foi necessário criar uma forma de
+       identificar caracteres em circuitos elétricos, convertendo letras, números e símbolos
+       para uma representação binária (em bits). Dessa forma, na década de 60 surgiu a
+       tabela ASCII, formada por 7 bits e capaz de representar 128 caracteres distintos.
+       Desde então, após a adoção da codificação por praticamente todos os computadores,
+       é utilizado a tabela ASCII para representar quaisquer caracteres em um computador.
+       Dessa forma, como um computador não quântico só trabalha com bits 0 e 1, todo e
+       quaisquer letras, números e símbolos que estão presentes em um computador na
+       verdade são codificados e representados por bits. Todas as operações que acontecem
+       em um computador são baseadas em bits. A comparação apresentada pela requerente
+       de uma chave binária com tamanho 1 e uma chave ASCII de tamanho 1 mostra que a
+       requerente conhece o conceito da representação ASCII, entretanto, a requerente foi
+       inconsistente ao utilizar 1 bit e 8 bits como tamanho de chave. No parecer anterior foi
+
+
+                                                                                     Página 5
+                               BR102012033128-4
+
+
+   dito que as chaves deveriam ter o mesmo tamanho Ou seja, utilizar bits ou caracteres
+   em uma chave tem o mesmo resultado, contanto que as chaves tenham o mesmo
+   tamanho, ou seja, comparar uma chave com 8 bits com um chave ASCII (que contém
+   7 ou 8 bits). Assim é necessário e mesmo número de combinações para, por força
+   bruta, adivinhar um caractere ASCII e uma chave de 7 ou 8 bits.
+
+3. Tal vantagem dita pela requerente, apesar de já estar presente no estado da técnica,
+   não está presente no conteúdo reivindicado, dessa forma, não é possível utilizar tais
+   argumentos para contestar o documento D3 ou a falta de atividade inventiva do
+   presente pedido.
+
+4. O algoritmo explicitado na reivindicação 1 e indicado no relatório descritivo gera
+   somente uma única chave 1, de tamanho variável, que é posteriormente aplicada o
+   algoritmo genético na fase 2 para gerar a chave 2, ou seja, a fase 2 aplica o algoritmo
+   genético a uma chave de tamanho único e fixo. Apesar do tamanho da chave ser
+   variável, a aplicação do algoritmo genético é sempre em um único indivíduo de um
+   único tamanho. Como não são tratadas diversas chaves simultaneamente, pode-se
+   considerar que é utilizado um algoritmo genético que só trata um único tamanho de
+   indivíduo, além de existir somente uma única geração. Dessa forma, não há
+   extrapolação por meio de suposições quanto ao tamanho da chave gerada por D3.
+   Apesar de não estar explicito o tamanho da chave, é dito em D3 que a chave deve ser
+   utilizada junto com o algoritmo de criptografia simétrica AES (D3, seção V). O algoritmo
+   AES é rotineiramente utilizado com pelo menos 3 tamanhos de chave: 128 bits, 192
+   bits e 256 bits. Dessa forma, o algoritmo proposto em D3 tem que no mínimo ser capaz
+   de gerar chaves nesses 3 tamanhos.
+
+5. O algoritmo destacado apresenta somente a parte da mutação genética, não tendo o
+   cruzamento pois não existem outros indivíduos na população. Ainda mais, o mutação
+   genética é previsível, já que sempre é aplicada a mesma mutação genética sempre,
+   diferente de algoritmos GA da literatura que utilizam uma probabilidade de mudança de
+   cada um dos componentes de um indivíduo. A mutação aplicada carece de
+   aleatoriedade pois é sorteado um caractere ASCII aleatório, sem dizer como que esse
+   caractere aleatório é gerado. De fato que a utilização do nome algoritmo genético
+   somente descreve que, a partir da chave 1, serão substituídos os índices de valor
+   ímpar um novo caractere aleatório, o que não caracteriza um algoritmo genético. Um
+   algoritmo genético trabalha com populações evolutivas, utilizando gerações de
+   indivíduos, onde é necessário o cruzamento entre indivíduos, buscando a perpetuação
+   de boas características e a mutação apenas para fugir dos máximos locais, buscando
+   encontrar indivíduos que, com poucas mudanças, possam ter um resultado melhor do
+   que a população anterior. O algoritmo genético apresentado não trabalha com mais de
+   um indivíduo, não apresenta gerações e não aplica uma probabilidade de mutação.
+
+
+
+
+                                                                                  Página 6
+                                         BR102012033128-4
+
+
+          6. Como já dito anteriormente, apesar de D3 não utilizar o mesmo método para gerar a
+             chave, a simples concatenação da chave gerada nos passos anteriores com a
+             informação de data atual não é capaz de trazer atividade inventiva ao pedido. É
+             amplamente difundido e utilizado na área de computação o conceito de horário para
+             gerar e melhorar números gerados de forma aleatória. O horário na computação é
+             representado por um número que é incrementado a cada segundo a partir da data de
+             01/01/1970. Dessa forma, o horário na hora da execução de um algoritmo representa
+             um número único, já que a aplicação sempre é iniciada em um horário distinto. Para
+             fundamentar essa característica, D3 utiliza essa técnica para gerar o número inicial que
+             é utilizado no algoritmo.
+
+   3. Prosseguindo, apesar das considerações apresentadas no parecer anterior, em especial
+          ao documento D3, a requerente optou por não modificar o quadro reivindicatório.
+
+   4. Sendo assim, os mesmos argumentos do parecer anterior são mantidos e a reivindicação
+          independente 1 é óbvia frente a D3. Portanto, a matéria pleiteada na reivindicação 1 é
+          mera decorrência do estado da técnica, não apresentando atividade inventiva, e estando
+          em desacordo com os artigos 8º e 13 da lei nº 9.279/96 (LPI).
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -     não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                   Publique-se o indeferimento (9.2).
+
+
+
+                                                               Rio de Janeiro, 30 de junho de 2021.
+
+
+
+
+Daniel de Souza Dias
+Pesquisador/ Mat. Nº 2041265
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+007/16
+
+
+
+
+                                                                                            Página 7
+

@@ -1,0 +1,193 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0810081-0                N.° de Depósito PCT: JP2008/055959
+ Data de Depósito:                   27/03/2008
+ Prioridade Unionista:               JP 2007-099508 (05/04/2007)
+ Depositante:                        SBI PHARMACEUTICALS CO., LTD. (JP)
+ Inventor:                           Toshihiko Kuroiwa, Yoshinaga Kajimoto, Takahiro Masubuchi,
+                                     Masahiro Ishizuka, Tohru Tanaka
+ Título:                             Agente terapêutico e agente diagnóstico para doenças cerebrais de
+                                     disfunção mitocondrial 
+
+                                                                PARECER
+
+
+          Através da petição de n° 870190058300 de 24/06/2019, a requerente manifestou-se com
+relação ao parecer negativo notificado na RPI 2516 de 26/03/2019, apresentando um novo
+quadro reivindicatório (total de 3 reivindicações), uma nova via do relatório descritivo e seus
+argumentos em favor do mérito do pedido.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-16               870190058300           24/06/2019
+Quadro Reivindicatório                                     1-2               870190058300           24/06/2019
+Desenhos                                                   1-2               020090093373           02/10/2009
+Resumo                                                      1                020100119133           22/12/2010
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                                 PI0810081-0
+
+
+                Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                     Sim                Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                 x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                                 x
+Comentários/Justificativas
+
+
+Objeções superadas
+         Algumas objeções realizadas no parecer técnico anterior relativas ao artigo 25 da LPI
+foram superadas no novo quadro reivindicatório apresentado, a saber:
+- Foram definidos o tamanho da cadeia de carbono para os termos alquila, acila,
+alcóxicarbonila, arila, aralquila, alcóxi, acilóxi, alcoxicarbonilóxi, arilóxi e aralquilóxi;
+- A expressão doença cerebral de disfunção mitocondrial foi definida de modo a trazer clareza;
+- O nome do composto dietilenodiaminapentaacetato de ferro de amônia foi corrigido.
+
+
+Objeção não superada
+         Foi apontado no parecer técnico anterior que a expressão derivado do mesmo,
+encontrada nas antigas reivindicações 1 e 4 em relação ao ácido gama aminolevulínico, não
+define de forma clara e precisa quais são os compostos englobados, infringindo o disposto no
+artigo 25 da LPI. Essa expressão ainda consta nas reivindicações 1 e 3 do novo quadro
+reivindicatório apresentado, o que infringe o disposto no artigo 25 da LPI.
+
+
+
+                            Quadro 4  Documentos citados no parecer
+
+ Código                                    Documento                                     Data de publicação
+    D1                                     EP1743621                                             17/01/2007
+
+
+     Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+      Requisito de Patenteabilidade                  Cumprimento                    Reivindicações
+                                                           Sim                             1-3
+            Aplicação Industrial
+                                                           Não                               -
+                                                           Sim                               -
+                  Novidade
+                                                           Não                             1-3
+
+                                                           Sim                               -
+            Atividade Inventiva
+                                                           Não                             1-3
+Comentários/Justificativas
+
+         Em favor do mérito do pedido, resumidamente, a requerente argumenta que o
+documento D1 refere-se a um restaurador de cabelos que é destinado à aplicação tópica,
+
+
+                                                                                                       Página 2
+                                            PI0810081-0
+
+
+enquanto a formulação da presente invenção não é tópica e permite a passagem seletiva pela
+barreira hematoencefálica e acúmulo do metabólito protoporfirina IX nas células cerebrais.
+Ademais, aponta que os agentes pleiteados permitem aplicações adequadas em tratamento ou
+diagnóstico melhorados de doenças cerebrais, enquanto reduzem os efeitos colaterais que
+podem ocorrer de outra forma com o uso de outros agentes não altamente específicos. Assim,
+conclui que, pela leitura de D1, um técnico no assunto não teria sido conduzido para a presente
+invenção como ora reivindicada e que a mesma está em conformidade com os artigos 8º, 11 e
+13 da LPI.
+
+       Os argumentos da requerente foram levados em consideração e os requisitos de
+patenteabilidade foram reavaliados conforme discutido abaixo.
+
+
+
+Aplicação Industrial
+
+       A matéria do presente pedido é passível de produção e/ou utilização industrial,
+atendendo ao artigo 15 da LPI.
+
+
+
+Novidade e Atividade Inventiva
+
+       No parecer técnico anterior, foi apontado que a novidade em composições é
+caracterizada pela análise dos seus constituintes, sendo         consideradas novas quando
+apresentarem um novo componente ou uma nova razão entre os componentes que as
+diferenciem do estado da técnica. Nesse sentido, o efeito, o uso, a forma de
+administração/aplicação ou a forma física per se não conferem novidade a uma formulação já
+conhecida no estado da técnica.
+
+       Em sua manifestação, a requerente argumenta que a composição de D1 é utilizada
+topicamente, o que a diferencia da composição pleiteada no presente pedido. No entanto, com
+base no entendimento explicitado acima e conforme já demonstrado no parecer anterior, não é
+possível reconhecer a novidade nas composições pleiteadas no presente pedido, uma vez que o
+documento D1 revela especificamente composições contendo os componentes ácido
+5-aminolevulínico, compostos de ferro e veículos farmaceuticamente aceitável (como pode ser
+visto, por exemplo, no Exemplo 1, página 5 de D1, que concretiza uma composição contendo
+ácido 5-aminolevulínico, citrato ferroso e água purificada).
+
+       Dessa forma, os argumentos da requerente não foram convincentes e o entendimento
+detalhado no parecer técnico anterior de que a matéria não possui novidade e,
+consequentemente, não possui atividade inventiva, é mantido e o novo quadro reivindicatório
+também infringe o disposto nos artigos 8º, 11 e 13 da LPI.
+
+
+
+
+                                                                                        Página 3
+                                          PI0810081-0
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de novidade (Art. 8º combinado com Art. 11 da LPI)
+
+      -   não atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 01 de novembro de 2019.
+
+
+
+
+Andre Prucoli Fragoso Carvalho
+Pesquisador/ Mat. Nº 2357376
+DIRPA / CGPAT I/DIFAR-I
+Deleg. Comp. - Port. INPI/DIRPA Nº
+014/18
+
+
+
+
+                                                                                           Página 4
+

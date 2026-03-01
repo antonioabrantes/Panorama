@@ -1,0 +1,355 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:          BR102013013559-3              N.° de Depósito PCT:
+ Data de Depósito:       31/05/2013
+ Prioridade Unionista:   -
+ Depositante:            ROBERTO MASSARU AMEMIYA (BRSP)
+ Inventor:               ROBERTO MASSARU AMEMIYA @FIG
+ Título:                 Filmadora com captação tridimensional de raios e televisão produtora
+                         de imagem real formada à frente e atrás da superfície da televisão;
+                         dispositivos de filtro de raios paralelos; cristais líquidos emparelhados
+                         ou movimento de células ópticas ou filtro de raios paralelos com
+                         conjunto de lentes móveis incluindo lentes flexíveis multifocais;
+                         processos para obtenção desses dispositivos 
+                                            PARECER
+        O pedido se refere a uma filmadora e uma televisão capazes de capturar e reproduzir
+imagem real, respectivamente, utilizando-se de filtros de raios paralelos.
+        Em 14/05/2021, por meio da petição 870210044147, o Depositante apresentou
+modificações no pedido em resposta ao parecer emitido no âmbito da Resolução Nº 241/2019,
+notificado na RPI 2615 de 17/02/2021 segundo a exigência preliminar (6.21).
+        Em 12/08/2021, por meio da petição 870210073747, a Requerente apresentou
+modificações no pedido em resposta ao parecer emitido, notificado na RPI 2632 de 15/06/2021
+(despacho 7.1). Estas modificações estão consideradas no Quadro 1.
+
+                                      Quadro 1  Páginas do pedido examinadas
+          Elemento                                   Páginas                   n.o da Petição     Data
+
+Relatório Descritivo                   1  9 (16  24 do arq. PDF)           NPWB860150272791   19/11/2015
+Quadro Reivindicatório                 1  4 (27  30 do arq. PDF)             870210073747     12/08/2021
+Desenhos                               1  2 (21  22 do arq. PDF)           NPWB860140057408   24/04/2014
+Resumo                                        1 (11 do arq. PDF)             NPWB860150272791   19/11/2015
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                           Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                 X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                         X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                             X
+O pedido está de acordo com disposto no art. 32 da LPI                                              X
+Comentários/Justificativas: Não houve nenhuma mudança no relatório descritivo para o qual
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                        Página 1/7
+                                       BR102013013559-3
+
+
+foram apontadas as irregularidades com relação aos Art. 32 e 22 da LPI. Apesar das
+argumentações apresentadas, ainda continua-se com o entendimento anterior de que o último
+relatório descritivo apresentado encontra-se em desacordo com esses artigos.
+
+       Art. 32:
+
+       Em sua argumentação, a requerente é contrária ao entendimento de que vértice em sua
+base se refere apenas a um vértice na parte inferior da célula óptica. No entanto, não há como
+entender no texto original (petição DESP018130018066 de 31/05/2013) que a base se refere a
+uma parte superior ou média. O trecho "vértice em sua base" só pode levar a um entendimento:
+o vértice que se encontra na sua base, ou seja, na parte inferior da célula. Portanto, só há
+como considerar que as alterações realizadas acrescentam características técnicas e, assim,
+matéria ao pedido anteriormente depositado. Não há como se considerar tal modificação como
+uma limitação ou alteração de um conceito amplo em um mais específico se no último relatório
+apresentado há mais duas possibilidades alternativas à posição do vértice.
+
+       Do mesmo modo, no relatório descritivo original (petição DESP018130018066 de
+31/05/2013), apesar de se mencionar que A televisão de imagem real possui um monitor que
+inverte a imagem, deslocando-a de seu centro de forma a acompanhar a angulação dos raios
+ltrados. (p. 1/6, l. 23  25), A imagem que o receptor fornece deve ter um desvio do seu
+centro de acordo com a angulação do filtro de raios paralelos utilizado na sua captura a
+única menção às inclinações do filtro de raios paralelos está no trecho referente a explicação da
+Fig. 1, onde se menciona que Este processo é repetido em diversos ângulos da
+direita/esquerda e frente/atrás (...) (p. 5/6, l. 13  14). Não há nenhuma definição de que os
+raios paralelos têm direções variando de cima para baixo ou de diagonais diversas como
+acrescentado no novo relatório (petição NPWB860150272791 de 19/11/2015). Como no caso
+referente à posição da base, essas características técnicas são alternativas e, portanto, são
+consideradas acréscimo de matéria àquela inicialmente revelada.
+
+       Além disso, está descrito na p. 8, l. 15  17 do novo relatório "Na fase de processamento
+eletrônico de imagem (3) pode existir a seleção de ângulos mais usados dependendo da
+localização dos olhos do observador identificado por aparelho." O aparelho que identifica foi
+acrescentado no texto, o que está claramente em desacordo com o Art. 32. Portanto, não houve
+"uma interpretação diversa do que está escrito no relatório descritivo." como alega a requerente.
+
+       Portanto, não procede a argumentação de que as inclusões não alteram o efeito técnico
+e/ou o objeto pleiteado uma vez que as alterações mudam o objeto e com isso aperfeiçoam o
+efeito técnico.
+
+       Art. 22:
+
+       Considera-se não procedente a argumentação da requerente referente ao cumprimento
+do Art. 22. Como mencionado no parecer anterior, de posse de D1, que define uma filmadora
+(scanner), uma televisão (display) e o sistema que captura as imagens de direções distintas
+através de um CCD e as apresenta sincronizadamente de forma que a imagem do objeto possa
+
+
+
+                                                                                        Página 2/7
+                                           BR102013013559-3
+
+
+ser visualizada de vários pontos de vista, utilizando um filtro de raios paralelos, entende-se que
+o pedido de fato acrescenta ao estado da técnica apenas três formas de filtros de raio paralelo
+diferentes entre si. Cada uma dessas formas é entendida como uma unidade de invenção
+diferente que não estão unidas pelo mesmo conceito inventivo (dado D1), já que seriam
+formados e funcionariam por meios distintos.
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                    X
+Comentários/Justificativas:
+
+       Não houve nenhuma mudança no relatório descritivo ou no objeto das reivindicações
+(houve apenas mudança de ordem) para o qual, no parecer anterior, foram apontadas as
+irregularidades com relação aos Art. 24 e 25 da LPI. Apesar das argumentações apresentadas,
+ainda continua-se com o entendimento anterior de que o último relatório descritivo apresentado
+e as novas reivindicações encontram-se em desacordo com esses artigos.
+
+       Art. 24:
+
+       A argumentação da requerente com relação ao cumprimento do Art. 24 se baseia
+principalmente no fato de não ser necessário se descrever características que seriam óbvias
+para um técnico no assunto. No entanto, ao não dar alguns detalhes de implementação, a
+definição dos objetos passam a ficar muito amplas e com isso o técnico no assunto necessita
+realizar experimentações excessivas para chegar aos objetos pleiteados.
+
+       Mencionar que há uma combinação de lentes com estreitamento para melhorar a
+resolução angular não define o objeto. Isto porque não basta afirmar que essa melhora ocorre
+com tal combinação, a não ser que essa melhora seja conhecida do estado da técnica e
+portanto tal combinação acabaria por ser considerada óbvia para um técnico no assunto, o que
+destituiria esse elemento óptico de atividade inventiva. Por outro lado, não sendo óbvia, tal
+combinação deveria ter sido melhor detalhada. Portanto, entende-se que os elementos ópticos
+carecem de mais detalhes de implementação para que essa combinação se torne específica do
+objeto pleiteado ao ponto de que o técnico no assunto tenha informação suficiente para
+implementá-lo.
+
+       O mesmo pode ser dito sobre a necessidade de se definir como realizar a mudança de
+direção e o sincronismo, pois se são óbvios ao ponto de não se precisar defini-los, os objetos
+ditos inéditos do pedido passariam a ser apenas o elementos ópticos em si, que por sua vez
+necessitam de uma definição mais clara e precisa para possibilitar a sua implementação pelo
+técnico no assunto como dito anteriormente. Em outras palavras, se não é novo o controle do
+movimento e da sincronização, segundo a argumentação da requerente, e se por isso também
+
+
+
+
+                                                                                        Página 3/7
+                                       BR102013013559-3
+
+
+se poderia dizer que um técnico no assunto os implementaria sem o exercício de atividade
+inventiva, conclui-se que existe mais um motivo para que os filtros ópticos fossem descritos de
+forma suficiente para que o técnico no assunto pudesse implementá-lo sem um número
+excessivo de tentativas. O que de fato não ocorre, conforme apontado no parecer anterior.
+
+       Essa falta de suficiência também ocorre na definição do filtro utilizando LCDs. Sendo por
+filtros coloridos ou não, o que não está definido suficientemente é como se dá a captura das
+imagens de cada quadro em uma direção ou da imagem real completa. A requerente indica em
+sua manifestação que uma imagem inteira é capturada por vez. No entanto, da descrição não
+se pode depreender como isso é possível sem interferência entre os raios de direções diferentes
+uma vez que os raios de luz que entram em determinada direção (a princípio, uma direção por
+vez pelo efeito de persiana dos LCDs) formariam um quadro inteiro de somente uma direção
+para ser capturado pelo CCD. E mesmo nessa opção de implementação, o efeito persiana com
+2 LCDs sobrepostos fica prejudicado uma vez que raios de mais de uma direção seriam
+capturados por cada pixel do CCD pela interferência causada por janelas adjacentes. E essa é
+apenas uma das opções possíveis para implementação desse tipo de filtro óptico. Note que o
+problema aqui mencionado não está relacionado com a interferência entre cores distintas, mas
+sim direções distintas.
+
+       Além disso, se a requerente ao se referir a uma imagem inteira quer dar a entender que
+se captura uma imagem real a cada instante, tal procedimento deveria também ser definido para
+possibilitar o técnico no assunto implementá-lo já que tudo indica que cada direção tem que ser
+capturada em um instante distinto, dado que os filtros ópticos a cada instante estariam
+capturando raios em uma única direção.
+
+       Portanto, existe pelo menos um problema cuja solução não está definida que impede o
+técnico no assunto de implementar o objeto pleiteado sem um número de experimentações
+excessivas.
+
+       Outro ponto contra o qual a requerente argumenta é com relação a velocidade de
+captura. A velocidade exemplificada no parecer anterior é para um quadro inteiro para cada
+direção e não para cada raio. Essa velocidade é extremamente alta para os CCDs padrões
+existentes o que leva a crer que CCDs padrão não seriam capazes de capturar tais imagens a
+não ser que algum procedimento não definido no pedido seja utilizado para tal.
+
+       Entende-se que a junção de CCDs para obter-se CCDs maiores, é óbvio para um técnico
+no assunto que queira uma superfície de captura maior, mas no mínimo deveria se revelar a
+necessidade da dimensão de captura da câmera de imagem real ser maior que o objeto alvo
+para se poder ter a imagem real reproduzível, pois sem nem uma menção a essa necessidade
+para se obter imagens reais de objetos com dimensões maiores que as do CCD, o técnico no
+assunto não seria provocado a realizar tal junção, além de não estar ciente de tal limitação.
+
+       Por mais que seja explicado na argumentação o funcionamento das lentes fixas e
+flexíveis para obtenção das imagens, não se pode depreender do relatório inicialmente
+depositado como se implementar os filtros com esses elementos. Como dito no parecer anterior,
+
+
+                                                                                         Página 4/7
+                                        BR102013013559-3
+
+
+o filtro de raios paralelos utilizando-se lentes fixas ou flexíveis multifocais não está
+suficientemente descrito. Como no caso do filtro com elementos ópticos tubulares, a descrição
+apresenta apenas um conjunto pobre de características técnicas que não permitem sua
+implementação sem que se tenha que supor um conjunto grande de características quanto a sua
+estrutura, bem como com relação ao seu funcionamento. Mesmo na seção Teorias da formação
+de imagem real da manifestação, mostra-se como teoricamente os elementos ópticos deveriam
+se comportar, mas não há nenhum detalhe técnico para sua implementação real, deixando a
+cargo do técnico no assunto fazer experimentações em um número não razoável.
+
+       Como já mencionado no parecer anterior, por esses e outros aspectos, percebe-se que a
+descrição inicialmente depositada revela o objeto quase que no nível da ideia, com poucas
+características técnicas genéricas que não permitem ao técnico no assunto implementá-lo sem
+realizar um número excessivo de experimentações.
+
+       Art. 25:
+
+       Mais uma vez, deve-se mencionar que as novas reivindicações 3, 4 e 10 (antigas 9, 10 e
+4, respectivamente) ainda não atendem ao disposto no Art. 25 da LPI e na Instrução Normativa
+nº 30/2013  Art. 4º (IV), pois a matéria pleiteada não está fundamentada no relatório descritivo
+do pedido, uma vez que indicam que a imagem é invertida no processamento, o que já foi objeto
+de alteração do relatório descritivo na petição NPWB860140057408 de 24/04/2014. Pelo
+apresentado na Fig. 1 do pedido originalmente depositado, a imagem deve de fato ser
+deslocada e não invertida. Não é verdade que essas palavras tenham o mesmo sentido. De fato,
+havia um erro ao utilizar a palavra invertida uma vez que invertendo-se a imagem na Fig. 1, por
+exemplo, não se obteria a imagem real desejada. Considera-se como antes que a alteração
+realizada no relatório de invertida para deslocada referia-se a uma correção de um erro
+evidente. Portanto, o uso da palavra invertida nessas reivindicações leva a não fundamentação
+apontada acima e no parecer anterior.
+
+       Ainda, como consequência da falta de suficiência descritiva apontada acima, as
+características dos filtros de raios paralelos e do processamento dos raios paralelos usadas na
+definição da matéria pleiteada nas reivindicações 1  13 são consideradas genéricas,
+impossibilitando a definição clara e precisa da matéria objeto da proteção, o que contraria o
+disposto no Art. 25 da LPI e na Instrução Normativa nº 30/2013  Art. 4º (III).
+
+       Dessa forma, como anteriormente, na análise dos critérios de patenteabilidade do
+Quadro 5, considerou-se como objeto do pedido um sistema contendo uma filmadora e uma
+televisão em que as imagens são registradas em um CCD para várias direções através de um
+filtro de raios paralelos implementados com LCDs sobrepostos ou com elementos ópticos
+direcionadores dos raios e são reproduzidas através de uma tela de um monitor associada a
+esses filtros de raios paralelos. Também considerou-se o processamento para se criar uma
+imagem tanto à frente quanto atrás da televisão.
+
+
+
+
+                                                                                       Página 5/7
+                                               BR102013013559-3
+
+
+                              Quadro 4  Documentos citados no parecer
+
+  Código                                     Documento                                       Data de publicação
+     D1       US4853769A                                                                           01/08/1989
+
+
+     Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+      Requisito de Patenteabilidade                     Cumprimento                     Reivindicações
+                                                              Sim                             1  13
+             Aplicação Industrial
+                                                              Não                           Nenhuma
+                                                              Sim                             1  13
+                   Novidade
+                                                              Não                           Nenhuma
+
+                                                              Sim                           Nenhuma
+             Atividade Inventiva
+                                                              Não                             1  13
+Comentários/Justificativas:
+
+          Como mencionado no parecer anterior, os apontamentos realizados sobre os critérios de
+patenteabilidade foram mais uma vez realizados com base no que se pode depreender do
+relatório inicialmente depositado e apenas para completude do exame. Como no parecer
+anterior, a análise que segue leva em conta o objeto mencionado no Quadro 3, uma vez que a
+falta de suficiência descritiva apontada limita a abrangência da análise aos objetos efetivamente
+definidos e que permitem a sua implementação por um técnico no assunto.
+
+          Mais uma vez ressalta-se que em toda a análise os argumentos apresentados foram
+cuidadosamente analisados apesar de ainda persistirem as irregularidades apontadas nos
+Quadro 2 e 3 do parecer anterior. No entanto, entende-se que muitos dos argumentos se
+baseiam em informações que ou se referem ao princípio de funcionamento sem a necessária
+suficiência descritiva (como descrito no pedido) ou que não estavam presentes no relatório como
+inicialmente depositado e que, portanto, não podem ser levadas em consideração na análise.
+
+          Assim, como no parecer anterior, reitera-se que o documento D1 (abstract; Figs. 1, 2, 4,
+6, 8; col. 2, l. 1  51; col. 3, l. 58  col. 4, l. 58; col. 5, l. 50  col. 6, l. 34; col. 6, l. 47  63; col. 7, l.
+9  23) apresenta uma filmadora (scanner) e uma televisão (display) que fazem parte de um
+sistema que adquire imagens de um objeto em todas as direções de um campo visual através de
+filtro de raios paralelos (louver structure), que pode ser implementado por painéis de cristal
+líquido (LCDs) sobrepostos ou por elementos ópticos que direcionam os raios paralelos sobre
+um CCD (photodetector) para depois apresentar para um observador as imagens capturadas
+através de uma tela de TV associada a um filtro de raios paralelos, de forma que a imagem do
+objeto possa ser observada de vários pontos de vista apresentando as mesmas características
+de cor e profundidades do objeto filmado.
+
+          Dessa forma, ainda entende-se que o sistema, filtros paralelos, filmadora e televisão
+pleiteados estão antecipados por D1.
+
+
+
+                                                                                                          Página 6/7
+                                          BR102013013559-3
+
+
+         Considera-se óbvio para um técnico no assunto que para se obter a imagem real do
+objeto (à frente da televisão) as imagens capturadas têm que ser deslocadas para o lado oposto
+ao capturado pelo CCD de forma que o olho esquerdo receba a imagem proveniente do lado
+mais a esquerda do objeto e o olho direito receba a imagem proveniente do lado mais a direita
+do objeto, assim considera-se que o processamento da forma genérica como pleiteada não
+apresenta atividade inventiva.
+
+         Com isso, considera-se que D1 antecipa a matéria que pode ser depreendida das
+reivindicação 1  13.
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que
+
+      -    não apresenta suficiência descritiva (Art. 24 da LPI);
+
+      -    as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+           descritivo (Art. 25 da LPI);
+
+     -     há acréscimo de matéria do pedido ou do escopo das reivindicações (Art. 32 da LPI); e
+
+     -     considerando as restrições mencionadas no Quadro 5, não atende ao requisito de
+   atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                    Publique-se o indeferimento (9.2).
+
+                                                              Rio de Janeiro, 31 de agosto de 2021.
+
+
+
+
+Fábio Pacheco Freeland
+Pesquisador/ Mat. Nº 1693846
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 008/13
+
+
+
+
+                                                                                           Página 7/7
+

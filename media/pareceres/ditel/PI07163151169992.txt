@@ -1,0 +1,228 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        PI0716315-0              N.° de Depósito PCT:EP2007/009199
+ Data de Depósito:                     23/10/2007
+ Prioridade Unionista:                 US 60/862,954 (25/10/2006)
+ Depositante:                          FRAUNHOFER-GESELLSCHAFT            ZUR     FORDERUNG       DER
+                                       ANGEWANDTEN FORSCHUNG E.V. (DE)
+ Inventor:                             Markus SCHNELL, Markus Schmidt, Marc Gayer, MICHAEL MELLAR,
+                                       MARKUS MULTRUS, GERALD SCHULLER, Ralf Geiger, BERNHARD
+                                       GRILL, MARKUS LOHWASSER, BERND EDLER, MANFRED
+                                       LUTZKY
+ Título:                               Aparelhagem e método para gerar valores de sub-banda de áudio e
+                                       aparelhagem e método para gerar amostras de áudio de domínio de
+                                       tempo 
+
+                                            PARECER
+           Em 22/10/2019 foi publicada através da RPI nº 2546, notificação de Ciência de Parecer
+conforme parecer técnico de primeiro exame do presente pedido. Tal parecer indicou
+irregularidades quanto ao disposto nos Art. 24 e 25 no que tange à falta de clareza na descrição
+da invenção e reivindicações, bem como concluiu pela falta de inventividade do presente pedido
+frente aos documentos apresentados como representativos do estado da técnica.
+
+           O     depositante,           através        da       petição   870200008644   de      17/01/2020,   e   portanto
+tempestivamente, apresentou manifestação a respeito do parecer técnico propondo nova via do
+quadro reivindicatório com 15 (quinze) reivindicações e argumentação quanto aos requisitos de
+patenteabilidade da matéria pleiteada.
+
+           Para fins de continuidade do exame, estão sendo consideradas as vias abaixo:
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas           n.o da Petição                 Data
+
+Relatório Descritivo                                          1 a 161           018090020878               24/04/2009
+Quadro Reivindicatório                                         1a7              870200008644               17/01/2020
+Desenhos                                                      1 a 29            018090020878               24/04/2009
+Resumo                                                          1               018090020878               24/04/2009
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                                        Página 1
+                                                               PI0716315-0
+
+
+Artigos da LPI                                                                       Sim               Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                               x
+O pedido está de acordo com disposto no art. 32 da LPI                                x
+Comentários/Justificativas ---
+
+                  Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                       Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                  x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                x
+Comentários/Justificativas
+         No novo quadro reivindicatório apresentados, a Requerente sanou as irregularidades
+apontadas em primeiro exame e apresentou argumentações para justificar o uso de um termo em
+inglês (filterbank). Por estarem de acordo com o disposto no Art. 25 da LPI, as modificações e
+argumentações foram aceitas.
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                           Data de publicação
+    D1        EP1199711 A1                                                                        24/04/2002
+    D2        BANDWIDTH EXTENSION OF AUDIO SIGNALS BY
+                                                                                                  15/11/2002
+              SPECTRAL BAND REPLICATION
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                     Cumprimento   Reivindicações
+                                                                           Sim              1a8
+              Aplicação Industrial
+                                                                          Não                 -
+                                                                           Sim              1a8
+                     Novidade
+                                                                          Não                 -
+                                                                           Sim                -
+              Atividade Inventiva
+                                                                          Não               1a8
+Comentários/Justificativas
+         Em nova versão do quadro reivindicatório apresentada, a Requerente realizou a inserção
+dos sinais de referência, porém não realizou modificações que alterem o escopo dos objetos ora
+pleiteados.
+
+      Das argumentações trazidas pela Requerente, destacam-se aqui alguns trechos que
+indicariam a atividade inventiva dos objetos pleiteados frente à D1 e D2:
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                     Página 2
+                                                             PI0716315-0
+
+
+                              Quanto ao Documento D1, apontado como referência impeditiva para a atividade
+                              inventiva da matéria reivindicada, este revela o uso de um codificador CELP,
+                              como, por exemplo, descrito no parágrafo [0048]. [] É importante ressaltar, no
+                              entanto, que os codificadores CELP ou codificadores de fala em geral são
+                              codificadores no domínio do tempo puro, em contraste com o codificador AAC bem
+                              conhecido. Não faria sentido realizar uma conversão de tempo / frequência,
+                              conforme feito pelo calculador, que compreende um conversor de tempo /
+                              frequência da reivindicação 1. Em vez disso, no campo da codificação de áudio,
+                              existem dois mundos: Um mundo é um codificador no domínio do tempo, como o
+                              codificador CELP, e o outro mundo é a codificação no domínio da frequência,
+                              como o codificador AAC. Portanto, não faria sentido realizar uma conversão de
+                              tempo / frequência no contexto do documento D1. Portanto, aqueles versados na
+                              técnica não combinariam o documento D1 com o documento D2, uma vez que
+                              quaisquer sinais de sub-banda no domínio da frequência simplesmente não são
+                              um problema no codificador de fala do documento D1.
+
+
+
+      Respeitosamente, discorda-se das alegações da Requerente tendo em vista que o
+codificador CELP é mencionado em D1 como uma possível implementação de um codificador
+primário (ver em D1: parágrafo 0048). O documento D1, no entanto, se concentra no
+detalhamento da técnica de expansão da largura de banda, para além do método usado para na
+codificada básica. De acordo com D1, o sinal de áudio é transformado em tempo/frequência (ver
+em D1: parágrafo 0042) após ser multiplicado por uma janela assimétrica, para reduzir o atraso
+introduzido pela codificação causado pela aplicação de uma janela simétrica (ver em D1:
+parágrafo 0036 e figs. 7 e 8).
+
+      Apesar de D1 não antecipar a geração de valores complexos para sub-bandas de um sinal
+de áudio no domínio da frequência, o uso de valores complexos é descrito no documento D2 (ver
+em D2: página 55, último parágrafo - página 56, primeiro parágrafo) para garantir mais
+robustez em relação às modificações espectrais referentes aos diferentes canais de sub-bandas,
+sem introduzir distorção, levando aos mesmos efeitos técnicos descritos no pedido em tela. Para
+um técnico no assunto seria óbvio derivar os objetos pleiteados no presente pedido, uma vez que
+ambos os documentos D1 e D2 se referem à conversão de tempo/frequência dentro do contexto
+da extensão espectral da banda, com a possibilidade da utilização de valores complexos para
+melhoramento do processo.
+       Além disso, considera-se de amplo conhecimento do estado da técnica à época de
+prioridade do pedido em tela a utilização de bancos de filtros que gerem valores complexos de
+sub-bandas de áudio em detrimento ao uso de valores reais de sub-bandas de áudio neste campo
+técnico do processamento de sinais (ver em D2: seções 3 e 4), pois uma implementação de um
+banco de filtros complexos é meramente considerada como uma possibilidade de projeto, o que
+não requereria um passo inventivo para um técnico no assunto.
+
+
+
+       Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                 Página 3
+                                                              PI0716315-0
+
+       Ainda da argumentação da Requerente, destaca-se também o seguinte trecho,
+referindo-se à D1 e D2:
+
+                               Esses documentos referem-se a bancos de filtros modulados. No entanto,
+                               conforme descrito anteriormente, tais sistemas relacionados são sistemas de valor
+                               real, nesse sentido, deve-se salientar que especialmente os Documentos D1 e D2,
+                               referidos no Relatório de Busca, mostram respostas de impulso do protótipo de
+                               baixo atraso das bandas de base da banca de filtro modulado correspondente.
+
+
+
+      Respeitosamente, discorda-se das alegações da Requerente tendo em vista que, por
+exemplo, partindo de um banco de filtros modulado por cosseno, a versão complexa pode ser
+obtida adicionando a parte modulada em seno correspondente à modulação em cosseno (ver em
+D2: primeiras linhas da seção 4).
+
+      Por fim, entende-se que a presente aplicação reivindica aparelho, método e mídia contendo
+o método para gerar valores da sub-banda e seu complementar, gerar valores no domínio do
+tempo, porém nenhuma implementação técnica específica para modificar ou codificar o sinal de
+áudio é pleiteada no quadro reivindicatório, de modo que os documentos citados como relevantes
+apesar de tratarem de outros pontos de um sistema de processamento de áudio também abordam
+questões técnicas sobre a parte geradora de valor da sub-banda ou no domínio do tempo.
+       Concluí-se então que a combinação de D1, divulgando o uso de janelas assimétricas com
+o mesmo objetivo da presente aplicação, ou seja, redução do atraso do sistema (ver em D1:
+parágrafos 0038 a 0046), com o documento D2 que divulga a possibilidade da utilização de
+valores complexos representativos de valores de sub-bandas do sinal, constitui-se como
+ensinamento relevante para que um técnico no assunto derivar de maneira óbvia os objetos
+reivindicados. Assim sendo, mantemos a opinião de que a matéria pleiteada nas reivindicações de
+1 a 8 não apresenta atividade inventiva frente ao revelado nos documento D1 e D2, descumprindo
+o disposto nos Arts. 8.º e 13 da LPI.
+
+
+
+Conclusão
+
+      Após análise das alegações da requerente, conforme comentários ao Quadro 5, reiteramos
+que a matéria para a qual o pedido em tela pleiteia proteção não pode ser considerada como
+dotada de atividade inventiva, visto que encontra-se antecipada nos documentos D1 e D2. Assim
+sendo, apesar das argumentações feitas pela requerente, mantemos a opinião de que a matéria
+pleiteada no quadro reivindicatório não é passível de patenteabilidade por ser mera decorrência
+do estado da técnica.
+
+      Deste modo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                   Página 4
+                                                              PI0716315-0
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                              Publique-se o indeferimento (9.2).
+
+
+
+                                                                            Rio de Janeiro, 6 de março de 2020.
+
+
+
+
+Camila Duarte Rodrigues Lopes
+Pesquisador/ Mat. Nº 2357468
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+015/18
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                    Página 5
+

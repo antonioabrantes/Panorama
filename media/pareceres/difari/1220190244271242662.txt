@@ -1,0 +1,253 @@
+                                         SERVIÇO PÚBLICO FEDERAL
+                                          MINISTÉRIO DA ECONOMIA
+                              INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR122019024427-8        N.° de Depósito PCT: ES2010/070153
+ Data de Depósito:                     15/03/2010
+ Prioridade Unionista:                 ES P 200900725 (16/03/2009)
+ Depositante:                          LIPOPHARMA THERAPEUTICS, S.L (ES)
+ Inventor:                             Pablo Vicente Escribá Ruiz, AMAIA MARCILLA ETXNIKE, MARÍA
+                                       LAURA MARTÍN, MÓNICA HIGUERA URBANO, DANIEL HORACIO
+                                       LÓPEZ, XAVIER BUSQUETS XAUBET, GWENDOLYN BARCELÓ
+                                       COBLIJN, VICTORIA LLADÓ CAÑELLAS, RAFAEL ÁLVAREZ
+                                       MARTÍNEZ, SILVIA TERÉS JIMÉNEZ
+ Título:                               USO DE PELO MENOS UM COMPOSTO
+
+                                                                    PARECER
+
+
+           Através da petição n° 870200079875 de 26/06/2020, a requerente manifestou-se com
+relação ao parecer técnico negativo notificado na RPI 2563 de 18/02/2020, apresentando um novo
+quadro reivindicatório com um total de 6 reivindicações, novas páginas do relatório descritivo, dos
+desenhos e do resumo, além de seus argumentos em favor do mérito do pedido.
+
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas         n.o da Petição           Data
+
+Relatório Descritivo                                          1 a 59          870200079875           26/06/2020
+Quadro Reivindicatório                                         1a2            870200079875           26/06/2020
+Desenhos                                                       1a9            870200079875           26/06/2020
+Resumo                                                          1             870200079875           26/06/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                 Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                       X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                               X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                         X
+O pedido está de acordo com disposto no art. 32 da LPI                                          X
+Comentários/Justificativas
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                               Página 1
+                                                        BR122019024427-8
+
+
+       A requerente restringiu as reivindicações ao Uso dos compostos 182A1, 183A1, 183A2,
+204A1, 205A1 e 226A1 na fabricação de um medicamento para o tratamento ou prevenção do
+mal de Alzheimer , portanto, a matéria ora pleiteada possui unidade de invenção, atendendo ao
+artigo 22 da LPI.
+
+
+
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                             Sim          Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                     X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                   X
+Comentários/Justificativas
+       Em sua manifestação, a requerente argumenta:
+       - o exemplo 7 mostra resultados de experimentos realizados com os compostos do pedido
+no tratamento de doenças neurodegenerativas. A Tabela 12 mostra o efeito protetor dos
+compostos 182A1,183A1,183A2, 204A1, 205A1 e 226B1 contra morte neural em células P19 e a
+tabela 13 mostra que os compostos também foram capazes de diminuir os níveis de -sinucleína
+em culturas de células neuronais. Após os resultados in vitro indicarem o potencial de uso dos
+compostos no tratamento de doenças neurodegenerativas, foram realizados testes in vivo para
+confirmar a eficácia destes compostos em induzir neurorregulação ou inibir neurodegeneração,
+num modelo animal de mal de Alzheimer (Figura 4), onde o composto 226B1 foi capaz de reduzir
+o tempo de conclusão do labirinto dos camundongos com Alzheimer para o tempo de
+camundongos saudáveis;
+       - adicionalmente, os ANEXOS 5 e 6, ora apensos, mostram testes in vivo com o composto
+226A1 no tratamento e prevenção do Alzheimer. Neste sentido, o item 9.1.3 da Resolução n° 208
+de 2017 mantém aberta a possibilidade de enviar informações adicionais (por exemplo, dados de
+testes in vivo como subsídio ao exame), a fim de provar que os testes in vitro, conforme descritos
+no momento do depósito, podem ser extrapolados por um técnico no assunto para uma aplicação
+terapeuticamente real;
+       - a tabela 12 do presente pedido de patente mostra que o composto 205A1 possui o pior
+desempenho na inibição da morte neuronal, porém o exemplo 7 (parágrafo 76) mostra que este
+composto tem efeito estatisticamente significante num modelo in vivo de Alzheimer. Portanto, um
+técnico no assunto seria capaz de extrapolar este entendimento para uma aplicação terapêutica
+real dos demais compostos da série A e B que exibiram uma proteção muito melhor contra a morte
+neuronal do que o composto 205A1 nos testes "in vitro";
+       - além disso, o parágrafo 76 (exemplo 7) apresenta dados "in vivo" também para os
+compostos 183B1, 205A1, 205B1, 226A1, 226B1 e 226V1; e
+       - os dados experimentais de testes in vivo presentes no pedido e as evidências
+experimentais complementares deixam claro para um técnico no assunto que os dados in vitro
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                      Página 2
+                                                         BR122019024427-8
+
+originalmente descritos no presente pedido, são totalmente confirmados e apoiados pelos dados
+in vivo ora submetidos.
+
+
+         Face a tais argumentos, as seguintes considerações foram feitas:
+         Conforme discutido no exame anterior, o relatório descritivo apresenta dados de testes in
+vivo relativos aos compostos 183B1, 205A1, 205B1, 226A1, 226B1 e 226VI. Os anexos 5 e 6 ora
+apensos confirmam o efeito in vivo somente do composto 226 A1. No entanto, segundo dispõe a
+Resolução n° 208 de 27/12/2017, embora, teoricamente, os compostos definidos por uma
+determinada "fórmula Markush" possam apresentar atividades semelhantes, não é possível
+extrapolar o novo uso de um único composto para todos os demais, a menos que sejam
+apresentados testes comprovando esta equivalência de efeito. Assim, apesar dos compostos
+205A1 e 226A1 terem apresentado efeito in vitro e in vivo, não é possível extrapolar que os
+demais compostos ativos in vitro também o serão in vivo, por ocasião de aspectos
+farmacocinéticos, dentre outros relacionados ao comportamento do fármaco dentro do organismo.
+Neste sentido, a requerente somente trouxe dados complementares sobre o efeito in vivo do
+composto 226A1 e não para os demais compostos cujo uso é também pleiteado.
+         Desta forma, reitera-se que somente o uso dos compostos 205A1 e                        226A1 está
+suficientemente descrito no relatório descritivo, o uso dos demais compostos (183B1, 205B1,
+226B1 e 226VI) não está, desatendendo ao artigo 24, e portanto, não pode ser pleiteado por falta
+de fundamentação (artigo 25 da LPI).
+
+
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                        Data de publicação
+    D1                                               EP1772146 A1                           11/04/2007
+    D2                                           US20060166935 A1                           27/07/2006
+    D3                                           US20070088170 A1                           19/04/2007
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                     Cumprimento   Reivindicações
+                                                                           Sim           1a6
+             Aplicação Industrial
+                                                                          Não
+                                                                           Sim           1a6
+                     Novidade
+                                                                          Não
+                                                                           Sim
+             Atividade Inventiva
+                                                                          Não            1a6
+Comentários/Justificativas
+
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 3
+                                                          BR122019024427-8
+
+
+       Em sua manifestação, a requerente trouxe os seguintes argumentos em favor do mérito do
+pedido:
+
+       - D3, considerado a técnica mais próxima ao pedido, menciona o composto 226A1 apenas
+como intermediário sintético e não sugere o seu uso no tratamento de doenças. Além disso, D3
+refere-se ao uso de ésteres etílicos estruturalmente próximos aos compostos do presente pedido,
+mas exclui o éster etílico de alfa-hidroxi DHA dos compostos de fórmula (I) e portanto todos os
+usos médicos referentes tais compostos também devem ser excluídos;
+
+       - D3 não divulga dados experimentais in vivo ou in vitro para PRB-12, somente dados in
+silico, os quais mostram que o PRB-12 tem uma afinidade mais baixa por PPAR e PPAR do que
+o DHA. Assim, o técnico no assunto em busca de composto com atividade aprimorada contra o
+mal de Alzheimer excluiria os ácidos graxos poliinsaturados substituídos com 2-hidroxi para tais
+usos, pois estes são menos eficazes que o DHA;
+
+       - D1 e D2 são mais distantes do presente pedido que D3, pois referem-se a PUFAs não
+substituídos, de modo que o técnico no assunto não alcançaria a partir destes ensinamentos o
+uso de ácidos graxos poliinsaturados substituídos com 2-hidroxi ou seus sais na fabricação de um
+medicamento ou uma composição nutracêutica para o tratamento ou prevenção de mal de
+Alzheimer.
+
+
+
+       Face ao novo quadro reivindicatório e argumentos ora apensos, as seguintes
+considerações foram feitas:
+
+Aplicação Industrial
+       A matéria do presente pedido é passível de produção e/ou utilização industrial, atendendo
+ao artigo 15 da LPI.
+
+
+
+Novidade
+
+       Não foram encontrados no estado da técnica documentos que revelem especificamente o
+usos dos compostos 182A1, 183A1, 183A2, 204A1, 205A1 e 226A1 na fabricação de um
+medicamento para o tratamento ou prevenção do mal de Alzheimer, portanto, a matéria pleiteada
+é nova atendendo ao artigo 11 da LPI.
+
+
+
+Atividade Inventiva
+
+       De fato, D1 e D2 referem-se a PUFAs não substituídos e D3 menciona que os PUFAs
+2-hidróxi substituídos possuem menor afinidade para PPAR e PPAR que o DHA. Porém,
+conforme discutido no exame anterior, o uso de diferentes PUFAs em composições para
+tratamento do Alzheimer já havia sido descrito antes do presente pedido, isto porque os PUFAs
+atuam em diferentes mecanismos envolvidos no desenvolvimento da doença, não somente
+através de PPAR e PPAR. D1, por exemplo, mostra que PUFAs inibem uma beta-secretase
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                  Página 4
+                                                          BR122019024427-8
+
+
+produtora de beta-amiloide (BACE) e D2 mostra que PUFAs inibem a deposição de peptídeos
+amiloides. Assim, resta claro que PUFAs atuam através em diferentes vias no controle do
+Alzheimer e portanto seria óbvio para o técnico utilizar seus derivados, incluindo derivados
+hidroxilados, em medicamentos para tratar esta doença.
+
+       Desta forma, reitera-se que o uso dos derivados 2-OH PUFAs em medicamentos para
+tratar Alzheimer ora pleiteado decorreria de maneira óbvia pra o referido técnico a partir de
+ensinamentos prévios e portanto carece de atividade inventiva, desatendendo ao artigo 13 da LPI.
+
+
+
+
+Conclusão
+
+       Os argumentos, novo quadro reivindicatório e dados adicionais ora apensos não superam
+os questionamentos feitos no exame anterior. Assim sendo, de acordo com o Art. 37, indefiro o
+presente pedido, uma vez que:
+      -      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -      não apresenta suficiência descritiva (Art. 24 da LPI)
+
+      -      as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+             descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                                             Rio de Janeiro, 14 de julho de 2020.
+
+
+
+
+Camila Valentim de Souza Lopes
+Pesquisador/ Mat. Nº 1569130
+DIRPA / CGPAT I/DIFAR-I
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                   Página 5
+

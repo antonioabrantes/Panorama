@@ -1,0 +1,265 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122021006465-2   N.° de Depósito PCT:
+ Data de Depósito:                   10/08/2012
+ Prioridade Unionista:               -
+ Depositante:                        TRANSOCEAN SEDCO FOREX VENTURES LIMITED (KY)
+ Inventor:
+ Título:                             MÉTODO, MÍDIA DE ARMAZENAMENTO E APARELHO PARA
+                                     MEDIÇÃO DE EMISSÕES DE MOTOR A DIESEL
+
+                                                              PARECER
+            Este parecer trata-se de um Pedido Dividido de BR 11 2014 003562-8, depositado em
+10/08/2012.
+
+             O presente pedido de patente de invenção refere-se a um MÉTODO, MÍDIA DE
+ARMAZENAMENTO E APARELHO PARA MEDIÇÃO DE EMISSÕES DE MOTOR A DIESEL. A
+saída das emissões de um motor, tal como um gerador a diesel, pode ser determinada a partir
+da carga no motor e do volume de descarga do motor. Substâncias químicas, tal como óxido de
+nitrogênio (NOx) podem ser calculadas para uma carga medida no motor. O cálculo pode incluir
+determinar um fluxo de ar no motor a partir das medições da pressão do ar e medições da
+velocidade do compressor turbo. O cálculo pode também incluir determinar um fluxo de gás no
+motor derivando o fluxo de combustível de resultados de ensaio conhecidos. A saída calculada
+das emissões pode ser usada para garantir a complacência de um motor com os regulamentos
+ambientais. Um método de monitoramento remoto pode gerar alertas quando o motor falha no
+cumprimento dos regulamentos ambientais.
+
+            O presente pedido de patente foi analisado conforme a Resolução 241/19,
+publicada na Revista de Propriedade Industrial número 2531 de 09/07/2019.
+
+            Foi feito um relatório de busca citando as anterioridades apontadas pelos documentos
+da            família              EP2744991,                   podendo      ser      encontradas         em
+http://ccd.fiveipoffices.org/CCD-2.2.0/html/viewCcd.html?
+num=EP20120824304&format=epodoc&type=application                              na   Revista   de   Propriedade
+Industrial número 2644, publicada em 08/09/2021 no intuito de dar maior celeridade à análise do
+pedido de patente depositado no INPI. Junto ao relatório de busca, consta o parecer que solicita
+juntamente à reformulação do quadro reivindicatório, as vias indicando as modificações
+realizadas, assim como novas vias do relatório descritivo, resumo e desenhos, corrigindo
+possíveis erros de tradução ou digitação.
+
+            Nesse relatório de busca foram apontados três (3) documentos de especial relevância:
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                            Página 1
+                                         BR122021006465-2
+
+            D1.US5639957 A 17/06/1997: de relevância N;
+
+            D2.EP1717570 A1 02/11/2006: de relevância N e
+
+            D3.US6378296 B1 30/04/2002: de relevância N.
+
+        Em 07/12/2021, por meio da petição RJ 870210113709, o Depositante apresentou
+argumentações e modificações [novas vias do relatório descritivo (15 páginas), do quadro
+reivindicatório com 21 reivindicações (5 páginas), dos desenhos (7 páginas) e do resumo (1
+página) ] no pedido em resposta ao parecer emitido no âmbito da Resolução Nº 241/19,
+notificado na RPI 2644 de 08/09/2021 segundo a exigência do exame preliminar (6.21).
+
+        O primeiro relatório de exame técnico teve sua notificação publicada na RPI n°
+2687 de 05/07/2022. Nesse relatório foi apontado que o presente pedido de patente de
+invenção não atendia ao Artigo 6º da LPI.
+
+        Por meio da petição RJ 870220089524 de 29/09/2022, o requerente cumpriu
+satisfatoriamente as exigências formuladas no parecer técnico notificado na RPI n° 2687
+de 05/07/2022, dentro do prazo legal para a resposta, apresentando nova via do quadro
+reivindicatório com 13 reivindicações (4 páginas) aceita e utilizada no exame.
+       Não houve alteração do título do presente pedido de patente de invenção pelo
+requerente.
+
+
+
+                           Quadro 1  Páginas do pedido examinadas
+           Elemento                     Páginas              n.o da Petição           Data
+
+Relatório Descritivo                     1 a 15             RJ 870210113709         07/12/2021
+Quadro Reivindicatório                   1a4                RJ 870220089524         29/09/2022
+Desenhos                                 1a7                RJ 870210113709         07/12/2021
+Resumo                                     1                RJ 870210113709         07/12/2021
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                        x
+O pedido está de acordo com disposto no art. 32 da LPI                         x
+Comentários/Justificativas
+
+         O novo quadro reivindicatório modificado submetido para exame foi aceito, uma vez
+que as alterações efetuadas limitam-se à matéria inicialmente revelada e atendem ao objetivo de
+
+                                                                                         Página 2
+                                             BR122021006465-2
+
+melhor esclarecer ou definir a matéria objeto de proteção, atendendo, portanto, ao disposto no
+Artigo 32º da Lei nº 9.279/96 (LPI).
+
+         O primeiro parecer técnico apontou que:
+
+                                         A presente análise foi feita no único quadro válido do
+                                       presente pedido dividido. Inicialmente observou-se que temos
+                                       os seguintes grupos de reivindicações:
+
+                                              Grupo 1: método (reivindicações 1 a 10);
+
+                                              Grupo 2: mídia (reivindicações 11 a 15) e
+
+                                              Grupo 3: aparelho (reivindicações 16 a 21).
+
+                                         Observou-se que os grupos 1 a 3 têm o mesmo escopo do
+                                       reivindicado no pedido original conforme tabela abaixo. Desse
+                                       modo, conforme o Art. 6º da LEI Nº 9.279, DE 14 DE MAIO
+                                       DE 1996 (LPI): Ao autor de invenção ou modelo de utilidade
+                                       será assegurado o direito de obter a patente que lhe garanta
+                                       a propriedade, nas condições estabelecidas nesta Lei. E,
+                                       ademais, segundo a Instrução Normativa nº 30/2013 Art. 18º:
+                                       Não poderá ser dividido o pedido que contiver apenas
+                                       uma invenção ou um único modelo de utilidade se a
+                                       divisão implicar em mutilação ou dupla proteção da
+                                       invenção ou modelo. Resumidamente, o autor terá direto a
+                                       uma patente sob o mesmo escopo de proteção, que é a
+                                       patente original conforme despacho 16.1 publicado na RPI
+                                       2659 no dia 21/12/2021.
+
+                                         Diante do quadro comparativo, fica evidente que o
+                                       presente pedido contém a mesma invenção do pedido
+                                       original   BR   112014003562-8.       Cabe   pontuar   que   as
+                                       características sublinhadas contidas no pedido dividido, com
+                                       base em uma medição a partir de um quadro de distribuição
+                                       elétrica, estão descritas usando outra terminologia na
+                                       reivindicação 3 do pedido original.
+
+        Na manifestação nomeada RJ 870220089524 de 29/09/2022 feita frente ao primeiro
+parecer técnico, a requerente cita que:
+
+                                              3.141 A análise da existência de dupla proteção em um
+                                       pedido dividido deve ser realizada por meio da comparação
+                                       de seu quadro reivindicatório com o quadro do pedido original
+                                       e com os quadros dos demais pedidos divididos, se existirem.
+
+
+                                                                                               Página 3
+                                           BR122021006465-2
+
+                                      Neste caso, o pedido dividido deve ser indeferido por não
+                                      atender ao disposto no artigo 6º da LPI. (grifo nosso)
+
+            Além disso, a requerente apresenta tabelas comparativas (ver tabelas 1 a 3 da
+respectiva manifestação) do quadro reivindicatório concedido                      versus o quadro
+reivindicatório da petição NPRJ 020140006627, fica evidente para um técnico no assunto
+que se trata da MESMA INVENÇÃO, contudo com escopo ampliado à patente concedida.
+
+            Lembrando que o presente pedido divido tem escopo bem similar à petição de entrada
+do pedido original (ver tabela do primeiro parecer técnico) , na qual teve exigência preliminar
+(6.21) publicada na RPI nº 2559 de 21/01/2020 com três documentos de relevância N (N:
+documento de particular relevância; a invenção reivindicada não pode ser considerada nova
+quando o documento é considerado isoladamente).
+
+            Cabe pontuar, novamente, que segundo a Instrução Normativa nº 30/2013 Art. 18º:
+Não poderá ser dividido o pedido que contiver apenas uma invenção ou um único
+modelo de utilidade se a divisão implicar em mutilação ou dupla proteção da invenção ou
+modelo. Resumidamente, o autor terá direto a uma patente sob o mesmo escopo de proteção,
+que é a patente original conforme despacho 16.1 publicado na RPI 2659 no dia 21/12/2021.
+
+
+
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                               Sim                Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI          x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI        x
+Comentários/Justificativas
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                 Data de publicação
+   ------                                    ------                                          ------
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                    Cumprimento            Reivindicações
+                                                          Sim                      1 a 13
+              Aplicação Industrial
+                                                         Não                        ------
+                                                          Sim                       ------
+                   Novidade
+                                                         Não                        ------
+
+                                                          Sim                       ------
+              Atividade Inventiva
+                                                         Não                        ------
+
+                                                                                                  Página 4
+                                         BR122021006465-2
+
+
+
+Comentários/Justificativas
+
+         O primeiro parecer técnico apontou que:
+
+                                          O presente pedido dividido não atende ao Art. 6º da LEI
+                                     Nº 9.279, DE 14 DE MAIO DE 1996 (LPI), caracterizando
+                                     dupla proteção, com isso, os requisitos de novidade e
+                                     patenteabilidade     não     foram       analisados   para    essas
+                                     reivindicações.
+
+        Na manifestação RJ 870220089524 de 29/09/2022 feita frente ao primeiro parecer
+técnico, o quadro reivindicatório continua sem atender ao Artigo 6º da LPI. Com isso, repete-se a
+mesma conclusão anterior que o presente pedido dividido não atende ao Art. 6º da LEI Nº
+9.279, DE 14 DE MAIO DE 1996 (LPI), caracterizando dupla proteção, com isso, os
+requisitos de novidade e patenteabilidade não foram analisados para essas reivindicações
+
+        Cabe     ressaltar     que    cada      patente   nacional        é    concedida     e    vigora
+independentemente das patentes de todos os outros países, de acordo com o Art. 4º bis
+da Convenção de Paris  CUP (Revisão de Estocolmo), que estabelece: as patentes
+requeridas   nos    diversos    países     da    União,   pelos    respectivos       cidadãos,    serão
+INDEPENDENTES das patentes obtidas para a mesma invenção nos outros países, quer
+tenham ou não aderido à União. Assim, a emissão da carta patente é uma decisão de
+âmbito nacional, independendo das decisões tomadas em outros países.
+
+
+
+
+                                                                                                  Página 5
+                                              BR122021006465-2
+
+
+
+       Conclusão
+
+              Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -        as reivindicações incidem na proibição estabelecida no Art. 6º inc. VII da Lei nº 11.105/05
+e/ou no Art. 12 da Lei nº 10.814/03
+
+              De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+       data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                        Publique-se o indeferimento (9.2).
+
+
+
+                                                                    Rio de Janeiro, 10 de janeiro de 2023.
+
+
+
+
+          Daniele Pereira da Silva Dalto
+          Pesquisadora/ Mat. Nº 2383937
+          DIRPA / CGPAT IV/DIMEC
+          Deleg. Comp. - Port. INPI/DIRPA Nº
+          003/19
+
+
+
+
+                                                                                                 Página 6
+

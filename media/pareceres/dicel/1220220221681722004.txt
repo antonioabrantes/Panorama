@@ -1,0 +1,130 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122022022168-8                        N.° de Depósito PCT:
+ Data de Depósito:                   27/10/2010
+ Prioridade Unionista:               -
+ Depositante:                        NEUROVIGIL, INC. (US)
+ Inventor:
+ Título:                             Conjunto para aquisição de dados fisiológicos e método
+
+                                                                PARECER
+
+Em 05/05/2023, por meio da petição 870230037650, a Requerente apresentou modificações no
+pedido em resposta ao parecer emitido, notificado na RPI 2718 de 07/02/2023 (despacho 7.1).
+Estas modificações estão consideradas no Quadro 1.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                   n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 13                   870220100725           31/10/2022
+Quadro Reivindicatório                                   1e2                     870230037650           05/05/2023
+Desenhos                                                 1a3                     870220100725           31/10/2022
+Resumo                                                      1                    870220100725           31/10/2022
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                    Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                          x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                  x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                            x
+O pedido está de acordo com disposto no art. 32 da LPI                                             x
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                    Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                               x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                             x
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                   Página 1
+                                       BR122022022168-8
+
+
+Comentários/Justificativas
+
+       As alegações apresentadas pela Requerente a respeito de que as reivindicações
+apresentadas contém matéria considerada essencial foram ponderadas e aceitas. Retira-se a
+objeção relativa ao não enquadramento do pedido no Art. 25.
+
+
+                         Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                               Data de publicação
+    D1                              US2008082019                                     03/04/2008
+    D2                                WO0230261                                      18/04/2002
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento                Reivindicações
+                                                    Sim                         1-9
+           Aplicação Industrial
+                                                    Não                          -
+                                                    Sim                         1-9
+                Novidade
+                                                    Não                          -
+
+                                                    Sim                          -
+           Atividade Inventiva
+                                                    Não                         1-9
+Comentários/Justificativas
+
+       Em petição 870230037650 de resposta ao parecer de 1º exame técnico, a Requerente
+argumenta que algumas características técnicas das reivindicações apresentadas não seriam
+reveladas pelos documentos de anterioridade, a saber, o posicionamento dos eletrodos ativo e
+de referência em um emplastro de sensor (interpretado como sendo o patch, já que o termo
+emplastro não está presente no relatório descritivo) e de que o transmissor-receptor de RF
+também estaria localizado em um emplastro de sensor, o que não seria o caso dos documentos
+D1 e D2.
+
+       Os argumentos levantados pela Requerente foram analisados e considerados não
+persuasivos, uma vez que o transmissor-receptor de RF contido no modo de aquisição de dados
+fisiológicos 50 está na verdade posicionado dentro do núcleo oco 42 e 44 de acordo com o
+relatório descritivo (parágrafos [0023] e [0028]), não estando localizado em um emplastro de
+sensor tal como alega a Requerente. Além disso, considera-se que o simples fato de que o
+eletrodo ativo e o de referência estarem posicionados em um mesmo patch não configura
+característica técnica que contribua para a resolução de um problema existente no estado da
+técnica, não sendo o suficiente, portanto, para agregar atividade inventiva ao presente pedido.
+
+
+
+
+                                                                                           Página 2
+                                       BR122022022168-8
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não
+atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                               Rio de Janeiro, 26 de maio de 2023.
+
+
+
+
+Bruna Marques Mazoco
+Pesquisador/ Mat. Nº 2316562
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 001/18
+
+
+
+
+                                                                                          Página 3
+

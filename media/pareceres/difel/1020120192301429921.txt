@@ -1,0 +1,183 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102012019230-6           N.° de Depósito PCT:
+ Data de Depósito:                   01/08/2012
+ Prioridade Unionista:               -
+ Depositante:                        Instituto Federal de Educação, Ciência e Tecnologia da Bahia - IFBA
+                                     (BRBA)
+ Inventor:                           Handerson Jorge Dourado Leite, Josemir da Cruz Alexandrino,
+                                     Marcus Vinicius Teixeira Navarro, Ruy Câmara Brandão, Hugo
+                                     Antonio Nunes Silva, Claudio Reynaldo Barbosa de Souza
+ Título:                             Analisador de unidades eletrocirúrgicas 
+
+                                                              PARECER
+O presente pedido de Patente de Invenção se enquadra no âmbito da Portaria INPI/PR nº 412, de
+23/12/2020, estabelecida no Plano de Ataque ao Backlog de Patentes elaborado pela
+DIRETORA DE PATENTES, PROGRAMAS DE COMPUTADOR E TOPOGRAFIAS DE
+CIRCUITOS INTEGRADOS do INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+(DIRPA).
+
+Por meio dos atos normativos para execução do referido plano, a Administração do INPI avoca a
+responsabilidade sobre os procedimentos adotados no presente exame técnico.
+
+O pedido refere-se a um analisador de unidades eletrocirúrgicas de alta frequência que tem a
+função principal de realizar a verificação do desempenho de unidades eletrocirúrgicas, utilizando
+um mecanismo que é responsável por fazer a medição de grandezas elétricas (corrente de
+paciente e de fuga, potência, tensão e fator de crista) associadas aos sinais gerados por estas
+unidades. O analisador de unidades eletrocirúrgicas de alta frequência é formado por um circuito
+que compreende os seguintes elementos: Rede resistiva; Elemento sensor; Circuito de
+condicionamento; Conversor analógico-digital; Microcontrolador; Interface homem-máquina (6);
+Interface de comunicação com o computador.
+
+Em 07/04/2021, por meio da petição 870210031709 a Requerente manifestou-se e apresentou
+argumentações em resposta ao parecer emitido no âmbito da Portaria/INPI/PR N° 412/2020,
+notificado na RPI 2611 de 19/01/2021 (despacho 7.1). A Requerente apresentou também um novo
+Quadro Reivindicatório, reformulado, com 6 reivindicações, novas vias do Relatório Descritivo,
+desenhos e Resumo.
+
+Para fins de continuidade do exame estão sendo consideradas as vias abaixo:
+
+                                      Quadro 1  Páginas do pedido examinadas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                       Página 1
+                                          BR102012019230-6
+
+
+            Elemento                     Páginas                n.o da Petição           Data
+
+Relatório Descritivo                   1/16 a 16/16             870210031709           07/04/2021
+Quadro Reivindicatório                   1/3 a 3/3              870210031709           07/04/2021
+Desenhos                                    1/1                 870210031709           07/04/2021
+Resumo                                      1/1                 870210031709           07/04/2021
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                   Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)               x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                 x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                           x
+O pedido está de acordo com disposto no art. 32 da LPI                            x
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                   Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI              x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                      x
+Comentários/Justificativas
+A Requerente novamente, não apresenta claramente a invenção, focando mais em explanar seus
+resultados, usos e vantagens, sem revelar onde se encontra o cerne da invenção para avaliar sua
+atividade inventiva. A Requerente usou praticamente 12 das 16 páginas do relatório reportando o
+estado da técnica. A descrição somente se inicia ao final da página 12/16. Os trechos de mero
+uso, explicações e/ou vantagens da invenção, que deveriam estar restritos ao relatório descritivo
+(Instrução Normativa nº 30/2013  Art. 2º (V) e Art. 4º (VIII)). Isto já foi apontado no parecer
+anterior.
+A reivindicação permanece sem preâmbulo e descreve uma sucessão de elementos do estado da
+técnica, também já apontado no parecer anterior, e permanece sem ressaltar as características
+que se julgaria inventivas na caracterização da reivindicação.
+Da redação final da reivindicação independente, não se consegue identificar quais são as
+característica inovadoras da patente a ser concedida.
+A Requerente não saneou as inconsistências apontadas no parecer anterior. O pedido permanece
+em confronto com o disposto no Artigo 25 da LPI.
+A reivindicação 1 contém expressões como software embarcado, as quais resultam na falta de
+clareza e precisão da matéria reivindicada, pois podem ser associadas equivocadamente ao
+programa de computador em si a que se refere o Art. 10 (V), contrariando o disposto no Art. 25
+da LPI e na Instrução Normativa nº 30/2013  Art. 4º (III).
+
+
+
+                                                                                            Página 2
+                                         BR102012019230-6
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                                 Documento                                Data de publicação
+    D1                             US2009/0248007A1                                   01/10/2009
+    D3                                  US6251106B1                                   26/06/2001
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade              Cumprimento                  Reivindicações
+                                                      Sim                          1a6
+           Aplicação Industrial
+                                                      Não                           ----
+                                                      Sim                          1a6
+                 Novidade
+                                                      Não                           ----
+
+                                                      Sim                           ----
+           Atividade Inventiva
+                                                      Não                          1a6
+Comentários/Justificativas
+
+A Requerente reformulou a reivindicação 1 sem revelar onde estão os elementos inventivos, que
+se distinguem da matéria conhecida. Praticamente todos os elementos descritos são conhecidos
+de equipamentos cirúrgicos e já foi apontado no parecer anterior, como rede resistiva, sensor,
+conversor A/D, conversor A/D, condicionador, processador, interface homem-máquina. Isto já foi
+explanado no parecer anterior. A característica que se diferenciaria seria unicamente a rede
+resistiva simulando diferentes tipos de tecido incluindo o fator de crista. Porém este tipo de
+simulação é implícito em muitos equipamentos, como já exposto em D1 ([0188]), onde o circuito
+do relé de D1 também contém um circuito analisador de rede de baixa tensão usado para medir
+a impedância da ferramenta antes que a energia de RF seja ligada. O circuito mede a
+impedância e o ângulo de fase do tecido. D1 inclui vários sensores de corrente ([0182]; [0183]),
+inclui-se medição de corrente de fuga ([0187]), dentre muitos outros procedimentos. O fator de
+crista, embora não citado em D1, seria óbvio para um técnico no assunto de posse de D1. E, de
+todo modo, D3 se refere a medição do fator de crista (col. 5, lin. 56-col. 6, lin 4) e deixa implícito
+que tal procedimento pertence ao estado da técnica (col. 2, lin. 20-24). Assim, reitera-se a
+conclusão do parecer anterior, que apontou os documentos D1 e D3 como antecipatórios e
+destituem a matéria de atividade inventiva.
+
+Conclusão
+
+Conclui-se que a o pedido, através da reivindicação 1, não apresenta características inventivas e
+sofre de falta de clareza em determinar as características que deseja proteger.
+Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+
+                                                                                              Página 3
+                                      BR102012019230-6
+
+
+
+
+De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da data
+de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 2 de junho de 2021.
+
+
+
+
+Peter Michael Beer
+Pesquisador/ Mat. Nº 1547227
+DIRPA / CGPAT III/DIFEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+022/12
+
+
+
+
+                                                                                        Página 4
+

@@ -1,0 +1,192 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0924189-2                  N.° de Depósito PCT:DE2009/000014
+ Data de Depósito:                   07/01/2009
+ Prioridade Unionista:               -
+ Depositante:                        Magnetic Autocontrol GMBH (DE) , L-1 Identity Solutions AG (DE)
+ Inventor:                           Lothar Lais, Norbert Wendt, Martin Werner, Dirk Homberg, Michael
+                                     Brauckmann
+ Título:                             Dispositivo para o controle da passagem de pessoas 
+
+                                                                PARECER
+
+
+          O presente pedido de patente de invenção sofreu ciência de parecer (7.1) conforme
+publicação na RPI n° 2514 de 12 de março de 2019, tendo se manifestado acerca do conteúdo
+do parecer via petição nº 870190053191 de 11/06/2019. Em sua manifestação, a requerente
+apresentou nova via do quadro reivindicatório, e alguns contra-argumentos relativos ao parecer
+denegatório de privilégio. Para fins de continuidade do exame estão sendo consideradas as vias
+abaixo.
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-11               020110071162           06/07/2011
+Quadro Reivindicatório                                     1-3               870190053191           11/06/2019
+Desenhos                                                   1-3               020110071162           06/07/2011
+Resumo                                                      1                020110071162           06/07/2011
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                                 PI0924189-2
+
+
+
+
+                  Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                    Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI               x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI             x
+Comentários/Justificativas
+
+
+
+
+                                Quadro 4  Documentos citados no parecer
+
+ Código                                     Documento                                   Data de publicação
+     D1                                     WO9906928                                       11/02/1999
+
+     D2                                     EP1241633                                       18/09/2002
+
+     D3                                     EP1990777                                       12/11/2008
+
+
+     Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+        Requisito de Patenteabilidade                   Cumprimento               Reivindicações
+                                                            Sim                          1-18
+             Aplicação Industrial
+                                                            Não                           --
+                                                            Sim                          1-18
+                    Novidade
+                                                            Não                           --
+                                                            Sim                           --
+              Atividade Inventiva
+                                                            Não                          1-18
+
+
+
+Comentários/Justificativas
+
+
+          Com relação à análise dos requisitos de patenteabilidade, o depositante se manifestou
+defendendo que a matéria reivindicada cumpre os requisitos de patenteabilidade. Dentre os
+principais argumentos trazidos pelo depositante, destacam-se:
+          A requerente alega que a nova reivindicação 1 agora difere do documento D1 por todas
+as características da reivindicação 2 original.
+          Discorda-se da requerente, conforme dito no parecer anterior D1 antecipa as seguintes
+características: o fato da saída ser fechada por um portal de saída que abre               mediante      um
+sinal     oriundo   de,    ao    menos,    uma    unidade     biométrica,   integrada    no compartimento
+da      eclusa,   para    registrar   características    biométricas   de   uma   pessoa       que pretende
+passar, e pelo fato da unidade biométrica (8) estar disposta frontalmente à entrada para o
+
+
+
+
+                                                                                                    Página 2
+                                                PI0924189-2
+
+
+compartimento da eclusa (3), conforme pode ser observado na página 3 linhas 27-29, na página
+9 linhas 25-33, no resumo e nas figuras 1a,1b, 7-8b e 9c.
+       Na nova reivindicação foi adicionado: caracterizado pelo fato de que o portal de saída (5) do
+compartimento da eclusa (3), de forma conhecida, consiste ao menos em uma asa giratória (5) e a
+unidade biométrica (8) está integrada na pelo menos uma asa giratória (5). 
+       Conforme dito no parecer anterior, o documento D2 já revela o fato de que o registrador e
+o display estão integrados na asa giratória da porta de saída, do compartimento de eclusa,
+conforme pode ser observado na figura 17 e no parágrafo 0118. Portanto é óbvio para um
+técnico no assunto combinar os dois documentos para alcançar as características reivindicadas.
+       Desta forma, a reivindicação 1 não apresenta atividade inventiva e não atende ao
+disposto nos artigos 8° e 13 da LPI.
+
+
+       Com relação a combinação de documentos, a requerente alega que a integração da
+unidade biométrica de D2 com o mecanismo de fecho 122 da eclusa do documento D1, a
+unidade de      detecção biométrica       não    ficaria mais localizada frontalmente em relação à
+entrada da câmara de eclusa, devido à passagem de eclusa angulada.
+       Discorda-se da requerente, a variação do ângulo da eclusa e considerada óbvia por
+qualquer técnico no assunto, sendo facilmente alterada para um posicionamento frontal.
+Inclusive o próprio posicionamento do do registrador e do display, que podem ser facilmente
+alterados por um técnico no assunto conforme observado nas figuras 17 e 18 de D2, com a
+montagem na porta ou próximo a porta.
+
+
+       Reavaliando a nova reivindicação a partir das alegações trazidas pelo depositante,
+entendo que tais alegações não são suficientes para superar as objeções referentes à falta de
+atividade inventiva da matéria reivindicada.
+
+
+       A nova reivindicação independente 1 incorporou o conteúdo da antiga reivindicação 2,
+sem mudanças significativas no conteúdo reivindicado. Mesmo assim, a reivindicação não
+atende ao requisito de atividade inventiva, pois todas as características pleiteadas decorrem de
+modo óbvio e evidente para um técnico no assunto a partir de uma combinação dos
+ensinamentos presentes nos documentos D1 e D2, pelos mesmos argumentos apresentados no
+parecer anterior.
+
+       Portanto, a partir da análise dos documentos D1 e D2 prossigo com o entendimento que
+a matéria pleiteada nas reivindicações não atende ao requisito atividade inventiva e não atende
+ao disposto no artigo 13 da Lei nº 9.279/96 (LPI) e não é patenteável por infringir o artigo 8º do
+mesmo dispositivo legal.
+
+
+       A requerente não apresenta consistência em suas argumentações, a matéria pleiteada
+não contempla efeitos técnicos que não tenham sido previstos pelo estado da técnica, e
+consequentemente descumprindo o disposto nos artigos 8º e 13 da LPI
+
+
+
+                                                                                             Página 3
+                                           PI0924189-2
+
+
+Conclusão
+
+
+       Portanto, analisando a contestação da requerente e face ao exposto acima, conclui-se
+que a matéria reivindicada no presente pedido de invenção decorre de forma óbvia do estado da
+técnica a partir dos documentos D1 e D2.
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      - não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                           Rio de Janeiro, 01 de outubro de 2019.
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+
+Reginaldo Rocha da Silva
+Pesquisador/ Mat. Nº 1690865
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº
+008/13
+
+
+
+
+                                                                                         Página 4
+

@@ -1,0 +1,146 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122019025423-0         N.° de Depósito PCT:
+ Data de Depósito:                   05/11/2012
+ Prioridade Unionista:               JP 2011-243940 (07/11/2011)
+ Depositante:                        CANON KABUSHIKI KAISHA (JP)
+ Inventor:                           KOJI OKAWA
+ Título:                             APARELHO DE CODIFICAÇÃO DE IMAGEM, MÉTODO DE
+                                     CODIFICAÇÃO DE IMAGEM, APARELHO DE DECODIFICAÇÃO DE
+                                     IMAGEM, MÉTODO DE DECODIFICAÇÃO DE IMAGEM E MEIO DE
+                                     ARMAZENAMENTO
+
+                                                                PARECER
+          Em 02/06/2023, por meio da petição 870230047314, a Requerente apresentou
+modificações no pedido em resposta ao parecer emitido, notificado na RPI 2722 de 07/03/2023.
+Estas modificações estão consideradas no Quadro 1.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                    1 a 48               870220058155     01/07/2022
+Quadro Reivindicatório                                   1a4                 870230047314     02/06/2023
+Desenhos                                                1 a 26               870190126078     29/11/2019
+Resumo                                                      1                870220058155     01/07/2022
+
+
+         A requerente argumenta:
+         As reivindicações do pedido BR122019025425-7 definem um (n-1)- ésimo e um n-ésimo
+          parâmetro de quantização enquanto as reivindicações do presente pedido requerem
+          especificamente o primeiro parâmetro de quantização e o segundo parâmetro de
+          quantização. Por outro lado, as reivindicações do pedido BR122019025425-7 requerem
+          uma unidade de aquisição ou uma unidade de codificação, o que não é requerido pelas
+          atuais reivindicações
+
+
+
+         Concluímos que as reivindicações do pedido BR122019025425-7 englobam as
+          reivindicações do presente pedido.
+         Portanto, não concordamos com a argumentação da requerente presente na petição
+          [BR122019025423-0] (petição nº [870230047314] de 02/06/2023).
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                           BR122019025423-0
+
+                                          maio de 1996  LPI
+Artigos da LPI                                                           Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                       x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   x
+O pedido está de acordo com disposto no art. 32 da LPI                    x
+Comentários/Justificativas
+
+
+
+                Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+    Código                               Documento                             Data de publicação
+                                               --
+
+
+      Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade                Cumprimento          Reivindicações
+                                                         Sim                     --
+             Aplicação Industrial
+                                                         Não                     --
+                                                         Sim                     --
+                  Novidade
+                                                         Não                     --
+
+                                                         Sim                     --
+             Atividade Inventiva
+                                                         Não                     --
+
+
+
+Comentários/Justificativas
+
+       No pedido [BR122019025423-0], a matéria das reivindicações independentes [1 até 6] do
+quadro reivindicatório do presente pedido [BR122019025423-0] (petição nº [870230047314] de
+02/06/2023) trata da mesma matéria das reivindicações independentes [1 até 6] do quadro
+reivindicatório do pedido [BR122019025425-7] (petição nº [870220120098] de 20/12/2022),
+
+
+
+                                                                                          Página 2
+                                               BR122019025423-0
+
+       respectivamente. Assim, há uma evidente duplicidade das referidas matérias, que pode vir a
+       infringir o disposto no Art. 6º da LPI em caso de deferimento de ambos os pedidos.
+
+               De acordo com a Resolução PR INPI nº 124/2013, o procedimento de divisão de um
+       pedido de patente não deve ter como consequência a replicação ou a multiplicação da matéria
+       reivindicada (item 3.138). Adicionalmente, para a mesma matéria reivindicada não devem ser
+       concedidas duas patentes (item 3.140). Na hipótese do pedido dividido não atender ao Art. 6º da
+       LPI, o pedido dividido é passível de indeferimento (itens 3.141 e 3.142).
+
+
+
+       Conclusão
+
+      -        as reivindicações incidem na proibição estabelecida no Art. 6º inc. VII da Lei nº 11.105/05
+e/ou no Art. 12 da Lei nº 10.814/03
+
+              De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+       data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                         Publique-se o indeferimento (9.2).
+
+
+
+                                                                   Rio de Janeiro, 16 de outubro de 2023.
+
+
+
+
+          Rodrigo Cesar Almeida de Carvalho
+          Pesquisador/ Mat. Nº 2390500
+          DIRPA / CGPAT III/DICEL
+          Deleg. Comp. - Port. INPI/DIRPA Nº
+          002/22
+
+
+
+
+                                                                                                  Página 3
+

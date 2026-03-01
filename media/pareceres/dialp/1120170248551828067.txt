@@ -1,0 +1,302 @@
+                              SERVIÇO PÚBLICO FEDERAL
+          MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                   INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR112017024855-7         N.° de Depósito PCT: US2016/033043
+ Data de Depósito:     18/05/2016
+ Prioridade Unionista: US 62/165,690 (22/05/2015); US 62/166,616 (26/05/2015); US
+                       62/168,415 (29/05/2015)
+ Depositante:          DUPONT NUTRITION BIOSCIENCES APS (DK)
+ Inventor:             JACOB FLYVHOLM CRAMER; LENE BOJSEN JENSEN; ANJA
+                       HEMMINGSEN KELLETT-SMITH; BJARNE LARSEN
+ Título:               Métodos de produção de aldc 
+
+                                                              PARECER
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                           x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)            x
+
+O pedido refere-se a Sequências Biológicas                                                             x
+
+Comentários/Justificativas
+
+        O presente pedido refere-se a expressão heteróloga de acetolactato descarboxilase ALDC
+de Bacillus brevis em uma célula hospedeira de Bacillus subtilis contendo deleções dos genes que
+codificam proteases. Refere-se também ao método para a produção de ALDC utilizando a dita
+célula hospedeira.
+      Do acesso ao patrimônio genético nacional - A depositante apresentou voluntariamente através da
+petição 870170089518 de 21/11/2017 a seguinte Declaração: Declaração Negativa de Acesso -
+Declaro que o objeto do presente pedido de patente de invenção não foi obtido em decorrência de
+acesso à amostra de componente do Patrimônio Genético Brasileiro, o acesso foi realizado antes de 30
+de junho de 2000, ou não se aplica..
+
+        Das sequências biológicas - Através da petição 870240019679 de 07/03/2024, a depositante
+apresentou a Listagem de sequências em formato eletrônico.
+        Em resposta a exigência 6.21, cuja notificação foi publicada na RPI 2559 de 21/01/2020
+para fins de manifestação da depositante quanto as anterioridades citadas em análises em
+escritório de patentes de outros países, a depositante apresentou, através da petição
+870200044952 de 08/04/2020, novas vias do relatório descritivo, do resumo, nova proposta de
+quadro reivindicatório contendo 12 reivindicações e esclarecimentos.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                 Página 1
+                                          BR112017024855-7
+
+       Em parecer técnico anterior foi formulada a ciência de parecer com despacho 7.1 ao
+presente pedido cuja notificação foi publicada pela RPI 2763 de 19/12/2023.
+       Através da petição 870240019679 de 07/03/2024 a depositante apresentou novas
+vias do relatório descritivo, do resumo e da listagem de sequências em formato
+eletrônico e nova proposta de quadro reivindicatório contendo 25 reivindicações e
+esclarecimentos.
+                            Quadro 1  Páginas do pedido examinadas
+           Elemento                       Páginas               n.o da Petição            Data
+Relatório Descritivo                       1 a 81               870240019679         07/03/2024
+Listagem de sequências em
+                                              -                          -                  -
+formato impresso
+Listagem de sequências*            Código de Controle           870240019679         07/03/2024
+Quadro Reivindicatório                     1a6                  870240019679         07/03/2024
+Desenhos                                   1a6                  870170089518         21/11/2017
+Resumo                                       1                  870240019679         07/03/2024
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+     CD46191A268B966D (Campo 1) e 4B32B01FAFC99EF5 (Campo 2).
+
+
+      Em sua manifestação, a depositante alega que apresenta um quadro reivindicatório (total
+de 25 reivindicações), mais limitado que o quadro reivindicatório objetado.
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n. o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                               Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                             x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                     x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                          x
+O pedido está de acordo com disposto no art. 32 da LPI                           x
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                               Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                            x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                          x
+Comentários/Justificativas
+
+     Do art. 24 da LPI
+
+
+
+
+                                                                                                Página 2
+                                         BR112017024855-7
+
+
+          1- O relatório descritivo do presente pedido não descreve suficientemente a invenção de
+forma a possibilitar sua realização por um técnico no assunto, contrariando o disposto no Art. 24
+da LPI.
+          Em sua manifestação, a depositante cita em sua manifestação as tabelas 4 e 5 do
+relatório descritivo mostram que a exclusão de 7 proteases proporciona melhor estabilidade de
+ALDC do que 2 ou 5 exclusões de protease.
+          Conforme discutido anteriormente, o relatório descritivo do presente pedido cita cepas
+contendo 2, 5 e 7 deleções de genes que codificam proteases. Relata que a cepa de B subtilis
+contendo um construto do gene aldB de Bacillus brevis e o peptídeo de sinalização aprE de B
+subtilis e 7 deleções de genes que codificam proteases resultou na forma completa de ALDC e
+na atividade específica melhorada da enzima. Define que a cepa contendo 2 deleções são
+refentes a deleção de vpr e wprA e que essas duas deleções estão presentes nas cepas
+contendo 5 e 7 deleções, porém não foi observado quais são os outros genes deletados nessas
+cepas. Conforme discutido anteriormente, na linhagem com 2 e 5 deleções do exemplo 5 do
+presente pedido não foi obtida a melhora na estabilidade e atividade de ALDC. O relatório
+descritivo não ensina, portanto, que qualquer combinação de deleções dos genes de proteases
+alcançam os fenótipos pretendidos. Tais resultados demonstram que a definição das deleções é
+uma característica essencial da linhagem desenvolvida no presente pedido.
+
+          Dessa forma, persiste o fato de que as cepas contendo 5 e 7 deleções não foram
+devidamente descritas, isto é, não existe informação das outras deleções, além da deleção dos
+genes vpr e wprA, que seriam responsáveis pelo fenótipo observado na cepa de Bacillus capaz
+de produzir de ALDC com estabilidade e atividade melhorada.
+
+
+
+          2- As reivindicações 1 e 17 não atendem ao disposto no Art. 25 da LPI e na Instrução
+Normativa nº 30/2013  Art. 4º (III) e (IV), pois as matérias pleiteadas não estão definidas de
+maneira clara e precisa e não estão fundamentadas no relatório descritivo do pedido pelas
+seguintes razões:
+
+          A reivindicação 1 define que é fornecido uma célula hospedeira de Bacillus tendo 7
+genes de protease endógenos deletados, em que 3 dos referidos genes deletados
+compreendem uma alteração genética que faz com que a referida célula hospedeira produza
+uma quantidade diminuída de vpr, IspA wprA sendo que a dita alteração genética é a deleção do
+gene IspA, que as proteases endógenas são selecionadas doo grupo que consiste em: IspA,
+Bpr, NprE, AprE, Vpr, (WprA), ampS, aprX, bpf, clpCP, clpEP, clpXP, codWX, lonA, lonB, nprB,
+map, mlpA, mpr, pepT, pepF , dppA, yqyE, tepA, yfiT, yflG, ymfF, ypwA, yrrN, yrrO e ywaD.
+
+          Tendo em vista que o presente pedido não descreve suficientemente a cepa contendo 7
+deleções de genes de proteases, em que foi verificada a expressão da forma completa de ALDC
+com atividade específica melhorada de acordo com o art. 24 da LPI, a nova reivindicação 1 não
+está devidamente fundamentada no relatório descritivo contrariando o art. 25 da LPI.
+
+
+
+
+                                                                                          Página 3
+                                        BR112017024855-7
+
+
+         Pelas mesmas razões discutidas para a reivindicação 1, a reivindicação 17 de célula
+hospedeira de Bacillus não está devidamente fundamentada no relatório descritivo contrariando
+o art. 25 da LPI.
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                                 Data de publicação
+    D1       CN101948821 (traduzido por máquina)                                    19/01/2011
+    D6       WU SAU-CHING ET AL, "Functional production and                               2002
+             characterization of a fibrin-specific single-chain antibody
+             fragment from Bacillus Subtilis: Effects of molecular chaperones
+             and a wall-bound protease on antibody fragment production",
+             APPLIED        AND      ENVIRONMENTAL          MICROBIOLOGY,
+             AMERICAN SOCIETY FOR MICROBIOLOGY, US, vol. 68, no.
+             7, ISSN 0099-2240, pages 3261  3269.
+             http://dx.doi.org/10.1128/AEM.68.7.3261-3269.2002
+
+
+Comentários/Justificativas
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento                Reivindicações
+                                                    Sim                          1 a 25
+            Aplicação Industrial
+                                                    Não                         nenhuma
+                                                    Sim                          1 a 25
+                    Novidade
+                                                    Não                         nenhuma
+                                                    Sim                         nenhuma
+            Atividade Inventiva
+                                                    Não                          1 a 25
+Comentários/Justificativas
+
+     Em sua manifestação, quanto a falta de atividade inventiva da matéria reivindicada, a
+depositante alega que:
+      - a invenção definida nas reivindicações apensas é inventiva frente as referências citadas
+CN101948821 (D1) e Wu Sau-Ching et al., 2002 (D2);
+     - as Tabelas 4 e 5 do relatório descritivo mostram que a exclusão de 7 proteases
+proporciona melhor estabilidade de ALDC do que 2 ou 5 exclusões de protease. Tal efeito não
+poderia ser esperado pelo técnico no assunto a partir das referências citadas. Sequer
+encontraria o técnico no assunto motivação para propor todas as características técnicas
+definidas nas reivindicações independentes apensas visando fornecer melhor estabilidade de
+ALDC; e que
+     - não há nas referências citadas qualquer ensinamento que motive um técnico no assunto
+a implementar as características distintivas da presente invenção nos termos do item 5.20 da
+
+
+
+                                                                                             Página 4
+                                          BR112017024855-7
+
+
+Resolução nº 169/2016 ou que forneça qualquer expectativa de sucesso em obter o efeito
+técnico inesperado demonstrado pela mesma.
+
+     Em análise feita, com base na matéria ora reivindicada, documentos citados, parecer técnico
+anterior e esclarecimentos da depositante, constatou-se que:
+     Conforme discutido anteriormente, D1 relata um método para a produção de acetolactato
+descarboxilase usando uma linhagem de Bacillus Subtilis [0010]. Relata que a expressão de
+acetolactato descarboxilase de Bacillus brevis que inclui um promotor que inicia a expressão do
+gene em B. Subtilis e um peptídeo sinal que secreta eficientemente a proteína em B. Subtilis.
+Define que a célula hospedeira de B. Subtilis pode ser derivado da linhagem 168 como a linhagem
+1A751, WB600 ou WB800 (ver §s [0013], [0014], [0015] e [0016] e D6 descreve a linhagem
+WB800 de B. Subtilis que possui deficiências para 8 proteases (nprE, aprE, epr, bpr, mpr, nprB,
+vpr e wprA) (ver Tabela 1) e é citada no presente parecer como referência da linhagem WB800
+utilizada em D1.
+     D1 não relata a modificação para reduzir a quantidade de uma enzima intracelular
+importante serina-protease endógena (IspA), no entanto, não está claro que essa característica é
+responsável pelo efeito biológico observado na cepa contendo 7 deleções das Tabelas 4 e 5. De
+acordo com o discutido em parecer anterior, apesar de o presente pedido demonstrar uma
+linhagem contendo supostamente 7 deleções de proteases que produziu ALDC com estabilidade e
+atividade melhorada, não apresenta a definição das deleções incluídas nessa linhagem além da
+deleção de vpr e wprA. Não foi demonstrado qual a combinação de deleção alcança o efeito
+biológico observado nas tabelas 4 e 5 ou que qualquer combinação de 7 deleções alcançaria os
+ditos efeitos biológicos. Conforme discutido anteriormente, na linhagem com 2 e 5 deleções do
+exemplo 5 do presente pedido não foi obtida a melhora na estabilidade e atividade de ALDC. Tais
+resultados demonstram que a definição das deleções é uma característica essencial da linhagem
+desenvolvida no presente pedido. Então, tendo em vista que o presente pedido não define as
+deleções na linhagem de Bacillus com 7 deleções que produziu ALDC com estabilidade e
+atividade melhorada, a combinação aleatória de deleções de proteases não pode ser considerada
+inventiva tendo em vista que o estado da técnica já relatava uma linhagem contendo deleções de
+8 proteases para a produção de acetolactado descarboxilase usando B. Subtilis. A utilização das
+sequências 2, 3, 5, 7 e 8 de ALDC também não parece ser suficiente para conferir atividade
+inventiva a matéria reivindicada tendo em vista que D1 já relatava sequências de B. brevis.
+     Dessa forma, permanece o fato de que não é possível reconhecer atividade inventiva para
+as matérias da reivindicação 1 de método para produzir uma enzima acetolactato descarboxilase
+(ALDC) e da reivindicação 17 de célula hospedeira de Bacillus uma vez que D1 já ensinava a
+produção de ALDC de Bacillus brevis em Bacillus Subtilis contendo deficiências de 8 proteases.
+Portanto, as matérias das reivindicações 1 e 17 não são passíveis de proteção de acordo com o
+art. 8º combinado com o art. 13 da LPI.
+
+
+
+
+                                                                                         Página 5
+                                        BR112017024855-7
+
+     As matérias das reivindicações dependentes 2 a 16, e 18 a 25 não apresentam nenhuma
+peculiaridade capaz de conferir atividade inventiva a matéria reivindicada. Deste modo, as
+reivindicações 2 a 16, e 18 a 25 não são passíveis de proteção de acordo com o art. 8º combinado
+com o art. 13 da LPI.
+
+
+Conclusão
+
+       A depositante não apresentou modificações e argumentos considerados pertinentes,
+permanece o fato de que o presente pedido não é passível de proteção de acordo com o art. 24,
+o art. 25, o art. 8º combinado com o art. 13 da LPI.
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   não apresenta suficiência descritiva (Art. 24 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                   Publique-se o indeferimento (9.2).
+
+
+
+                                                                  Rio de Janeiro, 15 de abril de 2024.
+
+
+
+
+Sandra Toshico Tahara
+Pesquisador/ Mat. Nº 1359981
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                             Página 6
+

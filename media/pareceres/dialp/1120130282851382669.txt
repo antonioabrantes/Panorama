@@ -1,0 +1,505 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR112013028285-1           N.° de Depósito PCT: US2012/036123
+ Data de Depósito:     02/05/2012
+ Prioridade Unionista: US 61/482,009 (03/05/2011); US 61/528,484 (29/08/2011); US
+                       61/564,551 (29/11/2011); US 61/582,881 (04/01/2012)
+ Depositante:          IMMUNOVATIVE THERAPIES, LTD. (IL)
+ Inventor:             MICHAEL HAR-NOY
+ Título:               Indução de il-12 usando imunoterapia 
+
+                                                              PARECER
+           O presente pedido refere-se a composições e métodos que levam a níveis detectáveis de
+IL-12 no plasma de um paciente.
+
+          Quanto à exigência preliminar (RPI nº 2542, de 24/09/2019)  Artigo 35 da LPI:
+
+
+           De acordo com o artigo 35 da LPI, incisos I e IV, da Lei nº 9.279, de 1996 (LPI), em
+conformidade com a Resolução INPI/PR N° 241/19, de 03/07/2019, o INPI emitiu parecer de
+Exigência Preliminar, com despacho 6.21, cuja notificação foi publicada pela RPI nº 2542, de
+24/09/2019.
+
+           Por meio da petição nº 870190137193, de 20/12/2019, a depositante apresentou uma
+nova proposta de quadro reivindicatório (total de 15 reivindicações), novas vias do relatório
+descritivo e resumo. Não foram apresentadas argumentações quanto ao estado da técnica
+citado no relatório de busca.
+
+           O presente exame foi realizado sob a orientação da Norma de Execução SEI nº
+7/2019/DIRPA/PR (páginas 1-19), que estabelece os procedimentos de exame após exigência
+preliminar (6.21  Resolução INPI/PR nº 241/2019).
+
+          Quanto ao parecer técnico anterior:
+
+
+           No parecer técnico anterior (RPI nº 2592, de 08/09/2020), o presente pedido foi objetado
+por contrariar os artigos O presente pedido não atende ao disposto nos artigos 8º, 11, 13, 10 (IX),
+24, 25 e 32 da LPI.
+
+           Por meio da petição nº 870200153634, de 07/12/2020, a depositante apresentou
+manifestação ao parecer supracitado e forneceu uma nova proposta de quadro reivindicatório.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                               Página 1
+                                                         BR112013028285-1
+
+
+  Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                                    Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                         x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)                  x
+
+O pedido refere-se a Sequências Biológicas                                                                           x
+
+Comentários/Justificativas
+
+       Quanto ao encaminhamento à ANVISA (art. 229-C da LPI, incluído pela Lei
+        10.196/2001):
+
+       Para fins de atendimento do artigo 229-C da Lei n° 10196/2001, que modificou a Lei n°
+9.279/96 (LPI), e na forma estabelecida pela Portaria Interministerial n° 1065 de 24/05/2012, que
+altera o fluxo de análise para pedidos de patente de produtos e processos farmacêuticos, o
+presente pedido foi encaminhado à ANVISA, com notificação na RPI nº 2455, de 23/01/2018,
+para as providências cabíveis.
+
+       No parecer técnico nº 247/2019/COOPI/GGMED/ANVISA, de 30/04/2019, foi concluído
+que a matéria do presente pedido não está entre aquelas proibidas no país, de acordo com a
+Lista E (Lista de plantas proscritas que podem originar substâncias entorpecentes e/ou
+psicotrópicas) e a Lista F (Lista das substâncias de uso proscrito no Brasil), da Portaria SVS/MS
+n 344, de 12 de maio de 1998, e suas atualizações, de forma que foi sugerida a anuência prévia.
+Assim, por meio do ofício nº 278/2019/COOPI/GGMED/ANVISA, de 13/05/2019, foi solicitado a
+juntada da documentação comprobatória da anuência do presente pedido aos autos do
+processo. Em 02/07/2019, o INPI publicou a notificação da referida anuência na RPI nº 2530.
+
+       Quanto à declaração de acesso ao patrimônio genético nacional:
+
+       Para cumprimento do artigo 47 da Lei nº 13.123/2015, o INPI, na RPI nº 2465, de
+03/04/2019, emitiu uma exigência formal (6.6.1) para a comprovação do cadastramento e/ou
+autorização de acesso ao Patrimônio Genético Nacional e/ou Conhecimento Tradicional
+Associado, quando pertinente, no prazo de 60 dias a contar da publicação na Revista Eletrônica
+da Propriedade Industrial (RPI). Cabe ressaltar que a depositante não apresentou resposta à
+exigência supracitada.
+
+       A Procuradoria Federal Especializada junto ao INPI (PFE-INPI) no Parecer nº
+00001/2018/PROCGAB/PFE-INPI/PGF/AGU                                    (Processo   INPI   nº   52400.002142/2018-30),
+publicado nas RPIs nº 2465 (03/04/2018), 2466 (10/04/2018) e 2467 (17/04/2018), ao qual foi
+atribuído caráter normativo na RPI nº 2485, de 21/08/2018, concluiu que após a emissão do
+despacho 6.6.1 não tendo havido manifestação da depositante no prazo de 60 (sessenta) dias
+contados a partir da publicação na RPI, o exame técnico deve ser prosseguido com o
+entendimento de que não houve acesso ao patrimônio genético nacional e/ou conhecimento
+tradicional associado, conforme consta no texto do despacho de código 6.6.1 publicado na RPI.
+
+       O estabelecido no artigo 47 da Lei nº 13.123/2015 é um requisito da concessão da
+patente, mas não repercute e compromete, s.m.j., a avaliação dos requisitos técnicos
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                             Página 2
+                                                         BR112013028285-1
+
+
+necessários à concessão de patentes estabelecidos na LPI, objeto da presente análise. Neste
+sentido, frente à normatização publicada na RPI nº 2485, de 21/08/2018, resta ao presente
+exame dar andamento ao exame técnico.
+
+
+
+                                     Quadro 1  Páginas do pedido examinadas
+             Elemento                                   Páginas         n.o da Petição         Data
+Relatório Descritivo                                       1-21         870190137193         20/12/2019
+Listagem de sequências em
+                                                            ---               ---                ---
+formato impresso
+Listagem de sequências*                        Código de Controle             ---                ---
+Quadro Reivindicatório**                                   1-3          860150078855         29/04/2015
+Desenhos                                                     1          860130006257         01/11/2013
+Resumo                                                       1          870190137193         20/12/2019
+       *Listagem de sequências em formato eletrônico referente ao código de controle
+       9999999999999999 (Campo 1) e 9999999999999999 (Campo 2).
+       ** Para pedidos que incidam no artigo 32 da LPI (vide Quadro 2), o Quadro 1 deve ser
+       preenchido com os dados do Quadro Reivindicatório válido, cf denido na Resolução
+       PR n° 93/2013 (item 5.2.25.1 da Portaria INPI PR nº 01, de 07/01/2021).
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                       Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                        x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                  x
+O pedido está de acordo com disposto no art. 32 da LPI                                             x
+Comentários/Justificativas
+
+       Quanto ao artigo 32 da LPI:
+
+        Para fins de avaliação do cumprimento do artigo 32 da LPI, o quadro reivindicatório válido
+(QRV) é o apresentado por meio da petição nº 860150078855, 29/04/2015. No QRV é pleiteado
+uma composição constituída essencialmente por uma mistura de três moléculas: um antígeno,
+pelo menos uma citocina Th1 e uma molécula de maturação de DC. Na reivindicação 1
+apresentada na proposta de quadro reivindicatório (PQR - petição nº 870190137193, de
+20/12/2019), a composição está caracterizada por compreender células Th1 alogênicas ativadas e
+molécula de maturação DC CD40L e/ou FasL expressa na superfície das células Th1 além de
+incluir no seu escopo características do método terapêutico.
+
+        No parecer técnico anterior foi apontado que a proposta de quadro reivindicatório
+supracitada não poderia ser aceita por infringir o artigo 32 da LPI. Isso porque, o escopo pleiteado
+
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                               Página 3
+                                                        BR112013028285-1
+
+
+pela atual reivindicação 1 é mais amplo que o requerido no quadro reivindicatório válido (petição
+nº 860150078855, 29/04/2015).
+
+       Em sua manifestação, a depositante sustenta discordar da objeção formulada com base no
+artigo 32 da LPI, visto que as células Th1 ativadas são um subconjunto de produtos que incluem
+um antígeno estranho, citocinas Th1 e moléculas de maturação DC. Contudo, o presente exame
+não considera o argumento apresentado persuasivo.
+
+       Embora          o     inicialmente           apresentado       aponte   que   as   composições   reveladas
+preferencialmente, não exclusivamente, contém células T ativadas alogênicas vivas que são
+capazes de produzir de fornecer um aloantígeno, citocinas Th1 e molécula de maturação de
+células dendríticas (DC), o que foi reivindicado no QRV foi uma composição contendo 3 grupos
+moléculas biológicas distintas (antígeno, citocinas Th1 e molécula de maturação de células
+dendríticas (DC)), conforme revelado no [00015]. Não existe na reivindicação 1 do QRV nenhuma
+menção a uma célula. Uma célula Th1 ativada não contém, produz ou está limitada
+molecularmente aos 3 grupos de moléculas citadas. Neste sentido, embora as referidas células
+sejam capazes de fornecer os 3 grupos de moléculas, ratifica-se que a emenda realizada não
+configura uma limitação, de modo a reduzir, esclarecer ou limitar o alcance das reivindicações.
+Cabe ainda ressaltar que se considerarmos que a composição contém agentes de reticulação e
+ativação das células, conforme item III da manifestação em lide, a composição tal como ora
+pleiteada difere da definida na reivindicação 1 do QRV.
+
+       Sendo assim, conforme os itens 2.2 e 2.5 das Diretrizes sobre a aplicabilidade do disposto
+no artigo 32 da LPI nos pedidos de patentes, no âmbito do INPI, publicada na Resolução INPI PR
+nº 093/2013 (RPI nº 2215 de 18/06/2013), a nova proposta de quadro reivindicatório (petição nº
+870200153634, de 07/12/2020), mesmo com as emendas ora apresentadas, não pode ser aceita,
+uma vez que infringe o disposto no artigo 32 da LPI.
+
+       A Resolução INPI PR nº 093/2013 (item 3.1.1) determina que quando, em manifestação ao
+um parecer 7.1, o quadro reivindicatório emendado continue infringindo o artigo 32 da LPI e os
+argumentos apresentados não forem considerados pertinentes, o pedido deverá ser indeferido
+com base no artigo 32 da LPI.
+
+       Conforme o item 2.5 da Resolução PR nº 093/2013 quando um quadro reivindicatório
+apresentado pela depositante (mesmo aqueles QR apresentados em decorrência de resposta a
+um exame técnico) contrariar o disposto no artigo 32 da LPI, o mesmo será rejeitado em sua
+totalidade.
+
+       Contudo, tendo em vista o disposto nos itens 5.14 e 5.2.25.5 da Portaria INPI PR nº 01, de
+07/01/2021, no que couber, por economia processual serão apontadas as irregularidades
+identificadas na matéria da nova proposta de quadro reivindicatório ora recusada (petição nº
+870200153634, de 07/12/2020).
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                     Página 4
+                                                        BR112013028285-1
+
+
+      Quanto ao artigo 10 (IX) da LPI:
+
+       No parecer técnico anterior, foi apontado que tendo em vista que características quanto ao
+regime terapêutico e o resultado esperado do uso da composição, não são características
+técnicas de uma composição per se, as antigas reivindicações 1-6 referem-se a uma composição
+na qual o único constituinte definido são as células Th1 ativadas. Conforme item 4.2.1.1.1 da
+Instrução Normativa nº 118, de 01/12/2020, uma reivindicação de composição caracterizada tão
+somente por conter um produto não patenteável (por exemplo, um extrato natural), não pode ser
+concedida, uma vez que viria a proteger o próprio produto não patenteável. Portanto, as
+reivindicações 1-6 foram rejeitadas com fulcro no artigo 10 (IX) da LPI.
+
+       Em sua manifestação, a depositante alega discordar da objeção formulada com base no
+artigo 10 (IX) da LPI e emendou a reivindicação 1 de forma a indicar que as células são células
+ativadas por Th1 (ou seja, não são de ocorrência natural!) e ainda que as células são ativadas por
+reticulação CD3 e CD28 por agentes de reticulação. Os agentes de reticulação também estão
+presentes na composição, ou seja, não há que se falar em apenas um produto na composição.
+Contudo, o presente exame considera que a inclusão do trecho em que as células Th1 são
+ativadas pela reticulação de CD3 e CD28 por um ou mais agentes de reticulação na atual
+reivindicação 1 não deixa claro que a composição contém componentes adicionais as células T
+ativadas.
+
+       No relatório descritivo apresentado é revelado que as células Th1 alogênicas ativas são
+preparadas conforme descrito no documento US7435592. Este documento revela que as células T
+alogênicas são marcadas com mAbs anti-CD3 e anti-CD28 reticulados com microesferas
+biodegradáveis revestidas com um agente reativo contra os referidos mAbs. As células T
+alogênicas marcadas são mantidas em contado constante com os anticorpos nas microesferas
+biodegradáveis e suspensas em um meio adequado para infusão intravenosa. Ou seja, as células
+devem ser formuladas com agentes que entregam sinais de ativação. No entanto, visto que não
+está claro que as células Th1 alogênicas estão revestidas com mAbs anti-CD3 e anti-CD28, em
+que o anti-CD3 e anti-CD28 são reticulados por partículas biodegradáveis revestidas com um
+agente reativo contra os referidos mAbs, e os referidos agentes de ativação estão presentes na
+formulação, a redação utilizada inclui a possibilidade das células T terem sido ativadas pelas
+microesferas, mas não determina de maneira inequívoca que a composição tenha ainda as
+microesferas. Neste sentido, tendo em vista que sem está definição clara, as células Th1 não
+poderiam ser distinguidas de células Th1 naturalmente ativadas,            ratifica-se que a atual
+reivindicação 1 tal como formulada inclui matéria que não é considerada invenção conforme
+disposto no artigo 10 (IX) da LPI.
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                      Página 5
+                                                        BR112013028285-1
+
+
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                             Sim          Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI       -          -
+
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI     -          -
+Comentários/Justificativas
+- Tendo em vista que o pedido não está de acordo com o artigo 32 da LPI, o presente exame não
+está obrigado a tecer comentários quanto aos artigos 24 e 25 da LPI, conforme a Norma de
+Execução SEI Nº 7/2019, item 5.2.25.3. Contudo, visto que a matéria ora pleiteada é
+essencialmente a mesma do quadro reivindicatório válido, por economia processual, foi
+aproveitada a matéria patenteável contida na nova proposta de quadro reivindicatório recusada
+como subsídio ao exame técnico, de acordo com o artigo 5º, §4º da Resolução Nº 241/2019.
+
+
+      Quanto a nova proposta de quadro reivindicatório (petição nº 870200153634, de
+       07/12/2020):
+
+      Conforme apontado no parecer técnico anterior, forma de administração, regime e
+       dosagem são características de método terapêutico e não acrescentam informações sobre
+       a constituição da composição per se. Essas características presentes na atual
+       reivindicação geram inconsistência à composição reivindicada, visto que inclui proteção
+       para matéria que não é considerada invenção de acordo com o art. 10 (VIII) da LPI (item
+       6.1 da Resolução INPI PR nº 208/2017). Adicionalmente, ressalta-se que o efeito a ser
+       alcançado pelo uso da composição não é uma característica da composição e portanto,
+       não pode ser aceita como uma característica técnica. Assim, tendo em vista que a atual
+       reivindicação 1 continua definindo o método de tratamento, ratifica-se que o escopo
+       pleiteado não é claro e, portanto, contraria o disposto no artigo 25 da LPI. O mesmo modo,
+       ratifica-se que a mesma falta de clareza se aplica a atual reivindicação 13;
+
+      Na atual reivindicação 3, ratifica-se que a expressão um ou mais agentes é ampla e não
+       define com clareza o escopo pleiteado, o que contraria o disposto no artigo 25 da LPI;
+
+      Na atual reivindicação 8, ratifica-se que a expressão ou mais gera falta de clareza e
+       precisão ao escopo pleiteado, o que contraria o disposto no artigo 25 da LPI;
+
+      A atual reivindicação 13 refere-se ao uso de células Th1 alogênicas ativadas e a molécula
+       de maturação DC CD40L e/ou FasL em suas superfícies para preparar uma composição
+       para monitorar um tratamento para câncer e / ou doenças infecciosas. Logo, esta
+       reivindicação apresenta uma redação semelhante ao tipo suíço. Este tipo de reivindicação
+       é normalmente utilizada para permitir que um uso médico ganhe proteção, onde métodos
+       de tratamento não podem ser patenteados e/ou para substâncias que já são conhecidas
+       para um primeiro uso médico. Conforme o item 9.1 das Diretrizes de Exame de Pedidos de
+       Patente na Área de Química (Resolução INPI PR nº 208/2017), o formato do tipo suíço
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                      Página 6
+                                                             BR112013028285-1
+
+
+         para ser considerado claro e preciso é deve especificar a doença exata que é tratada
+         devendo ainda ser evitado a utilização de termos e expressões vagas e que não deixem
+         claro como a finalidade terapêutica é alcançada. Assim, tipicamente, as reivindicações do
+         tipo fórmula suíça, devem apresentar construções do tipo Uso da substância X no
+         preparo de um medicamento para o tratamento da doença Y. A atual reivindicação 13 não
+         apresenta está construção. Adicionalmente, a definição da metodologia de tratamento e do
+         efeito a ser alcançado é inconsistente com a matéria reivindicada e agrava a falta de
+         clareza quanto ao escopo pleiteado pela referida reivindicação. A despeito dessas
+         objeções apontadas no parecer técnico anterior, a atual reivindicação 13 continua definido
+         que as células são para a fabricação de um medicamento para monitorar um tratamento
+         para câncer e / ou doenças infecciosas e definindo a metodologia de tratamento. Deste
+         modo, ratifica-se que a atual reivindicação 13 contraria o disposto no artigo 25 da LPI;
+
+        No parecer técnico anterior, foi apontado que no relatório descritivo, as Tabelas 1 e 2
+         utilizam várias siglas, sem que nenhuma definição do que significam foi fornecida, o que
+         acaba dificultando o entendimento da matéria revelada. No entanto, novas vias das
+         referidas tabelas não foram apresentadas tampouco argumentos foram fornecidos.
+
+
+                                       Quadro 4  Documentos citados no parecer
+
+ Código                                                    Documento                        Data de publicação
+    D1                                                WO2011/08444511                            14/07/2011
+         No que se refere aos documentos do estado da técnica, o presente exame está seguiu a
+determinação dos itens 5.1.6 e 5.2.1 e do art. 5º da Norma de Execução SEI nº
+7/2019/DIRPA/PR (substituída pela Portaria INPI PR nº 01, de 07/01/2021). Assim, cabe
+ressaltar que como a Busca foi considerada realizada na etapa de exigência preliminar (6.21), os
+documentos avaliados no presente exame estão limitados aos documentos citados na exigência
+de preliminar (6.21), publicada na RPI nº 2542, de 24/09/2019.
+
+         1
+             O documento D1, depositado em 15/12/2010 e publicado em 14/07/2011, reivindica as
+datas de prioridade 15/12/2009 e 14/12/2010. Tendo em vista que o referido documento tem
+processamento nacional sob o número BR112012014569, portanto, para fins de avaliação do
+requisito de novidade, se aplica o disposto no § 2º e §3º do artigo 11 da LPI.
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade                                       Cumprimento   Reivindicações
+                                                                               Sim            1-13
+                 Aplicação Industrial
+                                                                              Não              ---
+                                                                               Sim             ---
+                         Novidade
+                                                                              Não             1-13
+
+                 Atividade Inventiva                                           Sim             ---
+
+
+             Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 7
+                                                        BR112013028285-1
+
+
+                                                                      Não     1-13
+
+
+Comentários/Justificativas
+
+       Tendo em vista que o pedido não está de acordo com o artigo 32 da LPI, não serão tecidos
+comentários quanto aos Artigos 8º, 11, 13 e 15 da LPI, conforme Portaria/INPI/DIRPA N° 1/ 2021,
+procedimento P029, item 5.2.25.5. De acordo com o art.5º §1º da Resolução Nº 241/2019, os
+exames realizados no escritório/autoridade European Patente Office (EPO) e no Japan Patent
+Office, são considerados como subsídios ao presente exame, sendo aqui apontadas as mesmas
+considerações quanto aos requisitos de patenteabilidade do quadro válido.
+       Por economia processual, seguem abaixo considerações adicionais quanto à matéria ora
+pleiteada (cf. artigo 5º, §4º da Resolução Nº 241/2019).
+
+      Quanto a nova proposta de quadro reivindicatório (petição nº 870200153634, de
+       07/12/2020):
+
+       No parecer técnico anterior, o presente pedido foi considerado destituído de novidade e/ou
+atividade de inventiva frente aos ensinamentos de D1.
+
+       Em sua manifestação, a depositante sustenta que D1 não revela um tratamento incluindo o
+monitoramento de IL-12 (após 90 dias) ou uso de IL-12 como indicador para o tratamento
+posterior. Contudo, o presente exame considerada que os argumentos trazidos não são
+persuasivos.
+
+       Primeiramente, cabe ressaltar que o escopo ora pleiteado refere-se a uma composição e
+não, ao método de tratamento (matéria não considerada invenção). Os argumentos apresentados
+pela depositante baseiam-se no regime de administração e aplicação da composição, o que não
+torna a composição per se nova e/ou inventiva.
+
+       Conforme mencionado no Quadro 3, a redação da atual reivindicação 1 gera falta de
+clareza quanto ao escopo pleiteado. Para fins de clareza, uma composição deve ser definida
+quali/quantitativamente por seus constituintes. Cabe destacar que em reivindicações de produto, a
+definição do tipo para uso em limita o que é pleiteado com relação a finalidade específica do
+produto. Contudo, para fins de análise e comparação com a técnica, esse tipo de reivindicação
+deve ser interpretada com base nos constituintes da composição per se e não, pelos dados
+obtidos do monitoramento do efeito alcançado pelo uso da composição. No presente caso, a
+análise tem que ser baseada em uma composição constituída por células Th1 alogênicas ativadas
+e molécula de maturação DC CD40L e/ou FasL expressa na superfície das células Th1, em que
+as células Th1 são ativadas pela reticulação de CD3 e CD28 por um ou mais agentes de
+reticulação.
+
+       O documento D1 revela uma composição terapêutica para tratamento de câncer que
+compreende pelo menos um antígeno estranho, citocina inflamatória tipo I e molécula efetora
+capaz de causar maturação de células dendríticas para estimular e manter a resposta Th1 no
+paciente. O antígeno estranho é um aloantígeno ou expresso por células T CD4+ Th1 ativadas. As
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                     Página 8
+                                                        BR112013028285-1
+
+
+células Th1 são ativadas pela reticulação de moléculas de superfície CD3 e CD28 com anticorpos
+monoclonais anti-CD3 e anti-CD28 imobilizados (mAbs) imobilizados em nanopartículas ou
+micropartículas biodegradáveis. As citocinas inflamatórias são produzidas a partir de células
+imunes vivas. A molécula efetora é expressa na superfície das células imunológicas e é um
+aglomerado de ligante de diferenciação (CD40) L e/ou um ligante para um receptor do tipo toll. As
+citocinas inflamatórias são escolhidas a partir de um ou mais dentre interferon (IFN) -,
+interleucina (IL) -2, TNF-, TNF-, fator estimulador de colônia de granulócitos-macrófagos
+(GM-CSF) e IL-12. A composição é embalada em uma seringa. A composição terapêutica
+administrada periodicamente ao paciente. O tumor é parcialmente destruído usando um método
+que resulta em necrose do tumor (quimioterapia, radioterapia, crioablação, ablação por
+radiofrequência, eletroporação, terapia biológica, terapia antiangiogênica ou suas combinações),
+administrando a composição terapêutica intratumoralmente e infundindo a composição terapêutica
+para ativar as células imunes adaptativas e inatas ou criar uma resposta Th1 de novo no paciente
+enquanto suprime a resposta Th2, fornecendo fonte de antígenos tumorais gerados por morte
+necrótica de as células cancerosas, proporcionando um ambiente inflamatório consistente com a
+resposta Th1 para a maturação das células dendríticas que respondem aos antígenos tumorais e
+desabilitando os mecanismos de imunidade tumoral ao manter a resposta Th1. A composição de
+D1 não causa efeitos colaterais. Logo, D1 já revelava uma composição farmacêutica composta
+pelos mesmos constituintes e sem nenhuma adaptação para mesma finalidade ora pleiteada.
+Ressalta-se que o inicialmente apresentado não revela nenhuma adaptação na composição para
+que o efeito ora alegado seja alcançado.
+
+       Adicionalmente, conforme os documentos citados no exame Preliminar, a utilização de
+células T alogênicas CD4+ ativadas usando anticorpos monoclonais anti-CD3 e CD28 que são
+capazes de produzir dentre outras citocinas, IL-12 e moléculas efetoras tais como CD40L e FASL
+na superfície celular para o tratamento de pacientes com câncer e doenças infecciosas já era
+amplamente difundido no estado da técnica.
+
+       Neste ponto é importante ressaltar que características relacionadas ao uso da composição,
+tais como o esquema terapêutico (dosagem, forma de administração/aplicação, intervalo
+posológico), além de remeterem à matéria que não é considerada invenção de acordo com o art.
+10 (VIII) da LPI, não conferem novidade a uma composição e ao um uso conhecido (9.11 da
+Resolução INPI PR nº 208/2017). O monitoramento dos efeitos da composição, mais se aproxima
+de um regime terapêutico ou a um método que de um produto (composição ou combinação) ou de
+um novo uso, tal como reivindicado.
+
+
+       Deste modo, já que o método de tratamento e efeitos observados no monitoramento do
+uso da composição não são uma característica da composição per se, ratifica-se que a matéria
+ora pleiteada não é nova e/ou inventiva diante dos ensinamentos de D1.
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                     Página 9
+                                                          BR112013028285-1
+
+
+Conclusão
+
+         Com base no artigo 220 da LPI, cabe destacar que a nova proposta de quadro
+reivindicatório contém matéria que não atende ao disposto nos artigos 8º, 11, 13, 10 (IX), 24, 25
+e 32 da LPI.
+
+         Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -      não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+      -      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -      as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+             descritivo (Art. 25 da LPI)
+
+      -      não é considerado invenção, uma vez que incide no Art. 10 da LPI
+
+      -      não é considerado patenteável, uma vez que incide no Art. 18 da LPI
+
+     -      acréscimo de matéria do pedido ou do escopo das reivindicações (Art. 32 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                              Publique-se o indeferimento (9.2).
+
+
+
+                                                                             Rio de Janeiro, 18 de março de 2021.
+
+
+Vania Lucia Ferreira Linhares da Silva
+Pesquisador/ Mat. Nº 1473306
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 10
+

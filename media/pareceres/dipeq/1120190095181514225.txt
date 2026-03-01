@@ -1,0 +1,255 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112019009518-7          N.° de Depósito PCT:US2016/000112
+ Data de Depósito:                   10/11/2016
+ Prioridade Unionista:               -
+ Depositante:                        GREYROCK TECHNOLOGY LLC (US)
+ Inventor:                           ROBERT SCHUETZLE; DENNIS SCHUETZLE
+ Título:                             Processos para a produção de combustíveis líquidos a partir de
+                                     matérias-primas que contêm carbono e sistemas relacionados 
+
+                                                                PARECER
+
+
+          Em 28/10/2021, através da petição 870210099575, a Requerente apresentou
+modificações no pedido, conforme consideradas no Quadro 1, em resposta ao parecer emitido,
+notificado na RPI 2639 de 03/08/2021.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-22               870210099575           28/10/2021
+Quadro Reivindicatório                             1-2 (páginas              870210099575           28/10/2021
+                                                 35-36 do arquivo
+                                                  pdf da petição)
+Desenhos                                                   1-2               870190062300           04/07/2019
+Resumo                                                      1                870190043953           09/05/2019
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+Comentários/Justificativas
+
+---
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR112019009518-7
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                    X
+Comentários/Justificativas
+
+       Por meio da petição n° 870210099575 de 28/10/2021, o depositante cumpriu
+satisfatoriamente as exigências relacionadas ao artigo 25 formuladas em parecer técnico
+anterior. Para tal, as seguintes modificações foram realizadas no quadro reivindicatório: retirada
+da expressão cerca de; substituição do trecho o catalisador compreende um ou mais metais
+depositados em um suporte de alumina superior a cerca de 5 por cento em peso da
+reivindicação 1 por o catalisador compreende um ou mais metais depositados em um suporte
+de alumina em uma concentração superior a 5 por cento em peso; retirada do trecho diâmetros
+de poro de subsuperfície inferiores a cerca de 3 nm (30 Angstroms) da reivindicação 1, e;
+correção de erros ortográficos e/ou de digitação ou de tradução.
+       Entretanto, em função de outras alterações efetuadas no quadro reivindicatório, novas
+irregularidades foram detectadas, conforme detalhado a seguir:
+       1º) A reivindicação 1 não atende ao disposto no Art. 25 da LPI e na Instrução Normativa
+nº 30/2013  Art. 4º (III), pois a matéria pleiteada não está definida de maneira clara, precisa e
+positiva pelas seguintes razões:
+       (i) o trecho sendo que o gás de reação com o catalisador ocorre entre 2,41 MPa (350
+psi) e 3,1 MPa (450 psi) e entre 190,56 °C (375 °F) e 223,89 °C (435 °F) deve ser substituído
+por sendo que o contato do gás de reação com o catalisador ocorre entre 2,41 MPa (350 psi) e
+3,1 MPa (450 psi) e entre 190,56 °C (375 °F) e 223,89 °C (435 °F);
+       (ii) o trecho mais que 2/3 da mistura de combustível líquido está na faixa de combustível
+diesel define uma fração, porém não estabelece sua base de cálculo (mássica ou volumétrica),
+e;
+       (iii) o trecho mais de 70 por cento dos hidrocarbonetos na faixa de combustível diesel
+traz um percentual, mas não define sua base de cálculo (mássica ou volumétrica).
+
+
+       2º) A reivindicação 5 não atende ao disposto no Art. 25 da LPI e na Instrução Normativa
+nº 30/2013  Art. 4º (III), pois a matéria pleiteada não está definida de maneira clara, precisa e
+positiva pelas seguintes razões: define-se um percentual (10%), porém não se estabelece sua
+base de cálculo (mássica ou volumétrica).
+
+
+       3º) A reivindicação 6 não atende ao disposto no Art. 25 da LPI e na Instrução Normativa
+nº 30/2013  Art. 4º (III), pois a matéria pleiteada não está definida de maneira clara, precisa e
+positiva pelas seguintes razões: define-se um percentual (2%), porém não se estabelece sua
+base de cálculo (mássica ou volumétrica).
+
+
+
+
+                                                                                          Página 2
+                                           BR112019009518-7
+
+
+
+                            Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                 Data de publicação
+    D1                                US 2015275097 A1                                    01/10/2015
+    D2                               WO 2004069964 A2                                     19/08/2004
+    D3                                US 2014262965 A1                                    18/09/2014
+
+
+       Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+        Requisito de Patenteabilidade             Cumprimento                   Reivindicações
+                                                        Sim                          1-7
+             Aplicação Industrial
+                                                        Não                           -
+                                                        Sim                          1-7
+                   Novidade
+                                                        Não                           -
+
+                                                        Sim                           -
+              Atividade Inventiva
+                                                        Não                          1-7
+
+
+
+Comentários/Justificativas
+
+          Resumidamente, o depositante alega em sua manifestação ao parecer técnico anterior
+que:
+
+          [] a reivindicação 1 agora especifica que o suporte de alumina tem um pH de 7, sendo,
+portanto, neutro. A alumina pode ser ácida básica ou neutra, portanto, essas características
+servem para distinguir ainda mais a reivindicação 1 de D1. Mas, além disso, nota-se que o
+substrato neutro resulta em um desempenho superior do processo reivindicado.
+
+          Contudo, a referida argumentação não foi considerada persuasiva, conforme detalhado a
+seguir:
+
+          De fato, o documento D1 é silente em relação ao pH da alumina utilizada como suporte
+de seu catalisador, o que garante a novidade do presente pedido em relação ao estado da
+técnica. Entretanto, a partir da leitura do relatório descritivo, não é possível observar um efeito
+técnico inesperado atrelado especificamente ao uso de uma alumina com pH igual a 7. Não há
+exemplos comparativos que permitam avaliar uma possível influência do pH da alumina no
+desempenho do processo que emprega o catalisador que a contém.
+
+          Assim, ratifico o entendimento do parecer técnico anterior, isto é:
+
+
+
+
+                                                                                                 Página 3
+                                          BR112019009518-7
+
+
+       D1 (resumo; parágrafos [0015], [0016], [0041], [0050], [0052] a [0054], [0066], [0082],
+[0084] a [0086], e; figuras 1 e 6), considerado o documento mais próximo do estado da técnica,
+revela um processo para a produção de uma mistura de hidrocarbonetos compreendendo: (i)
+converter uma carga de hidrocarboneto a gás de síntese, o qual contém monóxido de carbono e
+hidrogênio, através de um dentre diversos métodos (dentre os citados: gaseificação), e; (ii)
+reagir o referido gás de síntese na presença de um catalisador a 400 psi e 410 °F para produzir
+uma corrente de produto de hidrocarboneto que compreende gases leves, combustíveis líquidos
+e cera, em que o volume de combustível diesel gerado é substancialmente maior do que o
+volume de cera (razão diesel/cera de 96% diesel versus 4% cera, por exemplo). O catalisador
+em questão possui as seguintes características: compreende mais de 5% em peso de um ou
+mais metais (cobalto, ferro, níquel ou uma combinação destes) depositados em um material
+suporte (alumina, por exemplo), o qual possui raio de pélete efetivo de 300 µm ou menos, com
+um ou mais promotores (por exemplo: platina) a uma concentração de 0,01 a 2% em peso
+baseado no peso total do catalisador suportado; possui um raio efetivo igual ou inferior a 600
+microns; o diâmetro efetivo de poro do material suporte é maior do que 100 angstroms;
+apresenta uma resistência ao esmagamento entre 3 e 4,5 lbs/mm, e; possui uma área de
+superfície BET superior a 100 m2/g.
+       As diferenças entre a reivindicação independente 1 do presente pedido e o documento
+D1 residem, primeiramente, em um parâmetro físico do catalisador: diâmetro de poro de
+superfície (no presente pedido, superior a cerca de 100 angstroms). D1 é, de fato, silente em
+relação a tal parâmetro, revelando explicitamente apenas o diâmetro médio de poro de seu
+catalisador (superior a 80 angstroms ou superior a 100 angstroms ou, ainda, superior a 120
+angstroms). Além disso, D1 revela um processo de gaseificação de forma ampla, sem
+mencionar especificamente nenhuma das modalidades pleiteadas no presente pedido (indireta,
+por sopro de ar, por oxigênio ou por plasma). Por fim, o presente pedido pleiteia um suporte de
+alumina com pH 7, ao passo que D1 menciona alumina de forma mais genérica (isto é, sem
+definir seu pH). Essas modificações garantem a novidade do presente pedido em relação ao
+estado da técnica e permitem prover um processo alternativo para produção de uma mistura de
+hidrocarbonetos.
+
+       Entretanto,   não   é   possível    verificar   um   efeito   técnico   inesperado   atrelado
+especificamente às diferenças supracitadas.
+
+       Primeiramente, é razoável supor que o catalisador de D1 exibirá o mesmo valor de
+diâmetro de poro de superfície do catalisador do presente pedido, uma vez que o método de
+preparo de ambos os catalisadores é muito similar (vide parágrafo [0082] de D1). Ademais, a
+modalidade de gaseificação não parece ter qualquer influência no processo aqui pleiteado,
+conforme parágrafo [038] do relatório descritivo ( qualquer processo que produza alimentação
+de syngas). E, conforme anteriormente mencionado, não é possível observar um efeito
+técnico inesperado relacionado ao uso de uma alumina com pH igual a 7. De fato, não há
+exemplos comparativos que permitam avaliar uma possível influência do pH da alumina no
+desempenho do processo que emprega o catalisador que a contém.
+
+
+
+                                                                                            Página 4
+                                         BR112019009518-7
+
+
+       Portanto, considero que um técnico no assunto partindo de D1 e buscando, através de
+experimentação de rotina, processos alternativos para produção de uma mistura de
+hidrocarbonetos seria motivado a (i) produzir catalisadores que exibem diâmetro de poro de
+superfície superior a cerca de 100 angstroms, (ii) utilizar alumina neutra dentre as opções de
+alumina comercialmente disponíveis e (iii) selecionar um dentre os processos de gaseificação
+indireta, por sopro de ar, por oxigênio ou por plasma para gerar o gás de síntese.
+
+       Em outras palavras, a reivindicação independente 1 não atende ao requisito atividade
+inventiva, pois decorre de maneira evidente ou óbvia para um técnico no assunto a partir do
+documento D1.
+
+       Nas reivindicações dependentes 2 a 7 não foram identificadas características adicionais
+ou detalhamentos que, mesmo quando combinadas com as características de qualquer
+reivindicação a que se referem, atendam aos requisitos de atividade inventiva.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI), e
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI).
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 10 de dezembro de 2021.
+
+
+
+
+Stella Fernandes Simao
+Pesquisador/ Mat. Nº 2390626
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº
+016/18
+
+
+
+
+                                                                                           Página 5
+

@@ -1,0 +1,415 @@
+                               SERVIÇO PÚBLICO FEDERAL
+                                MINISTÉRIO DA ECONOMIA
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+N.° do Pedido:              BR112017002417-9         N.° de Depósito PCT: US2015/049617
+                                                     (11/09/2015)
+
+                        Publicação Nacional:   Publicação Internacional: WO 2016/040763
+                        28/11/2017 (RPI 2447) (17/03/2016)
+Data de Depósito (PCT): 11/09/2015
+Prioridade Unionista:   US 62/049.452 (12/09/2014)
+Depositante:            HENDRICKSON USA, L.L.C. (US)
+Inventor(es):           JAY D. WHITE (US), JEFFREY S. MORRIS (US), KEITH M.
+                        ERNENWEIN (US), MATTHEW KARICH (US), JEFFREY R
+                        ZAWACKI (US)
+Título:                 Sensor de extremidade de roda para veículos de carga pesada..
+
+                                PARECER DE EXAME TÉCNICO
+
+
+
+       O presente pedido de Patente de Invenção (PI), refere-se a um sensor sem fio para um
+conjunto de extremidade de roda de um veículo de carga pesada é proporcionado. O conjunto
+de extremidade de roda inclui um cubo de roda e uma calota montada no cubo de roda. O
+sensor inclui meios de montagem dispostos na calota. Meios de detecção são montados nos
+meios de montagem para detectar pelo menos uma condição do veículo. Um processador é
+montado nos meios de montagem e é eletricamente conectado aos meios de detecção para
+processar os dados dos meios de detecção. Meios de comunicação são montados nos meios de
+montagem e são eletricamente conectados ao processador para comunicar os dados
+processados a um usuário.
+
+
+
+       Para realização industrial do reivindicado como inventivo no presente pedido de PI, um
+dispositivo de armazenamento de energia elétrica é montado nos meios de montagem e é
+conectado eletricamente aos meios de detecção, permitindo que o sensor seja independente da
+fonte de alimentação do veículo. O sensor também acomoda componentes de um sistema de
+inflação de pneu.
+
+
+
+       Em 15/02/2022, foi publicada através da RPI Nº 2667, notificação de emissão de parecer
+técnico relativo ao pedido de Patente de Invenção (PI), referente a Ciência de Parecer (7.1),
+decorrendo a partir daquela data o prazo de 90 (noventa) dias para manifestação da Requerente
+quanto ao contido no citado parecer técnico.
+
+
+
+
+                                                                                                    1
+                                          BR112017002417-9
+
+
+
+
+       Em 24/07/2020, através da Petição 870200092603/RJ, a Requerente apresenta os
+documentos listados no Quadro 1, a seguir:
+
+                            Quadro 1  Páginas do pedido examinadas
+            Elemento                     Páginas               N.o da Petição           Data
+
+Relatório Descritivo (RD): com        13/61  43/61           870200092603/RJ         24/07/2020
+31 (Trinta e uma) folhas,
+numerada como 01/31 
+31/31.
+Quadro Reivindicatório (QR):          17/23  23/23           870220042363/RJ         16/05/2022
+com      07     (Sete) folhas,
+apresentando 25 (Vinte e
+cinco) reivindicações.
+Desenhos (D´s): com 11                50/61  60/61           870200092603/RJ         24/07/2020
+(Onze) folhas, apresentando
+16    (Dezesseis)    figuras,
+numeradas de: Fig. 01  Fig.
+16.
+Resumo (R): com 01 (Uma)                  61/61               870200092603/RJ         24/07/2020
+folha.
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                  Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                        X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                          X
+O pedido está de acordo com disposto no art. 32 da LPI                           X
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                  Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI             X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI           X
+Comentários/Justificativas
+
+
+       Em 15/11/2021, a Justiça Federal, da 13a. Vara Federal do Rio de Janeiro (TRF-RJ), no
+âmbito do Mandado de Segurança nº 5051373-49.2019.4.02.5101, sentenciou:
+
+
+
+                                                                                                   2
+                                     BR112017002417-9
+
+        Do exposto, concedo parcialmente a segurança (CPC/2015, art. 269, I), para
+        determinar a nulidade parcial da Resolução n.º 241 de 2019, apenas no que se refere
+        à impossibilidade de realização de buscas complementares, sendo assegurado aos
+        representados pelas associações impetrantes que, em cada caso concreto, possam
+        fazer tais buscas, quando o entenderem adequado e pertinente.
+        Em 14/12/2021, o INPI publicou a PORTARIA/INPI/PRNº052, que em seu Art. 6º. revoga a
+Resolução INPI/PR Nº 241, de 03/07/2019. No seu Art. 5º, estabelece:
+        Por ocasião do prosseguimento do exame do pedido, poderá ser realizada a
+complementação da busca a que se refere o art. 3º desta Portaria.
+        Face à decisão judicial supracitada e à publicação da Portaria 52/2021, em pesquisas
+realizadas em bases de dados de documentos de (e pedidos de) patentes e em literatura não
+patentaria, foram encontrados os seguintes documentos capazes de indicar arranjos técnicos
+funcionais semelhantes aos pleiteados no QR do presente pedido:
+                        Quadro 4  Documentos citados no parecer
+
+ Código                              Documento                            Data de publicação
+(Relevân
+  cia)
+ D5_New        EP 0 832 764 (A2) (Kevin Patrick Austin Pearman (CF))          01/04/1998
+
+                     Correspondente INPI_BR: BR9705628 (A)                  06/06/2000 (RPI
+                                                                                 1535)
+ D6_New      WO0236369 (A1) (INT TRUCK INTELLECTUAL PROP CO                  10/05/2002
+                                    [US])
+Comentários/Justificativas
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15, da LPI)
+     Requisito de Patenteabilidade          Cumprimento                Reivindicações
+                                                 Sim                      01  25
+           Aplicação Industrial
+                                                 Não                         
+
+                                                 Sim                      01  25
+                Novidade
+                                                 Não                         
+
+                                                 Sim                         
+           Atividade Inventiva
+                                                 Não                      01  25
+
+Comentários/Justificativas
+
+
+
+      A análise do QR do presente pedido, apresentado em 24/07/2020, através da Petição
+870200092603/RJ, e mais especificamente sua Reivindicação Independente do Presente
+Pedido (RI**pp), que é a RI01pp (Sensor para um conjunto de extremidade de roda ),
+quando confrontadas com os documentos D5_New e/ou D6_New, constatamos que tanto a
+parte não caracterizante do pedido sob exame, quanto a parte caracterizante, encontram-se
+contempladas naquele documento, como veremos a seguir, via Parecer Técnico de primeiro
+
+
+                                                                                              3
+                                              BR112017002417-9
+
+
+exame, publicado em 15/02/2022, através da RPI 2667, que tanto a parte não caracterizante do
+pedido sob exame, quanto a parte caracterizante, encontravam-se contempladas naquele
+documento, como vimos a seguir.
+
+
+
+        Através da Reivindicação Independente 01 (RI01pp), do presente pedido, a
+Requerente reivindica:
+
+        RI01pp. (Sensor (100, 170) para um conjunto de extremidade de roda (12) de um
+veículo de carga pesada, o dito conjunto de extremidade de roda incluindo um cubo de roda
+(22) e uma calota (tampa de cubo 102) montada de forma removível no dito cubo de roda
+(22)), o dito sensor
+        CARACTERIZADO por compreender:
+        ETAPA01: meios de montagem (120) dispostos na dita calota (102), a dita calota (102)
+sendo montada em uma extremidade externa do dito cubo de roda (22) para evitar
+vazamento de lubrificante do cubo de roda (22) e evitar a entrada de contaminantes no cubo
+de roda (22);
+        ETAPA02: meios de detecção montados nos ditos meios de montagem para detectar
+pelo menos uma condição operacional do dito veículo;
+        ETAPA03: um processador montado nos ditos meios de montagem (120) e
+eletricamente conectado aos ditos meios de detecção para processar os dados dos ditos
+meios de detecção;
+        ETAPA04: meios de comunicação (156,164) montados nos ditos meios de montagem e
+eletricamente conectados ao dito processador para comunicar os ditos dados
+processados a um usuário; e
+        ETAPA05: um dispositivo de armazenamento de energia elétrica (158) montado nos
+ditos meios de montagem (120) e eletricamente conectado aos ditos meios de detecção, ao
+dito processador e aos ditos meios de comunicação para alimentar o dito sensor.
+
+
+      No que se refere a sua manifestação, de 16/05/2022, através da Petição
+870220042363/RJ, a Requerente entende que os documentos D5_New e/ou D6_New, não
+contemplam o reivindicado no presente pedido, pois:
+         à luz da referência D5 e/ou da referência D6, é respeitosamente pontuado que a referência D5 e a
+referência D5 falham em revelar, ensinar ou sugerir, separadamente ou em combinação, um sensor para um conjunto
+de extremidade de roda de um veículo pesado com um meio de montagem disposto e fixado à uma calota que é
+montada na extremidade externa do cubo da roda para evitar vazamento de lubrificante do cubo da roda e evitar a
+entrada de contaminantes no cubo da roda, conforme definido na nova reivindicação independente 1.
+        A referência D5 revela um dispositivo indicador de condição de pneu 10 que inclui um detector para detectar a
+pressão de um pneu em uma roda, conforme descrito no resumo de D5. O dispositivo indicador de condição do pneu
+inclui um emissor de sinal 42 que emite um sinal quando o detector detecta uma condição da pressão da roda e um
+meio de alimentação 44, 50, 52 que fornece energia ao emissor de sinal para emitir o sinal. O meio de fornecimento de
+energia inclui um gerador de energia elétrica com primeira e segunda partes que são relativamente rotativas em torno
+de um eixo do gerador. A primeira parte 44, 50, 52 do gerador de energia está ligada à roda para rodar com ela. A
+segunda parte 60,62,64 do gerador é montada para ser substancialmente estacionária.
+
+
+
+
+                                                                                                                    4
+                                               BR112017002417-9
+
+        Ainda, a referência D5 sugere que o dispositivo indicador de condição de pneu 10 inclui um corpo cilíndrico 30,
+cuja extremidade interna se encaixa em um aro cilíndrico 32 de uma placa conectora 34 do dispositivo indicador de
+condição de pneu que é aparafusado a um alojamento de extremidade de eixo 20 e a um par de placas 36 que estão
+dispostas em cruz, duas extremidades das quais têm grampos 38 que prendem as peças em T 28 em posição,
+conforme pode ser visto na coluna 3, linhas 7-15 de D5. A extremidade externa do corpo 30 é fechada por um
+fechamento de extremidade 40, que transporta uma placa de circuito impresso (PCB) 42 em sua face interna.
+        Analisando o documento D5, pode ser verificado que corpo cilíndrico 30, placa de conector 34 e/ou fechamento
+de extremidade 40 do dispositivo indicador de pneu 10 não são "uma calota", conforme especificado na reivindicação 1
+independente. Conforme o presente pedido, uma cubo de roda em um veículo pesado é montado rotativamente em um
+conjunto de mancal que inclui um mancal interno e um mancal externo montado na extremidade externa de um eixo do
+veículo, descrito no parágrafo 003 do relatório descritivo. O rolamento interno e o rolamento externo são posicionados
+dentro do cubo da roda e são lubrificados com graxa ou óleo, parágrafo 004 do relatório descritivo. Um aspecto
+importante de uma calota para um veículo pesado é que a calota é montada na extremidade externa do cubo da roda
+do veículo e veda efetivamente a extremidade externa do cubo da roda para evitar que a graxa ou o óleo vazem do
+cubo da roda, bem como para evitar a entrada de contaminantes no cubo da roda, a fim de garantir o funcionamento
+adequado do conjunto da extremidade da roda. Ver parágrafos 004 e 005 do relatório descritivo.
+        Conforme descrito acima, também mostrado e descrito na referência D5, o corpo cilíndrico 30, a placa
+conectora 34 e o fechamento de extremidade 40 do dispositivo indicador de pneu 10 são utilizados, na verdade, como
+componentes do dispositivo indicador de condição de pneu e não vedam a extremidade externa do cubo 12. Em vez
+disso, o alojamento da extremidade do eixo 20 da extremidade da roda é quem vedaria a extremidade externa do cubo
+12 e, portanto, funcionando essencialmente como uma calota, como seria apreciado por um técnico no assunto.
+        A referência D5 não indica, portanto, que o corpo cilíndrico 30, placa de conector 34 e/ou fechamento de
+extremidade 40 montado em uma extremidade externa de um cubo 12 evitaria vazamento de lubrificante do cubo ou
+para evitaria que contaminantes entrem no cubo e, assim, não podem ser considerados ou associados a uma "calota",
+conforme definido e reivindicado no presente pedido.
+        Como o dispositivo indicador de pneu 10 é meramente fixado à extremidade externa do alojamento da
+extremidade do eixo 20, não se pode dizer ou associar que o dispositivo indicador de pneu inclui meios de montagem
+dispostos e fixados a uma calota, conforme definido na reivindicação independente alterada 1. Dessa forma, D5 falha
+em revelar, ensinar ou sugerir um sensor para um conjunto de extremidade de roda com um meio de montagem
+disposto e fixado a uma calota montada em uma extremidade externa de um cubo de roda para evitar vazamento de
+lubrificante do cubo de roda e para evitar a entrada de contaminantes no cubo da roda, como agora definido na
+reivindicação independente alterada 1, o que não torna a reivindicação como sendo carente de atividade inventiva.
+        A referência D6, por sua vez, descreve um conjunto eletromecânico de sensor de roda 10 montado em uma
+roda de veículo que fornece energia para sensores e telemetria de sensores em uma roda, conforme pode ser visto no
+resumo de D6 e coluna 2, linhas 9-29 e 66-67 do relatório descritivo. A referência D6 sugere que o conjunto de sensor
+de roda 10 esteja posicionado sobre uma placa de apoio 14 que, por sua vez, é montada em uma extremidade de semi-
+eixo 11 de um eixo 12. Ver coluna 3, linhas 11-12; e coluna 4, linhas 8-9 de D6. O conjunto de sensor de roda 10 inclui
+um alojamento 26. Ver coluna 3, linhas 13-15. Uma tampa ou tampa 34 é por sua vez fixada ao alojamento 26. Ver
+coluna 3, linhas 33-35 e na coluna 5, linhas 4-6. Juntos, o alojamento 26 e a tampa 34 contêm componentes adicionais
+do conjunto do sensor de roda 10. Ver coluna 3, linhas 29-37 e coluna 5, linhas 4-9.
+        O alojamento 26 e a tampa 34 não são "uma calota", conforme é definida na reivindicação independente 1.
+Conforme descrito no presente pedido, um cubo de roda em um veículo pesado é montado rotativamente em um
+conjunto de rolamento que inclui um interior e um rolamento externo montado na extremidade externa de um eixo do
+veículo, conforme descrito nos parágrafos 003 a 005 do relatório descritivo do presente pedido. O rolamento interno e o
+rolamento externo são posicionados dentro do cubo da roda e são lubrificados com graxa ou óleo. Um aspecto
+importante de uma calota para um veículo pesado é que a calota é montada na extremidade externa do cubo da roda
+do veículo e veda efetivamente a extremidade externa do cubo da roda para evitar que a graxa ou o óleo vazem do
+cubo da roda, bem como para evitar a entrada de contaminantes no cubo da roda, a fim de garantir o funcionamento
+adequado do conjunto da extremidade da roda. Ver parágrafos 004 e 005 do relatório descritivo.
+
+
+
+                                                                                                                      5
+                                               BR112017002417-9
+
+        Conforme descrito acima, também mostrado e descrito na referência D6, o alojamento 26 e a tampa 34 são
+utilizados para incluir componentes do conjunto do sensor de roda 10. A referência D6 não revela, ensina ou mesmo
+sugere que o alojamento 26 e/ou tampa 34 seja montado em um extremidade externa de um cubo de roda para evitar
+vazamento de lubrificante do cubo de roda ou para evitar que contaminantes entrem no cubo de roda e, portanto,
+nenhum destes pode ser considerado ou associado a uma calota, conforme definida e reivindicada no presente pedido.
+        Assim, a referência D6 não indica, ensina ou sugere um sensor para um conjunto de extremidade de roda com
+meios de montagem dispostos e fixados a uma calota montada em uma extremidade externa de um cubo de roda para
+evitar vazamento de lubrificante do cubo de roda e para evitar a entrada de contaminantes no cubo da roda, como
+agora definido na reivindicação independente 1.
+        Pode ser visto, portanto, que a referência D5 e a referência D6 falham em revelar, ensinar ou sugerir,
+separadamente ou em combinação, um sensor para um conjunto de extremidade de roda de um veículo pesado com
+meios de montagem dispostos e fixados a uma calota que é montado em uma extremidade externa de um cubo de roda
+para evitar vazamento de lubrificante do cubo de roda e impedir que contaminantes entrem no cubo de roda, conforme
+descrito na reivindicação independente alterada 1.
+        Portanto, em vista do exposto acima, uma vez que nem D5 nem D6 se mostram relevantes para a matéria
+definida nas novas reivindicações 1 a 25, a invenção é nova e não é óbvia ou evidente para um técnico no assunto.. 
+
+
+
+        Ainda na sua manifestação, de 16/05/2022, através da Petição 870220042363/RJ, a
+Requerente REapresenta o QR, de 24/07/2020, através da Petição 870200092603/RJ, com a
+mesma RI01pp (Sensor (100, 170) para um conjunto de extremidade de roda (12) de um
+veículo de carga pesada, o dito conjunto de extremidade de roda incluindo um cubo de roda
+(22) e uma calota (tampa de cubo 102) montada de forma removível no dito cubo de roda
+(22)), e com as mesmas ETAPA01 a ETAPA05.
+
+
+        Face ao disposto acima, e às argumentações da Requerente de 16/05/2022, através da
+Petição 870220042363/RJ, voltamos a sustentar QUE os documentos de anterioridade D5_New
+(EP 0 832 764 (A2) (Kevin Patrick Austin Pearman (CF)) & Correspondente INPI_BR:
+BR9705628 (A)) e/ou D6_New (WO0236369 (A1) (INT TRUCK INTELLECTUAL PROP CO
+[US])), ensinam
+        tanto
+      através da sua Reivindicação Independente (RI) 01 (dispositivo indicador de
+condição de pneu), de D5_New, juntamente com suas respectivas Reivindicações
+Dependentes (RDp´s) 10, 14, 15 e 16, aqui chamadas de RI01_D5_New, RDp10_D5_New,
+RDp14_D5_New, RDp15_D5_New e RDp16_D5_New;
+      e
+        através da RI07_D6_New, e figuras Fig. 01 e Fig. 06, de D6_New,
+         quanto
+        através do seu relatório descritivo, e mais especificamente nos Parágrafos [0036],
+[0042], [0044], [0045],[0046], [0047] e [0049], e figuras Fig. 01, Fig. 11A, Fig. 11B, Fig. 11C e
+Fig. 11D, de D5_New,
+
+        incluindo
+        na RI01_D5_New, um dispositivo indicador de condição de pneu em uma roda ou
+em uma roda de um veículo giratório em torno de um eixo de roda, contemplando a
+ETAPA01 da RI01pp, que segundo a RDp10_D5_New, o detector é um detector de pressão
+
+
+
+                                                                                                                    6
+                                     BR112017002417-9
+
+
+dos pneus, contemplando a ETAPA02 da RI01pp, possuindo um emissor de sinal emitindo
+um sinal quando o detector detecta a referida condição, que em conjunto com as
+RDp14_D5_New, RDp15_D5_New e RDp16_D5_New, temos que o emissor de sinal
+compreende um transmissor de radiofrequência, sendo o transmissor transportado por
+uma placa de circuito impresso, e possuindo uma antena formada a partir da placa de circuito
+impresso, contemplando a ETAPA04 da RI01pp, e fonte de alimentação fornecendo energia
+para o emissor de sinal, compreendendo um gerador de energia elétrica, contemplando a
+ETAPA05 da RI01pp. Nos Parágrafos [0044], [0045], [0046],         [0047], e   [0049], temos a
+descrição de um processador, no qual os dados de cada transmissor são recuperados pelo
+receptor (88) e transmitidos para o circuito integrado programável ou processador (129) para o
+receptor. Assim, os dados são armazenados dentro do processador 129, para o caso de uma
+ocorrência de uma condição de falha, contemplando a ETAPA03 da RI01pp;
+
+       e
+
+       na RI07_D6_New, um aparelho para monitorar variáveis físicas de um pneu e um
+eixo, tendo uma roda de veículo com um cubo montado para rotação no eixo, um medidor
+de pressão do pneu montado na roda do veículo em comunicação com o pneu,
+contemplando as ETAPA01 e ETAPA02, da RI01pp. O aparelho de monitoramento possui
+ainda, segundo a RI07_D6New, um processador e transmissor de sinal montado na roda do
+veículo e conectado ao medidor de pressão do pneu para coletar dados do medidor e
+transmitir um sinal de rádio compreendendo valores que representam os dados,
+contemplando as ETAPA03 e ETAPA04, da RI01pp. Por fim, e ainda na RI07_D6New, existe
+um conjunto de energização montado adjacente à roda do veículo e circuitos de
+alimentação conectados aos processador e transmissor de sinal, contemplando a ETAPA05 da
+RI01pp.
+
+
+
+       Tais reafirmações se sustentam dado que nos documentos de anterioridade:
+       D5_New, nas Fig. 01, Fig. 11A, Fig. 11B, Fig. 11C e Fig. 11D, temos respectivamente os
+diagramas de circuito do controle principal, um transmissor, o receptor, e um sensor de
+pressão, de D5_New, descrita nos Parágrafos [0036], [0042], [0044], [0046], [0049],
+contemplando as ETAPA01 a ETAPA05, da RI01pp;
+       e
+       D6_New, nas Fig. 01 e Fig. 06, de D6_New, temos respectivamente os diagramas de
+uma vista em perspectiva explodida de um conjunto de sensor de roda de acordo com uma
+modalidade preferencial da invenção; e um diagrama de blocos de um circuito de utilização
+de energia empregado no conjunto do sensor de roda da presente invenção, contemplando
+as ETAPA01 a ETAPA05, da RI01pp.
+
+       Desta forma, a matéria pleiteada através da reivindicação independente RI01pp, do
+presente pedido, encontra-se totalmente absorvida por D5_New e D6_New.
+
+      Quanto às demais reivindicações, as mesmas também não são válidas por serem
+dependentes das reivindicações independentes contestadas acima.
+
+
+
+                                                                                                 7
+                                     BR112017002417-9
+
+
+
+
+Conclusão
+       Sendo assim, face ao exposto, considerando o QR da forma apresentada, somos de
+opinião que o presente pedido carece de atividade inventiva por ser mera decorrência do estado
+da técnica, representado por D5_New e/ou D6_New, não possuindo, pois, condições de
+patenteabilidade.
+
+
+       Face às conclusões a que se chegou o Exame Técnico, de acordo com o Art. 37, baseado
+no Art. 8º, combinado com o Art. 13, da LPI, INDEFIRO o presente pedido como PATENTE DE
+INVENÇÃO.
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                              Publique-se o indeferimento (9.2)
+
+
+                                                           Rio de Janeiro, 26 de Maio de 2022.
+
+
+                                  Edson Ferreira Suisso
+            Pesquisador em Propriedade Industrial (Área: Física) / Mat. Nº 1548985
+                         Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+                       DIRPA / CGPAT III / DIPAT XV (DIPEQ / Física)
+
+
+
+
+                                                                                              8
+

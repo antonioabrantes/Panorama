@@ -1,0 +1,185 @@
+                                    SERVIÇO PÚBLICO FEDERAL
+                     MINISTÉRIO DA INDÚSTRIA, COMÉRCIO EXTERIOR E SERVIÇOS
+                         INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        PI0500644-9                 N.° de Depósito PCT:
+ Data de Depósito:                     02/03/2005
+ Prioridade Unionista:                 -
+ Depositante:                          Instituto de Tecnologia para o Desenvolvimento - LACTEC (BRPR)
+ Inventor:                             Ivan Jorge Chueiri, Angelo Bannack, Marcio Biehl Hamerschimidt
+ Título:                               Sistema remoto de gerenciamento de energia elétrica em
+                                       consumidores
+
+                                                                  PARECER
+
+      Refere-se o pedido a um sistema remoto de gerenciamento de energia elétrica em
+consumidores, com comunicação bidirecional sem fio (wireless) e via cabos elétricos
+(PLC-Power Line Communication) destinado a telemedição de consumo de energia elétrica.
+Através da petição 870170052132 de 24/07/2017, a Requerente apresentou manifestação sobre
+parecer técnico emitido na RPI 2146.
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas       n.o da Petição           Data
+
+Relatório Descritivo                                      1/7 a 7/7              343               02/03/2005
+Quadro Reivindicatório                                    1/2 a 2/2              343               02/03/2005
+Desenhos                                                  1/5 a 5/5              343               02/03/2005
+Resumo                                                          1/1              343               02/03/2005
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                               Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                     x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                             x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                       x
+O pedido está de acordo com disposto no art. 32 da LPI                                        x
+Comentários/Justificativas
+
+
+
+                      Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                             Página 1
+                                                               PI0500644-9
+
+
+
+
+Artigos da LPI                                                                       Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                  x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                x
+Comentários/Justificativas
+
+
+
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                           Data de publicação
+    D1        US6778099B1                                                                  17/08/2004
+    D2        US6246677B1                                                                  12/06/2001
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                     Cumprimento   Reivindicações
+                                                                           Sim               1-5
+             Aplicação Industrial
+                                                                          Não                 -
+                                                                           Sim               1-5
+                     Novidade
+                                                                          Não                 -
+
+                                                                           Sim                -
+             Atividade Inventiva
+                                                                          Não                1-5
+
+Comentários/Justificativas
+
+  De acordo com a reivindicação independente do presente pedido:
+1. SISTEMA REMOTO DE GERENCIAMENTO DE ENERGIA ELÉTRICA EM CONSUMIDORES
+caracterizado por se compreendido por um sistema remoto de gerenciamento (1) completo e que
+incorpora uma estrutura própria e específica do tipo remota com comunicação bi-direcional sem
+fio (wireless) e via cabos elétricos (PLC  power line communications), formas e disposições
+internas e externas que possibilitam o acoplamento aos mais diversos tipos de classes de
+consumidores de energia elétrica e rede elétrica de baixa tensão (A) e contendo integrados e
+simetricamente dispostos uma unidade remota de recepção (2), um medidor eletrônico de energia
+elétrica (3) com PLC, uma unidade de controle (4) e uma unidade central de operações (5).
+
+   Segundo a Manifestação da Requerente, o documento D1 refere-se a um equipamento e
+sistema para leitura remota de medidor, via uma rede de comunicação sem fio (wireless). O
+módulo de comunicação permite leitura remota do medidor via um modem wireless que se
+comunica por meio de uma rede de dados ao longo do sistema tal como o ARDIS. O módulo de
+comunicação é um microprocessador baseado num transmissor/receptor que recebe os dados
+requisitados do sistema servidor, recebe os dados do medidor e os direciona ao sistema
+principal localizado numa central de gerenciamento. A comunicação é realizada através do
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                    Página 2
+                                                              PI0500644-9
+
+
+protocolo de medição implementado entre os módulos de comunicação e o medidor, e o pacote
+de chaveamento é usado entre o servidor de comunicação e o módulo de comunicação através
+da rede (página 25/30).
+
+    Ainda segundo manifestação da Requerente, o documento D2, refere-se a um sistema
+automático de comunicação de dados (para leitura de medidores) com um codificador digital
+integrado e um transceptor sem fio bidirecional (unidade de gestão de interface) acoplável a
+medidor para recebimento de dados do medidor e para gestão de informação, sendo que o
+codificador e o transceptor integrados se comunicam através uma rede local LAN em dois
+sentidos a um nó de passagem remoto a qual interroga a unidade de gestão de interface para
+obtenção de dados dos medidores através de uma ligação de comunicação de radiofrequência e
+depois transmite esses dados para uma central de serviços através de uma rede fixa WAN.
+Pode haver uma unidade de comunicação adicional (transceptor) para retransmitir dados da
+unidade de gestão de interface para a unidade de nó de passagem, através uma rede LAN
+(páginas 26 e 27/30). Ainda segundo a manifestação da Requerente, o sistema automático de
+comunicação de dados de leitura do medidor compreende: uma unidade de gerenciamento de
+interface que pode ser acoplada de forma removível ao exterior do medidor, a unidade de
+gerenciamento de interface incluindo um alojamento vedado, que envolve um codificador digital
+com uma entrada que pode ser obtida para obter dados de utilização de produto do medidor
+através do alojamento vedado, a unidade de gerenciamento de interface incluindo um software
+programável para interpretar os dados de utilização com base no tipo de medidor ao qual a
+unidade de gerenciamento de interface está ligada, um nó de gateway localizado remotamente
+da unidade de gerenciamento de interface e se comunicando com a unidade de gerenciamento
+de interface em uma rede de área local sem fio de duas vias, e em que o referido nó de gateway
+se comunica com o provedor de serviço em uma rede de longa distância de portadora fixa
+comum de duas vias (página 28/30).
+
+   Conforme já explanado no parecer técnico anterior, a maioria das características contidas
+nos documentos D1 e D2 já se encontram embutidas na reivindicação independente do pedido
+em questão. As diferenças encontradas são óbvias para um técnico no assunto. Em vista do
+exposto, a junção da matéria dos documentos D1 e D2, destitui a matéria da reivindicação
+independente do presente pedido de atividade inventiva conforme Art. 13 da LPI.
+   Ainda há o agravante de não ter sido explanado satisfatoriamente no presente pedido, os
+integrantes do sistema [vide os documentos de anterioridade].
+  Quanto as matérias contidas nas reivindicações dependentes, são meros detalhamentos da
+matéria contida na reivindicação independente.
+
+
+Conclusão
+
+
+   Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+   - não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                       Página 3
+                                                              PI0500644-9
+
+
+
+    De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                            Rio de Janeiro, 17 de agosto de 2017.
+
+
+
+Neide de Oliveira Gomes
+Pesquisador/ Mat. Nº 1203806
+DIRPA / CGPAT III/DIFEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 012/06
+
+
+                                                                                Publique-se o indeferimento (9.2).
+
+
+
+
+Bernardo Henrique Todt Seelig
+Chefe de Divisão/ Mat. Nº 1547134
+DIRPA / CGPAT III/DIFEL
+Portaria INPI/PR Nº975/16
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                      Página 4
+

@@ -1,0 +1,316 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112013016650-9        N.° de Depósito PCT:KR2011/010098
+ Data de Depósito:                   26/12/2011
+ Prioridade Unionista:               KR 10-2010-0140013 (31/12/2010); KR 10-2011-0123832 (24/11/2011)
+ Depositante:                        LG ELECTRONICS INC. (KR)
+ Inventor:                           HYUN SANG KIM
+ Título:                             MÉTODO DE OPERAÇÃO DE UM TERMINAL PORTÁTIL PARA O
+                                     DIAGNÓSTICO DE UM ELETRODOMÉSTICO
+
+                                                                PARECER
+       Em    29/12/2021,    por    meio    da  petição  870210121603,      o   Depositante
+apresentoumodificações no pedido em resposta ao parecer emitido notificado na RPI 2648 de
+05/10/2021 segundo a ciência de parecer (7.1).
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 27               870200097257           03/08/2020
+Quadro Reivindicatório                                   1a3                 870210121603           29/12/2021
+Desenhos                                                1 a 10               020130057365           27/06/2013
+Resumo                                                      1                870200097257           03/08/2020
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         X
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                       BR112013016650-9
+
+
+                        Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                                  Data de publicação
+    D1     US20020130784 A1                                                           19/09/2002
+    D2     US20050028034 A1                                                           03/02/2005
+    D3     US20020161875 A1                                                           31/10/2002
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento                   Reivindicações
+                                                     Sim                          1 a 14
+          Aplicação Industrial
+                                                     Não                            ----
+                                                     Sim                          1 a 14
+               Novidade
+                                                     Não                            ----
+                                                     Sim                            ----
+          Atividade Inventiva
+                                                     Não                          1 a 14
+Comentários/Justificativas
+        No parecer anterior foi apontado que o presente pedido não possuía condições de obter a
+patente requerida, pois o objeto pleiteado se encontra antecipado pelos ensinamentos das
+anterioridades D1, D2 e D3 pelos seguintes motivos:
+                      O documento D1 é considerado a anterioridade mais próxima do objeto da
+                      reivindicação independente 1. D1 descreve um método de operação de um
+                      terminal portátil para o diagnóstico de um eletrodoméstico que possui as
+                      seguintes características técnicas:
+                             A característica técnica iniciar o diagnóstico no eletrodoméstico através
+                              de uma aplicação de diagnóstico inteligente em resposta a uma entrada
+                              do usuário se encontra antecipada pelos ensinamentos da anterioridade
+                              D1 (ver D1, figuras 4 e 13 e parágrafos [0075]-[0077]) que sugere
+                              exemplos de instruções de interface gráfica do usuário (GUI) exibidas em
+                              uma tela de um terminal móvel que fornecem ao usuário um menu de
+                              diagnóstico inteligente para analisar um estado de operação do
+                              eletrodoméstico e aconselhar uma medição quando um eletrodoméstico
+                              estiver em possível necessidade de reparo.
+                             A característica técnica exibir uma instrução sobre como manipular o
+                              eletrodoméstico selecionado através do menu de seleção para emitir um
+                              sinal sonoro incluindo a informação sobre o produto do eletrodoméstico
+                              se encontra antecipada pelos ensinamentos da anterioridade D1 (ver D1,
+                              figuras 4 e 13 e parágrafos [0075]-[0077]) que descreve que instruções
+                              são exibidas, através de uma interface gráfica do usuário (GUI), em uma
+                              tela de um terminal móvel que fornecem ao usuário informações sobre
+                              como manipular um eletrodoméstico em possível necessidade de reparo.
+                             A característica exibir uma posição com uma imagem no eletrodoméstico,
+                              à qual o terminal portátil está localizado de maneira próxima se encontra
+                              antecipada pelos ensinamentos da anterioridade D1. D1 antecipa a
+                              utilização de uma instrução pode ser textual e pictórica no contexto. Por
+                              exemplo, o item 2003 da figura 4 ilustra uma figura que instrui o usuário a
+                              verificar se o plugue está inserido corretamente (ver D1 item 2003 da
+                              figura 4, figura 13 e parágrafos [0075] a [0077]). De modo semelhante, o
+                              documento D3, do mesmo campo técnico ou em um campo técnico
+                              relacionado, descreve ser bem conhecido para um técnico no assunto
+                              fornecer instruções contextuais pertinentes ao problema à ser solucionado
+                              ou para diagnosticar uma falhar em um sistema, incluindo instruções e
+
+
+
+                                                                                               Página 2
+                BR112013016650-9
+
+       dados de diagnóstico para um usuário através de ilustração das
+       informações em um dispositivo de exibição (ver D3 figuras 7, 13A e 13B; e
+       parágrafos [0006] e [0105]). Assim, face ao exposto, motivado por fornecer
+       a um usuário um conjunto de instruções fáceis de seguir, uma pessoa
+       versada na técnica teria achado óbvio modificar D1 em vista de D3 de
+       modo a incluir instruções textuais ou pictóricas sobre o posicionamento do
+       terminal portátil em relação ao eletrodoméstico, visto que, é óbvio para um
+       técnico no assunto que quanto maior for a proximidade entre o emissor da
+       onda sonora (o eletrodoméstico) e o receptor da onda sonora (o terminal
+       portátil) melhor será a qualidade do sinal recebido/gravado.
+      A característica técnica exibir um menu de gravação através de uma
+       unidade de exibição se encontra antecipada pelos ensinamentos da
+       anterioridade D1 (ver D1, figuras 4 e 13 e parágrafos [0075]-[0077]) que
+       menus de interface gráfica de usuário (GUI) (por exemplo, menus de
+       gravação) que permitem a um usuário fornecer dados sobre um
+       eletrodoméstico em possível necessidade de reparo.
+      A característica técnica gravar o sinal sonoro recebido através de um
+       microfone de acordo com uma seleção do menu de gravação se encontra
+       antecipada pelos ensinamentos da anterioridade D1 (ver D1, figuras 1 e 2
+       e parágrafos [0055]) que ensina que um terminal portátil 2 (por exemplo,
+       um telefone móvel como mostrado nas figuras 1 e 2) pode ser usado por
+       um usuário para receber (por exemplo, gravar) um sinal da máquina de
+       lavar 1 através de mecanismos de comunicação e verificar o sinal
+       recebido (ou seja, gravado) na parte de processamento de informação
+       203.
+      A característica técnica extrair informação sobre o produto do sinal sonoro
+       gravado e realizar diagnóstico baseado na informação sobre o produto
+       extraída se encontra antecipada pelos ensinamentos da anterioridade D1
+       (ver D1, figuras 1, 2, 4 e 13; e parágrafos [0055] e [0058]) que ensina que
+       um terminal portátil 2 (por exemplo, um telefone móvel como mostrado nas
+       figuras 1 e 2) pode ser usado por um usuário para receber (por exemplo,
+       gravar) um sinal da máquina de lavar 1 através de mecanismos de
+       comunicação e verificar o sinal recebido (ou seja, gravado) na parte de
+       processamento de informação 203. Além disso, D1 ensina que a parte de
+       processamento de informação 203 lê o programa de diagnóstico de
+       anormalidade recebido (isto é, extrair informações do produto) mantido na
+       memória 204, da memória 204 e o executa e realiza o diagnóstico de falha
+       (ou seja, realiza o diagnóstico). Adicionalmente, o programa de
+       diagnóstico de anormalidade recebe a resposta do usuário por meio da
+       parte de processamento de I/O 201, coleta as informações sobre o
+       diagnóstico de anormalidade e realiza o diagnóstico de anormalidade com
+       base nisso (ou seja, com base em uma seleção do usuário ou interação
+       com um menu como mostrado nas figuras 4 e 13).
+      A característica técnica exibir um resultado da realização do diagnóstico
+       através da unidade de exibição se encontra antecipada pelos
+       ensinamentos da anterioridade D1 (ver D1, parágrafo [0020]) que
+       descreve que o terminal portátil, quando é notificado do mau
+       funcionamento do referido aparelho elétrico doméstico ou do operador dos
+       referidos pedidos de terminal portátil, recebe um programa de diagnóstico
+       de anormalidade executado no referido terminal portátil do referido
+       servidor de fornecimento de informações e, como resultado, executa o
+       referido diagnóstico de anormalidades dos referidos eletrodomésticos, em
+       que o resultado do diagnóstico de anormalidades é exibido no terminal
+       portátil.
+O documento D1 não consegue de antecipar de formar explicita que o sinal é um
+sinal sonoro e que a gravação é para gravar o som recebido através de um
+microfone. Assim, o problema do estado da técnica a ser resolvido é como
+fornecer um meio para transmitir e receber dados de diagnóstico entre dois
+dispositivos, para tal é utilizada emissão de uma onda sonora e a recepção da
+onda sonora através de um microfone. O documento D2, no mesmo campo
+técnico ou em um campo técnico relacionado, antecipa a referida característica
+
+
+
+                                                                         Página 3
+                                       BR112013016650-9
+
+                      técnica. D2 ensinam que as ondas sonoras geradas por um aparelho podem ser
+                      usadas para diagnosticar o aparelho através de linhas de comunicação, onde os
+                      sons podem ser gravados por um microfone (ver D2, parágrafos [0039] a [0045] e
+                      as figuras 1 a 3). Assim, é tido como óbvio para um técnico no assunto, modificar o
+                      método presente em D1 em vista de D2 para incluir um microfone de modo que os
+                      dados de diagnóstico podem ser recebidos em forma de som.
+       Em sua manifestação, a requerente apresentou novas vias do quadro reivindicatório onde
+alega ter limitado o objeto pleitado na reivindicação independente 1 por meio da adição das
+seguintes características técnicas em destaque (negrito e sublinhado):
+                      1. Método de operação de um terminal portátil para o diagnóstico de um
+                      eletrodoméstico, caracterizado pelo fato de o método compreender:
+                      iniciar o diagnóstico no eletrodoméstico através de uma aplicação de diagnóstico
+                      inteligente em resposta a uma entrada do usuário;
+                      exibir uma instrução sobre como manipular o eletrodoméstico selecionado através
+                      do menu de seleção para emitir um sinal sonoro incluindo a informação sobre o
+                      produto do eletrodoméstico;
+                      exibir uma posição com uma imagem no eletrodoméstico, à qual o terminal portátil
+                      está localizado de maneira próxima;
+                      exibir um menu de gravação através de uma unidade de exibição;
+                      gravar o sinal sonoro emitido pelo eletrodoméstico e incluindo a informação
+                      sobre o produto e recebido através de um microfone de acordo com uma seleção
+                      do menu de gravação;
+                      extrair informação sobre o produto do eletrodoméstico a partir do sinal sonoro
+                      gravado;
+                      realizar diagnóstico baseado na informação sobre o produto extraída; e
+                      exibir um resultado da realização do diagnóstico através da unidade de exibição.
+       Adicionalmente, a requerente apresentou as seguintes alegações:
+                      2) Com relação aos requisitos de patenteabilidade da presente invenção frente às
+                      anterioridades D1, D2 e D3
+                      
+                      Inicialmente, a Requerente vem esclarecer que na nova reivindicação
+                      independente 1, o sinal sonoro inclui informações sobre o produto do
+                      eletrodoméstico e informações do produto do eletrodoméstico extraídas do
+                      som gravado. As anterioridades citadas pelo Sr. Examinador falham em descrever
+                      ou sugerir pelo menos esta característica.
+                      Tanto D1 quanto D2 não incluem informações sobre o produto no sinal de som,
+                      nem extraem informações do produto do sinal de som.
+                      Portanto, pode-se concluir que a presente invenção apresenta atividade inventiva
+                      frente às anterioridades citadas D1 (US20020130784), D2 (US20050028034) e D3
+                      (US20020161875).
+       Cabe ressaltar que, apesar da alegação da requerente de que houve uma restrição do
+objeto pleiteado no quadro reivindicatório, a dita nova característica técnica já encontrava-se
+presente no quadro reivindicatório anteriormente pleiteado, ao descrever que:
+                       exibir uma instrução sobre como manipular o eletrodoméstico selecionado
+                      através do menu de seleção para emitir um sinal sonoro incluindo a
+                      informação sobre o produto do eletrodoméstico; ...
+       Assim já encontrava implicitamente pleiteado gravar o sinal sonoro emitido pelo
+eletrodoméstico e incluindo a informação sobre o produto, visto que, conforme etapa
+anterior do referido método, o sinal emitido pelo eletrodoméstico incluía a dita informação. Vale
+pontuar que, no parecer anterior aponta que:
+                      A característica técnica exibir uma instrução sobre como manipular o
+                      eletrodoméstico selecionado através do menu de seleção para emitir um sinal
+
+
+
+                                                                                               Página 4
+                                       BR112013016650-9
+
+                       sonoro incluindo a informação sobre o produto do eletrodoméstico se encontra
+                       antecipada pelos ensinamentos da anterioridade D1 (ver D1, figuras 4 e 13 e
+                       parágrafos [0075]-[0077]) que descreve que instruções são exibidas, através de
+                       uma interface gráfica do usuário (GUI), em uma tela de um terminal móvel que
+                       fornecem ao usuário informações sobre como manipular um eletrodoméstico em
+                       possível necessidade de reparo.
+        Isto é, já estava pontuado no parecer anterior que a referida característica técnica estava
+antecipada pelo documento D1, não sendo apresentado por parte da requerente
+contra-argumentações relativas a esta informação. Adicionalmente, cabe ressaltar que, conforme
+descrito no Relatório Descritivo do presente pedido, entende-se como informações sobre o
+produto ( ver página 3 linhas 27-31):
+                       O eletrodoméstico armazena informações sobre o produto para cada uma das
+                       etapas nas quais uma operação configurada prossegue. Aqui, a informação
+                       sobre o produto pode incluir informações de operação refletindo o estado de
+                       uma operação atualmente em progresso, informação de falha quando uma
+                       falha ocorre, e informação de configuração definida por um usuário.
+       Apesar do alegado pela requerente de que essa característica não se encontra antecipada
+pelo documento D1, o documento D1 (no parágrafo [0053]) antecipa a dita nova característica do
+envido de informação sobre o produto com mesmo proposito:
+                       [0053] A parte de processamento de informação 103 recebe os sinais de
+                       operação da parte de processamento de operação 101 e o estado de
+                       operação da parte de processamento de controle 102 e faz com que sejam
+                       mantidos na parte de memória 104 como registros de manipulação e
+                       registros de operação. O exemplo do conteúdo desses registros de manuseio e
+                       operação é mostrado na FIG. 10. A parte de processamento de informações
+                       103, além disso, transmite as informações mantidas na parte de memória 104
+                       para o terminal portátil 2 através da parte de processamento de comunicação
+                       105, em resposta a uma solicitação do terminal portátil 2.
+       Assim, apesar da alegação da requerente, reafirma-se que o documento D1 não consegue
+de antecipar de formar explicita apenas que o sinal onde as informações sobre o produto são
+enviadas é um sinal sonoro e que a gravação é para gravar o som recebido através de um
+microfone.
+        Face aos ensinamentos do documento D1, o problema do estado da técnica a ser
+resolvido é como fornecer um meio para transmitir e receber dados de diagnóstico entre dois
+dispositivos, para tal é utilizada emissão de uma onda sonora e a recepção da onda sonora
+através de um microfone. O documento D2, no mesmo campo técnico ou em um campo técnico
+relacionado, antecipa a referida característica técnica. D2 ensinam que as ondas sonoras geradas
+por um aparelho podem ser usadas para diagnosticar o aparelho através de linhas de
+comunicação, onde os sons podem ser gravados por um microfone (ver D2, parágrafos [0039] a
+[0045] e as figuras 1 a 3). Assim, é tido como óbvio para um técnico no assunto, modificar o
+método presente em D1 em vista de D2 para incluir um microfone de modo que os dados de
+diagnóstico podem ser recebidos em forma de som.
+        Desta forma, a matéria pleiteada nas reivindicações 1 não atende ao requisito de atividade
+inventiva, pois decorre de maneira óbvia para um técnico no assunto a partir da combinação dos
+ensinamentos do documento D1 com os ensinamentos de D2 ou da combinação dos
+ensinamentos dos documentos D1, D2 e D3.
+       Nas reivindicações dependentes não foram identificadas características que, mesmo
+quando combinadas com as características de qualquer reivindicação independente a que se
+referem, provejam novidade e/ou a atividade inventiva à matéria.
+
+
+Conclusão
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+
+
+
+                                                                                           Página 5
+                                     BR112013016650-9
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+                                                              Publique-se o indeferimento (9.2).
+
+
+                                                             Rio de Janeiro, 7 de abril de 2022.
+
+
+
+
+Marcos Patricio dos Santos Júnior
+Pesquisador/ Mat. Nº 1707127
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 007/16
+
+
+
+
+                                                                                       Página 6
+

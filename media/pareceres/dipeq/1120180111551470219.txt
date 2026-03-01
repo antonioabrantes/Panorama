@@ -1,0 +1,252 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112018011155-4         N.° de Depósito PCT:US2016/064612
+ Data de Depósito:                   02/12/2016
+ Prioridade Unionista:               US 62/262,140 (02/12/2015)
+ Depositante:                        THE LUBRIZOL CORPORATION (US)
+ Inventor:                           DAVID J. MORETON; PAUL R. STEVENSON; HANNAH
+                                     GREENFIELD; DAVID C. ARTERS; JAMES H. BUSH; PAUL E.
+                                     ADAMS
+ Título:                             SAIS DE AMÔNIO QUATERNÁRIO QUE CONTÊM AMIDA/ÉSTER
+                                     COM PESO MOLECULAR ULTRABAIXO QUE TÊM CAUDAS DE
+                                     HIDROCARBONETO CURTAS
+
+                                                                PARECER
+
+
+         Em 05/07/2021, por meio da petição 870210060942, a Requerente apresentou
+manifestação em resposta ao parecer emitido, notificado na RPI 2622, de 06/04/2021 (despacho
+7.1), não tendo sido apresentadas modificações no pedido.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               No da Petição           Data
+
+Relatório Descritivo                                   1 a 125               870180046642          30/05/2018
+Quadro Reivindicatório                                   1a3                 870200093421          27/07/2020
+Desenhos                                                    1                870180046642          30/05/2018
+Resumo                                                      1                870180046642          30/05/2018
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                               Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                     X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                             X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                       X
+O pedido está de acordo com disposto no art. 32 da LPI                                        X
+Comentários/Justificativas ______________________________
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1 de 5
+                                           BR112018011155-4
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+Comentários/Justificativas ______________________________
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                 WO2015183916                                03/12/2015
+    D2                                 US2012010112                                12/01/2012
+    D3                                 US2007015681                                18/01/2007
+    D4                                 US2015024984                                22/01/2015
+    D5                                 US2015252278                                10/09/2015
+    D6                                 US2015136002                                21/05/2015
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                    1a9
+           Aplicação Industrial
+                                                        Não                     -----
+                                                         Sim                    1a9
+                 Novidade
+                                                        Não                     -----
+                                                         Sim                    -----
+           Atividade Inventiva
+                                                        Não                     1a9
+
+
+
+Comentários/Justificativas
+
+      Em 05/07/2021, por meio da petição 870210060942, a Requerente apresentou
+manifestação em resposta ao parecer emitido, notificado na RPI 2622, de 06/04/2021 (despacho
+7.1), não tendo sido apresentadas modificações no pedido.
+
+      Em sua manifestação, a requerente não teceu comentários a respeito do documento D1.
+Assim sendo, cabe reiterar que o documento D1 divulga uma composição de combustível
+(reivindicações 18 e 19), compreendendo um sal de amônio quaternário e um inibidor de
+corrosão, tal como DDSA ou PIBSI de baixo peso molecular (reivindicações 22-24). O sal de
+amônio quaternário é o produto da reação de (a) um composto quaternizável que é o produto da
+reação de (I) um agente de acilação substituído por hidrocarbila com um substituinte hidrocarbila
+
+
+                                                                                        Página 2 de 5
+                                        BR112018011155-4
+
+
+de Mn = 300-750 e (ii) um composto de nitrogênio ou oxigênio, que pode reagir com o agente de
+acilação, para formar um éster ou amida e tem um grupo amino quaternizável. e (b) um agente
+quaternizante (reivindicação 1). Acresce frisar que tais produtos de reação de sal de amônio
+quaternário, inevitavelmente, sempre contêm um ácido succínico hidrolisado ou anidrido
+substituído com o grupo hidrocarbil/alquenil. D1 também divulga o uso da referida composição
+para evitar depósitos (reivindicação 38).
+
+      A requerente alegou, em sua manifestação, que todos os exemplos ensinados no
+documento D2 usam PIBSA-1000 como o agente de acilação, podendo, portanto, ser inferido
+que este é o agente de acilação preferido. Ademais, os sais preparados com os agentes de
+acilação atualmente reivindicados, em que o substituinte de hidrocarbila possui um peso
+molecular médio numérico (Mn) inferior a 300, oferecem benefícios inesperados sobre os sais
+preparados com PIBSA-1000 ensinados em D2.
+
+      As alegações da requerente, no tocante ao documento D2, foram consideradas
+procedentes, em parte, devido ao fato de que D2 não ensina, explicitamente, que o substituinte
+de hidrocarbila compreende pelo menos um ácido ou anidrido dodecenilsuccínico, um ácido ou
+anidrido hexadecenilsuccínico e um ácido ou anidrido octadecenilsuccínico ou misturas destes.
+
+      Todavia, cabe ressaltar que o documento D2 (reivindicações 1-4, parágrafos 0107, 0165,
+0173, 0177) já ensina e reivindica compostos de amônio quaternário compreendendo o produto
+da reação de (a) um composto quaternizável, que é o produto da reação de (i) um agente de
+acilação substituído por hidrocarbil com um substituinte hidrocarbil de Mn = 200-10000
+(ou seja, o substituinte de hidrocarbila possui um peso molecular médio numérico (M n) inferior a
+300, exatamente como ora reivindicado) e (ii) um composto de nitrogênio ou oxigênio que pode
+reagir com o agente de acilação para formar um éster ou amida e tem um grupo amino
+quaternizável, e (b) um agente quaternizante (reivindicações 1-4, 15 e parágrafos 100-121).
+
+      Relativamente ao documento D3, foram consideradas procedentes as alegações de que o
+referido documento se afasta da matéria objeto de proteção do presente pedido de patente, uma
+vez que é direcionado para composições diferentes e resolvem um problema técnico diferente
+daquele proposto no presente pedido. Além disso, D3 também não menciona que o substituinte
+de hidrocarbila possui um peso molecular médio numérico (M n) inferior a 300 e compreende pelo
+menos um ácido ou anidrido dodecenil succínico, um ácido ou anidrido hexadecenil succínico e
+um ácido ou anidrido octadecenil succínico ou misturas destes.
+
+      As argumentações da requerente com relação ao documento D4 não foram acatadas,
+tendo em vista que o referido documento (reivindicações 7, 8; parágrafos [0104], [0160], [0161])
+divulga um detergente de sal de amônio quaternário e o uso de tais detergentes de sal de
+amônio quaternário em uma composição de combustível para reduzir os depósitos do injetor de
+diesel e remover ou limpar os depósitos existentes nos injetores de diesel. D4 ensina
+(parágrafos [0017]; [0093]-[0095]; [0210] e Fórmula V) que o pacote de aditivos pode
+compreender pelo menos um modificador de fricção que é selecionado de um ou mais
+compostos de fórmula V, em que R7 é um grupo hidrocarbila linear ou ramificado, saturado,
+
+
+
+                                                                                    Página 3 de 5
+                                      BR112018011155-4
+
+
+insaturado ou parcialmente saturado, com cerca de 12 a cerca de 32 átomos de carbono.
+Diante do exposto, observa-se que D4 já ensina o uso de um substituinte hidrocarbila que
+compreende, pelo menos, um anidrido dodecenil succínico (C16H26O3), um anidrido hexadecenil
+succínico (C20H34O3) e um anidrido octadecenil succínico (C 22H38O3) e que consequentemente,
+possui um peso molecular médio numérico (Mn) inferior a 300.
+
+
+
+
+      O documento D5 (parágrafos [0014] a [0023]; [0031]) divulga um método para alimentar
+um motor de combustão interna, que compreende fornecer ao referido motor:
+
+      I. um combustível que é líquido à temperatura ambiente; e
+
+      II. sal de amônio quaternário compreendendo o produto da reação de:
+
+      (a) um composto compreendendo (i) pelo menos um grupo amino terciário, e (ii) um
+substituinte hidrocarbil tendo um peso molecular médio numérico de cerca de 100 a cerca
+de 500; e
+
+      (b) um agente quaternizante adequado para converter o grupo amino terciário de (a) (i)
+em um nitrogênio quaternário, em que o agente de quaternização é selecionado a partir do
+grupo que consiste em sulfatos de dialquil, halogenetos de benzil, carbonatos substituídos com
+hidroearbil; epóxidos de hidroearbila, epóxidos de hidroearbila em combinação com um ácido,
+ou suas misturas.
+
+      Mais especificamente, o documento D5 (parágrafos [00112], [00117] e [0118]) ensina que,
+em algumas modalidades, os sais de amônio quaternário, usados na invenção, são detergentes
+de amida quaternária e/ou éster que podem ser descritos como o produto da reação de: (i) uma
+amida não quaternizada e/ou detergente de éster tendo uma funcionalidade de amina terciária e
+(ii) um agente quaternizante.
+
+      A amida não quaternizada e/ou grupo éster pode ser representado pela seguinte fórmula:
+
+
+
+
+                                                                                  Página 4 de 5
+                                          BR112018011155-4
+
+
+      em que R21 e R22 são um grupo hidrocarbila contendo de 1 a 3 átomos de carbono; R 23 é
+um grupo hidrocarbileno de 1 a 3 átomos de carbono; R 24 é um grupo hidrocarbil contendo de 7
+a 36 átomos de carbono e Y é NH ou O.
+
+      Assim sendo, o documento D5 já ensina o uso de um substituinte hidrocarbila que
+compreende, pelo menos, um ácido dodecenil succínico (C 16H28O4), um ácido hexadecenil
+succínico (C20H36O4) e um ácido octadecenil succínico (C 22H40O4) e também ensina,
+explicitamente, que o referido substituinte hidrocarbila possui um peso molecular médio
+numérico (Mn) inferior a 300.
+
+      Relativamente ao documento D6, foram consideradas procedentes as alegações da
+requerente de que D6 não ensina ou sugere um agente de acilação de substituinte hidrocarbila
+derivado de um hidrocarboneto com um baixo peso molecular, e também não descreve
+especificamente o substituinte de hidrocarbila do agente de acilação do presente pedido.
+
+      Diante da análise técnica das referências patentárias citadas, bem como das
+argumentações     apresentadas     tempestivamente      pela      requerente,   considera-se   que os
+documentos D1, D2, D4 e D5 ainda são relevantes à atividade inventiva da matéria objeto de
+proteção do presente pedido de patente.
+
+
+
+
+Conclusão
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º e Art. 13 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                    Publique-se o indeferimento (9.2).
+
+
+
+                                                                  Rio de Janeiro, 22 de agosto de 2021.
+
+
+
+
+Carla Maria Salerno Polato
+Pesquisador/ Mat. Nº 1485559
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                          Página 5 de 5
+

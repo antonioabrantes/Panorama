@@ -1,0 +1,367 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR102013009462-5           N.° de Depósito PCT:
+ Data de Depósito:                     18/04/2013
+ Prioridade Interna:                   02 585-0 17/10/2012 (BR 10 2012)
+ Depositante:                          LORENZETTI            S.A.       INDÚSTRIAS                 BRASILEIRAS
+                                       ELETROMETALÚRGICAS (BRSP)
+ Inventor:                             CLÁUDIO LOURENÇO LORENZETTI
+ Título:                               Aparelho elétrico de aquecimento de água
+
+                                                                  PARECER
+
+     Foi publicado na RPI 2675 de 12/04/2022 um despacho 7.1 referente ao pedido
+BR102013009462-5. Através da petição 870220060987 de 11/07/2022, a Requerente apresentou
+manifestação em relação ao parecer, onde foram apresentados esclarecimentos e nova via do
+Quadro Reivindicatório.
+
+     Através da petição 860150150090 de 15/07/2015 e da petição petição 860150198728 de
+04/09/2015, DURATEX S. A. apresentou subsídios ao exame técnico, tendo sido anexados os
+seguintes documentos: US4.752.975, US4.865.254 e US6.442.775.
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas       n.o da Petição            Data
+
+Relatório Descritivo                                   1/11 a 11/11         870220016927            25/02/2022
+Quadro Reivindicatório                                    1/2 a 2/2         870220060987            11/07/2022
+Desenhos                                                  1/6 a 6/6         870220016927            25/02/2022
+Resumo                                                          1/1         870220016927            25/02/2022
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                               Sim        Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                       x
+O pedido está de acordo com disposto no art. 32 da LPI                                        x
+Comentários/Justificativas
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                              Página 1
+                                                         BR102013009462-5
+
+
+
+                  Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                   Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                              x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                                             x
+Comentários/Justificativas
+   Segundo Art. 25 da LPI, As reivindicações deverão ser fundamentadas no relatório descritivo,
+caracterizando as particularidades do pedido e definindo, de modo claro e preciso, a matéria
+objeto da proteção.
+
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                                       Data de publicação
+   D1         US4865254A                                                                                   12/09/1989
+    D2        US6442775B1 (US2002035752A1)                                                                 03/09/2002
+    D3        CN201214080Y                                                                                 01/04/2009
+    D4        CN101761666A                                                                                 30/06/2010
+    D5        JPH0355018A                                                                                  08/03/1991
+    D6        US6256808B1                                                                                  10/07/2001
+    D7        CN201588971U                                                                                 22/09/2010
+    D8        CN101703378A                                                                                 12/05/2010
+    D9        US8082610B2                                                                                  27/12/2011
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                     Cumprimento                Reivindicações
+                                                                           Sim                           1-9
+             Aplicação Industrial
+                                                                          Não                            ---
+                                                                           Sim                           1-9
+                     Novidade
+                                                                          Não                            ---
+                                                                           Sim                           ---
+             Atividade Inventiva
+                                                                          Não                            1-9
+Comentários/Justificativas
+
+   A seguir encontram-se discriminadas as reivindicações do pedido BR102013009462-5 contidas
+nas petições 870220060987 e 870220016927.
+
+                 BR102013009462-5                                                      BR102013009462-5
+                petição 870220016927                                                  petição 870220060987
+1a. Aparelho elétrico de aquecimento de água (100)                       1. Aparelho elétrico de aquecimento de água (100)
+compreendendo                                                            compreendendo
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                               Página 2
+                                                        BR102013009462-5
+
+1b. uma entrada de água (22),                                         uma entrada de água (22),
+1c. uma câmara de aquecimento (20)                                    uma câmara de aquecimento (20)
+1d. onde está alojada uma resistência elétrica (26)                   onde está alojada uma resistência elétrica (26)
+1e. e pelo menos uma primeira e segunda saídas                        e pelo menos uma primeira e segunda saídas (3,4)
+(3,4) de água,                                                        de água,
+                                                                       o aparelho (100) sendo caracterizado pelo fato de
+                                                                      que a câmara de aquecimento de água compreende
+                                                                      um duto de saída (25) de água aquecida associada
+                                                                      a um derivador (15),
+9. Aparelho elétrico de aquecimento de água de                        o derivador (15) sendo associado a primeira saída
+acordo com a reivindicação 3, ... o derivador (15)                    (3) de água através de um primeiro elemento de
+compreendendo uma pluralidade de elementos de                         derivação (14) e à segunda saída (4) de água
+derivação (14,17,18) para comunicação fluídica da                     através de um segundo elemento de derivação (17),
+câmara de aquecimento com cada saída de água
+(3,4,5).
+1f. o aparelho (100) sendo caracterizado pelo fato em que as primeira e segunda saídas (3,4) de água
+de que as primeira e segunda saídas (3,4) de água compreendem, cada qual, um espalhador (33, 36)
+compreendem, cada qual, um espalhador (33, 36)     instalado no corpo do aparelho (100),
+instalado no corpo do aparelho (100),
+1g. de tal modo que o jato de água das primeira e                     de tal modo que o jato de água das primeira e
+segunda saídas (3,4) de água é concorrente,                           segunda saídas (3,4) de água é concorrente, e
+1h. em que pelo menos um das primeira e segunda                       em que pelo menos um das primeira e segunda
+saídas (3, 4) de água compreende um sistema                           saídas (3, 4) de água compreende um sistema
+regulador angular (27,28) para alteração da direção                   regulador angular (27,28) para alteração da direção
+do jato de água.                                                      do jato de água.
+2. Aparelho elétrico de aquecimento de água de                        2. Aparelho elétrico de aquecimento de água de
+acordo com a reivindicação 1, caracterizado pelo                      acordo com a reivindicação 1, caracterizado pelo
+fato de que compreende uma terceira saída (5) de                      fato de que compreende uma terceira saída (5) de
+água                                                                  água
+à qual é associável uma mangueira.                                    à qual é associável uma mangueira.
+3. Aparelho elétrico de aquecimento de água de                        3. Aparelho elétrico de aquecimento de água de
+acordo com qualquer uma das reivindicações 1 e 2,                     acordo com qualquer uma das reivindicações 1 e 2,
+caracterizado pelo fato de que as saídas de água (3,                  caracterizado pelo fato de que as saídas de água (3,
+4, 5) são seletivamente operáveis, manual ou                          4, 5) são seletivamente operáveis, manual ou
+automaticamente, de modo concomitante ou                              automaticamente, de modo concomitante ou
+alternado por meio de um elemento seletor (8) de                      alternado por meio de um elemento seletor (8) de
+saída.                                                                saída.
+4. Aparelho elétrico de aquecimento de água de                        4. Aparelho elétrico de aquecimento de água de
+acordo com a reivindicação 1, caracterizado pelo                      acordo com a reivindicação 1, caracterizado pelo
+fato de que a primeira saída (3) é associada a uma                    fato de que a primeira saída (3) é associada a uma
+primeira porção (1) do corpo do aparelho (100) e a                    primeira porção (1) do corpo do aparelho (100) e a
+segunda saída (4) é associada a uma segunda                           segunda saída (4) é associada a uma segunda
+porção (2) do corpo do aparelho (100), as primeira e                  porção (2) do corpo do aparelho (100), as primeira e
+segunda porções (1,2) sendo associáveis entre si.                     segunda porções (1,2) sendo associáveis entre si.
+5. Aparelho elétrico de aquecimento de água de                        5. Aparelho elétrico de aquecimento de água de
+acordo com a reivindicação 1, caracterizado pelo                      acordo com a reivindicação 1, caracterizado pelo
+fato de que a segunda saída (4) é configurada como                    fato de que a segunda saída (4) é configurada como
+um chuveiro projetando o jato de água de modo                         um chuveiro projetando o jato de água de modo
+vertical e a primeira saída (3) é configurada como                    vertical e a primeira saída (3) é configurada como
+uma ducha projetando o jato de água concorrente                       uma ducha projetando o jato de água concorrente
+com o jato da segunda saída (4).                                      com o jato da segunda saída (4).
+6. Aparelho elétrico de aquecimento de água de                        6. Aparelho elétrico de aquecimento de água de
+acordo com a reivindicação 1, caracterizado pelo                      acordo com a reivindicação 1, caracterizado pelo
+fato de que o primeiro sistema regulador angular                      fato de que o primeiro sistema regulador angular
+(27) compreende um conjunto de dentes (29)                            (27) compreende um conjunto de dentes (29)
+implementados na primeira porção (1) do corpo do                      implementados na primeira porção (1) do corpo do
+aparelho (100), os dentes (29) sendo projetados de                    aparelho (100), os dentes (29) sendo projetados de
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                               Página 3
+                                                        BR102013009462-5
+
+modo a permitir o deslizamento por interferência de                   modo a permitir o deslizamento por interferência de
+pinos (30) associados ao espalhador da primeira                       pinos (30) associados ao espalhador da primeira
+saída (3) de água.                                                    saída (3) de água.
+7. Aparelho elétrico de aquecimento de água de                        7. Aparelho elétrico de aquecimento de água de
+acordo com a reivindicação 1, caracterizado pelo                      acordo com a reivindicação 1, caracterizado pelo
+fato de que o segundo sistema regulador angular                       fato de que o segundo sistema regulador angular
+(28) compreende um conjunto de dentes (29)                            (28) compreende um conjunto de dentes (29)
+implementados na segunda porção (2) do corpo do                       implementados na segunda porção (2) do corpo do
+aparelho (100), os dentes (29) sendo projetados de                    aparelho (100), os dentes (29) sendo projetados de
+modo a permitir o delizamento por interferência de                    modo a permitir o delizamento por interferência de
+pinos (30) associados ao espalhador da segunda                        pinos (30) associados ao espalhador da segunda
+saída (4) de água.                                                    saída (4) de água.
+8. Aparelho elétrico de aquecimento de água de                        8. Aparelho elétrico de aquecimento de água de
+acordo com a reivindicação 1, caracterizado pelo                      acordo com a reivindicação 1, caracterizado pelo
+fato de que cada espalhador de cada saída de água                     fato de que cada espalhador de cada saída de água
+(3,4) é configurado por, no mínimo, um orifício em                    (3,4) é configurado por, no mínimo, um orifício em
+forma de uma figura geométrica composta                               forma de uma figura geométrica composta
+majoritamente por linhas retas (33) ou curvas (36).                   majoritamente por linhas retas (33) ou curvas (36).
+9. Aparelho elétrico de aquecimento de água de                        9. Aparelho elétrico de aquecimento de água de
+acordo com a reivindicação 3, caracterizado pelo                      acordo com a reivindicação 3, caracterizado pelo
+fato de que a câmara de aquecimento (20) comunica                     fato de que o derivador (15) é acionável pelo
+com cada saída de água (3,4,5) através de um                          elemento seletor (8), o derivador (15)
+derivador (15) acionável pelo elemento seletor (8), o                 compreendendo uma pluralidade de elementos de
+derivador (15) compreendendo uma pluralidade de                       derivação (14,17,18) para comunicação fluídica da
+elementos de derivação (14,17,18) para                                câmara de aquecimento com cada saída de água
+comunicação fluídica da câmara de aquecimento                         (3,4,5).
+com cada saída de água (3,4,5).
+
+
+   Foi apresentada pela Requerente uma nova reinvindicação independente 1 com intuito de
+esclarecer as características técnicas da presente invenção no que diz respeito a um aparelho
+elétrico de aquecimento de água. Segundo petição 870220060987 (pág. 3/4): a requerente
+melhor define na nova reivindicação independente nº 1 elementos do aquecimento de água em
+si, pela inserção das características do derivador 15 possuir um primeiro elemento de derivação
+14 (derivador-ducha) e um segundo elemento de derivação 17 (derivador-chuveiro),
+evidenciando como a água aquecida é conduzida da câmara de aquecimento para as
+saídas/jatos de água. Ainda segundo petição 870220060987 (pág. 4/4): quaisquer
+características técnicas relacionadas a mais de um crivo para saída de água dos aparelhos
+revelados nos documentos de anterioridades D1 a D9 não seriam aplicáveis ao objeto da
+presente invenção.
+
+  A matéria da reivindicação dependente 9 já está parcialmente contida na matéria da
+reivindicação independente 1, conforme mostrado na tabela a seguir, portanto não obedecendo ao
+IN 030/2013, Art. 30, inciso I onde a quantidade de reivindicações independentes e dependentes
+deve ser suficiente para definir corretamente o objeto do pedido; Art. 50, inciso I, onde as
+reivindicações independentes visam a proteção de características técnicas essenciais e
+específicas da invenção em seu conceito integral, cabendo a cada categoria de reivindicação
+pelo menos uma reivindicação independente; e Art. 60, inciso I, onde as reivindicações
+dependentes são aquelas que, mantida a unidade de invenção, incluem todas as características
+de outra(s) reivindicação(ões) anterior(es) e definem detalhamentos dessas características
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                              Página 4
+                                                       BR102013009462-5
+
+
+e/ou características adicionais que não sejam consideradas características essenciais da
+invenção, devendo conter uma indicação de dependência a essa(s) reivindicação(ões) e a
+expressão "caracterizado por". Ainda segundo Art. 25 da LPI, As reivindicações deverão ser
+fundamentadas no relatório descritivo, caracterizando as particularidades do pedido e
+definindo, de modo claro e preciso, a matéria objeto da proteção. A matéria de uma
+reivindicação dependente que é considerada uma característica não essencial da invenção
+não pode ser ao mesmo tempo uma característica técnica essencial e específica da
+invenção.
+
+               BR102013009462-5                                                      BR102013009462-5
+              petição 870220060987                                                  petição 870220060987
+1. o aparelho (100) sendo caracterizado pelo                          9. Aparelho elétrico de aquecimento de água de
+fato ... o derivador (15) sendo associado a                            acordo com a reivindicação 3, ... o derivador (15)
+primeira saída (3) de água através de um                               compreendendo uma pluralidade de elementos
+primeiro elemento de derivação (14) e à                                de derivação (14,17,18) para comunicação
+segunda saída (4) de água através de um                                fluídica da câmara de aquecimento com cada
+segundo elemento de derivação (17),                                    saída de água (3,4,5).
+
+
+
+   Segundo Relatório Descritivo (pág. 5/11) Os objetivos da presente invenção são alcançados
+através de um aparelho elétrico de aquecimento de água compreendendo uma entrada de água,
+uma câmara de aquecimento e pelo menos uma primeira e segunda saídas de água que
+compreendem, cada qual, um espalhador instalado no corpo do aparelho, de tal modo que o jato
+de água das primeira e segunda saídas de água é substancialmente concorrente.
+
+   A parte caracterizante da reivindicação independente 1 reivindica que as primeira e segunda
+saídas (3,4) de água compreendem, cada qual, um espalhador (33, 36) instalado no corpo do
+aparelho (100), de tal modo que o jato de água das primeira e segunda saídas (3,4) de água é
+substancialmente           concorrente              [vide            US4865254A       (D1),      US6442775B2        (D2),
+CN201214080Y(D3),              CN101761666A                 (D4),      JPH0355018A       (D5),    US6256808B1       (D6),
+CN201588971U (D7), CN101703378A (D8), US8082610B2(D9)], e em que pelo menos um das
+primeira e segunda saídas (3, 4) de água compreende um sistema regulador angular (27,28)
+para alteração da direção do jato de água [vide US6442775B1(D2), CN201214080Y(D3),
+CN101761666A(D4),                JPH0355018A                 (D5),       US6256808B1(D6),          CN201588971U(D7),
+US8082610B2(D9)]. Foi adicionada à parte caracterizante a seguinte característica: que a
+câmara de aquecimento de água compreende um duto de saída (25) de água aquecida
+associado a um derivador (15), o derivador (15) sendo associado a primeira saída (3) de água
+através de um primeiro elemento de derivação (14) e à segunda saída (4) de água através de
+um segundo elemento de derivação (17). A matéria adicionada a parte caracterizante da
+reivindicação independente 1 não apresenta um efeito técnico novo, além de parte desta matéria
+estar inserida na reivindicação dependente 9. A matéria que a câmara de aquecimento de água
+compreende um duto de saída (25) de água aquecida associada a um derivador (15) não
+apresenta um efeito técnico novo. A expressão de água aquecida é uma característica
+
+
+
+       Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                                Página 5
+                                                        BR102013009462-5
+
+
+explicativa (vide IN 030/2013, Art. 40, inciso VIII, onde não serão aceitas em reivindicações
+trechos explicativos com relação às vantagens e ao simples uso do objeto).
+
+  A reivindicação 2 dependente da reivindicação 1, reivindica uma terceira saída (5) de água (à
+qual é associável uma mangueira) [vide US6442775B1(D2), US8082610B2(D9)]. A característica
+da terceira saída de água ser associada a uma mangueira não constitui matéria patenteável.
+Documentos D2 e D9 apresentam saídas de água relacionadas a uma mangueira.
+
+  A reivindicação 3 dependente das reivindicações 1 e 2, reivindica de que as saídas de água
+(3, 4, 5) são seletivamente operáveis, manual ou automaticamente, de modo concomitante ou
+alternado por meio de um elemento seletor (8) de saída [vide US4865254A (D1), US6442775B2
+(D2), CN201214080Y(D3), CN101761666A (D4), JPH0355018A (D5), US6256808B1 (D6),
+CN201588971U (D7), CN101703378A (D8), US8082610B2(D9)].
+
+  A reivindicação 4 dependente da reivindicação 1, reivindica que a primeira saída (3) é
+associada a uma primeira porção (1) do corpo do aparelho (100) e a segunda saída (4) é
+associada a uma segunda porção (2) do corpo do aparelho (100), as primeira e segunda
+porções (1,2) sendo associáveis entre si [vide CN101761666A(D4), US6256808B1(D6),
+CN201588971U(D7), CN101703378A(D8), US8082610B2 (D9)].
+
+   A reivindicação 5 dependente da reivindicação 1, reivindica que a segunda saída (4) é
+configurada como um chuveiro projetando o jato de água de modo substancialmente vertical e a
+primeira saída (3) é configurada como uma ducha projetando o jato de água substancialmente
+concorrente com o jato da segunda saída (4)                           [vide US6442775B1(D2), CN201214080Y(D3),
+CN101761666A(D4),                    JPH0355018A(D5),                  US6256808B1(D6),     CN201588971U(D7),
+US8082610B2(D9)].
+
+   A reivindicação 6 dependente da reivindicação 1, reivindica que o primeiro sistema regulador
+angular (27) compreende um conjunto de dentes (29) implementados na primeira porção (1) do
+corpo do aparelho (100), os dentes (29) sendo projetados de modo a permitir o deslizamento por
+interferência de pinos (30) associados ao espalhador (10) da primeira saída (3) de água. Esta
+matéria apresenta um objetivo funcional, não apresentando um efeito técnico novo.
+
+  A reivindicação 7 dependente da reivindicação 1, reivindica que o segundo sistema regulador
+angular (28) compreende um conjunto de dentes (29) implementados na segunda porção (2) do
+corpo do aparelho (100), os dentes (29) sendo projetados de modo a permitir o delizamento por
+interferência de pinos (30) associados ao espalhador (10) da segunda saída (4) de água. Esta
+matéria apresenta um objetivo funcional, não apresentando um efeito técnico novo.
+
+  A reivindicação 8, dependente da reivindicação 1, reivindica que cada espalhador (10) de cada
+saída de água (3,4) é configurado por, no mínimo, um orifício em forma de uma figura geométrica
+composta majoritamente por linhas retas (33) ou curvas (36) [(vide CN201214080Y (D3),
+CN101761666A(D4), CN201588971U(D7), US8082610B2(D9)].
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                   Página 6
+                                                        BR102013009462-5
+
+
+   A reivindicação 9, dependente da reivindicação 3, reivindica que o derivador (15) acionável
+pelo elemento seletor (8), o derivador (15) compreendendo uma pluralidade de elementos de
+derivação (14,17,18) para comunicação fluídica da câmara de aquecimento com cada saída de
+água (3,4,5). Esta matéria não apresenta um efeito técnico novo, além de parte já estar contida na
+reivindicação independente 1.
+
+   A invenção é dotada de atividade inventiva sempre que, para um técnico no assunto,
+não decorra de maneira evidente ou óbvia do estado da técnica. É óbvio para um técnico
+no assunto, para que seja alcançado o mesmo resultado da matéria da reivindicação
+independente 1 do                 documento BR102013009462-5, seja aplicado as características
+expostas em quaisquer um dos documentos de anterioridade apontados.
+
+   Quanto as reivindicações dependentes 2-9, conforme exposto, suas matérias não definem
+detalhamentos de características adicionais que sejam consideradas essenciais a invenção; ou
+suas matérias já se encontram embutidas nos documentos de anterioridade apontados; ou para
+um técnico no assunto decorrem de maneira evidente ou óbvia do estado da técnica.
+
+
+Conclusão
+
+   Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+   - não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI e ao Art.
+25 da LPI).
+
+   De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+                                                                               Publique-se o indeferimento (9.2).
+
+                                                                           Rio de Janeiro, 22 de agosto de 2022.
+
+
+Neide de Oliveira Gomes
+Pesquisador/ Mat. Nº 1203806
+DIRPA / CGPAT III/DIPAT XII
+Deleg. Comp. - Port. INPI/DIRPA Nº 010/17
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                     Página 7
+

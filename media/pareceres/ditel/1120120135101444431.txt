@@ -1,0 +1,227 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112012013510-4           N.° de Depósito PCT:CN2010/079423
+ Data de Depósito:                   03/12/2010
+ Prioridade Unionista:               CN 200910251390.9 (03/12/2009); CN 201010137731.2 (24/03/2010)
+ Depositante:                        HUAWEI TECHNOLOGIES CO., LTD. (CN)
+ Inventor:                           XIAOBO CHEN, CHAOJUN LI
+ Título:                             Método, estação de base e equipamento de usuário para
+                                     retroalimentar informações de ack/nack para agregação de portadoras
+                                     
+
+                                                              PARECER
+          O presente pedido de Patente de Invenção se enquadra no âmbito da PORTARIA
+INPI/PR N° 412, DE 2020, estabelecida no Plano de Ataque ao Backlog de Patentes elaborado
+pela DIRETORA DE PATENTES, PROGRAMAS DE COMPUTADOR E TOPOGRAFIAS DE
+CIRCUITOS INTEGRADOS do INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+(DIRPA).
+
+          Por meio dos atos normativos para execução do referido plano, a Administração do INPI
+avoca a responsabilidade sobre os procedimentos adotados no presente exame técnico.
+
+          Em 08/09/2015, por meio da petição 860150201872, a Requerente apresentou
+modificações voluntárias no relatório descritivo, quadro reivindicatório e no resumo. o título do
+pedido foi alterado para Método para retroalimentar informações de ack/nack, estação base e
+equipamento de usuário.
+
+          Em 23/03/2020, por meio da petição 870200038312, a Requerente apresentou
+modificações no pedido em resposta ao parecer emitido, notificado na RPI 2555 de 24/12/2019
+(despacho 6.21). Estas modificações estão consideradas no Quadro 1.
+
+          Em 21/06/2021, por meio da petição 870210055733, a Requerente apresentou
+modificações no pedido em resposta ao parecer emitido, notificado na RPI 2621 de 30/03/2021
+(despacho 7.1). Estas modificações estão consideradas no Quadro 1.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                    1 a 40               870210055733     21/06/2021
+Quadro Reivindicatório (QR)                              1a3                 870210055733     21/06/2021
+Quadro Reivindicatório (QRv)                             1a7                 860130005964     30/10/2013
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                         BR112012013510-4
+
+
+Desenhos                                  1a6                  020120072750            03/08/2012
+Resumo                                      1                  860150201872            08/09/2015
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                               Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                             X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                     X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                       X
+O pedido está de acordo com disposto no art. 32 da LPI                                          X
+Comentários/Justificativas:
+
+   1. Análise contida no parecer anterior:
+
+       1. A Requerente        apresentou     na   petição     870200038312    alterações   no       quadro
+           reivindicatório (QR) contendo 8 reivindicações, das quais as reivindicações 1, 4, 7 e 8
+           são reivindicações independentes.
+
+       2. Comparando o quadro apresentado (QR) com o quadro válido (QRv) (petição
+           860130005964, de 30/10/2013), vemos que as novas reivindicações 1, 7 e 8 tiveram
+           seu escopo ampliado, conforme apresentado abaixo:
+
+       3. Uma parte das características técnicas da reivindicação 1 do quadro reivindicatório
+           antigo (QRv) foi suprimida no seguinte trecho da nova reivindicação 1: ...de modo que
+           o equipamento de usuário retroalimente as informações de ACK/NACK conforme a
+           DCI..
+
+       4. Uma parte das características técnicas das reivindicações 13 e 15 do quadro
+           reivindicatório antigo (QRv) foi suprimida nos seguintes trechos das novas
+           reivindicações 7 e 8: Estação base caracterizada pelo fato e Equipamento de usuário
+           caracterizado pelo fato.
+
+   2. Modificações contidas nas reivindicações apresentadas:
+
+       1. A Requerente        apresentou     na   petição     870210055733    alterações   no       quadro
+           reivindicatório (QR) contendo 8 reivindicações, das quais as reivindicações 1, 4, 7 e 8
+           são reivindicações independentes.
+
+       2. As modificações apresentadas se restringem a corrigir termos traduzidos de forma
+           errônea. Não foi alterado o conteúdo reivindicado.
+
+   3. Argumentação referente ao art. 32:
+
+       1. os efeitos de que o equipamento de usuário retroalimente as informações de
+           ACK/NACK conforme a DCI podem ser realizados naturalmente. Portanto, a
+           Requerente respeitosamente alega que o escopo da reivindicação 1 não é ampliado ao
+
+
+
+                                                                                                Página 2
+                                           BR112012013510-4
+
+
+           eliminar o efeito técnico o equipamento de usuário retroalimente as informações de
+           ACK/NACK conforme a DCI.
+
+       2. a Requerente respeitosamente alega que Aparelho, CARACTERIZADO pelo fato de
+           (QR) reivindica o mesmo escopo que Estação base, CARACTERIZADA pelo fato de
+           (QRv). A Requerente respeitosamente alega que apenas o nome não altera o escopo
+           da reivindicação, e que a presente reivindicação 7 reivindica as características técnicas
+           correspondentes         da       reivindicação       anterior   (reivindicação   1)...
+           A Requerente respeitosamente alega que o escopo da reivindicação 8 não é ampliado
+           pelas mesmas razões.
+
+   4. Análise das considerações referentes ao art. 32:
+
+       1. De fato, a partir da redação do relatório descritivo e da reivindicação é possível chegar
+           ao entendimento que o equipamento de usuário retroalimente informações de ACK e
+           NACK com informação de controle de enlace descendente (DCI). Dessa forma, a
+           inclusão do termo na referida reivindicação, que podem ser realizados naturalmente,
+           não traria prejuízo ao conteúdo reivindicado. Entretanto, tal característica pode ser
+           realizada de distintas formas no estado da técnica, por exemplo separadamente as
+           informações de ACK e NACK ou através de um canal específico, ou seja, existem
+           características que podem ser agregadas a essa informação. Dessa forma, retirar a
+           característica da reivindicação acarreta em acréscimo de matéria, já que foi
+           anteriormente pleiteado no quadro reivindicatório válido e não está presente no quadro
+           atual. Dessa forma, está claro que há acréscimo de matéria do conteúdo reivindicado
+           ao suprimir tal característica da reivindicação independente 1.
+
+       2. Respeitosamente discordamos da requerente quanto a alegação que o preâmbulo das
+           reivindicações 7 e 8 não alteram o escopo da reivindicação. É de amplo conhecimento
+           que a palavra aparelho é mais genérica que a palavra estação base ou
+           equipamento de usuário. Na verdade, as duas palavras estação base e
+           equipamento de usuário foram substituídas pela palavra aparelho. Dessa forma há
+           evidente acréscimo no escopo de proteção do conteúdo das reivindicações 7 e 8.
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                              Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI          --            --
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI        --            --
+Comentários/Justificativas:
+
+   1. Tendo em vista que o pedido não está de acordo com o Artigo 32 da LPI, não serão tecidos
+       comentários quanto aos Artigos 24 e 25 da LPI, conforme a Norma de Execução SEI Nº
+       7/2019, procedimento P029, item 5.2.25.2.
+
+                           Quadro 4  Documentos citados no parecer
+
+
+
+                                                                                            Página 3
+                                          BR112012013510-4
+
+
+ Código                                  Documento                              Data de publicação
+     --        --                                                                          --
+          Em conformidade com a Resolução N° 241, de 2019, artigo 3º, Inciso I, exarado pela
+DIRPA, que avoca a responsabilidade sobre os procedimentos do exame técnico, não foram
+realizadas buscas suplementares por este Instituto. Portanto, os documentos de anterioridade
+analisados neste parecer são exclusivamente oriundos de buscas e/ou no exame técnico
+realizados por Escritórios de Patentes de outros países, de Organizações Internacionais ou
+Regionais.
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade               Cumprimento                Reivindicações
+                                                      Sim                          --
+              Aplicação Industrial
+                                                      Não                          --
+
+                                                      Sim                          --
+                    Novidade
+                                                      Não                          --
+
+                                                      Sim                          --
+              Atividade Inventiva
+                                                      Não                          --
+Comentários/Justificativas
+
+          De acordo com o art.5º §1º da Resolução Nº 240/2019, o exame realizado no escritório
+europeu (EP2680480 B1) e apontado no parecer de exigência preliminar (6.21), é considerado
+como subsídio ao presente exame, sendo aqui apontadas as mesmas considerações quanto aos
+requisitos de patenteabilidade do quadro válido, conforme a procedimento P029, da Norma de
+Execução SEI Nº 7/2019, item 5.2.25.4.
+
+          De acordo com a Resolução INPI 93/2013 o pedido de patente será indeferido
+considerando as razões de não-patenteabilidade apontadas no parecer do exame anterior, e,
+adicionalmente, o Artigo 32 da LPI. Assim, não serão tecidos comentários quanto aos Artigos 8º,
+11, 13 e 15 da LPI, dado que não houve avaliação desses requisitos de patenteabilidade no
+parecer anterior.
+
+Conclusão
+
+          Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -     há acréscimo de matéria do pedido ou do escopo das reivindicações (Art. 32 da LPI)
+
+          De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                   Publique-se o indeferimento (9.2).
+
+
+
+                                                                  Rio de Janeiro, 7 de julho de 2021.
+
+
+                                                                                                Página 4
+                               BR112012013510-4
+
+
+
+
+Daniel de Souza Dias
+Pesquisador/ Mat. Nº 2041265
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+007/16
+
+
+
+
+                                                  Página 5
+

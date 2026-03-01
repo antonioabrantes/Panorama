@@ -1,0 +1,146 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112015011750-3         N.° de Depósito PCT:CN2012/084953
+ Data de Depósito:                   21/11/2012
+ Prioridade Unionista:               -
+ Depositante:                        VERSITECH LIMITED (CN)
+ Inventor:                           RON SHU YUEN HUI
+ Título:                             Acionador para iluminação a led e método de acionamento para
+                                     iluminação a led
+
+                                                                PARECER
+          Em 30/04/2021, por meio da petição 870210039399, a Requerente apresentou
+manifestação em resposta ao parecer emitido, notificado na RPI 2613 de 02/02/2021 (despacho
+7.1). Não foram apresentadas modificações no pedido.
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                 n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 13                 870200009331           20/01/2020
+Quadro Reivindicatório                                   1a3                   870200009331           20/01/2020
+Desenhos                                                 1a5                 860150098936/NPWB        21/05/2015
+Resumo                                                      1                  870200009331           20/01/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                  Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                        X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                          X
+O pedido está de acordo com disposto no art. 32 da LPI                                           X
+Comentários/Justificativas: O novo quadro reivindicatório modificado submetido para exame
+foi aceito, uma vez que as alterações efetuadas limitam-se à matéria inicialmente revelada e
+atendem ao objetivo de melhor esclarecer ou definir a matéria objeto de proteção, atendendo,
+portanto, ao disposto no artigo 32 da Lei nº 9.279/96 (LPI).
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                 Página 1
+                                          BR112015011750-3
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+Comentários/Justificativas: ----
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D3                                 US2010270942                                28/10/2010
+
+   D10                               US2010/0226156A1                              09/09/2010
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento            Reivindicações
+                                                        Sim                    1 a 11
+            Aplicação Industrial
+                                                        Não                      ----
+                                                        Sim                    1 a 11
+                 Novidade
+                                                        Não                      ----
+                                                        Sim                      ----
+            Atividade Inventiva
+                                                        Não                    1 a 11
+Comentários/Justificativas:
+
+         Em sua manifestação apresentada em 30/04/2021, por meio da petição 870210039399, a
+Requerente argumenta sobre os motivos pelos quais acredita que o pedido possui atividade
+inventiva frente os documentos D3 e D10 do estado da técnica.
+
+         Sobre D3 a Requerente alega que este não descreve qualquer circuito com um
+multiplicador de tensão sem exigir um circuito de preenchimento de vale, e que não haveria
+motivação para um técnico no assunto modificar os circuitos descritos em D3 para incluir um
+multiplicador de tensão separado sem um circuito de preenchimento de vale.
+
+         A respeito de D10 a Requerente alega que não seria óbvio para um técnico no assunto
+considerar tal documento como relevante pois aplica-se a altas tensões, em um campo técnico
+diferente do campo da presente invenção, o de acionamento de LEDs.
+
+         Ratificamos a opinião emitida no parecer anterior de que a matéria pleiteada é
+desprovida de atividade inventiva. O documento D3, mesmo que considerado isoladamente,
+sem combinação com D10, revela um acionador para iluminação LED (figura 34) tecnicamente
+equivalente ao pleiteado na presente invenção. D3 também revela um multiplicador de tensão
+
+
+
+                                                                                          Página 2
+                                       BR112015011750-3
+
+
+(parágrafos [0092] e [0099] e figuras) e sugere que os capacitores não precisam ser do tipo
+eletrolíticos ([0154]). Em relação aos circuitos de preenchimento de vale estes costumam serem
+utilizados para a redução do ripple no sinal de saída. Um técnico no assunto ao projetar um
+circuito de acionamento para uma carga que não necessite de uma tensão de saída DC
+rigidamente controlada  como é o caso dos LEDs descritos no pedido de patente  consideraria
+óbvio omitir os circuitos de preenchimento de vale, sem que isso implique no exercício de
+atividade inventiva.
+
+       Portanto, considerando os argumentos acima e os trechos do documento D3 citados no
+parecer anterior, conclui-se que a reivindicação 1 não atende ao requisito atividade inventiva,
+pois decorre de maneira evidente ou óbvia para um técnico no assunto a partir do documento
+D3.
+
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+                                                               Rio de Janeiro, 23 de julho de 2021.
+
+
+
+
+Valmir Antonio Schneider Junior
+Pesquisador/ Mat. Nº 1947284
+DIRPA / CGPAT III/DIFEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/16
+
+
+
+
+                                                                                          Página 3
+

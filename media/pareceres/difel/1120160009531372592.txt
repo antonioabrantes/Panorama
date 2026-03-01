@@ -1,0 +1,143 @@
+                                         SERVIÇO PÚBLICO FEDERAL
+                                          MINISTÉRIO DA ECONOMIA
+                              INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.º do Pedido:                       BR112016000953-3          N.º de Depósito PCT: CN2013/083462
+ Data de Depósito:                    13/09/2013
+ Prioridade Unionista:                CN 201310304343.2 (17/07/2013)
+ Depositante:                         Midea Group CO., LTD. (CN) , Guangdong Midea Kitchen Appliances
+                                      Manufacturing CO., LTD. (CN)
+ Inventor:                            Bin Huang, Xingchao Chen, Nianzhong Zheng
+ Título:                              Método para Controlar uma Fonte de Alimentação de um Dispositivo de
+                                      Aquecimento de Alta Frequência, Aparelho para Controlar uma Fonte de
+                                      Alimentação de um Dispositivo de Aquecimento de Alta Frequência, e,
+                                      Dispositivo de Aquecimento de Alta Frequência
+                                                                      PARECER
+
+      A Requerente recebeu notificação de Ciência de Parecer (7.1) publicada na RPI nº 2601 de
+10/11/2020. Através da petição nº 870210012934 de 08/02/2021, a mesma apresentou
+Manifestação sobre o Parecer Técnico e novo Quadro Reivindicatório. Para fins de continuidade
+do exame estão sendo consideradas as vias abaixo:
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas              Nº da Petição         Data
+                                                                                NPWB 860160051419
+ Relatório Descritivo                                          1-24                                    04/03/2016
+                                                                                   Págs. 39 a 62
+                                                                                  870210012934
+ Quadro Reivindicatório                                         1-3                                    08/02/2021
+                                                                                   Págs. 9 a 11
+                                                                                NPWB 860160051419
+ Desenhos                                                       1-4                                    04/03/2016
+                                                                                   Págs. 64 a 67
+                                                                                NPWB 860160051419
+ Resumo                                                         1                                      04/03/2016
+                                                                                    Págs. 63
+
+                  Quadro 2 - Considerações referentes aos Artigos 10, 18, 22 e 32 da LPI
+ Artigos da LPI                                                                                Sim         Não
+ A matéria enquadra-se no Art. 10 da LPI (não se considera invenção)                                        X
+ A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                                                X
+ O pedido apresenta Unidade de Invenção (Art. 22 da LPI)                                           X
+ O pedido está de acordo com disposto no Art. 32 da LPI                                            X
+Comentários/Justificativas: ----
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                                  Página 1
+                                            BR112016000953-3
+
+                 Quadro 3 - Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                            Sim                     Não
+O relatório descritivo está de acordo com disposto no Art. 24 da LPI                        X
+O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI                      X
+Comentários/Justificativas: ----
+                            Quadro 4 - Documentos citados no parecer
+ Código                                  Documento                                                Data de publicação
+             CN201310962Y
+             Título: IGBT (Insulated Gate Bipolar Transistor) Protection
+    D1                                                                                                   2009-09-16
+             Device of Induction Cooker
+             Depositante: Weiguo Zhou
+
+     Quadro 5 - Análise dos Requisitos de Patenteabilidade (Art. 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento                              Reivindicações
+                                                         Sim                                         1-8
+           Aplicação Industrial
+                                                        Não                                          ----
+                                                         Sim                                         1-8
+                  Novidade
+                                                        Não                                          ----
+                                                         Sim                                         ----
+             Atividade Inventiva
+                                                        Não                                          1-8
+Comentários/Justificativas:
+   Na manifestação a Requerente alega que o documento D1 não revelaria o reinicio do circuito
+de acionamento em resposta ao sinal de onda quadrada após o circuito de acionamento ser
+interrompido pelo sinal de proteção de desarme. D1 depois que o circuito de acionamento é
+interrompido pelo sinal de proteção de desarme, o circuito de acionamento não responde ao sinal
+de onda quadrada. Supondo que ocorra sobrecorrente e o circuito de acionamento seja
+interrompido pelo sinal de proteção de desarme, se o circuito de acionamento responde ao sinal
+de onda quadrada, isso indica que o circuito de acionamento pode ser controlado pelo sinal de
+onda quadrada para funcionar, a proteção para ocorrência de sobrecorrente não pode ser
+alcançada.
+
+   Entretanto, apesar das alegações da Requerente, o documento D1 divulga um aparelho de
+proteção de transistor bipolar de porta isolada (IGBT) de um fogão de indução (que é um
+dispositivo de aquecimento de alta frequência). O aparelho de proteção IGBT compreende um
+circuito de controle de potência síncrona, um circuito de acionamento, um circuito de detecção e
+um circuito de proteção. O circuito de controle de potência síncrona é conectado com o IGBT e um
+circuito que consiste em uma bobina de aquecimento e um capacitor C3 e pode produzir um sinal
+de onda quadrada que é um sinal de modulação por largura de pulso (PWM); o circuito de
+acionamento é conectado ao circuito de controle de potência síncrona e executa uma operação
+intermitente sob o efeito do sinal de onda quadrada de modo a fazer com que o IGBT seja
+
+
+
+                                                    Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12     Página 2
+                                                  BR112016000953-3
+
+repetidamente ligado e desligado; o circuito de oscilação consiste na bobina de aquecimento e na
+oscilação o capacitor C3 opera quando o IGBT está ligado; o circuito de detecção detecta
+continuamente sinais de corrente do IGBT; e o circuito de proteção processa os sinais de corrente
+detectados do IGBT e emite um sinal de proteção de corte para o circuito de acionamento apenas
+quando uma sobrecorrente está presente no IGBT {revelando implicitamente que o aparelho de
+proteção compreende um circuito de comparação para comparar um tempo real corrente com um
+limite de corrente predefinido), de modo a interromper a operação do circuito de acionamento, de
+modo que o IGBT sempre opere dentro de uma faixa de corrente normal e pare de operar quando
+uma corrente anormal estiver presente; um módulo de acionamento é conectado com a porta
+(eletrodo G) do IGBT, e o circuito de controle controla o IGBT de acordo com um sinal de
+comparação; a coordenação do circuito de detecção, o aparelho de proteção e o circuito de
+acionamento permite que o IGBT pare de operar quando uma sobrecorrente estiver presente no
+IGBT e opere normalmente quando nenhuma sobrecorrente estiver presente, de modo que o
+IGBT sempre opere dentro de uma faixa de corrente normal; e porque o circuito de detecção
+detecta continuamente sinais de corrente, revela implicitamente que quando nenhuma
+sobrecorrente está presente, o IGBT recupera a ativação e desativação normais em resposta ao
+sinal PWM, ou seja, o IGBT é ativado em resposta a um sinal de ativação e é desligado até a que
+a mudança de sinal termina e um sinal de desligamento chega, e é ligado quando a próxima
+janela de ligar do sinal de controle (Pág. 3, Parágrafo 2 à Pág. 6, Parágrafo 1 e Figuras 1 e 2).
+
+Conclusão
+    Face ao exposto, conclui-se que a invenção ora pleiteada decorre de maneira evidente ou
+óbvia, para um técnico no assunto, a partir do estado da técnica, sendo desprovida de atividade
+inventiva, conforme Art. 13 da LPI.
+
+    Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que o mesmo não
+atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+    Rio de Janeiro, 28 de fevereiro de 2021.
+
+    Publique-se o indeferimento (9.2).
+
+    CAMILO BRAGA GOMES
+    Pesquisador / Mat. Nº 1547071
+    DIRPA / CGPAT III / DIFEL
+    Deleg. Comp. - Port. INPI / DIRPA Nº 022/12
+
+
+
+
+                                                        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 3
+

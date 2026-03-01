@@ -1,0 +1,192 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR112012009484-0          N.° de Depósito PCT:EP10/005899
+ Data de Depósito:                     28/09/2010
+ Prioridade Unionista:                 DE 10 2009 050 232.7 (21/10/2009)
+ Depositante:                          Sew-Eurodrive Gmbh & Co. Kg (DE)
+ Inventor:                             Michael Kiesel, Ronnie Enenkel, Alexander Junginger
+ Título:                               Aparelho elétrico
+
+                                                                  PARECER
+
+     Foi publicado na RPI 2538 de 27/08/2019 um despacho 7.1 referente ao pedido
+BR112012009484-0. Através da petição 870190097353 de 30/09/2019, a Requerente
+apresentou manifestação sobre o parecer técnico emitido, onde foram apresentados
+esclarecimentos.
+
+                                         Quadro 1  Páginas do pedido examinadas
+
+                 Elemento                                     Páginas       n.o da Petição           Data
+
+Relatório Descritivo                                      1/9 a 9/9         870190045152           14/05/2019
+Quadro Reivindicatório                                    1/3 a 3/3         870190045152           14/05/2019
+Desenhos                                                  1/3 a 3/3         020120035268           20/04/2012
+Resumo                                                          1/1         870190045152           14/05/2019
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                               Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                     x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                             x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                       x
+O pedido está de acordo com disposto no art. 32 da LPI                                        x
+Comentários/Justificativas
+
+
+                      Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                               Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                          x
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                             Página 1
+                                                         BR112012009484-0
+
+
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                              x
+Comentários/Justificativas
+
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                                        Data de publicação
+   D1         WO0048438A1                                                                                      17/08/2000
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade                                   Cumprimento                 Reivindicações
+                                                                           Sim                            1-6
+             Aplicação Industrial
+                                                                           Não                             --
+                                                                           Sim                            1-6
+                     Novidade
+                                                                           Não                             --
+
+                                                                           Sim                             --
+             Atividade Inventiva
+                                                                           Não                            1-6
+Comentários/Justificativas
+
+   A    seguir        encontra-se            transcrita         a       reivindicação   independente       1     do   pedido
+BR112012009484-0 com as matérias colidentes contidas no documento de anterioridade D1.
+
+                   BR112012009484-0                                                               D1
+                  petição 870190045152
+1. Aparelho elétrico (35), que é constituído de                          Aparelho elétrico (fig. 5/6), compreendendo um
+módulos ou compreende módulos constituídos,                              módulo (53) [fig. 6; Abstract] sendo que o módulo
+sendo que os módulos compreendem, cada um, um                            compreende um circuito eletrônico [Abstract] que
+circuito eletrônico que está previsto aplicado em um                     está aplicado em um dissipador de calor (60) [fig. 6]
+respectivo corpo de arrefecimento
+caracterizado pelo fato de que módulos são                               em que o módulo é projetado como participante de
+conformados como participantes de um barramento                          um barramento de sistema [Abstract] e também
+de sistema (33) que também é conduzido até um                            participante de um circuito eletrônico (24) do
+circuito eletrônico conformado como participante do                      barramento de sistema [Figura 2; Abstract],
+barramento de sistema (33),
+sendo que o circuito eletrônico está disposto em                         sendo que o circuito eletrônico (24) está disposto em
+uma parte inferior (1) que está disposta em um                           uma parte inferior que está disposta em um recesso
+recorte do alojamento do aparelho elétrico (35),                         do alojamento do aparelho elétrico [fig. 2/6],
+sendo que uma parte superior (6) pode ser unida de sendo que o circuito eletrônico está disposto em
+modo separável com a parte inferior (1), sendo que uma parte inferior (1) que está disposta em um
+na parte superior (6) é disposto um elemento de    recorte do alojamento do aparelho elétrico (35),
+memória (30) e linhas de dados para seleção do
+elemento de memória (30) são conduzidas por meio
+do circuito eletrônico através de uma conexão por
+encaixe (8) até o circuito eletrônico,
+sendo que o aparelho elétrico (35) é um participante sendo que o aparelho elétrico (fig. 5/6) é um
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                                  Página 2
+                                                         BR112012009484-0
+
+
+de barramento de campo,                                                participante de barramento de campo,
+sendo que a parte inferior (1) é a parte inferior (1) de sendo que a parte inferior (2) é a parte inferior de um
+um conector de encaixe                                   conector de encaixe
+e a parte superior (6) é a parte superior (6) de um                    e a parte superior (1) é a parte superior de um
+conector de encaixe,                                                   conector de encaixe,
+sendo que as linhas de barramento de campo                             sendo que as linhas de barramento de campo
+conduzem até a parte superior (6),                                     conduzem até a parte superior (1),
+sendo que o endereço de participantes do aparelho                      sendo que o endereço de participantes do aparelho
+elétrico (35), que é previsto para a transferência de                  elétrico, que é previsto para a transferência de
+dados no barramento de campo, é memorizado no                          dados no barramento de campo, é memorizado no
+elemento de memória (30)                                               elemento de memória.
+na parte superior (6) do conector de encaixe.
+
+
+    Segundo manifestação (pág. 3/4), O documento D1 refere-se a uma caixa de distribuição,
+compreendendo circuitos eletrônicos, uma parte inferior de alojamento (2) e partes superiores de
+alojamento (1, 51, 52, 53) de um conector alimentador que inclui uma primeira e uma segunda
+parte de conector (21, 61), sendo que tiras de aperto ou similares para conectar um cabeamento à
+segunda parte de conector correspondente (21,61) são montadas na parte inferior de alojamento
+(2).
+    Ainda segundo manifestação (pág. 3/4), A presente invenção fornece um aparelho elétrico
+que, caso precise ser substituído, tal substituição pode ser gerenciada sem interromper a
+comunicação através do barramento de campo adicional, uma vez que a substituição somente
+precisa envolver o desacoplamento da parte inferior (e por extensão o alojamento do aparelho
+elétrico, ao qual a parte inferior é conectada) da parte superior do conector, enquanto que a parte
+superior permanece conectada ao barramento de campo adicional, assim mantendo as
+comunicações ao longo do barramento de campo adicional.
+    Conforme manifestação (pág. 3/4), uma vez que um novo aparelho elétrico é acoplado, por
+meio de sua própria parte inferior de conector, à parte superior que permaneceu em comunicação
+com o barramento de campo adicional ao longo deste processo de troca, o novo aparelho elétrico
+é rapidamente integrado no sistema total tendo o endereço de nó armazenado no elemento de
+memória da parte superior fornecida aos módulos por meio do barramento do sistema, enquanto
+que a comunicação de dados entre os módulos do novo aparelho elétrico é estabelecida com o
+barramento de campo adicional ao longo do barramento de campo separado no novo aparelho
+elétrico.
+
+
+    A matéria da reivindicação independente 1 difere da matéria do documento D1 em que o
+dispositivo compreende uma pluralidade de módulos que compreendem um dissipador de calor.
+Essa diferença é óbvia para um técnico no assunto. Quanto a característica da presente invenção
+de fornecer um aparelho elétrico que, caso precise ser substituído, tal substituição pode ser
+gerenciada sem interromper a comunicação através do barramento de campo adicional, apresenta
+
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                               Página 3
+                                                        BR112012009484-0
+
+
+também a matéria do documento D1 esta característica. Portanto, não apresenta a reivindicação 1
+atividade inventiva frente ao documento D1.
+
+  Quanto as reivindicações dependentes, suas matérias não definem detalhamentos de
+características adicionais que sejam consideradas essenciais a invenção.
+
+
+
+Conclusão
+
+
+   Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+   - não atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+   De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+                                                                           Publique-se o indeferimento (9.2).
+
+                                                                       Rio de Janeiro, 4 de novembro de 2019.
+
+
+
+
+Neide de Oliveira Gomes
+Pesquisador/ Mat. Nº 1203806
+DIRPA / CGPAT III/DIPAT XII
+Deleg. Comp. - Port. INPI/DIRPA Nº 010/17
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 4
+

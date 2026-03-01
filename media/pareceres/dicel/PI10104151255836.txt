@@ -1,0 +1,246 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI1010415-1               N.° de Depósito PCT:
+ Data de Depósito:                   24/09/2010
+ Prioridade Unionista:               US 12/566,436 (24/09/2009)
+ Depositante:                        AVAYA INC. (US)
+ Inventor:                           Andrew Zmolek
+ Título:                             Algoritmos de composição de grupo para presença 
+
+                                                                PARECER
+Por meio da petição 870190118688 de 15/11/2019, o Depositante apresentou modificações no
+pedido em resposta ao parecer emitido no âmbito da Resolução Nº 241/2019, notificado na RPI
+2537 de 20/08/2019 segundo a exigência preliminar (6.21).
+
+
+Por meio da petição 870200089692 de 20/07/2020 o Depositante apresentou modificações no
+pedido em resposta ao parecer (código de despacho 7.1) notificado na RPI 2572 de 22/04/2020
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                        1                870200089692           20/07/2020
+Relatório Descritivo                                      2-36               020100109972           24/11/2010
+Quadro Reivindicatório                                     1-4               870200089692           20/07/2020
+Desenhos                                                   1-8               020100109972           24/11/2010
+Resumo                                                      1                870200089692           20/07/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                               PI1010415-1
+
+
+                Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                            Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI        x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI      x
+Comentários/Justificativas
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                              Data de publicação
+    D1                               US2007150491 A1                                   28/06/2007
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento              Reivindicações
+                                                        Sim                       1-9
+            Aplicação Industrial
+                                                        Não                        -
+                                                        Sim                       1-9
+                  Novidade
+                                                        Não                        -
+
+                                                        Sim                        -
+             Atividade Inventiva
+                                                        Não                       1-9
+
+
+
+Comentários/Justificativas
+
+Os aspectos técnicos da reivindicação 1 não atendem ao requisito atividade inventiva, pois
+decorrem de maneira evidente ou óbvia para um técnico no assunto a partir do documento D1,
+conforme a seguir:
+
+
+         a) Método para a determinação de presença de grupo, o método caracterizado por
+         compreender: um processador que recebe um evento de presença;
+
+
+         - antecipado por D1 par. 49 com foco em availability of the group to have a meeting;
+
+
+         b) em resposta ao evento de presença, o processador determina uma hierarquia
+         associada ao evento de presença, onde a hierarquia está associada a um grupo que
+         tem dois ou mais nós;
+
+
+         - tal determinação é feita com base em uma lógica comercial (p. 7 ln. 20 e p. 8 ln. 7), não
+         sendo portanto considerado um aspecto técnico a ser levado em consideração na aferição
+         de atividade inventiva pois métodos comerciais não são patenteáveis;
+
+
+
+
+                                                                                             Página 2
+                                         PI1010415-1
+
+
+      c) o processador atravessa a hierarquia associada ao grupo para um nó selecionado
+      dos nós;
+
+
+      - Essa etapa parece buscar expressar que o processador busca a primeira pessoa do
+      grupo para a qual será checada a presença. Esse é o entendimento conforme relatório
+      descritivo p. 24 ln. 25: ...atravessa a hierarquia 110, 112, 114 ou 118 até o nó mais baixo
+      [pessoas 1 a 5 na Fig. 1] . Essa etapa foi antecipada por D1 conforme detalhado a seguir;
+
+
+      d) o processador determina uma presença para o nó selecionado;
+      o processador determina se existe outro nó na hierarquia para o grupo;
+      se existir outro nó para o grupo, determinar uma presença para o outro nó;
+      se não existir outro nó na hierarquia para o grupo, determinar uma presença para o
+      grupo com base na presença para os nós na hierarquia;
+      e o processador publica a presença de grupo.
+
+
+      - Essas etapas parecem buscar expressar que não há mais outro membro do grupo
+      (adicionalmente aos membros cujas presenças já foram checadas) cuja presença precisa
+      ser checada, ou seja, que a presença de todos os indivíduos do grupo foi checada pelo
+      algoritmo. Esse entendimento está respaldado nos seguintes trechos do relatório
+      descritivo:
+
+
+             "Para a determinação da presença de grupo, o motor de regras 204 pode
+             atravessar a hierarquia associada ao modelo de grupo 100 para um nó 110
+             [presença da pessoa 1 na Fig. 1] na etapa 608. Em modalidades, o motor de regras
+             204 atravessa a hierarquia 110, 112, 114 ou 118 até o nó mais baixo [pessoas 1 a
+             5 na Fig. 1] no modelo de grupo 100 (pag. 24 ln. 25 );
+
+
+      - Tal como consta no relatório descritivo p. 2 ln. 14, um exemplo de regra de determinação
+      de presença é que todos os membros de um grupo são requeridos. Similarmente em D1
+      par. 3 e 21 consta o sistema para detecção de presença de pessoas.
+
+
+            As referidas etapas foram portanto antecipadas por D1 par. 49 com foco em The
+      group presence information or that of its members may be employed with corporate
+      information Such as corporate organization chart,...availability of the group to have a
+      meeting (e.g., YES, NO, etc.) 
+
+
+A Reivindicação 8 é similar à Reivindicação 1 aplicando-se os mesmos argumentos.
+
+
+
+
+                                                                                         Página 3
+                                           PI1010415-1
+
+
+Nas reivindicações dependentes      não foram identificadas características que, mesmo quando
+combinadas com as características de qualquer reivindicação independente a que se referem,
+venham a prover novidade e/ou a atividade inventiva à matéria.
+
+
+A requerente argumenta que:
+
+
+       Reivindicação 1: o documento D1 falha em divulgar que o processador determina se
+       existe outro nó na hierarquia para o grupo; se existir outro nó para o grupo,
+       determinar uma presença para o outro nó; e se não existir outro nó na hierarquia para o
+       grupo, determinar uma presença para o grupo com base na presença para os nós na
+       hierarquia.
+
+
+A esse respeito reitera-se o item (d) do presente parecer.
+
+
+A requerente argumenta que:
+
+
+       Reivindicação 8: esta reivindicação requer um diretório de empresa operável para fornecer
+       a lógica comercial; e um componente de definição de regras em comunicação com o banco
+       de dados de regras e o componente de definição de grupo, o componente de definição de
+       regras operável para definir a regra com base em pelo menos um do grupo e na lógica
+       comercial. D1 não divulga estas características.
+
+
+       D1 pode divulgar a definição de um perfil de presença de grupo para um grupo de
+       indivíduos. A informação de presença de entidades individuais é obtida e informação de
+       presença do grupo é gerenciada de acordo com o perfil de presença de grupo definido e a
+       informação de presença do indivíduo. No entanto, as limitações acima mencionadas, em
+       combinação     com   todas   as   outras   limitações   especificadas   nas   reivindicações
+       independentes 1 e 8, estão ausentes de D1.
+
+
+A esse respeito ressalta-se que na reivindicação 8 consta determina a presença de grupo com
+base em uma regra criada a partir de uma lógica comercial. O termo uma regra criada a partir de
+uma lógica comercia é tão amplo que não exclui a presença de todos os componentes de um
+grupo, característica essa que está antecipada por D1 conforme ressaltado no item (d) do
+presente parecer.
+
+
+Adicionalmente, ainda que a lógica comercial tivesse sido especificada,          ressalta-se que
+características que não contribuem ao caráter técnico da invenção  tal como método comercial
+que é excluído pelo Art. 10 da LPI - não são consideradas para avaliação de atividade inventiva
+(Resolução 169/2016 item 5.18).
+
+
+
+
+                                                                                          Página 4
+                                           PI1010415-1
+
+
+Conclusão
+
+Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende ao
+requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+
+
+De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da data
+de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                              Rio de Janeiro, 6 de agosto de 2020.
+
+
+
+
+Denise Freitas Silva
+Pesquisador/ Mat. Nº 1472730
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+008/13
+
+
+
+
+                                                                                          Página 5
+

@@ -1,0 +1,149 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112013005525-1           N.° de Depósito PCT:US2011/050712
+ Data de Depósito:                   07/09/2011
+ Prioridade Unionista:               US 12/877.034 (07/09/2010); US 12/878.001 (08/09/2010)
+ Depositante:                        Opentv, Inc. (US)
+ Inventor:                           Alex Fishman, Crx K.Chai.
+ Título:                             Coleta de dados de diferentes fontes 
+
+                                                                PARECER
+
+Em 11/02/2021, por meio da petição 870210014590, a Requerente apresentou modificações no
+pedido em resposta ao parecer emitido, notificado na RPI 2603 de 24/11/2020 (despacho 7.1).
+Estas modificações estão consideradas no Quadro 1.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 20               870210014590           11/02/2021
+Quadro Reivindicatório                                   1a6                 870210014590           11/02/2021
+Desenhos                                                 1a6                 870190138754           23/12/2019
+Resumo                                                      1                870210014590           11/02/2021
+
+
+
+    Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                    maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+-
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR112013005525-1
+
+
+                Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+
+-
+
+
+                           Quadro 4  Documentos citados no parecer
+
+    Código                               Documento                             Data de publicação
+     D1                                US2003037334                                   20/02/2003
+     D2                                US2009100469                                   16/04/2009
+     D3                                US2007136753                                   14/06/2007
+
+
+      Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade               Cumprimento           Reivindicações
+                                                         Sim                    1-22
+             Aplicação Industrial
+                                                        Não                       -
+                                                         Sim                    1-22
+                  Novidade
+                                                        Não                       -
+
+                                                         Sim                      -
+             Atividade Inventiva
+                                                        Não                     1-22
+Comentários/Justificativas
+
+       Em petição 870210014590 de resposta ao 1º exame técnico emitido na RPI 2603 de
+24/11/2020, a Requerente apresentou novas vias do quadro reivindicatório, nas quais
+especificou-se as seguintes características:
+
+      1. que um banco de dados é acessado para obter dados de utilização de conteúdo dos
+          dispositivos;
+
+      2. que uma pluralidade de espectadores compreende um segundo espectador em conexão
+          social com o primeiro espectador;
+
+      3. que uma pontuação é gerada para cada um dos itens da lista de conteúdos populares
+          com base na preferência do primeiro espectador; e
+
+      4. que da lista de reprodução criada é executada.
+
+       Considera-se que as características 1, 2 e 4 são óbvias e já estavam implícitas ainda que
+anteriormente não escritas explicitamente, uma vez que a consulta das preferências de usuário
+automaticamente implica na existência de um banco de dados (todas as anterioridades revelam
+
+
+                                                                                            Página 2
+                                       BR112013005525-1
+
+
+a existência de databases  D1: 220, D2: 2018, D3: mencionado nos parágrafos [0045], [0065],
+[0063] e [0099]); a existência de uma rede social de contatos de um primeiro espectador
+automaticamente implica que existe um segundo espectador associado com o primeiro (D2:
+parágrafo [0048]); e o objetivo da criação de uma lista de reprodução personalizada em última
+análise implica na execução dos itens da mesma.
+
+      Quanto à característica 3, que diz respeito à geração de uma pontuação para cada um
+dos itens da lista de conteúdos populares do primeiro espectador, considera-se que tal atributo
+não seja responsável por agregar atividade inventiva ao pedido, posto que seria óbvio para um
+técnico no assunto buscar ranquear as preferências do usuário de alguma forma, por se tratar
+de uma lista personalizada. Além disso, a forma que essa pontuação é atribuída não é
+especificada, ou seja, um simples sistema já conhecido de atribuição de nota por parte do
+usuário, tal como revelado em D3 (parágrafo [0092]), já é o suficiente para destituir o presente
+pedido de atividade inventiva.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não
+atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 19 de fevereiro de 2021.
+
+
+
+
+Bruna Marques Mazoco
+Pesquisador/ Mat. Nº 2316562
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 001/18
+
+
+
+
+                                                                                          Página 3
+

@@ -1,0 +1,202 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112012001757-8           N.° de Depósito PCT:KR2010/005327
+ Data de Depósito:                   13/08/2010
+ Prioridade Unionista:               KR 10-2009-0074895 (13/08/2009)
+ Depositante:                        Samsung Electronics Co., Ltd. (KR)
+ Inventor:                           Tammy Lee, Woo-Jin Han, Jianle Chen, Hae-Kyung Jung
+ Título:                             Método para codificar imagens, aparelho para codificar imagens,
+                                     método para decodificar imagens, aparelho para decodificar imagens,
+                                     e mídia de gravação legível por computador 
+
+                                                                PARECER
+          O presente pedido refere-se a métodos e aparelhos para codificação/decodificação de
+imagens cujo objetivo é permitir a compressão/descompressão de imagens de forma eficiente.
+
+          O       presente          pedido         originou         os       pedidos   divididos   BR122013019724-9,
+BR122013019725-, BR122021005453-3 e BR122021005444-4.
+
+          Em 18/05/2020, por meio da petição 870200061368, o Depositante apresentou
+modificações no pedido e argumentações em resposta ao parecer emitido no âmbito da
+Resolução Nº 241/2019, notificado na RPI 2563 de 18/02/2020 segundo a exigência preliminar
+(6.21).
+
+          Em 13/09/2021, por meio da petição 870210084311, o Depositante apresentou
+argumentações e modificações o pedido em resposta ao parecer de ciência (despacho 7.1)
+notificado na RPI 2632 de 15/06/2021, no qual foi considerado que o presente pedido infringia o
+disposto no Art. 32 da LPI a luz da Resolução PR nº 093/2013 (Diretrizes sobre a aplicabilidade
+do disposto no Art. 32 da LPI nos pedidos de patentes, no âmbito do INPI).
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                    n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 36                    870200061368         870200061368
+Quadro Reivindicatório válido                            1a5                      020120006721           26/01/2012
+Quadro                  Reivindicatório                  1a2                     870210084311           13/09/2021
+recusado
+Desenhos                                                1 a 10                    020120006721           26/01/2012
+Resumo                                                      1                     870200061368         870200061368
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                    Página 1
+                                         BR112012001757-8
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                          Sim             Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)       -               -
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)               -               -
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   -               -
+O pedido está de acordo com disposto no art. 32 da LPI                                    x
+Comentários/Justificativas
+
+       Em sua manifestação, a Requerente argumenta que A matéria reivindicada não
+expande o escopo da matéria constante do pedido original conforme descrita no relatório
+descritivo do presente pedido, de acordo com a seguinte comparação entre a alteração da
+reivindicação e o relatório descritivo original (...) A Suplicante pleiteia o direito sobre a
+presente invenção uma vez que as características reivindicadas das reivindicações alteradas
+estão dentro do escopo da invenção descrita no pedido original, obedecendo o que
+preceitua o Art. 26 da LPI, não se desviando da intenção da Suplicante e sem causar confusão
+nem prejudicar o interesse público(grifo nosso).
+
+       A Resolução PR nº 093/2013 cita que:
+
+   1. Quadro Reivindicatório válido: Refere-se ao Quadro Reivindicatório apresentado pelo
+       Requerente até a data do requerimento do exame do pedido de patente (ou o Quadro
+       Reivindicatório apresentado junto a este requerimento, se houver). (ver seção 1.1);
+
+   2. Após a solicitação de exame do pedido de patente não serão aceitas alterações
+       voluntárias do QR que levem À AMPLIAÇÃO DA MATÉRIA REIVINDICADA ()
+
+       (iv) Após a solicitação do exame do pedido de patente serão, ainda, aceitas as
+       modificações no QR, voluntárias ou resultantes de exame técnico (despachos 6.1 ou 7.1),
+       desde que estas sirvam, exclusivamente para restringir a matéria reivindicada e não
+       alterem o objeto pleiteado. (ver seção 2.1);
+
+   3. (i) Após a solicitação do exame do pedido de patente não serão aceitas modificações que
+       resultem em ampliação da matéria REIVINDICADA. (ver seção 2.2).
+
+   4. O escopo da proteção reivindicada quando da solicitação do exame do pedido de patente
+       não pode ser ampliado após esta data. Em nenhum momento, após a solicitação do
+       exame do pedido de patente, poderá o examinador em seu parecer propor que elementos
+       presentes no relatório descritivo e não reivindicados originalmente sejam trazidos
+       para o QR, se esta inserção venha ampliar o escopo da matéria reivindicada.
+       Tampouco pode o Requerente aproveitar-se de um cumprimento de exigência para
+       fazer esta inserção, ampliando o escopo da reivindicação. (ver seção 2.3, grifo
+       nosso).
+
+
+
+
+                                                                                         Página 2
+                                           BR112012001757-8
+
+
+         Sendo assim, diante do novo QR apresentado pela Requerente em sua manifestação,
+constata-se que tal QR possui escopo de proteção distinto do escopo de proteção do QR válido
+configurando ampliação de escopo de proteção da matéria reivindicada no QR válido.
+
+         Assim, segundo o entendimento da Resolução PR nº 093/2013, tal QR modificado não
+poderá ser aceito por contrariar o Art. 32 da LPI.
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      -                 -
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    -                 -
+Comentários/Justificativas
+        Tendo em vista que o pedido não está de acordo com o Artigo 32 da LPI, não serão tecidos
+comentários quanto aos Artigos 24 e 25 da LPI, conforme Portaria/INPI/DIRPA N° 1/2021,
+procedimento P029, item 5.2.25.3.
+        De acordo com o art.5º §1º da Resolução Nº 241/2019, o exame realizado em outros
+escritórios/autoridades, apontados no parecer de exigência preliminar (6.21), é considerado como
+subsídio ao presente exame, e cabem as mesmas considerações quanto à suficiência descritiva,
+clareza, precisão e fundamentação do quadro reivindicatório válido.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+     -                                         -                                       -
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                      -
+            Aplicação Industrial
+                                                        Não                       -
+                                                         Sim                      -
+                 Novidade
+                                                        Não                       -
+
+                                                         Sim                      -
+            Atividade Inventiva
+                                                        Não                       -
+
+
+
+Comentários/Justificativas
+
+         Tendo em vista que o pedido não está de acordo com o Artigo 32 da LPI, não serão
+tecidos comentários quanto aos Artigos 8º, 11, 13 e 15 da LPI, conforme Portaria/INPI/DIRPA N°
+1/2021, procedimento P029, item 5.2.25.4. De acordo com o art.5º §1º da Resolução Nº
+241/2019, o exame realizado em outros escritórios/autoridades e apontado no parecer de
+exigência preliminar (6.21), é considerado como subsídio ao presente exame, e cabem as
+
+
+
+                                                                                           Página 3
+                                          BR112012001757-8
+
+
+mesmas considerações quanto aos requisitos de patenteabilidade do quadro reivindicatório
+válido.
+
+
+
+Conclusão
+
+          Face ao exposto nesse parecer, reafirma-se que o presente pedido não atende às
+disposições do Art. 32 da LPI, conforme apontado na seção de comentários/justificativas do
+Quadro 2 deste parecer.
+
+          Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -     acréscimo de matéria do pedido ou do escopo das reivindicações (Art. 32 da LPI).
+
+
+
+          De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                   Publique-se o indeferimento (9.2).
+
+
+
+                                                            Rio de Janeiro, 15 de novembro de 2021.
+
+
+
+
+Carolina Medeiros Carvalho
+Pesquisador/ Mat. Nº 1504559
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+022/12
+
+
+
+
+                                                                                            Página 4
+

@@ -1,0 +1,285 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112021005152-0         N.° de Depósito PCT:KR2019/012226
+ Data de Depósito:                   20/09/2019
+ Prioridade Unionista:               US 62/734,233 (20/09/2018); US 62/734,266 (21/09/2018)
+ Depositante:                        LG ELECTRONICS INC. (KR)
+ Inventor:                           JUNGAH CHOI; SEUNGHWAN KIM; SUNMI YOO; JANGWON CHOI;
+                                     JIN HEO
+ Título:                             Método de codificação de nível de fator de conversão e dispositivo
+                                     para o mesmo 
+
+                                                              PARECER
+          O presente pedido refere-se a métodos de codificação/decodificação de imagem
+realizados por um aparelho de codificação/decodificação cujo objetivo é aumentar a eficiência da
+codificação/decodificação através da redução da quantidade de bins de elementos de sintaxe
+sinalizadores (do bloco sendo codificado/decodificado) que são codificados/decodificados
+baseados em contexto.
+          Em 09/11/2021, com publicação na RPI 2653, foi concedido o trâmite prioritário do
+presente pedido, requerido pela petição 870210096634 de 19/10/2021.
+
+          O       presente          pedido         originou        os        pedidos   divididos   BR122021020834-4,
+BR122021020836-0, BR122021020838-7, BR122021020860-3.
+
+          Em 10/06/2022, através da petição 870220051283,                                   a Requerente apresentou
+argumentações e modificações no pedido em resposta ao parecer de ciência (despacho 7.1)
+notificado na RPI 2673, de 29/03/2022, no qual se considerou que o presente pedido carecia de
+atividade inventiva por ser mera decorrência do estado da técnica representado por
+D1(US2013177069), D2 (VET-K0072: Draft text for JVET-K0072 (Including JVET decisions)
+Fraunhofer, H et al.: Jul. 16, 2018, Non-Alternative entropy coding for dependent quantization,
+CE7Versatile Video Coding (draft 1)) e D3 (US2013182757).
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                    n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 79                   870220051283           10/06/2022
+
+Quadro Reivindicatório                                   1a9                     870220051283           10/06/2022
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                    Página 1
+                                           BR112021005152-0
+
+
+Desenhos                                  1 a 11                870210096269               18/10/2021
+Resumo                                       1                 870220051283               10/06/2022
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                             Sim                 Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                              x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                      x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                        x
+O pedido está de acordo com disposto no art. 32 da LPI                         x
+Comentários/Justificativas -
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                             Sim                 Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI         x
+Comentários/Justificativas -
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                 Data de publicação
+    D1                                 US2013177069                                       11/07/2013
+
+    D2      VET-K0072: Draft text for JVET-K0072 (Including JVET                           07/2018
+            decisions) Fraunhofer, H et al.: Jul. 16, 2018, Non-Alternative
+            entropy coding for dependent quantization, CE7Versatile Video
+            Coding (draft 1)
+    D3                                 US2013182757                                       18/07/2013
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento                Reivindicações
+                                                         Sim                       1 a 15
+           Aplicação Industrial
+                                                         Não                          -
+                                                         Sim                       1 a 15
+                 Novidade
+                                                         Não                          -
+
+                                                         Sim                          -
+           Atividade Inventiva
+                                                         Não                       1 a 15
+
+
+
+                                                                                                Página 2
+                                        BR112021005152-0
+
+
+
+
+Comentários/Justificativas
+
+        Em sua manifestação, a Requerente inseriu a característica e a decodificação do
+sinalizador de nível de paridade é realizada com base no valor do primeiro sinalizador de nível
+de coeficiente de transformada decodificado sendo 1 nas reivindicações independentes 1, 6 e
+11.
+
+        Além disso, a Requerente argumentou que:
+
+      1. 'Entre a pluralidade de sinalizadores incluídos nas informações residuais, o primeiro
+        sinalizador de nível de coeficiente de transformada é decodificado antes do sinalizador de
+        nível de paridade.
+
+        Além disso, a sinalizador de nível de paridade é decodificada quando o valor do primeiro
+        sinalizador de nível de coeficiente de transformada decodificado é 1.
+
+        () Não obstante, a característica de "a decodificação do primeiro sinalizador de nível de
+        coeficiente de transformada é realizada antes da decodificação do sinalizador de nível de
+        paridade, e a decodificação do sinalizador de nível de paridade é realizada com base no
+        valor do primeiro sinalizador de nível de coeficiente de transformada decodificado sendo
+        1" definida na nova reivindicação 1 do presente pedido não é revelada em D2.
+
+        De acordo com D2, o sinalizador de nível de paridade é sinalizado antes do primeiro
+        sinalizador de nível de coeficiente de transformada ().
+
+        a Tabela 14 do presente pedido mostra um exemplo do caso onde a ordem de
+        codificação do par_level_flag e do rem_abs_gt1_flag é alterada. Quando comparada à
+        Tabela 12 do presente pedido, na Tabela 14, se o |coeff| for 1, o par_level_flag não é
+        codificado, de modo que é vantajoso em termos de rendimento e codificação. O caso em
+        que o |coeff| é 1 pode ocorrer mais do que o caso em que o |coeff| é 2 ou 4, de tal forma
+        que o método de acordo com a Tabela 14 pode exibir maior rendimento e desempenho
+        de codificação do que o método de acordo com a Tabela 12.'
+
+      2. 'Ademais, o documento D3 sugerido pela Sra. Examinadora apenas revela uma estrutura
+        de sinal para sigMapFlag, gr1Flag, gr2Flag, levelRem e signflag, mas não revela sinalizar
+        o sinalizador de nível de paridade conforme definido na nova reivindicação 1 do presente
+        pedido'.
+
+      3. 'Além disso, as concretizações incluídas em D3 estabelecem valores limites para
+        sinalizadores individuais em vez da soma do número de sinalizadores. Em outras palavras,
+        os valores limites (M1, M2, K1...) de D3 referem-se às informações de sinalizadores
+        individuais, e o limite definido na nova reivindicação 1 do presente pedido limita a soma do
+        número de sinalizadores de coeficiente significativo para os coeficientes de transformada
+        quantizados dentro do bloco atual, o número de primeiros sinalizadores de nível de
+
+
+
+
+                                                                                           Página 3
+                                   BR112021005152-0
+
+
+  coeficiente de transformada, o número de sinalizadores de nível de paridade, e o número
+  de segundos sinalizadores de nível de coeficiente de transformada'.
+
+
+
+  Análise das argumentações da Requerente:
+
+1. Quanto às argumentações da Requerente presentes no item 1 anterior:
+
+   a) De fato, D2 não explicita que o primeiro sinalizador de nível de coeficiente de
+      transformada (rem_abs_gt1_flag) seja sinalizado antes do sinalizador de nível de
+      paridade (par_level_flag).
+
+   b) Contudo, objetivando melhorar o desempenho na codificação/decodificação, um
+      técnico no assunto obviamente modificaria D2 propondo decodificar rem_abs_gt1_flag
+      antes de par_level_flag, além de decodificar par_level_flag somente quando
+      rem_abs_gt1_flag é 1, pois em D2 (ver D2, páginas 40-41 e tabela da seção 7.3.4.8):
+
+         sig_coeff_flag, que é o primeiro a ser codificado/decodificado, indica a presença de
+          um coeficiente significativo (ou seja, diferente de zero com |coef.|>0);
+
+         rem_abs_gt1_flag indica se o valor do coeficiente é maior do que 1; e
+
+         par_level_flag indica se o coeficiente é par.
+
+  Ora, se sig_coeff_flag indicar a presença de um coeficiente significativo (diferente de zero)
+  e rem_abs_gt1_flag indicar a ausência de um valor maior do que 1 (rem_abs_gt1_flag=0),
+  o valor para |coef.| só poderá ser 1 (o valor do sinal do coeficiente é codificado por
+  coeff_sign_flag), que é impar, logo a paridade já fica determinada e, portanto, não há a
+  necessidade de codificar/decodificar par_level_flag.
+
+2. Quanto às argumentações da Requerente presentes no item 2 anterior, D2 revela sinalizar
+  o sinalizador de nível de paridade.
+
+3. Quanto às argumentações da Requerente presentes no item 3 anterior:
+
+   a) D3 sugere limitar a soma do número de sinalizadores de coeficiente significativo para
+      os coeficientes de transformada quantizados dentro do bloco atual (SigCoeffFlag), do
+      número de primeiros sinalizadores de nível de coeficiente de transformada
+      (Greater1Flag), e do número de segundos sinalizadores de nível de coeficiente de
+      transformada (Greater2Flag), pois:
+
+         D3, no parágrafo 162, descreve que:
+
+             Os limites N (referente a gr2Flag, ver D3, parágrafos 87 e 92), M1 (referente a
+              gr1Flag, ver D3, parágrafos 93 e 100), M2 (referente ao acúmulo de gr1Flag,
+              ver D3, parágrafo 114) ), K1 (referente a SigMapFlag, ver D3, parágrafos 137 e
+              140) e K2 (referente ao acúmulo de sigMapFlag, ver D3, parágrafo 146) podem
+              ser modificados adaptativamente de acordo com elementos de sintaxe
+              previamente codificados em um bloco;
+
+
+
+                                                                                      Página 4
+                                             BR112021005152-0
+
+
+                       Por exemplo, os limites N, M1 e M2 podem ser dependentes de estatísticas de
+                        sigMapFlag no bloco atual;
+
+                       Mais especificamente, se o número de sigMapFlags com o valor 1 é maior que
+                        um certo limite Y, então, a codificação explícita de gr1Flags e gr2Flags pode ser
+                        desabilitada (isto é, N, M1 e M2 podem ser setados para zero).
+
+          b) Como visto no item 1-i do parecer anterior, D1 sugere a característica de limitar a soma
+             do número de sinalizadores de coeficiente significativo para os coeficientes de
+             transformada quantizados dentro do bloco atual (SigCoeffFlag), do número de
+             primeiros sinalizadores de nível de coeficiente de transformada (Greater1Flag), e do
+             número de segundos sinalizadores de nível de coeficiente de transformada
+             (Greater2Flag).
+
+          c) Além disso, é óbvio para um técnico no assunto, frente a D2 em combinação com D1
+             (ou D3), modificar D1 (ou D3) para incluir, na soma a ser limitada, o número de
+             sinalizadores de nível de paridade.
+
+    4. Sendo assim, as argumentações e modificações apresentadas pela Requerente foram
+          consideradas insuficientes para sustentar a atividade inventiva do presente pedido frente
+          ao estado da técnica.
+
+    5. Portanto, a matéria pleiteada pelas reivindicações de 1 a 15 é mera decorrência do estado
+          da técnica.
+
+
+
+Conclusão
+
+       Face ao exposto neste parecer, reafirma-se que o presente pedido contraria o disposto
+no Art. 8° combinado com o 13 da LPI, conforme comentários ao Quadro 5 deste parecer.
+
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+      -     não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                      Publique-se o indeferimento (9.2).
+
+
+
+                                                                   Rio de Janeiro, 29 de junho de 2022.
+
+
+
+
+                                                                                                Página 5
+                               BR112021005152-0
+
+
+Carolina Medeiros Carvalho
+Pesquisador/ Mat. Nº 1504559
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+022/12
+
+
+
+
+                                                  Página 6
+

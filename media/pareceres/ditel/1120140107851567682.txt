@@ -1,0 +1,324 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112014010785-8          N.° de Depósito PCT:US2012/031040
+ Data de Depósito:                   28/03/2012
+ Prioridade Unionista:               US 61/556,109 (04/11/2011)
+ Depositante:                        APPLE INC. (US)
+ Inventor:                           HONG HE, JONG-KAE FWU
+ Título:                             Seleção de tempo de confirmação em comunicações sem fio
+
+                                                                PARECER
+
+
+      Em 25/01/2022 foi publicado, através da RPI nº 2664, notificação de ciência (7.1) conforme
+parecer de exame técnico do presente pedido datado de 19/01/2022.
+      O Depositante, através da petição nº 870220033241 de 19/04/2022, apresentou
+manifestação a respeito do parecer técnico, com novas vias do pedido.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 26               870220033241           19/04/2022
+Quadro Reivindicatório                                  1 a 10               870220033241           19/04/2022
+Desenhos                                                1 a 10               018140009285           05/05/2014
+Resumo                                                      1                870220033241           19/04/2022
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                          BR112014010785-8
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim           Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                   x
+Comentários/Justificativas
+        Considera-se que a matéria do pedido atende ao disposto no Artigo 24 da LPI, visto que a
+suficiência descritiva não foi questionada nos Escritórios/Autoridades consultados para elaboração
+da exigência preliminar (6.21), conforme a Portaria/INPI/DIRPA N° 10/2021, procedimento CPAT-
+ETP-PP-0005, item 6.2.11.
+      Conforme exarado no parecer de exame anterior e com entendimento na Portaria INPI/PR
+n 052/2021  Art. 5o (§1o), o exame realizado pelo EPO para a patente EP 2,774.308 B1 está
+ o
+
+
+sendo utilizado como subsídio.
+       3.1) Mantemos entendimento exarado no parecer de exame anterior de que:
+       As reivindicações independentes 1, 12 e 21 contrariam o disposto no Art. 25 LPI e na
+Instrução Normativa nº 30/2013  Art. 4º (III) e Art. 5º (I), pelas seguintes razões:
+        - Algumas das características técnicas presentes na reivindicação independente 1 não
+encontram correspondência na reivindicação independente 12, e vice-versa, o que não possibilita
+definir de forma clara e precisa quais são as características técnicas consideradas essenciais e
+específicas para a realização da invenção.
+       - Constatação similar foi feita pelo EPO no item 2 do parecer emitido pelo EPO em
+23/03/2020 durante análise da patente europeia EP 2,774.308 B1.
+      - Consideramos a mesma constatação válida da comparação da reivindicação
+independente 21 com as reivindicações independentes 1 e 12.
+        O Depositante não apresentou contra-argumentação e/ou adequação no quadro
+reivindicatório com relação a esta não conformidade.
+
+
+       3.2) O parecer de exame anterior manifestou que:
+       A reivindicação independente 1, 12 e 21 contrariam o disposto no Art. 25 LPI e na
+Instrução Normativa nº 30/2013  Art. 4º (III)(IV), pelas seguintes razões:
+       - Consideramos pertinentes os argumentos apresentados pelo EPO em 06/11/2020
+durante análise da patente europeia EP 2,774.308 B1 de que a reivindicação independente 1 não
+apresenta clareza e precisão pelas seguintes razões:
+       a) A etapa final informa que sinais de HARQ-ACK associados aos dados de downlink do
+PCell são transmitidos, contudo nas etapas prévias o dispositivo móvel só recebe dados de
+downlink através do SCell.
+       b) A etapa selecionar, pelo dispositivo móvel, uma configuração de referência TDD com
+base nas primeira e segunda configurações TDD é vaga, não definindo de maneira clara e
+precisa o escopo de proteção almejado, além disso incluindo uma infinidade de possibilidades que
+não estão fundamentadas na descrição do pedido.
+       - Consideramos o argumento a) pertinente para as reivindicações independentes 12 e 21.
+
+
+
+                                                                                         Página 2
+                                      BR112014010785-8
+
+       A reivindicação independente 1 continua em não conformidade com o apontamento (b).
+Conforme pode ser observado no quadro reivindicatório posteriormente apresentado ao EPO após
+o parecer de 06/11/2020, para sanar esta não conformidade também foi necessário incorporar a
+seguinte informação (grifada) que não se faz presente na reivindicação 1: transmit
+acknowledgement information associated with the downlink data of the SCell.
+       A reivindicação independente 12 foi mantida com a mesma redação apresentada
+anteriormente. Por conseguinte, mantemos entendimento de que o argumento (a) é válido para
+esta reivindicação. De fato, observa-se que o dispositivo móvel só recebe uma ou mais
+transmissões de downlink via a segunda portadora de componentes, ou seja, SCell. Portanto, não
+é possível estabelecer como nas etapas posteriores poderia ser gerado um ACK/NACK para uma
+primeira portadora componente (PCell).
+       Mesma análise é válida para a reivindicação independente 21.
+      Com isso, mantemos entendimento de que as reivindicações independentes 1, 12 e 21 não
+atendem o disposto no Art. 25 LPI e na Instrução Normativa nº 30/2013  Art. 4º (III)(IV).
+
+
+      3.3) A reivindicação independente 21 contraria o disposto no Art. 25 LPI e na Instrução
+Normativa nº 30/2013  Art. 4º (III)(IV) e Art. 5º (I), pelas seguintes razões:
+      - No quadro reivindicatório anteriormente analisado, o aparelho da reivindicação
+independente 21 era direcionado para operar com o método da reivindicação independente 12.
+       - Da comparação, constatamos que na nova reivindicação independente 12 o Depositante
+tão somente substituiu as características técnicas finais, incorporando as mesmas características
+técnicas finais da reivindicação independente 1. Só que nenhuma adequação foi realizada em
+toda a parte das características técnicas compreendidas de um módulo de comunicação
+configurado para: até ...de acordo com a sequência de temporização de HARQ selecionada, e
+em que:. Tal fato em si já ocasiona falta de clareza e precisão, pois não é possível definir se a
+invenção deseja a proteção de um aparelho para operar com o método da reivindicação 1 ou o
+método da reivindicação 12.
+        - Se o objetivo é um aparelho que opere com o método da reivindicação 12, então a
+reivindicação 21 apresenta ausência de características técnicas essenciais para a realização das
+etapas selecionar a configuração de TDD da primeira portadora... em diante.
+        - Se o objetivo é um aparelho que opere com o método da reivindicação 1, então a
+reivindicação 21 apresenta ausência de características técnicas essenciais na parte inicial não
+adaptada para que execute a nova parte final incorporada. Um apontamento já foi realizado no
+item (3.2a), onde foi observado que não tem como o aparelho transmitir sinais HARQ-ACK
+referentes ao PCell se o aparelho somente recebe dados da segunda portadora (SCell). Além
+disso, a parte incorporada repetidamente faz referência a um TDD de referência, e as
+características anteriores não definem de forma clara e precisa o que seria e como é determinado
+esse TDD de referência no aparelho.
+        - Consideramos ser desnecessário enumerar as demais incongruências ocasionadas
+devido a adaptação realizada, mas pontuamos que caso a reivindicação 21 tivesse sido adaptada
+em relação a reivindicação 8 da patente EP 2,774.308 B1, assim como foi realizado na
+reivindicação independente 1, não haveriam tais incongruências, pois o aparelho estaria adaptado
+para operar no método da reivindicação 1.
+
+
+
+
+                                                                                         Página 3
+                                       BR112014010785-8
+
+        - Por conseguinte, consideramos que com a nova adaptação, a reivindicação independente
+21 passou a pleitear um aparelho que não é capaz de realizar nenhum dos métodos das
+reivindicações independentes 1 e 12, e após nova análise do pedido, não encontramos
+fundamentação para um aparelho com tal constituição, e portanto consideramos que esta
+reivindicação pleiteia matéria além da revelada.
+       Por fim, a reivindicação independente 1 contraria o disposto no Art. 25 LPI e na Instrução
+Normativa nº 30/2013  Art. 4º (III), pois não está clara a característica estabelecer, por um
+dispositivo móvel, uma célula servidora primária (PCell) e uma servidora secundária (SCell) com
+uma estação base. Da comparação com a reivindicação independente 1 analisada no parecer de
+exame anterior, fica claro que o Depositante esqueceu de manter a seguinte parte grifada:
+estabelecer, por um dispositivo móvel, comunicação com uma ou mais estações base através de
+uma célula servidora primária (PCell) e uma servidora secundária (SCell) com uma estação base
+
+
+
+                         Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                             Data de publicação
+           R1-113532, Ericsson, ST-Ericsson, Applicable scenarios for
+           TDD CA of different UL-DL configurations, 3GPP TSG-RAN
+   D1      WG1 #66bis                                                              10/2011
+           url:https://www.3gpp.org/ftp/TSG_RAN/WG1_RL1/TSGR1_66b/
+           Docs/
+           R1-113047, MediaTek Inc., HARQ Feedback Mechanism in CA
+           with Different TDD Configurations, 3GPP TSG-RAN WG1
+   D2                                                                              10/2011
+           Meeting #66bis
+           url:https://www.3gpp.org/ftp/tsg_ran/wg1_rl1/TSGR1_66b/Docs
+           R2-112946, Nokia Siemens Networks, Nokia Corporation, Cell
+           specific TDD configuration with inter-band CA, 3GPP TSG-RAN
+   D3                                                                              05/2011
+           WG2 Meeting #74
+           url:https://www.3gpp.org/ftp/tsg_ran/WG2_RL2/TSGR2_74/Docs
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento              Reivindicações
+                                                    Sim                      1 a 23
+           Aplicação Industrial
+                                                    Não                        -
+                                                    Sim                      1 a 23
+                 Novidade
+                                                    Não                        -
+                                                    Sim                 1 a 11, 21 a 23
+            Atividade Inventiva
+                                                    Não                     12 a 20
+Comentários/Justificativas
+        5.1) Análise das Reivindicações 1 a 11, 21 a 23:
+       As anterioridades D1 a D3 foram consideradas relevantes pelo EPO durante análise da
+patente EP 2,774.308 B1.
+
+
+
+                                                                                          Página 4
+                                      BR112014010785-8
+
+      A reivindicação independente 1 foi adequada de modo a tornar-se similar à reivindicação
+independente 1 da patente EP 2,774.308 B1.
+        Consideramos pertinentes os argumentos apresentados durante o processo da supracitada
+patente europeia, em especial a manifestação submetida ao EPO em 16/10/2020, de que as
+anterioridades D1 a D3 não antecipam as seguintes características técnicas que compõem a
+reivindicação independente 1:
+          (i) apenas sinais HARQ-ACK associados com os dados de downlink
+              da SCell são transmitidos de acordo com a temporização de HARQ da
+              configuração de TDD de referência; e
+          (ii) sinais HARQ-ACK associados com os dados de downlink da PCell são
+               transmitidos apenas de acordo com a temporização de HARQ da primeira
+               configuração de TDD.
+       Portanto, constatamos que a reivindicação independente 1 atende ao requisito de novidade
+e atividade inventiva com relação a D1-D3, considerando para a análise que as não
+conformidades referentes ao Art. 25 da LPI apontadas na seção comentários/justificativas do
+Quadro 2 foram sanadas.
+       Pelas mesmas razões, constatamos que o aparelho da reivindicação independente 21
+atende ao requisito de novidade e atividade inventiva com relação a D1-D3, considerando para a
+análise que as não conformidades referentes ao Art. 25 da LPI apontadas na seção
+comentários/justificativas do Quadro 2 foram sanadas e que este aparelho seja direcionado a
+operar com o método da reivindicação 1.
+        As reivindicações dependentes 2 a 11, 22 e 23 quando combinadas com as características
+de qualquer reivindicação a que se referem, atendem aos requisitos de novidade e atividade
+inventiva com relação aos documentos D1 a D3.
+       Como complemento, consideramos que as seguintes características técnicas apontadas
+pelo Depositante em sua manifestação não são inventivas com relação a D1 ou D2, considerando
+válida para estas a análise realizada pelo EPO no item 3 do parecer emitido em 23/03/2020 (D1:
+Seções 1, 2, A.1, A.3; D2: Seção 2.2). A análise do processo evidencia que estas características
+técnicas foram introduzidas para sanar os apontamentos realizados no parecer de 06/11/2020
+referentes a falta de clareza com relação a geração do TDD de referência.
+          (iii) selecionar configuração de downlink/uplink (DL/UL) 4 como a configuração de
+                TDD de referência, se a primeira configuração de TDD for configuração de DL/UL
+                de TDD 1 e a segunda configuração de TDD for configuração de DL/UL de TDD 3;.
+          (iv) selecionar configuração de DL/UL 5 como a configuração de TDD de referência,
+               se a primeira configuração de TDD for configuração de DL/UL de TDD 2 e a
+               segunda configuração de TDD for configuração de DL/UL de TDD 3; e.
+          (v) selecionar configuração de DL/UL 5 como a configuração de TDD de referência,
+              se a primeira configuração de TDD for configuração de DL/UL de TDD 2 e a
+              segunda configuração de TDD for configuração de DL/UL de TDD 4.
+
+
+       5.2) Análise das Reivindicações 12 a 20:
+        A reivindicação independente 12 foi mantida pelo Depositante com a mesma matéria
+analisada no parecer de exame anterior, onde foi constatado que a mesma não atende ao
+requisito atividade inventiva, pois decorre de maneira evidente ou óbvia para um técnico no
+
+
+                                                                                       Página 5
+                                        BR112014010785-8
+
+assunto a partir dos documentos D1 ou D2 (D1: Seções 1, 2, A.1, A.3; D2: Seção 2.2),
+considerando-se como válida a análise realizada pelo EPO em 23/03/2020 para a patente EP
+2,774.308 B1.
+        Em sua manifestação, o Depositante lista um conjunto de características que compõem a
+reivindicação independente 12 e tão somente afirma que as mesmas não são antecipadas pelas
+anterioridades D1-D3, sem apresentar argumentação técnica e/ou comparativa do porquê
+considera que estas características não são antecipadas.
+       Respeitosamente, não consideramos a argumentação suficiente para alterar o
+entendimento exarado no parecer de exame anterior. Conforme pode ser observado, as
+características técnicas listadas pelo Depositante se fazem presentes na análise constante no
+item 3.1 do supracitado parecer emitido pelo EPO em 23/03/2020, com a qual mantemos
+concordância de que estas características seriam evidentes a partir de D1 ou D2.
+       Ademais, consideramos pertinente a análise realizada no processo do EPO de que a
+novidade e atividade inventiva com relação aos documentos D1 a D3 são devido as
+características técnicas (i) e (ii), as quais não se fazem presentes na reivindicação independente
+12.
+       Nas reivindicações dependentes 13 a 19 não foram identificadas características que,
+mesmo quando combinadas com as características de qualquer reivindicação independente a que
+se referem, venham a prover atividade inventiva à matéria.
+        A reivindicação independente 20 pleiteia uma mídia legível por máquina diretamente
+relacionada aos método da reivindicação 12. Portanto, consideramos que esta reivindicação
+também não atende ao requisito atividade inventiva com relação a D1 e D2, pelos mesmos
+argumentos apresentados para a reivindicação 12.
+         Por fim, todos os documentos citados referentes ao processo de exame da patente EP
+2,774.308 B1 são públicos e podem ser acessados através do endereço eletrônico
+https://register.epo.org/application?number=EP12845404&lng=en&tab=doclist, por tal razão não
+observando-se a necessidade de anexá-los ao presente processo.
+      Sendo assim, mantemos entendimento de que a matéria pleiteada nas reivindicações 12 a
+20 é mera decorrência do estado da técnica, não apresentando atividade inventiva, e estando em
+desacordo com os artigos 8º e 13 da LPI.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                              Rio de Janeiro, 4 de maio de 2022.
+
+
+                                                                                         Página 6
+                                    BR112014010785-8
+
+
+
+
+Leonardo Cavalcanti de Sá Neto
+Pesquisador/ Mat. Nº 1738842
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 007/16
+
+
+
+
+                                                       Página 7
+

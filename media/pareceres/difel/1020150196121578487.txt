@@ -1,0 +1,170 @@
+                                         SERVIÇO PÚBLICO FEDERAL
+                                          MINISTÉRIO DA ECONOMIA
+                              INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.º do Pedido:                       BR102015019612-1            N.º de Depósito PCT: ----
+ Data de Depósito:                    14/08/2015
+ Prioridade Unionista:                ----
+ Depositante:                         Centrais Elétricas do Norte Do Brasil SA (BRDF), Airship do Brasil
+                                      Indústria Aeronáutica Ltda (BRSP)
+ Inventor:                            Wady Charone Junior, Antonio Carlos Daud Filho, Marcelo Augusto de
+                                      Felippes, Romulus Antonio Frederico Lopes, Geraldo Bernadino Guedes
+ Título:                              Processo de Utilização de um Aeróstato em Linhas de Transmissão
+                                                                      PARECER
+
+      A Requerente recebeu notificação de Ciência de Parecer (7.1) publicada na RPI nº 2666 de
+08/02/2022. Através da petição nº 870220040203 de 09/05/2022, a mesma apresentou
+Manifestação sobre o Parecer Técnico. Para fins de continuidade do exame estão sendo
+consideradas as vias abaixo:
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas           Nº da Petição         Data
+                                                                                870160012620
+ Relatório Descritivo                                          1-41                                 06/04/2016
+                                                                                 Págs. 4 a 44
+                                                                                870200106586
+ Quadro Reivindicatório                                         1-9                                 24/08/2020
+                                                                                 Págs. 6 a 14
+                                                                                870160012620
+ Desenhos                                                       1-6                                 06/04/2016
+                                                                                Págs. 56 a 61
+                                                                                870160012620
+ Resumo                                                         1                                   06/04/2016
+                                                                                   Pág. 3
+
+                  Quadro 2 - Considerações referentes aos Artigos 10, 18, 22 e 32 da LPI
+ Artigos da LPI                                                                             Sim         Não
+ A matéria enquadra-se no Art. 10 da LPI (não se considera invenção)                                     X
+ A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                                             X
+ O pedido apresenta Unidade de Invenção (Art. 22 da LPI)                                        X
+ O pedido está de acordo com disposto no Art. 32 da LPI                                         X
+Comentários/Justificativas: ---
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                               Página 1
+                                            BR102015019612-1
+
+                 Quadro 3 - Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                            Sim                     Não
+O relatório descritivo está de acordo com disposto no Art. 24 da LPI
+O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI
+
+Comentários/Justificativas: ----
+                            Quadro 4 - Documentos citados no parecer
+ Código                                  Documento                                                Data de publicação
+           US6325330B1
+    D1     Título: Power Generation, Transmission, and Distribution                                     2001-12-04
+           System for an Aerostat Using a Lightweight Tether
+           Depositante: Lockheed Corp
+
+     Quadro 5 - Análise dos Requisitos de Patenteabilidade (Art. 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento                              Reivindicações
+                                                         Sim                                        1-48
+           Aplicação Industrial
+                                                        Não                                          ----
+                                                         Sim                                        1-48
+                 Novidade
+                                                        Não                                          ----
+                                                         Sim                                         ----
+           Atividade Inventiva
+                                                        Não                                         1-48
+Comentários/Justificativas:
+    Na manifestação a Requerente alega D1 descreve um sistema de geração de energia que se
+encontra em solo, e alimenta um aeróstato amarrado a ele permanentemente.
+
+    A Requerente salienta que D1 não intenta à proteção do aeróstato, nem clama a invenção
+deste, apenas do equipamento de que leva energia até o aeróstato cativo através de seu cabo de
+conexão ao solo e abastece seus sistemas elétricos internos.
+
+    A Requerente alega que outros aeróstatos que ficam suspensos presos por seus cabos de
+ancoragem podem precisar de baterias embarcadas para alimentação, ou é necessário que as
+cordas ou cabos sejam puxados, o aeróstato cativo descido para troca de baterias ou recarga
+destas, e este então colocado para o alto novamente.
+
+    A Requerente alega que o campo das duas invenções é bem diverso. D1 intenta o
+abastecimento de uma plataforma em ar (exemplo: forma de abastecer sistemas elétricos de um
+radar que esteja instalado lá em cima), enquanto o presente pedido de privilégio de patente de
+invenção descreve o método de utilização de uma aeronave na inspeção, construção e
+manutenção de torres de alta tensão da rede de transmissão.
+
+    A Requerente alega que D1 não cita as torres de alta tensão, nem objetiva a inspeção,
+construção ou manutenção destas, assim, não antecipa o objetivo e muito menos o método do
+descrito no presente pedido de privilégio de patente de invenção.
+
+
+
+                                                    Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12     Página 2
+                                         BR102015019612-1
+
+    A Requerente alega que ainda que o fizesse, a mera possibilidade de utilização de um
+dirigível na inspeção, manutenção e montagem de linhas de transmissão aérea poderia de fato
+ser suposta por um técnico na área frente a outros métodos que existem de realização com outras
+aeronaves (por exemplo com helicópteros), porém o presente pedido de patente não visa proteger
+a invenção da mera possibilidade abstrata de realização, mas sim um método concreto e efetivo
+de como fazê-lo, que trata-se exatamente da resolução do problema técnico de como seria
+possível tal aplicação.
+
+    A Requerente alega que os dirigíveis possuem formas completamente distintas de operação
+frente a aeróstatos cativos: aeróstatos cativos são plataformas flutuantes e dirigíveis (aeróstatos
+móveis) são aeronaves; sua construção e operação seguem as regras de Certificação de
+Aeronaves pela lei, controladas pelos órgãos de regulamentação (no Brasil, este se trata da ANAC
+-Agência Nacional de Aviação Civil); sua operação, mesmo quando feita de forma remota, exige
+técnicas de pilotagem semelhantes àquelas de aviões, guardadas as respectivas peculiaridades;
+possuem superfícies de controle iguais às de aeronaves de asa fixa (leme, profundor); possuem
+métodos de propulsão (motor) para deslocamento horizontal e vertical; obedecem a rotas de voo
+assim como aviões; percorrem grandes distâncias, podendo carregar cargas nestas; são
+controláveis e manobráveis, entre outros.
+
+    A Requerente alega que tais dirigíveis possuem também formas de operação distintas de
+aeronaves de asa fixa (avião) ou rotativa (helicóptero), pois: possuem sustentação aerostática,
+então trabalham com o equilíbrio entre a sustentação do empuxo (gerado pelo gás mais leve que
+o ar) e o peso carregado (carga ou passageiros); não utilizam o combustível para manter-se em
+ar, apenas para a movimentação; nodem pairar com motores desligados, em casos com pouco
+vento.
+
+    Apesar das alegações da Requerente, o aeróstato é um dispositivo bem conhecido na técnica,
+mais leve que o ar, que é preenchido de forma que sua densidade média seja menor que a
+densidade do ar atmosférico. O aeróstato pode ser amarrado ou de voo livre. O componente
+principal é um ou mais sacos de gás, uma pele leve contendo um gás de elevação para fornecer
+flutuabilidade, ao qual outros componentes, como uma gôndola contendo equipamentos ou
+pessoas, são anexados. Portanto, um aeróstato pode ser tripulado ou não. Um aeróstato pode ser
+usado para voar acima dos sistemas de geração, transmissão ou distribuição de energia [D1:
+Figura 12, Coluna 4, Linhas 41-58]. Um aeróstato é capaz de receber e transferir informações do
+sistema de energia para posterior análise [D1: Coluna 5, Linhas 1-27].
+
+    Apesar do documento utilizado para se delimitar o estado da técnica não descrever
+explicitamente um aeróstato a ser usado para sobrevoar a linha de energia que está sob
+inspeção, manutenção e permite a comunicação entre as equipes de inspeção e manutenção com
+as subestações e/ou centros operacionais regionais, tais características são inerentes à matéria
+pleiteada e, portanto óbvias para um técnico no assunto.
+
+
+
+                                                Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 3
+                                                  BR102015019612-1
+
+Conclusão
+    Face ao exposto, conclui-se que a invenção ora pleiteada decorre de maneira evidente ou
+óbvia, para um técnico no assunto, a partir do estado da técnica, sendo desprovida de atividade
+inventiva, conforme Art. 13 da LPI.
+
+    Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que o mesmo não
+atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+    Rio de Janeiro, 30 de maio de 2022.
+
+    Publique-se o indeferimento (9.2).
+
+    CAMILO BRAGA GOMES
+    Pesquisador / Mat. Nº 1547071
+    DIRPA / CGPAT III / DIFEL
+    Deleg. Comp. - Port. INPI / DIRPA Nº 022/12
+
+
+
+
+                                                        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 4
+

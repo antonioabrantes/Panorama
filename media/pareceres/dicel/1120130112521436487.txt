@@ -1,0 +1,200 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112013011252-2          N.° de Depósito PCT:US2011/060274
+ Data de Depósito:                   10/11/2011
+ Prioridade Unionista:               US 12/947,736 (16/11/2010)
+ Depositante:                        CAREFUSION 303, INC (US)
+ Inventor:                           ANTHONY NUDELMAN, STEPHEN SHELTON, THOMAS UTECH,
+                                     PETER GODLEWSKI, EMILY JING, CHARLIE SCHIMIDT
+ Título:                             Sistema para fornecer notificações de alerta de administração de
+                                     medicammentos, método para fornecer notificações de alerta de
+                                     administração de medicammentos, meio legível por máquinas, e
+                                     sistema para administrar medicammentos a um paciente 
+
+                                                              PARECER
+
+
+O presente pedido, que o requerente solicita privilégios de invenção, versa, inicialmente, sobre
+um sistema para fornecer notificações de alerta de administração de medicamento,
+método para fornecer notificações, meio legível e sistema. Após parecer 7.1 em primeiro exame,
+publicado na RPI 2611 de 19/01/2021, onde foram apontados problemas relacionados aos Arts.
+10, 24 e 25, o requerente apresentou suas considerações, cuidadosamente analisadas, através
+da petição 870210033739 de 14/04/2021.
+
+
+
+Em sua argumentação, o requerente discorreu perfeitamente sobre os pontos apontados no
+primeiro exame e explicitou o seu não entendimento da inclusão do pedido no Art. 10, uma vez
+que, a versão modificada deixaria claro que se trata de um sistema de alerta  item que não
+incidiria no tal artigo. Respeitosamente o examinador entende que a mudança proposta altera
+substancialmente o escopo da matéria solicitada, com base no relatório descritivo original
+onde vemos, por exemplo [Ver os conceito 1 apresentado no relatório descritivo e também o
+primeiro paragrafo sobre a manifestação técnica]. Mesmo que a mudança fosse aceita, os
+demais problemas relacionados aos Arts. 24 e 25 não foram solucionados.
+
+
+
+Em sua argumentação o requerente afirma Nao se trata de um metodo de diagnostico,
+conforme sugeriu o r. Examinador, este sistema nao diagnostica, apenas monitora e mostra as
+alteracoes que ocorrerem, ou seja, e simplesmente um sistema que monitora o corpo de um ser
+humano ou animal e avisa, a partir de um parametro de informacoes definido para o paciente,
+quando quaisquer niveis monitorados estiverem alterados, indicando que providencias devem
+ser tomadas no tratamento do referido paciente.. Após tal afirmação, apresenta uma
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                      Página 1
+                                         BR112013011252-2
+
+reivindicação principal extremamente ampla, com o elemento caracterizante fora de posição e
+solicitando itens que não foram perfeitamente definidos e defendidos como necessários a um
+efeito técnico distinto; efeito técnico este que também não foi explicitado.
+
+
+
+Sendo assim, à luz das novas vias do pedido, como vistas abaixo, do escopo do pedido original
+e também das argumentações do requerente entendemos que o pedido não atente aos
+requisitos da LPI e diretriz de exame e opinamos pelo indeferimento.
+
+
+
+                           Quadro 1  Páginas do pedido examinadas
+       Elemento                     Páginas                   n.o da Petição         Data
+
+Relatório Descritivo       29 Págs. (10 a 38 do pdf)          870210033739         14/04/2021
+Quadro Reivindicatório     07 Págs. (39 a 45 do pdf)          870210033739         14/04/2021
+Desenhos                   07 Págs. (63 a 69 do pdf)          018130015128         07/05/2013
+Resumo                        01 Pág. (46 do pdf)             870210033739         14/04/2021
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                             Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)            X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                             X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                  X
+Comentários/Justificativas
+
+Todas as considerações realizadas em primeiro exame são validas. O requerente apresentou
+um novo quadro e novo relatório descritivo com objetivo de descaracterizar o Art. 10. Todavia,
+ao analisar a documentação como um todo, relatório descritivo, resumo e quadro reivindicatório,
+ainda que com as adequações, fica difícil o entendimento, pois alteraria significativamente o
+escopo do pedido  Art. 32, esbarrando também no problema de clareza dos Arts 24 e 25
+(Também previamente citados nos exames anteriores).
+
+
+
+Portanto, pela orientação da LPI e diretriz de exame vigente, o pedido foi enquadrado no Art. 32
+e no Art. 10.
+
+
+
+
+                                                                                        Página 2
+                                           BR112013011252-2
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                       X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                     X
+Comentários/Justificativas
+Todas as considerações realizadas em primeiro exame são validas. O requerente apresentou um
+novo quadro e novo relatório descritivo com objetivo de tentar harmonizar o pedido, porém as
+definições apresentadas sobre um sistema de computador seguem extremamente genéricas. O
+requerente não define um sistema, com os componentes, os protocolos e os limita como exigido
+pela LPI. O mesmo se aplica ao restante do pedido, de forma que as mudanças nos documentos
+não trazem clareza e definição, pelo contrário, prejudicam ainda mais o entendimento. Sendo
+assim, o pedido foi enquadrado nos Arts. 24 e 25 da LPI.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+     -                                          -                                      -
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                  Cumprimento          Reivindicações
+                                                         Sim                      -
+           Aplicação Industrial
+                                                        Não                       -
+                                                         Sim                      -
+                 Novidade
+                                                        Não                       -
+
+                                                         Sim                      -
+           Atividade Inventiva
+                                                        Não                       -
+Comentários/Justificativas
+
+O pedido em questão apresenta uma série de irregularidades impeditivas apontados no exame
+6.21, no parecer 7.1 e neste parecer novamente. Em resumo o requerente falhou em definir o
+pedido, explicando a matéria e limitando o escopo de proteção.
+
+
+
+Uma vez que o requerente não consegue realizar estas etapas, torna-se inviável analisar
+detalhadamente um pretenso efeito técnico que não sequer foi explicitado. Ainda assim, os
+documentos apresentados na etapa de 6.21 são extremamente pertinentes à matéria em
+questão e na ausência de definição de escopo, falha no posicionamento do termo caracterizado
+por podem ser perfeitamente considerados para cobrir uma atividade inventiva do pedido em
+questão.
+
+
+                                                                                           Página 3
+                                         BR112013011252-2
+
+Portanto, o examinador é do entendimento que o pedido não satisfaz os requisitos de
+patenteabilidade e opina pelo indeferimento.
+
+
+
+Conclusão
+
+
+      O pedido não apresenta condições de patenteabilidade, como apresentado neste e nos
+dois pareceres anteriores. Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma
+vez que:
+
+      -    não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -    não apresenta suficiência descritiva (Art. 24 da LPI)
+
+      -    as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+           descritivo (Art. 25 da LPI)
+
+      -    não é considerado invenção, uma vez que incide no Art. 10 da LPI,
+
+      -    acréscimo de matéria do pedido ou do escopo das reivindicações (Art. 32 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                   Publique-se o indeferimento (9.2).
+
+
+
+                                                               Rio de Janeiro, 22 de junho de 2021.
+
+
+
+
+Edgar Jose Garcia Neto Segundo
+Pesquisador/ Mat. Nº 2357042
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+005/20
+
+
+
+
+                                                                                            Página 4
+

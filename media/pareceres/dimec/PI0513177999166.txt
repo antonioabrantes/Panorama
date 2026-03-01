@@ -1,0 +1,186 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0513177-4                N.° de Depósito PCT:US2005/024637
+ Data de Depósito:                   12/07/2005
+ Prioridade Unionista:               US 10/890,339 (13/07/2004)
+ Depositante:                        National Machinery Llc (US)
+ Inventor:                           Donald E. Krintzline, Mark W. Bordner
+ Título:                             Cilindro forjado 
+
+                                                              PARECER
+          O exame técnico anterior, publicado na RPI nº 2486 de 28/08/2018, apontou
+irregularidades no pedido, que feriam os requisitos de patenteabilidade. Por meio a
+petição nº 870180154666 de 23/11/2018 o requerente se manifestou com relação às
+exigências do exame técnico anterior. Para tanto, o requerente efetuou pagamento em
+guia de recolhimento complementar própria.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                 n.o da Petição           Data
+
+Relatório Descritivo                                      01                 018080038204/DESP        19/06/2008
+                                                         02-17               020070003198/NPRJ        09/01/2007
+Quadro Reivindicatório                                   01-12               018080038204/DESP        19/06/2008
+Desenhos                                                 01-05               020070003198/NPRJ        09/01/2007
+Resumo                                                     01                018080038204/DESP        19/06/2008
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                  Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                        X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                          X
+O pedido está de acordo com disposto no art. 32 da LPI                                           X
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                 Página 1
+                                               PI0513177-4
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim                Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                    DD122651                              20 de out de 1976
+    D2                                  JPS48811768                            1° de nov de 1973
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento            Reivindicações
+                                                         Sim                   01-36
+            Aplicação Industrial
+                                                        Não                      ...
+                                                         Sim                   01-36
+                 Novidade
+                                                        Não                      ...
+
+                                                         Sim                     ...
+            Atividade Inventiva
+                                                        Não                    01-36
+
+
+
+Comentários/Justificativas
+
+         D1 - A invenção refere-se a um método para produzir rotação de peças simétricas, em
+particular cilindros ou barris cordas de rolamento em forma de cunha.
+
+
+         D2  O documento trata de um método onde o material passou pelo orifício na barra em
+um tamanho predefinido cortado pelo movimento da barra e transferido para a frente do centro,
+e movendo o empurrar para frente o material - para que ambas as extremidades sejam
+pressionadas na parte rebaixada do anterior.
+
+
+
+         Para melhor entendimento, referencia-se aqui, cada reivindicação do pedido por R, ou
+seja, a reivindicação 1 é referenciada por R1, reivindicação 2 por R2 e assim por diante.
+
+
+
+         As reivindicações independentes 01 e 09 são confrontadas pelo documento D1, que
+revela um cilindro de rolamento de metal conformado a frio (vide página 2, coluna 1, linha 3)
+
+
+
+                                                                                            Página 2
+                                          PI0513177-4
+
+
+fabricado a partir de uma peça em bruto cilíndrica de extremidade cisalhada (vide página 2,
+coluna 2, linha 46), caracterizado por ter uma superfície principal anular contínua que
+corresponde a uma superficie de rolamento concêntrica em volta de um eixo geométrico central
+(vide Figura 5) de rotação e disposta entre um par de superfícies de extremidade geralmente
+perpendiculares ao eixo geométrico central, as superfícies de extremidade representando
+geralmente as extremidades do cilindro (vide Figura 5), uma superfície de canto arredondada
+anular em cada extremidade do cilindro estendendo-se uniformemente a partir da superfície
+principal, o canto arredondado em cada extremidade do cilindro formando uma área de transição
+entre a superfície principal e uma respectiva superfície de extremidade, as superfícies de canto
+arredondadas sendo, cada uma, substancialmente isentas do material que formava a superfície
+de extremidade cisalhada original da peça em bruto (vide página 3, coluna 1, linhas 36-37).
+Assim observa-se falta de atividade inventiva em R1 e R9 do presente pedido.
+
+
+
+       O documento D2 confronta a reivindicação independente 16 do presente pedido ao
+revelar um conjunto de ferramentas para conformar a frio peças em bruto de cilindro de metal
+(vide figura 03), caracterizado por compreender um par de cavidades (vide figura 03, itens 1 e 3)
+de ferramenta e matriz para conformar simultaneamente as extremidades de uma. peça em
+bruto com cantos arredondados e um anel de matriz flutuante (vide figura 03, itens 7 e 8) para
+conformar a peça em bruto limitando-se em sentido circunferente sua seção central enquanto e
+impelida na direção da cavidade de matriz pelo atrito entre o anel de matriz flutuante e a peça
+em bruto independentemente da correspondência direta com o movimento da cavidade de
+ferramenta, de modo que o atrito entre a seção central da peça em bruto seja efetivamente
+eliminado como uma força de retardo, que de outro modo funcionaria de modo a diminuir o
+enchimento dos cantos arredondados da cavidade de matriz com o material da peça em bruto.
+Assim fica evidente a ausência de atividade inventiva em R16, impedindo a concessão de uma
+patente de invenção.
+
+
+
+
+                                                                                         Página 3
+                                          PI0513177-4
+
+
+Conclusão
+
+
+       O exame técnico anterior, publicado na RPI nº 2486 de 28/08/2018, apontou
+irregularidades no pedido, que feriam os requisitos de patenteabilidade. Por meio a petição nº
+870180154666 de 23/11/2018 o requerente se manifestou com relação às exigências do exame
+técnico anterior. Para tanto, o requerente efetuou pagamento em guia de recolhimento
+complementar própria. No entanto, além de não cumprir as exigências técnicas apresentadas a
+manifestação exposta pelo requerente não apresenta argumentos técnicos suficientes para
+reverter e decisão tomada no exame anterior do presente pedido, que continua a não cumprir o
+requisito de atividade inventiva, indispensável para a concessão e uma patente de invenção.
+
+
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 24 de junho de 2019.
+
+
+
+
+Vinicio Coelho da Silva
+Pesquisador/ Mat. Nº 2359275
+DIRPA / CGPAT IV/DIMEC
+Deleg. Comp. - Port. INPI/DIRPA Nº
+003/19
+
+
+
+
+                                                                                         Página 4
+

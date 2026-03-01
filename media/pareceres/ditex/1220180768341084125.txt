@@ -1,0 +1,186 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122018076834-7  N.° de Depósito PCT:
+ Data de Depósito:                   19/12/2008
+ Prioridade Unionista:               -
+ Depositante:                        HUNTSMAN PETROCHEMICAL LLC (US)
+ Inventor:
+ Título:                             MÉTODO DE PREPARAR ALCOXILATOS DE AMIDOAMINA E
+                                     SUAS COMPOSIÇÕES
+
+                                                                PARECER
+
+          As observações quanto às formalidades, a indicação dos pressupostos e os dados
+necessários à tomada de decisão, conforme disposto na Lei 9784/99, encontram-se dispostos em
+Documento Interno.
+
+          O presente pedido refere-se a um método de produzir um alcoxilato amidoamina que
+compreende reagir uma triglicerida, um ácido carboxílico ou uma combinação de triglicerida e
+ácido carboxílico com um alquilenoamina para produzir um amidoamina e alcoxilar o amidoamina
+com um etileno óxido. O método adicionalmente revela composições de alcoxilato amidoamina e
+seus usos em formulações agrícolas.
+
+          A matéria reivindicada foi avaliada à luz da Lei de Propriedade Industrial nº 9.279, de 14 de
+maio de 1996 (LPI).
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-17               870180166302           21/12/2018
+Quadro Reivindicatório                                     1-2               870190102633           11/10/2019
+Desenhos                                                    -                       -                   -
+Resumo                                                      1                870180166302           21/12/2018
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                         x
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                  Página 1
+                                          BR122018076834-7
+
+
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   x
+O pedido está de acordo com disposto no art. 32 da LPI                    x
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1       US 6,034,257                                                          07/03/2000
+    D2       US 6,211,409                                                          03/04/2001
+    D3       US 2006/0079435                                                       13/04/2006
+    D4       US 5,226,943                                                          13/07/1993
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento            Reivindicações
+                                                         Sim                     1-5
+            Aplicação Industrial
+                                                         Não                   nenhuma
+                                                         Sim                     1-5
+                 Novidade
+                                                         Não                   nenhuma
+                                                         Sim                   nenhuma
+            Atividade Inventiva
+                                                         Não                     1-5
+
+
+
+Comentários/Justificativas
+
+         Inicialmente, cumpre ressaltar que o presente exame foi realizado sob a égide da Norma
+de Execução SEI nº 1/2019/DIRPA/PR.
+
+         Em resposta ao parecer técnico anterior, notificada na RPI nº 2535, de 06/08/2019, a
+requerente apresentou manifestação por meio da petição nº 870190102633, de 11/10/2019,
+
+
+
+
+                                                                                          Página 2
+                                              BR122018076834-7
+
+
+juntando seus esclarecimentos e novas vias do Quadro Reivindicatório, os quais foram
+considerados para o exame.
+
+        Em sua manifestação, a requerente argumentou principalmente que o Quadro
+Reivindicatório, ora apresentado, está melhor definido e que:
+
+   1. D3 ensina uma ordem diferente de reações, de modo que se obtém uma molécula
+            diferente da molécula reivindicada;
+
+   2. D3 ensina um pequeno excesso de amina na reação de amidação, enquanto que a
+            presente reivindica a razão estequiométrica, impedindo a formação de diaminas;
+
+   3. D3 ensina alcoxilação de amidoaminas, no entanto, todas as espécies de aminas utilizadas
+            são diaminas não cíclicas ou uma triamina cíclica, enquanto isso, a reivindicação 1 da
+            presente invenção, as espécies de aminas reivindicadas são triaminas não cíclicas, no
+            mínimo.
+
+        Analisando o novo Quadro Reivindicatório, os argumentos trazidos a baila e os
+documentos citados, nota-se que:
+
+   i.       a alcoxilação independe se é realizada antes ou depois da amidação, pois a alcoxilação e
+            a amidação ocorrem em sítios e por mecanismos distintos, portanto, nesse caso a ordem
+            de reação não altera o produto;
+
+   ii. o documento D3 (§ [0017]) ensina que após 2 ou 3 horas de reação a altas temperaturas,
+            o excesso de amina é removido por destilação a vácuo, opcionalmente junto com o
+            glicerol, no caso de transamidação, o que deixa claro que atingir a completude da reação
+            requer condições enérgicas. Desse modo, resta afastada a possibilidade de formação de
+            diamidos, mesmo porque o segundo ataque nucleofílico (do nitrogênio do amido a uma
+            segunda carboxila) é bem menos intenso;
+
+   iii. o documento D3 (§§ [0016]-[0017]) ensina o uso de óxido de etileno ou etilenodiamina
+            para a reação de amidação;
+
+   iv. o documento D4, que a requerente não comentou, ensina que o uso de aminas graxas,
+            amidoaminas graxas ou imidazolinas graxas alcoxiladas melhoram a atividade de
+            composições herbicidas ou fungicidas.
+
+        Assim, a matéria das reivindicações nº 1-5 não é inventiva, conforme definido no art. 8º c/c
+art. 13 da LPI, em face das informações contidas no documentos D3 e D4.
+
+
+
+Conclusão
+
+
+        Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+        -     não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+                                                                                             Página 3
+                                      BR122018076834-7
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 29 de outubro de 2019.
+
+
+
+
+Mauricio da Silva Martins Almeida
+Pesquisador/ Mat. Nº 1549647
+DIRPA / CGPAT I/DITEX
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                        Página 4
+

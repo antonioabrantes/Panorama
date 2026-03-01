@@ -1,0 +1,177 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122017013108-7          N.° de Depósito PCT: EP2012/003829
+ Data de Depósito:                   12/09/2012
+ Prioridade Unionista:               GB 1115739.3 (12/09/2011)
+ Depositante:                        CANON KABUSHIKI KAISHA (JP)
+ Inventor:                           EDOUARD FRANCOIS, GUILLAUME LAROCHE, PATRICE ONNO
+ Título:                             DERIVAÇÃO DE VALORES DE MODO DE REFERÊNCIA E
+                                     CODIFICAÇÃO       E    DECODIFICAÇÃO        DE    INFORMAÇÃO
+                                     REPRESENTANDO MODOS DE PREDIÇÃO
+
+                                                                PARECER
+
+
+          Em 29/03/2022, através da RPI 2673, foi publicado parecer de ciência onde constatou-se
+que a matéria das reivindicações independentes [1, 12, 17 e 21] (petição nº [870200095992] de
+31/07/2020) tratava da mesma matéria das reivindicações independentes [1, 12, 17 e 21] do
+quadro reivindicatório do pedido [BR112014005323-5] (petição nº [870200093327] de
+27/07/2020) não atendendo às disposições do Art. 6 da LPI.
+
+          Em 27/05/2022, através da petição 870220046832, a Requerente apresentou sua
+manifestação com relação ao parecer técnico de ciência.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                     1 - 22              870200095992     31/07/2020
+Quadro Reivindicatório                                    1-6                870200095992     31/07/2020
+Desenhos                                                 1 - 10              870170041807     19/06/2020
+Resumo                                                      1                870200095992     31/07/2020
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                           BR122017013108-7
+
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                           Sim              Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                            X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                    X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   X
+O pedido está de acordo com disposto no art. 32 da LPI                    X
+
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+   ----                                       ----                                      ----
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                   Cumprimento         Reivindicações
+                                                         Sim                     ----
+           Aplicação Industrial
+                                                         Não                     ----
+
+                                                         Sim                     ----
+                 Novidade
+                                                         Não                     ----
+
+                                                         Sim                     ----
+           Atividade Inventiva
+                                                         Não                     ----
+
+
+
+Comentários/Justificativas
+
+Em sua manifestação a Requerente alega que as reivindicações 1, 12, 17 e 21 do pedido
+BR112014005323-5, agora patente concedida, definem verificar se os respectivos modos de
+
+
+
+                                                                                               Página 2
+                                        BR122017013108-7
+
+
+predição da dita pelo menos duas unidades vizinhas são os mesmos ou diferentes e, se eles
+têm o mesmo modo e esse modo é um modo de predição DC, configurar os primeiro, segundo e
+terceiro valores de modo de predição como um modo de predição planar, o modo de predição
+DC e um modo de predição vertical, respectivamente em contraste, as reivindicações 1, 12, 17
+e 21 do presente pedido definem verificar se os respectivos modos de predição das ditas pelo
+menos duas unidades vizinhas são os mesmos ou diferentes e, se eles têm o mesmo modo e
+esse modo é um modo de predição planar, configurar os primeiro, segundo e terceiro valores
+de modo de predição como um valor de modo correspondendo a um modo de predição planar,
+um valor de modo correspondendo a um modo de predição DC e um modo de valor
+correspondendo a um modo de predição vertical, respectivamente.
+
+
+
+Respeitosamente, discordamos das razões da Requerente, uma vez que, o quadro
+reivindicatório do pedido mãe (BR 11 2014 005323-5), petição 870200093327 de 27/07/2020,
+apresenta:
+
+      Reivindicação 1: . se eles têm o mesmo modo e esse modo é um modo de predição
+       DC, configurar os primeiro, segundo e terceiro valores de modo de predição como um
+       modo de predição planar, o modo de predição DC e um modo de predição vertical,
+       respectivamente (3º parágrafo  página 1/6 do QR);
+
+      Reivindicação 12: . se eles têm o mesmo modo e esse modo é um modo de predição
+       DC, configurar os primeiro, segundo e terceiro valores de modo de predição como um
+       modo de predição planar, o modo de predição DC e um modo de predição vertical,
+       respectivamente (1º parágrafo  página 4/6 do QR);
+
+      Reivindicação 17: . se eles têm o mesmo modo e esse modo é um modo de predição
+       DC, configurar os primeiro, segundo e terceiro valores de modo de predição como um
+       modo de predição planar, o modo de predição DC e um modo de predição vertical,
+       respectivamente  (2º parágrafo  página 5/6 do QR).
+
+
+
+       Logo, constata-se que há duplicidade de matéria e que a matéria do presente pedido não
+está de acordo com o artigo 6 da LPI.
+
+
+
+Conclusão
+
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que infringe o
+disposto no Art. 6º da LPI.
+
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+                                                                                         Página 3
+                                    BR122017013108-7
+
+
+
+
+                                                         Publique-se o indeferimento (9.2).
+
+
+
+                                                       Rio de Janeiro, 13 de junho de 2022.
+
+
+
+
+Elias Lawrence Marques
+Chefe de Divisão/ Mat. Nº 1547032
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/PR Nº002/11
+
+
+
+
+                                                                                  Página 4
+

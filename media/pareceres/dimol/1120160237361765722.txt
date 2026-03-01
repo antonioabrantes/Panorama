@@ -1,0 +1,277 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR112016023736-6           N.° de Depósito PCT: US2015/051203
+ Data de Depósito:                     21/09/2015
+ Prioridade Unionista:                 US 14/608,126 (28/01/2015)
+ Depositante:                          TEVA PHARMACEUTICAL INDUSTRIES LTD. (IL)
+ Inventor:                             RAKEFET COHEN, SASSON HABBAH, MUHAMMAD SAFADI
+ Título:                               Processo para a fabricação de produto de acetato de glatiramer 
+
+                                                              PARECER
+           A presente invenção refere-se a processo de preparação de composição compreendendo
+acetato de glatirâmero (GA) e manitol.
+           As seguintes petições foram consideradas no presente exame:
+
+
+Petição                                                           Data
+
+NPRJ 020160006521                                                 11/10/2016
+RJ 870180065424                                                   30/07/2018
+RJ 800180286436                                                   03/08/2018
+RJ 870200113511                                                   08/09/2020
+RJ 870220046392                                                   27/05/2022
+RJ 870230083932                                                   21/09/2023
+           Em 08/09/2020, por meio da petição RJ 870200113511, o Depositante apresentou
+argumentações no pedido em resposta ao parecer emitido no âmbito da Resolução Nº 241/2019,
+notificado na RPI 2579, de 09/06/2020 segundo a exigência preliminar (6.21). Não foram
+apresentadas modificações no pedido.
+           Posteriormente, através da petição RJ 870220046392, de 27/05/2022, foi requerido o
+Exame Prioritário do pedido de patente em tela. A concessão do exame prioritário (despacho
+28.30) deu-se na RPI 2687, de 05/07/2022. Desse modo, não se aplicam mais ao pedido em
+questão as determinações da Resolução INPI/PR nº 241/2019.
+
+           Através da petição RJ 870230083932, de 21/09/2023, a Requerente apresentou
+manifestação a respeito do parecer técnico referente ao despacho 7.1 notificado na RPI nº 2738,
+de 27/06/2023, trazendo esclarecimentos a respeito da matéria.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                          Página 1
+                                                        BR112016023736-6
+
+
+  Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                              Sim      Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                   X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    X
+
+O pedido refere-se a Sequências Biológicas                                                                      X
+
+Comentários/Justificativas: ---
+
+
+
+                                    Quadro 1  Páginas do pedido examinadas
+            Elemento                                   Páginas          n.o da Petição                Data
+Relatório Descritivo                                        1          RJ 870180065424           30/07/2018
+Relatório Descritivo                                    2 a 45        NPRJ 020160006521          11/10/2016
+Listagem de sequências em
+                                                           ---                ---                      ---
+formato impresso
+Listagem de sequências*                                    ---                ---                      ---
+Quadro Reivindicatório                                   1a5           RJ 870180065424           30/07/2018
+Desenhos                                                1 a 11        NPRJ 020160006521          11/10/2016
+Resumo                                                      1          RJ 870180065424           30/07/2018
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                       Sim               Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                        X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                  X
+O pedido está de acordo com disposto no art. 32 da LPI                                   X
+Comentários/Justificativas: ---
+
+
+
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                       Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                     X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                                     X
+Comentários/Justificativas
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                        Página 2
+                                                         BR112016023736-6
+
+
+         A respeito da falta de suporte da matéria reivindicada no relatório descritivo, a Requerente
+argumentou, em sua manifestação, que os Exemplos 4, 8 e 9 do relatório descritivo do presente
+pedido de patente demonstram que o resfriamento da solução de GA abaixo de 17,5 ºC melhorou
+a filtrabilidade da solução. De fato, os referidos Exemplos mencionam o emprego de uma
+temperatura abaixo de 17,5º C, mas os dados experimentais comparativos referem-se a
+temperaturas de até 12º C para a situação de temperatura reduzida (vide, a título ilustrativo,
+Exemplos 1 e 3). Ou seja, muito embora o relatório descritivo ensine uma faixa de temperatura
+abaixo de 17,5º C como sendo uma temperatura reduzida, os exemplos efetivamente
+concretizados de processo de preparação de GA e manitol com redução na temperatura
+empregam condições que não passam de 12º C.
+         Tal fato é particularmente de se notar tendo em vista que o limite superior da faixa
+determinada pela reivindicação 1 (17,5º C) é próximo de temperaturas consideradas como
+temperatura ambiente e empregadas como controle (vide, por exemplo, Tabela à página 26 do
+relatório descritivo). Por conseguinte, reitera-se posicionamento do parecer técnico anterior quanto
+à falta de suporte da matéria reivindicada no relatório descritivo.
+
+
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                        Data de publicação
+    D1        US20130323771 A1                                                               05/12/2013
+    D2        BROSE, D. J, et al. Membrane Filtration. In: In: Nail, S.L., Akers,                 2002
+              M.J. (eds) (2002) Development and Manufacture of Protein
+              Pharmaceuticals. Pharmaceutical Biotechnology, Vol 14.
+              Springer, Boston, MA. https://doi.org/10.1007/978-1-4615-0549-
+              5_5
+    D3        MARSHALL, A. D. et al. The effect of protein fouling in                             1993
+              microfiltration and ultrafiltration on permeate flux, protein
+              retention and selectivity: A literature review. Desalination. 1993.
+              Vol. 91, No. 1, páginas: 65-108. https://doi.org/10.1016/0011-
+              9164(93)80047-Q
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                     Cumprimento   Reivindicações
+                                                                           Sim           1 a 29
+             Aplicação Industrial
+                                                                          Não              ---
+                                                                           Sim           1 a 29
+                     Novidade
+                                                                          Não              ---
+                                                                           Sim             ---
+             Atividade Inventiva
+                                                                          Não            1 a 29
+
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 3
+                                                        BR112016023736-6
+
+
+Comentários/Justificativas
+
+       No parecer técnico anterior, a atividade inventiva da matéria reivindicada foi questionada
+frente ao documento D1 combinado com D2 ou D3. A tal respeito, a Requerente se manifestou,
+trazendo as seguintes considerações:
+
+      a solução proposta pela presente invenção, ao reduzir a temperatura da etapa de filtração,
+       é contraintuitiva, uma vez que um técnico no assunto visando a aumentar a velocidade de
+       fluxo seria levado a aumentar a temperatura para diminuir a viscosidade, e não a diminuir a
+       temperatura;
+
+      D1 não menciona ou sugere qualquer problema associado à filtração;
+
+      D2 e D3 não discutem técnica de filtração para uma mistura complexa de polipeptídeos,
+       muito menos para uma mistura com a complexidade do GA;
+
+      nenhuma justificativa de se combinar os ensinamentos de D1 com D2 ou D3 foi fornecida
+       no parecer técnico anterior;
+
+      um técnico no assunto entenderia que seria um erro confundir polipeptídeos com proteínas
+       e não teria expectativa de sucesso em utilizar técnicas de filtração aplicáveis a soluções ou
+       meios de proteína, na filtração do GA;
+
+      a formação de filmes de biopolímeros não é revelada como um problema para filtração do
+       GA à temperatura ambiente;
+
+      a desnaturação, agregação ou precipitação não foram reveladas no estado da técnica
+       como sendo problemas para filtração do GA em temperatura ambiente.
+
+       Não prosperam, entretanto, os argumentos expostos pela Requerente. Como discutido no
+parecer técnico anterior, partindo-se de D1 como o estado da técnica mais próximo, o problema
+técnico resolvido pela presente invenção pode ser visto como a proposta de processo aprimorado
+de se obter uma composição de GA e manitol. Tal propositura do problema técnico solucionado
+pela invenção está de acordo com o definido pelo item 5.13 das Diretrizes de Exame de Pedidos
+de Patente  Bloco II  Patenteabilidade, instituídas pela Resolução nº 169, de 2016.
+
+       A obtenção de uma composição de GA e manitol, conforme ensinado por D1, em seu
+Exemplo 20, se dá através da mistura dos ingredientes, filtração da solução e preenchimento dos
+recipientes com a solução filtrada. Diante do problema técnico considerado, um técnico no
+assunto saberia recorrer aos documentos D2 ou D3, naquilo que ensinam sobre filtração de
+proteínas, para avaliar meios de se aprimorar tal subprocesso (itens 5.20 e 5.21 das Diretrizes de
+Exame de Pedidos de Patente  Bloco II  Patenteabilidade, instituídas pela Resolução nº 169, de
+2016). É mister observar que D2 e D3 tratam de técnicas aplicáveis ao desenvolvimento de
+formulações farmacêuticas de proteínas, e um versado na arte saberia estender tais
+conhecimentos ao caso de formulações de polipeptídeos. D2, por exemplo, em seu Prefácio, já
+deixa claro que seu conteúdo aborda formas farmacêuticas compreendendo proteína ou
+peptídeos. Logo, o estabelecimento das condições ideais de filtração de uma solução de
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                       Página 4
+                                                          BR112016023736-6
+
+
+polipeptídeos situa-se dentro da experimentação rotineira de um técnico no assunto. Os
+documentos D2 e D3 corroboram a visão de que não procede o argumento da Requerente de que
+a solução proposta pela presente invenção, ao reduzir a temperatura da etapa de filtração, é
+contraintuitiva, visto que esses documentos ensinam casos nos quais a redução da temperatura
+visa ao aprimoramento do fluxo do filtrado.
+
+         Mesmo que se considerasse a proposta de redução de temperatura não-óbvia para o caso
+da composição de GA e manitol, é de se observar que os dados do relatório descritivo não
+mostram o efeito vantajoso de filtração dessa composição em uma temperatura acima de 0º C até
+17,5º C. Os Exemplos 1 a 9 e Figuras 4 e 5 mostram o efeito da redução da temperatura do
+processo de filtração na pressão do sistema, levando a um aumento na capacidade de filtração da
+solução de GA 40 mg/mL quando esta é resfriada previamente em relação ao emprego de
+temperatura ambiente, sem que ocorra impacto na qualidade e no perfil de estabilidade da
+solução filtrada obtida. O Experimento comparativo nº 1, no Exemplo 1 (página 26 do relatório
+descritivo), mostra o resultado aprimorado da filtração conduzida de 6,6º C a 10,7º C em relação
+àquela conduzida em uma faixa de temperatura de 17,8º C a 24,6º C. O limite inferior da faixa de
+temperatura considerada ambiente é muito próxima do limite superior da faixa de 0º C a 17,5º C
+e questiona-se, portanto, se o efeito vantajoso seria observado para toda a faixa de temperatura
+abarcada pela reivindicação 1 (por exemplo, no caso da filtração ocorrer a 17º C). Os demais
+exemplos que definem precisamente a temperatura reduzida empregada (Exemplos 2 e 3)
+empregam faixas de temperaturas (5,7° C a 8, 8° C, 10,4° C a 12,2° C, 10,2° C a 11,7º C) com
+limite superior distante de 17,5º C. As Figuras 2 e 7 mencionam especificamente temperaturas
+abaixo de 12º C.
+
+         Em síntese, e em consonância com o discutido no parecer técnico anterior, face à
+combinação dos conhecimentos de D1, que ensina o processo básico de se preparar composição
+de GA e manitol, com os de D2 ou D3, que revelam como aprimorar a filtração de solução de
+proteínas, considera-se o processo objeto da reivindicação 1 destituído de atividade inventiva. O
+mesmo se aplica para a matéria das reivindicações 2 a 29, visto que nenhuma delas define
+alguma característica técnica responsável por atribuir ao processo pleiteado algum efeito não-
+óbvio.
+
+
+
+Conclusão
+
+         Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI) e as reivindicações não
+estão fundamentadas no relatório descritivo (Art. 25 da LPI).
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                    Página 5
+                                                        BR112016023736-6
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                           Publique-se o indeferimento (9.2).
+
+
+
+                                                                      Rio de Janeiro, 28 de setembro de 2023.
+
+
+
+
+Flávia Riso Rocha
+Pesquisador/ Mat. Nº 1550511
+DIRPA / CGPAT II/DIMOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                 Página 6
+

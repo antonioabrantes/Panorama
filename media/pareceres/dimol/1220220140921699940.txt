@@ -1,0 +1,231 @@
+                              SERVIÇO PÚBLICO FEDERAL
+          MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                   INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122022014092-0           N.° de Depósito PCT: US2015/019225
+ Data de Depósito:                   06/03/2015
+ Prioridade Unionista:               US 61/949,932 (07/03/2014)
+ Depositante:                        ALEXION PHARMACEUTICALS, INC. (US)
+ Inventor:                           BRUCE A. ANDRIEN JR., DOUGLAS L. SHERIDAN, PAUL P.
+                                     TAMBURINI
+ Título:                             Anticorpo isolado anti-C5 ou fragmento de ligação ao antígeno do
+                                     mesmo, ácido nucleico, vetor, célula, método para produzir dito
+                                     anticorpo ou fragmento, composição farmacêutica, kit terapêutico e
+                                     uso do dito anticorpo ou fragmento para tratar uma condição
+                                     associada ao complemento
+
+                                                              PARECER
+          A presente invenção se refere a anticorpos anti-C5 úteis para tratar distúrbios associados
+ao sistema complemento e com propriedades farmacocinéticas aprimoradas em relação aos
+anticorpos anti-C5 revelados anteriormente no estado da técnica.
+          O pedido de patente em tela se trata de uma divisão do pedido BR112016020454-9,
+depositado em 06/03/2015, doravante denominado pedido original. A notificação de depósito de
+pedido dividido (despacho 2.4) do BR122022014092-0 ocorreu na RPI nº 2695, de 30/08/2022.
+          Esse exame foi realizado em ambiente digital, tendo sido consideradas as seguintes
+petições, além daquelas relacionadas ao pedido de patente original:
+
+
+Petição                                                                 Data
+
+RJ 870220062651                                                         15/07/2022
+RJ 800220247585                                                         18/07/2022
+RJ 870220074048                                                         18/08/2022
+RJ 870220111960                                                         01/12/2022
+RJ 870230017804                                                         02/03/2023
+          Através da petição RJ 870220018357, de 04/03/2022, foi requerido o Exame Prioritário do
+pedido de patente original. A concessão do exame prioritário (despacho 28.30) deu-se na RPI
+2674, de, 05/04/2022.
+
+          Através da petição RJ 870230017804, de 02/03/2023, a Requerente apresentou
+manifestação a respeito do parecer técnico referente ao despacho 7.1 notificado na RPI nº 2709,
+de 06/12/2022, trazendo esclarecimentos a respeito da matéria, novas vias do relatório descritivo,
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                      Página 1
+                                             BR122022014092-0
+
+
+resumo, listagem de sequências e nova proposta de quadro reivindicatório, composta por 18
+reivindicações.
+
+
+
+  Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                              Sim      Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                   X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)             X
+
+O pedido refere-se a Sequências Biológicas                                                             X
+
+Comentários/Justificativas: ---
+
+
+
+                              Quadro 1  Páginas do pedido examinadas
+            Elemento                        Páginas                 n.o da Petição                    Data
+Relatório Descritivo                         1 a 175              RJ 870230017804                02/03/2023
+Listagem de sequências*              Código de Controle           RJ 870230017804                02/03/2023
+Quadro Reivindicatório**                      1a5                 RJ 870230017804                02/03/2023
+Desenhos                                     1 a 29               RJ 870220062651                15/07/2022
+Resumo                                          1                 RJ 870230017804                02/03/2023
+      *Listagem de sequências em formato eletrônico referente ao código de controle
+      52355E5C7B4B1D3D (Campo 1) e F5C8AF6ED9EB97C0 (Campo 2).
+      ** vide observações abaixo acerca do artigo 32 da LPI.
+
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                      Sim                 Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                   ---               ---
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                           ---               ---
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                               ---               ---
+O pedido está de acordo com disposto no art. 32 da LPI                                                     X
+Comentários/Justificativas
+
+       No parecer técnico anterior, foi feita observação quanto à não-observância do pedido em
+exame às determinações do artigo 32 da LPI, à luz das diretrizes instituídas pela Resolução nº
+093/2013 do INPI.
+       A tal respeito, a Requerente se manifestou alegando que o presente pedido foi
+depositado com base nas disposições dos artigos 26, 27 e 28 da LPI, destacando a
+determinação do artigo 26 da LPI para que o pedido dividido não exceda a matéria revelada pelo
+pedido original. Adicionalmente, citou o item 1.1 da supracitada Resolução, no que diz respeito à
+
+
+
+                                                                                                           Página 2
+                                      BR122022014092-0
+
+
+definição de matéria revelada, concluindo que a matéria inicialmente reivindicada no presente
+pedido não excede a matéria revelada pelo pedido de patente original.
+       A argumentação da Requerente não é considerada suficiente para superar a objeção
+quanto ao artigo 32 da LPI, uma vez que a limitação à matéria inicialmente revelada é um dos
+aspectos a serem observados ao se analisar o cumprimento ao artigo 32 da LPI, mas não o
+único. Outro ponto, no que diz respeito ao escopo reivindicado, é que este pode ser modificado
+desde que não seja ampliado em relação à matéria do quadro reivindicatório válido (conforme
+itens 2.1 e 2.3 da Resolução nº 093/2013 do INPI). A definição de quadro reivindicatório válido
+encontra-se no item 1.1 da citada Resolução.
+       A atual reivindicação 1 em exame (conforme petição RJ 870230017804, de 02/03/2023)
+se refere a um anticorpo ou fragmento de ligação a antígeno consistindo das CDRs de SEQ ID
+Nº 1, 2, 3, 4, 5 e 6, em que ao menos um aminoácido de tais sequências é substituído por
+histidina, para determinadas posições especificamente elencadas. Como discutido no parecer
+técnico anterior, a reivindicação 1 em exame abrange um escopo mais amplo do que o contido
+no quadro reivindicatório válido (quadro para o qual foi solicitado pedido de exame, no caso a
+petição 870180018166, de 06/03/2018, referente ao pedido original), visto que a reivindicação 1
+do quadro reivindicatório válido definia o anticorpo ou fragmento de ligação ao antígeno do
+mesmo por se ligar ao componente C5 humano do complemente, inibir a clivagem de C5 em
+fragmentos C5a e C5b e por compreender uma combinação específica de CDRs (SEQ ID nº 23,
+19, 3, 4, 5 e 6), enquanto a reivindicação 1 do pedido dividido em exame compreende diversas
+combinações de CDRs (sendo, inclusive, a combinação de CDRs tal como definida pela
+reivindicação 1 do quadro válido especificamente excluída do escopo de proteção).
+       Cabe ser destacado que o entendimento de qual é o quadro reivindicatório válido no caso
+de um pedido dividido é especificamente abordado pelo item 2.6 das diretrizes instituídas pela
+Resolução nº 093/2013.
+       Do mesmo modo, o quadro reivindicatório válido não compreende proteção para método
+para produzir, composição farmacêutica, kit terapêutico e uso referentes a um anticorpo tal como
+definido pela reivindicação 1 do quadro reivindicatório apresentado através da petição RJ
+870230017804, de 02/03/2023.
+
+       Logo, tem-se claramente que o quadro reivindicatório apresentado através da petição RJ
+870230017804, de 02/03/2023, compreende escopo de proteção maior do que o compreendido
+pelo quadro reivindicatório válido. Como tal aumento da proteção reivindicada ocorreu após o
+pedido de exame do pedido original, tal modificação do quadro reivindicatório vai contra o
+disposto no Artigo 32 da LPI, conforme diretrizes sobre aplicabilidade do disposto no artigo 32
+da LPI nos pedidos de patentes, instituídas pela Resolução nº 093/2013. Desse modo, o quadro
+reivindicatório ora apresentado não poderá ser aceito, motivo pelo qual não será objeto
+de exame no presente parecer (vide item 3.3 das citadas diretrizes).
+
+
+
+
+                                                                                        Página 3
+                                          BR122022014092-0
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                            Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI       ---                 ---
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI     ---                 ---
+Comentários/Justificativas
+
+          Uma vez que o quadro reivindicatório ora ofertado foi recusado por incidir no artigo 32 da
+LPI, não são feitos comentários referentes aos artigos 24 e 25 da LPI.
+
+
+                             Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                               Data de publicação
+    ---       ---                                                                        ---
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento              Reivindicações
+                                                        Sim                        ---
+             Aplicação Industrial
+                                                        Não                        ---
+                                                        Sim                        ---
+                      Novidade
+                                                        Não                        ---
+
+                                                        Sim                        ---
+             Atividade Inventiva
+                                                        Não                        ---
+Comentários/Justificativas
+
+          O quadro reivindicatório ora ofertado foi recusado por incidir no artigo 32 da LPI e,
+portanto, não foi examinado quando aos requisitos de patenteabilidade.
+
+
+Observação adicional
+          No parecer técnico anterior foi observada duplicidade da matéria reivindicada com a do
+quadro reivindicatório concedido para o pedido original (artigo 6º da LPI). Contudo, tal
+observação não se aplica ao quadro reivindicatório ora proposto, visto que seu escopo exclui
+particularmente a matéria concedida para o pedido original.
+
+
+
+
+                                                                                               Página 4
+                                        BR122022014092-0
+
+
+Conclusão
+
+       A argumentação da Requerente e as modificações introduzidas no quadro reivindicatório
+não foram suficientes para superar a objeção quanto ao artigo 32 da LPI apontada e discutida no
+parecer técnico anterior. Tendo em vista as diretrizes instituídas pela Resolução nº 093/2013 do
+INPI (itens 3.2, 3.3 e Figura 2), o novo quadro reivindicatório foi recusado em sua totalidade.
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que
+apresenta acréscimo de matéria do pedido ou do escopo das reivindicações (Art. 32 da LPI)
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                              Rio de Janeiro, 28 de março de 2023.
+
+
+
+
+Flávia Riso Rocha
+Pesquisador/ Mat. Nº 1550511
+DIRPA / CGPAT II/DIMOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                            Página 5
+

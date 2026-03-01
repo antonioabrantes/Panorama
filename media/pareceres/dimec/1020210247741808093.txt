@@ -1,0 +1,150 @@
+                              SERVIÇO PÚBLICO FEDERAL
+          MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                   INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102021024774-6            N.° de Depósito PCT:
+ Data de Depósito:                   08/12/2021
+ Prioridade Unionista:               -
+ Depositante:                        JOSÉ DARCI CAMARGO JUNIOR (BR/SP); JOSÉ DARCI CAMARGO
+                                     (BR/SP)
+ Inventor:                           JOSÉ DARCI CAMARGO; JOSÉ DARCI CAMARGO JUNIOR
+ Título:                             Motor hidrostático com hidrogênio 
+
+                                                                PARECER
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                     1a5                 870210114026           08/12/2021
+Quadro Reivindicatório                                   1a2                 870210114026           08/12/2021
+Desenhos                                                 1a5                 870210114026           08/12/2021
+Resumo                                                      1                870210114026           08/12/2021
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                                     x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                                   x
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                        BR102021024774-6
+
+
+   1. O relatório descritivo do presente pedido não descreve de forma clara o objeto de forma a
+        possibilitar sua realização por um técnico no assunto, contrariando o disposto no Art. 24 da
+        LPI.
+
+   2. A análise do presente pedido evidenciou que a reivindicação 1 se refere a um objeto que
+        não se encontra suficientemente descrito no relatório descritivo do pedido de forma a
+        possibilitar sua realização por um técnico no assunto, fazendo com que se descumpra o
+        disposto no artigo 24 da Lei nº 9.279/96 (LPI)
+
+   3. As reivindicações 1 - 9 não atendem ao disposto no Art. 25 da LPI e na Instrução
+        Normativa nº 30/2013  Art. 4º (III), pois a matéria pleiteada não está definida de maneira
+        clara, precisa e positiva.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                Documento                              Data de publicação
+    -          -                                                                        -
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento                Reivindicações
+                                                     Sim                          -
+           Aplicação Industrial
+                                                     Não                        1-9
+                                                     Sim                        1-9
+                   Novidade
+                                                     Não                          -
+
+                                                     Sim                          -
+            Atividade Inventiva
+                                                     Não                        1-9
+Comentários/Justificativas
+
+        De acordo com o parecer técnico de ciência publicado na RPI nº 2757 de 07/11/2023, o
+pedido em questão não apresentava condições de patenteabilidade por falta de clareza nas
+reivindicações, insuficiência descritiva e aplicação industrial. Baseado nas argumentações do
+depositante na manifestação apresentada por meio da petição nº 870230114243, depositada em
+27/12/2023, onde o mesmo se limita a somente apresentar contra-argumentos, tem-se a fazer os
+seguintes comentários:
+
+   1. A manifestação do depositante não traz nenhum elemento novo que reverta os óbices
+        apontados no parecer de ciência retro, pois suas argumentações se limitam a reproduzir o
+        quadro reivindicatório já analisado. Portanto, as diferenças citadas pelo depositante são
+        evidentes do estado da técnica, sendo de conhecimento óbvio para um técnico no assunto.
+
+   2. Refere-se o presente pedido de patente de invenção a um motor hidrostático com
+        hidrogênio. De acordo com o depositante, o baixo custo de manutenção e o longo tempo
+
+
+                                                                                            Página 2
+                                          BR102021024774-6
+
+          para reposição do hidrogênio permite uma funcionalidade constante. O processo seria
+          ininterrupto, constante e estável em seu ciclo interno, tornando o produto desta invenção
+          uma fonte geradora motriz ininterrupta e estável por longos períodos de tempo.
+   3. No entanto, embora a combinação das características técnicas nas reivindicações possam
+          ser, a priori, realizadas, o exame das reivindicações deve levar em conta o efeito alegado e
+          o princípio de funcionamento da invenção. O presente pedido parece tratar do conhecido
+          perpetuum mobile ou moto-contínuo. Um moto-contínuo de primeira espécie é uma
+          máquina de movimento perpétuo que viola a Primeira Lei da Termodinâmica, fornecendo
+          ao exterior mais energia do que ela consome. Um moto-contínuo de segunda espécie é
+          uma máquina de movimento perpétuo que viola a Segunda Lei da Termodinâmica,
+          possuindo um rendimento igual ou superior a 100%. Deste modo, a invenção é desprovida
+          de aplicação industrial, contrariando o disposto no Artigo 15° da LPI.
+
+   4. Ainda, não houve mudanças no quadro reivindicatório que permitissem diferenciar entre o
+          que há de novo e inventivo na suposta invenção e o estado da técnica existente.
+
+   5. Por último, o quadro reivindicatório e o relatório descritivo não trazem características
+          técnicas da invenção que possibilitem a sua realização por um técnico no assunto.
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -     não atende ao requisito de aplicação industrial (Art. 8º combinado com Art. 15 da LPI)
+
+      -     não apresenta suficiência descritiva (Art. 24 da LPI)
+
+      -     as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+            descritivo (Art. 25 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                    Publique-se o indeferimento (9.2).
+
+                                                              Rio de Janeiro, 12 de fevereiro de 2024.
+
+
+
+
+Edimilson Junqueira Braga
+Pesquisador/ Mat. Nº 2569059
+DIRPA / CGPAT IV/DIMEC
+Deleg. Comp. - Port. INPI/DIRPA Nº 011/17
+
+
+
+
+                                                                                             Página 3
+

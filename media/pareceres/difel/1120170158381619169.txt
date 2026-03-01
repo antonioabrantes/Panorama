@@ -1,0 +1,139 @@
+                                         SERVIÇO PÚBLICO FEDERAL
+                                          MINISTÉRIO DA ECONOMIA
+                              INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.º do Pedido:                       BR112017015838-8          N.º de Depósito PCT: ES2015/070066
+ Data de Depósito:                    30/01/2015
+ Prioridade Unionista:                ----
+ Depositante:                         Ingeteam Power Technology, S.A. (ES)
+ Inventor:                            Pedro Catalan Lago, Eneko Olea Oregi, José Ignacio Candela Garcia,
+                                      Alvaro Luna Alloza, Kumars Rouzbehi
+ Título:                              Sistema e Método de Sincronização para uma Unidade de Geração de
+                                      Energia Acoplada a um Sistema de Energia Elétrica
+                                                         PARECER
+      A Requerente recebeu notificação de Ciência de Parecer (7.1) publicada na RPI nº 2683 de
+07/06/2022. Através da petição nº 870220070523 de 08/08/2022, a mesma apresentou
+Manifestação sobre o Parecer Técnico e novo Quadro Reivindicatório. Para fins de continuidade
+do exame estão sendo consideradas as vias abaixo:
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas   Nº da Petição         Data
+                                                                        870170052035
+ Relatório Descritivo                                          1-26                         24/07/2017
+                                                                         Págs. 7 a 32
+                                                                        870220070523
+ Quadro Reivindicatório                                         1-8                         08/08/2022
+                                                                         Págs. 7 a 14
+                                                                        870170052035
+ Desenhos                                                       1-5                         24/07/2017
+                                                                        Págs. 42 a 46
+                                                                        870170052035
+ Resumo                                                         1                           24/07/2017
+                                                                           Pág. 1
+
+                  Quadro 2 - Considerações referentes aos Artigos 10, 18, 22 e 32 da LPI
+ Artigos da LPI                                                                     Sim         Não
+ A matéria enquadra-se no Art. 10 da LPI (não se considera invenção)                             X
+ A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                                     X
+ O pedido apresenta Unidade de Invenção (Art. 22 da LPI)                                X
+ O pedido está de acordo com disposto no Art. 32 da LPI                                 X
+Comentários/Justificativas: ----
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                       Página 1
+                                            BR112017015838-8
+
+                 Quadro 3 - Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                            Sim                     Não
+O relatório descritivo está de acordo com disposto no Art. 24 da LPI                        X
+O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI                      X
+Comentários/Justificativas: ----
+                            Quadro 4 - Documentos citados no parecer
+ Código                                  Documento                                                Data de publicação
+           US2008093853A1
+           Título: Method and Apparatus for Operating Electrical Machines
+    D1                                                                                                   2008-04-24
+           Depositante: Gen Electric
+
+     Quadro 5 - Análise dos Requisitos de Patenteabilidade (Art. 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento                              Reivindicações
+                                                         Sim                                        1-15
+           Aplicação Industrial
+                                                        Não                                          ----
+                                                         Sim                                        1-15
+                 Novidade
+                                                        Não                                          ----
+                                                         Sim                                         ----
+           Atividade Inventiva
+                                                        Não                                         1-15
+Comentários/Justificativas:
+   Na manifestação a Requerente alega que embora a máquina de estado descrita em D1 esteja
+configurada para transferir o regulador PLL para pelo menos um dos quatro estados, ou modos,
+de operação em função das características dos sinais de tensão recebido os parâmetros de ganho
+não são ajustados dinamicamente seguindo possíveis alterações no sinal elétrico principal
+conforme descrito no presente pedido de privilégio de patente de invenção.
+
+   Apesar das alegações da Requerente, D1 descreve um sistema de sincronização para uma
+unidade de geração de energia acoplada a um sistema de energia elétrica, [Figura 2] sistema de
+sincronização de lago, unidade de geração de energia, sistema de energia elétrica o sistema de
+sincronização sendo configurado para estar em comunicação com o sistema de energia elétrica e
+com a unidade de geração de energia para facilitar a sincronização entre a unidade de geração de
+energia e o sistema de energia elétrica, regulador PLL é acoplado na comunicação eletrônica de
+dados com erro dos transdutores de tensão via eletrodutos para as fases A, B e C do barramento
+de rede [Parágrafo 0035] receber pelo menos um sinal elétrico principal do sistema de energia
+elétrica, PLL inclui um bloco de função de detector de fase que está configurado para receber os
+sinais de medição de tensão sinusoidal transmitidos dos conduítes para fase A, fase B e fase C do
+barramento de rede [Parágrafos 0038 e 0043; Figuras 2 e 4], os sinais de medição de tensão de
+rede também são transmitidos para a máquina de estado PLL dos transdutores e para gerar pelo
+menos um sinal de sincronização para facilitar a sincronização por meio de pelo menos um
+
+
+
+                                                    Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12     Página 2
+                                                  BR112017015838-8
+
+circuito de bloqueio de fase, o bloco de função gera um sinal de ângulo de fase PLL que é
+transmitido ao controlador para controle do conjunto [Parágrafo 0042; Figura 4] e o circuito de
+bloqueio de fase compreendendo pelo menos um esquema de controlador com uma projeção de
+parâmetros de ganho para eliminar o desvio de pelo menos uma propriedade elétrica do sinal de
+sincronização em relação ao sinal elétrico principal, sendo a propriedade elétrica selecionada
+entre pelo menos a amplitude , frequência e ângulo de fase, um sinal de constante de ganho
+proporcional de um registrador de constante de ganho proporcional um sinal de constante de
+ganho integral de um registrador de constante de ganho integral pelo qual o sistema de
+sincronização também compreende um controlador de ganho configurado para ajustar o valor dos
+parâmetros de ganho da Malha de Bloqueio de Fase dependendo da frequência ou ângulo de fase
+e do amplitude do referido sinal elétrico principal [Parágrafos 0039 e 0040]. Um registro constante
+de ganho proporcional. O registro é preenchido com valores determinados em função de um
+estado PLL (ou modo PLL) conforme determinado pela máquina de estado PLL onde a máquina
+de estado está configurada para transferir o regulador PLL para pelo menos um dos quatro
+estados, ou modos, de operação em função das características dos sinais de tensão recebidos
+conforme descrito acima. Cada mudança de estado de operação facilita uma dinâmica alternar
+entre constantes de ganho agressivas e não agressivas. Essas características facilitam o
+gerenciamento de tais ganhos e pinças dinamicamente em função das características de tensão
+da rede [Parágrafos 0039 e 0045]
+
+Conclusão
+    Face ao exposto, conclui-se que a invenção ora pleiteada decorre de maneira evidente ou
+óbvia, para um técnico no assunto, a partir do estado da técnica, sendo desprovida de atividade
+inventiva, conforme Art. 13 da LPI.
+
+    Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que o mesmo não
+atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+    Rio de Janeiro, 30 de agosto de 2022.
+
+    Publique-se o indeferimento (9.2).
+
+    CAMILO BRAGA GOMES
+    Pesquisador / Mat. Nº 1547071
+    DIRPA / CGPAT III / DIFEL
+    Deleg. Comp. - Port. INPI / DIRPA Nº 022/12
+
+
+
+
+                                                        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 3
+

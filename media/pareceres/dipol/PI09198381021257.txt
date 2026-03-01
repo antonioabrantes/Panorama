@@ -1,0 +1,374 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0919838-5               N.° de Depósito PCT:EP2009/062195
+ Data de Depósito:                   21/09/2009
+ Prioridade Unionista:               EP 08165813.0 (03/10/2008)
+ Depositante:                        Ineos Europe Limited (GB)
+ Inventor:                           Jean-Louis Chamayou, Daniel Marissal
+ Título:                             PROCESSO PARA A DESGASEIFICAÇÃO DE PÓ DE POLÍMERO
+
+                                                                PARECER
+
+
+          Em resposta ao parecer técnico, de 15 de março de 2019, notificado pela publicação na
+RPI n°2518, de 09 de abril de 2019, a requerente apresentou manifestação na petição
+n°870190063250, de 05 de julho de 2019, onde anexou alguns esclarecimentos em razão das
+objeções levantadas no referido parecer.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               no da Petição           Data
+
+Relatório Descritivo                                    1 a 41               870190004165          14/01/2019
+Quadro Reivindicatório                                   1a8                 870190004165          14/01/2019
+Desenhos                                                    -                      -                   -
+Resumo                                                   1a2                 870190004165          14/01/2019
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei no 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                               Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                        X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                       X
+O pedido está de acordo com disposto no art. 32 da LPI                                        X
+Comentários/Justificativas:
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                 Página 1
+                                               PI0919838-5
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                 Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI            X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         X
+Comentários/Justificativas:
+
+       No parecer técnico anterior foi mencionado que o relatório não descrevia a invenção de
+modo a ressaltar, nitidamente, a novidade do pedido evidenciando o efeito técnico alcançado. O
+pedido refere-se a processos para a produção de pó de polímero, e em particular a
+processos para a desgaseificação de pó de polímero.                    No entanto, apesar do relatório
+mencionar que a invenção do pedido procura fornecer processos de desgaseificação
+melhorados, em relação as técnicas anteriores, não descreve claramente o objeto. Conforme
+relatório, o processo reivindicado é realizado de modo que as condições sejam determinadas ou
+controladas com base no polímero a ser desgaseificado, entretanto, o relatório não define
+precisamente os parâmetros empregados para definir o processo e, tampouco, o processo
+reivindicado define o polímero a ser desgaseificado.
+
+       Por sua vez, o quadro reivindicatório, compreendendo 17 reivindicações, não define, de
+modo claro, preciso e conciso, a matéria objeto de proteção, em desacordo com o artigo 25 da
+Lei da Propriedade Industrial e Instrução Normativa n°30/2013.
+
+       O quadro reivindicatório compreende duas reivindicações independentes imprecisas
+e de mesma categoria referindo-se a um processo para a produção de um pó de polímero
+desgaseificado(reivindicações 1 e 6).
+
+       No entanto, como mencionado no parecer técnico anterior, a apresentação de mais de
+uma reivindicação independente da mesma categoria no quadro reivindicatório só é admitida se
+tais reivindicações definirem diferentes conjuntos de características alternativas e
+essenciais à realização da invenção, de acordo com a Instrução Normativa nº 30/2013  Art. 5º
+(II), o que no caso do pedido em análise não se justifica.
+
+       As duas reivindicações independentes 1 e 6 reúnem praticamente as mesmas
+características técnicas antes da expressão caracterizante indicando que tais características já
+se encontram reveladas no estado da técnica. No entanto, após a expressão caracterizante,
+onde devem ser apresentadas as características próprias e inerentes da invenção pleiteada,
+são apresentadas, em ambas as reivindicações, alguns parâmetros, tais como a produtividade
+do polímero da etapa de desgaseificação P e o peso molecular Mw questionáveis.
+
+       A definição de um processo para a produção de um pó de polímero desgaseificado
+em função de parâmetros não definidos e, que dependem, do tipo de polímero preparado (que
+também não é definido) não é clara, portanto.
+
+       As características definidas nas reivindicações independentes dependem de alguns
+parâmetros não definidos. Consequentemente, as reivindicações independentes não são claras
+
+
+
+                                                                                               Página 2
+                                             PI0919838-5
+
+
+e as reivindicações dependentes não apresentam qualquer característica técnica adicional que,
+em combinação com as características de qualquer uma das reivindicações a que se referem,
+possa melhor definir o pleito e, assim, prover os requisitos necessários à patenteabilidade.
+
+       Em razão das objeções levantadas no parecer, a requerente esclarece que a invenção é
+caracterizada pela maneira como a etapa ou etapas de desgaseificação são operadas. Em
+particular, na presente invenção, a etapa ou etapas de desgaseificação é/são operadas sob
+condições que são selecionadas como definido nas reivindicações, em particular em relação à
+taxa G/P usada e a concentração do componente de hidrocarboneto crítico no gás de purga
+ou gases. (enfase da requerente)
+
+       A requerente prossegue mencionado que tomando a reivindicação 1 do pedido em
+análise como um exemplo, em primeiro lugar, em relação ao componente de hidrocarboneto
+crítico isto é definido (como claramente estabelecido na referida reivindicação 1) com base nos
+componentes utilizados na etapa de polimerização. Estes são, evidentemente, conhecidos por
+um técnico no assunto, uma vez que estão ou irão operar a polimerização, isto é, eles escolhem
+quais componentes devem ser utilizados durante a polimerização.
+
+       Em relação ao G/P, isso se refere, simplesmente, menciona a requerente na resposta
+ao parecer, à relação entre a taxa de fluxo de massa de gás de purga e a taxa de fluxo de
+massa do polímero (throughput). Uma relação G/P mínima é definida com base no cálculo
+de X, calculado a partir de parâmetros físicos definidos, conforme estabelecido na
+reivindicação 1. Ainda, a requerente menciona que todos estes parâmetros são conhecidos ou
+são calculáveis para o técnico no assunto.
+
+       Conforme prossegue a requerente na manifestação, o cálculo de X também inclui o
+peso molecular (Mw) do gás de purga. A requerente ressalta que no parecer técnico, ora sob
+manifestação, o examinador referiu-se ao Mw do polímero dizendo que este seria um
+problema, já que o Mw do polímero ainda não estaria determinado. Contudo, a requerente
+discorda desta opinião visto que o processo seria operado para produzir um produto com
+propriedades particulares, incluindo o Mw (o qual já seria conhecido). Assim, a requerente
+considera que a posição do examinador sobre esta questão estaria equivocada, visto que o Mw
+do gás de purga seria conhecido por um técnico no assunto, porque o gás de purga a ser
+utilizado é escolhido por ele. (trechos em negrito destacados pela requerente)
+
+       Portanto, a requerente reitera que nem Mw nem P são parâmetros não especificados,
+pelo contrário, ambos são parâmetros já conhecidos. Uma vez calculado o G/P mínimo
+(1,25*X) um técnico no assunto simplesmente escolhe uma taxa de fluxo de gás (G) que
+proporciona um G/P que está entre este (1,25*X) e 10*X. (trechos em negrito destacados pela
+requerente)
+
+       Prossegue a requerente na manifestação alegando que uma posição similar se aplica a
+Y. Este é definido, conforme estabelecido claramente nas reivindicações, com base nos
+parâmetros conhecidos ou calculáveis por um técnico no assunto. Uma vez calculado,
+
+
+
+                                                                                           Página 3
+                                           PI0919838-5
+
+
+então o gás de purga deve ter uma concentração desse componente menor que Y. Uma vez
+que isto tenha sido calculado, é trivial para o técnico no assunto assegurar que o gás de purga
+tenha uma concentração inferior a esta. (negritos nossos)
+
+         Desse modo, a requerente conclui que todos os parâmetros necessários para calcular X
+e Y estão, portanto, disponíveis para um técnico no assunto, e não se vê, por essa razão
+nenhum problema em assegurar que os requisitos de G/P e concentração são atendidos.
+
+         Com relação a objeção feita no parecer em razão da presença de duas reivindicações
+independentes de mesma categoria no quadro reivindicatório, a requerente menciona que a
+invenção deve ser aplicada em duas formas diferentes quando existem diferentes números de
+etapas de desgaseificação e, no caso, a reivindicação 1 do pedido refere-se a um processo
+como operado com uma única etapa de desgaseificação para assegurar que o polímero ao final
+tenha um baixo nível de hidrocarbonetos residuais enquanto a reivindicação 6 do pedido refere-
+se ao processo com duas etapas de desgaseificação.          Neste caso, conforme menciona a
+requerente na manifestação, a característica importante é que o polímero, que sai da segunda
+etapa de desgaseificação tem um baixo nível de hidrocarbonetos residuais. (negritos nossos,
+trechos grifados da requerente)
+
+         Portanto, a requerente acredita que os esclarecimentos prestados foram suficientes para
+superar as objeções relacionadas à falta de clareza e suficiência descritiva do pedido, estando
+plenamente de acordo com as disposições dos artigos 24 e 25 da LPI.
+
+         Por outro lado, no parecer técnico anterior foram considerados relevantes os seguintes
+documentos do estado da técnica:
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                              Data de publicação
+    D1            WO2008015228 (citado no parecer de despacho 6.20)                 07/02/2008
+
+    D2                              WO2008024517                                    28/02/2008
+    D3                                 EP0683176                                    22/11/1995
+    D4                                 EP0047077                                    10/03/1982
+
+
+   Quadro 5  Análise dos Requisitos de Patenteabilidade (Artigos 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento                Reivindicações
+                                                    Sim                       1 a 17
+            Aplicação Industrial
+                                                    Não                         -
+                                                    Sim                         -
+                 Novidade
+                                                    Não                       1 a 17
+
+                                                    Sim                         -
+            Atividade Inventiva
+                                                    Não                       1 a 17
+
+
+
+                                                                                          Página 4
+                                          PI0919838-5
+
+
+Comentários/Justificativas:
+
+       Com relação aos documentos do estado da técnica citados no parecer técnico anterior
+(D1, D2, D3 e D4), a requerente menciona que o cálculo e operação, de acordo com as
+condições definidas nas reivindicações 1 e 6, fornecem, em cada caso, um processo de
+desgaseificação melhorado, permitindo com que o operador garanta que a desgaseificação
+atenda à especificação exigida, mas ao mesmo tempo, que a desgaseificação não é super
+especificada. O uso de taxa de fluxo de gás de desgaseificação amplas, com gás fresco puro,
+como nitrogênio, sem reciclagem, pode ser, por exemplo, para desgaseificar o polímero a um
+nível baixo, no entanto, de forma mais onerosa. Conforme destaca a requerente, a invenção do
+pedido define uma taxa de fluxo de gás que proporciona a desgaseificação requerida (segura)
+e também permite que uma reciclagem seja usada. Por exemplo, para a reivindicação 1, o gás
+de purga usado pode ser misturado com gás fresco desde que o hidrocarboneto crítico no gás
+misturado esteja abaixo da concentração máxima definida, ou o gás de purga usado pode ser
+tratado e reciclado conforme definido na reivindicação 6. Isso reduz a quantidade total de gás
+fresco necessária em ambos os casos, o que é claramente vantajoso por razões ambientais e de
+custo. (negritos nossos, trechos grifados da requerente)
+
+       Dessa forma, conclui a requerente que fica claro que a invenção em análise possui
+características distintas, não é obvia, apresenta efeitos imprevisíveis e, portanto, apresenta
+novidade e atividade inventiva frente aos ensinamentos revelados nos documentos do estado da
+técnica D1 a D4, atendendo plenamente ao requisito de patenteabilidade previstos nos artigos
+8°, 11 e 13 da LPI.
+
+       Examinando as argumentações da requerente, a matéria conforme revelada no pedido,
+assim como a matéria revelada nos documentos mencionados e as objeções levantadas com
+relação à falta de clareza do pedido, não foi possível, entretanto, concordar com as alegações
+da requerente apresentadas na manifestação, pelas razões a seguir:
+
+       Com relação às objeções relativas a falta de clareza do quadro reivindicatório (artigo 25
+da LPI) levantadas no parecer técnico anterior, não houve qualquer alteração no quadro
+reivindicatório de modo a melhor definir o pleito.         Desse modo, persistem no quadro
+reivindicatório as irregularidades já apontadas. Conforme mencionado (Quadro 3), o quadro
+reivindicatório não é claro e as argumentações trazidas pela requerente não se mostraram
+satisfatórias de modo a superar as objeções apontadas no parecer relativas ao artigo 25 da LPI.
+
+       Contrariamente ao que menciona a requerente na manifestação, o fato dos processos
+reivindicados apresentarem, cada um, diferentes números de etapas de desgaseificação (a
+reivindicação 1 apresenta uma única etapa e a reivindicação 6 apresenta duas), não justifica
+a apresentação de duas reivindicações independentes de mesma categoria no quadro
+reivindicatório, até porque as características das reivindicações não são claramente definidas.
+
+       Como mencionado acima, sequer o polímero é definido em qualquer umas das
+reivindicações e, conforme menciona o relatório, página 6, linhas 2 a 6, a invenção em análise
+procura fornecer processos de desgaseificação melhorados nos quais as condições sejam
+
+
+                                                                                        Página 5
+                                          PI0919838-5
+
+
+determinadas ou controladas com base no polímero a ser desgaseificado e na página 8, linhas
+20 a 23, é mencionado que Kh (outro parâmetro não definido na reivindicação) varia com as
+propriedades do polímero.
+
+       Portanto, reiteram-se as argumentações com relação ao mérito do pedido e as
+anterioridades citadas no parecer. A referência D1 (reivindicações, exemplos 1 a 4) revela um
+processo para a produção de um pó de polímero desgaseificado cujas características
+técnicas são: alimentação em um reator para reação de polimerização de um monômero
+principal e um comonômero em uma quantidade de pelo menos 5000 partes por milhão em peso
+(ppmw) e remoção residual de hidrocarbonetos C3 a C10.
+
+       A relação G/P e a concentração de componente de hidrocarboneto crítico do gás de
+purga, conforme definidos nas reivindicações 1 e 6 não são características claras que possam
+se distinguir das características definidas no processo conforme revelado em D1. Portanto,
+tendo em vista a matéria revelada em D1, a matéria conforme reivindicada no pedido em análise
+é antecipada por tal documento.
+
+        O documento D2 (documento completo) revela um processo para reduzir o teor de
+voláteis orgânicos (VOC) na produção de poliolefinas (por exemplo, polietileno de alta ou de
+baixa densidade e polipropilenos isotático ou sindiotático e copolímeros). A técnica inclui a
+implementação de um modelo de uma coluna de purga que calcula ou estima o teor de voláteis
+orgânicos da corrente de poliolefina na saída da coluna de purga (desgaseificação). O processo
+envolve a alimentação de um reator de polimerização com hidrocarbonetos (monômero, por
+exemplo, etileno, um diluente (um hidrocarboneto inerte como por exemplo isobutano) etc). O
+diluente e o monômero dissolvido no polímero são purgados na coluna com um gás inerte (por
+ex. nitrogênio) reduzindo o conteúdo de voláteis orgânicos no polímero virgem (flocos, pó etc)
+produzido no reator antes de ser extrusado em peletes por exemplo. Conforme menciona D2,
+em certos casos, para uma dada densidade de resina, as variáveis de redução do teor de
+voláteis orgânicos na corrente de polímero que deixa a coluna de purga ou separador, em ordem
+decrescente de efetividade, pode ser a que se segue: temperatura da coluna de purga; tempo de
+residência ou nível do leito de polímero na coluna; velocidade de escoamento e pureza em
+hidrocarboneto do gás de purga; tamanho da partícula do polímero e pressão de operação da
+coluna de purga. Portanto, tendo em vista a matéria revelada em D2, a matéria conforme
+reivindicada no pedido em análise é antecipada também por D2 ou, no mínimo, óbvia para um
+técnico no assunto, já que não há qualquer comprovação de melhora nos processos
+reivindicados no pedido em exame.
+
+       O documento D3 (documento completo) descreve um processo de polimerização de
+olefinas em fase gasosa cujo produto final obtido (polímero ou copolímero de olefinas) apresenta
+teores muito baixos de monômero não reagido e compostos orgânicos voláteis. O produto final
+exibe, portanto, um alto índice de brancura e longa estabilidade térmica com o tempo.         O
+Exemplo 1 de D3 descreve a preparação de um pó de polietileno linear de baixa densidade
+produzido pela copolimerização de etileno com 1-hexeno em um reator de leito fluidizado na
+
+
+
+                                                                                        Página 6
+                                           PI0919838-5
+
+
+presença de catalisador.     Outros exemplos semelhantes de preparação de polímero são
+realizados em D3, com apenas a substituição do comonômero 1-hexeno utilizado no Exemplo 1
+por outro comonômero (Exemplo 2: 4-metil-1-penteno; Exemplo 3: 1-buteno) onde são
+apresentadas as propriedades finais dos produtos obtidos. O processo revelado em D3 reúne
+portanto, todas as características essenciais para executar o processo pretendido no pedido em
+exame.
+
+       O documento D4 (documento completo)               também descreve um processo de
+desgaseificação do polímero (remoção de monômeros não polimerizados) obtido no processo de
+polimerização de olefinas, por exemplo, na preparação de copolímeros de etileno de baixa
+densidade, homopolímeros de etileno e propileno e outros copolímeros de etileno. O processo
+de desgaseificação ou purga de monômeros é realizado no polímero sólido, por exemplo de
+forma granular, através de uma corrente de gás inerte. Conforme descreve D4, se acredita que
+o processo de desgaseificação envolve apenas um processo físico, ou seja, os gases
+monoméricos são apenas arrastados ou, de outro modo, contidos na resina e entre as partículas
+da resina são difundidos para a corrente de purga de gás em contracorrente. A difusão dos
+gases monoméricos no gás de purga ocorre até que se estabeleça um equilíbrio entre a
+concentração de monômero na resina e o gás de purga.           Uma grande diferença entre as
+concentrações de monômero na resina e na corrente do gás de purga obviamente favorece uma
+velocidade de difusão maior. Além disso, a velocidade de difusão é dependente, em certo grau,
+da temperatura e pressão dentro do vaso de purga, com temperaturas mais altas favorecendo
+velocidades de difusão maiores e, assim, tempos de residência menores no vaso de purga e
+com pressões mais baixas favorecendo também velocidades de difusão mais altas.              A
+velocidade de difusão também depende do tamanho da partícula de resina e da morfologia da
+partícula, com a velocidade sendo maior para tamanhos de partículas menores.            Logo,
+dependendo da concentração inicial de monômero na resina e da concentração final desejada, o
+tempo de residência da resina no vaso de purga pode ser determinado usando técnicas
+conhecidas de transferência de massa baseadas na temperatura da resina, distribuição de
+tamanho de partícula e morfologia, velocidade de escoamento do gás de purga, pressão no vaso
+de purga e o tamanho do vaso de purga.         Portanto, o processo revelado em D4 também
+descreve todas as características essenciais para executar o processo pretendido no pedido em
+exame.
+
+Conclusão:
+
+       Tendo em vista as razões apresentadas neste parecer e a matéria revelada em qualquer
+um dos documentos apontados acima, o pedido em análise não atende ao disposto nos artigos
+8°, 11 e 13 da Lei da Propriedade Industrial. Assim sendo, de acordo com o Art. 37 da LPI,
+indefiro o presente pedido, uma vez que não atende ao requisito de novidade (Art. 8º combinado
+com Art. 11 da LPI), atividade inventiva (Art. 8º combinado com Art. 13 da LPI) e as
+reivindicações não estão claras e precisamente definidas (Art. 25 da LPI).
+
+
+
+
+                                                                                       Página 7
+                                            PI0919838-5
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 01 de agosto de 2019.
+
+
+Julia Candida Afonso Martins
+Pesquisador/ Mat. Nº 1225171
+DIRPA / CGPAT I/DIPOL
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                        Página 8
+

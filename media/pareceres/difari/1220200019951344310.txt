@@ -1,0 +1,238 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122020001995-6          N.° de Depósito PCT:JP2010/061660
+ Data de Depósito:                   09/07/2010
+ Prioridade Unionista:               JP 2009163182 (09/07/2009); JP 2009188464 (17/08/2009)
+ Depositante:                        RAQUALIA PHARMA INC. (JP)
+ Inventor:                           Nobuyuki Takahashi, Shinichi Koizumi
+ Título:                             Uso de uma quantidade terapeuticamente eficaz de um composto
+                                     tendo uma atividade antagonista de bomba de ácido ou um sal
+                                     farmaceuticamente aceitável do mesmo
+
+                                                                PARECER
+
+
+          Através da petição de nº 870200014280 de 30/01/2020, a requerente apresentou o
+presente pedido BR122020001995-6. Tal pedido é um pedido dividido do PI1013288-0, que teve
+um parecer de indeferimento (9.2) publicado na RPI2575 de 12/05/2020.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 43               870200101745           13/08/2020
+Quadro Reivindicatório                                   1a3                 870200101745           13/08/2020
+Desenhos                                                 1a2                 870200101745           13/08/2020
+Resumo                                                      1                870200101745           13/08/2020
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR122020001995-6
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                        x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                      x
+Comentários/Justificativas
+
+1. O relatório descritivo não descreve de forma clara e suficiente o uso de todas as substâncias
+citadas, possibilitando seu uso por um técnico no assunto, pois não há evidências de que todas
+as substâncias produzirão o mesmo efeito observado com as quatro substâncias que foram
+testadas nos exemplos 1 a 4. Ademais, os modelos de estudo realizados em animais devem
+apresentar a possibilidade de extrapolação para seres humanos ou animais a serem tratados.
+Dessa forma, o relatório descritivo não está de acordo com o disposto no Art. 24 da LPI;
+
+2. A reivindicação 1 está redigida de forma ampla e indefinida por não caracterizar de forma
+precisa os compostos que serão utilizados e nem doença a ser tratada, utilizando sintomas e
+mecanismo de ação para definir a doença, contrariando o disposto no Art. 25 da LPI;
+
+3. As reivindicações 2 e 3 não estão fundamentadas no relatório descritivo, pois nem todos os
+compostos pleiteados tiveram seu uso efetivamente demonstrado, e não é possível extrapolar o
+uso das quatro substâncias testadas para todas as outras, contrariando o disposto no Art. 25 da
+LPI;
+
+4. A reivindicação 4 utiliza um sintoma para caracterizar a doença a ser tratada, contrariando o
+disposto no Art. 25 da LPI;
+
+5. As reivindicações 5 e 6 se referem a uma combinação dos compostos da reivindicação 2 com
+outros agentes ativos, mas esse uso também não está fundamentado no relatório descritivo,
+contrariando o disposto no Art. 25 da LPI.
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+       D1                              WO2007072146                                28/06/2007
+       D2                              WO2008035195                                27/03/2008
+       D3                              WO2007026916                                08/03/2007
+       D4                                WO9955706                                 04/11/1999
+       D5                              WO2000017200                                30/03/2000
+       D6                                WO9605177                                 22/02/1996
+       D7                              WO2006136552                                28/12/2006
+       D8                              WO2000077003                                21/12/2000
+       D9                  Regulatory Peptides, vol. 52, p. 61-72                     1994
+
+
+                                                                                           Página 2
+                                          BR122020001995-6
+
+
+   D10                             Gut, vol. 33, p. 184-190                         1992
+   D11                Am. J. Digest. Dis. Vol. 11, no. 10, p. 780-789               1966
+   D12                             Gut, vol. 42, p. 243-250                         1998
+   D13           Arzneim.-Forsch./Drug Res., vol. 54, no. 8, p. 427-435             2004
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade               Cumprimento              Reivindicações
+                                                      Sim                     1a7
+           Aplicação Industrial
+                                                      Não                       -
+                                                      Sim                       -
+                 Novidade
+                                                      Não                     1a7
+
+                                                      Sim                       -
+           Atividade Inventiva
+                                                      Não                     1a7
+Comentários/Justificativas
+
+
+       O presente pedido (BR122020001995-6) foi apresentado como pedido de divisão do
+pedido original (PI1013288-0) no dia 30/01/2020, enquanto que o pedido original teve seu
+primeiro exame notificado na RPI 2543 de 01/10/2019. Assim, resta claro que o presente pedido
+(BR122020001995-6) foi apresentado após o primeiro exame do pedido original (PI1013288-0).
+
+       Nesse contexto, segue a discussão já apresentada no processamento do pedido original
+(PI1013288-0), entendimento esse mantido no presente exame.
+
+
+       O presente pedido se refere ao uso de um composto com atividade antagonista de
+bomba de ácido para a fabricação de um medicamento útil para ajustar uma função
+gastrointestinal ou ativar a motilidade gastrointestinal em uma doença em que uma motilidade
+gastrointestinal está envolvida.
+
+       Para ser considerado novo, o uso reivindicado deve revelar a aplicação de um produto
+farmacêutico já conhecido para produzir um medicamento para tratar ou prevenir uma doença
+diferente daquela para qual este produto já era empregado no estado da técnica. O presente
+pedido não apresenta uma doença diferente a ser tratada quando reivindica o uso de um
+composto com uma atividade antagonista de bomba de ácido para a fabricação de um
+medicamento útil para o ajuste de uma função gastrointestinal ou ativação de uma motilidade
+gastrointestinal em uma doença na qual uma motilidade gastrointestinal anormal esteja
+envolvida. O termo motilidade gastrointestinal anormal não define uma doença e sim um
+
+
+
+
+                                                                                           Página 3
+                                       BR122020001995-6
+
+
+sintoma que está presente em diversas doenças gastrointestinais, assim como os demais
+termos utilizados.
+
+
+       Dessa forma, o presente pedido não define de forma clara qual a doença a ser tratada,
+as características apresentadas não são consideradas características técnicas, e os inibidores
+de bomba de ácido definidos nas reivindicações 2 e 3 já estão descritos no estado da técnica
+como inibidores de bomba de prótons úteis para o tratamento de diversas doenças como úlcera
+péptica, úlcera gástrica, gastrite, dispepsia funcional, entre diversas outras doenças
+gastrointestinais e gastroesofágicas (D1 a D8).
+       Sabe-se que essas doenças apresentam alteração da motilidade gastrointestinal, como
+descrito em D9 a D11. D9 descreve que a acidificação a pH 1,0 inibe as contrações migratórias
+interdigestivas (fase III) e a liberação de motilina. D10 descreve que há uma hipomotilidade na
+dispepsia, e D11 demonstra diminuição da motilidade em pacientes com úlcera gástrica.
+
+       Dessa forma, o uso reivindicado não é novo (reivindicações 1 a 7), pois inibidores de
+bomba de ácido (incluindo os compostos descritos nas reivindicações 2 e 3) já são utilizados
+para preparar medicamentos para o tratamento de doenças que uma motilidade gastrointestinal
+anormal está envolvida, contrariando o disposto no artigo 11 da LPI.
+
+
+       Ainda que a requerente apresente uma doença diferente das que já estão descritas em
+D1 a D8, seria óbvio para um técnico no assunto utilizar os inibidores de bomba de ácido para
+tratar doenças que apresentem a motilidade gastrointestinal anormal, uma vez que D12
+demonstrou que doses terapêuticas de inibidores da secreção gástrica ácida como ranitidina,
+famotidina e omeprazol (um inibidor de bomba de ácido) podem aumentar a motilidade gástrica
+(página 247, Discussion) e D13 descreve que um inibidor da secreção ácida gástrica
+(antagonista do receptor H2), também promove aumento da motilidade gastrointestinal
+(Abstract).
+
+       Dessa forma, a matéria das reivindicações 1 a 7 não apresenta atividade inventiva,
+contrariando o disposto no artigo 13 da LPI.
+
+
+
+
+Conclusão
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   não apresenta suficiência descritiva (Art. 24 da LPI)
+
+
+
+
+                                                                                         Página 4
+                                        BR122020001995-6
+
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 29 de dezembro de 2020.
+
+
+
+
+Luana Braga Pontes
+Pesquisador/ Mat. Nº 1783812
+DIRPA / CGPAT I/DIFAR-I
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/15
+
+
+
+
+                                                                                           Página 5
+

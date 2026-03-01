@@ -1,0 +1,338 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112013031144-4          N.° de Depósito PCT: EP2012/060641
+ Data de Depósito:                   06/06/2012
+ Prioridade Unionista:               EP 111720355 (30/06/2011); EP 121512735 (16/01/2012)
+ Depositante:                        FIRMENICH SA (CH)
+ Inventor:                           Eric FREROT, Kasia AEBERHARDT
+ Título:                             Produto modificador de sabor
+
+                                                              PARECER
+
+            O presente pedido, referente ao uso de um composto representado pela fórmula (I)
+  como um componente para conferir, potencializar, melhorar ou modificar o sabor kokumi ou
+  umami de um artigo aromatizado, a uma composição modificadora de sabor e a um artigo
+  aromatizado contendo o componente com a fórmula (I) e a um composto representado pela
+  fórmula (II), além de uma composição ou artigo contendo tal composto, foi submetido a Exame
+  Técnico gerando um parecer de Ciência notificado na Revista da Propriedade Industrial (RPI)
+  nº 2505 de 08/01/2019. Através da petição nº 870190031328 de 01/04/2019, o Requerente
+  apresentou sua Manifestação à Ciência e novas vias do Relatório Descritivo e do Quadro
+  Reivindicatório.
+            Dentre as modificações apresentadas pelo Requerente destacam-se: 1) a reformulação
+  da Reivindicação independente 8, inserindo características anteriormente definidas na antiga
+  Reivindicação 9; 2) a exclusão das Reivindicações 9 e 15; 3) a reformulação das interligações
+  das Reivindicações independentes 9 e 11.
+            Os comentários a seguir estão baseados:
+            - na Lei da Propriedade Industrial (LPI)  Lei nº 9.279 de 14/05/1996;
+            - na Instrução Normativa PR Nº 030/2013 de 04/12/2013 (IN 30/2013), publicada na
+  RPI 2241 de 17/12/2013;
+            - na Instrução Normativa PR Nº 031/2013 de 04/12/2013 (IN 30/2013), publicada na
+  RPI 2241 de 17/12/2013;
+            - na Resolução Nº 124/2013 de 04/12/2013 (Resolução 124/2013), publicada na
+  RPI 2241 de 17/12/2013.
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim   Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                        X
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)   X
+O pedido refere-se a Sequências Biológicas                                                                  X
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                            Página 1/7
+                                           BR112013031144-4
+
+Comentários/Justificativas:
+        A matéria do presente pedido não se enquadra no disposto no Art. 229-C da LPI.
+        O INPI emitiu a exigência de código 6.6.1 na RPI 2465 de 03/04/2018, para fins de
+ manifestação do depositante quanto à ocorrência de acesso ao Patrimônio Genético nacional
+ e/ou Conhecimento Tradicional Associado para obtenção do objeto do presente pedido. Não
+ tendo havido manifestação do depositante no prazo de 60 (sessenta) dias contados a partir da
+ publicação na RPI, o INPI deu prosseguimento ao exame técnico com o entendimento de que
+ não houve acesso ao patrimônio genético nacional e/ou conhecimento tradicional associado,
+ conforme consta no texto do despacho de código 6.6.1 publicado na RPI, de acordo com
+ entendimento firmado pela Procuradoria Federal Especializada junto ao INPI (PFE-INPI) no
+ Parecer         nº00001/2018/PROCGAB/PFE-INPI/PGF/AGU                     (Processo   INPI       nº
+ 52400.002142/2018-30), publicado nas RPIs nº 2465 (03/04/2018), 2466 (10/04/2018) e 2467
+ (17/04/2018), ao qual foi atribuído caráter normativo na RPI nº 2485 de 21/08/2018.
+
+                            Quadro 1  Páginas do pedido examinadas
+           Elemento                       Páginas               n.o da Petição           Data
+Relatório Descritivo                       1 a 26               870190031328           01/04/2019
+Listagem de sequências em
+                                          ------                       ------           ------
+formato impresso
+Listagem de sequências                    ------                       ------           ------
+Quadro Reivindicatório                     1a3                  870190031328           01/04/2019
+Desenhos                                  ------                       ------           ------
+Resumo                                       1                  860130009135           03/12/2013
+
+        Na petição nº 860130009135 de 03/12/2013, o Requerente apresentou as vias do
+ Relatório Descritivo, do Quadro Reivindicatório e do Resumo. Entretanto, no presente Exame
+ Técnico foi considerada somente a via do Resumo desta petição, visto que na petição
+ nº 870190031328 de 01/04/2019, o Requerente apresentou novas vias do Relatório Descritivo
+ e do Quadro Reivindicatório, as quais foram consideradas neste Exame.
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                  Sim        Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                           X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                   X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                          X
+O pedido está de acordo com disposto no art. 32 da LPI                           X
+Comentários/Justificativas: - - - - - -
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                  Sim        Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI             X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                        X
+
+
+
+                                                                                          Página 2/7
+                                       BR112013031144-4
+
+
+Comentários/Justificativas:
+
+       As correções realizadas pelo Requerente adequou o Relatório Descritivo ao disposto no
+ Art. 24 da LPI. Entretanto, apesar das modificações apresentadas, o Quadro Reivindicatório
+ ainda apresenta inconformidades ao disposto no Art. 25 da LPI conforme será discutido a
+ seguir.
+       Conforme já apontado no parecer anterior, as Reivindicações 2 a 7 estão redigidas de
+ forma imprecisa e indefinida, estando em desacordo com o disposto no Art. 25 da LPI e na
+ IN 30/2013  Art. 4º (III), uma vez que definem o uso por características de composto (produto)
+ resultando, portanto, em falta de clareza das reivindicações.
+       Entende-se que, devido a um erro de digitação, a Reivindicação 4 contraria o disposto
+ no Art. 25 da LPI e na IN 30/2013  Art. 4º (III), uma vez que a ausência do símbolo R 5 antes
+ do termo representando (página 2, linha 3 do Quadro Reivindicatório) resulta em falta de
+ clareza da reivindicação.
+       A Reivindicação 8, também devido a um erro de digitação, resulta em falta de clareza
+ e, portanto, contraria o disposto no Art. 25 da LPI e na IN 30/2013  Art. 4º (III), ao repetir o
+ trecho R4 representa um grupo alquila de C1 a C3 na página 2, linha 26 do Quadro
+ Reivindicatório.
+       Entende-se que, devido à falta de clareza apontada no parecer anterior, as interligações
+ das Reivindicações 9 (página 2, linhas 30 e 31 do Quadro Reivindicatório) e 11 (página 3,
+ linha 4 do Quadro Reivindicatório) foram reformuladas. Entretanto, da forma como foram
+ apresentadas, continuam resultando em falta de clareza contrariando o disposto no Art. 25 da
+ LPI e na IN 30/2013  Art. 4º (III), visto que não fica claro que o composto de fórmula (I) deve
+ ser conforme definido nas Reivindicações 1 a 8.
+       Adicionalmente, as Reivindicações 9 e 11 contrariam o disposto no Art. 25 da LPI e na
+ IN 30/2013  Art. 4º (III) e Art. 5º (I), pois omitem as concentrações do composto de acordo
+ com a fórmula (I) na composição definida na Reivindicação 10 (descrita na página 10, linha 2
+ do parágrafo 073 do Relatório Descritivo) e no artigo definido na Reivindicação 12 (descrita na
+ página 10, linhas 4 e 5 do parágrafo 073 do Relatório Descritivo), as quais são necessárias
+ para a definição clara e precisa da matéria que se deseja proteger, uma vez que tais
+ características técnicas são essenciais e específicas da matéria objeto da invenção conforme
+ descrito na página 5, parágrafo 042 do Relatório Descritivo.
+       A Reivindicação 13 contraria o disposto no Art. 25 da LPI, na IN 30/2013  Art. 4º (III) e
+ no item 3.81 da Resolução 124/2013, o qual dispõe que expressões entre parênteses que não
+ incluem sinais de referência (conforme observado na página 3, linha 23 do Quadro
+ Reivindicatório) resultam em falta de clareza.
+       Conforme também já discutido no parecer anterior, o título do presente pedido não é
+ conciso, claro e preciso, além de não identificar adequadamente o objeto do pedido cuja
+ proteção é requerida, contrariando o disposto no Art. 25 da LPI e na IN 30/2013  Art. 16 (I) e
+ Art. 4º (I), uma vez que não menciona o grupo de compostos em questão (amidas derivadas
+ do ácido cinâmico) nem todas as categorias reivindicadas no pedido (uso e produtos -
+ composto, composição e artigo).
+
+
+
+
+                                                                                         Página 3/7
+                                      BR112013031144-4
+
+        Os documentos considerados os mais próximos da matéria reivindicada estão
+ relacionados no Quadro 4 deste parecer para discussão do estado da técnica, ressaltando que
+ tais documentos já foram citados e discutidos no parecer anterior.
+
+                        Quadro 4  Documentos citados no parecer
+
+ Código                              Documento                            Data de publicação
+   D1      US 2003/0152682                                                    14/08/2003
+   D2      PI 0401566-5                                                       30/08/2005
+   D3      PI 0413347-1                                                       10/10/2006
+
+        O documento D1 descreve o uso de amidas do ácido ferúlico como compostos de sabor
+ e preparações usadas em nutrição e higiene oral contendo tais compostos.
+        O documento D2 descreve compostos para uso como aromatizantes, método para
+ intensificar sabor de um produto alimentício e os produtos alimentícios contendo tais
+ compostos.
+        O documento D3 descreve compostos amida não peptídeos, uso desses compostos
+ como modificadores de sabor, agentes de sabor e/ou realçadores de sabor umami ou doce e
+ produtos alimentícios e medicinais contendo tais compostos.
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento             Reivindicações
+                                                   Sim                     1 a 13
+          Aplicação Industrial
+                                                   Não                    ------
+                                                   Sim                     1 a 13
+               Novidade
+                                                   Não                    ------
+                                                   Sim                    ------
+          Atividade Inventiva
+                                                   Não                     1 a 13
+Comentários/Justificativas:
+
+        A reformulação da Reivindicação 8 limitou o escopo da matéria objeto de proteção,
+ inserindo as características anteriormente definidas na antiga Reivindicação 9 e excluindo a
+ possibilidade de o radical R3 ser um grupo OR 6, com R6 representando um grupo alquila de C1
+ a C5. Dessa forma, a estrutura química da trans-rubenamina (11) e da cis-rubenamina (12)
+ apresentadas no documento D1 (Figura 1a e 1b deste parecer) não antecipa mais a matéria
+ pleiteada na Reivindicação 8 do presente pedido (Figura 1c deste parecer). Portanto,
+ concorda-se com a argumentação do Requerente que tanto a Reivindicação 8, como as
+ Reivindicações 9 e 11 a 13, as quais são interligadas à Reivindicação 8, apresentam
+ novidade e atividade inventiva frente o documento D1 o qual revela o uso de amidas de ácido
+ ferúlico como componentes de sabor em preparações usadas em nutrição, higiene oral ou
+ consumidas por prazer (página 1, parágrafos [0006], [0009] e [0010]). O documento D1 revela
+ composições contendo amidas de ácido ferúlico incorporadas como substância única, como
+ uma solução ou na forma de uma mistura com um carreador sólido ou líquido (página 3,
+ parágrafo [0027]), além da utilização das amidas de ácido ferúlico em artigos contendo uma
+
+
+                                                                                    Página 4/7
+                                      BR112013031144-4
+
+base alimentícia (página 2, parágrafo [0022]) que incluem produtos a base de carne, produtos
+a base de leite (laticínios), sopas e pratos preparados e temperos (página 3, parágrafo [0023]).
+Entretanto, as amidas de ácido ferúlico descritas no documento D1 são empregadas como
+composto picante ou composto que gera um efeito de calor (página 1, parágrafo [0006] e
+página 7, Reivindicação 2 do documento D1), não sendo mencionado sabor kokumi ou umami
+no documento D1.
+
+
+
+
+                     (a)                                                 (b)
+
+
+
+
+                                            (c)
+Figura 1  Comparação das estruturas apresentadas no documento D1, (a) trans-rubenamina
+e (b) cis-rubenamina, com o composto pleiteado na Reivindicação 8 do presente pedido (c).
+
+
+      Com relação aos documentos D2 e D3, o Requerente argumentou apenas que
+nenhuma dessas anterioridades mostra que os compostos revelados no presente pedido
+conferem, melhoram ou modificam o sabor kokumi ou umami de um artigo aromatizado.
+Entretanto, discorda-se da argumentação do Requerente e, conforme já discutido no parecer
+anterior, a matéria pleiteada nas Reivindicações 1 a 13 não apresenta atividade inventiva
+frente o estado da técnica pesquisado.
+      A matéria pleiteada nas Reivindicações 1 a 7 não apresenta atividade inventiva frente
+o documento D2. O documento D2 revela, em sua Reivindicação 9, o composto
+
+
+
+
+      o qual é muito semelhante ao composto de fórmula (I) definido na Reivindicação 1 do
+presente pedido quando X, R3 e R4 forem H, Y for              e R5 for             .
+
+
+      O composto definido na Reivindicação 9 do documento D2, do grupo das
+alquildienamidas, são usados em alimentos e bebidas como aromatizantes visto que possuem
+característica umami ou outras propriedades organolépticas desejáveis (página 1, linhas 10 a
+12 do Resumo e página 1, linhas 8 a 10 e página 8, linhas 1 a 6 do Relatório Descritivo). O
+composto é adicionado na concentração que varia de 100 ppb a 100 ppm em peso
+(Reivindicação 12 do documento D2). Apesar de as estruturas do documento D2 e do presente
+pedido não serem exatamente iguais, por pertencerem ao mesmo grupo das alquildienamidas
+com pequenas diferenças estruturais, seria óbvio para um técnico no assunto que o composto
+de fórmula (I) do presente pedido apresentaria as mesmas propriedades organolépticas e
+característica umami descrita no documento D2.
+
+
+                                                                                       Página 5/7
+                                     BR112013031144-4
+
+       O documento D3 descreve compostos amida não peptídeos bem como derivados de
+ amida, tais como oxalamidas, uréias e acrilamidas, que são úteis como modificadores de sabor
+ ou gosto, mais particularmente modificadores de sabor umami ou doce (página 1, linhas 6 a 11
+ do Resumo). Dentre as acrilamidas umami descritas na Tabela D do documento D3 (página
+ 195 do Relatório Descritivo), o composto D16 apresenta estrutura muito semelhante ao
+ composto de fórmula (II) definido na Reivindicação 3 do presente pedido, quando os grupos
+ R3 e R4 correspondem a um átomo de hidrogênio, conforme pode ser observado na Figura 2
+ deste parecer.
+
+
+
+
+                      (a)                                             (b)
+ Figura 2  Comparação da estrutura química de acrilamida apresentada no documento D3 (a)
+ e definida na Reivindicação 3 do presente pedido (b).
+
+
+       O documento D3 descreve ainda a fórmula (VI)
+
+
+       com algumas das substituições dos grupos R1´, R2, m e A (página 55, linhas 1 a 6 do
+ Relatório Descritivo) podendo resultar em compostos da fórmula (II) do presente pedido
+ (Figura 2b), como quando A é um anel arila, R 1´é uma alcoxila, m é 2 e R 2 é um arilalquila
+ (página 36, linhas 20 a 27 do Relatório Descritivo). Adicionalmente, as substituições dos
+ grupos R1´, R2, m e A (página 55, linhas 1 a 6 do Relatório Descritivo) podem também resultar
+ em compostos da fórmula (I) do presente pedido. O documento D3 define ainda o método para
+ modular o sabor de um produto comestível adicionando o composto de fórmula (VI) ao produto
+ comestível (Reivindicações 21 a 27 do documento D3) que pode ser produtos de laticínio,
+ produtos de panificação, sopas, pastas, macarrão, dentre outros (Reivindicação 88 do
+ documento D3). O efeito das acrilamidas do documento D3 no sabor umami é comprovado
+ pelos resultados da Tabela D (página 192 a 195). Portanto, apesar de o documento D3 não
+ antecipar especificamente um composto do presente pedido, a partir dos ensinamentos do
+ documento D3, pelas semelhanças estruturais, seria óbvio para um técnico no assunto obter a
+ matéria pleiteada nas Reivindicações 1 a 13. Assim, a matéria pleiteada nas Reivindicações
+ 1 a 13 não apresenta atividade inventiva frente o documento D3.
+
+
+Conclusão
+
+       A matéria pleiteada nas Reivindicações 1 a 13 não atende ao requisito essencial de
+ atividade inventiva frente o estado da técnica citado, contrariando o disposto no Art. 8º
+ combinado com o Art. 13 da LPI. Além disso, o pedido apresenta irregularidades que o tornam
+ em desacordo com o Artigo 25 da LPI e a instrução normativa IN 30/2013, conforme discutido
+ na seção Comentários/Justificativas do Quadro 3 deste documento.
+
+
+
+
+                                                                                     Página 6/7
+                                         BR112013031144-4
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+      -   não atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI);
+
+      -   as Reivindicações estão indefinidas e/ou não estão fundamentadas no Relatório
+          Descritivo (Art. 25 da LPI).
+
+      -
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                              Rio de Janeiro, 26 de abril de 2019.
+
+
+
+
+Aline Mara Barbosa Pires
+Pesquisador/ Mat. Nº 2316421
+DIRPA / CGPAT II/DIPAT VI
+Deleg. Comp. - Port. INPI/DIRPA
+Nº 016/17
+
+
+
+
+                                                                                       Página 7/7
+

@@ -1,0 +1,349 @@
+                                       SERVIÇO PÚBLICO FEDERAL
+                                        MINISTÉRIO DA ECONOMIA
+                            INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR202012022499-8           N.° de Depósito PCT:
+ Data de Depósito:                   13/08/2012
+ Prioridade Unionista:               -
+ Depositante:                        Pegmatech - Especialidades Tecnológicas Ltda (BRPB)
+ Inventor:                           Adriana Almeida Silva, Antonio Gouveia de Souza, Maria Wilma Nunes
+                                     Cordeiro Carvalho, Maria da Conceição, Donato Alexandre Aranda,
+                                     Jakeline Daniela Soares da Silva, Júlia Barbosa de Almeida Salgado,
+                                     Ary da Silva Maia, Francisco Rolando Valenzuela Díaz, IÊDA MARIA
+                                     GARCIA DOS SANTOS (BRPB)
+ Título:                             Uso de argilas na forma natural e tratada como catalisadores ou
+                                     suportes catalíticos visando a produção de biodissel por catálise em
+                                     fase heterogênea
+
+                                                               PARECER
+
+                                      Quadro 1  Páginas do pedido examinadas
+              Elemento                               Páginas                 n.o da Petição           Data
+Relatório Descritivo                                    1-29                 870190036300           16/04/2019
+Quadro Reivindicatório                                   1-9                 870190036300           16/04/2019
+Desenhos                                                1-15                 870190036300           16/04/2019
+Resumo                                                   1-2                 870190036300           16/04/2019
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera modelo de                                       X
+utilidade)
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                               X
+O pedido apresenta unidade de invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+Comentários/Justificativas
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com o disposto no art. 24 da LPI                                    X
+O quadro reivindicatório está de acordo com o disposto no art. 25 da LPI                                  X
+Comentários/Justificativas
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                       BR202012022499-8
+
+       A documentação analisada neste exame constituiu-se do 1º Parecer Técnico, notificado na
+RPI nº 2507, de 22/01/2019, sob o Despacho 7.1; bem como da manifestação tempestiva
+apresentada através da petição eletrônica nº 870190036300, de 16/04/2019, como resposta aos
+questionamentos do referido parecer. Na petição supracitada foi submetida uma nova via do
+pedido (vide Quadro 1), que foi aceita no presente exame técnico. No tocante às considerações
+do parecer anterior referentes aos Artigos 24 e 25 da LPI a Requerente alegou que:
+      Reformulou o quadro reivindicatório objetivando explicitar as etapas e especificações
+referentes tanto ao processo de síntese do catalisador, quanto ao processo de produção do
+biodiesel;
+
+      Retirou do quadro reivindicatório trechos explicativos com relação a: vantagens, simples
+uso do objeto, referências genéricas a exemplos de resultados satisfatórios, utilizada de forma
+eficiente e bom resultado;
+
+      Discorda de que o relatório descritivo originalmente depositado não fornece informação
+suficiente para que um versado na técnica consiga reproduzir os parâmetros para as condições de
+síntese do catalisador (páginas 9 a 16) e da reação para produção do biodiesel (páginas 16 a 21),
+uma vez que as etapas estão descritas em um formato tido como passo a passo (exemplo na
+página 17);
+      Quanto ao exemplo dado no parecer técnico referente à utilização da faixa de temperatura
+100-200°C, entende que não se contrapõe à informação temperaturas variando de 50 a 300°C
+(conforme pág 5 do relatório descritivo), e temperaturas de reações variando de 50 a 300°C
+(conforme item 12 da pág. 7 do relatório descritivo), pois é uma faixa que está contida dentro da
+variação 50-300°C citada no relatório descritivo. Um aumento ou diminuição da temperatura
+reacional, sendo fora da faixa padrão pleiteada está fora do escopo da presente patente, porque
+podem ser utilizados métodos como o aquecimento convencional (onde não há influência mais
+significativa da pressão sobre o sistema), ou reator por micro-ondas (onde há influência mais
+significativa da pressão sobre o sistema);
+      A necessidade de pequenos ajustes (não excessivos) referentes à reprodução de
+resultados do que está descrito no pedido de patente já é esperado no setor industrial, uma vez
+que repetições de resultados em outro ambiente industrial reflete condições de operação de
+maquinário e visão de operadores sensivelmente diferentes (mas não discrepantes), além de que,
+o controle de operação de um equipamento já apresenta variações de trabalho que, por exemplo,
+em se tratando de temperatura, considera-se uma faixa mínimo-máximo em sua operação; e
+      Considera que o texto do relatório descritivo em questão apresenta informações
+concernentes às especificações de cada parte de um equipamento e sua capacidade de
+operação, com descrições específicas, conforme consta nas linhas 24-27 página 15: A célula
+reacional [...] até 180°C e 12 bar de pressão. Uma tampa rosqueada de aço inox [...] garantindo o
+perfeito lacre da célula reacional.
+
+
+
+
+                                                                                         Página 2
+                                        BR202012022499-8
+
+       Contudo, a despeito das alterações e correções realizadas pela Requerente nas novas vias
+apresentadas, ratifica-se o discutido no parecer anterior quanto ao que estabelecem:
+
+1.     O inciso VIII do Artigo 2º e incisos III, IV e VIII do Artigo 4º da Instrução Normativa nº 30, de
+04/12/2013 (RPI nº 2241, de 17/12/2013), que estabelece normas gerais de procedimentos para
+explicitar e cumprir dispositivos da LPI, no que se refere às especificações dos pedidos de
+patente;
+
+2.     O Artigo 25 da LPI, visto que, conforme redigido, o novo quadro reivindicatório ainda não
+define de modo claro e preciso a matéria pleiteada:
+
+                    (a) ao compreender trechos explicativos com relação às vantagens e ao uso
+                    do objeto, tais como, por exemplo: sendo verificada pela técnica de DRX a
+                    eficiência destes tratamentos ao qual as argilas foram submetidas,
+                    evidenciando a característica do material argiloso com maior reatividade para
+                    ser empregado na produção do biodiesel (reivindicação 1); por serem
+                    utilizadas pela versatilidade e seletividade quando submetidas na reação de
+                    transesterificação de diferentes matrizes oleaginosas (reivindicação 3);
+                    ENTRE OUTRAS;
+
+                    (b) ao conter expressões que representam um número ilimitado de
+                    possibilidades, não definindo clara e precisamente a matéria que se deseja
+                    proteger: óxidos metálicos (reivindicação 1), catalisadores ou suportes
+                    catalíticos (reivindicação 2), óleos vegetais, gorduras, algas, óleos residuais
+                    (reivindicação 3), matérias-primas que apresentam formação mineralógica
+                    específica para utilização inovadora como produto comercial de origem
+                    natural (reivindicação 29), ENTRE OUTRAS; e
+
+                    (c) ao redigir as reivindicações de processo em função do resultado
+                    esperado (p. ex. obtendo resultados de no mínimo 80% de conversão de
+                    óleos em ésteres); das vantagens oferecidas (p. ex. formação mineralógica
+                    específica pela posição geográfica e processos metamórficos condicionados
+                    ao tipo de jazida); e/ou do efeito técnico obtido (proporcionando eficiência
+                    na síntese do biodiesel dentro do processo de catálise heterogênea); e não
+                    através das etapas e condições reacionais necessárias para se atingir o
+                    objetivo proposto: a produção de biodiesel por catálise em fase heterogênea
+                    utilizando condições específicas de reação, de matéria-prima, de catalisador,
+                    de preparação de catalisador, etc.
+
+
+3.     O Artigo 24 da LPI, visto que é essencial que no relatório descrito sejam apresentados
+exemplos elucidativos com o propósito de esclarecer, elucidar ou ilustrar a melhor forma de
+
+
+
+                                                                                              Página 3
+                                        BR202012022499-8
+
+execução da matéria requerida. Tal entendimento também é compartilhado pela Requerente, que
+afirma que no relatório descritivo há um norteamento sobre as melhores condições para a reação
+de produção do biodiesel (qual catalisador, tempo, temperatura, etc.), sendo estas as mais
+propícias para se atingir o padrão estabelecido pelo órgão de regulamentação de biocombustíveis.
+A Requerente afirma ainda que tais condições reacionais não seriam selecionadas facilmente por
+um técnico no assunto a partir das informações disponíveis nos documentos da técnica.
+         Em outra parte de sua manifestação a Requerente também menciona as condições e
+metodologias específicas que considera para cada óxido como catalisador e para a reação para
+produção de biodiesel. Entende-se do exposto que, sem o conhecimento de tais condições e
+metodologias, provavelmente um técnico no assunto não seria capaz de realizar a invenção na
+totalidade requerida. Ressalta-se que alterações de um pedido de patente após o requerimento de
+exame somente serão aceitas se forem limitadas à matéria inicialmente revelada (Artigo 32 da
+LPI).
+
+         Observou-se ainda que as reivindicações 1-29 referem-se à mesma categoria (processo),
+mas foram todas reivindicadas como independentes. Para a correta definição da matéria pleiteada
+é importante que sejam definidas, quando couber, relações de dependência entre as
+reivindicações, conforme determinam os Artigos 5º e 6º da IN 30/2013.
+
+
+                          Quadro 4  Documentos citados no parecer
+ Código                                Documento                                 Data de publicação
+             SILVA, A. A. Novos catalisadores a base de argilas para a
+             produção de biodiesel. 2008. 168 f. Tese (Doutorado 
+    D1       Programa de Pós-graduação em Engenharia de Processos)                    2008
+             Centro de Ciências e Tecnologia, Universidade Federal de
+             Campina Grande, Campina Grande (PB), 2008.
+             REZENDE, M. J. C. Uso de Argila Brasileira como
+             Catalisador na Produção de Biodiesel. 2006. 139 f. Tese
+    D2       (Doutorado  Programa de Pós-Graduação em Química                         2006
+             Orgânica)  Instituto de Química, Universidade Federal do Rio
+             de Janeiro, Rio de Janeiro (RJ), 2006.
+             KLOPROGGE, J. T.; DUONG, L. V.; FROST, R.L. A review of the
+             synthesis and characterisation of pillared clays and related
+    D3       porous materials for cracking of vegetable oils to produce                2005
+             biofuels. Environmental Geology, March 3, published online,
+             2005.
+             SALES, H. B. SnO2 Suportado em Argila para Síntese de
+             Biodiesel. 2009. 88 f. Dissertação (Mestrado  Programa de
+             Pós-Graduação em Química)  Departamento de Química,
+    D4       Universidade Federal da Paraíba, Paraíba (PB), 2009.                      2009
+             Disponível
+             em:<https://repositorio.ufpb.br/jspui/bitstream/tede/7127/1/arqui
+             vototal.pdf>. Acesso em 13/01/2019.
+             COLOMBO, K.; BARROS, A. A. C. Utilização de catalisadores
+             heterogêneos na produção de Biodiesel. Evidência, Joaçaba, v.
+    D5       9,    n.   1-2,    p.   7-16,    2009.     Disponível   em:               2009
+
+
+
+                                                                                           Página 4
+                                         BR202012022499-8
+
+             <https://editora.unoesc.edu.br/index.php/evidencia/article/view/1
+             877/949>. Acesso em 13/01/2019.
+             ZANETE, A. F. Estudo da transesterificação do óleo de
+             pinhão manso empregando catalisadores heterogêneos.
+             2010. 107 f. Dissertação (Mestrado  Programa de
+    D6       Pós-Graduação Stricto Sensu em Engenharia Química)                        2010
+             Centro de Engenharias e Ciências Exatas, Universidade
+             Estadual do Oeste do Paraná, Paraná (PR), 2010. Disponível
+             em:       <http://tede.unioeste.br/bitstream/tede/1885/1/Andreia
+             %20Fatima%20Zanette.pdf>. Acesso em 14/01/2019.
+             SILVA, F. C. da; FERREIRA, V. F.; SOUZA, M. C. B. V.
+             Adaptação de forno de microondas doméstico para realização
+             de reações de transesterificação sob refluxo e catálise por
+    D7       argilas. Quim. Nova, v. 29, n. 2, p. 376-380, 2006. Disponível               2006
+             em:
+             <http://quimicanova.sbq.org.br/imagebank/pdf/Vol29No2_376_3
+             1-NT05083.pdf>. Acesso em 15/01/2019.
+
+
+    Quadro 5 - Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade              Cumprimento                 Reivindicações
+                                                      Sim                         1-29
+            Aplicação Industrial
+                                                      Não                         -----
+                                                      Sim                         -----
+                  Novidade
+                                                      Não                         1-29
+                                                      Sim                         -----
+             Atividade Inventiva
+                                                      Não                         1-29
+
+Comentários/Justificativas
+      Conforme discutido no parecer anterior, a LPI dene em seu Artigo 9º que o modelo de
+utilidade deve se referir a um objeto ou parte deste. Assim, por não se referirem a corpo
+tridimensional, imediatamente excluem-se da natureza de modelo de utilidade, sendo passíveis de
+receber proteção como invenção, caso cumpram os requisitos de patenteabilidade, os processos
+e os produtos. Considerando o que determina o Art. 220 da LPI, por uma questão de economia
+processual procedeu-se ao exame do presente pedido como Patente de Invenção.
+
+      No 1º parecer técnico foram citados os documentos D1 a D7 como de particular relevância,
+visto que parte da invenção reivindicada não poderia ser considerada dotada de novidade (Artigo
+11 da LPI) e/ou atividade inventiva frente aos mesmos (Artigo 13 da LPI). Com relação aos
+questionamentos do parecer técnico anterior, que indicavam a não patenteabilidade da invenção
+reivindicada frente aos referidos documentos, a Requerente apresentou uma manifestação
+contrária à opinião proferida, na qual argumenta que:
+
+        A utilizar o termo argilas na Descrição da Invenção (págs. 6-8 do relatório descritivo), se
+refere ao mineral bentonita, do grupo das esmectitas, tendo como principal fase mineralógica a
+montmorilonita, que se encontra presente nos jazimentos da região Nordeste, em específico no
+estado da Paraíba, como a maior reserva do país, de acordo com os dados do Departamento
+
+
+                                                                                             Página 5
+                                       BR202012022499-8
+
+Nacional de Produção Mineral  DNPM. Em se tratando dos Art. 11 e 15 da LPI, D1-D7 apenas
+informam que argilas já são utilizadas na produção do biodiesel; contudo, a novidade do presente
+pedido consiste no uso da argila (bentonita) específica oriunda da região da Paraíba.
+
+      O argumento de que um técnico no assunto não selecionaria facilmente a combinação de
+características técnicas do processo reivindicado pode estar relacionado, por exemplo, com o item
+12, pág. 7 do relatório descritivo (petição nº 031130000078, de 0/08/2013), quando se descreve
+temperaturas de reações variando de 50 a 300°C, no entanto na pág. 19 (petição nº
+031130000078, de 0/08/2013) é descrito o sistema de micro-ondas em que se trabalhou com as
+temperaturas de 70, 120, 140°C, em trecho após a Descrição da Invenção em questão (págs. 6-8
+do relatório descritivo apresentado na petição nº 031130000078, de 0/08/2013). Note-se por sinal
+que, inclusive, no item 13 da pág 23 do relatório descritivo (petição nº 031130000078, de
+0/08/2013), há um norteamento em se tratando das melhores condições para a reação de
+produção do biodiesel (qual catalisador, tempo, temperatura, etc.), sendo as mais propícias para
+se atingir o padrão estabelecido pelo órgão de regulamentação de biocombustíveis.
+
+      As metodologias descritas nos documentos D1-D7 servem como referências para
+apresentação geral da utilização de diferentes tipos e origens de argilas para produção de
+biodiesel, mas não especificamente utilizando as argilas comercializadas pela manifestante
+(brasileiras: oriundas de jazimentos próprios na Paraíba, e importadas: oriundas de jazimentos
+próprios na Argentina) para obter os efeitos desejados de produção do biodiesel. Algumas
+similaridades podem ocorrer, porém não são os métodos utilizados a matéria principal do presente
+pedido, mas sim o foco é a utilização de argilas comerciais bentoníticas brasileiras e importadas
+(jazida argentina de propriedade do grupo BENTONISA, à qual a manifestante faz parte). Tais
+argilas são um material único que, após o uso, poderá ser dispersado no meio ambiente sem
+trazer danos como os observados com outros catalisadores, em relação às legislações vigentes
+para o meio ambiente.
+
+
+       Com base na manifestação apresentada, e nos documentos constantes do Quadro 1, as
+seguintes considerações são feitas:
+
+A)     Face às indefinições observadas no quadro reivindicatório e à ausência de relações de
+dependência entre as reivindicações, conforme discutido no Quadro 3, conclui-se que a matéria
+pleiteada nas reivindicações 1-29 já foi revelada em D1-D7; portanto, não atende ao requisito de
+novidade (Artigo 11 da LPI).
+
+B)     A Requerente alega (página 8, item [D] da manifestação) que não são os métodos
+utilizados a matéria principal do presente pedido, mas sim a utilização de argilas específicas,
+oriundas da região da Paraíba e importadas (jazida argentina). Contudo, também alega (página 7,
+item [B] da manifestação) que a matéria reivindicada refere-se a essas argilas específicas que,
+
+
+
+
+                                                                                        Página 6
+                                        BR202012022499-8
+
+quando submetidas a diferentes tipos de modificação, apresentam uma melhora na sua
+reatividade.
+
+C)       Considerando que a matéria reivindicada refere-se a argilas específicas que, quando
+submetidas a diferentes tipos de modificação, apresentam uma melhora na sua reatividade,
+conclui-se que o objeto de proteção diz respeito a um processo para a produção de biodiesel por
+catálise em fase heterogênea utilizando condições específicas de reação, de matéria-prima, de
+catalisador, de preparação de catalisador, etc. Como D1, D2 e D7 já demonstram os resultados
+positivos da utilização da argila bentonítica oriunda da região da Paraíba, como catalisador na
+produção de biodiesel por transesterificação, para a comprovação da atividade inventiva da
+matéria do presente pedido é essencial a apresentação de resultados que confirmem o efeito
+técnico inesperado do processo como ora pleiteado, frente aos já conhecidos nos documentos
+citados como impeditivos. É imprescindível também que as etapas e condições, tanto de síntese
+dos catalisadores, quanto de produção do biodiesel, responsáveis pelo resultado diferenciado,
+estejam claramente apresentadas no quadro reivindicatório, e suficientemente descritas no
+relatório descritivo (vide comentários no Quadro 3).
+
+
+Conclusão
+        Do exposto conclui-se que a Requerente não apresentou argumentos técnicos capazes de
+superar as objeções exaradas por este INPI, no parecer ora sob manifestação, no tocante ao
+disposto nos Artigos 8º, 11, 13, 24 e 25 da LPI. Como não foram encontrados subsídios que
+apontem para outra direção que não seja a de ratificar a posição já divulgada nos pareceres
+anteriores, de acordo com o Art. 37 indefiro o presente pedido, uma vez que a matéria reivindicada
+no mesmo não é patenteável como modelo de utilidade, contrariando o disposto no artigo 9º da
+LPI.
+
+
+        De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+                                                              Rio de Janeiro, 21 de junho de 2020.
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+          Maria Helena de Oliveira Nunes
+           Pesquisador/ Mat. Nº 1472689
+           DIRPA / CGPAT IV/DIPAT XVI
+     Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                          Página 7
+

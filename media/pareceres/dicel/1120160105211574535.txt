@@ -1,0 +1,202 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR112016010521-4           N.° de Depósito PCT:IB2014/065921
+ Data de Depósito:                     10/11/2014
+ Prioridade Unionista:                 US 61/903,475 (13/11/2013)
+ Depositante:                          KONINKLIJKE PHILIPS N.V. (NL)
+ Inventor:                             YINHUI DENG, XIAOMIN LI, XIAOLIN GU, VIJAY THAKUR
+                                       SHAMDASANI, YING WU
+ Título:                               Rede de suporte de diagnóstico clínico (cds), sistema de suporte de
+                                       diagnóstico clínico (cds) global, sistema de suporte de diagnóstico
+                                       local (cds), e métodos 
+
+                                                                    PARECER
+
+Em 25/02/2022, por meio da petição 870220017011, a Requerente apresentou modificações no
+pedido em resposta ao parecer emitido, notificado na RPI 2657 de 07/12/2021 (despacho 7.1).
+Estas modificações estão consideradas no Quadro 1.
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas         n.o da Petição           Data
+
+Relatório Descritivo                                          1 a 27          870220017011           25/02/2022
+Quadro Reivindicatório                                         1a6            870220017011           25/02/2022
+Desenhos                                                       1a5            870160018847           10/05/2016
+Resumo                                                          1             870220017011           25/02/2022
+
+
+    Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                    maio de 1996  LPI
+Artigos da LPI                                                                                 Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                       x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                         x
+O pedido está de acordo com disposto no art. 32 da LPI                                          x
+Comentários/Justificativas
+
+-
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                               Página 1
+                                                        BR112016010521-4
+
+
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                             Sim          Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI        x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                    x
+Comentários/Justificativas
+
+       Em parecer 870220017011 de resposta ao 1º exame técnico exarado na RPI 2657 de
+07/12/2021, a Requerente apresentou argumentação bastante elucidativa para uma nova
+interpretação da relação entre os nós locais e global, a qual não se trata pura e simplesmente de
+uma organização hierárquica. Dessa forma, em sua exposição a Requerente esclareceu que o
+sistema pleiteado é composto de um CDS global e uma pluralidade de CDS locais, sendo que
+cada CDS local possui:
+
+       a) Um sistema de diagnóstico, o qual RECEBE dados de paciente, PROCESSA usando
+            os parâmetros de rede neural e FORNECE um diagnóstico; e
+
+       b) Um sistema de aprendizado, o qual RECEBE dados de paciente, RECEBE o
+            diagnóstico correto (quem fornece?) e FORNECE novos parâmetros de rede neural
+            ajustados.
+
+Em seguida, os dados de teste do CDS local são usados no CDS global para que um diagnóstico
+seja fornecido e comparado com o diagnóstico obtido pelo sistema de diagnóstico local (já com os
+novos parâmetros providos pelo sistema de aprendizado). A partir da comparação dos resultados
+de diagnóstico, o CDS local decide qual dos dois conjuntos de parâmetros de rede neural utilizar
+no seu sistema de diagnóstico, o local ou o global.
+
+       Essa foi a interpretação concluída a partir da exposição feita pela Requerente. No entanto,
+ao examinar o quadro reivindicatório, o mesmo não parece traduzir de forma clara o conceito que
+a Requerente procura elucidar a respeito da rede de suporte de diagnóstico clínico explanada,
+uma vez que na reivindicação 1, afirma-se que cada CDS local compreende um sistema de
+aprendizado que RECEBE dados do paciente e FORNECE uma saída de diagnóstico
+correspondente com base em parâmetros locais; em seguida afirma-se que ele RECEBE um
+diagnóstico determinado localmente (seria esse o dito diagnóstico correto?), aplica os dados de
+treinamento (dados do paciente + diagnóstico recebido) ao sistema de aprendizado para atualizar
+os parâmetros da rede neural com base em uma comparação do diagnóstico fornecido com o
+diagnóstico recebido pra após fornecer os dados de treinamento para o CDS global. O quadro
+reivindicatório não faz menção à existência de um sistema de diagnóstico no CDS local, mas sim
+apenas ao sistema de aprendizado, o qual parece realizar ambas as tarefas de forma
+concomitante. A própria interpretação de como são realizadas essas tarefas (a saber, fornecer um
+diagnóstico, depois realimentá-lo no mesmo sistema junto com o diagnóstico correto e os dados
+de paciente para gerar novos parâmetros na saída) por um único sistema se faz confusa.
+
+       De maneira análoga, a descrição do sistema CDS global também parece comer etapas
+essenciais, pois afirma que o sistema de aprendizado global RECEBE os dados de treinamento e
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                       Página 2
+                                                         BR112016010521-4
+
+
+GERA parâmetros de treinamento com base em uma comparação entre o diagnóstico global (em
+que momento ele foi gerado?) com o diagnóstico local.
+
+      Finalmente, afirma-se que os CDS locais atualizam seletivamente seus parâmetros de
+aprendizado local com base nos parâmetros globais, afirmação essa que incide em falta de
+clareza, visto que não dá maiores explicações sobre como tal seleção é feita (em sua explicação,
+a Requerente dá a entender que o CDS local decide qual dos dois conjuntos de parâmetros usar
+com base em qual diagnóstico  local ou global  foi mais preciso).
+
+      Pelas razões acima expostas, conclui-se que o presente quadro reivindicatório está em
+desacordo com o Art. 25 da LPI.
+
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                        Data de publicação
+    D1                                              US2005216208                               29/09/2015
+    D2                                                 US5622171                               22/04/1997
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                     Cumprimento   Reivindicações
+                                                                           Sim            1-11
+             Aplicação Industrial
+                                                                          Não              -
+                                                                           Sim            1-11
+                     Novidade
+                                                                          Não              -
+
+                                                                           Sim             -
+             Atividade Inventiva
+                                                                          Não             1-11
+Comentários/Justificativas
+
+      Além dos motivos expostos a respeito da falta de clareza do quadro reivindicatório que
+deixa dúvidas a respeito da matéria pleiteada à luz da explanação fornecida pela Requerente,
+outros questionamentos ainda são suscitados a parte da leitura do presente pedido. O primeiro
+diz respeito ao fornecimento dos diagnósticos corretos, que entende-se a princípio fazerem
+parte de um primeiro conjunto de dados de treinamento da rede neural, a qual é alimentada com
+uma pluralidade de dados de paciente e os diagnósticos correspondentes de forma a treinar
+seus próprios parâmetros. No entanto, uma vez treinada com esse conjunto de dados,
+entende-se que o objetivo da rede seja de ser usada para diagnosticar pacientes com dados
+novos de pacientes em reais, os quais vêm desprovidos de gabarito. Neste caso, como
+realimentar a rede para que ela própria continue refinando seus próprios resultados? Os novos
+diagnósticos corretos viriam de uma equipe de profissionais da saúde? Qual seria a
+necessidade então de uma rede neural para diagnosticar pacientes, se há um profissional
+responsável para fazê-lo? Pode-se argumentar que a rede seria um mero acessório de auxílio a
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 3
+                                                         BR112016010521-4
+
+
+um profissional capacitado, mas qual o valor desse auxílio enquanto a rede ainda estiver
+descalibrada e fornecer conclusões equivocadas? Também há o mérito de que o próprio
+profissional é passível de erros e pode usar um possível (ainda que não provável) diagnóstico
+errado como dado de treinamento.
+
+        O segundo questionamento diz respeito à característica essencial e específica do
+presente pedido, tal como é postulado pela Requerente, de que a arquitetura pleiteada não se
+trata tão somente de uma relação hierárquica, mas sim de uma comunicação entre os nós locais
+e o nó global que permite que o CDS local rejeite os parâmetros globais por serem talvez menos
+precisos que os parâmetros locais, que supostamente reuniriam dados mais contextualmente
+relevantes que não seriam globalmente diluídos por dados mais gerais vindos de diversas
+localidades com fatores diferentes. Neste caso, levando em consideração tais fatores
+individuais, imagina-se se o sistema global seria de fato o mais adequado para refinar os
+parâmetros das redes neurais em alguma situação; pergunta-se se os parâmetros locais não
+resultariam em diagnósticos mais acurados.
+
+        Pelos motivos expostos acima, mantém-se o posicionamento contrário à patenteabilidade
+do presente pedido.
+
+
+Conclusão
+
+        Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não
+atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI) e as
+reivindicações estão indefinidas e/ou não estão fundamentadas no relatório descritivo (Art. 25 da
+LPI).
+        De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+                                                                              Publique-se o indeferimento (9.2).
+
+
+                                                                            Rio de Janeiro, 23 de maio de 2022.
+
+
+
+
+Bruna Marques Mazoco
+Pesquisador/ Mat. Nº 2316562
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 001/18
+
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                     Página 4
+

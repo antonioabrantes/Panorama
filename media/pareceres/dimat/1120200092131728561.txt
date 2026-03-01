@@ -1,0 +1,176 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112020009213-4           N.° de Depósito PCT:IL2018/051116
+ Data de Depósito:                   18/10/2018
+ Prioridade Unionista:               US 15/815,836 (17/11/2017)
+ Depositante:                        ISCAR LTD. (IL)
+ Inventor:                           GIL HECHT
+ Título:                             Ferramenta de corte e inserto de corte indexável 
+
+                                                                PARECER
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1  21               870200057447           08/05/2020
+Quadro Reivindicatório                                   16                 870230049985           12/06/2023
+Desenhos                                                 17                 870200057447           08/05/2020
+Resumo                                                      1                870200057447           08/05/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                                   x
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                                        BR112020009213-4
+
+
+Comentários/Justificativas
+Neste parecer serão utilizados os seguintes símbolos:
+LPI  Lei da Propriedade Industrial (Lei N° 9.279/96)
+IN  Instrução Normativa
+RD  relatório descritivo
+QR  quadro reivindicatório
+R  reivindicação
+
+
+
+
+          Após notificação de despacho de exigência (6.1) publicado na RPI nº 2723 em 14/03/2023,
+a requerente impetrou a petição de n° 870230049985 em 12/06/2023, onde apresenta nova via do
+quadro reivindicatório.
+
+
+          Como observado no exame anterior, as características da reivindicação 10 são essenciais
+para a definição da invenção, pois são a única maneira de alcançar o resultado da reivindicação 1.
+Uma vez que não contém essas características, a R1 contraria o disposto no Art. 25 LPI e na
+Resolução nº 124/2013  3.42, pois omite características técnicas essenciais para definir a
+invenção. Observa-se que as características do inserto utilizadas na R10 são diferentes daquelas
+utilizadas na R1.
+
+
+
+
+                                  Quadro 4  Documentos citados no parecer
+
+  Código                                            Documento                   Data de publicação
+     D1                                           JP2015196203                       09/11/2015
+
+
+
+
+      Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade                         Cumprimento     Reivindicações
+                                                                 Sim             1  12
+               Aplicação Industrial
+                                                                 Não               ---
+                                                                 Sim             1  12
+                       Novidade
+                                                                 Não               ---
+                                                                 Sim            10  12
+               Atividade Inventiva
+                                                                 Não             19
+
+
+
+
+                                                                                              Página 2
+                                          BR112020009213-4
+
+
+Comentários/Justificativas
+
+
+
+
+          No exame anterior foi informado que D1 ensina todas as características técnicas
+necessárias para que um técnico no assunto chegue à matéria pleiteada na reivindicação 1 (vide
+figuras 1 e 2 de D1). A requerente alega que as cavidades de recebimento de inserto de D1 não
+são idênticas, de forma que os insertos de corte ficam inclinados em diferentes direções em
+relação aos lados 1A e 1B.
+
+
+          O problema técnico a ser resolvido no pedido em tela é prover uma ferramenta de corte
+rotativa aprimorada capaz de executar operações de corte com altas taxas de avanço (vide §[007]
+do RD). O RD indica que em virtude da pluralidade de cavidades de recebimento de insertos
+idênticos 28 serem idênticas, deve-se considerar que o corpo de corte 22 pode ser fabricado de
+maneira simples e economicamente eficiente (vide §[016] do RD). Desta forma, a referida
+característica técnica parece não ter ligação com a resolução do problema técnico a ser resolvido.
+Além disso, o próprio RD indica documentos que apresentam tal característica (vide §[003] do
+RD), de forma que um técnico no assunto não teria dificuldade em implementar tal alteração na
+ferramenta ensinada em D1, caso entendesse conveniente.
+
+
+          Desta forma, a reivindicação 1 não atende ao requisito de atividade inventiva em relação
+ao estado da técnica, contrariando o disposto no artigo 8° c/c 13 da LPI.
+
+
+
+
+Conclusão
+
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+
+
+      -     não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -     as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+            descritivo (Art. 25 da LPI)
+
+
+
+
+                                                                                           Página 3
+                                      BR112020009213-4
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                            Rio de Janeiro, 14 de junho de 2023.
+
+
+
+
+Rafael Vieira Camerini
+Pesquisador/ Mat. Nº 2317410
+DIRPA / CGPAT IV/DIMAT
+Deleg. Comp. - Port. INPI/DIRPA Nº
+012/18
+
+
+
+
+                                                                                        Página 4
+

@@ -1,0 +1,196 @@
+                              SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA E COMÉRCIO EXTERIOR
+                   INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI9917912-1               N.° de Depósito PCT:
+ Data de Depósito:                   14/01/1999
+ Prioridade Unionista:               -
+ Depositante:                        Syngenta Participations AG (CH)
+ Inventor:
+ Título:                             Método de controle de pragas em culturas de plantas transgênicas
+                                     úteis
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               Nº da Petição          Data
+
+Relatório Descritivo                                   1 a 154               20110123029           30/11/11
+Quadro Reivindicatório                                      1                20130054883           21/06/13
+
+Desenhos                                                    -                      -                  -
+Resumo                                                      1                20110123029           30/11/11
+
+
+                Quadro 2 - Considerações referentes aos Artigos 10, 18, 22 e 32 da LPI
+Artigos da LPI                                                                               Sim      Não
+A matéria enquadra-se no Art. 10 da LPI (não se considera invenção)                                       x
+A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                                               x
+O pedido apresenta Unidade de Invenção (Art. 22 da LPI)                                       x
+O pedido está de acordo com disposto no Art. 32 da LPI                                        x
+Comentários/Justificativas:
+
+
+
+                     Quadro 3 - Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                               Sim      Não
+O relatório descritivo está de acordo com disposto no Art. 24 da LPI                          x
+O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI                        x
+Comentários/Justificativas:
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                Página 1
+                                           PI9917912-1
+
+
+
+
+                          Quadro 4 - Documentos citados no parecer
+
+ Código                               Documento                              Data de publicação
+    D1       DE19548872                                                      03/07/97
+    D2       BR9501569                                                       14/11/95
+    D3       Höfte & Whiteley. Microbiological Reviews 53(2): 242-255        1989
+    D4       Donovan et al. Applied and Environmental Microbiology 58(12):   1992
+             3921-3927
+
+
+
+
+     Quadro 5 - Análise dos Requisitos de Patenteabilidade (Art. 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento               Reivindicações
+                                                    Sim                       1a9
+            Aplicação Industrial
+                                                    Não
+                                                    Sim                       1a9
+                 Novidade
+                                                    Não
+                                                    Sim
+            Atividade Inventiva
+                                                    Não                       1a9
+
+
+
+Comentários/Justificativas:
+
+         Através do parecer técnico notificado na RPI nº 2290 de 25/11/2014 (despacho 7.1),
+foi constatada a falta de atividade inventiva da matéria reivindicada no presente pedido
+frente aos documentos D1 (DE19548872), D2 (BR9501569), D3 (Höfte & Whiteley) e D4
+(Donovan et al.), incorrendo o pedido nos Artigos 8º e 13 da LPI.
+
+      Por meio da petição NPWB nº 860150029503 de 23/02/2015, a requerente apresentou
+manifestação em relação ao parecer anterior (notificado na RPI nº 2290 de 25/11/2014) e dois
+documentos em anexo (DOC. A e DOC. B)
+
+         Em sua manifestação a requerente alega que D1 descreveria misturas de Bacillus spp
+com agonistas ou antagonistas de receptores nicotínicos de acetilcolina. D1 não descreveria
+clotianidina, mas apenas outros compostos, sendo o ingrediente preferido imidacloprid, o qual
+não estaria sendo reivindicado. Além disso, D1 não descreveria que o Bacillus spp seria
+expresso pela planta/cultura.
+
+         D2 descreveria o uso de misturas inseticidas de fipronil e agonistas ou antagonistas de
+receptores nicotínicos de acetilcolina. Embora a clotianidina fosse descrita com um exemplo de
+um agonista ou antagonista do receptor nicotínico de acetilcolina, o técnico no assunto seria
+motivado a selecionar imidacloprid porque seria o agonista ou antagonista preferido.
+
+
+
+                                                                                          Página 2
+                                               PI9917912-1
+
+
+       Além disso, não haveria qualquer motivação em D1 ou D2 para um técnico no assunto,
+sem a análise em retrospecto, sobre o uso de um composto em culturas que expressam
+qualquer endotoxina de Bacillus thuringiensis, e muito menos a endotoxina do              Bacillus
+thuringiensis Cry IA (c) com a clotianidina.
+
+       Através da análise dos argumentos apresentados pela requerente, são feitas as
+seguintes considerações:
+
+       Assim como citado no parecer anterior (RPI nº 2290 de 25/11/2014), o uso de clotianidina
+como inseticida já havia sido revelado nos documentos D1 e D2 do estado da técnica. Ao
+contrário do que a requerente acredita, o fato do componente preferido nos documentos D1 e D2
+ser imidacloprid não desmotivaria um técnico no assunto a testar qualquer um dos outros
+compostos com atividade inseticida previstos em tais documentos. Sendo assim, observando a
+fórmula da clotianidina apresentada pela requerente como DOC. A, constata-se que a mesma
+está presente tanto em D1 quanto em D2 (cabe ressaltar que o DOC. B apresentado pela
+requerente como correspondente de D2, na verdade é correspondente de D1).
+
+       Da mesma forma, a atividade inseticida de toxinas derivadas de Bacillus thuringiensis
+também já havia sido revelada nos documentos D3 e D4, inclusive com a informação de que
+cada toxina apresenta uma especificidade diferente. Portanto, a partir da combinação dos
+ensinamentos de D1 e D2 com os ensinamentos dos documentos D3 e D4, seria óbvio para um
+técnico no assunto propor um método para o controle de pragas em culturas de plantas
+transgênicas expressando uma endotoxina de Bacillus thuringiensis através da aplicação de
+uma composição compreendendo clotianidina e pelo menos um auxiliar. O sinergismo entre
+clotianidina e toxinas derivadas de Bacillus thuringiensis seria um efeito inesperado não óbvio, o
+qual conferiria atividade inventiva ao método ora reivindicado no presente pedido.
+       Também como citado anteriormente, em nenhum dos testes apresentados no relatório
+descritivo do presente pedido foi testada a aplicação de clotianidina em plantas transgênicas
+onde a combinação do princípio ativo expresso pela planta transgênica e a praga a ser controlada
+correspondesse a qualquer uma das combinações individuais B.131 a B.195 (endotoxina Cry
+IA(c)). Em relação aos resultados dos testes de campo realizados no Brasil (Doc. B) apresentados
+na petição de depósito do presente pedido, foi citado que os mesmos referiam-se ao método de
+controle de pragas em sementes de milho não-transgênicas e sementes de milho modificadas
+com o gene Bt, sendo que as sementes foram tratadas com clotianidina. Os resultados dos testes
+demonstraram um efeito superior ao efeito aditivo do milho Bt e do milho tratado com clotianidina
+separadamente no controle de pragas da ordem Coleoptera e Lepidoptera. Sendo assim, esse
+seria um resultado inesperado, não-óbvio para um técnico no assunto. Entretanto, em tais testes
+não foi especificado o princípio ativo expresso pela planta transgênica e, portanto, não haveria
+como saber se tal resultado seria referente à combinação de clotianidina com a toxina Bt Cry
+IA(c). Em relação a tal questionamento no parecer anterior (RPI nº 2290 de 25/11/2014), a
+requerente foi silente em sua manifestação. Por conseguinte, como não foram apresentados
+testes que demonstrassem a eficácia sinérgica da combinação de plantas transgênicas
+
+
+
+                                                                                          Página 3
+                                          PI9917912-1
+
+expressando a endotoxina Cry IA(c) com clotianidina, conclui-se que a matéria reivindicada no
+presente pedido não atende ao requisito de atividade inventiva.
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+                                                          Rio de Janeiro, 24 de fevereiro de 2015.
+
+
+
+
+Denise Zaldenando Correia
+Pesquisador/ Mat. Nº 1547121
+DIRPA / CGPAT II/DIPAQ
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+
+Romi Lamb Machado
+Chefe de Divisão/ Mat. Nº 1473272
+DIRPA / CGPAT II/DIPAQ
+Portaria INPI/PR Nº425/13
+
+
+
+
+                                                                                           Página 4
+

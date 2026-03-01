@@ -1,0 +1,417 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR112013009599-7         N.° de Depósito PCT:US2011/057106
+ Data de Depósito:                     20/10/2011
+ Prioridade Unionista:                 US 61/405,192 (20/10/2010); US 13/277,351 (20/10/2011)
+ Depositante:                          KIRTIKUMAR NATUBHAI PATEL (US) ; ROHIT N. PATEL (GB)
+ Inventor:                             KIRTIKUMAR NATUBHAI PATEL; ROHH N. PATEL
+ Título:                               Processo para a separação e recuperação de etano                          e
+                                       hidrocarbonetos mais pesados de gnl 
+
+                                                                    PARECER
+
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas         n.o da Petição           Data
+
+Relatório Descritivo                                             1            870180169005           28/12/2018
+                                                               2-57*          018130019943           14/06/2013
+Quadro Reivindicatório                                          1-9           870180169005           28/12/2018
+Desenhos                                                        1-4           018130019943           14/06/2013
+Resumo                                                          1             870180169005           28/12/2018
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                 Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                       x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                         x
+O pedido está de acordo com disposto no art. 32 da LPI                                          x
+Comentários/Justificativas
+
+
+
+                      Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                 Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                            x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                                    x
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                               Página 1
+                                                         BR112013009599-7
+
+
+Comentários/Justificativas
+        A reivindicação independente 1 apresenta em sua formulação trechos explicativos com
+relação às vantagens e ao simples uso do objeto, desde a linha 8 até a linha
+29, descumprindo o disposto no Art. 25 da LPI e na Instrução Normativa nº 30/2013  Art. 4º (VIII).
+        A reivindicação 01 não atende ao disposto no Art. 25 da LPI e na Instrução Normativa nº
+30/2013  Art. 4º (III), pois a matéria pleiteada não está definida de maneira clara, precisa e
+positiva no seguinte termo: composições de LNG na faixa de menor que 1% mol de C2 a
+maior que 52% mol de C2.
+
+
+
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                                 Data de publicação
+    D1                                             US2006/0042312                                        02/03/2006
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                     Cumprimento         Reivindicações
+                                                                           Sim                     1-19
+             Aplicação Industrial
+                                                                          Não                        -
+                                                                           Sim                      17
+                     Novidade
+                                                                          Não                  1-16;18-19
+
+                                                                           Sim                       -
+             Atividade Inventiva
+                                                                          Não                      1-19
+Comentários/Justificativas
+
+         Por meio da petição n° 870180169005 de 28/12/2018, o depositante apresentou nova via
+do quadro reivindicatório (19 reivindicações), aceitas e utilizadas no exame.
+
+         Durante a etapa de primeiro exame, foi verificada a falta de novidade e atividade
+inventiva, não cumprindo o disposto no artigo 8º, 11 e 13 da LPI, além de não cumprir o disposto
+do artigo 25 da LPI (conforme publicado na RPI 2491 de 02/10/2018).
+
+         O depositante alega que (em relação ao estado da técnica D1):
+                                          Da presente invenção, é possível depreender que a operação da invenção
+                                         incluindo uma combinação única de flexibilidade da pressão de fonte RGNL,
+                                gerenciamento de pressão regulando a pressão interna do RGNL-lado frio do trocador, e
+                             função de coluna com variabilidade de múltiplas combinações opcionais de fluxos de fontes
+                             de coluna e suas localizações na coluna, bem como sua variabilidade de pressão de coluna
+                              incluindo controlador de pressão de retorno e a variabilidade da pressão no lado quente de
+                                 condensação do trocador incluindo combinação geral de itens abaixo do trocador para
+                               fornecer variabilidade da pressão no lado quente de condensação do trocador e usando a
+                             incorporação de processo ensinada aqui a opção para reproduzir LGNL como LGNL
+                                                           vaporizado sem equipamento de compressão com economia de
+
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                           Página 2
+                                                       BR112013009599-7
+
+                        equipamento/complexidade/energia usando durante a vaporização processo do LGNL os
+                               ensinamentos como incorporado e também ensinado na invenção onde o termo dirigido
+                            inclui dirigir usando uma bomba ou um mecanismo motivador como ensinado pela
+                                                                                                presente invenção
+
+      O novo quadro reivindicatório (petição n° 870180169005 de 28/12/2018) revela processo
+para a separação e recuperação de etano (até 99%) e/ou hidrocarbonetos mais pesados (C2+),
+a partir de composições de LNG entre 1% e 52% que compreende:
+
+   (a) Fornecer um fluxo de matéria-prima indivisível contendo rico LNG em que o LNG é
+      rico na forma líquida a partir de um tanque de armazenamento ou de outra fonte, o LNG
+      rico compreendendo C1 e C2 + hidrocarbonetos, incluindo o conteúdo de C2 de 1%
+      mol a 52% mol ou mais, o LNG rico que tem                           uma   temperatura      e   pressão     de
+      armazenamento ambiente (contenção) e uma bomba de variabilidade flexível ou outro
+      sistema de energia motriz fornecendo uma pressão de fonte para bombear o LNG rico
+      [BR112013009599-7, Reivindicação 01];
+
+   (b) Proporcionar um trocador de calor com um lado frio e um lado quente; fornecendo
+      uma bomba à montante do lado frio do trocador de calor para pressurizar a
+      matéria-prima a partir de LNG rico; fornecendo uma primeira válvula de regulação à
+      jusante de pressão à jusante do lado frio do trocador de calor para regular a pressão
+      no lado frio do trocador de calor; e fornecer uma combinação de itens à jusante
+      para fornecer variabilidade da pressão no lado quente de condensação do trocador
+      [BR112013009599-7, Reivindicação 01];
+
+   (c) Bombeamento da matéria-prima rica LNG no lado frio de um trocador de calor, o
+      trocador         de      calor        tendo        um lado frio e um lado quente [BR112013009599-7,
+      Reivindicação 01];
+
+   (d) Aquecimento da matéria-prima rica LNG dentro do trocador de calor, utilizando uma
+      combinação da bomba à montante e regulação de pressão da primeira válvula de
+      regulação de pressão à jusante para manter a matéria-prima rica LNG abaixo do
+      seu ponto de bolha para evitar ou controlar a vaporização enquanto aquecendo
+      contra o lado quente do trocador de calor [BR112013009599-7, Reivindicação 01];
+
+   (e) Dirigir o LNG rico da matéria-prima indivisível, não vaporizado, do trocador de calor
+      através da primeira válvula de regulação de pressão à jusante para um arranjo de coluna,
+      o arranjo de coluna compreendendo um desgaseificador, uma coluna de processamento e
+      um arranjo de refervedor, sendo a coluna de processamento capaz de receber o LNG
+      rico da matéria-prima diretamente a partir da primeira válvula de regulação de
+      pressão à jusante num primeiro modo de operação do arranjo de colunas, sendo o
+      desgaseificador capaz de receber o LNG rico da matéria-prima diretamente a partir da
+      primeira válvula de regulação de pressão à jusante num segundo modo de operação
+      do arranjo de colunas [BR112013009599-7, Reivindicação 01];
+
+
+
+
+       Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                        Página 3
+                                                    BR112013009599-7
+
+
+(f) No primeiro modo de operação do arranjo de colunas, dirigir o fluxo de LNG rico da
+   matéria-prima do trocador de calor através da válvula de regulação de pressão para a
+   coluna de processamento, a coluna compreendendo um ou mais orifícios de entrada ao
+   longo da altura da coluna para permitir direcionar o fluxo para dentro da coluna em
+   um ou mais locais de entrada ao longo da altura da coluna, sendo a coluna capaz de
+   operar em um modo de operação de rejeição de etano ou modo de operação de
+   recuperação de etano, a coluna sendo ainda capaz de operar em qualquer pressão
+   específica até, e além, se necessário, de qualquer pressão crítica de processo de
+   mistura termodinâmica                   necessária para a operação da coluna [BR112013009599-7,
+   Reivindicação 01];
+
+(g) No segundo modo de operação do arranjo de coluna, direcionando o LNG rico da
+   matéria-prima do trocador de calor através da válvula reguladora de pressão e depois
+   para dentro de um desgaseificador, o desgaseificador compreendendo uma primeira
+   entrada para receber o LNG rico da matéria-prima, uma segunda entrada para receber
+   um fluxo reciclado de um processo à jusante, e uma primeira saída para descarregar
+   qualquer fase gasosa que possa estar presente e uma segunda saída para
+   descarregar um fluxo líquido desgaseificador [BR112013009599-7, Reivindicação 01];
+
+(h) Enquanto ainda no segundo modo de operação de arranjo de coluna, direcionando a
+   descarga da primeira saída de desgaseificador diretamente para a coluna de
+   processamento e direcionar o fluxo de líquido desgaseificador da segunda saída,
+   através da sua própria pressão ou através de uma bomba adicional, diretamente para a
+   coluna de processamento [BR112013009599-7, Reivindicação 01];
+
+(i) Em qualquer um dos primeiro ou segundo modo de operação do arranjo de coluna,
+   separando na coluna um fluxo gasoso sobrenadante que compreende produtos de
+   hidrocarbonetos mais leves, e um fluxo de líquido de fundo de coluna compreendendo
+   produtos de hidrocarbonetos mais pesados de composições variadas por operação da
+   coluna em modos de operação, como o modo de extração de etano ou o modo de
+   rejeição de etano [BR112013009599-7, Reivindicação 01];
+
+(j) Em qualquer um dos primeiro ou segundo modo de operação da arranjo de coluna,
+   dirigir o fluxo gasoso sobrenadante da coluna para o lado quente do trocador de
+   calor [BR112013009599-7, Reivindicação 01];
+
+(k) Em qualquer um dos primeiro ou segundo modo de operação da disposição de
+   coluna,       resfriar       e     condensar           o fluxo gasoso sobrenadante contra o LNG rico da
+   matéria-prima             no      trocador          de         calor   para   formar    um     fluxo   condensado
+   compreendendo                líquido de          LNG           pobre   condensado,     em    que   o processo   de
+   condensação              é       capaz         de condensar             completamente fluxo de gás suspenso
+   [BR112013009599-7, Reivindicação 01];
+
+
+
+
+    Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                             Página 4
+                                                    BR112013009599-7
+
+
+(l) Em qualquer um dos primeiro ou segundo modo de operação do arranjo de coluna,
+   dirigir o líquido de LNG pobre a partir do lado quente do trocador de calor para um
+   recipiente de recepção [BR112013009599-7, Reivindicação 01];
+
+(m) Em qualquer um dos primeiro ou segundo modo de operação do arranjo de coluna,
+   bombear o produto do líquido de LNG pobre a partir do recipiente de recepção a uma
+   pressão desejada para armazenamento ou local para uso final [BR112013009599-7,
+   Reivindicação 01];
+
+(n) Em qualquer um dos primeiro ou segundo modo de operação de arranjo de coluna,
+   dirigir parte do fluxo de líquido de fundo da coluna a uma ou mais modalidades de
+   reebulição [BR112013009599-7, Reivindicação 01];
+
+(o) Em qualquer um dos primeiro ou segundo modo de operação de arranjo de coluna,
+   aquecer parte do fluxo de líquido de fundo da coluna presente em um ou mais dos
+   arranjos de refervedores criando um fluxo aquecido refervedor [BR112013009599-7,
+   Reivindicação 01];
+
+(p) Em qualquer um dos primeiro ou segundo modo de operação de arranjo de coluna,
+   retornar pelo menos uma porção do fluxo refervedor aquecido para a coluna, a coluna
+   sendo adicionalmente equipada com uma ou mais portas de entrada na corrente inferiores
+   aquecidas ao longo da altura da coluna de direção a fim de permitir o fluxo refervedor
+   aquecido para a coluna flexível em um ou mais aquecida locais de entrada de fluxo
+   aquecido refervedor do ao longo da altura da coluna [BR112013009599-7, Reivindicação
+   01];
+
+(q) Em qualquer um dos primeiro ou segundo modo de operação de arranjo de coluna,
+   descarregar o fluxo líquido de fundo da coluna a partir da coluna através de um ou
+   mais arranjos de refervedor                            para um ou mais locais de uso final desejado
+   [BR112013009599-7, Reivindicação 01];
+
+(r) No segundo modo de operação de arranjo de coluna, opcionalmente, reciclar parte
+   do fluxo líquido de produto aquecido refervedor, para o desgaseificador permitir que o
+   fluxo líquido de produto de refervedor reciclado seja misturado com o LNG rico da
+   matéria-prima ou opcionalmente reciclar parte do fluxo líquido de fundos da coluna, para
+   o desgaseificador permitir que o fluxo líquido                       de fundo da coluna reciclado seja
+   misturado com o LNG rico da matéria-prima, ou opcionalmente, reciclar parte do
+   fluxo líquido de fundos da coluna para a coluna [BR112013009599-7, Reivindicação 01];
+
+(s) Em qualquer um dos primeiro ou segundo modos de operação de disposição da coluna,
+   descarregar a dita parte do fluxo líquido do produto refervedor da coluna, a partir de um ou
+   mais refervedores para um local desejado [BR112013009599-7, Reivindicação 01];
+
+(t) Transferir algum do gás no vaso de recepção para um local desejado [BR112013009599-7,
+   Reivindicação 01];
+
+
+
+
+    Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 5
+                                                        BR112013009599-7
+
+
+      Em que a combinação da etapa (d) e (k) envolvendo o processo de troca de calor são
+       efetivamente controlados pelo uso do regulador de pressão no lado frio do trocador de
+       calor e a variabilidade da pressão no lado quente do trocador de calor para permitir
+       a capacidade de atingir a condensação completa do fluxo de gás suspenso no
+       trocador de calor, enquanto impede qualquer problema de cruzamento de temperatura
+       ou pressão de temperatura no trocador de calor [BR112013009599-7, Reivindicação 01].
+
+       Desta maneira, entendo que foram destacadas as características técnicas essenciais do
+processo revelado em              BR112013009599-7 na reivindicação independente 01. O novo quadro
+reivindicatório (petição n° 870180169005 de 28/12/2018) difere-se do quadro reivindicatório
+anterior a medida que incorpora as características relativas a etapa b (pressurização) e
+relativas a etapa d (aquecimento). Tal acréscimo melhor define a matéria revelada. Ainda, ao
+longo da reivindicação independente 01 é melhor definido o processo em termos da presença
+opcional de um desgaseificador.
+
+       Conforme exposto na etapa de 1º exame, D1 foi considerado o documento que melhor
+representa o estado da técnica. D1 se refere a a extração e recuperação de etano e
+hidrocarbonetos mais pesados (C2+) do LNG. D1 objetiva reduzir custos e melhorar a eficiência
+energética em relação ao estado da técnica.
+
+       O depositante alega que BR112013009599-7 se difere de D1 a medida que pode operar
+em condições de carga onde a concentração de C2 é extremamente baixa, tal como 1%. O
+depositante alega que D1 apenas revela condições de operar acima de 2,5 % (isto é verificado
+em D1, parágrafo 16).
+
+       Todavia, considero que poder operar com uma carga de LGN mais pobre (como
+verificado em BR112013009599-7) é um resultado que pode ser obtido através de configuração
+de características técnicas (a serem reveladas) e tal matéria revelada não se constitui em
+característica técnica, porém em resultado alcançado, de maneira a não ser passível de
+atribuição de novidade e/ou atividade inventiva. A Resolução N° 124/2013, no ítem 3.52, afirma
+que: Como regra geral, reivindicações que definem a invenção por meio do resultado a ser
+atingido não devem ser permitidas, em particular se elas se referem tão somente a reivindicar o
+problema técnico envolvido. Ainda, verifico que há sobreposição de faixas de operação (em
+relação a composição de C2 na carga) entre BR112013009599-7 e D1.
+
+       O depositante alega que BR112013009599-7 se difere de D1 a medida que pode diminuir
+o problema de rolagem em condições de carga onde a concentração de C2 é extremamente
+baixa, tal como 1%. O depositante alega que D1 apenas revela condições de operar acima de
+2,5 % (isto é verificado em D1, parágrafo 16). Entendo que este também é um resultado que
+pode ser obtido através de configuração de características técnicas (a serem reveladas) e tal
+matéria revelada não se constitui em característica técnica, porém em resultado alcançado, de
+maneira a não ser passível de atribuição de novidade e/ou atividade inventiva.
+
+        O depositante alega que BR112013009599-7 se difere de D1 a medida que recuperar
+até 99% de etano. Entendo que este também é um resultado que pode ser obtido através de
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                        Página 6
+                                                        BR112013009599-7
+
+
+configuração de características técnicas (a serem reveladas) e tal matéria revelada não se
+constitui em característica técnica, porém em resultado alcançado, de maneira a não ser
+passível de atribuição de novidade e/ou atividade inventiva.
+
+       O depositante alega também:
+
+
+                                               Destarte, a presente invenção fornece um meio de alterar a composição e a
+                                      entalpia da ração antes de alimentar a coluna as opções de variabilidade da
+                               entalpia/composição da ração com o item desgaseificador, sendo que, no relatório
+                                                                       descritivo, é possível observar os seguintes pontos:
+                                               variabilidade da entalpia/composição da alimentação com o desgaseificador
+                                                                                                                de item; e
+                                                   uma composição e mudança de entalpia pode ser efetuado para o VGNL
+                                através do desgaseificador misturando opcionalmente com outro fluxo que muda o
+                         estado/composição do VGNL de alimentação (FEED) para alimentá-lo para a coluna de
+                                                                                          processamento/fracionamento.
+
+
+
+       Todavia, é verificado em D1 a presença de um desgaseificador na forma de Flash Tank ,
+[D1, Parágrafo 50 e Figura 1]. Este é capaz de modificar a entalpia e composição da
+alimentação que vai para a coluna de fracionamento.
+
+       Desta maneira, entendo que a reivindicação independente 01 não possui novidade.
+Assim, também não possui atividade inventiva. Nas reivindicações dependentes 2-16, 18 e 19
+não foram identificadas características adicionais ou detalhamentos que, mesmo quando
+combinadas com as características de qualquer reivindicação a que se referem, atendam aos
+requisitos de novidade e/ou a atividade inventiva.
+
+       O depositante alega que se difere de D1 a medida que revela:
+
+
+                                               A reivindicação 30 da presente invenção dispõe que a coluna é configurada
+                                     e integrada numa multiplicidade de operacionalidade e configurações funcionais
+                           selecionados de entre o grupo que consiste em colunas de destilação, colunas de destilação
+                              extrativa, colunas de absorção de re-ebulição, colunas de absorção do absorvente de óleo
+                           pobre, colunas de fracionamento, colunas de decapagem, refluxo de colunas de decapagem,
+                                                                               e colunas de re-ebulição de esvaziamento.
+                                           Por conseguinte, deve-se pontuar que, em nenhum lugar, D1 descreve tal
+                             flexibilidade inerente de seleção e integração com variedades de colunas e, ao contrário,
+                             indica o uso de uma coluna de fracionamento simples operando a uma temperatura
+                                                                                                               criogênica.
+
+
+
+       Acato ao argumento exposto pelo depositante, reconhecendo que a nova reivindicação
+17 (petição n° 870180169005 de 28/12/2018) possui novidade. Entretanto, entendo que tal
+modificação é mera ampliação de escopo em relação ao estado da técnica e não foram
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                               Página 7
+                                                          BR112013009599-7
+
+verificados efeitos técnicos associados a esta modificação ao longo do Relatório Descritivo.
+Desta maneira, a reivindicação 17 não possui atividade inventiva.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -      Não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI);
+
+      -      Não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI);
+
+      -      A matéria pleiteada não está definida de maneira clara, precisa e positiva (Art. 25 da
+             LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                                 Rio de Janeiro, 1 de fevereiro de 2019.
+
+
+
+
+Pedro Igor Veillard Farias                                          Rosana Marques Amorim
+Pesquisador/ Mat. Nº 1075134                                        Pesquisador/ Mat. Nº 1548936
+DIRPA / CGPAT III/DIPEQ                                             DIRPA / CGPAT III/DIPEQ
+                                                                    Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+      De acordo com o parecer acima, indefiro o presente pedido como Patente de Invenção.
+
+                                                                                      Publique-se o indeferimento (9.2).
+
+
+
+
+Jose Aguiar Coelho Neto
+Chefe de Divisão/ Mat. Nº 1549957
+DIRPA / CGPAT III/DIPEQ
+Del. Comp. - Port. INPI/PR Nº1043/18
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                           Página 8
+

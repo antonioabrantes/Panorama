@@ -1,0 +1,181 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI1107376-4                 N.° de Depósito PCT:
+ Data de Depósito:                   07/12/2011
+ Prioridade Unionista:               -
+ Depositante:                        Universidade Federal de Minas Gerais (BRMG) , TCBH ENGENHARIA
+                                     INDÚSTRIA DE ELETRÔNICOS LTDA - ME (BRMG)
+ Inventor:                           Gibram Raul Campos de Oliveira, Elisio José da Silva Júnior
+ Título:                             Dispositivo e processo de reprodução e de atualização de áudio
+                                     digital para sistemas de espera telefônica e de telemídia 
+
+                                                                PARECER
+       Em 06/08/2021, por meio da petição 870210071976, a Requerente apresentou
+modificações no pedido em resposta ao parecer emitido, notificado na RPI 2627 de 11/05/2021
+(despacho 7.1). Estas modificações estão consideradas no Quadro 1.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                     1a6                 014110003432           07/12/2011
+Quadro Reivindicatório                                   1a2                 870210071976           06/08/2021
+Desenhos                                                 1a2                 014110003432           07/12/2011
+Resumo                                                      1                014110003432           07/12/2011
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         X
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                             PI1107376-4
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                                Documento                                  Data de publicação
+    D1       US 7974390 B2                                                             08/07/2011
+    D2       US 20110051718 A1                                                         03/03/2011
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade            Cumprimento                  Reivindicações
+                                                      Sim                          1 a 10
+            Aplicação Industrial
+                                                      Não                            ----
+                                                      Sim                          1 a 10
+                 Novidade
+                                                      Não                            ----
+                                                      Sim                            ----
+            Atividade Inventiva
+                                                      Não                          1 a 10
+Comentários/Justificativas
+        No parecer anterior foi apontado que a reivindicação independente 6 não possuía atividade
+inventiva frente aos ensinamentos do documento D1 ou D2.
+       Em sua manifestação a requerente submeteu novas vias do Quadro Reivindicatório, no
+qual o objeto pleiteado é restringido pelas características técnicas em destaque:
+                        6. Processo de reprodução e atualização de áudio digital utilizando o dispositivo
+                        definido na reivindicação 1, caracterizado por ser composto por, pelo menos, três
+                        etapas:
+                        a. Comparação (14) de um arquivo de áudio presente na memória (6) do
+                        dispositivo de reprodução e atualização com o arquivo presente na memória
+                        do servidor que presta o serviço de espera telefônica (12) por meio de uma
+                        conexão com a Internet (2) para acesso ao servidor (12) por um meio de
+                        conexão de Internet via protocolo TCP/IP (10);
+                        b. Atualização (15) do arquivo da memória (6) por meio de uma conexão com a
+                        Internet (2) para acesso ao servidor (12) por um meio de conexão de Internet
+                        via protocolo TCP/IP (10) caso os arquivos de áudio comparados sejam
+                        distintos; e
+                        c. Reprodução (16) do arquivo de áudio.
+       Isto é, de forma sucinta, a reivindicação independente 6 é emendada de modo a incluir as
+seguintes limitações:
+        Etapas de comparação e de atualização são feita através da internet via protocolo TCP/IP;
+         e
+        Atualização ocorre após, na etapa de comparação, concluir que as memórias possuem
+         informações distintas.
+       Apesar das novas limitações apresentas pela requerente, mantém-se o dito anteriormente
+de que da forma como foi pleiteado, o objeto presente na reivindicação independente 6
+encontra-se antecipado pelos ensinamentos da anterioridade D1 (ver figura 1 e 4 e coluna 5 e 6)
+         D1 antecipa a característica técnica Processo de reprodução e atualização de áudio
+digital, caracterizado por ser composto por, pelo menos, três etapas ao descrever método para
+transferir o conteúdo de áudio para o sistema de comutação telefônica, de acordo com outra
+modalidade exemplar da invenção. Além disso, na figura 1 mostra que a comunicação entre a
+source, local onde está armazenado os conteúdos utilizados na atualização das memórias dos
+dispositivos de reprodução e atualização, e os dispositivos de reprodução e atualização é feita
+
+
+                                                                                               Página 2
+                                          PI1107376-4
+
+através de uma rede de comunicação, o que torna óbvio para um técnico no assunto a utilização
+da Internet via protocolo TCP/IP (10).
+       D1 antecipa a característica técnica comparação (14) de um arquivo de áudio presente na
+memória (6) com o arquivo presente no servidor que presta o serviço de espera telefônica (12) ao
+descrever que na etapa 412, o sistema de comutação de telefone 102 verifica se o nome do
+arquivo do conteúdo de áudio é o mesmo que o nome do arquivo de um conteúdo de áudio
+préarmazenado.
+       D1 antecipa a característica técnica atualização (15) do arquivo da memória (13) aos
+descrever que Além disso, na etapa 418, o sistema de comutação de telefone 102 substitui o
+conteúdo de áudio pré-armazenado pelo conteúdo de áudio recebido se o nome do arquivo do
+conteúdo de áudio pré-armazenado for o mesmo que o nome do arquivo do conteúdo de áudio
+recebido.
+      D1 antecipa a característica técnica reprodução (16) do arquivo de áudio ao descrever
+que Depois disso, o sistema de comutação de telefone 102 identifica um local para salvar o
+conteúdo de áudio. Por exemplo, o conteúdo de áudio reproduzido durante a chamada é colocado
+em espera e armazenado na pasta chamada chamada em espera.
+       Adicionalmente, o objeto presente na reivindicação independente 6 também encontra-se
+antecipado pelos ensinamentos da anterioridade D2 (ver parágrafos 48-51):
+                      [0050] FIGO. 4 é um diagrama do sistema 70 da FIG. 3 ilustrando a transmissão
+                      ou download do arquivo de áudio 88 contendo o conteúdo de áudio do sistema de
+                      servidor 72 para o sistema de telefone 76 através da rede de comunicação 74. O
+                      arquivo de áudio 88 é recebido pelo sistema de telefone 76 e armazenado no
+                      sistema de memória 80 do sistema de computador 78 do sistema de telefone 76.
+                      [0051] Conforme descrito acima, um ou mais dos podcasts incluídos no arquivo de
+                      áudio 88 podem ser especificados por um feed RSS (por exemplo, o feed RSS 40
+                      ou 42 da FIG. 1). O sistema de servidor 72 pode verificar periodicamente o feed
+                      RSS para atualizações de um ou mais podcasts através da rede de comunicação
+                      74. Se qualquer um dos um ou mais podcasts incluídos no arquivo de áudio 88
+                      tiver sido atualizado, o sistema de servidor 72 pode iniciar a transmissão do
+                      podcast atualizado através da rede de comunicação 74. O sistema servidor 72
+                      pode então atualizar o arquivo de áudio 88 para incluir o podcast atualizado.
+       A reivindicação 6 não atende ao requisito atividade inventiva, pois decorre de maneira
+evidente ou óbvia para um técnico no assunto a partir dos documentos D1 ou D2.
+       Nas reivindicações dependentes não foram identificadas características que, mesmo
+quando combinadas com as características de qualquer reivindicação independente a que se
+referem, venham a prover novidade e/ou a atividade inventiva à matéria.
+        A reivindicação independente 1 refere-se a uma revindicação correspondente à
+revindicação independente 6, da categoria de método, e, mutatis mutandis, não possui atividade
+inventiva frente aos argumentos apresentados para a reivindicação independente 6. Eventuais
+diferença estão relacionadas a uma descrição genérica de elementos físicos comumente
+utilizados em um dispositivo de reprodução de áudio conectado à internet a quais são tidas como
+óbvia para um técnico no assunto, conforme já pontuado em parecer anterior.
+        Além disso, nas reivindicações dependentes da reivindicação independente 1, apenas são
+descritos novos elementos físicos comumente utilizados em dispositivos eletrônicos de
+reprodução de áudio, não sendo capaz de conferir atividade inventiva a reivindicação ao objeto
+pleiteado.
+
+
+Conclusão
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                                           Página 3
+                                       PI1107376-4
+
+
+
+                                                            Publique-se o indeferimento (9.2).
+                                                     Rio de Janeiro, 10 de novembro de 2021.
+
+
+
+
+Marcos Patricio dos Santos Júnior
+Pesquisador/ Mat. Nº 1707127
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 007/16
+
+
+
+
+                                                                                     Página 4
+

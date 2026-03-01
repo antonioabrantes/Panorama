@@ -1,0 +1,209 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112014008479-3         N.° de Depósito PCT:EP2012/069408
+ Data de Depósito:                   02/10/2012
+ Prioridade Unionista:               EP 11184575.6 (11/10/2011)
+ Depositante:                        SOLVAY SA (BE)
+ Inventor:                           ALAIN VANDENBUSSCHE, PATRICK MARKUS DHAESE, STEPHEN
+                                     BLOOMFIELD, FRANCINE JANSSENS
+ Título:                             Processo para produção de peróxido de hidrogênio
+
+                                                                PARECER
+
+
+          O INPI emitiu a exigência de código 6.6.1 na RPI nº 2464 de 27/03/2018, para fins de
+manifestação do depositante quanto à ocorrência de acesso ao Patrimônio Genético Nacional
+e/ou Conhecimento Tradicional Associado para obtenção do objeto do presente pedido. Não
+tendo havido manifestação do depositante no prazo de 60 (sessenta) dias contados a partir da
+publicação na RPI, o INPI deu prosseguimento ao exame técnico com o entendimento de que
+não houve acesso ao patrimônio genético nacional e/ou conhecimento tradicional associado.
+          Em resposta ao parecer de ciência publicado na RPI n 0 2596 de 06/10/2020 foi
+apresentada a petição n0 870200152076 de 03/12/2020 trazendo as manifestações e as novas
+vias do quadro reivindicatório.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 69               860140086601           02/06/2014
+Quadro Reivindicatório                                   1a2                 870200152076           03/12/2020
+Resumo                                                      1                860140086601           02/06/2014
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR112014008479-3
+
+
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                    x
+O pedido está de acordo com disposto no art. 32 da LPI                     x
+Comentários/Justificativas:
+
+       No exame do novo quadro reivindicatório destacam-se as seguintes modificações em
+relação ao quadro reivindicatório anteriormente analisado: a remoção de trecho final da
+reivindicação 1 em que o referido processo () com aplicações ambientais; a retirada da
+reivindicação dependente 3; e a retirada das reivindicações relativas a categoria de dispositivo
+controlado por computador. Verifica-se que tais modificações estão de acordo com o disposto no
+Artigo 32 da LPI. Em especial, a remoção do trecho final da reivindicação 1 não representa
+alteração do objeto ou acréscimo de matéria, uma vez que não constavam características
+técnicas essenciais e específicas do processo: capacidade máxima de produção (característica
+relativa a unidade produtora / planta / indústria / empresa), local da produção do peróxido de
+hidrogênio e aplicações (usos).
+
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim           Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI       x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                   x
+Comentários/Justificativas:
+       No exame do pedido de patente foi observado que o novo quadro reivindicatório melhor
+define o objeto, porém ainda não atende ao disposto no Artigo 25 da LPI.
+       Conforme comentado em parecer técnico anterior, a reivindicação 1 não possui clareza,
+pois após a expressão caracterizado por são encontradas características técnicas não
+pertinentes à categoria de Processo para fabricação de peróxido de hidrogênio: unidades
+equipadas, sensores, local de produção, primeiros computadores, rede de comunicação,
+segundos computadores, sala de controle. Ou seja, o processo para a fabricação de peróxido de
+hidrogênio está sendo caracterizado por um conjunto de componentes interligados!
+       As Diretrizes de Exame de Pedidos de Patente envolvendo Invenções Implementadas
+em Computador, publicadas na RPI nº 2608 de 29/12/2020, determinam que as reivindicações
+de processo devem estar escritas como uma sequência de etapas (item 4.4.1).
+       Além disso, a reivindicação 1 não possui clareza nos trechos opcionalmente em
+conjunto com outras unidades auxiliares, conforme apropriado e envolvendo, opcionalmente,
+pelo menos um ou mais parâmetros do processo AO.
+       Observa-se que as reivindicações 2 e 3 não definem características técnicas do processo
+para a fabricação de peróxido de hidrogênio, porque estão redigidas em termos de seus
+componentes, e a reivindicação 2 também descreve a escala de capacidade de produção de
+peróxido de hidrogênio da unidade produtora.
+
+
+
+                                                                                        Página 2
+                                        BR112014008479-3
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                              Data de publicação
+    D1       WO9940024                                                            12/08/1999
+    D2       K. Balasubramanian; A.Cellatoglu. Remote Control Techniques              06/2009
+             for Selected Applications Performed through Internet.
+             International Conference on CONTROL, AUTOMATION,
+             COMMUNICATION AND ENERGY CONSERVATION - 2009
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento               Reivindicações
+                                                    Sim                       1a3
+            Aplicação Industrial
+                                                    Não                         ---
+                                                    Sim                       1a3
+                 Novidade
+                                                    Não                         ---
+                                                    Sim                         ---
+            Atividade Inventiva
+                                                    Não                       1a3
+Comentários/Justificativas:
+
+         Em parecer técnico anterior foi constatado que o processo para a fabricação de peróxido
+de hidrogênio não é dotado de atividade inventiva diante da combinação dos documentos D1 e
+D2 citados no Quadro 4 acima.
+
+         Nas manifestações, a requerente admite que o processo para fazer peróxido de
+hidrogênio do pedido de patente é conhecido há muito tempo, visto que relata que o documento
+D1 divulga o processo AO para fazer peróxido de hidrogênio, mas é omisso sobre o fato de
+aplicar controle remoto ao referido processo. A requerente também admite que a operação
+remota de uma usina é conhecida a partir do documento D2.
+
+         Assim como nas manifestações prestadas em resposta à exigência de pré-exame
+(despacho 6.21), a requerente alega que, embora o controle remoto do processo seja conhecido
+há muitos anos, ninguém pensou em aplicar o controle remoto a um processo AO antes da data
+de prioridade do presente pedido de patente.
+
+         Avalia-se que a matéria da nova reivindicação 1 do presente pedido de patente não
+envolve atividade inventiva, já que pleiteia o processo para a fabricação de peróxido de
+hidrogênio convencional, compreendendo as etapas reveladas no documento D1, e a utilização
+do controle remoto em uma unidade industrial por meio da internet, prevista no documento D2.
+Por isso, considera-se óbvio para um técnico no assunto elaborar o processo do pedido de
+patente a partir dos ensinamentos de D1 e aplicar o controle remoto para monitorar um ou mais
+parâmetros do processo a partir dos ensinamentos de D2, resultando em eficiência e uso
+mínimo da mão de obra.
+
+
+                                                                                           Página 3
+                                        BR112014008479-3
+
+
+       Ressalta-se que as Diretrizes de Exame de Pedidos de Patente envolvendo Invenções
+Implementadas em Computador, publicadas na RPI nº 2608 de 29/12/2020, determinam que
+uma invenção implementada em computador não possui atividade inventiva caso se refira à
+mera automação de um processo manual conhecido. Por mera automação entende-se a
+correspondência direta entre as etapas do processo manual e do automatizado.
+
+       No caso do pedido de patente, como já comentado neste Parecer, a reivindicação 1 não
+define de forma clara e precisa o processo que se deseja a proteção, uma vez que após a
+expressão caracterizante não são definidas características técnicas pertinentes à categoria de
+processo. Desta forma, entende-se que a reivindicação principal pleiteia uma mera automação
+no processo para a fabricação de peróxido de hidrogênio compreendido pelo estado da técnica.
+
+       Nas reivindicações dependentes 2 e 3 não foram identificadas características que,
+mesmo quando combinadas com as características da reivindicação independente 1, venham a
+prover atividade inventiva à matéria pleiteada.
+
+       Portanto, o objeto das reivindicações 1 a 3 não é dotado de atividade inventiva (Artigo 8º
+combinado com Artigo 13 da LPI) em vista da combinação dos documentos D1 e D2.
+
+
+
+
+Conclusão:
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   as reivindicações estão indefinidas (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                                 Rio de Janeiro, 27 de abril de 2021.
+
+
+
+
+Aline Marta Vasconcelos Loureiro
+Pesquisador/ Mat. Nº 1549150
+DIRPA / CGPAT I/DINOR
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                            Página 4
+

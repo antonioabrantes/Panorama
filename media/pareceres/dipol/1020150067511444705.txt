@@ -1,0 +1,216 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102015006751-8            N.° de Depósito PCT:
+ Data de Depósito:                   26/03/2015
+ Prioridade Unionista:               -
+ Depositante:                        UNIVERSIDADE ESTADUAL DE CAMPINAS - UNICAMP (BRSP)
+ Inventor:                           NATALIA LORENA PARADA HERNANDEZ; MARIA REGINA WOLF
+                                     MACIEL; MARIA INGRID ROCHA BARBOSA SCHIAVON;
+                                     ANDERSON DE JESUS BONON; ANDRÉ LUIZ JARDINI MUNHOZ;
+                                     RUBENS MACIEL FILHO @FIG
+ Título:                             Processo de obtenção de poliéster reticulado utilizando processo livre
+                                     de reagentes tóxicos, poliéster reticulado e uso 
+
+                                                                PARECER
+          Em 22/03/2021, por meio da petição 870210026518, a Requerente apresentou
+modificações no pedido em resposta ao parecer emitido, notificado na RPI 2607 de 22/12/2020.
+Estas modificações estão consideradas no Quadro 1.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 16               018150003813           26/03/2015
+Quadro Reivindicatório                                   1a2                 870210026518           22/03/2021
+
+Desenhos                                                    1                018150003813           26/03/2015
+Resumo                                                      1                018150003813           26/03/2015
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR102015006751-8
+
+
+Artigos da LPI                                                            Sim                Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI       x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI     x
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+    Código                               Documento                               Data de publicação
+     D1                                US8524855 B1                                     03/09/2013
+
+     D2                              WO2014075182 A1                                    22/05/2014
+
+     D3       G. S. PRABHA LITTIS MALAR et al., "Synthesis and                          28/02/2015
+              Characterization of Biodegradable Polyesters Based on Sesame
+              Oil for Biomedical Field'', International Journal of Science and
+              Research (IJSR), (20150200), vol. 4, no. Issue 2, XP055315286
+
+
+      Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade               Cumprimento             Reivindicações
+                                                         Sim                      1a4
+             Aplicação Industrial
+                                                        Não                         -
+                                                         Sim                      1a4
+                  Novidade
+                                                        Não                         -
+                                                         Sim                        -
+             Atividade Inventiva
+                                                        Não                       1a4
+Comentários/Justificativas
+
+          Em 22/03/2021, por meio da petição 870210026518, a Requerente apresentou as
+seguintes argumentações:
+
+            A Figura 3 apresentada no documento D1 deixa claro que o processo ao qual tal
+documento se refere se trata de um processo de esterificação de ácido cítrico com glicerina e
+não a um processo de adição ao grupo epóxi. A nítida distinção dos produtos obtidos se
+observa      pela descrição de espuma no material obtido no documento D1. Ao passo que o
+produto final do presente pedido de patente possui características distintas, sendo um
+material flexível, transparente e moldável. Assim, trata-se não somente de um processo diferente
+como de produtos com características e aplicações distintas da apresentada em D1.
+
+            O   documento      D2    descreve processos de maneira abrangente e não expõe
+adequadamente e com especificidade a reação demonstrada no documento em análise,
+havendo, portanto, um lapso no detalhamento necessário para compreensão das reações
+possíveis; não sendo apresentadas as características do processo em si, que podem
+influenciar significativamente no comportamento e condições de processo diferente da
+
+
+                                                                                              Página 2
+                                        BR102015006751-8
+
+
+descrita neste pedido.        Logo, a Requerente considera não ser possível avaliar as
+particularidades dos pontos mencionados no documento D2 sem sua descrição na íntegra
+para que possam ser relacionados ao processo pleiteado no presente pedido de patente. Sendo
+assim, a Requerente não considera ser possível reproduzir os processos descritos em D2
+em qualquer indústria, visto que o detalhamento para reação apresentada pelo pedido em
+análise é inespecífico quando comparada ao documento D2 e, mesmo para um técnico no
+assunto, as inúmeras variáveis influenciam de maneiras distintas no processo reacional podendo
+conduzir a obtenção de polímeros com características completamente diferentes usando os
+mesmos reagentes e alterando as condições reacionais. Em outras palavras não é possível com
+as informações apresentadas no documento D2 obter o produto da presente solicitação.
+
+             O documento D3 deixa claro em sua Figura 1 as etapas de reação pela qual obtém
+o produto final. A primeira etapa trata-se de um processo de epoxidação do óleo de gergelim
+com peroxido de hidrogênio oxidante e ácido acético como catalizador. Na segunda etapa, o
+óleo epoxidado é submetido a uma reação de ácido e álcool ao grupo epóxi, levando a
+formação de um éter, não um éster. Tanto o processo, quanto o produto final obtido são de
+naturezas completamente distintas do presente pedido de patente para processo de obtenção
+de poliéster reticulado utilizando processo livre de reagentes tóxicos, poliéster reticulado e uso.
+
+           A análise das argumentações da Requerente, assim como do novo quadro reivindicatório
+(apresentados por meio da petição 870210026518), evidenciou que a matéria ora reivindicada
+permanece não atendendo aos requisitos patenteabilidade, pelos motivos a seguir expostos.
+
+       O documento D2, que é o documento do estado da técnica mais próximo da matéria ora
+reivindicada no presente pedido, descreve um processo para preparar uma resina termofixa
+compreendendo as etapas de: reagir um óleo vegetal epoxidado derivado de um óleo insaturado
+com um agente de cura ácido carboxílico; moldar e curar a resina a temperaturas elevadas
+(reivindicações 1 e 2). O óleo epoxidado é preferencialmente derivado de um óleo de linhaça, de
+soja ou de mamona (reivindicação 12). O ácido carboxílico é preferencialmente o ácido cítrico, o
+ácido oxálico, o ácido sebácico e o ácido succínico (reivindicação 6). O processo é conduzido
+sob vácuo, podendo empregar solventes tais como o etanol e o acetato de etila (parágrafo
+[0036]).
+
+       Ao contrário do que afirma a Requerente em suas argumentações, os exemplos 2 e 3 de
+D2 descrevem detalhadamente o processo para preparar o poliéster reticulado, que envolve as
+etapas de:
+
+             dissolver um agente de cura ácido carboxílico selecionado dentre ácido sebácico,
+ácido oxálico succínico e ácido cítrico no agente de mistura que pode ser etanol;
+
+             adicionar a solução obtida    a um óleo de mamona epoxidado na proporção
+estequiométrica (óleo de mamona epoxidado)/(ácido cítrico) de          1/1 e agitar até obter uma
+mistura;
+
+             manter a referida mistura a 50ºC por 30 minutos sob um vácuo de 20 mbar;
+
+
+
+                                                                                             Página 3
+                                       BR102015006751-8
+
+
+           curar adicionalmente a mistura em três etapas de 60 a 65ºC por 2 horas, de 90 a
+100° por duas horas, e de 120 a 200ºC por 2 horas, seguido por um resfriamento gradual numa
+taxa de 1-1,5 ºC/min.
+
+       Portanto, D2 descreve detalhadamente o processo para preparar o poliéster reticulado
+nos exemplos 2 e 3, com as proporções estequiométricas do (óleo de mamona epoxidado)/
+(ácido cítrico) tal como descritas na reivindicação 1 do presente pedido.
+
+       O processo descrito nos exemplos 2 e 3 de D2 difere daquele descrito na reivindicação 1
+do pedido em análise essencialmente pelo fato da etapa de cura adicional do poliéster reticulado
+(que corresponde às etapas (e) e (f) da reivindicação 1) ser conduzida na ausência de vácuo.
+Entretanto, nos referidos exemplos, a etapa de reação (que corresponde à etapa (d) da
+reivindicação 1) é conduzida sob vácuo.
+
+       Deste modo, na ausência de qualquer efeito técnico inesperado, seria óbvio a um técnico
+no assunto empregar vácuo também na etapa de cura adicional do processo descrito em D2, de
+modo a obter um processo tal como descrito nas reivindicações 1 a 3 do pedido em análise.
+
+       Logo, as reivindicações 1 a 3 não atendem ao requisito atividade inventiva, pois
+decorrem de maneira evidente ou óbvia para um técnico no assunto a partir do documento D2.
+
+       Por outro lado, o documento D3 revela o uso do de um poliéster reticulado obtido a partir
+da reação de cura de óleos vegetais epoxidados em engenharia de tecidos e em liberação
+controlada de drogas. Se considera óbvio para um técnico no assunto obter as características
+definidas na reivindicação 4 combinando os ensinamentos dos documentos D2 e D3.
+
+       Portanto, a reivindicação 4 não atende ao requisito atividade inventiva, pois decorre de
+maneira evidente ou óbvia para um técnico no assunto a partir dos documentos D2 e D3.
+
+
+
+Conclusão
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                 Publique-se o indeferimento (9.2).
+
+                                                                Rio de Janeiro, 7 de julho de 2021.
+
+
+
+Joao Marcelo Rocha Fontoura
+Pesquisador/ Mat. Nº 1215506
+DIRPA / CGPAT I/DIPOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                          Página 4
+

@@ -1,0 +1,318 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR112014017552-7          N.° de Depósito PCT: EP2013/050772
+ Data de Depósito:     17/01/2013
+ Prioridade Unionista: CN PCT/CN2012/000117 (21/01/2012); CN PCT/CN2012/001113
+                       (20/08/2012)
+ Depositante:          BAYER INTELLECTUAL PROPERTY GMBH (DE)
+ Inventor:             MIGUEL LINO DIAS, GILBERT LABOURDETTE, NORBERTO
+                       HERNANDEZ, HIROYUKI HADANO, INGO WETCHOLOWSKY,
+                       MATIAS PASTORE, AKIHISA OSHIMA, KARL-WILHELM MÜNKS
+ Título:               Utilização de indutores de defesa em hospedeiros para controlar
+                       organismos basterianos prejudiciais em plantas úteis 
+
+                                                              PARECER
+
+
+          Tendo em vista as restrições formuladas pela Requerente, o presente pedido pretende
+proteção para uso de isotianilo como indutor das defesas em hospedeiros para controlar
+organismos bacterianos prejudiciais em plantas úteis, tais como Candidatus Liberibacter
+asiaticus e/ou Xanthomonas campestris pv. citri em citrinos, de Pseudomonas syringae pv.
+actinidae em Kiwi, de Xanthomonas campestris pv. pruni em pêssegos, de Pseudomonas syringae
+pv. glycinea e/ou Xanthomonas axonopodis pv. glycines em soja, de Pseudomonas syringae pv.
+tomato em tomates, e/ou de Streptomyces scabies em batatas.
+
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim       Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                             X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)      X
+
+O pedido refere-se a Sequências Biológicas                                                                       X
+
+Comentários/Justificativas
+
+          O INPI emitiu a exigência de código 6.6.1 na RPI nº 2464 de 27/03/2018, para fins de
+manifestação do depositante quanto à ocorrência de acesso ao Patrimônio Genético nacional
+e/ou Conhecimento Tradicional Associado para obtenção do objeto do presente pedido. Não
+tendo havido manifestação do depositante no prazo de 60 (sessenta) dias contados a partir da
+publicação na RPI, o INPI deu prosseguimento ao exame técnico com o entendimento de que
+não ocorreu o referido acesso, de acordo com entendimento firmado pela Procuradoria Federal
+Especializada                 junto            ao           INPI             (PFE-INPI)   no   Parecer           nº
+00001/2018/PROCGAB/PFE-INPI/PGF/AGU (Processo INPI nº 52400.002142/2018-30).
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                   Página 1
+                                           BR112014017552-7
+
+
+
+                            Quadro 1  Páginas do pedido examinadas
+           Elemento                       Páginas               n.o da Petição                Data
+Relatório Descritivo                      1 a 109               870220115315                09/12/2022
+Quadro Reivindicatório                       1                  870220115315                09/12/2022
+Desenhos                                     1                  020140022268                16/07/2014
+Resumo                                       1                  870220115315                09/12/2022
+
+       Em resposta ao parecer de ciência, notificado na RPI 2697 (13/09/2022), a Requerente
+manifestou-se através da petição 870220115315 (09/12/2022), apresentando novas vias do
+relatório descritivo, do quadro reivindicatório (mais restrito) e resumo, todos utilizados na
+elaboração deste parecer.
+       A Requerente também apresentou um novo título para o pedido, que será incorporado ao
+parecer no caso de deferimento.
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                   Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                              X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                      X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                          X
+O pedido está de acordo com disposto no art. 32 da LPI                           X
+Comentários/Justificativas
+
+       Não foram encontrados impedimentos.
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                   Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI             X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI           X
+Comentários/Justificativas
+
+       Não foram encontrados impedimentos.
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                     Data de publicação
+
+
+                                                                                                 Página 2
+                                       BR112014017552-7
+
+   D1         WO2010089055 A1 (correspondente ao BRPI1008858 A2)                   12/08/2010
+   D2                               EP1031567 A1                                   30/08/2000
+   D3                               GB2442069 A                                    26/03/2008
+   D4      Ogawa M. et al., Applied Development of a Novel Fungicide               31/05/2011
+           Isotianil (Stout®), Sumitomo KAGAKU, R & D Report, pages 1-16
+           https://www.sumitomo-chem.co.jp/english/rd/report/files/docs/201
+           1-1E_01.pdf
+   D5      S. K. Young ET AL, "Effects of bacterricides probenazole,               16/03/1999
+           streptomycin and tecloftalam on bacterial leaf blight of rice",
+           Taoyuan DAIS Bulletin No. 14, Taiwan, pages 50 - 54,
+           https://www.tydares.gov.tw/upload/tydares/files/web_structure/48
+           12/14_7.pdf
+   D6      F. J. LOUWS ET AL, "Field Control of Bacterial Spot and                  05/2001
+           Bacterial Speck of Tomato Using a Plant Activator", PLANT
+           DISEASE, (20010501), vol. 85, no. 5, pages 481 - 488
+           DOI: http://dx.doi.org/10.1094/PDIS.2001.85.5.481
+   D7      JAMES H. GRAHAM ET AL, "Soil Application of SAR Inducers                 06/2011
+           Imidacloprid, Thiamethoxam, and Acibenzolar- S -Methyl for
+           Citrus Canker Control in Young Grapefruit Trees", PLANT
+           DISEASE, (20110601), vol. 95, no. 6, ISSN 0191-2917, pages
+           725 - 728
+           DOI: http://dx.doi.org/10.1094/PDIS-09-10-0653
+   D8       KEIKO YOSHIOKA ET AL, "Probenazole induces systemic                    01/02/2001
+           acquired resistance in Arabidopsis with a novel type of action",
+           THE PLANT JOURNAL, (20010201), vol. 25, no. 2, pages 149 -
+           157
+   D9                               EP2018806 A1                                   28/01/2009
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento                Reivindicações
+                                                    Sim                       1a5
+           Aplicação Industrial
+                                                   Não                         -
+                                                    Sim                       1a5
+                Novidade
+                                                   Não                         -
+
+                                                    Sim                        -
+           Atividade Inventiva
+                                                   Não                        1a5
+Comentários/Justificativas
+
+        Em resposta ao parecer anterior, a Requerente alterou o quadro reivindicatório, de modo
+que a reivindicação 7 do quadro reivindicatório anterior com restrições, foi apresentada como
+nova reivindicação 1. A Requerente buscou reestabelecer a novidade da matéria pleiteada, a
+
+                                                                                          Página 3
+                                         BR112014017552-7
+
+saber uso de indutores das defesas em hospedeiros para controlar organismos bacterianos
+prejudiciais em plantas úteis, caracterizado pelo fato de que é para o controle de Candidatus
+Liberibacter asiaticus e/ou Xanthomonas campestris pv. citri em citrinos, de Pseudomonas
+syringae pv. actinidae em Kiwi, de Xanthomonas campestris pv. pruni em pêssegos, de
+Pseudomonas syringae pv. glycinea e/ou Xanthomonas axonopodis pv. glycines em soja, de
+Pseudomonas syringae pv. tomato em tomates, e/ou de Streptomyces scabies em batatas, e
+sendo que o indutor de defesas no hospedeiro é isotianilo.
+
+       Sendo assim, a Requerente restringiu o uso de isotianilo para controle de
+organismos bacterianos específicos, em plantas úteis específicas, o que não fora revelado
+especificamente no estado da técnica, de modo que a novidade da matéria ora pleiteada no
+presente pedido foi reestabelecida.
+
+       Em suas alegações a Requerente destaca que as análises de novidade e de atividade
+inventiva, feitas no parecer anterior foram equivocadas, pois feitas em retrospectiva, e que não
+há no estado da técnica a antecipação específica da matéria pleiteada, nem um técnico no
+assunto seria motivado ou induzido a efetuar as modificações necessárias, objetivando
+solucionar o problema técnico oferecido pela referida invenção.
+
+       Dando continuidade ao exame, destaca-se novamente a matéria revelada em D1, D4 e
+D9, documentos que revelam em específico o uso de isotianilo contra organismos bacterianos
+prejudiciais em plantas úteis, tal como discutido no parecer anterior:
+
+                      D1 revela o uso de tiadinil (composto I-1) e isotianil (composto I-15) no controle
+                      de Xanthomonas campestris pv. Oryzae (página 8, linhas 20-21 e página 10,
+                      linhas 13-14; página 19 linha 13), e em plantas modificadas (página 24, linhas
+                      26-30). Especificamente D1 lista o uso dos compostos revelados naquele
+                      documento para controle de Acidovorax avenae,           Pseudomonas syringae,
+                      Pseudomonas syringae pv. glycinea, Pseudomonas syringae pv. tomato,
+                      Pseudomonas syringae pv. lachrymans, Streptomyces spp., Xanthomonas spp.,
+                      Xanthomonas axonopodis, Xanthomonas axonopodis pv. citri, Xanthomonas
+                      axonopodis pv. glycines, Xanthomonas campestris, Xanthomonas fragariae e
+                      Xanthomonas transluscens.
+
+                      D4 descreve o uso de isotianil contra doenças e plantas Pseudomonas syringae
+                      pv. lachrymans, Burkholderia glumae, Xanthomonas oryzae e Erwinia herbiola.
+                      Também avalia o uso do isotianil junto com clotianidina. Além disso, D4 compara o
+                      efeito de isotianil com probenazole (outro composto citado no quadro
+                      reivindicatório válido do presente pedido).
+
+                      D9 descreve o uso de uma combinação de isotianil, imidaclopride e outro fungicida
+                      ou inseticida contra Xanthomonas, Pseudomonas e Erwinia.
+
+
+
+
+                                                                                                Página 4
+                                       BR112014017552-7
+
+       Com a restrição formulada pela Requerente e suas alegações, se torna necessário voltar
+ao estado da técnica, em especial a D1 (documento cuja Requerente é BAYER CROPSCIENCE
+AG).
+
+       Como dito acima, em D1, isotianil corresponde ao composto I-15. O uso desde
+composto para o combate de organismos nocivos bacterianos em plantas úteis (incluindo
+as plantas transgênicas) é especificamente identificado no quadro reivindicatório de D1
+(utilizado a seguir seu correspondente BRPI1008858 A2, para facilitar o entendimento):
+
+
+
+
+       D1 prevê o método de controle (página 11 do relatório descritivo, a partir da linha 30) e o
+uso do composto i-15 no controle de organismos bacterianos prejudiciais em plantas uteis,
+especificamente contra Xanthomonas (página 16 do relatório descritivo, a partir da linha 19), por
+exemplo:
+
+
+
+
+       Em D1 há uma lista de organismos bacterianos prejudiciais (página 17 do relatório
+descritivo (RD), a partir da linha 15), indicando que são particularmente importantes os gêneros
+Xanthomonas e das Pseudomonas, e entre os exemplos de bactérias fitopatogênicas citadas
+estão aqueles definidos na atual reivindicação 1:
+
+       - Xanthomonas campestris pv. citri (linha 29 página 19 do RD)
+
+                                                                                          Página 5
+                                          BR112014017552-7
+
+       - Pseudomonas syringae (linha 06 página 19 do RD)
+
+       - Xanthomonas campestris (linha 26 página 19 do RD)
+
+       - Pseudomonas syringae pv. Glycinea (linha 09 página 19 do RD)
+
+       - Pseudomonas syringae pv. Tomato (linha 14 página 19 do RD)
+
+       - Streptomyces scabies (linha 21 página 19 do RD)
+
+       - Xanthomonas axonopodis pv. Glycines (linha 25 página 19 do RD)
+
+
+
+       Em D1 na página 17, linha 21, são definidas plantas de interesse, particularmente
+batatas, algodão, tomate, trigo, cevada, arroz, soja, frutas cítricas; além disso há uma lista de
+plantas úteis (parágrafo 2 da página 22 do RD), onde são citados entre outros, pêssego e kiwi.
+
+       Destaca-se que no exemplo de eficácia descrito em D1 foi empregado o composto I-15,
+que foi avaliado quanto ao controle de Xanthomonas campestris pv. Oryzae (a partir da linha
+30, página 39 do relatório descritivo).
+
+       Sendo assim, diferente do entendimento da Requerente, um técnico no assunto não só
+chegaria ao uso de isotianilo (composto I-15 de D1), para controlar organismos bacterianos
+prejudiciais em plantas úteis, a partir da matéria revelada em D1, mas seria levado ou ainda
+motivado, a testar o composto I-15 (único composto cuja eficácia foi demonstrada em D1) no
+controle de organismos bacterianos prejudiciais em plantas úteis, em específico Xanthomonas,
+Pseudomonas, Xyllela, Streptomyces, entre outras, com expectativa de sucesso.
+
+       A especificação das plantas uteis, correlacionada a organismos específicos controlados
+por isotianilo, no novo quadro reivindicatório, é capaz de reestabelecer a novidade da matéria
+pleiteada, pois não fora especificamente revelada tal interação em D1, visto que há uma lista de
+plantas uteis e uma outra de organismos bacterianos prejudiciais. Mas não foi demonstrado um
+resultado inesperado no presente pedido, quanto a matéria ora pleiteada, frente à matéria
+revelada no estado da técnica.
+
+       Inclusive a própria Requerente em seus ensaios descreve, por exemplo: Exemplo 4b:
+controle de infestação por Pseudomonas syringae com isotianilo em tomates ou Exemplo 5:
+controle de infestação por Xanthomonas campestris com isotianilo em pessegueiros, fazendo a
+referência genérica, quando utilizou respectivamente Pseudomonas syringae pv. tomato e
+Xanthomonas campestris pv. pruni. nos ensaios, dando a entender que espera resultados
+semelhantes para organismos do mesmo gênero.
+
+       Sendo assim, com base na discussão acima, considera-se que a matéria pleiteada não
+atende ao requisito de atividade inventiva, pois não fora apresentado resultado inesperado frente
+ao estado da técnica, estando em desacordo com os Artigos 8º e 13 da LPI.
+
+
+
+
+                                                                                         Página 6
+                                       BR112014017552-7
+
+Conclusão
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                            Rio de Janeiro, 15 de março de 2023.
+
+
+
+
+Romi Lamb Machado
+Chefe de Divisão/ Mat. Nº 1473272
+DIRPA / CGPAT II/DIPAQ
+Deleg. Comp. - Port. INPI/PR Nº023/12
+
+
+
+
+                                                                                         Página 7
+

@@ -1,0 +1,199 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102016016661-6          N.° de Depósito PCT:
+ Data de Depósito:                   19/07/2016
+ Prioridade Unionista:               -
+ Depositante:                        UNIVERSIDADE ESTADUAL DO MARANHÃO (BRMA)
+ Inventor:                           PÉRICLES MENDES NUNES, GREICY KELLY CERQUEIRA DOS
+                                     SANTOS, REGILENE DE SOUSA SILVA, DANIELE PAVÃO E
+                                     PAVÃO, FERNANDA MARIA DOS REIS LIMA, JÚLIO CESAR
+                                     ARAGÃO FERNANDES JÚNIOR, JOYCE FERNANDA JANUÁRIA DA
+                                     SILVA, LEANDRO LIMA DO NASCIMENTO @FIG
+ Título:                             Analisador de compostos orgânicos voláteis de tintas e vernizes 
+
+                                                                PARECER
+
+
+          O presente pedido de patente de invenção sofreu ciência de parecer (7.1) conforme
+publicação na RPI n° 2641 de 17 de agosto de 2021, tendo se manifestado acerca do conteúdo
+do parecer via petição nº 870210105590 de 16/11/2021. Em sua manifestação, a requerente
+apresentou contra-argumentos relativos ao parecer denegatório de privilégio. Para fins de
+continuidade do exame estão sendo consideradas as vias abaixo.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                       1-5               870210032147           08/04/2021
+Quadro Reivindicatório                                      1                870210105590           16/11/2021
+
+Desenhos                                                   1-3               870210032147           08/04/2021
+Resumo                                                      1                870210032147           08/04/2021
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                       x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                Página 1
+                                          BR102016016661-6
+
+
+O pedido está de acordo com disposto no art. 32 da LPI                    x
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                    x
+Comentários/Justificativas
+
+
+      A reivindicação 1 não atende ao disposto no Art. 25 da LPI e na Instrução Normativa nº
+30/2013  Art. 4º (VII), pois cada reivindicação deve ser redigida sem interrupção por pontos.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                  CN201732073                                02/02/2011
+    D3       E. Dines, H. Al-Majeed, A. Fernando, M. Abdalla and J. Gohil,             2012
+             "A new WSN paradigm for environmental monitoring and data
+             collection," Australasian Telecommunication Networks and
+             Applications Conference (ATNAC) 2012, 2012, pp. 1-6, doi:
+             10.1109/ATNAC.2012.6398057.
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento            Reivindicações
+                                                         Sim                     1-3
+            Aplicação Industrial
+                                                         Não                     --
+                                                         Sim                     1-3
+                 Novidade
+                                                         Não                     --
+
+                                                         Sim                     --
+            Atividade Inventiva
+                                                         Não                     1-3
+
+
+
+Comentários/Justificativas
+
+
+         Com relação à análise dos requisitos de patenteabilidade, o depositante se manifestou
+defendendo que a matéria reivindicada cumpre os requisitos de patenteabilidade. Dentre os
+principais argumentos trazidos pelo depositante, destacam-se:
+
+
+
+
+                                                                                          Página 2
+                                          BR102016016661-6
+
+
+          O requerente reiterou que o documento D1 (CN201732073) possui circuito de
+microprocessador que depende de periféricos adicionais para realizar a execução dos
+dados e monitoramento constante do seu funcionamento necessitando de outro dispositivo
+para processar e armazenar os dados.
+          Concorda-se com o requerente, que apesar de D1 também utilizar um microcontrolador e
+o mesmo sensor MQ138 para obter informações de concentração de formaldeído e
+monitoramento do ambiente, ainda há algumas diferenças construtivas relevantes. Dessa forma,
+foi apresentado o documento D3 no parecer anterior, pois acredita-se ser mais próximo ao
+pedido em questão. No entanto o requerente se limitou a informar que crê que em relação ao
+documento D3 não contemple de forma óbvia a presente invenção.
+          Reavaliando o quadro reivindicatório a partir das alegações trazidas pelo depositante,
+entendo que tais alegações não são suficientes para superar as objeções referentes à falta de
+atividade inventiva da matéria reivindicada.
+
+
+          A matéria definida nas reivindicações de 1 a 3 possui aplicação industrial, e é
+considerada nova, pois nenhum documento do estado da técnica reuni todas as características
+do presente pedido. Portanto, as reivindicações de 1 a 3 estão de acordo com os artigos 11 e 15
+da LPI.
+          A reivindicação 1 não atende ao requisito de atividade inventiva, pois todas as
+características pleiteadas decorrem de modo óbvio e evidente para um técnico no assunto a
+partir do documento D3, conforme a seguir:
+
+
+
+
+          O documento D3 refere-se a um sistema para monitoramento ambiental e coleta de
+dados. O documento D3 antecipa o sistema eletrônico portátil          constituído   pelo mesmo
+microcontrolador (ATmega328) embarcado em uma placa de circuito tipo Arduíno® ou
+similar; antecipa o uso de um sensor químico tipo MQ138 ou outro sensor similar para
+compostos orgânicos voláteis, e um bateria de 9 volts, conforme pode ser observado na seção
+III DESIGN. Projeto e na figura abaixo.
+
+
+
+
+                                                                                         Página 3
+                                       BR102016016661-6
+
+
+       As reivindicações dependentes não apresentam características técnicas relevantes,
+mesmo quando combinadas com as características da reivindicação independente a que se
+refere, que sugiram a presença de atividade inventiva.
+
+
+       Portanto, a partir da análise do documento D3 prossigo com o entendimento que a
+matéria pleiteada na reivindicação não atende ao requisito atividade inventiva e não atende ao
+disposto no artigo 13 da Lei nº 9.279/96 (LPI) e não é patenteável por infringir o artigo 8º do
+mesmo dispositivo legal.
+
+
+       A requerente não apresenta consistência em suas argumentações, a matéria pleiteada
+não contempla efeitos técnicos que não tenham sido previstos pelo estado da técnica, e
+consequentemente descumprindo o disposto nos artigos 8º e 13 da LPI.
+
+Conclusão
+
+
+       Portanto, analisando a contestação da requerente e face ao exposto acima, conclui-se
+que a matéria reivindicada no presente pedido de invenção decorre de forma óbvia do estado da
+técnica a partir do documento D3.
+
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+             não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da
+LPI)
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+                                                           Rio de Janeiro, 01 de fevereiro de 2022.
+
+
+
+
+Reginaldo Rocha da Silva
+Pesquisador/ Mat. Nº 1690865
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº
+008/13
+
+
+
+
+                                                                                          Página 4
+

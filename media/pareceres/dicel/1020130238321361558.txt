@@ -1,0 +1,223 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102013023832-5          N.° de Depósito PCT:
+ Data de Depósito:                   17/09/2013
+ Prioridade Unionista:               US 13/621,794 (17/09/2012)
+ Depositante:                        OPENTV, INC. (US)
+ Inventor:                           JOHN TINSMAN; THOMAS HUBER; THOMAS LEMMONS; IAN
+                                     ZENONI
+ Título:                             Localização automática de anúncio 
+
+                                                              PARECER
+          O presente pedido teve parecer de ciência(7.1), tendo em vista primeira conclusão
+de ausência de atividade inventiva frente ao estado da tecnica, considerando-se os
+ensinamentos dos documentos US20050137958(D1) e US20040189873(D2), tendo como
+base legal os artigos 8 e 13 da LPI. A publicação do referido parecer sendo feita conforme
+RPI n. 2596 de 06/10/2020.
+
+            O requerente então, conforme petição 870200162929 de 30/12/2020, apresentou
+manifestação, contestando o estado da tecnica, bem como apresentou novo quadro
+reivindicatorio.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                             1/104 a 104/104             870200162929           30/12/2020
+
+Quadro Reivindicatório                                1/7 a 7/7              870200162929           30/12/2020
+
+Desenhos                                            1/38 a 38/38             870200080194           26/06/2020
+Resumo                                                     1/1               870200162929           30/12/2020
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR102013023832-5
+
+
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+
+
+
+
+                            Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1           US20050137958                                                     23/06/2005
+    D2           US20040189873                                                     30/09/2004
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                    1-15
+           Aplicação Industrial
+                                                        Não                    Nenhuma
+                                                         Sim                    1-15
+                 Novidade
+                                                        Não                    Nenhuma
+
+                                                         Sim                   Nenhuma
+           Atividade Inventiva
+                                                        Não                     1-15
+
+
+
+Comentários/Justificativas
+
+1. As alegações do requerente foram analisadas.
+
+
+
+2. Entende-se que apesar das modificações no quadro reivindicatorio, seu aspecto tecnico e de
+conhecimento de D1 e de parte de D2 sendo o único diferencial a resolução de um problema
+administrativo/marketing.
+
+
+
+3. Desta forma, tecnologias envolvendo redes de computadores, inserção grafica em
+imagens,seleção de conteudo,extração de caracteristicas em videos,e inserção de marcadores
+são de conhecimento ao menos de D1. Ademais a solução tecnica e generica e carece de
+
+
+
+
+                                                                                          Página 2
+                                      BR102013023832-5
+
+
+detalhes(de como o objeto e reconhecido usando tecnicas de processamento de imagem) para
+a solução do problema que o requerente alega ser tecnico.
+
+
+
+4. Quanto ao novo quadro, na reivindicação 1, metodo computacional a montante, conforme
+tambem mostra D1(sumario da invenção) e D2(abstract),onde o processamento/envio a
+montante ou a juzante e mera escolha de um tecnico no assunto, em que e antecipado:
+
+  identificar automaticamente, por um componente de reconhecimento de padrão, um tipo de
+padrão em um programa de vídeo, o tipo de padrão compreendendo um objeto ou um espaço
+vazio no programa de vídeo,conforme D1(paragrafos 85 e 124) e D2(paragrafo 165);
+
+    gerar uma etiqueta, em resposta à identificação do tipo de padrão, para identificar uma
+localização do objeto identificado ou espaço vazio em uma ou mais imagens do programa de
+vídeo, o objeto identificado ou espaço vazio sendo móvel de uma imagem para uma imagem
+seguinte no programa de vídeo,conforme D1(paragrafos 132 e 136);
+
+     receber, por um mecanismo de transmissão da fonte a montante, um sinal de transmissão
+compreendendo o programa de vídeo, incluindo a etiqueta que identifica, por um mecanismo de
+identificação da fonte a montante, uma publicidade não local em uma parte do programa de
+vídeo para modificação comparando a etiqueta no sinal de transmissão com atributos
+armazenados, de um ou mais anunciantes, associados com o objeto identificado ou espaço
+vazio,conforme D1(paragrafo 136);
+
+   determinar, por um mecanismo de recuperação da fonte a montante, que os dados de
+publicidade localizada correspondem à publicidade não local identificada na parte do programa
+de vídeo,conforme D1(paragrafos 122 a 124 e paragrafo 76);
+
+     em resposta à determinação de que os dados de publicidade localizada correspondem à
+publicidade não local identificada na parte do programa de vídeo, acionar recuperação dos
+dados de publicidade localizados que correspondem à publicidade não local,conforme
+D1(paragrafos 122 e 124);
+
+      determinar, usando reconhecimento de conteúdo aplicado a uma imagem da publicidade
+não local baseada na etiqueta, uma localização dentro da imagem da publicidade não local onde
+a publicidade localizada recuperada deve ser inserida,conforme D1(paragrafos 80 a 81 e 122 a
+
+124) e D2(paragrafo 44);
+
+       gerar, usando um ou mais processadores da fonte a montante,um sinal de transmissão
+alterado, a geração compreendendo:
+
+          inserir graficamente os dados de publicidade localizada recuperados na imagem da
+publicidade não local na localização determinada baseada na etiqueta, em que a inserção é
+executada após um atraso após a publicidade não localizada ter começado,conforme
+D1(paragrafo 83);
+
+
+
+
+                                                                                        Página 3
+                                         BR102013023832-5
+
+
+     remover os dados de publicidade localizada inseridos graficamente a partir da localização
+determinada dentro da imagem da publicidade não local,conforme D1(paragrafo 152);
+
+         transmitir, por um mecanismo de transmissão da fonte a montante, o sinal de transmissão
+alterado que inclui os dados de publicidade localizada inseridos graficamente na publicidade não
+local para o dispositivo de usuário,conforme D1(paragrafo 176);
+
+             Desta forma a materia contida na reivindicação 1 esta antecipada pelo estado da
+tecnica não apresentando atividade inventiva.
+
+
+
+5. Quanto a reivindicação 10, o referido metodo armazenado pela midia constitui-se de
+etapas que consistem de mera replicação de materia do metodo da reivindicação 1, desta
+forma mutatis mutantis, as mesmas razões para a analise da reivindicação 1 vale para a
+reivindicação 10.
+
+
+
+6. Quanto a reivindindicação 15 o referido sistema, consiste no conjunto de aparatos
+eletrônicos de processamento digital/trasmissão necessario para implementação das
+etapas do metodo da reivindicação 1, e e  mostrado por D1(figuras 1,3 e 5) e D2(Figuras 1
+a 14);
+
+
+
+7. Quanto as reivindicações dependentes, consistem de meros detalhamentos que não
+apresentam atividade inventiva.
+
+
+
+Conclusão
+
+         Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+         -     não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da
+               LPI)
+
+         De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                  Publique-se o indeferimento (9.2).
+
+                                                             Rio de Janeiro, 6 de fevereiro de 2021.
+
+
+
+
+Ronaldo de Oliveira
+Pesquisador/ Mat. Nº 1546951
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+004/15
+
+
+
+
+                                                                                           Página 4
+

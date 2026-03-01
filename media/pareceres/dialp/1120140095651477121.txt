@@ -1,0 +1,198 @@
+                                  SERVIÇO PÚBLICO FEDERAL
+                                  MINISTÉRIO DA ECONOMIA
+                       INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112014009565-5                        N.° de Depósito PCT: EP2012/070728
+ Data de Depósito:                   19/10/2012
+ Prioridade Unionista:               US 61/549844 (21/10/2011)
+ Depositante:                        INTERVET INTERNATIONAL B.V. (NL)
+ Inventor:                           STEPHANIE COOK, MOHAMAD MORSEY, GARY PETERSEN,
+                                     PAULUS JACOBUS ANTONIUS SONDERMEIJER
+ Título:                             Vírus da doença de marek não patogênico recombinante, ácido
+                                     nucleico recombinante, vacina, e, método para ajudar na proteção de
+                                     um frango contra vírus 
+
+                                                               PARECER
+
+
+          O presente pedido refere-se a herpesvirus recombinantes de Peru (rHVT) multivalente
+contendo antígenos do vírus da laringotraqueíte infecciosa e do vírus da doença de Newcastle.
+          O INPI inicialmente emitiu relatório de busca através de Exigência Preliminar - despacho
+6.21 - cuja notificação foi publicada pela RPI nº 2573 de 28/04/2020. A depositante manifestou-se
+por meio da petição nº 870200090366 de 21/07/2020 apresentando argumentações técnicas e
+propondo novas páginas do relatório descritivo, quadro reivindicatório, resumo, desenhos e
+Listagem de Sequências. Em parecer técnico inicial, foi emitido um parecer de ciência (7.1) com
+base nos arts. 8°, 13, 24 e 25 da LPI e no documento US5853733 (D1). Em resposta, através da
+petição nº 870210070094 de 02/08/2021, a requerente manifestou-se e propôs um novo quadro
+reivindicatório, com 10 reivindicações.
+          Considerando a matéria ora pleiteada, os pareceres técnicos anteriores e a manifestação
+apresentada, são realizadas as seguintes observações:
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                                 Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                       X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)        X
+
+O pedido refere-se a Sequências Biológicas                                                                 X
+
+Comentários/Justificativas
+- A requerente, através da petição n° 870210069962 de 02/08/2021, apresentou declaração
+negativa do acesso à amostra do Patrimônio Genético Nacional. Dessa forma, a irregularidade
+relativa a declaração foi superada.
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                     Página 1
+                                      BR112014009565-5
+                           Quadro 1  Páginas do pedido examinadas
+           Elemento                     Páginas               no da Petição               Data
+Relatório Descritivo                      1 a 59              870200090366              21/07/2020
+Listagem de sequências*           Código de Controle          870200090366              21/07/2020
+Quadro Reivindicatório                    1a3                 870210070094              02/08/2021
+Desenhos                                  1e2                 870200090366              21/07/2020
+Resumo                                      1                 870200090366              21/07/2020
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+     3A7F9ECAE2E45CF9 (Campo 1) e 659E0F87B074DB08 (Campo 2).
+       -
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei no 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                Sim           Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                          X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                  X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                       X
+O pedido está de acordo com disposto no art. 32 da LPI                        X
+Comentários/Justificativas
+       -
+
+              Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                    Sim        Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                             X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                           X
+Comentários/Justificativas
+
+- Como indicado no parecer técnico inicial, sequências biológicas não devem ser caracterizadas
+como sequência de nucleotídeos que codifica uma proteína gD do vírus da laringotraqueíte
+infecciosa, sequência de nucleotídeos que codifica uma proteína gI do vírus da laringotraqueíte
+infecciosa, sequência de nucleotídeos que codifica uma proteína de fusão do vírus da doença de
+Newcastle, US2, UL54.5, segundo sítio não essencial está entre os genes UL7 e U8,
+promotor de gD de ILTV endógeno, promotor de gI de ILTV endógeno, promotor
+imediatamente precoce de citomegalovírus de humano, sequência codificante para a proteína gD
+de ILTV, sequência codificante para a proteína gI de ILTV, uma sequência codificante para a
+proteína de fusão do vírus da doença de Newcastle, sequência finalizadora de transcrição, 90%
+de identidade ou o único ácido nucleico recombinante. Essas expressões são pouco claras e/ou
+imprecisas e estão em desacordo com as Diretrizes de Exame de Pedidos de Patente na Área de
+Biotecnologia (Sequências biológicas  Como caracterizar), Resolução n° 118 de 12/11/2020. A
+
+                                                                                             Página 2
+                                       BR112014009565-5
+matéria pleiteada está em desacordo com o disposto no art. 25 da LPI e também não atende ao
+disposto no art. 24 da LPI.
+
+
+
+                         Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                           Data de publicação
+    D1                                US5853733                                     1998
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade           Cumprimento              Reivindicações
+                                                     Sim                   1 a 10
+            Aplicação Industrial
+                                                     Não                      -
+                                                     Sim                   1 a 10
+                 Novidade
+                                                     Não                      -
+
+            Atividade Inventiva                      Sim                      -
+
+                                                     Não                   1 a 10
+
+Comentários/Justificativas
+         Considerando o procedimento determinado nos itens 5.1.6 e 5.2.1 e do art. 2º da
+Portaria/INPI/DIRPA N° 01/2021 e da limitação imposta à presente análise técnica pelo artigo 5º
+da Resolução INPI/PR nº 241/19, a matéria ora pleiteada foi confrontada apenas com os
+documentos considerados estado da técnica na busca realizada na etapa de exigência de
+Pré-exame (6.21), publicada na RPI nº 2573 de 28/04/2020.
+         Na manifestação apresentada através da petição n° 870210070094 02/08/2021, a
+requerente alega que antes do presente pedido, nenhuma vacina multivalente compreendendo
+um HVT recombinante que codifica antígenos de mais de um patógeno demonstrou ser estável e
+eficaz, apesar de conhecidas no estado da técnica.
+         A requerente argumenta que quando o vetor HVT multivalente foi realmente construído,
+verificou-se que durante a passagem desse vírus recombinante em cultura de tecidos ele perdeu
+sua capacidade de expressar as proteínas gD de ILTV, gI de ILTV e F de NDV. Isto provou ser
+verdade com várias construções de rHVT recombinantes duplicados. Na verdade, esses vírus
+recombinantes eram instáveis e inadequados para desenvolvimento adicional como vacinas. É
+apontado que uma diferença crítica entre a presente invenção e o estado da técnica é os
+construtos pleiteados seriam geneticamente estáveis e imunologicamente eficazes como vacinas.
+         Também é apresentado uma declaração de um dos inventores - Stephanie M. Cook -
+declarando foram revelados cerca de 6 a 8 constructos recombinantes duplos de HVT (exemplo
+16D de D1, itens 5 e 6 da referida declaração no Anexo 3), mas que nenhum desses
+recombinantes foram construídos. É por isso não haveria em D1 dados experimentais com
+relação à estabilidade ou eficácia.
+                                                                                       Página 3
+                                          BR112014009565-5
+
+       Em relação as argumentações apresentadas têm-se que:
+- A própria requerente afirma, em sua manifestação, que vírus recombinantes com as
+características do ora pleiteado já tinham sido revelados em D1 (vide Exemplo 16D). O fato da
+requerente ter pleiteado esses constructos sem a concretização destas, não modifica o fato que
+esses constructos foram revelados (e pleiteados) em D1.
+- Em relação a ausência de dados de estabilidade em D1, verifica-se que tampouco são
+apresentados quaisquer dados de avaliação ou análise de estabilidade dos constructos pleiteados
+no presente pedido.
+- A requerente, na manifestação (petição nº 870210070094 de 02/08/2021), apresenta testes e
+resultados de avaliação de estabilidade genética na forma de Anexos. Essas informações e
+análises são posteriores a data de depósito do presente pedido (datas de 27/01/2014 e
+27/11/2019, respectivamente) e não fazem parte do rol da matéria inicialmente revelada no
+presente pedido.
+       Portanto, as argumentações apresentadas na manifestação não superam a ausência de
+atividade inventiva frente a D1, representativo do estado da técnica. Dessa forma é mantida a
+objeção de falta de atividade inventiva da matéria, por não atender ao disposto nos art. 8° e 13 da
+LPI.
+
+
+Conclusão
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+       -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+       -   não apresenta suficiência descritiva (Art. 24 da LPI)
+
+       -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+           descritivo (Art. 25 da LPI).
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                   Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 13 de setembro de 2021.
+
+
+
+
+Marcia Tie Kawamura
+Pesquisador/ Mat. Nº 1358397
+                                                                                            Página 4
+                                     BR112014009565-5
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                        Página 5
+

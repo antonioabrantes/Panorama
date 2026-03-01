@@ -1,0 +1,247 @@
+                              SERVIÇO PÚBLICO FEDERAL
+                               MINISTÉRIO DA ECONOMIA
+                 INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+                             RELATÓRIO DE EXAME TÉCNICO
+ N.° do Pedido:        BR112017012497-1          N.° de Depósito PCT:EP2015/078422
+ Data de Depósito:     02/12/2015
+ Prioridade Unionista: EP 14197760.3 (12/12/2014)
+ Depositante:          BP P.L.C. (GB)
+ Inventor:             Ewen Ferguson, Manuel Ojeda Pineda, Alexander Paterson, Matthew
+                       James Wells
+ Título:               Processo de Fischer-Tropsch utilizando catalisador de cobalto ativado
+                       de forma redutiva
+                                                                PARECER
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-20               870200018281           07/02/2020
+Quadro Reivindicatório                                     1-5               870210039819           03/05/2021
+Desenhos                                                 -------                  -------             -------
+Resumo                                                      1                870200018281           07/02/2020
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                       x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                                    x
+Comentários/Justificativas
+# Na reivindicação 16, verifica-se a existência de um número elevado de possibilidades de metais
+promotores, os quais são empregados na preparação do material catalisador de FT, aspectos
+estes que propõem uma generalização ampla, conforme indicada a partir do termo suas
+misturas, o que tornam o citado objeto impreciso, e, por isso, contraria o Artigo 25 da LPI, e
+aquilo que preconiza a Instrução Normativa IN30/2013 (Art.4o(III)).
+# Na reivindicação 26, verifica-se que no processo de preparação do catalisador de FT não são
+incluídas características intrínsecas de um processo de preparação de catalisadores, as quais
+envolvem aspectos, tais como, quantidades relativas e/ou absolutas dos materiais precursores,
+temperatura, agitação, conformação e tratamento térmico (calcinação) e impregnação, mas de
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                Página 1
+                                      BR112017012497-1
+
+forma muito ampla, apenas as condições de pré-tratamento ou redução. Nesse sentido, os
+referidos aspectos não definem um processo de preparação de um catalisador de cobalto
+suportado, de acordo com os critérios de precisão e clareza. Portanto, a reivindicação 26
+encontra-se em desacordo com o Artigo 25 da LPI, como também, com aquilo que preconiza a
+Instrução Normativa IN30/2013 (Art. 4º (III)).
+                        Quadro 4  Documentos citados no parecer
+
+ Código                              Documento                              Data de publicação
+    D3                              US5981608A                                  09/11/1999
+    D4                              US6130184A                                  10/10/2000
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade           Cumprimento                Reivindicações
+                                                  Sim                       1-25; 26
+            Aplicação Industrial
+                                                  Não
+                                                  Sim                       1-25; 26
+                 Novidade
+                                                  Não
+                                                  Sim
+             Atividade Inventiva
+                                                  Não                       1-25; 26
+Comentários/Justificativas
+
+         A documentação analisada neste exame técnico se baseia no quadro reivindicatório
+reformulado, com um total de 26 reivindicações, adaptado às disposições da Instrução Normativa
+IN30/2013,     e ainda, do arrazoado interposto por manifestação da requerente quanto aos
+questionamentos indicados pelo INPI do escopo reivindicado, conforme apresentada a partir da
+petição nº870210039819 de 03/05/2021 como resposta ao parecer técnico de ciência notificado na
+RPI nº2613 de 02/02/2021.
+         Baseado nas referências do estado da técnica US5168091A(D3) e US6130184A(D4), a
+requerente apresenta suas alegações em relação ao parecer de ciência, adequando o escopo
+reivindicado de forma a fundamentar que as anterioridades D3 e D4 não podem antecipar, indicar
+ou sugerir uma solução técnica equivalente ao processo de Fischer-Tropsch utilizando catalisador
+de cobalto ativado de forma redutiva, conforme a descrição das matérias das reivindicações 1-
+25(processo) e 26(processo de preparação do catalisador) do quadro reformulado.
+         A solução do problema da técnica visa prover a melhoraria e manutenção das
+propriedades dos catalisadores de FT, em particular, catalisadores de cobalto suportado em
+titânia, de forma a obter uma atividade em conversão de gás de síntese para obtenção de
+hidrocarbonetos em temperaturas brandas e uma seletividade aprimorada quanto a produção de
+hidrocarbonetos C5+ e, concomitantemente, reduzir a quantidade de metano formada na síntese.
+Nesse sentido, uma etapa de redução com hidrogênio do referido catalisador, sob condições mais
+brandas de temperatura são assim empregadas para, simultaneamente, alcançar uma atividade
+catalítica e seletividade para C5+ aumentada na conversão de gás de síntese em processos de FT.
+         Essencialmente a requerente alega no manifesto interposto, que os documentos D3 e D4
+citados não preconizam a solução técnica proposta pelo escopo reivindicado, e nem mesmo o
+efeito inesperado de melhoria de seletividade do corte C5+ durante o processamento de FT a partir
+
+
+
+                                                                                         Página 2
+                                        BR112017012497-1
+
+
+do catalisador de cobalto suportado em titânia, de acordo com as condições de redutibilidade
+impostas ao referido material catalisador.
+       Em relação ao documento D3, a requerente alega que a referência descreve um processo
+de preparação de cobalto suportado contendo metais promotores como manganês e/ou vanádio,
+para uso na síntese de hidrocarbonetos por FT, a partir da alimentação de monóxido de carbono e
+hidrogênio. Em particular, a requerente alega que D3 divulga uma faixa muito ampla de redução,
+compreendida no intervalo entre 100°C a 450°C, e que mesmo tendo em conta as concretizações
+de trabalho que apontam especificamente o catalisador de cobalto suportado, a referência traria
+uma faixa de temperatura de redução que encontra-se fora do escopo reivindicado.
+       Em particular, a requerente sustenta que o catalisador de cobalto suportado em titânia,
+exemplificado por D3, encontra-se reduzido na presença de hidrogênio na temperatura de 260oC
+por um período de 24horas (conforme o exemplo II), para só então ser empregado na síntese de
+hidrocarbonetos por FT (conforme o exemplo II).
+       Em relação ao documento D4, a requerente alega que a anterioridade, de forma a similar a
+D3, preconiza uma faixa ampla de temperatura de redução para ativar o catalisador de cobalto
+suportado na síntese de FT. A requerente aponta que os catalisadores de cobalto suportado em
+titânia e contendo o metal promotor de manganês, conforme prescritos nos exemplos III-V são
+também reduzidos na temperatura de 260oC por um período de 24hs de duração, os quais são
+preparados conforme a descrição dos exemplos VII e VIII da referência.
+       Diferentemente do estado da técnica citado, a requerente sustenta que o escopo
+reivindicado preconiza um catalisador de metais suportados compreendido por um teor de cobalto
+que varia entre 5-30%(p/p) e manganês na faixa entre 0,5-2,5%(p/p), cujo pré-tratamento da a
+partir da redução da fase metálica ativa se dá dentro de uma faixa de temperatura de 220-250°C
+por um período de 7 a 20 horas.
+       A requerente sustenta também que as faixas de temperatura ensinadas e sugeridas pelos
+documentos D3 e D4 são ambas muito amplas (100-450oC), enquanto que nas concretizações
+preferenciais de D3 e D4, em que se empregam catalisadores de cobalto suportado, os referidos
+catalisadores são reduzidos ou ativados a 260oC. Por isso, a requerente entende que ao assumir
+as anterioridades D3 e D4, um técnico no assunto não seria motivado empregar o intervalo de
+temperatura de redução entre 220°C a 250°C, conforme o previsto pelo reivindicado.
+       Por outro lado, a requerente alega não ser plausível a partir de D3 e D4, alcançar um
+método de ativação redutiva de um catalisador de cobalto suportado em dióxido de titânio, antes
+do uso em um processo de conversão de uma alimentação de hidrogênio e monóxido de carbono
+por FT, a partir uma etapa prévia de pré-tratamento, que pudesse a partir de temperatura mais
+elevada, conforme 260oC, exibir um desempenho comparável ou melhorado em termos de
+atividade e seletividade em relação ao corte de produtos C5+, assim como maior eficiência
+energética.
+       Nesse sentido, com a finalidade de comprovar suas alegações, a requerente afirma a partir
+dos exemplos 5-7 constantes no relatório descritivo do presente pedido, que o processo de
+conversão de gás de síntese em hidrocarbonetos, a partir do tratamento redutivo do catalisador de
+cobalto suportado, conforme as condições estabelecidas pelo escopo, resultam em desempenho
+
+
+                                                                                        Página 3
+                                       BR112017012497-1
+
+
+em termos de seletividade para a faixa de corte de hidrocarbonetos C 5+ seria inesperada e não
+prevista pelo estado da técnica, conforme citado pelo estado da técnica.
+       Reexaminando o presente pedido conforme o estado da técnica citado por D3 e D4, e com
+base a partir das alegações da requerente, cabe aqui fazer algumas considerações acerca do
+escopo reivindicado.
+       O documento D3 descreve um catalisador de cobalto e manganês e/ou vanádio suportados
+empregado em um processo de preparação de hidrocarbonetos, o qual apresenta uma razão
+atômica de Co:(Mn+V) de pelo menos 12:1, preferencialmente, com um valor máximo de 1500:1,
+cujo suporte do catalisador é preferencialmente compreendido por titânia.
+       D3 sugere e indica que o referido catalisador de cobalto e metal promotor suportados
+apresenta uma quantidade mássica das referidas fases metálicas, em que o teor em cobalto é
+definido na faixa entre 5-40%(p/p), e do promotor, conforme o metal de Mn, na faixa entre 0,1-150
+partes (ver coluna 4, linhas 23-40).
+       Em particular, ao verificar a concretização de trabalho dos exemplos II ou III da referência,
+observa-se em que ambos os catalisadores suportados em titânia apresentam um teor total em
+metal de 10% em massa, cujas razões atômicas Co:Mn são, respectivamente, de 20:1(21,45:1)
+(em massa) e 10:1(10,72:1) (em massa). Sendo assim, depreende-se que o catalisador da
+concretização do exemplo II apresenta uma composição de 9,55%(p/p) de Co e 0,45%(p/p) de
+Mn, enquanto que o catalisador do exemplo III apresenta uma composição de 9,15%(p/p) de Co e
+0,85%(p/p) de Mn.
+       Entretanto quando avaliados os referidos catalisadores nas condições de síntese de FT, a
+saber, razão molar H2/CO de 2, sob velocidade espacial horária com um GHSV de 800 h-1 e
+temperatura de conversão entre 125-350oC e pressão de 26 bar, verifica-se em D3 a partir dos
+dados da tabela 1, que as seletividades em hidrocarbonetos representativos do corte C5+ são de
+91% e 87%.
+       Mesmo desconsiderando o catalisador B do exemplo II, cujo teor em Mn é ligeiramente
+inferior ao do escopo reivindicado, ainda assim, o catalisador C do exemplo III, além de ter a
+composição compreendida no mesmo intervalo, tal como a prevista pelo escopo reivindicado,
+apresenta um desempenho em seletividade no corte C5+ ligeiramente superior àqueles descritos
+pela requerente em sua manifestação.
+       A requerente acredita que ambos os catalisadores dos exemplos II e III são submetidos a
+uma etapa de redução a temperatura de 260oC, ligeiramente superior, e que estariam fora do
+escopo reivindicado entre 220-250oC. Contudo, a referência D3 claramente expressa que a faixa
+de temperatura de redução é compreendida entre 100-450oC, e por um período de tempo de
+redução entre 1-48horas, cujo intervalos preconizam as condições conforme as reivindicadas.
+       Portanto, conforme a análise supracitada em relação ao documento D3, um técnico no
+assunto motivado por D3, que apresenta seletividade tão elevada quanto 87% em C 5+, não teria
+qualquer dificuldade em avaliar a faixa de temperatura de redução, e ainda, do tempos de
+redução, através de experimentação rotineira e usual no campo técnico em questão, uma vez que
+o próprio documento D3 indica o mesmo intervalo de temperatura e de tempo de redução que
+àqueles reivindicados, de forma a alcançar a solução preconizada pela matéria das reivindicações
+
+
+                                                                                          Página 4
+                                         BR112017012497-1
+
+
+1-25 e 26 do quadro reivindicado.
+       A mesma análise é válida em relação ao documento D4, que sugere condições de pré-
+tratamento por redução do catalisador na faixa de temperatura entre 100-450°C, por um período
+entre 1-48 horas sob pressão elevada, normalmente de 1 a 200 bar, a partir do uso de hidrogênio
+puro, ou mesmo a partir de uma mistura de hidrogênio e um gás inerte, tal como nitrogênio.
+       De acordo com D4, o processo de conversão de FT é conduzido a partir de uma
+alimentação de gás de síntese a uma razão molar H2:CO entre 0,5-2,5, temperatura de reação
+entre 125-350oC, pressão entre 5-150 bar e velocidade espacial horária GHSV entre 400-10000h -1
+que envolve, em particular, catalisadores de Co+Mn/TiO2, conforme descritos a partir dos testes
+de trabalho descritos, em particular, conforme os exemplos III-VI da referência que descrevem
+catalisadores com o mesmo teor em cobalto e manganês, conforme reivindicados, cujos
+resultados de desempenho indicam seletividade no corte de hidrocarbonetos C5+ que alcançam
+valores tão elevados quanto 90-94%.
+       Nesse sentido, ao avaliar o quadro reformulado, e considerar as razões levantadas no
+parecer anterior, e também na análise corrente, depreende-se que um técnico no assunto ao
+assumir as referências D3 e/ou D4 do estado da técnica, teria os meios óbvios de alcançar, com
+expectativa de êxito, a solução preconizada pela matéria das reivindicações 1-25 (processo) e 26
+(processo de preparação do catalisador), que permanecem a carecer de ATIVIDADE INVENTIVA,
+por estarem em desacordo com os Artigos 8o e 13 da LPI.
+
+
+
+Conclusão
+
+       Portanto, com base nos documentos D3 e/ou D4 as matérias das reivindicações -25
+(processo) e 26 (processo de preparação do catalisador) carecem de ATIVIDADE INVENTIVA, por
+infringirem os Artigos 8o e 13 da LPI.
+
+       Além disso, os objetos descritos pelas reivindicações 16 e 26 do quadro em análise, não
+foram definidos de forma clara e precisa, e, por isso, os mesmos infringem aquilo que preconiza o
+Artigo 25 da LPI.
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido.
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                 Publique-se o indeferimento (9.2).
+
+                                                           Rio de Janeiro, 13 de setembro de 2021.
+Flávio dos Reis Gonçalves
+Pesquisador/ Mat. Nº 1550074
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº 022/12
+
+
+
+
+                                                                                          Página 5
+

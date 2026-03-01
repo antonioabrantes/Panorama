@@ -1,0 +1,288 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0909923-9              N.° de Depósito PCT:US2009/046596
+ Data de Depósito:                   08/06/2009
+ Prioridade Unionista:               US 61/073,581 (18/06/2008)
+ Depositante:                        DOW GLOBAL TECHNOLOGIES INC. (US)
+ Inventor:                           ANTHONY J. CASTELLUCCIO; JEFFREY J. DEAN; ALEC Y. WANG;
+                                     ANNE LINDSEY MILLER; PRADEEP JAIN; ROGER L. KUHLMAN;
+                                     ANGELA N. TAHA; LARRY SHAYNE GREEN; GARY R. MARCHAND;
+                                     SEAN W. EWART; JEFFREY A. SIMS; CHRIS BLASCHKE;
+                                     BRANDON FAILS
+ Título:                             COMPOSIÇÃO ANTI-INCRUSTAÇÃO E PROCESSO DE REAÇÃO
+                                     PARA REDUZIR INCRUSTAÇÕES
+
+                                                                PARECER
+          Em resposta ao parecer técnico, de 03 de junho de 2019, notificado pela publicação na
+RPI n°2527, de 11 de junho de 2019, a requerente apresentou na petição n°870190088605, de
+09 de setembro de 2019, alguns esclarecimentos e modificações no pedido (novo quadro
+reivindicatório e novas páginas do relatório descritivo e do resumo com o título harmonizado às
+novas reivindicações), em razão das objeções oferecidas no referido parecer.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               no da Petição           Data
+
+Relatório Descritivo                                    1 a 130              870190088605          09/09/2019
+Quadro Reivindicatório                                   1a3                 870190088605          09/09/2019
+Desenhos                                                 1a7                 870190088605          09/09/2019
+Resumo                                                      1                870190088605          09/09/2019
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei no 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                               Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                     X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                             X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                       X
+O pedido está de acordo com disposto no art. 32 da LPI                                        X
+Comentários/Justificativas: ---
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                              Página 1
+                                               PI0909923-9
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI       X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                    X
+Comentários/Justificativas:
+
+         O novo quadro reivindicatório, compreendendo 4 reivindicações, apesar de mais restrito
+(o original foi apresentado com 15 reivindicações ), não define, no entanto, de modo claro e
+preciso, a matéria objeto de proteção, em desacordo com o artigo 25 da Lei da Propriedade
+Industrial e Instrução Normativa n°30/2013.
+
+         A agora única reivindicação independente e principal 1 que compõe o novo quadro
+reivindicatório, referindo-se a uma composição anti-incrustação, permanece sem clareza e
+precisão. O componente (i) da composição anti-incrustação não é claro. O componente (i) é
+definido como um interpolímero em multi-bloco de etileno/alfa-olefina compreendendo pelo
+menos 50 mol por cento de etileno e, ainda, por múltiplos blocos ou segmentos de duas ou
+mais unidades de monômeros polimerizados diferindo em propriedades químicas ou físicas
+compreendidos no interpolímero em multi-bloco de etileno/alfa-olefina etc. Não há clareza,
+portanto, do objeto pleiteado. Consequentemente, a composição anti-incrustação conforme
+definida na reivindicação 1 não é clara e precisa.
+
+         Ademais, a reivindicação dependente 2 ao mencionar o trecho:
+
+         ...antes de qualquer reticulação ter uma ou mais das seguintes propriedades:... não faz
+sentido em sua formulação já que, na reivindicação 1, tal procedimento, ou seja, a reticulação,
+não é sequer mencionada.
+
+         As demais reivindicações dependentes 3 e 4 não apresentam qualquer característica
+técnica adicional que, em combinação com as características de qualquer uma das
+reivindicações a que se referem, possa melhor definir o pleito e, assim, prover os requisitos
+necessários à patenteabilidade.
+
+         Por outro lado, no parecer técnico anterior foram mencionados como relevantes os
+seguintes documentos do estado da técnica:
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                 US2006199897                                07/09/2006
+
+    D2                                 WO2007149274                                27/12/2007
+
+    D3                                   EP1588843                                 26/10/2005
+
+    D4                                 US2006199931                                07/09/2006
+
+    D5                                   US5889099                                 30/03/1999
+
+
+
+
+                                                                                          Página 2
+                                         PI0909923-9
+
+
+   Quadro 5  Análise dos Requisitos de Patenteabilidade (Artigos 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade          Cumprimento                  Reivindicações
+                                                  Sim                        1a4
+           Aplicação Industrial
+                                                  Não                          -
+                                                  Sim                        1a4
+                Novidade
+                                                  Não                          -
+
+                                                  Sim                          -
+           Atividade Inventiva
+                                                  Não                        1a4
+Comentários/Justificativas:
+
+       Com relação aos documentos citados no parecer, a requerente alega que nenhuma
+combinação de D1 a D5 descreve ou sugere a solução reivindicada pelo pedido em análise
+apresentando a composição tal como a reivindicação 1, ora apresentada.
+
+       Com relação à referência D1 argumenta que tal documento é silente sobre qualquer
+descrição ou sugestão de um éster metálico, e muito menos de um éster metálico com a fórmula
+reivindicada. Em vez disso, os ésteres descritos em D1 são ésteres de resina, com éster de
+glicerol ou pentaeritritol de resina natural ou modificada (parágrafos [0022], [0138], [0139],
+[0141]).   A composição reivindicada contendo 10-10.000 ppm de éster metálico é
+composicionalmente distinta da composição reivindicada em D1 que não possui éster metálico.
+
+       Com relação à referência D2 argumenta que tal documento falha em descrever ou
+sugerir um interpolímero de etileno/alfa-olefina em multi-blocos com um teor de etileno
+especificamente reivindicado e é silente sobre qualquer descrição do teor de etileno, da
+estrutura de blocos etc. desse copolímero em blocos (D2, página 5, linha 22). Além disso, o
+documento D2 falha em descrever o éster metálico especificamente reivindicado que exige zinco
+(Zn). O documento D2 é silente sobre qualquer menção ao zinco, muto menos a um éster
+contendo zinco. Em vez disso, D2 usa um fosfato ou fosfonato de metal alcalino-terroso como
+um desativador de catalisador (D2, resumo e página 5, linhas 1-14, página 7, linhas 28-31 e
+página 8, linhas 22-24). Consequentemente, D2 falha em descrever ou sugerir qualquer dos
+dois componentes reivindicados.
+
+       Com relação à referência D3 argumenta que tal documento falha em descrever ou
+sugerir um interpolímero de etileno/alfa-olefina em multi-blocos com o teor de etileno
+especificamente reivindicado (pelo menos 50% em mol), estrutura do bloco etc. Em vez disso, o
+documento D3 descreve uma composição contendo um copolímero em bloco de propileno-
+etileno contendo: (A) 30-70% em peso de um copolímero aleatório de propileno-etileno
+contendo de 1-7% em peso de etileno; (B) 30-70% em peso de um copolímero aleatório de
+propileno etileno contendo 6-15% em peso a mais de etileno do que o copolímero componente
+(A) (D3, resumo e parágrafos [0019], [0032]-[0041]). Em outras palavras, o componente (B) de
+D3 não contém mais de 22% em peso de etileno. De acordo com a requerente, um técnico no
+assunto entende que o copolímero em bloco de propileno etileno de D3 contendo seus
+
+
+
+                                                                                          Página 3
+                                           PI0909923-9
+
+
+componentes (A) e (B), com não mais do que 7% em peso e 22% em peso de etileno,
+respectivamente, não pode conter pelo menos 50% em mol de etileno. Consequentemente, D3
+falha em descrever ou sugerir um interpolímero em multiblocos de etileno/alfa-olefina
+especificamente reivindicado com pelo menos 50% molar de etileno.
+
+       Além disso, o documento D3 é silente sobre qualquer descrição ou sugestão de um éster
+metálico com a fórmula especificamente reivindicada. Em vista disso, a requerente alega que
+as reivindicações são novas e inventivas frente aos ensinamentos de D3.
+
+       Com relação à referência D4, argumenta que tal documento é silente sobre qualquer
+descrição ou sugestão de um éter metálico, e muito menos de um éster metálico com a fórmula
+especificamente reivindicada. Em vez disso, os ésteres descritos em D4 são: (i) ésteres de
+ácidos carboxílicos e anidridos; e (ii) poli(tereftalato de etileno) (PET), (D4, [0137], [0242]). A
+composição reivindicada contendo 10 a 10.000 ppm de éster de zinco é distinta da composição
+de D4 que não possui um éster metálico.
+
+       Finalmente, com relação à referência D5, argumenta que tal documento              falha em
+descrever ou sugerir um interpolímero de etileno/alfa-olefina em multi-blocos com o teor de
+etileno especificamente reivindicado (pelo menos 50% em mol), estrutura do bloco etc. Em vez
+disso, o copolímero em blocos de etileno-propileno do documento D5 tem um teor de etileno
+de 2-6% em peso  fora do intervalo reivindicado (D5, resumo e coluna 2, linhas 4-10; coluna 3,
+linhas 13 a 16). Além disso, o documento D5 é silente sobre qualquer descrição ou sugestão de
+um éster metálico com a fórmula especificamente reivindicada. Em vez disso, o éster" descrito
+pelo documento D5 é um éster de ácido graxo, usado para o tratamento de superfície de talco
+(D5, coluna 6, linhas 3  8). A composição reivindicada contendo 10 a 10.000 ppm de éster
+metálico é distinta da composição de D5 que carece de um éster metálico.
+
+       Em função do exposto, a requerente afirma que as novas reivindicações são novas e
+inventivas sobre qualquer combinação dos documentos D1 -D5.
+
+       Examinando as modificações realizadas no quadro reivindicatório, as argumentações da
+requerente apresentadas na manifestação, a matéria conforme revelada no pedido, assim como
+a matéria revelada nos documentos apontados no parecer, não foi possível, entretanto,
+concordar com a requerente pelas razões a seguir:
+
+       Como mencionado acima (Quadro 3) o novo quadro reivindicatório reformulado,
+compreendendo 4 reivindicações, não superou satisfatoriamente as objeções apontadas no
+parecer técnico anterior já que permanece sem clareza e precisão, em desacordo, portanto, com
+o artigo 25 da LPI e Instrução Normativa n°30/2013. Tampouco as alegações da requerente se
+mostraram convincentes e satisfatórias.
+
+       Para tanto, cabe destacar os ensinamentos revelados em alguns dos documentos do
+estado da técnica mencionados no parecer já que composições compreendendo um
+interpolímero em multi-bloco de etileno/alfa-olefina e um composto metálico já se encontram
+reveladas no estado da técnica.
+
+
+
+                                                                                           Página 4
+                                           PI0909923-9
+
+
+         O documento D1 (reivindicações 1 a 7, 25 a 27) não só define um interpolímero em multi-
+bloco de etileno/alfa-olefina com as características definidas nas reivindicações 1 e 2 do pedido
+em análise como ainda menciona a presença de um composto metálico à base de zinco na
+composição do polímero. Os múltiplos blocos ou segmentos de duas ou mais unidades de
+monômeros polimerizados diferindo em propriedades químicas ou físicas não são definidos na
+reivindicação 1 do pedido em exame. Os Exemplos 20 a 26 de D1 apresentam a preparação de
+interpolímeros em multi-bloco de etileno/alfa-olefina usando um composto alquil-metálico (dietil-
+zinco) em um misturador estático onde a corrente de produto é aquecida por um trocador de
+calor.   Portanto, diante dos ensinamentos revelados em D1, não se pode atribuir qualquer
+atividade inventiva à matéria reivindicada conforme definida no pedido em análise já que não foi
+demonstrado qualquer efeito técnico diferenciado causado pela presença do composto de zinco
+de fórmula específica na composição reivindicada.
+
+         Com relação à referência D3, tal documento (parágrafo [0219]) descreve uma poliolefina
+compreendendo um copolímero em bloco ao acaso de etileno e propileno, obtida através da
+polimerização sequencial, catalisada por um componente de metaloceno. Estearato de cálcio é
+adicionado como um neutralizador ao pó de copolímero em bloco ao acaso obtido conforme
+produzido no Exemplo 1, página 26, parágrafo [0219]. As características técnicas tais como,
+densidade, TREF, Tm, Mw/Mn, calor de fusão e módulo de armazenamento são reveladas para
+estes copolímeros em bloco de etileno e alfa-olefina (Tabelas 4 e 7; Figuras 1 a 3). Portanto,
+diante da matéria revelada em D3, também não é possível atribuir qualquer atividade inventiva à
+matéria conforme definida nas reivindicações do pedido em análise, já que não foi demonstrado
+qualquer efeito técnico inesperado causado pela presença do composto de zinco de fórmula
+específica na composição junto ao teor de pelo menos 50% de etileno no interpolímero.
+
+         O documento D4 (resumo, parágrafo [0303], reivindicação 1) descreve fibras
+compreendidas de interpolímeros de etileno e alfa-olefina. O interpolímero é caracterizado por
+uma recuperação elástica, Re, e uma densidade, d, em que a recuperação elástica e a
+densidade satisfazem a relação: Re>1481 - 1629(d). O referido interpolímero ainda pode ser
+caracterizado por outras propriedades, tais como Mw/Mn, calor de fusão etc. conforme definidas
+nos itens (a) a (d) da reivindicação 1 da referência D4. De acordo com D4 (parágrafo [0303]),
+antioxidantes (por ex. Irgafos 168, Irganox 1010, Irganox 3790, etc) podem ser adicionados ao
+interpolímero para proteger contra a degradação na operação de moldagem ou produção e/ou
+para melhorar o controle no grau de grafitização ou reticulação do interpolímero. Aditivos de
+processo, como por exemplo, estearato de cálcio etc, podem também ser usados para
+propósitos de desativação de resíduos de catalisador. Portanto, diante da matéria revelada em
+D4, também não é possível atribuir qualquer atividade inventiva à matéria reivindicada conforme
+definida no pedido em análise, já que não foi demonstrado qualquer efeito técnico diferenciado
+causado pela presença do composto de zinco de fórmula específica ou pelo teor de pelo menos
+50% de etileno no interpolímero.
+
+
+
+
+                                                                                         Página 5
+                                            PI0909923-9
+
+
+Conclusão:
+
+      A matéria definida nas reivindicações do novo quadro reivindicatório submetido ao exame
+permanece imprecisa, não é clara e decorre de maneira óbvia para um técnico no assunto, diante
+dos ensinamentos revelados em qualquer um dos documentos destacados acima (D1, D3 ou D4).
+Sendo assim, de acordo com o Art. 37 da LPI, indefiro o presente pedido, uma vez que não
+atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI) e as
+reivindicações não estão claras e precisamente definidas (em desacordo com o Art. 25 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 01 de outubro de 2019.
+
+
+Julia Candida Afonso Martins
+Pesquisador/ Mat. Nº 1225171
+DIRPA / CGPAT I/DIPOL
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                        Página 6
+

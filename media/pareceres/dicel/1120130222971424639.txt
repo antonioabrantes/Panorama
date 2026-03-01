@@ -1,0 +1,200 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112013022297-2          N.° de Depósito PCT:US2012/027427
+ Data de Depósito:                   02/03/2012
+ Prioridade Unionista:               US 61/448,641 (02/03/2011)
+ Depositante:                        CAMERON TECHNOLOGIES LIMITED (NL)
+ Inventor:                           DANIEL B. BAXTER, JOHN D. SCALZO, JONATAN RAM, ADAM
+                                     SITAR, RITABRATA DAS
+ Título:                             Sistema de identificação de radiofrequência para equipamento de
+                                     extração de mineral 
+
+                                                                PARECER
+Por meio da petição 870210021753 de 08/03/2021, a Requerente apresentou modificações no
+pedido em resposta ao parecer emitido, notificado na RPI 2605 de 08/12/2020 (despacho 7.1).
+Estas modificações estão consideradas no Quadro 1.
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                   n.o da Petição             Data
+
+Relatório Descritivo                                      1-19               860130005879               29/10/2013
+Quadro Reivindicatório                                     1-4               870210021753               08/03/2021
+Desenhos                                                   1-9               860130005879               29/10/2013
+Resumo                                                      1                860150032032               25/02/2015
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                    Sim          Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                             x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                     x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                            x
+O pedido está de acordo com disposto no art. 32 da LPI                                             x
+Comentários/Justificativas
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                    Sim          Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                               x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                             x
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                      Página 1
+                                           BR112013022297-2
+
+
+Comentários/Justificativas
+Considera-se que a matéria do pedido atende ao disposto no Artigo 24 da LPI, visto que a
+suficiência descritiva não foi questionada nos Escritórios/Autoridades consultados para elaboração
+da exigência preliminar (6.21), conforme a Norma de Execução SEI Nº 3/2019, procedimento
+P029, item 5.2.11.
+
+
+                            Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                           Data de publicação
+    D1         US2009327102                                                         31/12/2009
+    D2         WO2011017278                                                         10/02/2011
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento            Reivindicações
+                                                       Sim                    1-10
+               Aplicação Industrial
+                                                       Não                      -
+                                                       Sim                    1-10
+                    Novidade
+                                                       Não                      -
+                                                       Sim                      -
+               Atividade Inventiva
+                                                       Não                    1-10
+
+
+
+Comentários/Justificativas
+
+O documento D1 é considerado a anterioridade mais próxima do objeto da reivindicação 1 pois
+revela:
+          Sistema caracterizado por compreender: um primeiro componente (18) um primeiro
+          módulo de identificação por radiofrequência (RFID) acoplado ao primeiro componente
+          (18), em que o primeiro módulo de RFID (12) compreende dados                do   primeiro
+          componente (18) relacionados ao primeiro componente (18), e dados de primeira
+          localização referentes a uma primeira localização do primeiro componente (18)
+          - D1 reivindicação 12
+
+
+          e em que o módulo de identificação por radiofrequência (RFID) compreende uma unidade
+          RFID ativa e uma unidade RFID passiva; e.
+          - D1 par. 25
+
+
+          um     sistema   de     gerenciamento   de   bens   que compreende uma ferramenta de
+          gerenciamento de bens (14) configurada para mapear a localização do componente em
+          uma imagem em tempo real;
+          - D1 reivindicação 12
+
+
+
+                                                                                           Página 2
+                                         BR112013022297-2
+
+
+
+D2 apresenta as seguintes características similares ao presente pedido:
+       um primeiro componente (18) de um sistema de extração de mineral;
+       - D2 Fig. 2 e reivindicação 1
+
+
+       primeira localização do primeiro componente (18) em relação ao sistema de extração
+       mineral
+       - D2 par. 39;
+
+
+uma montagem de cabeça de poço, através da qual o recurso é extraído e uma árvore de
+natal que controla o fluxo de fluidos para o interior e para o exterior da cabeça de poço, e pelo
+menos um componente de controle de fluxo, configurado para auxiliar na extração dos
+minerais subterrâneos.
+      são meros detalhes caracterizando o tipo de componente que será monitorado pelo
+sistema os quais não agregam atividade inventiva ao sistema de monitoramento com relação ao
+estado da técnica.
+
+
+Assim, a matéria pleiteada na reivindicação 1 não atende ao requisito de atividade inventiva, pois
+decorre de maneira óbvia para um técnico no assunto a partir da combinação dos ensinamentos
+do documento D1 com os ensinamentos de D2.
+
+
+Nas reivindicações dependentes não foram identificadas características que, mesmo quando
+combinadas com as características de qualquer reivindicação independente a que se referem,
+venham a prover novidade e/ou a atividade inventiva à matéria.
+
+
+A requerente argumenta que nenhuma pessoa versada na técnica, na indústria de petróleo e gás,
+procuraria soluções técnicas na indústria de saúde e que D1 não indica que seu sistema pode ser
+usado em outros locais. Esse argumento não procede pois em D1 par. 23 consta the invention
+also teaches, for an enterprise facility such as health care facility ou seja, a área de saúde trata-se
+apenas de um exemplo de implementação.
+
+
+A requerente argumenta que a principal diferença entre D1, D2 e a presente invenção é
+que esses dois documentos, citados como estado da técnica, são de áreas completamente
+diferentes. Esse argumento não procede. Em especial D2 reivindicação 1 claramente lida com
+sistema de extração mineral.
+
+
+A requerente argumenta que a tecnologia que o presente pedido funciona em ambientes
+industriais perigosos deve funcionar em um ambiente sujo, que pode sofrer grandes flutuações de
+temperatura e, muitas vezes, apresentar alto índice de vibração e ruído e que a robustez e
+confiabilidade da tecnologia necessária em tais ambientes industriais não podem ser comparadas
+
+
+
+                                                                                              Página 3
+                                       BR112013022297-2
+
+
+à tecnologia que pode funcionar em instalações de saúde. Esse argumento não procede pois não
+foi pleiteada nenhuma característica que pudesse diferenciar a matéria do estado da técnica
+nesse aspecto, por exemplo que conferisse maior resistência do sistema a vibrações.
+
+
+A requerente argumenta que D2 não ensina ou sugere o uso de circuitos RFID ativos ou o uso
+de circuitos RFID passivos e ativos no mesmo sistema e que D2 não ensina ou sugere um
+sistema de gerenciamento de ativos ou uma ferramenta de gerenciamento de ativos que mapeia
+a localização de um componente em uma imagem em tempo real do sistema de extração
+mineral. Conforme consta anteriormente e no parecer anterior, essas características foram
+antecipadas por D1.
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que: não
+atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                 Publique-se o indeferimento (9.2).
+
+                                                              Rio de Janeiro, 25 de maio de 2021.
+
+
+
+
+Denise Freitas Silva
+Pesquisador/ Mat. Nº 1472730
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+008/13
+
+
+
+
+                                                                                          Página 4
+

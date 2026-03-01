@@ -1,0 +1,208 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR112014026167-9          N.° de Depósito PCT:US2013/037476
+ Data de Depósito:     19/04/2013
+ Prioridade Unionista: US 61/636,526 (20/04/2012); US 61/732,846 (03/12/2012); US
+                       13/800,415 (13/03/2013)
+ Depositante:          SAFETY SYRINGES, INC. (US)
+ Inventor:             JAMES M. VERESPEJ, RYAN SCHOONMAKER, PHILIP DOWDS,
+                       FREDERIC P. FIELD
+ Título:               Dispositivo de segurança anti-picada de agulha para dispositivo de
+                       injeção
+
+                                          PARECER
+       Trata o presente parecer técnico do 2º exame do pedido de patente, de natureza Invenção,
+referente a um dispositivo de segurança de proteção de agulha e um sistema de segurança anti-
+picada de agulha.
+       Em 12/11/2021, por meio da petição nº 870210104978, a depositante apresentou
+modificações no pedido, em resposta ao parecer técnico emitido, notificado na RPI (Revista
+Eletrônica da Propriedade Industrial) nº 2641, de 17/08/2021 (despacho 7.1), onde apontou-se
+que o pedido não atendia às disposições dos Artigos 8º, 13 e 25 da LPI. Para continuidade do
+exame, as modificações estão consideradas no Quadro 1.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                1/21 a 21/21             870210104978           12/11/2021
+Quadro Reivindicatório                                 1/5 a 5/5             870210104978           12/11/2021
+Desenhos                                           1/35 a 35/35              860140175640           20/10/2014
+Resumo                                                     1/1               870210104978           12/11/2021
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+Comentários/Justificativas*******************************
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR112014026167-9
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                      X
+Comentários/Justificativas
+         Considerando as modificações realizadas, observou-se que o novo quadro reivindicatório
+não está de acordo com as disposições do art. 25 da LPI, pois as reivindicações 3 e 6 definem a
+mesma matéria, acarretando falta de clareza e concisão ao quadro reivindicatório, contrariando o
+Art. 4º, inciso III, e o Art. 6º, inciso I, da IN30/2013.
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1       US2007239117                                                             11/10/2007
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                   1 a 23
+            Aplicação Industrial
+                                                        Não                       -
+                                                         Sim                   1 a 23
+                 Novidade
+                                                        Não                       -
+                                                         Sim                      -
+            Atividade Inventiva
+                                                        Não                    1 a 23
+Comentários/Justificativas
+        Por meio da petição nº 870210104978, de 12/11/2021, a depositante apresentou quadro
+reivindicatório reformulado, contendo 23 reivindicações, e argumentação técnica a respeito da
+pertinência dos documentos do estado da técnica citados no parecer técnico de 1º exame,
+esclarecendo que foi substituído, na reivindicação 1, o trecho () de modo que o flange de
+cartucho de medicamento não irá entrar em contato com os dedos de gatilho durante montagem
+do cartucho de medicamento no corpo para () de modo que o flange de cartucho de
+medicamento (210) não irá desassentar os dedos de gatilho (121) durante montagem do cartucho
+de medicamento (200) no corpo (110).
+       Ao discorrer sobre as diferenças entre a invenção em tela e os dispositivos de segurança
+de proteção de agulha do estado da técnica, a depositante, resumidamente, faz as seguintes
+alegações:
+         () nenhum dos documentos citados revela a característica particular da presente
+         invenção de que os dedos de gatilho 121 da proteção de agulha são espaçados de modo
+         que o flange de cartucho de medicamento 210 não entre em contato (ou tenha um contato
+         mínimo) com os dedos de gatilho durante montagem, ou seja, não os desassente do corpo
+         do dispositivo de segurança.
+
+
+
+
+                                                                                            Página 2
+                                      BR112014026167-9
+
+       () o elemento de gatilho de D1 é o anel de fecho 220, enquanto os dedos 270 são dedos
+       de retenção, não dedos de gatilho. Ou seja, não há equivalência entre os dedos de D1 e
+       os dedos da presente invenção e os espaços também não são equivalentes.
+       () conforme pode ser mais bem observado nas figuras de D2 (especialmente na Fig.
+       7C), não se vê uma forma em que a seringa poderia ser inserida no corpo 120 sem que
+       seu flange 96 entrasse em contato com os elementos de fecho 174 caso os ditos
+       elementos de fecho não fossem distanciados um do outro previamente.
+       () entende-se que D2 não é relevante à presente invenção dado que não revela ou
+       sugere dedos de gatilho espaçados de modo que o flange de cartucho de medicamento
+       não irá desassentar os dedos de gatilho durante montagem do cartucho de medicamento
+       no corpo.
+       () nota-se que D6 não revela dedos de gatilho mantendo a proteção e o corpo juntos.
+       Logo, resta claro que D6 não é relevante à presente invenção.
+       Em resposta às modificações realizadas no quadro reivindicatório, a argumentação da
+depositante foi cuidadosamente avaliada e, considerando a redação das reivindicações,
+especialmente da reivindicação independente 1, entende-se que o documento D1 divulga
+características equivalente à da invenção em tela.
+        O documento D1 (as referências a seguir, entre parênteses, estão relacionadas a D1)
+descreve um dispositivo de segurança de proteção de agulha (200) acoplável a uma seringa
+pronta para encher compreendendo: um corpo (216) para receber um cartucho de medicamento
+(224), o cartucho de medicamento (224) tendo um corpo de cartucho de medicamento (236) e um
+flange de cartucho de medicamento (232) que se estendem para fora a partir de uma extremidade
+proximal do corpo de cartucho de medicamento (figs. 39, 42; par. [0099]-[0101]), uma proteção de
+agulha (214) móvel em relação ao corpo (216) para cobrir uma agulha (242) que se estende a
+partir do cartucho de medicamento (224) (par. [0105]), um êmbolo (222) para dispensar
+medicamento a partir do cartucho de medicamento (224) (par. [0100]), e uma mola (280) para
+ativação da proteção de agulha (214) para cobrir a agulha (242), em que dedos (270) da proteção
+de agulha (214) e são assentados no corpo (216) retendo a proteção de agulha (214) em uma
+posição de pré-ativação onde a agulha (242) é exposta e espaçados de modo que o flange (232)
+de cartucho de medicamento não irá desassentar os dedos (270) durante montagem do cartucho
+de medicamento (224) no corpo (216) (figs. 37, 38, 42, 44, 45; par. [0106]-[0110]).
+       Em D1, assim como na invenção em tela, os dedos (D1: a pair of fingers 270) se estendem
+da extremidade proximal do protetor de agulha (figs. 39, 40) e servem para que o protetor de
+agulha (D1: outer sheath 214) e o corpo (D1: inner sheath 216) sejam mantidos juntos, acoplando
+o corpo e protetor de agulha sob carga de mola antes do uso do dispositivo (figs. 42, 44). Os
+dedos do protetor de agulha de D1 são assentados no corpo por meio do engate entre uma
+porção de gancho (D1: hook portion 270a) dos dedos (270) com um anel de trava (latch ring 220)
+na superfície anular (D1: first annular surface 250) na extremidade proximal do corpo (D1: par.
+[0102]-[0103], [0106]).
+        Observa-se ainda que em D1, a proteção de agulha (214) é separada do corpo (214) de
+maneira similar ao que ocorre no dispositivo ora reivindicado (vide parágrafo [067] do relatório
+descritivo do presente pedido), em que o pressionamento continuado do êmbolo resulta em
+contato entre a cabeça (D1: head 228; fig. 44) do êmbolo (D1: plunger assembly 222) e a região
+de assentamento dos dedos no corpo, fazendo com que os dedos (270) desengatem do anel de
+trava (D1: 220) e liberem a proteção de agulha (214) do corpo (216) (D1: par. [0108]-[109]; fig.
+50A).
+
+
+
+
+                                                                                       Página 3
+                                       BR112014026167-9
+
+        Considerando o exposto, a argumentação da depositante não pode ser acolhida,
+entendendo-se que os dedos 270 do protetor de agulha do dispositivo de segurança de proteção
+de agulha divulgado em D1 são equivalentes aos dedos 121 da invenção em tela, de modo que a
+matéria da reivindicação independente 1 decorreria de maneira óbvia ou evidente para um técnico
+versado no assunto do estado da técnica. Portanto, mantém-se o entendimento do parecer de 1º
+exame técnico onde apontou-se que a reivindicação independente 1 não envolvia atividade
+inventiva.
+        D1 também ensina um sistema de segurança anti-picada de agulha que compreende uma
+seringa (224) tendo um cilindro (236), um flange (232) formado na extremidade proximal do
+cilindro, e uma agulha (242) acoplada à extremidade distal do cilindro (fig. 39, 42; par. [0101]), o
+dispositivo de segurança de proteção de agulha (200), o corpo (216) do qual recebe a seringa, em
+que o corpo (216) compreende ainda elementos de captura de seringa (256), em que os
+elementos de captura (256) incluem uma superfície angulada direcionada para um centro do corpo
+(216) e que faz interface com o flange de cartucho de medicamento (224) durante inserção da
+seringa no corpo (par. [0102]). Assim, a mesma discussão acima pode ser estendida à
+reivindicação 15, de modo que a referida reivindicação também não atende ao requisito de
+atividade inventiva.
+        As reivindicações dependentes 2 a 14 e 16 a 23 estão relacionadas a detalhamentos e/ou
+características adicionais que são, por definição, não essenciais e limitadas pela independente a
+qual se referem; por isso, não podem ser protegidas isoladamente. Ademais, conforme apontado
+no parecer de 1º exame, não foi identificada característica técnica adicional capaz de conferir
+atividade inventiva à matéria pleiteada, pois entende-se que as características definidas em ditas
+reivindicações são diretamente conhecidas de D1 ou são opções construtivas que decorreriam de
+maneira óbvia ou evidente, para um técnico versado no assunto, do estado da técnica à época da
+invenção em tela.
+
+
+
+Conclusão
+       Pelo exposto neste parecer, o presente pedido de patente de invenção não está apto a
+obter a proteção requerida.
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não
+atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+       De acordo com o Art. 212 da LPI, a depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+                                                              Rio de Janeiro, 21 fevereiro de 2022.
+
+
+Fernanda da Rocha de Carvalho Lopes
+Pesquisador/ Mat. Nº 2343908
+DIRPA / CGPAT IV/DINEC
+Deleg. Comp. - Port. INPI/DIRPA Nº 006/18
+
+
+
+
+                                                                                           Página 4
+

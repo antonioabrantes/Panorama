@@ -1,0 +1,470 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                   RELATÓRIO DE BUSCA
+
+ N.° do Pedido:                      BR122019016209-3         N.° de Depósito PCT: US2010/026611
+ Data de Depósito:                   09/03/2010
+ Prioridade Unionista:               US 61/209489 (09/03/2009)
+ Depositante:                        Bioatla, Llc (US)
+ Inventor:                           Jay M. Short, Hwai Wen Chang, Gerhard Frey, GREGORY FROST
+ Título:                             MÉTODO           PARA    PREPARAR          UM     ANTICORPO
+                                     CONDICIONALMENTE             ATIVO,         E,     ANTICORPO
+                                     CONDICIONALMENTE ATIVO
+
+
+                                     IPC              C12Q 1/68, C12P 21/00, C07K 14/00, A61K 38/17
+ 1  CLASSIFICAÇÃO
+                                     CPC
+ 2 - FERRAMENTAS DE BUSCA
+    EPOQUE      X ESPACENET                                       PATENTSCOPE       x     RPI Nº 2489, de 18/09/2018**
+    DIALOG         USPTO                                          SINPI
+ X CAPES           SITE DO INPI                                   STN
+
+
+3 - REFERÊNCIAS PATENTÁRIAS
+
+                                Número                                       Tipo       Data de Publicação Relevância *
+
+
+
+
+4 - REFERÊNCIAS NÃO-PATENTÁRIAS
+
+                                Autor/Publicação                                        Data de publicação   Relevância *
+
+
+
+
+Observações:**Exame realizado com base nos documentos citados de forma não exaustiva no
+parecer notificado na RPI nº 2489, de 18/09/2018 e aqui incorporados.
+
+                                                                             Rio de Janeiro, 18 de dezembro de 2019.
+
+ Vania Lucia Ferreira Linhares da Silva
+ Pesquisador/ Mat. Nº 1473306
+ DIRPA / CGPAT II/DIALP
+ Deleg. Comp. - Port. INPI/DIRPA Nº
+ 002/11
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                        Página 1
+                                                  BR122019016209-3
+
+
+
+
+* Relevância dos documentos citados:
+A documento que define o estado geral da técnica, mas não é       Y documento de particular relevância; a invenção
+   considerado de particular relevância;                             reivindicada não pode ser considerada dotada de
+N documento de particular relevância; a invenção reivindicada        atividade inventiva quando o documento é combinado
+   não pode ser considerada nova quando o documento é                com um outro documento ou mais de um;
+   considerado isoladamente;                                      PN documento patentário, publicado após a data de depósito
+I documento de particular relevância; a invenção reivindicada        do pedido em exame, ou da prioridade requerida para o
+   não pode ser considerada dotada de atividade inventiva ou de      pedido em exame,         cuja data de depósito, ou da
+   ato inventivo quando o documento é considerado                    prioridade reivindicada, é anterior a data de depósito do
+   isoladamente;                                                     pedido em exame, ou da prioridade requerida para o
+                                                                     pedido em exame; esse documento patentário pertence
+                                                                     ao estado da técnica para fins de novidade, se houver
+                                                                     correspondente BR, conforme o Art. 11 §2.º e §3.º da LPI.
+
+
+
+
+                                                                                                                     Página 2
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR122019016209-3         N.° de Depósito PCT: US2010/026611
+ Data de Depósito:                     09/03/2010
+ Prioridade Unionista:                 US 61/209489 (09/03/2009)
+ Depositante:                          Bioatla, Llc (US)
+ Inventor:                             Jay M. Short, Hwai Wen Chang, Gerhard Frey, GREGORY FROST
+ Título:                               MÉTODO           PARA    PREPARAR          UM     ANTICORPO
+                                       CONDICIONALMENTE             ATIVO,         E,     ANTICORPO
+                                       CONDICIONALMENTE ATIVO
+
+                                                              PARECER
+           O presente pedido se refere a um método para preparar um anticorpo condicionalmente
+ativo a partir de proteínas de tipo selvagem e corresponde a uma divisão do PI1008971-3 (pedido
+original) de 09/03/2010. Logo, o presente pedido foi avaliado à luz do pedido original. Neste
+sentido, cabe esclarecer que diante do disposto no artigo 28 da Instrução Normativa nº 31/2013
+(IN nº 31/2013), para a análise do presente pedido, serão aproveitados todos os documentos,
+petições e despachos, constantes no pedido original até a data de depósito do pedido dividido.
+
+
+
+          Quanto ao processamento do pedido original:
+
+           De acordo com o artigo 34 da LPI, o INPI emitiu parecer de Exigência Pré-Exame para o
+pedido original, com despacho 6.20, cuja notificação foi publicada pela RPI nº 2489, de
+18/09/2018. A depositante apresentou por meio da petição 870180151718, de 14/11/2018, uma
+nova proposta de quadro reivindicatório adequado à patente europeia EP 2.406.399.
+           No parecer técnico, notificado na RPI nº 2522, de 07/05/2019, o pedido original foi objetado
+por não atender ao disposto nos artigos 8º, 13, 32, 24, 25 da LPI.
+
+           Por meio da petição nº 870190074916, de 05/08/2019, a depositante apresentou uma nova
+proposta de quadro reivindicatório, nova cópia do relatório descritivo e resumo assim como,
+argumentos favoráveis à patenteabilidade da matéria ora pleiteada frente ao documento citado,
+WO2003/105757.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                   Página 1
+                                                         BR122019016209-3
+
+
+  Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                              Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                   x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)            x
+
+O pedido refere-se a Sequências Biológicas                                                                     x
+
+Comentários/Justificativas
+
+       Quanto ao encaminhamento à ANVISA (art. 229-C da LPI, incluído pela Lei
+        10.196/2001):
+
+       Para fins de atendimento do artigo 229-C da Lei n° 10196/2001, que modificou a Lei n°
+9.279/96 (LPI), e na forma estabelecida pela Portaria Interministerial n° 1065 de 24/05/2012, que
+altera o fluxo de análise para pedidos de patente de produtos e processos farmacêuticos, o
+presente pedido original foi encaminhado à ANVISA, com notificação na RPI nº 2440, de
+10/10/2017, para as providências cabíveis.
+
+       No parecer técnico nº 071/2018/COOPI/GGMED/ANVISA, de 12/03/2018, foi concluído
+que a matéria do presente pedido não está entre aquelas proibidas no país, de acordo com a
+Lista E (Lista de plantas proscritas que podem originar substâncias entorpecentes e/ou
+psicotrópicas) e a Lista F (Lista das substâncias de uso proscrito no Brasil), da Portaria SVS/MS
+n 344, de 12 de maio de 1998, e suas atualizações, de forma que foi sugerida a anuência prévia.
+Assim, por meio do ofício nº 038/2018/COOPI/GGMED/ANVISA, de 02/04/2018, foi solicitada a
+juntada da documentação comprobatória da anuência do presente pedido aos autos do
+processo. Em 15/05/2018, o INPI publicou a notificação da referida anuência na RPI nº 2471.
+
+
+
+       Quanto à declaração de acesso ao patrimônio genético nacional:
+
+       Para cumprimento do artigo 47 da Lei nº 13.123/2015, o INPI, na RPI nº 2467, de
+17/04/2018, emitiu uma exigência formal (6.6.1) para a comprovação do cadastramento e/ou
+autorização de acesso ao Patrimônio Genético Nacional e/ou Conhecimento Tradicional
+Associado, quando pertinente, no prazo de 60 dias a contar da publicação na Revista Eletrônica
+da Propriedade Industrial (RPI). Contudo, a depositante não apresentou resposta à referida
+exigência.
+
+       Seguindo o entendimento firmado pela Procuradoria Federal Especializada junto ao INPI
+(PFE-INPI) no Parecer nº 00001/2018/PROCGAB/PFE-INPI/PGF/AGU (Processo INPI nº
+52400.002142/2018-30), publicado nas RPIs nº 2465 (03/04/2018), 2466 (10/04/2018) e 2467
+(17/04/2018), ao qual foi atribuído caráter normativo na RPI nº 2485 de 21/08/2018, não tendo
+havido manifestação da depositante no prazo de 60 (sessenta) dias contados a partir da
+publicação na RPI, o INPI determinou que o exame técnico deve ser prosseguido com o
+entendimento de que não houve acesso ao patrimônio genético nacional e/ou conhecimento
+tradicional associado, conforme consta no texto do despacho de código 6.6.1 publicado na RPI.
+
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                       Página 2
+                                                         BR122019016209-3
+
+
+        Cabe ressaltar que a Lei brasileira de acesso ao patrimônio genético: Lei nº 13.123/2015,
+estabelece no artigo 47 que "a concessão de direito de propriedade intelectual pelo órgão
+competente sobre produto acabado ou sobre material reprodutivo obtido a partir de acesso a
+patrimônio      genético        ou      a    conhecimento              tradicional     associado      fica   condicionada   ao
+cadastramento ou autorização, nos termos desta Lei".
+
+
+
+                                     Quadro 1  Páginas do pedido examinadas
+             Elemento                                   Páginas                      n.o da Petição                Data
+Relatório Descritivo                                      1-104                      870190075441                05/08/2019
+Listagem de sequências em
+                                                            ---                            ---                       ---
+formato impresso
+Listagem de sequências*                        Código de Controle                          ---                       ---
+Quadro Reivindicatório                                     1-3                       870190075441                05/08/2019
+Desenhos                                                    ---                            ---                       ---
+Resumo                                                       1                       870190075441                05/08/2019
+       *Listagem de sequências em formato eletrônico referente ao código de controle
+       9999999999999999 (Campo 1) e 9999999999999999 (Campo 2).
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                     Sim               Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                                    x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                            x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                                x
+O pedido está de acordo com disposto no art. 32 da LPI                                                                 x
+Comentários/Justificativas
+
+       Quanto ao artigo 32 da LPI:
+
+        A atual reivindicação 2 refere-se a um método para preparar um anticorpo
+condicionalmente ativo. A referida reivindicação tem como base a antiga reivindicação 16 do
+pedido original que sua etapa (v) estava baseada na seleção de anticorpos mutantes
+recombinantes superiores que apresentam capacidade de ligação diferente ao mediador em duas
+condições distintas. No entanto, na nova proposta de reivindicação 2 do presente pedido está
+definido o anticorpo é um fragmento de anticorpo com as ditas características. A inclusão da
+expressão fragmento de anticorpo não pode ser aceita, tendo em vista que amplia do escopo
+anteriormente pleiteado no quadro reivindicatório apto (QR1  petição nº 20110093895, de
+08/09/2011, do pedido original). A inclusão da referida expressão já havia sido alvo de objeção no
+pedido original, conforme parecer publicado na RPI nº 2522, 07/05/2019. Sendo assim, conforme
+o item 3.3 (2.ii e 3.ii) das Diretrizes sobre a aplicabilidade do disposto no artigo 32 da LPI nos
+pedidos de patentes, no âmbito do INPI, publicada na Resolução INPI PR nº 093/2013, uma vez
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                                   Página 3
+                                                        BR122019016209-3
+
+
+que já houve infração do pedido original frente ao disposto no artigo 32 da LPI, e considerando
+que o pedido dividido se encontra na mesma fase processual do pedido original (conforme o item
+6.6 da Resolução PR nº 17/2013), o pedido de patente deve ser indeferido, com base no disposto
+no artigo 32 da LPI.
+
+
+
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                             Sim        Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                   x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                 x
+Comentários/Justificativas
+
+       Cabe ainda ressaltar que o quadro reivindicatório apresentado no presente pedido
+reivindica matéria já objetada no pedido original com base no disposto nos artigos 24 e 25 da
+LPI.
+   1. Reivindicações de método/processo devem ser definidas de maneira clara e precisa,
+       indicando as etapas essenciais/condições de reação e materiais empregados, incluindo o
+       material de partida, os reagentes necessários, e o produto obtido, com base no pedido
+       originalmente apresentado. Em outras palavras, a combinação de características e etapas
+       do processo/método pleiteado deve definir completamente o escopo para que ela funcione
+       para o propósito identificado. Além disso, o método deve ser devidamente descrito no
+       pedido para permitir que um versado na técnica reproduza a invenção sem
+       experimentação indevida. No entanto, as etapas definidas na atual reivindicação 1 não
+       definem com clareza e precisão o escopo da proteção reivindicada. Por exemplo, a
+       expressão evoluir o DNA que codifica o anticorpo de tipo selvagem usando uma ou mais
+       técnicas evolucionárias para criar um DNAs mutantes presente na referida reivindicação
+       (etapa i) inclui diversos métodos e é extremamente ampla e imprecisa. Em reivindicações
+       de método, a séria de etapas ativas para alcançar um determinado resultado devem estar
+       claras. Neste sentido, considera-se que a atual reivindicação 1 não atende ao disposto no
+       artigo 25 da LPI, pois não define com clareza o escopo pleiteado;
+   2. Adicionalmente, não há nenhum direcionamento na matéria pleiteada sobre, por exemplo,
+       quais seriam os nucleotídeos alvo para uma substituição ou deleção. Neste sentido,
+       considera-se que a matéria continua não definindo com clareza e precisão a matéria
+       pleiteada e, portanto, contrariando o disposto no artigo 25 da LPI. Este fato é agravado
+       pela falta de descrição suficiente desta matéria.
+   3. Conforme mencionado no primeiro exame do pedido original, não há sequer uma
+       concretização/exemplo de um dos métodos ora pleiteados pelas atuais reivindicações 1.
+       Sabendo que até pequenas variações estruturais têm um efeito significativo na função de
+       proteínas biológicas, inclusive anticorpos, a falta de ensinamentos quanto à natureza das
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                    Página 4
+                                                    BR122019016209-3
+
+   técnicas e alterações obrigaria o técnico usar de experimentação indevida para testar
+   infinitas possibilidades de substituição, deleção ou combinação destes, a fim de determinar
+   quais teriam a atividade desejada e que entrariam assim no escopo das reivindicações em
+   exame. Isto porque, conforme apontado não há nenhum direcionamento no inicialmente
+   apresentado que oriente um técnico no assunto, por exemplo, ao utilizar uma das técnicas
+   mencionadas, que nucleotídeos podem ser substituídos ou deletados de modo a
+   promoverem um anticorpo condicionalmente ativo que apresente os requisitos elencados
+   com (a) e (b) na matéria pleiteada. Entende-se que o método ora pleiteado é composto de
+   duas etapas essenciais: evolução do DNA codante e seleção. Neste sentido, se uma das
+   etapas essenciais não está descrita de maneira suficiente para sua reprodução sem
+   experimentação indevida, o método como um todo não está adequado. De acordo com as
+   Diretrizes de exame de pedidos de patente  bloco I, publicada na RPI nº 2241 de
+   17/12/2013, item 2.15, o pedido deve conter informação técnica suficiente para permitir
+   que um técnico no assunto coloque a invenção em prática, tal como reivindicada, sem
+   experimentação indevida, ou seja, sem a necessidade de experimentação adicional para
+   realizar a invenção, a partir do que foi revelado no pedido. Logo, ratifica-se que os
+   métodos reivindicados não atendem ao disposto no artigo 24 da LPI;
+4. No inicialmente apresentado não há sequer uma concretização do método e do anticorpo
+   ora pleiteado pelas atuais reivindicações 1 e 14. Cabe ressaltar que é entendido que o
+   conjunto de exemplos elucidativos, como parte integrante do relatório descritivo, embora
+   não limitativo, representa a matéria reivindicada como um todo e tem o propósito de
+   esclarecer, elucidar ou ilustrar o funcionamento da invenção, conforme determina a LPI. De
+   fato, os exemplos são necessários, principalmente, quando um técnico no assunto, ao se
+   deparar com uma matéria imprevisível, não for capaz de concretizar o escopo pleiteado
+   sem que uma quantidade indevida de experimentação tenha que ser praticada. Tendo em
+   vista o amplo escopo e o teor do método pleiteado, não há nenhuma garantia que um
+   técnico no assunto ao escolher, por exemplo, uma das técnicas evolucionárias citadas por
+   eferência para criar um DNA mutante seja capaz de obter um anticorpo condicionalmente
+   ativo, ou seja, o objetivo do método ora pleiteado. Deste modo, considera-se que os
+   métodos reivindicados também não atendem ao disposto no artigo 24 da LPI;
+5. Sem prejuízo do exposto no Quadro 2, cabe ressaltar que o escopo incluído pela
+   expressão fragmentos de anticorpos não atende ao disposto nos artigos 24 e 25 da LPI.
+   Isto porque, não existe no inicialmente apresentado informações suficientes que permitam
+   um técnico no assunto ao reproduzir o método pleiteado conseguir selecionar os
+   fragmentos de anticorpos mencionados. De acordo com as Diretrizes de exame de
+   pedidos de patente  bloco I, publicada na RPI nº 2241 de 17/12/2013, item 2.15, o pedido
+   deve conter informação técnica suficiente para permitir que um técnico no assunto coloque
+   a invenção em prática, tal como reivindicada, sem experimentação adicional. Deste modo,
+   a atual reivindicação 6 não atende ao disposto no artigo 25 da LPI, pois define matéria que
+
+
+    Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                      Página 5
+                                                         BR122019016209-3
+
+         não está fundamentada no relatório descritivo do pedido, uma vez que tal matéria não se
+         encontra suficientemente descrita no relatório descritivo, de modo a fundamentar o escopo
+         reivindicado, o que contraria também o disposto no artigo 24 da LPI;
+   6. No que se refere a atual reivindicação 14 cabe ressaltar que caracterização de anticorpos
+         por sua habilidade ou pelo método de obtenção não atende ao disposto no artigo 25 da LPI
+         vide item 6.4.6 das Diretrizes de Exame na Área de Biotecnologia  Resolução 144/2015);
+   7. Cabe ainda ressaltar que o tipo de caracterização utilizado na atual reivindicada 14 é dúbia
+         por incluir na definição do produto reivindicado seu processo de obtenção. Conforme
+         esclarecido no item 3.60 das Diretrizes de Exame de Pedidos de Patente (Resolução INPI
+         nº 124/2013), reivindicações de produto pelo processo por gerarem imprecisão, somente
+         são admissíveis se o produto em causa satisfaça os requisitos de patenteabilidade e não
+         possa ser definido por suas características estruturais.;
+
+
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                        Data de publicação
+    D5                                             WO2003/105757                             24/12/2003
+
+
+
+
+    Quadro 5 - Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                     Cumprimento   Reivindicações
+                                                                           Sim            1-15
+             Aplicação Industrial
+                                                                          Não              ---
+                                                                           Sim            1-15
+                     Novidade
+                                                                          Não              ---
+                                                                           Sim             ---
+             Atividade Inventiva
+                                                                          Não             1-15
+
+
+
+Comentários/Justificativas
+
+         O presente pedido aponta que a matéria ora revelada está baseado na capacidade de
+evoluir proteínas que atuam eficientemente para que atuem de forma reduzida ou inativa em
+condições de operação normais, mas que sejam eficientes em condições aberrantes. Neste
+sentido, fornece um método para o preparo e seleção das referidas proteínas. Contudo,
+considera-se que matéria ora pleiteada decorre dos ensinamentos da técnica.
+         O documento D5 revela um método de preparar e identificar proteínas de interesse
+condicionalmente ativas, inclusive anticorpos e fragmentos destes que está baseado na
+identificação de um anticorpo que se liga a um epítopo em uma condição fisiológica associada a
+um estado de doença e em uma segunda condição fisiológica associada a um estado saudável
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 6
+                                                        BR122019016209-3
+
+
+ou normal (página 7) de maneira diferente. A primeira condição tem um pH mais baixo que a
+segunda. A etapa de contato ocorre no espaço intersticial de um tecido. No método sugerido em
+D5, a ligação preferencial é efetuada como resultado de uma diferença no pH. A diferença entre
+o pH é entre 6,5 e 7,4. Em uma das concretizações de D5, são selecionados formas modificadas
+do anticorpo que apresentam uma maior preferência de ligação ao seu alvo na primeira
+condição (anormal) que na segunda (normal) em comparação com a forma não modificada para
+ligar ao alvo na primeira condição em relação a segunda condição (página 78). Logo, D5 revela
+um método de selecionar um anticorpo que condicionalmente ativo em condições fisiológicas
+distintas. Embora, D5 não faça uma seleção baseada na forma não modificada não há nenhuma
+indicação que esta comparação forneça uma vantagem ao método ora pleiteado. Tendo em vista
+que nenhum problema técnico foi claramente apresentado no presente pedido e tampouco
+existe uma demonstração de que o método ora pleiteado é capaz de obter o objetivo para qual é
+proposto, considera-se que a matéria ora pleiteada representa mais o resultado do exercício do
+campo das ideias com resultados incertos do que de uma expectativa justa de sucesso frente ao
+estado da técnica. Neste sentido, considera-se que a comprovação da existência de atividade
+inventiva frente aos documentos citados fica prejudicada e, portanto, os artigos 8º e 13 da LPI
+não estão atendidos.
+       Em resposta ao exame técnico do pedido original, a depositante sustenta que em vista
+de D5, o problema técnico a ser resolvido pelo método das reivindicações 1-5 do pedido original
+pode ser definido como a provisão de um método para gerar e selecionar um anticorpo
+condicionalmente ativo que reduz os efeitos colaterais. Contudo, não há nada no inicialmente
+apresentado que suporte que essa propriedade específica foi conseguida de fato, nenhum
+anticorpo foi demonstrado no inicialmente apresentado. Mesmo que os dados trazidos na
+manifestação ora análise fossem considerados, tal efeito benéfico para a redução dos efeitos
+colaterais também não foi demonstrado. Adicionalmente, o problema técnico ora apontado pela
+depositante também era conhecido e foi atacado por D5. D5 claramente destaca que é uma
+preocupação da técnica os efeitos colaterais que alguns agentes terapêuticos exibem (página 1,
+linhas 10-20) e sugere métodos para gerar agentes, tais como anticorpos, que têm atividade
+condicionalmente modificada em condições diferentes como de pH e temperatura para uma
+redução da ocorrência de efeitos colaterais. Novamente, embora, D5 não faça uma seleção
+baseada na forma não modificada não há nenhuma indicação concreta que esta comparação
+forneça uma vantagem ao método ora pleiteado.
+
+       Diante do exposto, a técnica anterior já havia revelado métodos para a geração de
+anticorpos condicionalmente ativos. Ainda era do conhecimento de um técnico no assunto a
+necessidade da redução dos efeitos colaterais pelo uso destes agentes. A correlação entre
+atividade condicional em situações fisiológicas distintas (normais/anormais) e a aplicação para a
+diminuição dos efeitos colaterais de agentes terapêuticos também havia sido feita. Soma-se que
+o pedido atual, no entanto, não fornece nenhuma evidência experimental que mostre que de
+fato, o método e o anticorpo ora pleiteado seja capaz de solucionar o problema ora apresentado.
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                      Página 7
+                                                        BR122019016209-3
+
+Deste modo, na falta de tais evidências, considera-se que o problema identificado pela
+depositante não foi resolvido e, portanto, não há como reconhecer que o requisito de atividade
+inventiva foi atingido. Neste sentido, considera-se que a comprovação da existência de atividade
+inventiva frente ao documento citado fica prejudicada e, portanto, os artigos 8º e 13 da LPI não
+estão atendidos.
+
+
+Conclusão
+
+       Tendo em vista que a orientação do item 3.3 (2.ii e 3.ii) das Diretrizes sobre a
+aplicabilidade do disposto no artigo 32 da LPI nos pedidos de patentes, no âmbito do INPI,
+publicada na Resolução INPI PR nº 093/2013, uma vez que já houve infração do pedido original
+frente ao disposto no artigo 32 da LPI, de acordo com o Art. 37, indefiro o presente pedido, uma
+vez que:
+
+
+      - acréscimo de matéria do pedido ou do escopo das reivindicações (Art. 32 da LPI)
+
+      -não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      - não apresenta suficiência descritiva (Art. 24 da LPI);
+
+      -as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório descritivo
+           (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                           Publique-se o indeferimento (9.2).
+
+
+
+                                                                      Rio de Janeiro, 19 de dezembro de 2019.
+
+
+Vania Lucia Ferreira Linhares da Silva
+Pesquisador/ Mat. Nº 1473306
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 8
+

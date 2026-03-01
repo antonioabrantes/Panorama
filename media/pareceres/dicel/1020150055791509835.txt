@@ -1,0 +1,142 @@
+                                         SERVIÇO PÚBLICO FEDERAL
+                                          MINISTÉRIO DA ECONOMIA
+                              INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                         BR102015005579-0           N.° de Depósito PCT:
+ Data de Depósito:                      12/03/2015
+ Prioridade Unionista:                  -
+ Depositante:                           SAMSUNG ELETRÔNICA DA AMAZÔNIA LTDA. (BRSP) , UNIÃO
+                                        BRASILEIRA DE EDUCAÇÃO E ASSISTÊNCIA (BRRS)
+ Inventor:                              RAFAEL HEITOR BORDINI, FELIPE RECH MENEGUZZI, RENATA
+                                        VIEIRA, ARTUR FREITAS, ANDREW KOSTER
+ Título:                                Método para alocação de tarefas em cenários dinâmicos 
+
+                                                                  PARECER
+       Em 01/11/2021, por meio da petição nº 870210100748, a Requerente optou por não
+apresentar modificações no pedido em resposta ao parecer emitido, notificado na RPI nº 2640 de
+10/08/2021 (despacho 7.1). Estas modificações estão consideradas no Quadro 1.
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas       n.o da Petição         Data
+Relatório Descritivo                                          1 à 47    860150041829-NPWB        12/03/2015
+Quadro Reivindicatório                                         1à3      860150041829-NPWB        12/03/2015
+Desenhos                                                       1à4      860150041829-NPWB        12/03/2015
+Resumo                                                         1à2      860150041829-NPWB        12/03/2015
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                           Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                   X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                           X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                      X
+O pedido está de acordo com disposto no art. 32 da LPI                                       X
+Comentários/Justificativas
+
+                       Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                           Sim         Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                         X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                       X
+Comentários/Justificativas
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                           Página 1
+                                                         BR102015005579-0
+
+
+
+                                    Quadro 4  Documentos citados no parecer
+ Código                                                Documento                                    Data de publicação
+    D1                                              US 7966220 B2                                           21/06/2011
+    D2                                              US 8527327 B1                                           03/09/2013
+    D3                                              US 6952828 B2                                           04/10/2005
+    D4                                              US 7349863 B1                                           25/03/2008
+    D5                                              US 7386465 B1                                           10/06/2008
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                     Cumprimento               Reivindicações
+                                                                           Sim                        1à8
+             Aplicação Industrial
+                                                                          Não                           -
+                                                                           Sim                        1à8
+                     Novidade
+                                                                          Não                           -
+                                                                           Sim                          -
+             Atividade Inventiva
+                                                                          Não                         1à8
+Comentários/Justificativas
+
+         Os documentos D3 e D4 foram desconsiderados como impeditivos no parecer anterior,
+sendo discutidos os documentos D1 à D2 e D5.                                     A respeito destes últimos, a requerente
+argumenta que a matéria pleiteada permite que o conhecimento acerca das tarefas sendo
+distribuídas entre usuários seja representado por uma ontologia de forma explícita com técnicas
+de inteligência artificial, permitindo também a realocação de tarefas (que não precisam ser pré
+planejadas) conforme disponibilidade de usuários. A requerente argumenta que o documento D1
+assume que as tarefas já estão alocadas previamente, não prevendo a definição de tarefas
+dinamicamente. Em relação ao documento D2 a requerente argumenta que este visa auxiliar
+gerentes de projetos a lidar com avaliações de riscos organizacionais e processos gerenciais,
+sem suportar a alocação e realocação dinâmica de tarefas aos usuários.                                      Em relação ao
+documento D5, a requerente argumenta que o mesmo procura desenvolver um programa de
+computador para agendar de maneira dinâmica um número arbitrário de recursos para um
+número arbitrário de tarefas considerando um número arbitrário de restrições enquanto a matéria
+do presente pedido forneceria meios para facilitar a distribuição de tarefas a um grupo de
+colaboradores com base em técnicas de IA.
+
+         Discorda-se da requerente, considera-se que um técnico no assunto seria capaz de chegar
+na parte técnica da matéria pleiteada na reivindicação 1 a partir da combinação dos ensinamentos
+do documento D5 com o documento D1 ou com os documentos D2 e D1. O documento D5 já
+revela a alocação dinâmica de recursos para tarefas, utilizando modelos estatísticos para isso
+(resumo; figura 5; coluna 4: linhas 24 à 48; coluna 5: linhas 7 à 51; coluna 10: linhas 22 à 29 de
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                               Página 2
+                                                          BR102015005579-0
+
+
+D5). Em relação ao método revelado no documento D1, este divide um projeto em pequenos
+eventos e rastreia a habilidade do grupo em executar as tarefas relativas aos eventos em tempo
+real (resumo; figuras 4; coluna 6: linhas 40 à 47; coluna 10: linhas 52 à 62; coluna 12: linhas 43 à
+62; reivindicações 1 à 10 e 15 de D1) enquanto o documento D2, por sua vez, revela um método
+para determinar o grau de controle na execução de um projeto, incluindo o uso de técnicas de
+inteligência artificial na análise de processos e recursos alocados a um projeto (coluna 34: linhas 2
+à 23 de D2) e uma interface para inclusão de tarefas relativas ao dito projeto (resumo; figuras 1, 4,
+7 à 9, 20; coluna 3: linhas 4 à 16; coluna 5: linha 27 à coluna 6: linha 60; coluna 8: linhas 15 à 64;
+coluna 14: linha 38 à coluna 15: linha 6; reivindicações 1, 11 e 20 de D2).
+
+       Entende-se que a matéria das reivindicações dependentes 2 à 8 não acrescenta atividade
+inventiva à matéria da reivindicação 1 e consequentemente, é mantida a análise de que a matéria
+das reivindicações 1 à 8 carece de atividade inventiva frente a combinação dos ensinamentos do
+documento D5 com os ensinamentos do documento D1 ou com os ensinamentos dos documentos
+D1 e D2 e encontra-se em desacordo com o Artigo 8º combinado ao 13 da LPI.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                        Rio de Janeiro, 30 de novembro de 2021.
+
+                                                                               Publique-se o indeferimento (9.2).
+
+
+Luciano Lauand Viana de Paula
+Pesquisador/ Mat. Nº 2042359
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 001/16
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                   Página 3
+

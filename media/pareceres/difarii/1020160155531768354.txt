@@ -1,0 +1,343 @@
+                            SERVIÇO PÚBLICO FEDERAL
+        MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                 INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                 RELATÓRIO DE EXAME TÉCNICO
+
+N.° do Pedido:             BR102016015553-3          N.° de Depósito PCT:
+Data de Depósito:          01/07/2016
+Prioridade Unionista:      -
+Depositante:               UNIVERSIDADE DE SÃO PAULO - USP (BRSP)
+Inventor:                  HUMBERTO GOMES FERRAZ, BIANCA RAMOS PEZZINI, DIVA
+                           SONAGLIO, MARCOS ANTONIO SEGATTO SILVA, ANDRÉ OREILLY
+                           BERINGHS, BRENDA DE ESPÍNDOLA, HELLEN KARINE STULZER
+                           @FIG
+Título:                    Sistemas multiparticulados liquissólidos para administração oral,
+                           processo de obtenção dos mesmos e seus usos
+
+                                                PARECER
+
+
+
+
+                           Quadro 1  Páginas do pedido examinadas
+             Elemento                   Páginas               n.o da Petição           Data
+
+Relatório Descritivo                      1-22                870210073669           12/08/2021
+Quadro Reivindicatório                     1-3                870230082375           18/09/2023
+Desenhos                                   1-2                870160033055           01/07/2016
+Resumo                                      1                 870210073669           12/08/2021
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                 Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                       X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                               X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                         X
+O pedido está de acordo com disposto no art. 32 da LPI                          X
+Comentários/Justificativas
+
+
+
+
+@MODELO_SISCAP@                                                                      Página 1 de 7
+                                           BR102016015553-3
+
+
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                              Sim                Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                            X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                          X
+Comentários/Justificativas
+
+
+
+
+                            Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                Data de publicação
+    D1          ZHAO X ET AL. Development of a self micro-emulsifying tablet                 2011
+                 of cyclosporine A by the liquisolid compact technique. Int. J.
+                         Pharm. Sci. Res. vol. 2, n. 9, pp 2299-2308.
+    D2            HU X ET AL. Sirolimus solid self-microemulsifying pellets:              2012
+                 Formulation development, caracterization and bioavailability
+                       evaluation. Int. J. Pharm. v. 438, pp. 123-133.
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento               Reivindicações
+                                                         Sim                        1-7
+            Aplicação Industrial
+                                                        Não                          -
+                                                         Sim                        3-6
+                   Novidade
+                                                        Não                       1, 2 e 7
+
+                                                         Sim                         -
+             Atividade Inventiva
+                                                        Não                         3-6
+Comentários/Justificativas
+
+         A nova reivindicação 1 recita sistemas multiparticulados liquissólidos para administração
+oral caracterizados por compreenderem:
+
+         - uma medicação líquida, a qual consiste em um ou mais fármacos selecionados das
+classes BCS II ou IV em uma concentração que varia de 0,1 a 50% (m/m) associados a um
+solvente não volátil selecionado;
+
+         - 10 a 90% (m/m) de um carreador selecionado; e
+
+         - 4 a 60% (m/m) de um material de revestimento selecionado.
+
+         Os sistemas liquissólidos ensinados nos exemplos do relatório utilizam:
+
+         - os fármacos felodipino e ritonavir, como representantes das classes BCS II ou IV;
+
+         - óleo de rícino polietoxilado (Cremophor El ou Kolliphor EL) ou PEG400 como solventes
+não voláteis;
+
+
+                                                                                          Página 2 de 7
+                                         BR102016015553-3
+
+
+       - celulose microcristalina (CMC), como um carreador;
+
+       -   crospovidona      (kollidon   CL-SF)     como      agente    de     revestimento/agente
+superdesintegrante; e
+
+       - água purificada.
+
+       O primeiro parecer técnico de ciência (7.1) concluiu que a matéria das antigas
+reivindicações 1-3, 7-9 não era nova (Arts. 8o e 11 da Lei 9279/96) e o restante da matéria não
+apresentava atividade inventiva (Arts. 8o e 13 da Lei 9279/96) frente a D1 e D2; além disso, o
+relatório carecia de suficiência descritiva (Art. 24 da Lei 9279/96) e o quadro de fundamentação,
+clareza e precisão (Art. 25 da Lei 9279/96) para o termo polímero hidrofílico e para a matéria
+da reivindicação 4.
+
+       Com base no novo quadro reivindicatório e em todos os esclarecimentos apresentados
+pela Requerente, entende-se que as objeções anteriormente levantadas sobre a suficiência
+descritiva, fundamentação, clareza e precisão do quadro, bem como sobre a novidade e
+atividade inventiva não foram superadas, pelas razões discutidas adiante.
+
+
+
+Fundamentação, clareza e precisão do quadro (Art. 25 da Lei 9279/96)
+
+       O primeiro parecer técnico apontou que não havia clareza e precisão (Art. 25 da Lei
+9279/96) no termo polímero hidrofílico porque este termo não define claramente qual é a
+estrutura ou a natureza química concreta de tais polímeros.
+
+       Da forma como está redigida a nova reivindicação 1, particularmente a passagem
+polímeros hidrofílicos, como croscarmelose sódica, glicolato de amido sódico e crospovidona,
+indica que um polímero hidrofílico não está limitado apenas aos três polímeros mencionados,
+mas também que há outros polímeros hidrofílicos possíveis, embora não definidos aqui. Em
+outras palavras, apenas há clareza e precisão, bem como suficiência descritiva para polímeros
+hidrofílicos selecionados de croscarmelose sódica, glicolato de amido sódico e crospovidona.
+
+       Por outro lado, com base nos esclarecimentos apresentados pela Requerente, entende-
+se que as objeções sobre o termo agente superdesintegrante (desde que definindo
+concretamente o nome do composto), bem como sobre o processo de revestimento por uma
+película film coating em um sistema de leito fluidizado, foram resolvidas.
+
+
+
+D1 (Zhao et al, 2011)
+
+       Em relação ao documento D1, a Requerente defende que este documento apresenta
+problemas e limitações, tais como: baixa capacidade de veiculação de ativos e baixa viabilidade
+de processo em escala industrial.
+
+       Por outro lado, segundo a Requerente, o presente pedido apresenta, vantajosamente, a
+capacidade de suportar concentrações maiores de substâncias ativas; aplicabilidade a uma
+
+
+
+                                                                                      Página 3 de 7
+                                       BR102016015553-3
+
+
+variedade muito maior de fármacos, que requerem dosagens mais elevadas; propriedades de
+fluxo muito superiores; viabilidade de processamento em escala industrial; e viabilidade de
+revestimento.
+
+       Em relação à carga de fármaco no sistema liquissólido, a Requerente aponta que em D1
+é necessário um comprimido de 650 mg de massa para veicular uma dose de 25 mg do
+fármaco; esta dose corresponde a 3,85% de fármaco em massa por comprimido, como indicado
+na tabela 3 de D1. Por outro lado, a tabela 2 do presente pedido apresenta pellets com 15% de
+ritonavir, ou seja, a concentração do fármaco é referida pela Requerente como sendo mais de
+cinco vezes superior em relação à D1. Segundo a Requerente, a incorporação de alta carga do
+fármaco é um desafio técnico no desenvolvimento de comprimidos liquissólidos; a Requerente
+apresenta o artigo DE ESPÍNDOLA et al 2019 para reforçar esta noção.
+
+       Em relação à aplicação em escala industrial, a Requerente defende que as formulações
+de D1 não são adequadas para o processamento em escala industrial, devido a suas
+propriedades de força tênsil e de fluxo inadequadas, diferentemente das formulações ora
+pleiteadas, as quais apresentam uma excelente propriedade de fluxo. Ademais, os resultados de
+friabilidade das formulações pleiteadas indicam que são adequadas para o film coating, o que
+também as diferencia das formulações de D1. Segundo a Requerente, D1 apresenta baixa
+viabilidade de processamento em escala industrial (talvez, inviabilidade), pois resulta em
+comprimidos muito frágeis, que não suportariam o estresse mecânico gerado em etapas de
+produção, como revestimento e embalagem.
+
+       Entretanto, não é possível concordar, respeitosamente, com a Requerente em todos
+estes pontos.
+
+       Em relação à carga do comprimido, observa-se que as formulações ora pleiteadas não
+estão limitadas a altas cargas do fármaco. Pelo contrário, o escopo da reivindicação 1 abrange
+tanto baixas como altas cargas do fármaco, uma vez que abrange uma faixa de concentração
+entre 0,1 a 50% (m/m). Esta faixa de concentração abrange o valor de 3,85% em D1, de modo
+que a questão da novidade não é resolvida frente a D1.
+
+       Portanto, a alegação segundo a qual o presente pedido resolve um problema de
+incorporar uma alta carga do fármaco em sistemas liquissólidos não prospera, visto o presente
+pedido não exclui baixas cargas do fármaco. Características técnicas especiais que representam
+uma contribuição que a invenção reivindicada traz em relação ao estado da técnica devem estar
+incluídas no quadro reivindicatório, com a finalidade de lhe conferir novidade e atividade
+inventiva.
+
+       Em relação à aplicação industrial, não é possível aferir quais características técnicas dos
+sistemas pleiteados são responsáveis por determinar uma aplicação industrial, em oposição aos
+sistemas antecipados em D1 ou D2. Em outras palavras, o escopo da reivindicação 1 não
+distingue modalidades que podem ser processadas em escala industrial daquelas que não;
+sendo assim, a questão da novidade não foi resolvida para a matéria das reivindicações 1, 2 e 7.
+
+
+
+
+                                                                                     Página 4 de 7
+                                        BR102016015553-3
+
+
+        Conforme discutido no primeiro parecer técnico, os sistemas liquissólidos pleiteados são
+do ponto de vista quali- e quantitativo muito similares senão idênticos àqueles de D1 ou D2. Até
+que se demonstre o contrário para casos específicos, formulações similares ou idênticas
+produzem efeitos técnicos similares ou idênticos entre si.
+
+        Cabe retomar que o documento D1 (Zhao et al, 2011) desenvolveu um comprimido auto-
+microemulsificante de ciclosporina A (um fármaco da classe BCS IV) por uma técnica compacta
+liquissólida.
+
+        Como solvente não volátil, D1 descreve vários solventes, tais como Span 80
+(polissorbato), PEG-400, óleo de rícino polietoxilado (PEG-35 castor oil ou Cremophor),
+propilenoglicol, Labrasol (polioxiglicerídeos), os quais estão dentro do escopo da reivindicação 1
+(ver página 2301, seção Solubility studies).
+
+        Como carreador, o sistema liquissólido de D1 utiliza vários tipos de celulose, incluindo
+celulose microcristalina, além de amido, e lactose (ver página 2300, coluna esquerda, penúltimo
+parágrafo; seção Materials, página 2301, coluna esquerda).
+
+        Em relação à quantidade do carreador, a tabela 3 de D1 indica que Avicel PH 101
+(celulose microcristalina, um carreador) está presente nas formulações LS-1 a LS-7 entre 33,3%
+a 50% (p/p).
+
+        Como material de revestimento/agente superdesintegrante, D1 antecipa aluminossilicato
+de magnésio, croscarmelose sódica, glicolato de amido sódico e crospovidona (ver página 2300,
+coluna esquerda, penúltimo parágrafo; seção Materials, página 2301, coluna esquerda). Em
+relação à quantidade de revestimento, D1 adiciona 4% Ac-Di-Sol (croscarmelose sódica)
+externamente como desintegrante e/ou 4% como um desintegrante interno (ver seção
+Preparation of liquidsolid tablets, página 2303, coluna esquerda; e página 2305, coluna direita).
+
+        Em relação ao método de preparo, D1 não menciona uma etapa de revestimento
+pelicular ou film coating em um sistema de leito fluidizado, como recitado na reivindicação 3, ou
+um equipamento de mistura (reivindicação 5) ou uma etapa de homogeneização (reivindicação
+4).
+
+        Entretanto, não é possível aferir uma atividade inventiva a estas etapas, visto que tais
+operações e equipamentos são muito comuns em uma indústria farmacêutica, de modo que um
+técnico no assunto é capaz, dentro de suas habilidades medianas, de adaptar uma preparação
+de bancada para uma escala ainda maior na produção farmacêutica.
+
+
+
+D2 (HU et al, 2012)
+
+        Em relação à D2 (HU et al, 2012), a Requerente desta que, assim como em D1, D2
+apresenta uma capacidade muito baixa de veiculação de ativos; a concentração do fármaco foi
+fixada em 0,41% (ver tabela 6 de D2).
+
+
+
+
+                                                                                      Página 5 de 7
+                                       BR102016015553-3
+
+
+       Segundo a Requerente, o presente pedido é muito mais versátil do que D2 visto que os
+sistemas pleiteados não exigem que o fármaco esteja, necessariamente, solubilizado no
+solvente(s) não volátil (eis).
+
+       A Requerente aponta ainda outra razão que limita a versatilidade de D2 é a proporção
+requerida entre as massas de excipientes sólidos e solventes líquidos. A tabela 6 de D2
+apresenta concentrações fixas de 33,2% de solventes líquidos (80 mg) e 66,39% de excipientes
+sólidos (160 mg), ou seja, a concentração de excipientes sólidos é o dobro em relação à
+concentração de líquidos, tal qual os autores afirmam ser necessário para o processamento dos
+pellets. Por outro lado, o presente pedido não apresenta a mesma limitação, admitindo massas
+inferiores de excipientes sólidos em relação à massa dos solventes líquidos.
+
+       Mais uma vez, não é possível concordar, respeitosamente, com a Requerente em todos
+estes pontos.
+
+       Em primeiro lugar, de forma análoga ao discutido para D1, uma concentração de 0,41%
+do ativo nas formulações de D2 está dentro da faixa recitada na nova reivindicação 1 e não
+configura uma característica nova.
+
+       Em segundo lugar, a nova redação da reivindicação 1 inclui a passagem
+preferencialmente associados a um solvente não volátil. Entretanto, os sistemas liquissólidos
+pleiteados utilizam necessariamente um solvente não volátil. Os exemplos utilizam óleo de rícino
+polietoxilado (Cremophor El ou Kolliphor EL) ou PEG400 como solventes não voláteis. Portanto,
+não é possível admitir a ausência de um solvente não volátil.
+
+       Ademais, não é possível aferir que a característica de o fármaco estar ou não
+necessariamente solubilizado no solvente não volátil é capaz de conferir um efeito notável ou
+surpreendente sobre os produtos finais ou sobre os métodos ensinados em D1 ou D2.
+
+       Em relação à proporção de excipientes sólidos/ solventes líquidos, o presente pedido
+define uma quantidade de 1 a 50% de solvente não volátil e uma quantidade de 10 a 90% de
+excipiente sólido (carreador). As proporções relativas de ambos são bastante amplas e elásticas,
+abrangendo inclusive a proporção citada em D2 de excipiente sólido como sendo o dobro
+daquela do solvente líquido.
+
+       Enfim, não se observa qualquer característica técnica, inclusive nas reivindicações
+dependentes, que possa servir de base para justificar uma atividade inventiva ao presente
+pedido.
+
+
+
+
+                                                                                   Página 6 de 7
+                                      BR102016015553-3
+
+
+Conclusão
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não
+foram apresentados argumentos técnicos que permitam reverter o entendimento anterior, no
+primeiro parecer técnico (7.1) notificado na RPI 2737 de 20/06/2023, visto que o presente pedido
+encontra-se em desacordo com os Arts. 8o, 11 e 13, 24 e 25 da Lei 9279/96.
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                         Rio de Janeiro, 03 de outubro de 2023.
+
+                                                              Publique-se o indeferimento (9.2).
+
+
+
+
+Dárcio Gomes Pereira
+Pesquisador/ Mat. Nº 1741666
+DIRPA / CGPAT I/DIFAR-II
+Deleg. Comp. - Port. INPI/DIRPA No 001/15
+
+
+
+
+                                                                                   Página 7 de 7
+

@@ -1,0 +1,206 @@
+                              SERVIÇO PÚBLICO FEDERAL
+          MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                   INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112020026876-3           N.° de Depósito PCT:JP2019/043039
+ Data de Depósito:                   01/11/2019
+ Prioridade Unionista:               JP 2018-206969 (02/11/2018)
+ Depositante:                        NIPPON STEEL CORPORATION (JP)
+ Inventor:                           HIROYOSHI YASHIKI; YOSHIAKI NATORI; MIHO TOMITA;
+                                     KAZUTOSHI TAKEDA; TAKUYA MATSUMOTO
+ Título:                             Chapa de aço elétrico não orientado
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                1/35 a 35/35             870230049920           12/06/2023
+Quadro Reivindicatório                                 1/2 a 2/2             870230049920           12/06/2023
+Desenhos                                                    -                       -                   -
+Resumo                                                     1/1               870230049920           12/06/2023
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                         x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                 x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         x
+Comentários/Justificativas
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                  Página 1
+                                       BR112020026876-3
+
+
+
+
+                         Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                               Data de publicação
+    D1       US2015/0187475 A1                                                         02/07/2015
+    D2       WO2018/025941 A1                                                          08/02/2018
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento                 Reivindicações
+                                                    Sim                           1a5
+            Aplicação Industrial
+                                                    Não                            -
+                                                    Sim                           1a5
+                 Novidade
+                                                    Não                            -
+                                                    Sim                            -
+            Atividade Inventiva
+                                                    Não                           1a5
+
+
+
+Comentários/Justificativas
+
+
+
+         Em petição de nº 870230049920, impetrada em 12/06/2023, a requerente apresentou
+manifestação sobre parecer desfavorável.
+
+
+
+         Nessa petição a requerente apresentou novas vias do relatório descritivo, quadro
+reivindicatório e resumo, a fim de corrigir erros de tradução apontados no parecer anterior. A
+requerente optou por não alterar a matéria pleiteada no quadro reivindicatório.
+
+
+
+         No que concerne ao suposto mérito de patenteabilidade do presente pedido, o cerne da
+argumentação da requerente reside no controle simultâneo dos elementos Al, Si, Mn. A
+requerente alega que, no presente pedido, ao se reduzir o teor de Al, que pode deteriorar a
+trabalhabilidade (como laminação a frio) tanto quanto possível, e ao se ajustar os teores de Si e
+Mn dentro das faixas apropriadas, a trabalhabilidade seria garantida ao mesmo tempo em que
+se obtém alto reforço mecânico e uma melhoria nas características magnéticas. Para embasar
+sua argumentação a requerente copia os parágrafos [0040] e [0041] do relatório descritivo do
+presente pedido.
+
+
+
+
+                                                                                             Página 2
+                                        BR112020026876-3
+
+
+        A requerente defende que não haveria absolutamente qualquer descrição nem sugestão
+em D1 e D2 que conduziria à matéria do presente pedido e que este Instituto teria feito uma
+análise em retrospectiva.
+
+
+
+        Todos os argumentos apresentados pela requerente foram levados em consideração e
+são tratados em detalhe doravante.
+
+
+
+        No que concerne ao controle simultâneo dos elementos Al, Si e Mn, o parágrafo [0002]
+de D1 já prevê explicitamente o controle simultâneo de Si e Al, dentre outros elementos, a saber:
+(...) it has hitherto been attempted to decrease the iron loss by adding an element such as Si, Al
+or the like.
+
+
+
+        Não obstante, tanto o documento D1 quanto o documento D2 divulgam o controle
+simultâneo dos elementos Al, Si e Mn, uma vez que nenhum desses é opcional nos documentos
+supracitados.
+
+
+
+        Os parágrafos [0042] e [0043] de D1 destacam que o Al tem o efeito de aumentar a
+resistência elétrica do aço, porém em grandes quantidades tal elemento pode endurecer o aço e
+prejudicar a capacidade de laminar o mesmo. Em outras palavras, grandes quantidades de Al
+reduzem a tenacidade do aço e consequentemente a trabalhabilidade no momento da laminação
+a frio é deteriorada. O efeito técnico do Al também é divulgado no parágrafo [0029] do
+documento D2, a saber: tal elemento aumenta a resistência elétrica do aço, porém grandes
+quantidades do mesmo reduzem a trabalhabilidade do material.
+
+
+
+        Os parágrafos [0040] e [0041] de D1, por sua vez, divulgam que o Mn é adicionado para
+melhorar a trabalhabilidade a quente do material. O parágrafo [0030] de D2 divulga que o
+elemento Mn aumenta a resistência elétrica desse tipo de aço. Seria, assim, evidente para um
+técnico no assunto, com base na combinação dos conhecimentos divulgados em D1 e D2,
+aumentar o teor de Mn para minimizar a deterioração da trabalhabilidade do aço.
+
+
+
+        Por fim, o efeito técnico do Si já é divulgado nos parágrafos [0038] e [0039] de D1 e no
+parágrafo [0028] de D2, saber: tal elemento tem o efeito de aumentar a resistência elétrica do
+aço, além de aumentar a resistência mecânica do mesmo.
+
+
+
+        Reitera-se que o documento D2 em especial é da mesma requerente do presente pedido.
+
+
+
+
+                                                                                            Página 3
+                                       BR112020026876-3
+
+
+       Observa-se que não foi feita de forma alguma uma análise em retrospectiva, uma vez
+que os efeitos técnicos dos elementos pleiteados já eram plenamente conhecidos pelo técnico
+no assunto no momento do depósito do pedido em tela.
+
+
+
+       Consequentemente os argumentos da requerente não foram considerados persuasivos.
+
+
+       Reitera-se que o presente pedido é óbvio para um técnico no assunto a partir da
+combinação dos conhecimentos divulgados nos documentos D1 e D2.
+
+
+
+Conclusão
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                              Rio de Janeiro, 19 de junho de 2023.
+
+
+
+Frederico de Carvalho Nunes
+Pesquisador/ Mat. Nº 1741637
+DIRPA / CGPAT IV/DIMAT
+Deleg. Comp. - Port. INPI/DIRPA Nº 003/13
+
+
+
+
+                                                                                          Página 4
+

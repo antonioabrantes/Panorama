@@ -1,0 +1,151 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112015014925-1           N.° de Depósito PCT:US2013/077341
+ Data de Depósito:                   21/12/2013
+ Prioridade Unionista:               US 61/745,179 (21/12/2012); US 14/073,860 (06/11/2013)
+ Depositante:                        GOOGLE LLC (US)
+ Inventor:                           YONATAN ZUNGER; LAN LIU; JUSTIN LEWIS; CYNTHIA
+                                     JOHANSON; HENRY WONG; NUNDU JANAKIRAM; PRASENJIT
+                                     SARKAR; BRETT HOBBS; JOHN FISHER; DAN PETERSON
+ Título:                             Método para agregar interações para itens de conteúdo 
+
+                                                                PARECER
+
+
+Em 04/07/2022, por meio da petição 870220058649, a Requerente apresentou modificações no
+pedido em resposta ao parecer emitido, notificado na RPI 2674 de 05/04/2022 (despacho 7.1).
+Estas modificações estão consideradas no Quadro 1.
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                  n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 61                  870220058649           04/07/2022
+Quadro Reivindicatório                                   1a4                    870220058649           04/07/2022
+Desenhos                                                1 a 25               860150126879 (Petição     19/06/2015
+                                                                                 de Depósito)
+Resumo                                                      1                   870220058649           04/07/2022
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                   Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                         X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                 X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                           X
+O pedido está de acordo com disposto no art. 32 da LPI                                            X
+Comentários/Justificativas
+
+---
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                  Página 1
+                                           BR112015014925-1
+
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+Comentários/Justificativas
+---
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+      D1    US2012151383 A1                                                        14/06/2012
+
+
+      Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade               Cumprimento           Reivindicações
+                                                         Sim                   1 a 15
+            Aplicação Industrial
+                                                        Não                      ---
+                                                         Sim                   1 a 15
+                 Novidade
+                                                        Não                      ---
+
+                                                         Sim                     ---
+            Atividade Inventiva
+                                                        Não                    1 a 15
+Comentários/Justificativas
+Em sua Manifestação, a requerente alega discordar da análise realizada no Parecer de Ciência
+que considerou como matéria técnica do presente pedido um servidor compreendendo um
+processador, em comunicação com um destino através de uma rede de comunicação, o
+recebimento de requisições e a recuperação de dados para o usuário. E que a reivindicação
+independente 1 foi alterada, considerando corretamente que a retirada da matéria não
+considerada técnica pode ser feita sem violar o Art. 32 da LPI. A Requerente então apresenta
+esclarecimentos defendendo que a matéria como reivindicada deve ser considerada como matéria
+técnica, uma solução técnica para um problema técnico.
+A matéria reivindicada na nova reivindicação 1 refere-se a um método para notificações cientes de
+localização de destinatário, que recebe um pedido de um primeiro usuário para gerar primeiras
+informações em uma primeira localização que corresponde a uma página de rede, fornece as
+informações pedidas em uma segunda localização, recebe um pedido de um terceiro usuário para
+gerar segundas informações responsivas às primeiras, identifica um destino associado com o
+primeiro usuário, determina se o usuário interagiu com a primeira ou segunda localização, e
+fornece uma notificação para o primeiro usuário, em que a notificação identifica as segundas
+informações e uma referência ao grupo de itens de dados na primeira localização ou na segunda
+localização com base na determinação de se o grupo de itens de dados foi interagido com pelo
+primeiro usuário da rede na primeira localização ou na segunda localização.
+
+
+                                                                                          Página 2
+                                       BR112015014925-1
+
+Já o sistema revelado no documento D1 compreende uma rede social que permite comentários
+contendo referências a conteúdos de um servidor externo (D1, parágrafo 0023), armazenando
+identificadores de conteúdos e comentários um item de conjunto de dados (D1, parágrafo 0028), e
+a recuperação de dados baseada nos identificadores e sua recuperação para o usuário (D1,
+parágrafos 0030 e 0031).
+O que distingue a matéria reivindicada no presente pedido e a matéria revelada em D1 são as
+diferentes maneiras de recuperar as informações a serem fornecidas, bem como as opções de
+implementação destas requisições e recuperações de dados para os usuários. Estas diferentes
+maneiras de manipular os dados são decorrentes das características específicas da rede social
+em que o sistema de D1 é aplicado e seus objetivos, podendo inclusive ser implementado de
+várias outras maneiras, como exemplificado em D1 (parágrafos 0028 a 0036), não caracterizando
+portanto atividade inventiva.
+Assim, a matéria pleiteada na reivindicação 1 não atende ao requisito de atividade inventiva, pois
+decorre de maneira óbvia para um técnico no assunto a partir dos ensinamentos do documento
+D1. E nas reivindicações dependentes 2 a 15 não foram identificadas características que, mesmo
+quando combinadas com as características de qualquer reivindicação independente a que se
+referem, venham a prover novidade e/ou a atividade inventiva à matéria.
+
+
+
+Conclusão
+Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende ao
+requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da data
+de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                              Rio de Janeiro, 27 de julho de 2022.
+
+
+
+
+Rodrigo de Paula Pereira
+Pesquisador/ Mat. Nº 1742451
+Deleg. Comp. - Port. INPI/DIRPA Nº
+004/15
+
+
+
+
+                                                                                         Página 3
+

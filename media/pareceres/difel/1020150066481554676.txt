@@ -1,0 +1,165 @@
+                                         SERVIÇO PÚBLICO FEDERAL
+                                          MINISTÉRIO DA ECONOMIA
+                              INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.º do Pedido:                       BR102015006648-1            N.º de Depósito PCT: ----
+ Data de Depósito:                    25/03/2015
+ Prioridade Unionista:                ----
+ Depositante:                         Centro Nacional de Tecnologia Eletrônica Avançada S.A. (BRRS)
+ Inventor:                            Josias Otaciel Mainardi, Fabricio Mattos, Egas Carvalho Henes Neto
+ Título:                              Arquitetura de Limitador de Tensão Calibrável
+                                                                      PARECER
+
+      A Requerente recebeu notificação de Ciência de Parecer (7.1) publicada na RPI nº 2657 de
+07/12/2021. Através da petição nº 870220018994 de 07/03/2022, a mesma apresentou
+Manifestação sobre o Parecer Técnico e novo Quadro Reivindicatório. Para fins de continuidade
+do exame estão sendo consideradas as vias abaixo:
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas           Nº da Petição         Data
+                                                                                870210101981
+ Relatório Descritivo                                           1-9                                 05/11/2021
+                                                                                 Págs. 6 a 14
+                                                                                870220018994
+ Quadro Reivindicatório                                                                             07/03/2022
+                                                                                   Págs.
+                                                                                870210101981
+ Desenhos                                                       1-3                                 05/11/2021
+                                                                                Págs. 17 a 19
+                                                                                870210101981
+ Resumo                                                         1                                   05/11/2021
+                                                                                   Pág. 20
+
+                  Quadro 2 - Considerações referentes aos Artigos 10, 18, 22 e 32 da LPI
+ Artigos da LPI                                                                             Sim         Não
+ A matéria enquadra-se no Art. 10 da LPI (não se considera invenção)                                     X
+ A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                                             X
+ O pedido apresenta Unidade de Invenção (Art. 22 da LPI)                                        X
+ O pedido está de acordo com disposto no Art. 32 da LPI                                         X
+Comentários/Justificativas: ----
+                        Quadro 3 - Considerações referentes aos Artigos 24 e 25 da LPI
+ Artigos da LPI                                                                             Sim         Não
+ O relatório descritivo está de acordo com disposto no Art. 24 da LPI                           X
+ O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI                         X
+Comentários/Justificativas: ----
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                               Página 1
+                                          BR102015006648-1
+
+                           Quadro 4 - Documentos citados no parecer
+ Código                                Documento                                              Data de publicação
+             US2012235636
+             Título: Systems and Methods for Providing Positioning
+    D1       Freedom, and Support of Different Voltages, Protocols, and                              2012-09-20
+             Power Levels in a Wireless Power System
+             Depositante: Partovi Afshin
+             US5812942
+             Título: Balanced Differential Radio Receiver and Method of
+    D2                                                                                               1998-09-22
+             Operation
+             Depositante: XXXX
+             S. Li, J. Shen, S. Liu, Ke Lin and X. Wang, A Novel Voltage
+             Limiter Circuit for Passive RFID Tag IET International
+    D3                                                                                               2012-12-09
+             Conference on Information Science and Control Engineering
+             2012 (ICISCE 2012), 2012, pp. 1-4, doi: 10.1049/cp.2012.2400.
+
+      Quadro 5 - Análise dos Requisitos de Patenteabilidade (Art. 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento                              Reivindicações
+                                                     Sim                                        1-12
+             Aplicação Industrial
+                                                    Não                                          ----
+                                                     Sim                                        1-12
+                  Novidade
+                                                    Não                                          ----
+                                                     Sim                                         ----
+             Atividade Inventiva
+                                                    Não                                         1-12
+Comentários/Justificativas:
+    Na manifestação a Requerente alega que presente pedido de privilégio de patente de
+invenção apresenta uma arquitetura de limitador de tensão calibrável operando em malha aberta
+que alcança o objetivo de regular a tensão de alimentação do sistema com menor consumo e
+rápida velocidade de resposta mesmo compreendendo menor número de elementos e,
+consequentemente, menor grau de complexidade e custo reduzido. Ou seja, em comparação com
+o estado da técnica, a arquitetura ora apresentada compreende um menor número de
+componentes e alcança efeitos técnicos aperfeiçoados, indicando a presença de atividade
+inventiva.
+
+    A Requerente alega que uma tag RFID passiva é alimentada pela própria energia presente na
+antena de comunicação. Portanto, quando exposta ao campo eletromagnético emitido pelo leitor a
+tag não sabe a priori a qual intensidade de sinal (potência) ela está/será submetida. A energia
+mínima que chega à antena da tag define sua sensibilidade e a correspondente distância máxima
+de reposta da TAG ao leitor. A sensibilidade varia em função da resposta (leitura e/ou escrita),
+portanto do circuito que implementa as respostas da tag a um comando vindo do leitor leva a
+diferentes perfis de consumo. Portanto, o clamper deve ser capaz a se adaptar rapidamente tanto
+
+
+
+                                                Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 2
+                                         BR102015006648-1
+
+a alterações de potência incidente na antena como a consumida pela própria TAG para gerar a
+resposta desejada pelo leitor.
+
+    A Requerente alega que D3 implementa uma solução com realimentação negativa - uma
+fração da tensão de saída VLIM (VB) é retro alimentada através do amplificador diferencial (MCI -
+MC2) e comparada com a tensão VREF.
+
+    A Requerente alega que D3 apresenta tempos de resposta longos quando comparados com
+as taxas de símbolos típicas dos sistemas de RFID UHF, tempos estes decorrentes justamente do
+emprego de realimentação negativa. Adicionalmente, D3 é silente quando ao impacto no
+comportamento real de sistemas RFID onde a carga (consumo da TAG) é dinâmico, que neste
+caso geraria dentes (glitches) na tensão de saída quando da alteração do consumo semelhantes
+aos mostrados na figura 5.b; podendo levar a funcionamento anômalo da TAG e não aderente as
+normas associadas.
+
+    A Requerente alega que D1, D2 e D3 são silentes quando a resolver o problema de sobre
+potência TAG RFID passiva empregando um limitador de tensão imune a variação de processos
+de fabricação empregando sem empregar realimentação negativa.
+
+    A Requerente alega que o presente pedido de privilégio de patente de invenção define uma
+topologia para utilizar a calibração em fábrica empregando de uma fonte de corrente ajustável
+(limitador de tensão ou regulador de tensão do tipo paralelo). Ajustando o joelho onde a fonte de
+corrente começa conduzir permite não só limitar a tensão dentro de uma faixa segura de operação
+como ter uma regulação de tensão para suprir alimentação aos blocos de circuitos adicionais.
+
+    A Requerente alega que reivindicação 1 foi emendada para definir que o circuito reivindicado
+opera em uma malha aberta.
+
+    Apesar do documento utilizado para se delimitar o estado da técnica não descrever
+explicitamente um sistema de malha aberta, conter mais dispositivos que o do presente pedido de
+privilégio de patente de invenção e que potência TAG RFID passiva empregando um limitador de
+tensão imune a variação de processos de fabricação empregando sem empregar realimentação
+negativa, tais características são inerentes à matéria pleiteada e, portanto óbvias para um técnico
+no assunto.
+
+Conclusão
+    Face ao exposto, conclui-se que a invenção ora pleiteada decorre de maneira evidente ou
+óbvia, para um técnico no assunto, a partir do estado da técnica, sendo desprovida de atividade
+inventiva, conforme Art. 13 da LPI.
+
+    Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que o mesmo não
+atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+    Rio de Janeiro, 30 de março de 2022.
+
+
+
+                                                Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 3
+                                              BR102015006648-1
+
+Publique-se o indeferimento (9.2).
+
+CAMILO BRAGA GOMES
+Pesquisador / Mat. Nº 1547071
+DIRPA / CGPAT III / DIFEL
+Deleg. Comp. - Port. INPI / DIRPA Nº 022/12
+
+
+
+
+                                                    Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 4
+

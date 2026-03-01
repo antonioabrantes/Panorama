@@ -1,0 +1,585 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112014022817-5          N.° de Depósito PCT: US2013/030222
+ Data de Depósito:                   11/03/2013
+ Prioridade Unionista:               US 61/685,224 (14/03/2012)
+ Depositante:                        MEMBRANE PROTECTIVE TECHNOLOGIES, INC. (US)
+ Inventor:                           JAMES A. HERICKHOFF, PATRICK D. BURNS, NICOLE R. WHITE,
+                                     LISA A. HERICKHOFF
+ Título:                             Processo de aumento da criopreservação de células biológicas e
+                                     composição de criopreservação 
+
+                                                              PARECER
+
+
+          Tendo em vista as restrições formuladas pela Depositante no quadro reivindicatório, o
+presente pedido pretende proteção para um processo de criopreservação de células biológicas,
+caracterizado por compreender as etapas de:
+
+          - montagem de uma coleção celular contendo uma pluralidade de células biológicas;
+
+          - estabelecimento de um fluido de criopreservação contendo lipídios a ser posteriormente
+incorporado nas referidas células biológicas na criopreservação;
+
+          - após a referida etapa de estabelecimento de um fluido de criopreservação contendo
+lipídios para ser posteriormente incorporado às referidas células biológicas na criopreservação,
+adicionar de ao menos 270 J/kg de energia superficial aos referidos lipídios no referido fluido de
+criopreservação contendo lipídios sem filtrar o referido fluido de criopreservação contendo lipídios
+para criar um fluido de criopreservação de energia superficial lipídica aumentada pela
+multiplicação do número de gotículas lipídicas discretas no fluido sem alterar a concentração total
+(v/v ou p/v) do lipídio em relação aos componentes restantes do fluido de criopreservação;
+
+          - após a referida etapa de adição dos referidos pelo menos 270 j/kg de energia superficial
+a todos os referidos lipídios no referido fluido de criopreservação contendo lipídios para criar o
+referido fluido de criopreservação aumentado de energia superficial lipídica, misturar todos os
+referidos fluidos de criopreservação de energia superficial lipídica aumentada e das referidas
+células biológicas para formar um compósito de criopreservação fluídico de energia aumentada;
+
+          - remoção de energia térmica do referido compósito de criopreservação fluídico;
+
+          - congelamento do referido compósito de criopreservação fluídico por redução da
+temperatura do referido compósito de criopreservação fluídico abaixo do ponto de congelamento
+da água; e
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                    Página 1
+                                             BR112014022817-5
+
+       - fornecimento de uma viabilidade pós-criogênica para as referidas células biológicas,
+como resultado das etapas acima.
+
+       Como dito no parecer anterior, o relatório descritivo também descreve que outras
+substâncias podem ser combinadas com os lipídios, tais como glicerol, ácido ascórbico, glutationa,
+lecitina. Nos exemplos, foram adicionados como lipídios 22% de gema de ovo acrescida de 5% de
+óleo mineral.
+
+       Em 08/06/2021, na RPI 2631, foi publicada a perda de prioridade do presente pedido, a
+qual foi revertida em fase de Recurso, cuja reversão foi publicada na RPI 2697 de 13/09/2022.
+Sendo assim, a prioridade foi considerada válida.
+
+
+
+  Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                              Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                           X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    X
+
+O pedido refere-se a Sequências Biológicas                                                                     X
+
+Comentários/Justificativas
+
+       O INPI emitiu a exigência de código 6.6.1 na RPI nº 2464 de 27/03/2018, para fins de
+manifestação do depositante quanto à ocorrência de acesso ao Patrimônio Genético Nacional
+e/ou Conhecimento Tradicional Associado para obtenção do objeto do presente pedido.
+
+       A Requerente apresentou por meio da petição nº 870180043977 (de 24/05/2018), a
+declaração NEGATIVA de acesso ao patrimônio genético nacional (exigência constante no
+parágrafo 2º do artigo 3º da Resolução/INPI n° 207 de 24/04/2009, revogada e republicada como
+Resolução/INPI n° 69/2013 através da RPI nº 2202 de 19/03/2013).
+
+
+
+                              Quadro 1  Páginas do pedido examinadas
+            Elemento                        Páginas                 n.o da Petição                    Data
+Relatório Descritivo                         1 a 206                020140032644                 30/10/2014
+Quadro Reivindicatório                        1a6                   870230084797                 25/09/2023
+Desenhos                                      1a5                   020140032644                 30/10/2014
+Resumo                                          1                   020140032644                 30/10/2014
+
+       Em resposta ao parecer de exame anterior (7.1), notificado na RPI 2738 (27/06/2023), a
+Requerente apresentou manifestação através da petição 870230084797, de 25/09/2023, contendo
+além de alegações, novas vias do quadro reivindicatório mais restrito (04 reivindicações, 6
+páginas).
+
+
+
+
+                                                                                                           Página 2
+                                           BR112014022817-5
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                           Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                  X
+O pedido está de acordo com disposto no art. 32 da LPI                   X
+Comentários/Justificativas
+
+       Não foram encontrados impedimentos quanto aos Artigos 10, 18 e 22 da LPI. Ainda que
+algumas modificações, na forma de escrever o quadro reivindicatório tenham sido feitas,
+entende-se que o pedido está de acordo com disposto no Art. 32 da LPI.
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                     X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                   X
+Comentários/Justificativas
+       No parecer anterior fora indicado que parecia improvável que todas as possibilidades
+pleiteadas de processo, com variados tamanho e número de gotas formadas, assim como uma
+gama ampla de energia superficial adicionada (de 270 até 5400 J/kg), pudesse ser obtida a partir
+de uma enorme possibilidade de lipídios (que portanto, resultam em diversas soluções
+hidrofóbicas particulares e com uma tensão de superfície específica), sendo que a definição do
+processo, concretizada no presente pedido, que remete a parte identificada pela depositante
+como diferencial da invenção  a saber adição de energia de superfície aos lipídios em um fluido
+de criopreservação  foi definida no parágrafo [041] como: A energia é acrescentada (18) no local
+em que os lipídios são sonicados em 30%, por 2 vezes, antes de a solução ser utilizada, para
+diluir as células espermáticas. Outras opções de adição de energia (18) podem incluir mistura
+mecânica, dispersão química e medidas similares. O parecer anterior deixou claro também que a
+descrição do processo demonstra dependência do equipamento utilizado (marca, modelo) nos
+experimentos realizados pela Depositante e a falta de indicação de uma frequência que possa
+ser considerada um padrão reprodutível em qualquer equipamento, de qualquer marca (que a
+depositante indica como 30% por 2 vezes, na descrição do processo  tal como uma descrição
+de protocolo de laboratório  para um aparelho em específico), de modo que não fica claro um
+valor, ou ainda uma faixa, com base no qual, o técnico no assunto pudesse promover tal adição de
+energia superficial, na ordem daqueles valores descritos pela Depositante, resultando em
+experimentação indevida. Ainda que a Requerente proponha fornecer valores em J/kg, sua
+
+                                                                                         Página 3
+                                        BR112014022817-5
+proposta é que os lipídios sejam sonicados em 30%, por 2 vezes  não é possível
+estabelecer qual a correlação entre este método e o atingimento da energia superficial fornecida.
+
+       Embora tenha sido promovida restrição no quadro reivindicatório, estas lacunas continuam
+presentes, em especial também no que diz respeito à natureza dos lipídios  pois a definição
+empregada no quadro reivindicatório remete a uma composição contendo lipídios de forma ampla
+ haja vista que um técnico no assunto sabe que não é qualquer lipídio que pode ser usado em
+uma composição de criopreservação de células (ainda mais para uma pluralidade de células tal
+como pleiteado) e que não será qualquer lipídio capaz de atender as especificações de
+manutenção de viabilidade celular pós descongelamento e tensão superficial para formação das
+gotas com característica de tamanho desejada, em uma composição de criopreservação.
+
+     Deste modo, da forma ampla e imprecisa com que é pleiteado, entende-se que o presente
+pedido descreve de modo insuficiente o objeto de interesse, de modo a impossibilitar sua
+realização por um técnico no assunto e, portanto, encontra-se em desacordo com o disposto
+no Artigo 24 da LPI.
+
+     O parecer anterior também indicou que haviam termos que dificultavam o entendimento da
+matéria pleiteada. Observa-se que o novo quadro reivindicatório mais restrito removeu/alterou
+alguns destes termos.
+
+     No entanto, ainda se entende que o fornecimento de uma viabilidade pós-criogênica se
+refere ao resultado a ser atingido, e não a uma etapa do processo em si  e portanto não deveria
+estar na parte caracterizante da reivindicação 1.
+
+     As antigas reivindicações 2, 3 e 6, cujo processo se misturava com resultados esperados,
+foram removidas do quadro reivindicatório atual.
+
+     Pode-se observar que o atual quadro reivindicatório descreve processo, onde há uma etapa
+descrita como: estabelecimento de um fluido de criopreservação contendo lipídios a ser
+incorporado nas referidas estruturas celulares biológicas na criopreservação. Como dito em um
+parágrafo acima, um técnico no assunto sabe que não é qualquer lipídio que pode ser usado em
+uma composição de criopreservação de células (ainda mais para uma pluralidade de células como
+pleiteado) e que não será qualquer lipídio capaz de atender as especificações de manutenção de
+viabilidade celular pós descongelamento, em uma composição de criopreservação. Além disso,
+tal como a própria Depositante destaca no parágrafo [005] Além da adição de outros meios
+hidrofóbicos, como lipídios nos meios de cultura celular, eles podem ser tóxicos às células
+cultivadas, possivelmente por problemas de toxidade de lipídios livres na solução. A toxidade
+pode acabar por afetar a viabilidade das células. Tal informação é corroborada por D9 (descrito
+no parecer anterior), quando escreve que Os lipídios com cadeias de ácidos graxos de menos de
+12 carbonos foram tóxicos para as células espermáticas. Desse modo, não parece ser razoável a
+definição de lipídios da forma ampla como atualmente formulada na Reivindicação 1, pois resulta
+
+                                                                                         Página 4
+                                           BR112014022817-5
+da consulta ao estado da técnica, e do próprio relatório descritivo, que não são todos os lipídios
+(ainda que estejamos restritos àqueles citados no parágrafo [050] pela Depositante),          que
+poderiam ser usados no processo em questão, visando a ampliação da viabilidade celular
+pós-criopreservação. Destaca-se que apesar da matéria de ter sido pleiteada de forma tão ampla,
+os testes que dão suporte ao presente pedido foram realizados tão somente com lipídios de gema
+de ovo, azeite vegetal, espinheiro marítimo e óleo mineral, com células espermáticas de touro,
+avaliadas quanto a viabilidade/motilidade antes e depois do congelamento (informações contidas
+nos parágrafos [042 a 045]).
+
+         Reitera-se que esta forma ampla de reivindicar ainda é observada na reivindicação 4
+(antiga 7), tendo em vista que foram demonstrados resultados para adição de energia superficial
+de até 330 J/kg (vide tabela 1  página 20 e 21/206 do relatório descritivo), e tal valor é
+extrapolado de forma ampliada para até pelo menos cerca de 3800 J/kg  obtido a partir da
+mesma descrição de sonicar a 30% por 2 vezes, ou 40%, 50% e assim por diante.
+
+         Sendo assim, a matéria tal como atualmente pleiteada não está definida de modo
+claro e preciso, em desacordo com o Artigo 25 da LPI.
+
+         No parecer anterior também foram destacados alguns equívocos de tradução - sugerindo a
+revisão da tradução, e que os resultados estavam sem uma formatação que permitisse o
+adequado entendimento (na tabela 1 - página 20/206), no entanto, novas vias do relatório
+descritivo não foram apresentadas, sendo necessária consulta aos dados da prioridade, para
+adequada interpretação da matéria. Caso venha a ser concedido o presente pedido, as páginas
+20 e 21/206, que apresentam a tabela 1, não podem ser aceitas, pois não estão formalmente
+adequadas ao entendimento da matéria.
+
+                               Quadro 4  Documentos citados no parecer
+
+ Código                                   Documento                          Data de publicação
+    D1                                    EP2033513                              11/03/2009
+    D4                                    EP1051907                              15/11/2000
+    D6                                  US2003077566                             24/04/2003
+    D7       PILLET, E ET AL. "Liposomes as an alternative to egg yolk in        01/08/2011
+             stallion freezing extender", THERIOGENOLOGY, vol. 77, no. 2,
+             doi:10.1016/J.THERIOGENOLOGY,         ISSN       0093-691X,
+             (20110801), pages 268 - 279.
+             http://dx.doi.org/10.1016/j.theriogenology.2011.08.001
+
+    D8       LEONG ET AL., "Minimising oil droplet size using ultrasonic            2009
+             emulsification.", ULTRASON. SONOCHEM., vol. 16, no. 6,
+             pages 721  727
+             http://dx.doi.org/10.1016/j.ultsonch.2009.02.008
+
+    D9       GRAHAM ET AL., "Effect of several lipids, fatty acyl chain             1987
+
+                                                                                         Página 5
+                                           BR112014022817-5
+
+           length, and degree of unsaturation on the motility of bull
+           spermatozoa after cold shock and freezing.", CRYOBIOLOGY,
+           vol. 24, no. 1, pages 42 - 52.
+           http://dx.doi.org/10.1016/0011-2240(87)90005-8
+
+       No parecer anterior os documentos citados no Quadro 4 foram descritos segundo um
+resumo individual. D2 e D3 foram desconsiderados neste parecer, por serem considerados mais
+distantes da matéria em questão. D5 é da mesma família que D1 sendo, portanto, desconsiderado
+para evitar redundância.
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                  Cumprimento                     Reivindicações
+                                                          Sim                              1a4
+          Aplicação Industrial
+                                                          Não                                 -
+                                                          Sim                              1a4
+                Novidade
+                                                          Não                                 -
+
+                                                          Sim                                 -
+           Atividade Inventiva
+                                                          Não                              1a4
+Comentários/Justificativas
+
+
+
+       Em resposta ao parecer de exame anterior (7.1), notificado na RPI 2738 (27/06/2023), a
+Requerente apresentou manifestação através da petição 870230084797, de 25/09/2023. Na
+referida petição a Depositante argumenta sobre os documentos citados, e entende que o
+presente pedido seria patenteável frente ao estado da técnica (grifo nosso).
+
+                        A Requerente entende que o relatório descritivo ensina especificamente um versado na
+                 técnica a fazer e usar a(s) invenção(ões) reivindicada(s). Por exemplo, o relatório descritivo
+                 fornece uma descrição detalhada de um exemplo prático de uma modalidade da presente
+                 invenção onde a energia superficial é adicionada aos lipídios em um fluido de criopreservação e
+                 comparada a um controle onde a energia superficial não é adicionada (ver página 14, linha 12,
+                 página 17, linha 24 e Tabela 1 da PCT Pub. WO 2013/138239). Além disso, os exemplos 2 e 3,
+                 conforme descritos no relatório descritivo, adicionam energia superficial (270 j/kg ou 330 j/kg)
+                 aos lipídios em um fluido de criopreservação. Especificamente, os exemplos no relatório descritivo
+                 fornecem os seguintes detalhes sobre o experimento na página 14, linha 12  página 15, linha 2
+                 do PCT Pub. WO 2013/138239:
+
+                        Um exemplo dos benefícios das modalidades da presente invenção pode ser mostrado
+                 por uma comparação de processos para uma aplicação em células espermáticas como segue.
+                 Inicialmente como controle, pode-se criar uma solução de extensor Tris para 1000 ml (pH 6,8,
+                 pressão osmótica 322-325 mmol/kg) talvez com os seguintes componentes: 10,53 g Tris, 4,38 g
+                 frutose, 5,53 g ácido cítrico e 870 ml H20. A 500 ml de Tris, pode-se adicionar 22% de gema de ovo
+                 (toda a clara removida; extensor Parte A) e misturar manualmente ou usando uma barra de
+                 agitação. Pode-se diluir a ejaculação concentrada usando o extensor da Parte A para que os
+
+                                                                                                        Página 6
+                              BR112014022817-5
+espermatozoides atinjam uma concentração final de 15x 106 células/mi. Esta mistura pode ser
+resfriada a cerca de 4°C e então pode-se adicionar um diluente da parte B (Parte A mais 14% de
+glicerol) até uma concentração final de 7% de glicerol às células espermáticas resfriadas. Isso
+pode ser equilibrado e então embalado à medida que a suspensão resfriada é colocada em
+canudos. Esses canudos podem ser resfriados sobre vapor de nitrogênio líquido a uma taxa de
+cerca de 10-20°C/min e então os canudos podem ser mergulhados no nitrogênio líquido. Isto pode
+ser armazenado à temperatura de -196°C de nitrogênio líquido até ser necessário. Para utilizar
+esses canudos, eles podem ser retirados do nitrogênio líquido e submersos em banho-maria a
+37°C por cerca de 60 segundos.
+
+        A Depositante destaca as especificações do pedido quanto ao fluido de criopreservação,
+indicando que os lipídios podem ser adicionados ao extensor da parte A do exemplo acima antes
+da adição das células. Esta adição pode ser de 22% de gema de ovo com adição de 5% de óleo
+mineral. Pode ser adicionada energia (18), onde estes lipídios podem então ser sonicados a
+30% por 2 vezes antes de usar a solução para diluir os espermatozoides. Outras opções para
+adição de energia (18) podem incluir mistura mecânica, dispersão física e similares. A adição de
+energia pode destruir (25) o lipídio conforme explicado. Portanto, o relatório descritivo detalha em
+um exemplo não limitativo, que lipídios de 5% de óleo mineral foram adicionados a um fluido de
+criopreservação, a saber, extensor da parte A: extensor Tris para 1000 ml (pH 6,8, pressão
+osmótica 322-325 mmol/kg) com os seguintes componentes: 10,53 g de Tris, 4,38 g de frutose,
+5,53 g de ácido cítrico e 870 ml de H 2O. A 500 ml de Tris, pode-se adicionar 22% de gema de ovo
+(toda clara e por correlação, a lecitina removida) e a energia superficial foi adicionada através de
+sonicação a 30% por 2 vezes. Tudo o que alguém versado na técnica teria que fazer para
+realizar a invenção seria replicar esta experiência conforme detalhado no relatório
+descritivo. Um especialista na técnica entenderia a partir deste exemplo como sonicar a
+30% por 2 vezes.
+
+        A Requerente destaca que restringiu o quadro reivindicatório, e que as reivindicações
+conforme alteradas são novas e não óbvias em relação à referência D1 (EP 2033513 A1).
+
+        Ainda comenta que a suspensão lipídica ensinada na referência D1 é uma combinação de
+lipídios com fosfatidilcolina (PCH) à qual é adicionado hialuronano (HA). A referência D1 afirma: A
+redução do tamanho das vesículas unilamelares é possível graças à utilização de uma mistura de
+hialuronidase de alto peso molecular, entre 0,3 e 2 mg/ml, e lipídios de baixa densidade, LDL,
+contendo alta concentração de fosfatidilcolina PCH, preferencialmente de origem vegetal. Isso
+permite a obtenção de vesículas unilamelares de tamanho muito pequeno e homogêneo, variando
+entre 5 e 15 nm. P [0013].
+
+        Ressalta-se que é o PCH que ajuda a criar as gotas na referência D1. Além disso, o
+parágrafo [0018] de D1 ensina que os lipídios e o hialuronano são emulsionados por sonicação e
+depois bombeados através de uma membrana de policarbonato para produzir uma suspensão final
+onde 70% das partículas em suspensão têm um tamanho entre 5 e 15 nm. Em seguida, as
+vesículas HA/LDL com tamanho de 5-15 nm são usadas com quaisquer crioprotetores permeáveis
+e depois adicionadas ao sêmen de touro. Consulte o parágrafo [0024]. Digno de nota é que 30%
+dos lipídios são removidos por filtração da suspensão antes da mistura com o sêmen do touro e
+antes de serem adicionados a um fluido crioprotetor. Portanto, ao contrário do presente pedido, D1
+ensina que nem toda a suspensão lipídica foi misturada com estruturas celulares biológicas como
+reivindicado na reivindicação independente 1 porque a referência D1 filtra os seus lípidos
+sonicados e hialuronano através de uma membrana de policarbonato. A reivindicação 1 prevê que
+
+                                                                                          Página 7
+                           BR112014022817-5
+o fluido de criopreservação contendo lipídio não seja filtrado após a adição de pelo menos 270 j/kg
+de energia superficial e que todo o fluido de criopreservação com aumento de energia superficial
+lipídica seja misturado com estruturas celulares biológicas após adição de energia superficial aos
+lipídios. Isso fornece um sistema eficiente com desperdício mínimo. Também é digno de nota que
+D1 nunca adiciona energia superficial aos lipídios em um fluido de criopreservação contendo
+lipídios. A suspensão lipídica D1 é filtrada e posteriormente combinada com um crioprotetor como
+o glicerol. Pelo contrário, a reivindicação 1 prevê, "adicionar pelo menos 270 j/kg de energia
+superficial a todos os referidos lipídios no referido fluido de criopreservação contendo lipídios sem
+filtrar o referido fluido de criopreservação contendo lipídios para criar um fluido de criopreservação
+com aumento de energia superficial lipídica pela multiplicação no número de gotículas lipídicas
+discretas no fluido sem alterar a concentração total (v/v ou p/v) do lipídio em relação aos
+componentes restantes do fluido de criopreservação.
+
+        A Requerente defende que as reivindicações ora apresentadas são novas e inventivas
+frente à referência D2. Esta referência não tem relação com a adição de energia superficial aos
+lipídios em um fluido de criopreservação. D2 fornece carregamento de açúcar em lipossomas e os
+interage com as células.
+
+        Adicionalmente, a Requerente defende que as reivindicações conforme emendadas são
+patenteáveis sobre a referência D3. D3 não relação com a adição de energia superficial aos
+lipídios em um fluido de criopreservação. D3 fornece adição de nanoestruturas aos tampões de
+crioproteção.
+
+        No que tange aos ensinamentos de D4, ressalta-se que a referência prepara um diluente
+com um fosfolipídio e esteriliza o diluente. Primeiro, as etapas para preparar o diluente fosfolipídico
+não são realizadas adicionando energia superficial a um lipídio. Em particular, a única forma de
+micronizar as partículas de fosfolípidos é quando um emulsionante é adicionado à solução,
+nomeadamente Tween 80.
+
+        A Requerente defende que as reivindicações conforme emendadas são patenteáveis
+sobre a referência D5. Esta referência é da mesma família de D1. Como tal, os mesmos
+argumentos devem ser aplicados.
+
+        Com relação à D6, a Requerente esclarece que a referência não ensina a adição de
+energia superficial a lipídios em um fluido de criopreservação. Ensina apenas a misturar células ou
+tecidos de mamíferos com um diluente contendo um lipídio de origem vegetal e depois baixar a
+temperatura da mistura suficientemente para preservar as células e tecidos de mamíferos numa
+condição viável. (ver parágrafo [0008]).
+
+        No que diz respeito aos ensinamentos de D7, a Requerente esclarece que o documento
+ensina como preparar lipossomas (ver a página 269, seção 2.1.1. Preparação de lipossomas).
+Uma vez preparados, os lipossomas são adicionados a um diluente (por exemplo, um fluido de
+criopreservação). No entanto, o D7 não adiciona energia superficial aos lipossomas uma vez que
+estão no fluido de criopreservação. Portanto, esta referência não ensina o que é reivindicado na
+reivindicação 1, "adicionar pelo menos 270 j/kg de energia superficial a todos os referidos lipídios
+no referido fluido de criopreservação contendo lipídios para criar um fluido de criopreservação com
+aumento de energia superficial lipídica".
+
+        Em D8 é demonstrado que o ultrassom pode ser usado para produzir nanoemulsões
+transparentes de óleos de triglicerídeos em água. Esta referência é silente sobre a adição de
+lípidos a um fluido de criopreservação nem sobre a adição de energia superficial ao mesmo.
+
+                                                                                            Página 8
+                                             BR112014022817-5
+                          Por fim, a Requerente defende que as reivindicações conforme emendadas são
+                   patenteáveis sobre a referência D9. Ressalta-se que D9 é um resumo que discute como os
+                   lipossomas foram adicionados ao sêmen de touro em um diluente. Esta referência não faz
+                   referência sobre a adição de energia superficial a lipídios em um fluido de criopreservação,
+                   conforme reivindicado na reivindicação 1.
+
+
+
+       Todos os argumentos da Depositante foram considerados, assim como o pedido foi
+revisitado, diante das alegações e restrições promovidas no atual quadro reivindicatório.
+
+       Como destacado no parecer anterior, o estado da técnica elencado não revela a matéria
+como ora pleiteada no presente pedido, haja vista que o quadro reivindicatório avaliado descreve
+especificamente etapas que são utilizadas de forma inerente, em especial por D1. Sendo assim, a
+matéria pleiteada é nova frente ao estado da técnica elencado, estando de acordo com os
+Artigos 8º e 11 da LPI.
+
+       No entanto, novamente ressalta-se que, ainda que discorde a Depositante, estes mesmos
+documentos citados no Quadro 4 trazem informações que antecipam a matéria pleiteada no
+presente pedido.
+
+       Como descrito no parecer anterior, D1 ensina um processo de criopreservação para
+melhorar a viabilidade pós-criogênica de células biológicas, compreendendo os passos de montar
+uma coleção celular com uma pluralidade de estruturas biológicas celulares [coletar amostra,
+prepará-la e avalia-la, parágrafos 0027 a 0031]; estabelecer um fluido de criopreservação, com
+conteúdo lipídico a ser incorporado às estruturas biológicas celulares na criopreservação [0013,
+0018 a 0019]; remover a energia térmica do referida compósito fluídico de criopreservação [0034];
+congelar este compósito pela redução da temperatura abaixo do ponto de congelamento da água
+[0031]. Ainda que D1 não destaque explicitamente uma etapa de adicionar energia superficial ao
+fluido de criopreservação, o faz, de forma inerente quando demonstra a sonicação do fluido de
+criopreservação [0018] e na reivindicação 1  método que também é uma das opções do
+presente pedido (linha 10, pg 14 do RD) para aumentar a energia superficial dos lipídios, a partir
+da decomposição de gotas grandes em gotículas, visando ampliar a viabilidade pós-criogênica
+das células. Cabe destaque para o fato de que D1 [0018] indica qual o equipamento utilizado para
+sonicar a amostra. Parece razoável assumir que uma energia de superfície de pelo menos 270
+J/kg esteja sendo aplicada ao fluido lipídico com a sonicação em D1. Cabe observar que a
+Depositante referencia que D1 descreve uma combinação de lipídios com fosfatidilcolina (PCH) à
+qual é adicionado hialuronano (HA). No presente pedido no parágrafo [050] também está prevista
+a adição de fosfatidilcolina (última linha da página 25/206). Sendo assim, ainda que discorde a
+Depositante do presente pedido, entende-se que D1 antecipa a matéria pleiteada no presente
+pedido que, portanto, encontra-se em desacordo com os Artigos 8º e 13 da LPI.
+
+       Os demais documentos citados no quadro 4 revelam informações complementares, e
+podem ser associados a D1, tal como descrito a seguir.
+                                                                                                     Página 9
+                                       BR112014022817-5
+       D4 descreve, em seu quadro reivindicatório, um extensor para a criopreservação de
+espermatozoides bovinos, compreendendo pelo menos um fosfolipídio, pelo menos uma
+vitamina lipossolúvel (por exemplo vitamina A) acompanhada de um emulsificante, ao menos um
+agente antioxidante (por exemplo aminoácido (como a taurina) ou peptídeo (como glutationa
+reduzida), com propriedades antioxidantes) e ao menos um poliol (tal como glicerol). O extensor
+ainda pode conter esteroides, tal como colesterol, e ainda ciclodextrinas para a solubilização do
+colesterol. D4 descreve ainda o método para obtenção do extensor (reivindicação 13) que tem as
+seguintes etapas: a) preparação de uma dispersão com ao menos um fosfolipídio na forma de
+partículas com pelo menos um poliol, a uma temperatura suficiente; b) agitar a dispersão da
+etapa a) de modo a micronizar as partículas de fosfolipídios; c) repousar por pelo menos 12
+horas a composição para estabilizar a emulsão obtida, sem separação de fases; d) preparar uma
+fase aquosa compreendendo ao menos um aminoácido ou peptídeo antioxidante, e uma vitamina;
+e) juntar as misturas resultantes das etapas c) e d), f) esterilizar a composição formada na etapa
+e). As etapas e compostos adicionados em D4 encontram correspondência no presente pedido,
+por exemplo no [051] onde são especificamente descritas vitamina A e outras vitaminas
+lipossolúveis, ácido ascórbico (aminoácido antioxidante), glutationa (peptídeo antioxidante); em
+diversos trechos a depositante destaca o uso de emulsificantes por exemplo no [035] 
+usado para produzir uma população de gotas mais uniformes e estáveis. E define no
+parágrafo [017] que os lipídios podem ser fosfolipídios. Sendo assim, a matéria revelada em D4,
+se associada a D1, antecipa em muito o presente pedido, em procedimentos e inclusive na adição
+de emulsificantes para estabilização da emulsão. Sendo assim, entende-se que D4 + D1
+antecipam a matéria pleiteada no presente pedido que, portanto, encontra-se em desacordo com
+os Artigos 8º e 13 da LPI.
+
+       D6 descreve, também em seu quadro reivindicatório, um método de cultivo e manutenção
+de células e tecidos de mamíferos compreendendo os passos de a) misturar as células ou tecidos
+com um extensor compreendendo um lipídio (por exemplo fosfolipídios, preferencialmente
+fosfatidilcolina) de origem vegetal (obtido de soja, por exemplo), e b) reduzir a temperatura da
+mistura suficientemente para preservar as células ou tecidos de mamíferos, em uma condição
+viável. Preferencialmente pretende um método onde a temperatura é reduzida para não mais do
+que +4ºC até condições de congelamento, em temperaturas tão baixas quanto cerca de -196ºC.
+Deste modo, D6 descreve parte do processo pleiteado, sendo uma informação adicional à matéria
+revelada em D1. Sendo assim, entende-se que D6 + D1 antecipam parte da matéria pleiteada no
+presente pedido que, portanto, encontra-se em desacordo com os Artigos 8º e 13 da LPI.
+
+       D8 descreve o controle/minimização de tamanho da gota de óleo usando emulsificação
+ultrassônica, permitindo obter nanoemulsões Óleo/Água (O/W) transparentes, notavelmente
+pequenas com diâmetros médios tão baixos quanto 40 nm a partir de um lipídio, o óleo de
+girassol, usando ultrassom (ou seja sonicação) ou homogeneização de alto cisalhamento e um
+sistema surfactante/co-surfactante/óleo bem otimizado. Além de destacar que os lipídios são
+                                                                                        Página 10
+                                      BR112014022817-5
+sonicados (ou seja, energia é fornecida para o sistema em questão), também estipula tamanho de
+gota compatível com aqueles criados in situ na reivindicação 5. Assim, D8 destaca a importância
+da adição de energia e cisalhamento para que pequenas partículas possam ser formadas, sendo
+uma informação adicional à matéria revelada em D1. Sendo assim, entende-se que D8 + D1
+antecipam parte da matéria pleiteada no presente pedido que, portanto, encontra-se em
+desacordo com os Artigos 8º e 13 da LPI.
+
+       D9, tal como destacado no parecer anterior, quando avalia diluentes contendo lipossomas
+sonicados de fosfatidilserina purificada (PS), fosfatidilcolina (PC) com variados comprimentos de
+cadeia de ácido graxo e ligações duplas e colesterol (CH) sozinho ou em combinação, ou lecitina
+de gema de ovo, quanto à proteção de espermatozoides bovinos durante choque térmico e
+durante o congelamento e descongelamento, demonstra outras possibilidades de lipídios
+crioprotetores, alternativos à gema de ovo  crioprotetor mais comumente usado como
+extensor. Além de destacar que os lipídios são sonicados (ou seja, energia é fornecida para o
+sistema em questão), conclui que diluentes com fosfatidilserina, podem ser úteis em estudos de
+criobiologia de espermatozoides. Assim, D9 enaltece um outro fosfolipídio de interesse no
+presente pedido, sendo uma informação adicional à matéria revelada em D1, com foco na
+fosfatidilserina. Sendo assim, entende-se que D9 + D1 antecipam parte da matéria pleiteada no
+presente pedido que, portanto, encontra-se em desacordo com os Artigos 8º e 13 da LPI.
+
+       Tal como descrito no parecer anterior, os autores de D7, afirmam que o plasma de gema
+de ovo (formado principalmente por fosfolipídios) pode substituir a gema do ovo por completo em
+extensores para congelamento para uso em equinos, indicando a importância dos lipídios na
+criopreservação de espermatozoides. D7 aponta uma especificação de lipídios uteis na
+criopreservação de células, tal como D9. Sendo assim, entende-se que D7 + D1 antecipam parte
+da matéria pleiteada no presente pedido que, portanto, encontra-se em desacordo com os Artigos
+8º e 13 da LPI.
+
+       Avaliando o estado da técnica elencado e visitado, e as alegações da Depositante,
+pode-se considerar que o diferencial do presente pedido, que inclusive confere novidade à matéria
+pleiteada, refere-se ao fornecimento de uma energia superficial específica, no processo de
+congelamento das culturas celulares. Então, junto com a questão da natureza dos lipídios
+empregados, estas são as questões mais importantes do pedido.
+
+       Destaca-se no entanto, que tal energia é adicionada ao sistema de uma forma que não
+pode ser reproduzida pelo técnico no assunto, sem experimentação indevida, pois sonicar a 30%,
+2 vezes, embora seja empregado amplamente em laboratório, ou ainda na produção industrial,
+por simplificação de descrição de processo, por já se conhecer o equipamento utilizado e a linha
+de produção, não é uma forma técnica adequada de revelar as condições de processo, ainda que
+para um técnico no assunto, que precisa reproduzir a alegada invenção, com expectativa de
+sucesso  sem ter nem o equipamento utilizado como ponto de partida, para estabelecer uma
+
+                                                                                       Página 11
+                                        BR112014022817-5
+correlação entre potência de sonicação, com a energia superficial especifica adicionada. Ou seja,
+dizer que é necessário sonicar o fluido de criopreservação contendo lipídios, a 30%, 2 vezes,
+serve somente para aquele caso específico em que os experimentos foram feitos, e para o
+equipamento em questão, visando obter um adicional de energia superficial a partir de 270 J/kg.
+Desde que não seja revelada esta condição de processo, em frequência, por exemplo, não tenho
+como garantir que a energia específica seja fornecida para o fluído.
+
+       Se um técnico no assunto não consegue reproduzir a matéria pleiteada, tal como descrita,
+e como suportada no relatório descritivo, não é possível decidir pela atividade inventiva da matéria
+frente ao estado da técnica.
+
+       Portanto, uma vez que um técnico no assunto seria motivado, com base nos
+conhecimentos do estado da técnica, a empregar lipídios, cuja energia superficial fora ampliada
+por sonicação, como um extensor ou fluido de criopreservação, para células, de forma a aumentar
+a viabilidade celular pós-criopreservação, conforme ora reivindicado, e que tais processos não
+apresentaram algum efeito técnico inesperado, não é possível reconhecer a atividade inventiva
+(Artigos 8º e 13 da LPI) para a matéria ora pleiteada nas reivindicações 1 a 4.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   não apresenta suficiência descritiva (Art. 24 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                              Rio de Janeiro, 28 de junho de 2024.
+
+
+
+
+Romi Lamb Machado
+Chefe de Divisão/ Mat. Nº 1473272
+DIRPA / CGPAT II/DIPAQ
+Deleg. Comp. - Port. INPI/PR Nº023/12
+
+
+
+                                                                                         Página 12
+

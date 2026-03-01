@@ -1,0 +1,317 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112013009001-4         N.° de Depósito PCT: US2011/055799
+ Data de Depósito:                   11/10/2011
+ Prioridade Unionista:               US 61/392,267 (12/10/2010); US 61/393,448 (15/10/2010)
+ Depositante:                        Monsanto Technology LLC (US)
+ Inventor:                           Robert H. Cole, JOHN A. KORTE, John Robert Ledeaux, Melissa
+                                     Compton Spears, Kunsheng Wu
+ Título:                             Planta e semente de soja correspondendo a evento transgênico
+                                     mon87712 e métodos para deteção das mesmas 
+
+                                                              PARECER
+
+
+          O presente exame técnico foi realizado à luz da LPI nº 9.279/96 e em observação a Resolução PR
+Nº 144/2015, de 12/03/2015 que institui as Diretrizes de Exame de Pedidos de Patente na área de
+Biotecnologia; a Resolução Nº 124/2013, de 17/12/2013, que institui as Diretrizes de Exame e Pedidos de
+Patentes Módulo 1, a Resolução Nº 169/2016, de 15/07/2016, que institui as Diretrizes de exame de
+pedidos de patentes  Bloco II  Patenteabilidade e a Resolução nº 093/2013 que instituiu as Diretrizes
+sobre a aplicabilidade do disposto no artigo 32 da Lei 9279/96 nos pedidos de patentes, no âmbito do INPI.
+
+
+
+  Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao Conselho
+         de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                              Sim     Não
+
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                           x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    x
+
+O pedido refere-se a Sequências Biológicas                                                             x
+
+Comentários/Justificativas
+
+          O presente pedido não foi encaminhado à ANVISA uma vez que não se enquadra no art. 229-C da
+LPI, incluído pela Lei 10.196/2001.
+
+          O INPI emitiu a exigência de código 6.6.1 na RPI nº 2465 de 03/04/2018, para fins de
+manifestação do depositante quanto à ocorrência de acesso ao Patrimônio Genético nacional e/ou
+Conhecimento Tradicional Associado para obtenção do objeto do presente pedido. Não tendo havido
+manifestação do depositante no prazo de 60 (sessenta) dias contados a partir da publicação na RPI, o
+INPI deu prosseguimento ao exame técnico com o entendimento de que não houve acesso ao patrimônio
+genético nacional e/ou conhecimento tradicional associado, conforme consta no texto do despacho de
+código 6.6.1 publicado na RPI, de acordo com entendimento firmado pela Procuradoria Federal
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                 Página 1
+                                          BR112013009001-4
+
+
+Especializada junto ao INPI (PFE-INPI) no Parecer nº 00001/2018/PROCGAB/PFE-INPI/PGF/AGU
+(Processo INPI nº 52400.002142/2018-30), publicado nas RPIs nº 2465 (03/04/2018), 2466 (10/04/2018) e
+2467 (17/04/2018), ao qual foi atribuído caráter normativo na RPI nº 2485 de 21/08/2018.
+
+       Por meio da petição nº 870200059804 de 14/05/2020 foi apresentada a Listagem Eletrônica de
+Sequências (Códigos de controle campos 1 e 2, D25AF96F9C309E0C e 1BB36717CC7D7469,
+respectivamente), que está em conformidade com a Resolução PR nº 187/2017.
+
+
+
+                              Quadro 1  Páginas do pedido examinadas
+            Elemento                      Páginas               n.o da Petição                    Data
+Relatório Descritivo                       1 a 70               870200059804                    14/05/2020
+Listagem de sequências em
+                                             -                         -                            -
+formato impresso
+Listagem de sequências*             Código de Controle          870200059804                    14/05/2020
+Quadro Reivindicatório                     1a7                  870200059804                    14/05/2020
+Desenhos                                   1e2                  020130050985                    11/06/2013
+Resumo                                       1                  870200059804                    14/05/2020
+      *Listagem de sequências em formato eletrônico referente ao                 código    de    controle
+      D25AF96F9C309E0C (Campo 1) e 1BB36717CC7D7469 (Campo 2).
+
+
+
+
+       O presente exame considerou o quadro reivindicatório proposto por meio da petição nº
+870200059804 de 14/05/2020, apresentado em resposta ao parecer de exigência técnica publicado na
+RPI nº 2563 de 18/02/2020.
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n. o 9.279 de 14 de maio de
+                                           1996  LPI
+
+Artigos da LPI                                                                   Sim                Não
+
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                     x
+
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                       x
+
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                           x
+
+O pedido está de acordo com disposto no art. 32 da LPI                            x
+
+Comentários/Justificativas
+
+       As modificações propostas nas reivindicações 12, 14 e 15, que definem o material de planta
+pleiteado como não vivo e os produtos de commodity como não viável não foram suficientes para
+superar a objeção quanto ao Art. 18 (III) da LPI. De acordo com a Resolução PR Nº 144/2015, item 4.3.2,
+células animais e vegetais não são passíveis de proteção já que o todo ou parte de plantas e animais,
+ainda que transgênicos, não é patenteável. Portanto, a definição de material de planta, que inclui no
+escopo da proteção pleiteada a planta inteira, órgãos, tecidos e células, ainda que não vivo, não é
+passível de proteção. Em relação aos produtos de commodity, deve ser considerado que o relatório
+
+
+
+                                                                                                        Página 2
+                                           BR112013009001-4
+
+
+descritivo não descreve os parâmetros utilizados para que os produtos pleiteados sejam considerados
+não viáveis. Por exemplo, sementes inteiras podem não ser viáveis em uma dada condição ambiental,
+mas podem recuperar sua viabilidade quando expostas a condições apropriadas. Portanto, tais
+reivindicações ainda incluem no escopo da proteção pleiteada matéria que o Art. 18 (III) da LPI não
+considera passível de proteção por patente.
+
+
+
+
+                   Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                 Sim               Não
+
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                              x
+
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                            x
+
+Comentários/Justificativas
+       A reivindicação 1 pleiteia proteção para molécula de DNA recombinante caracterizado por
+compreender uma molécula de polinucleotídeo tendo uma sequência selecionada entre SEQ ID NO: 1 e
+SEQ ID NO: 2, b) uma molécula de polinucleotídeo tendo uma sequência compreendendo pelo menos 55
+nucleotídeos consecutivos de uma sequência selecionada entre SEQ ID NO: 7 e SEQ ID NO: 8 ou c) uma
+molécula de polinucleotídeo tendo sequência completamente complementar a (a) ou (b). No parecer técnico
+anterior foi discutido que a a definição de moléculas de DNA pleiteadas com o uso do termo compreende
+está em desacordo com os artigos 24 e 25 da LPI.
+       Na manifestação, apresentada por meio da petição nº 870200059804 de 14/05/2020, a Requerente
+argumenta que com base na definição do item 3.49 da Resolução nº 124/2013 e nos exemplos 23 a 25 da
+Resolução Nº 144/2015, o termo compreende poderia ser aceito, desde que os elementos essenciais para
+a realização da invenção estejam definidos na reivindicação. Com base nos itens 3.85 e 3.86 da Resolução
+nº 124/2013, considera que os elementos essenciais para a realização da invenção e que representam a
+contribuição ao estado da técnica estão definidos nas reivindicações. Argumenta que a invenção refere-se a
+um evento transgênico no qual um transgene compreendendo dois cassetes de expressão foi inserido no
+genoma da soja em um local específico, em que as SEQ ID NOs: 1, 2, 7 e 8 representam as regiões de
+junção únicas do referido evento transgênico, cada uma compreendendo uma combinação única de
+sequências resultantes da inserção do transgene no genoma da soja. Argumenta que o arranjo do DNA
+inserido no evento de MON87712 em relação ao genoma da planta circundante é único e específico para o
+referido evento e que as moléculas de DNA reivindicadas compreendendo sequências de junção específicas
+para o evento MON87712 devem necessariamente ser derivadas do evento, ainda que compreendam
+sequências adicionais além da sequência de junção. Discute que o evento transgênico reivindicado pode
+ser usado para introgressar a característica aprimorada em outros contextos usando métodos de
+cruzamento, não se limitando ao contexto genético específico da planta de soja na qual foi originalmente
+produzido. Alega que limitar o escopo das reivindicações a uma planta específica de soja seria inconsistente
+com a capacidade, entendimento e prática do técnico no assunto. Discute que ao introgressar a molécula de
+DNA recombinante compreendendo SEQ ID NO: 1 ou SEQ ID NO: 2 em outras plantas de soja, seria
+esperado que essa introgressão produzisse uma planta compreendendo o evento MON87712 e as
+características aprimoradas por ele conferidas. Alega que as moléculas de DNA reivindicadas
+compreendendo sequências de junção específicas para o evento MON87712 devem necessariamente ser
+
+
+
+                                                                                                  Página 3
+                                           BR112013009001-4
+
+derivadas do evento, mesmo que as moléculas de DNA compreendam sequências adicionais além da
+sequência de junção. Alega que a matéria reivindicada não pode ser desconectada dos efeitos técnicos
+alcançados pela combinação exclusiva do transgene e seu local de inserção divulgado pela primeira vez no
+relatório descritivo do presente pedido.
+        Os argumentos apresentados foram analisados, no entanto, não podem ser aceitos. Inicialmente
+deve ser observado que não é questionada a possibilidade de utilização do termo compreende para
+definição de moléculas de ácido nucléico, o que está previsto no item 3.49 da Resolução Nº 124/2013, mas
+sim a utilização do termo compreende na definição das moléculas de ácido nucléico no contexto da
+presente invenção. Conforme discutido no parecer técnico anterior, o pedido trata da identificação de um
+evento de transformação único caracterizado por compreender uma molécula de DNA que inclui o gene
+BBX32 (definida pela SEQ ID NO: 5) integrada no DNA cromossômico de soja em um sítio específico, sendo
+que plantas do evento de transformação MON87712 foram selecionadas por apresentarem características
+moleculares desejáveis como inserção de uma única cópia do transgene em um local específico do
+genoma, a integridade do DNA transgênico e uma característica melhorada, especificamente maior
+rendimento (par. 47). Dessa forma, o avanço técnico frente ao estado da técnica consiste em uma planta
+transgênica específica e seu conjunto de características fenotípicas vantajosas, que pode não estar
+presente em uma outra planta que apresente as SEQ ID NO: 1, 2 e sequências de pelo menos 55
+nucleotídeos consecutivos das SEQ ID NO: 7 ou 8, em um outro contexto genético. O avanço técnico
+alcançado no presente pedido permite a proteção de sequências de nucleotídeos que possam ser usadas
+para identificar as plantas de soja do evento MON87712 da invenção, desde que tais sequências estejam
+claramente definidas e relacionadas a diagnóstico e identificação do referido evento de transformação. Por
+outro lado, não é possível proteger sequências de nucleotídeos definidas de forma ampla, caracterizadas
+tão somente pela definição de sequências que delimitam a região de interseção entre transgene e genoma
+da planta de soja, visto que inclui no escopo da proteção pleiteada uma grande variedade de possíveis
+sequências, em contextos diversos, que podem estar totalmente desvinculados dos efeitos técnicos
+alcançados nas plantas do evento MON87712 identificadas no presente pedido. Deve ser observado que as
+sequências pleiteadas não estão limitadas a sequências obtidas a partir de sementes depositadas na ATCC
+sob número de depósito PTA10296, não excluindo do escopo da proteção pleiteada moléculas de DNA
+obtidas a partir de outras fontes. Dessa forma, não é possível reconhecer a suficiência descritiva de
+sequências que além das sequências de diagnóstico definidas pelas SEQ ID NO: 1 , 2, 7 ou 8, podem
+conter outras sequências não previstas, o que representaria proteção para matéria decorrente do evento
+MON87712 e não mais limitada ao que foi de fato obtido e demonstrado no presente pedido. Portanto,
+conclui-se que o pedido não fornece capacitação para qualquer sequência de nucleotídeos que compreenda
+uma sequência representando a junção inserto/DNA genômico, o que estende o escopo da proteção
+possível frente à matéria de fato concretizada no presente pedido, representando matéria não
+fundamentada, em desacordo com o artigo 24 da LPI. Portanto, a definição das sequências pleiteadas com
+o termo compreende inclui matéria não fundamentada no relatório descritivo e definida de forma pouco
+clara e precisa, em desacordo com o artigo 25 da LPI.
+        A reivindicação 3 define a molécula de DNA pleiteada por estar compreendida em uma planta de
+soja, célula de planta de soja, semente de soja, planta de progênie de soja, parte de planta de soja ou um
+produto de commodity. Conforme anteriormente discutido, o pedido não fornece capacitação para qualquer
+célula, semente ou planta compreendendo a molécula de DNA pleiteada, de forma que a reivindicação
+envolve parâmetros técnicos que extrapolam a matéria de fato alcançada no presente pedido. Não é
+
+
+                                                                                                Página 4
+                                             BR112013009001-4
+
+possível concordar com o argumento da Requerente de que o contexto genético da planta de soja, ou seja,
+a planta específica de soja na qual o evento único foi produzido, não é um fator essencial para a invenção
+reivindicada, visto que a invenção refere- se especificamente a um evento transgênico de soja MON87712,
+selecionado por apresentar características moleculares desejáveis como inserção de uma única cópia do
+transgene em um local específico do genoma, integridade do DNA transgênico e maior rendimento (par. 47).
+Portanto, a caracterização proposta na reivindicação 3 é indevidamente ampla, envolvendo aspectos
+técnicos das células, sementes e plantas na quais as moléculas de DNA estariam inseridas, que não foram
+definidos. De acordo com a Resolução Nº 124/2013, item 2.15, o pedido deve conter informação técnica
+suficiente para permitir que um técnico no assunto coloque a invenção em prática, tal como reivindicada,
+sem experimentação adicional. Portanto, a reivindicação 3 não está fundamentada no relatório descritivo e
+não foi definida de forma clara e precisa, em desacordo com os artigos 24 e 25 da LPI.
+           Conforme discutido no parecer técnico anterior, a reivindicação 10 não define as moléculas de DNA
+que fazem parte do kit de detecção pleiteados com base na sua sequência de nucleotídeos, mas pelo fato
+de funcionarem como iniciadores de DNA ou sonda para detectar a presença de DNA derivado de evento
+MON87712. A reivindicação está em desacordo com a Resolução PR Nº 144/2015, que determina no item
+6.1 que como forma de garantir a clareza e precisão da matéria pleiteada, o quadro reivindicatório deverá se
+referir as sequências biológicas através da SEQ ID NO: correspondente. Não é possível concordar com os
+argumentos apresentados que fazem referência ao item 6.1 (e) da Resolução PR Nº 144/2015, que
+determina que moléculas biológicas podem ser definidas de forma funcional quando a sequência biológica
+já for conhecida no estado da técnica e não for o objeto principal da invenção. O kit pleiteado é
+caracterizado pelas moléculas de polinucleotídeos que atuarão como iniciadores ou sondas, logo, tais
+moléculas constituem objeto principal da invenção e, portanto, devem ser definidas de forma clara e precisa
+pela sua sequências de nucleotídeos. Dessa forma, a reivindicação 10 está em desacordo com o Art. 25 da
+LPI.
+
+
+
+                                Quadro 4  Documentos citados no parecer
+
+  Código                                    Documento                                 Data de publicação
+
+       -                                         -                                              -
+
+
+            Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+
+           Requisito de Patenteabilidade             Cumprimento                  Reivindicações
+
+                                                          Sim                          1 a 20
+               Aplicação Industrial
+                                                          Não                        nenhuma
+
+                                                          Sim                          1 a 20
+                     Novidade
+                                                          Não                        nenhuma
+
+                                                          Sim                          1 a 20
+                Atividade Inventiva
+                                                          Não                        nenhuma
+
+Comentários/Justificativas
+
+
+
+
+                                                                                                    Página 5
+                                          BR112013009001-4
+
+
+       As reivindicações 1 a 20 atendem aos requisitos de patenteabilidade estabelecidos no Art. 8º da
+LPI.
+
+
+
+Conclusão
+
+
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não apresenta
+suficiência descritiva (Art. 24 da LPI), propõe reivindicações que estão indefinidas e não estão
+fundamentadas no relatório descritivo (Art. 25 da LPI) e pleiteia proteção para matéria que não é
+considerado patenteável, uma vez que incide no Art. 18 da LPI.
+
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da data
+de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                      Publique-se o indeferimento (9.2).
+
+
+
+                                                                 Rio de Janeiro, 4 de novembro de 2020.
+
+
+
+
+Erika Tarré Borges Antonelli
+Pesquisador/ Mat. Nº 1472698
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                                Página 6
+

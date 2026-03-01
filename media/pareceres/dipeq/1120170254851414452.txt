@@ -1,0 +1,448 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112017025485-9          N.° de Depósito PCT:US2016/064052
+ Data de Depósito:                   30/11/2016
+ Prioridade Unionista:               US 62/277,522 (12/01/2016)
+ Depositante:                        HUNTSMAN PETROCHEMICAL LLC (US)
+ Inventor:                           HUI ZHOU; HOWARD P. KLEIN; DAVID C. LEWIS
+ Título:                             Processo para a co-preparação de uma mistura de polieteramina e
+                                     uma alquilenoamina, mistura de polieteramina e uma alquilenoamina,
+                                     formulação de resina de epóxi, processo para formar uma poliureia 
+
+                                                                PARECER
+          A Requerente apresentou modificações no pedido em resposta à Ciência (7.1) emitida.
+Estas modificações encontram-se no Quadro 1 junto com as demais documentações analisadas
+neste segundo exame técnico do pedido. Os esclarecimentos e argumentos apresentados pelo
+depositante mediante a citada petição também foram considerados no presente exame.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-19               870200083348           03/07/2020
+Quadro Reivindicatório                                     1-2               870210010354           29/01/2021
+Desenhos                                                    -                       -                   -
+Resumo                                                      1                870170091968           28/11/2017
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                         x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                 x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                  Página 1
+                                           BR112017025485-9
+
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                      x
+Comentários/Justificativas
+        Apesar das modificações efetuadas, na reivindicação 8 ainda define-se um produto por
+características relacionadas a um processo, o que ocasiona falta de clareza e precisão à matéria
+que se deseja proteger, descumprindo-se o disposto no Art. 25 da LPI e na Instrução Normativa nº
+30/2013  Art. 4º (III). Ressalta-se que um produto deve ser adequadamente definido por
+especificações referentes aos aspectos construtivos dos elementos que o constituem e não por
+características referentes aos processos ou etapas destes eventualmente conduzidos no referido
+aparato ou insumos utilizados no processo. A reivindicação 9 é dependente da reivindicação não
+privilegiável 8, e portanto, também é considerada não privilegiável.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1       WO2004020506 A2                                                   11/03/2004
+
+    D2       WO2015069531 A1                                                   14/05/2015
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                    1-10
+            Aplicação Industrial
+                                                        Não                       -
+
+                                                         Sim                    1-10
+                 Novidade
+                                                        Não                       -
+
+                                                         Sim                    1-10
+            Atividade Inventiva
+                                                        Não                       -
+Comentários/Justificativas
+
+         Nas razões apresentadas em sua manifestação, a requerente informou que:
+
+(1) - a reivindicação 1 foi emendada de modo a especificar que
+
+o poliol de alto ponto de fusão é um composto tendo um ponto de fusão de 2
+
+pelo menos 80°C (suporte no parágrafo [0016] do relatório descritivo);
+
+(2) - a expressão substancialmente sem água e solvente foi
+
+voluntariamente substituída de modo a trazer mais clareza à matéria
+
+reivindicação (suporte no parágrafo [009] do relatório descritivo); e
+
+(3) - a reivindicação 8 foi redigida de modo a ser devidamente
+
+interligada à reivindicação 1.
+
+
+
+                                                                                            Página 2
+                                        BR112017025485-9
+
+
+(4) No que diz respeito à objeção quanto à falta de clareza da
+
+reivindicação 8 por definir um produto por meio das características de seu
+
+processo de obtenção, a Requerente esclarecer que não há outra forma
+
+adequada de reivindicar a mistura obtida de polieteramina e uma
+
+alquilenoamina sem ser pelas características do seu processo. Dessa forma,
+
+a Requerente entende que esta situação se enquadra na exceção prevista no
+
+item 3.61 da Resolução 124/2013.
+
+(5) Na análise de patenteabilidade da presente invenção, a
+
+Digna Perícia alegou que a matéria pleiteada seria desprovida de novidade
+
+e atividade inventiva diante dos ensinamentos de D1 (WO 2004/020506) e
+
+D2 (WO 2015/069531).
+
+(6) A Requerente pede vênia para discordar de tal entendimento
+
+e apresenta, respeitosamente, seus argumentos a seguir.
+
+O documento D1 divulga um processo para preparar uma
+
+mistura de eteramina compreendendo a alcoxilação de um poliol e a
+
+conversão do butoxilato em uma polieteramina por meio de aminação
+
+redutora (vide D1, página 10, linha 20 à página 14, linha 2).
+
+(7) D1 divulga ainda o fornecimento de uma mistura de amina
+
+compreendendo a polieteramina e uma alquilenoamina (D1, página 4, linha
+
+5 à página 5, linha 9).
+
+Assim, como é evidente a partir das passagens citadas supra,
+
+D1 não divulga a mistura de dois poliois e, consequentemente, a presente
+
+invenção é nova e inventiva diante tais ensinamentos.
+
+(8) D2, por sua vez, descreve um processo em que, em uma
+
+primeira etapa, dois poliois com um ponto de fusão diferente são
+
+misturados para formar uma mistura de iniciador de poliol. Em uma
+
+segunda etapa (b), a mistura resultante é carregada em uma zona de reação
+
+de alcoxilação, onde é colocada em contato com um óxido de alquileno
+
+para fornecer uma mistura de poliois precursores alcoxilados, que então,
+
+em uma terceira etapa, é carregada em uma zona de aminação redutora,
+
+onde é redutivamente aminada para formar uma mistura de eteramina.
+
+
+                                                                             Página 3
+                                       BR112017025485-9
+
+
+(9) Por outro lado, na primeira etapa de um processo de acordo
+
+com a reivindicação 1 da presente invenção, um iniciador de álcool
+
+alcoxilado e um poliol sólido de alto ponto de fusão são misturados e
+
+aquecidos e, em seguida, carregados diretamente, isto é, sem uma etapa
+
+intermediária de alcoxilação, em uma zona de aminação redutora onde a
+
+mistura é redutivamente aminada. Porém, de acordo com o processo de D2,
+
+os dois poliois de partida são ambos alcoxilados antes de serem carregados
+
+em uma zona de aminação redutora.
+
+Portanto, sustenta-se que o processo da presente invenção é
+
+claramente diferente do processo descrito em D2.
+
+(10) Consequentemente, o mesmo se aplica às misturas de
+
+polieteramina e alquilenoamina resultantes, que serão diferentes tanto no
+
+que diz respeito à natureza quanto às proporções dos componentes. Logo, a
+
+Requerente sustenta que a matéria objeto da reivindicação 8 (e,
+
+consequentemente, objeto das reivindicações 9 e 10) é dotada de novidade
+
+e atividade inventiva diante dos ensinamentos de D2.
+
+Adicionalmente, a Requerente vem reiterar que a matéria
+
+pleiteada nas reivindicações independentes 1 e 8 também é inventiva à luz
+
+de D2 ou uma combinação de D2 e D1 pelas vantagens alcançadas,
+
+conforme descrito nas divulgações do pedido em tela, nomeadamente
+
+proporcionar um processo que pode lidar com álcoois iniciadores de alto
+
+ponto de fusão sem ter que implementar modificações importantes nas
+
+instalações de produção tradicionais, conforme descrito em detalhes no
+
+relatório descritivo e suportado pelos resultados dos exemplos.
+
+(11) Em adição aos comentários supra, a Requerente informa que
+
+emendas no quadro reivindicatório e argumentos semelhantes no pedido de
+
+patente correspondente EP 3 402 776 foram apresentados ao Escritório de
+
+Patentes Europeu (EPO), o qual reconheceu o mérito da presente invenção,
+
+conforme comunicação do dia 18/11/2020.
+
+       Efetuou-se o re-exame do presente pedido, em qualquer uma das petições
+encaminhadas, os documentos de anterioridade utilizados para a realização do parecer técnico
+
+
+
+                                                                                     Página 4
+                                         BR112017025485-9
+
+
+anterior. Após o re-exame outrora descrito, consideram-se as opiniões emitidas no parecer
+técnico anterior ainda válidas para D1 e D2 em oposição às argumentações encaminhadas
+pela requerente, com base no fato de entender-se que tais documentos revelam e/ou sugerem,
+sim, as seguintes questões referentes ao presente pedido em avaliação.
+
+       Realizando um estudo mais particular sobre D2, entende-se que ensina um processo
+para a preparação de polieteramina misturas formadas a partir de uma mistura de dois ou mais
+iniciadores de álcool multifuncionais compreendendo um primeiro ponto de fusão elevado sólido
+poliol tal como neopentiglicol e um segundo iniciador líquido de baixo ponto de fusão, tal como
+1,4 - butanodiol (0018), em que os iniciadores são alcoxilados e, em seguida, aminados na
+presença de amônia e um catalisador de aminação redutor {Exemplos 1-4). A mistura de
+polioides alcoxilados compreende uma mistura de iniciador que não reagiu, poliéter e
+monoéteres (0029). O produto ensinado em D2 é uma mistura de polieteramina . Os produtos
+são iguais aos reivindicados atualmente. D2 também descreve a reação da mistura de amina
+com resinas epoxi (0052- 0056) ou polisocianatos em um processo para a preparação de
+poliureias (0064-0066).
+
+       A diferença mínima é que D2 não exige o aquecimento da polialcooxilado mistura antes
+do passo de aminação. No entanto, a etapa óbvia de aquecimento de uma mistura de poliol
+antes de uma etapa de aminação é amplamente conhecida e utilizada por um técnico habilitado
+no assunto. Por conseguinte, a posição é tomada que teria sido óbvio aquecer os alcooxilados
+iniciadores de poliol de D2 para a temperatura da reação antes do passo de aminação, porque
+foi ensinada como vantajoso em reações análogas e também podia ser considerado uma
+redução de tempo, especialmente quando a os reagentes são aquecidos à temperatura de
+reação antes de serem fornecidos ao recipiente de reação.
+
+       D2 ainda revela uma razão de peso do primeiro iniciador poliol ao segundo iniciador de
+poliol de 10:90 para 90:10 (0023), de preferência 3175 gramas de neopentil glicol a 794 gramas
+de etileno glicol (Exemplo 1). De acordo com a reivindicação 7, D2 divulga a remoção da mistura
+de poliol de água (0069, Exemplo 1).
+
+       Observa-se que o documento D2, por si só, contém material suficiente para questionar-
+se a novidade e a atividade inventiva do presente pedido. Além disso, D2 a eficiência de D2
+eleva-se quando considera-se o conteúdo de D1 (como já mostrado no parecer anterior). Em
+decorrência das observações já apresentadas, verificam-se válidas as considerações
+impeditivas descritas no parecer técnico anterior sobre D1 e D2, a saber:
+
+      O documento do estado da técnica D1 informa, sim, uma composição de poliamina de
+estrutura (I) compreendendo: misturas de poliéterdiaminas e poliétertriaminas. L = grupo oxialcoxo
+tendo a estrutura -OR 1 -O-; R 1 = alquileno 1-5C ; 2-metil propileno ; 2, 2-dimetil propileno ; -CH
+2 CH 2 -O-CH 2 CH 2 -; -CH 2 CH 2 CH 2 -O-CH 2 CH 2 CH 2 -; grupo de fórmulas (A) - (C). Há a
+preparação de um epóxi curado(poli - (éteralcanolamina) de resina que compreende proporcionar
+uma amina mistura compreendendo uma poliamina composição e um ou mais materiais de N-
+aminoetilpiperazina;      dietilenotriamina;   trietilenotetramina;   tetraetilenopentamina;      2-
+
+
+
+                                                                                           Página 5
+                                           BR112017025485-9
+
+
+metilpentametileno; 1,3-pentanodiamina; trimetilhexametileno diamina; um endurecedor de
+poliamida; um endurecedor de poliamidoamina; um endurecedor do tipo Mannich- base; bis
+( aminometil ) ciclohexilamina; isoforona diamina; mentano diamina; bis (p- aminociclohexil)
+metano;    2,   2'-dimetil   bis   (p-   aminociclohexil)   metano;   dimetildiciclohexilmetano);   1,2-
+diaminociclohexano; 1,4-diaminociclohexano; meta-xileno diamina ; norbornanodiamina ; meta-
+fenileno diamina; diaminodifenilsulfona; metileno dianilina; Jeffamine D-230 (RTM); Jeffamine D-
+400 (RTM); Jeffamine T-403 (RTM); ou dietiltoluenodiamina ; fornecer um epóxi polifuncional; e
+colocar em contato o precursor epóxi polifuncional e a poliamina um com o outro. Há, ainda, a
+preparação de uma poliureia compreendendo o fornecimento de um diisocianato orgânico ;
+proporcionando uma poliamina em mistura com pelo menos um da acima de material; e colocar
+em contato o diisocianato orgânico e a poliamina um com o outro .
+
+       O produto obtido é para utilização como cura agente na preparação de um curado epoxi (
+poli-(éteralcanolamina), resina útil para fazer compósitos e poliureia. A composição exibe
+reatividade reduzida e se traduz em um tempo de trabalho maior , permitindo assim mais fluxo
+do revestimento de poliureia aplicado antes da gelificação.
+
+       Mais detalhadamente, verifica-se que: a) misturar um primeiro iniciador de poliol tendo
+um ponto de fusão maior do que uma temperatura de processamento (em que o pode ter um
+ponto de fusão maior que 60°C, ver d1, [0020]) e um segundo iniciador de poliol tendo um ponto
+de fusão menor que o temperatura de processamento para formar uma mistura de iniciador de
+poliol tendo um ponto de fusão menor do que a temperatura de processamento;
+
+(b) carregar a mistura de iniciador de poliol a uma zona de reação de alcoxilação na presença
+de um catalisador de hidróxido de metal alcalino;
+
+(c) contatar a mistura de iniciador de poliol com um óxido de alquileno na zona de reação de
+alcoxilação para fornecer uma mistura de polióis precursores aicoxilados; e
+
+(d) carregar a mistura de polióis precursores aicoxilados em uma zona de aminação redutora e
+aminar redutivamente a mistura de polióis precursores aicoxilados na presença de um
+catalisador de aminação redutiva e amônia para formar a mistura de eteramina.
+
+em que na etapa b) será formada uma mistura compreendendo iniciador que não reagiu (isto é,
+polióis), monoéter e poliéter polióis (ver D2, [0029]).
+
+       A mistura de eteramina resultante compreenderá portanto alquilenoaminas , monoéter
+aminas e poliéter aminas. O documento D1 descreve um processo de acordo com a
+reivindicação 1 e um produto resultante do referido processo. D1 divulga formulações de resina
+epóxi compreendendo resina epóxi e a mistura de polieteramina e alquilenoamina ( ver D1, por
+exemplo, reivindicação 4), bem como um processo para formar uma poliureia compreendendo a
+reação da mistura de amina com um poliisocianato orgânico (ver D1, por exemplo, reivindicação
+3) .
+
+
+
+
+                                                                                              Página 6
+                                        BR112017025485-9
+
+
+       O documento do estado da técnica D2 refere-se a uma mistura de eteramina preparada
+pela: mistura do primeiro iniciador de poliol tendo ponto de fusão maior do que uma temperatura
+de processamento e do segundo iniciador de poliol tendo ponto de fusão menor do que a
+temperatura de processamento para formar a mistura de iniciador de poliol tendo ponto de fusão
+menor do que a temperatura de processamento; e o carregamento do poliol iniciador mistura de
+alcoxilação reação zona na presença de alcalino de metal hidrido de catalisador.
+
+       A preparação da mistura de eteramina compreende a mistura do primeiro iniciador de
+poliol tendo ponto de fusão maior do que uma temperatura de processamento e o segundo
+iniciador de poliol tendo ponto de fusão menor do que a temperatura de processamento para
+formar a mistura de iniciador de poliol tendo ponto de fusão menor do que a temperatura de
+processamento ; carregamento do poliol iniciador mistura de alcoxilação reação zona na
+presença de catalisador hidreto de metal alcalino; contactando o poliol iniciador mistura com
+alquileno óxido na alcoxilação reação zona para fornecer mistura de alcoxilados precursoras
+polióis; e o carregamento da mistura de alcoxilados precursoras polióis para redutiva aminao
+zona e redutivamente aminação a mistura de alcoxilados precursoras polióis na presença de
+redutiva aminao catalisador e amónia para formar a mistura de eteramina.
+
+       O método é usado para preparar a mistura de eteramina usada na produção do sistema
+de poliureia ou resina epóxi. A eteramina é usada como cura ou intermediário para a síntese de
+polímeros. A mistura de eteramina compreende eteramina de fórmula NH 2 - [ CH ( R 3 ) -CH 2 -
+O] m -L - [O-CH 2 -CH (R 4 )] n -NH 2 (EU); NH 2 - [CH (R 3 ) -CH 2 -O] x -CH 2 - [O-CH 2 -CH
+(R 4 )] y -NH 2 (II); fórmula (III); ou NH 2 - [CH (R 7 ) -CH 2 -O] x -CH 2 -CH 2 -CH 2 -CH 2 - [O-
+CH 2 -CH (R 8 )] y -NH 2 (IV) .L = opcionalmente ramificado 2-18C alquileno , de preferência
+C2-6 alquileno ; Cicloalquileno 3-12C , de preferência cicloalquileno 5-8C ; Alquileno 2-4C-
+cicloalquileno 3-12C , de preferência alquileno 2-4C- cicloalquileno 5-6C ; e C2-4 alquileno-3-
+12C cicloalquileno-C2-4 alquileno , de preferência C2-4 alquileno-cicloalquileno C2-4 alquileno-
+C5-6; R 3 -R 8 = H; opcionalmente ramificado 1-5C alquil ou 2-5C alquenil ; ou aril 6-12C
+opcionalmente substituído ; x + y = 1-6; em , n = 0-6. Materiais Preferidos : O primeiro iniciador
+de poliol é neopentil glicol.
+
+       O segundo poliol iniciador é 1, 4-ciclo-hexanodimetanol, 1, 4-butanodiol, e / ou etileno -
+glicol . O óxido de alquileno é óxido de propileno , óxido de butileno e / ou óxido de etileno. A
+fusão ponto do segundo poliol iniciador mistura é menos do que 60°C e de que do primeiro poliol
+iniciador é maior do que 60°C, de preferência maior do que 100°C. Um peso proporção do
+primeiro poliol iniciador para o segundo poliol iniciador é de 30: 70- 90:10. O processo
+compreende ainda o contato da mistura de eteramina com uma resina epóxi para formar um
+sistema de resina epóxi e a cura do sistema de resina epóxi; ou fazer reagir a mistura de
+eteramina com um poliisocianato orgânico para produzir poliureia .
+
+       Mais detalhadamente, verifica-se que divulga uma mistura de polieteramina e
+alquilenoamina (ver parágrafo 1.1). Um processo diferente não leva necessariamente a um
+produto diferente. D2 divulga formulações de resina epóxi compreendendo resina epóxi e a
+
+
+
+                                                                                            Página 7
+                                       BR112017025485-9
+
+
+mistura de polieteramina e alquilenoamina (ver D2, por exemplo, reivindicação 11), bem como um
+processo para formar uma poliureia compreendendo a reação da mistura de amina com um
+poliisocianato orgânico (ver D2, por exemplo, reivindicação 12).
+
+       Acredita-se que, ao menos, D2 permitiria ao técnico habilitado no assunto, com uma
+expectativa razoável de sucesso, elaborar matéria similar ou idêntica àquela proposta pela
+requerente em seu presente pedido. Adicionalmente, a leitura combinada dos documentos D1 e
+D2 também habilitaria um técnico no assunto, com uma expectativa razoável de sucesso,
+elaborar matéria similar àquela proposta pela requerente em seu presente pedido. Assim,
+consideram-se pertinentes e ainda válidos os materiais apresentados no parecer técnico
+notificado anterior.
+
+
+Conclusão
+
+       Tendo em vista o exposto anteriormente a respeito dos conhecimentos de D1 e D2 (em
+conjunto ou separados), assunto já exaustivamente discutido em parecer(es) técnico(s)
+anterior(es) e respectiva(s) contestação(ões), o presente Instituto decidiu por não acolher a
+pretensão do interessado, na medida em que nenhum argumento técnico novo e convincente
+foi acrescentado. Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez
+que:
+
+      não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI);
+
+      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                    Publique-se o indeferimento (9.2).
+
+
+
+                                                               Rio de Janeiro, 01 de maio de 2021.
+
+
+
+
+Adailson da Silva Santos
+Pesquisador/ Mat. Nº 2335762
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                             Página 8
+

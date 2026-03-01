@@ -1,0 +1,195 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112015019446-0           N.° de Depósito PCT: BR2013/000106
+ Data de Depósito:                   04/04/2013
+ Prioridade Unionista:               -
+ Depositante:                        REDE SERVIÇOS LTDA.-ME (BRPA)
+ Inventor:                           Denis Sol Paiva Calandrini, Augusto Cesar Felipe da Silva, Adalcindo
+                                     Ofir de Souza Magno Duarte
+ Título:                             Método de conciliação de transações financeiras, dispositivo leitor de
+                                     cartões e método de gerenciamento de transferência eletrônica de
+                                     fundos
+
+                                                              PARECER
+O pedido de patente de invenção trata de método de conciliação e de gerenciamento de
+transferência de fundos.
+
+Em 14/05/2020, por meio da petição 870200059619, o depositante apresentou argumentações
+no pedido em resposta ao parecer emitido no âmbito da Resolução Nº 241/2019, notificado na
+RPI 2562 de 11/02/2020 segundo a exigência preliminar (6.21).
+
+Em 30/06/2022, por meio da petição 8702200576850, o depositante apresentou modificações no
+pedido em resposta ao parecer emitido, notificado na RPI 2676 de 19/04/202 (despacho 7.1).
+Estas modificações estão consideradas no Quadro 1.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                 n.o da Petição      Data
+
+                                                         27/28                 870220057685      30/06/2022
+Relatório Descritivo
+                                                     125 a 151*              NPWB 860150176714   13/08/2015
+Quadro Reivindicatório                               20/28 a /28               870220057685      30/06/2022
+Desenhos*                                             160 a 171              NPWB 860150176714   13/08/2015
+Resumo                                                   28/28                 870220057685      30/06/2022
+*Numeração     correspondente     à      paginação eletrônica do                                    documento
+112015019446-0_PROT860150176714_13-08-2015_200_95_EDEPOSITO.PDF,                                  relativo  à
+petição NPWB 860150176714 de 13/08/2015.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                            Página 1
+                                         BR112015019446-0
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                            Sim             Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)        x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                 x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                    x
+O pedido está de acordo com disposto no art. 32 da LPI                     x
+Comentários/Justificativas
+
+A matéria das reivindicações 1 a 8 não é considerada invenção nem modelo de utilidade, pois se
+trata de esquemas, planos, princípios ou métodos comerciais, se enquadrando no disposto no
+Art. 10 (III) da LPI. De acordo com a Resolução N° 169/2016 (que institui as Diretrizes de Exame
+de Pedidos de Patente  Bloco II  Patenteabilidade), os itens contidos no inciso III do artigo 10
+da LPI, mesmo quando utilizarem meios técnicos ou tenham utilidade prática não serão
+considerados invenção. O examinador deve identificar se a matéria reivindicada, considerada
+como um todo, soluciona problemas comerciais, contábeis, financeiros, educativos, publicitários,
+de sorteio e/ou de fiscalização, e não um problema técnico (1.9).
+
+Particularmente, a matéria pleiteada diz respeito a conciliação de transações financeiras,
+geração de arquivos de vendas por fornecedor, obtenção de extrato de vendas e pagamentos do
+adquirente, obtenção de extrato de recebimento do banco, realização de compra, contato da
+Bandeira com banco emissor e agendamento de valor da operação, solicitação de transferência
+do valor pelo banco emissor, liquidação da transação pelo Sistema de Transferência
+Interbancário, recebimento do valor de pagamento pelo Banco do Credenciador, reconhecimento
+do pagamento pelo credenciador, crédito do pagamento na conta do fornecedor pelo banco do
+Credenciador, acompanhamento de créditos através do RDSV pelo fornecedor, transferência de
+fundos para pagamento de recarga de telefones, pagamento de concessionárias, tomada de
+empréstimos, solicitação de cartão de fidelidade, se consumidor não aceita empréstimo, registra
+a razão, e pós-venda é acionado para contatar o consumidor, dentre outras; tais métodos sendo
+implementados a partir de elementos computacionais (que formam o núcleo das características
+técnicas) corriqueiros e largamente conhecidos na data de prioridade do presente pedido de
+patente de invenção, como sistema de banco de dados, envio de e-mail/SMS etc (observar o
+disposto na Resolução N° 169/2016  itens 1.9 a 1.11).
+
+Em sua manifestação (petição 870220057685 de 30/06/2022), o depositante alega,
+fundamentalmente, que a matéria pleiteada diz respeito a um método de tratamento de dados
+aplicado à área financeira, o qual permite a autenticação de um consumidor em uma rede
+bancária ou para um fornecedor de serviços, sem que ocorra vazamento de dados ou sua má
+utilização de tal maneira que um problema técnico é solucionado. O depositante afirma ainda
+que a matéria pleiteada no pedido de patente de invenção se enquadra nas ressalvas dos itens
+1.10 e 1.11 da Resolução N° 169/2016, ou seja, que a matéria pleiteada consiste num método
+que é aplicado à área financeira mas que resolve um problema de natureza técnica.
+
+
+
+                                                                                           Página 2
+                                           BR112015019446-0
+
+
+Entretanto, tal qual indicado, a matéria como um todo está relacionada com a conciliação de
+transações financeiras, envolvendo etapas comerciais diversas como obtenção de extrato de
+vendas e pagamentos, realização de compras, solicitação de transferência e valores e fundos,
+recebimento de valor de pagamento, crédito de pagamento em conta-corrente, dentre outras.
+Nesse contexto, a matéria reivindicada, considerada como um todo, diz respeito a
+gerenciamento de transferência de fundos, de tal maneira que não é resolvido um problema
+técnico. Portanto, a argumentação provida pelo depositante não é considerada persuasiva e o
+enquadramento da matéria pleiteada no Art. 10 (III) da LPI é mantido.
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+
+                                                     ---
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                US20120118959 A1                             17/05/2012
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                           Sim                   ---
+           Aplicação Industrial
+                                                           Não                   ---
+                                                           Sim                   ---
+                 Novidade
+                                                           Não                   ---
+
+                                                           Sim                   ---
+           Atividade Inventiva
+                                                           Não                   ---
+Comentários/Justificativas
+
+De acordo com o disposto na seção Comentários/Justificativas do Quadro 2, a matéria pleiteada
+nas reivindicações 1 a 8 está fundamentada na implementação de esquemas, planos, princípios
+ou métodos comerciais. Neste contexto, tais reivindicações não são avaliadas quanto aos
+requisitos de patenteabilidade (vide Resolução n° 169/2016  Diretrizes de Exame de Pedidos
+de Patente  Bloco II  1.1 e 1.2).
+
+
+
+
+                                                                                          Página 3
+                                      BR112015019446-0
+
+
+No entanto, exclusivamente por economia processual, são indicados trechos do documento D1
+(citado em parecer de exame técnico notificado na RPI 2676 de 19/04/2022) que descrevem
+características da matéria pleiteada; por exemplo, o documento D1 menciona notificação por
+e-mail/SMS (parágrafos [0072], [0177]) e consulta a banco de dados (parágrafo [0067]).
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+
+
+      -   não é considerado invenção, uma vez que incide no Art. 10 da LPI.
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 18 de julho de 2022.
+
+
+
+
+Fábio Vieira Batista de Nazaré
+Pesquisador/ Mat. Nº 1958231
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 001/18
+
+
+
+
+                                                                                         Página 4
+

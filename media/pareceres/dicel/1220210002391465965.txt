@@ -1,0 +1,272 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                         BR122021000239-8       N.° de Depósito PCT:KR2012/003127
+ Data de Depósito:                   23/04/2012
+ Prioridade Unionista:               US 61/477,797 (21/04/2011); US 61/507,744 (14/07/2011)
+ Depositante:                        SAMSUNG ELECTRONICS CO., LTD. (KR)
+ Inventor:                           HO-SANG SUNG; EUN-MI OH
+ Título:                             Aparelho de decodificação
+
+                                                                PARECER
+O presente pedido corresponde a uma divisão do pedido BR 11 2013 027092-6, solicitada pelo
+depositante por meio da petição 870210001866 de 07/01/2021.
+
+A Requerente apresentou modificações no pedido em resposta ao parecer emitido (despacho
+7.1). Estas modificações estão consideradas no Quadro 1.
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-74               870210001866           07/01/2021
+Quadro Reivindicatório                                     1-2               870210067746           26/07/2021
+Desenhos                                                  1-22               870210001866           07/01/2021
+Resumo                                                      1                870210001866           07/01/2021
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                          BR122021000239-8
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                            Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI        x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                       x
+Comentários/Justificativas
+
+
+Na reivindicação 3 consta o termo adicionalmente mas sua relação de dependência com a
+reivindicação 1 não foi estabelecida (Art. 25).
+
+
+Na Reivindicação 1 carece de clareza (Art. 25) o trecho no qual, mediante um aparelho de
+codificação, um dentre um dentre o primeiro módulo de decodificação e o segundo módulo de
+decodificação é selecionado com base em um erro preditor antes que u, coeficiente LSF seja
+quantizado, e o fluxo de bits compreendendo o parâmetro que é gerado. O coeficiente LSF é
+definido como z(n) e não como u (p. 30). Caso u se refira a uma variável em uma equação, isso
+não ficou claro pois não foi definida a equação. Caso u se refira a coeficiente LSF a vírgula
+deveria vir após esse termo. Os trechos ressaltados pela requerente não esclarecem a questão da
+fundamentação do relatório descritivo.
+
+
+Reitera-se que o título permanece genérico demais contrariando portanto a Instrução Normativa nº
+30/2013  Art. 16 (I). O restante do pedido deve ser harmonizado com o novo título.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                              Data de publicação
+    D1       "ITU-T G.718 - Frame error robust narrow-band                      2009
+            and wideband embedded variable bit-rate coding of
+            speech and audio from 8-32 kbit/s", (20080630), URL:
+            http://www.itu.int/rec/T-REC-G.718-200806-I, (20131112),
+            XP055087883 [X] 1 * section 6.8.2 on pages 52 and 53 * *
+            section 6.8.2.3.4 on pages 63-65 * [Y] 2-5,9,13-15 [I]
+            6-8,10-12
+    D3      EP1450352A2                                                         25/08/2004
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento              Reivindicações
+                                                        Sim                       1-3
+           Aplicação Industrial
+                                                        Não                        -
+                                                        Sim                       1-3
+                 Novidade
+                                                        Não                        -
+
+
+
+                                                                                             Página 2
+                                          BR122021000239-8
+
+
+                                                        Sim                             -
+            Atividade Inventiva
+                                                        Não                            1-3
+
+
+
+Comentários/Justificativas
+
+A matéria pleiteada na reivindicação 1 não atende ao requisito de atividade inventiva, pois
+decorre de maneira óbvia para um técnico no assunto a partir da combinação dos ensinamentos
+do documento D1 (anterioridade mais próxima) com os ensinamentos de D3:
+
+APARELHO DE DECODIFICAÇÃO, caracterizado por compreender:
+
+- inerente aos trechos de D1 citados a seguir
+
+
+
+um decodificador de parâmetro (2311) configurado para
+
+obter um parâmetro, a partir de um fluxo de bits, indicando um
+
+de um primeiro módulo de decodificação e um segundo módulo de
+
+decodificação;
+
+- D1 Fig. 7 e D1 (seção 6.8.2 p 52 - The term "switched-prediction" () (NB voiced mode)
+
+
+
+o primeiro módulo de decodificação, configurado para
+
+decodificar o fluxo de bits mediante a não utilização de predição
+
+interquadro para reconstrução de áudio ou fala, quando o primeiro
+
+módulo de decodificação for selecionado; e
+
+- D1 (seção 6.8.2 p. 52 e 53: "[...] effectively resulting in non-predictive coding [...])
+
+
+
+o segundo módulo de decodificação configurado para
+
+decodificar o fluxo de bits, com predição interquadro, para
+
+reconstrução de áudio ou fala, quando o segundo módulo de
+
+decodificação for selecionado,
+
+       D1 (seção 6.8.2 p 52 e 53: "[...] the codebook associated with this prediction vector is
+called the strongly-predictive codebook, or this prediction-vector/codebook pair is called
+the strongly-predictive path")
+
+
+
+em que o primeiro módulo de decodificação compreende
+
+um desquantizador de treliça-estruturada com restrição em bloco
+
+
+
+                                                                                             Página 3
+                                              BR122021000239-8
+
+
+e um preditor intraquadro,
+
+- é inerente ao decodificador associado ao codificador de D3 claim 2 using the BC-TCQ [block-
+
+constrained - Trellis coded quantization] algorithm, and then, by performing intra-frame
+prediction compensation 
+
+
+
+em que tanto o primeiro módulo de decodificação quanto
+
+o segundo módulo de decodificação são configurados para realizar
+
+a decodificação usando um número idêntico de bits por quadro, e
+
+- Consta em D1 seção 6.8.2: the       first    prediction   vector   entries   are    close      to    0.7.   As
+the prediction coefficients are relatively close to one, the codebook associated with this
+prediction     vector   is   called   the strongly-predictive        codebook,       or   this        prediction-
+vector/codebook pair is called the strongly-predictive path. The other prediction vector has
+entries either set to zero (all speech modes except NB voiced), effectively resulting in non-
+predictive coding, or has entries set around 0.35 (NB voiced mode). The codebook associated
+with this second prediction-vector is called the weakly-predictive codebook (NB voiced) or
+safety-net codebook (all modes except NB voiced),
+
+      assim, a característica foi antecipada por D1 tabela 9 linhas VC, WB ; GC, WB ou
+GC,NB, onde a última coluna mostra o total de bits e safety-net corresponde , no presente
+pedido, ao primeiro módulo (sem predição)
+
+
+
+em que tanto o primeiro módulo de decodificação quanto
+
+o segundo módulo de decodificação são configurados para realizar
+
+a decodificação do fluxo de bits que é obtido com base em um
+
+modo de codificação sonoro dentre uma pluralidade de modos de
+
+codificação,
+
+- inerente aos trechos de D1 citados anteriormente
+
+
+
+no qual, mediante um aparelho de codificação(...) compreendendo o parâmetro que é gerado.
+
+- esse trecho carece de clareza tal como detalhado anteriormente.
+
+
+
+No item 5 a requerente comentou um trecho de D1 que não foi aquele citado no parecer anterior.
+
+No item 8 a requerente ressaltou uma possível (pequena) diferença do presente pedido com
+relação a D1 e D3 mas não deixou claro qual seria a vantagem técnica decorrente de tal
+detalhe, não caracterizando assim que o dito detalhe técnico poderia agregar atividade inventiva
+
+
+                                                                                                         Página 4
+                                        BR122021000239-8
+
+
+à invenção. Ressalta-se nesse sentido o seguinte trecho do parecer anterior A requerente deve,
+ainda, indicar a importância das modificações introduzidas nas reivindicações (caso ocorram),
+com relação ao estado da técnica.
+
+Nas reivindicações dependentes não foram identificadas características que, mesmo quando
+combinadas com as características de qualquer reivindicação independente a que se referem,
+venham a prover novidade e/ou a atividade inventiva à matéria.
+
+
+Conclusão
+
+
+
+Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                            Rio de Janeiro, 20 de agosto de 2021.
+
+
+
+
+Denise Freitas Silva
+Pesquisador/ Mat. Nº 1472730
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+008/13
+
+
+
+
+                                                                                          Página 5
+

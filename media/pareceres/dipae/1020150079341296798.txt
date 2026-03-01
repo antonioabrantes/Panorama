@@ -1,0 +1,279 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102015007934-6           N.° de Depósito PCT:
+ Data de Depósito:                   09/04/2015
+ Prioridade Unionista:               US 14/251161 (11/04/2014)
+ Depositante:                        DEERE & COMPANY (US)
+ Inventor:                           Aaron J. Bruns, Timothy S. Hunt, Brian J. Gilmore
+ Título:                             Método de armazenamento de informação, e,             sistemas   de
+                                     computação e de controle para uma máquina móvel
+
+                                                              PARECER
+
+
+                     Previamente ao primeiro exame técnico, esse pedido de patente de invenção, que
+se refere a exibição de métricas de desempenho para um operador de uma máquina móvel, teve
+uma exigência preliminar (código 6.21) emitida no âmbito da Resol. n.o 241/2019, conforme
+notificado na publicação da RPI n.o 2537, de 20 de agosto de 2019.
+                     Em resposta ao parecer de exigência preliminar (6.21), o Depositante apresentou
+              o
+petição n. 870190115924, em 11 de novembro de 2019, com modificações no pedido, mas sem
+argumentações técnicas quanto ao estado da técnica citado na exigência preliminar.
+                     Após a resposta à exigência preliminar (6.21), esse pedido foi submetido a um
+primeiro exame técnico, o qual resultou em uma Ciência de Parecer (código 7.1), conforme
+notificado na publicação da RPI n.o 2580, de 16 de junho de 2020.
+                     A requerente se manifestou ao primeiro parecer técnico mediante petição n.o
+870200115805, em 13 de setembro de 2020, na qual apresentou sua Manifestação à Ciência de
+Parecer.
+                     Os comentários presentes nesse parecer técnico estão baseados na:
+                               - Lei n.o 9.279, de 14 de maio de 1996  Lei da Propriedade Industrial (LPI);
+                               - Instrução Normativa DIRPA n.o 030/2013 (IN n.o 30/2013), de 4 de
+dezembro de 2013, publicada na RPI n.o 2241, de 17 de dezembro 2013, que dispõe sobre o
+estabelecimento de normas gerais de procedimentos para explicitar e cumprir dispositivos da LPI,
+no que se refere às especificações dos pedidos de patente; e
+                               - Resolução PR n.o 241/2019 (Resol. n.o 241/2019), de 3 de julho de 2019,
+que disciplina a exigência preliminar do pedido de patente de invenção pendente de exame, com
+o aproveitamento do resultado das buscas realizadas em Escritórios de Patentes de outros
+países, de Organizações Internacionais ou Regionais.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                       Página 1/6
+                                             BR102015007934-6
+
+
+  Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                              Sim      Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                            X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    X
+
+O pedido refere-se a Sequências Biológicas                                                                      X
+
+Comentários/Justificativas:
+                 O INPI emitiu a exigência de código 6.6.1 na RPI n. o 2467, de 17 de abril de 2018,
+para fins de manifestação do depositante quanto à ocorrência de acesso ao Patrimônio Genético
+nacional e/ou Conhecimento Tradicional Associado para obtenção do objeto desse pedido. Não
+tendo havido manifestação do depositante no prazo de 60 (sessenta) dias contados a partir da
+publicação na RPI, o INPI deu prosseguimento ao exame técnico com o entendimento de que não
+houve acesso ao patrimônio genético nacional e/ou conhecimento tradicional associado, conforme
+consta no texto do despacho de código 6.6.1 publicado na RPI, de acordo com entendimento
+firmado pela Procuradoria Federal Especializada junto ao INPI (PFE-INPI) no Parecer n. o
+00001/2018/PROCGAB/PFE-INPI/PGF/AGU                    (Processo       INPI         n.o    52400.002142/2018-30),
+                        os
+publicado nas RPI n. 2465, de 03 de abril de 2018, 2466, de 10 de abril de 2018, e 2467, de 17
+de abril de 2018, ao qual foi atribuído caráter normativo na RPI n.o 2485, de 21 de agosto de 2018.
+
+
+                              Quadro 1  Páginas do pedido examinadas
+            Elemento                        Páginas                 n.o da Petição                    Data
+Relatório Descritivo                         1 a 30                 870190115924                   11/11/2019
+Listagem de sequências em
+                                                ---                           ---                      ---
+formato impresso
+Listagem de sequências                Código de Controle                      ---                      ---
+Quadro Reivindicatório                        1a5                   870190115924                   11/11/2019
+Desenhos                                     1 a 12                 860150060681                   09/04/2015
+Resumo                                          1                   870190115924                   11/11/2019
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                            Sim           Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                        X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                    X
+O pedido está de acordo com disposto no art. 32 da LPI                                     X
+Comentários/Justificativas:
+
+
+
+
+                                                                                                       Página 2/6
+                                          BR102015007934-6
+
+               No parecer técnico anterior, conforme notificado na publicação da RPI n.o 2580, foi
+colocado para a requerente que o quadro reivindicatório apresentado na petição n.o
+870190115924 continha matéria que não se considerava invenção.
+               Ficou entendido, no parecer técnico anterior, que a matéria pleiteada pelo presente
+pedido buscava proteção para a exibição de uma imagem em vídeo em um componente de
+interface de usuário e, dessa forma, o presente pedido infringia o disposto no art. 10, inciso VI, da
+LPI, em que é disposto que não se considera invenção a apresentação de informações.
+               Em sua manifestação à ciência de parecer apresentada na petição n. o
+870200115805, a requerente discorda desse entendimento, mas somente alega que o presente
+pedido trata de um método de armazenamento de informação e um sistema de controle para uma
+máquina móvel. Porém, esses argumentos não podem ser considerados satisfatórios e
+procedentes para justificar o não enquadramento da matéria pleiteada no art. 10 da LPI.
+               Como pode se observar no relatório descritivo, parágrafo 1, a presente descrição
+refere-se à exibição de métricas de desempenho para um operador de uma máquina móvel.
+               Já no quadro reivindicatório está claramente definido a exibição de valores na
+interface de usuário tanto pelo método quanto pelo sistema. Apesar de a requerente pleitear
+método de armazenamento de informação e sistema de controle, as reivindicações são definidas
+por etapas de exibição de informação.
+               Portanto, mantém-se o entendimento que o presente pedido não é considerado
+invenção, porque a matéria pleiteada pelo presente pedido busca proteção para a exibição de
+uma imagem em vídeo em um componente de interface de usuário e, dessa forma, o presente
+pedido infringe o disposto no art. 10, inciso VI, da LPI, em que é disposto que não se considera
+invenção a apresentação de informações.
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                            Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI        X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                      X
+Comentários/Justificativas:
+               Na Ciência de Parecer (código 7.1), conforme notificado na publicação da RPI n. o
+2580, foi colocado para a requerente que o quadro reivindicatório apresentado na petição n.o
+870190115924 contrariava o disposto no art. 25 da LPI. O quadro reivindicatório apresentava a
+seguinte irregularidade: a matéria pleiteada nas reivindicações 1 a 11 não era definida de maneira
+clara e precisa.
+               Porém, na petição de manifestação à ciência de parecer apresentada na petição n. o
+870200115805, a requerente não apresentou nova via do quadro reivindicatório e também não
+apresentou argumentos quanto à falta de clareza e precisão alegada no parecer técnico anterior.
+
+
+
+
+                                                                                          Página 3/6
+                                       BR102015007934-6
+
+Portanto, entende-se que o quadro reivindicatório presente na petição n. o 870190115924 continua
+contrariando o disposto no art. 25 da LPI ao apresentar a seguinte irregularidade:
+                     - as reivindicações 1 a 11 não atendem ao disposto no art. 25 da LPI e na IN
+n.o 30/2013, art. 4º (III), pois a matéria pleiteada não está definida de maneira clara, precisa e
+positiva pelas seguintes razões: as reivindicações 1 a 11 pleiteiam etapas de um método de
+exibição de informação, mas são iniciadas por método de armazenamento de informação, o que
+está prejudicando o entendimento da matéria pleiteada.
+
+
+
+                         Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                               Data de publicação
+    D2                                EP1714540                                      25/10/2006
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento                 Reivindicações
+                                                    Sim                        1 a 12
+          Aplicação Industrial
+                                                    Não                          ---
+                                                    Sim                        1 a 11
+                Novidade
+                                                    Não                          12
+
+                                                    Sim                          ---
+           Atividade Inventiva
+                                                    Não                        1 a 12
+Comentários/Justificativas:
+              No parecer técnico anterior, conforme notificado na publicação da RPI n.o 2580, o
+documento EP1714540 (D2), publicado em 25/10/2006, foi citado para embasar a opinião de falta
+de novidade e de atividade inventiva desse pedido e o seu não atendimento ao art. 8º combinado
+com os arts. 11 e 13 da LPI.
+              No último parecer, foi apontado para a requerente que:
+                     i) D2, considerado o estado da técnica mais próximo ao presente, descreve
+um veículo agrícola que compreende um sistema de controle para o veículo agrícola
+compreendendo: uma pluralidade de sensores, cada qual percebendo uma variável na máquina
+móvel e provendo um sinal do sensor indicativo da variável sensoreada; uma unidade de
+controle configurada para calcular uma métrica de desempenho com base nos sinais do sensor; e,
+um componente da interface de usuário configurado para gerar uma exibição de valores de
+métrica da métrica de desempenho graficamente representada ao longo de uma linha do tempo
+quase em tempo real, o componente da interface de usuário é adaptado ainda para receber
+uma interação de usuário com a exibição em tempo contínuo e para modificar a exibição em
+tempo contínuo com base na interação de usuário, em que o componente da interface de usuário
+é adaptado para receber uma       interação   de   usuário   compreendendo     uma      entrada   de
+
+
+
+                                                                                          Página 4/6
+                                        BR102015007934-6
+
+sondagem, e em que o componente da interface de usuário é adaptado para modificar a exibição
+em tempo contínuo compreendendo exibir uma exibição mais detalhada indicativa de
+informação mais detalhada correspondente ao valor métrico na exibição em tempo contínuo
+(quadro reivindicatório).
+                        ii) O presente pedido difere de D2 em: D2 não descreve de forma explícita
+um método de controle e exibição de informação; e o componente da interface de usuário (116)
+do presente pedido é adaptado para exibir, quando exibindo uma exibição mais detalhada,
+uma imagem em vídeo correspondente à variável percebida e/ou que a métrica compreende
+uma métrica de desempenho derivada a partir de uma pluralidade de variáveis percebidas, e que
+o componente da interface de usuário (116) é adaptado para exibir, quando exibindo uma
+exibição mais detalhada, uma exibição em tempo contínuo para cada uma da pluralidade de
+variáveis percebidas;
+                        iii) Uma vez que a exibição de uma imagem em vídeo em um componente
+de interface de usuário infringe o disposto no art. 10, inciso VI, da LPI e não é considerada
+invenção, entende-se que D2 revela, de forma integral, o sistema de controle para uma máquina
+móvel conforme pleiteado pela reivindicação 12, dessa forma, a reivindicação 12 não é nova e,
+consequentemente, também não apresenta atividade inventiva;
+                        iv) Apesar de D2 não revelar de forma explícita o método de controle para
+uma máquina móvel, um técnico no assunto seria capaz, de maneira evidente, obter o método
+pleiteado pelas reivindicações 1 a 11 com base no sistema de controle descrito em D2. Portanto,
+as reivindicações 1 a 11 não apresentam atividade inventiva.
+               Na Manifestação à Ciência de Parecer apresentada na petição n. o 870200115805, a
+requerente não apresentou nenhum argumento técnico para justificar a novidade e atividade
+inventiva do presente pedido frente o estado da técnica citado. Dessa forma, mantém-se o mesmo
+entendimento do último parecer técnico.
+               Portanto, a reivindicação 12 desse pedido de patente de invenção não atende aos
+requisitos de patenteabilidade previstos no art. 8º combinado com o 11 da LPI, em que é dito que
+a invenção é considerada nova quando não compreendida no estado da técnica, e no art. 8º
+combinado com o 13 da LPI, em que é dito que a invenção é dotada de atividade inventiva sempre
+que, para um técnico no assunto, não decorra de maneira evidente ou óbvia do estado da técnica.
+               E as reivindicações 1 a 11 desse pedido de patente de invenção não atendem ao
+requisito de patenteabilidade previsto no art. 8º combinado com o 13 da LPI, em que é dito que a
+invenção é dotada de atividade inventiva sempre que, para um técnico no assunto, não decorra de
+maneira evidente ou óbvia do estado da técnica.
+
+
+
+
+                                                                                      Página 5/6
+                                       BR102015007934-6
+
+
+Conclusão
+              Assim sendo, de acordo com o Art. 37 da LPI, opino pelo indeferimento do presente
+pedido, uma vez que:
+                     -   a reivindicação 12 não apresenta novidade e atividade inventiva porque a
+          matéria reivindicada é revelada pelo documento EP1714540 (D2), publicado em
+          25/10/2006, portanto, essa reivindicação não atende ao art. 8º combinado com os arts.
+          11 e 13 da LPI;
+                     -   as reivindicações 1 a 11 não apresentam atividade inventiva frente o
+          documento EP1714540 (D2), publicado em 25/10/2006, portanto, essas reivindicações
+          não atendem ao artigo 8º combinado com o artigo 13 da LPI;
+                     -   o presente pedido apresenta matéria reivindicada que não é considerada
+          invenção nem modelo de utilidade ao enquadrar-se no art. 10, inciso VI, da LPI, em que
+          é disposto que não se considera invenção a apresentação de informações;
+                     -   o quadro reivindicatório apresenta falta de clareza e precisão,
+          irregularidade que torna o presente pedido em desacordo com o artigo 25 da LPI.
+
+
+              De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a
+partir da data de publicação na RPI, para interposição de recurso.
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 20 de outubro de 2020.
+
+
+
+
+Christiam Felipe Silva Maciel
+Pesquisador/ Mat. Nº 2316904
+DIRPA / CGPAT II/ DIPAT VI (DIPAE)
+Deleg. Comp. - Port. INPI/DIRPA Nº 016/17
+
+
+
+
+                                                                                        Página 6/6
+

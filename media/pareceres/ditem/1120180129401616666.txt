@@ -1,0 +1,189 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112018012940-2          N.° de Depósito PCT:CN2016/079967
+ Data de Depósito:                   22/04/2016
+ Prioridade Unionista:               CN 201510992788.3 (25/12/2015)
+ Depositante:                        SHANGHAI ZHENHUA HEAVY INDUSTRIES CO., LTD. (CN)
+ Inventor:                           GANG HE; YAOZHOU ZHANG; JIAN XIA; JIANMING JIN; YAN
+                                     LIANG; SIMING SHI; QI LU
+ Título:                             Terminal de contêiner, método de carga de contêiner, método de
+                                     descarga de contêiner, método de evacuação de contêiner, e método
+                                     de agrupamento de contêiner.
+
+                                                                PARECER
+
+
+          Em 17/08/2020, por meio da petição 870200103279, o Depositante apresentou
+modificações no pedido em resposta ao parecer notificado na RPI 2577 de 26/05/2020 segundo
+a exigência preliminar (6.21).
+
+          No parecer técnico publicado na RPI n° 2671 de 15/03/2022 foi emitida uma ciência de
+parecer (7.1) por entender que levando em consideração os elementos presentes em D1
+(JP2003048625), a matéria do pedido em análise não apresentava novidade e atividade
+inventiva (Art. 8 combinado com Art. 11 e Art. 13 da Lei da Propriedade Industrial, n.º 9279, de
+14/05/1996), não sendo passível de proteção. O exame evidenciou ainda que o pedido não
+atendia ao disposto no Art. 32 e Art. 25 da LPI, e na Instrução Normativa nº 30/2013  Art. 4º
+(VI).
+
+          O depositante apresentou manifestação ao parecer técnico por meio da petição n°
+870220051612, de 13/06/2022, na qual apresentou esclarecimentos e novas vias do Relatório
+Descritivo, Quadro Reivindicatório e Resumo.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                    1 a 29               870220051612     13/06/2022
+Quadro Reivindicatório                                   1a5                 870220051612     13/06/2022
+Desenhos                                                 1a6                 870180069137     09/08/2018
+Resumo                                                      1                870220051612     13/06/2022
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                           BR112018012940-2
+
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                           Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                       x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   x
+O pedido está de acordo com disposto no art. 32 da LPI                    x
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                 JP2003048625                                21/02/2003
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                    1a9
+            Aplicação Industrial
+                                                         Não                     ----
+                                                         Sim                     ----
+                 Novidade
+                                                         Não                    1a9
+
+                                                         Sim                     ----
+            Atividade Inventiva
+                                                         Não                    1a9
+Comentários/Justificativas
+
+         A requerente argumenta que o documento D1 não revela algumas características da
+matéria do pedido em análise. No entanto, discordamos desse argumento, uma vez que o
+documento D1 revela um terminal de contêiner que compreende uma área de trabalho em litoral,
+
+
+
+                                                                                          Página 2
+                                       BR112018012940-2
+
+passagens para carga e descarga, uma área de pátio e passagens para agrupamento e
+evacuação, em que os equipamentos de operação em litoral (3) são dispostos na área de
+trabalho em litoral, os equipamentos de operação no pátio (4) são dispostos na área de pátio, os
+veículos de transporte de carga e descarga (13) se movimentam nas passagens de carga e
+descarga, e os veículos de agrupamento e evacuação (10) se movimentam nas passagens de
+agrupamento e evacuação, os equipamentos de operação em litoral (3) executam operações de
+carga e descarga de contêineres (6) com um navio, os veículos de transporte de carga e
+descarga (13) transportam os contêineres (6) entre a área de trabalho em litoral e a área de
+pátio, os veículos de agrupamento e evacuação (10) executam transportes de agrupamento ou
+evacuação para os contêineres (6) dispostos na área de pátio, em que: a área de trabalho em
+litoral (1A) é disposta no litoral um navio (2) é atracado ao litoral (1A); a área de pátio
+compreende uma pluralidade de unidades de pátio, áreas de espaçamento são formadas entre
+as unidades de pátio adjacentes, cada unidade de pátio compreende pelo menos um pátio, cada
+unidade de pátio é disposta com uma passagem de agrupamento e evacuação (12A, 12B)
+circundando o pátio, as passagens de carga e descarga (11A, 11B) são dispostas nas áreas de
+espaçamento entre as unidades de pátio adjacentes; as passagens de carga e descarga (11A,
+11B) ligam a área de pátio e a área de trabalho em litoral, as passagens de agrupamento e
+evacuação (12A, 12B) são dispostas nas unidades de pátio, as passagens de carga e descarga
+(11A, 11B) e as passagens de agrupamento e evacuação (12A, 12B) ficam em um mesmo plano
+horizontal, mas não se interceptam umas com as outras; e cada unidade de pátio compreende
+um primeiro pátio e um segundo pátio dispostos com um intervalo, a passagem de agrupamento
+e evacuação (12A, 12B) compreende uma pluralidade de unidades de passagem de
+agrupamento e evacuação (12A, 12B), cada unidade de passagem de agrupamento e
+evacuação (12A, 12B) é em forma de U, cada unidade de passagem de agrupamento e
+evacuação (12A, 12B) é disposta em uma respectiva unidade de pátio das unidades de pátio e
+circunda o primeiro pátio, a unidade de passagem de agrupamento e evacuação (12A, 12B)
+ocupa o intervalo entre o primeiro pátio e o segundo pátio, uma primeira área de extremidade do
+primeiro pátio, e uma área dentro da unidade de pátio e sendo uma parte da área lateral do
+primeiro pátio oposta ao segundo pátio (ver parágrafos [0038] a [0045]; e Figuras 4 a 6).
+
+       A requerente argumenta ainda que a matéria do seu pedido de patente possibilita mais
+espaço para os primeiro e segundo pátios para armazenamento de contêineres uma vez que os
+recursos de passagem e veículo são compartilhados pelos dois pátios. No entanto, também
+discordamos desse argumento, uma vez que D1 apresenta o mesmo arranjo, os recursos de
+passagem e veículo também são compartilhados pelos dois pátios e neste também haverá mais
+espaço nos primeiro e segundo pátios para armazenamento de contêineres
+
+       Dessa forma, reiteramos o exposto no parecer anterior que, as reivindicações
+independentes 1, 6 a 9 não atendem ao requisito de novidade e atividade inventiva (Art. 8º
+
+
+
+
+                                                                                            Página 3
+                                        BR112018012940-2
+
+combinado com Art. 11º e Art. 13º da LPI), já que todas as características pleiteadas
+encontram-se antecipadas em D1.
+
+       Nas reivindicações dependentes 2 a 5 não foram identificadas características que,
+mesmo quando combinadas com as características de qualquer reivindicação independente a
+que se referem, venham a prover novidade e/ou a atividade inventiva à matéria.
+
+
+
+Conclusão
+
+       Face ao exposto, conclui-se que o pedido não apresenta novidade e atividade inventiva
+(Art. 8 combinado com Art. 11 e Art. 13 da LPI).
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                              Rio de Janeiro, 24 de agosto de 2022.
+
+
+
+
+Michelle Izolina Lopes de Souza
+Pesquisador/ Mat. Nº 2317577
+DIRPA / CGPAT IV/DITEM
+Deleg. Comp. - Port. INPI/DIRPA Nº
+006/18
+
+
+
+
+                                                                                           Página 4
+

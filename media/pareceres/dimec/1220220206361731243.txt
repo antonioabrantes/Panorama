@@ -1,0 +1,242 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR122022020636-0          N.° de Depósito PCT:
+ Data de Depósito:     24/02/2012
+ Prioridade Unionista: US 13/033,772 (24/02/2011); US 13/033,849 (24/02/2011); US
+                       13/033,855 (24/02/2011)
+ Depositante:          TAI-HER YANG (TW)
+ Inventor:             TAI-HER YANG (TW)
+ Título:               Máquina elétrica de acionamento dual com jogo de engrenagens
+                       planetárias controlável 
+
+                                                                PARECER
+          O requerente apresentou manifestação ao Parecer Técnico publicado na RPI n.º 2722 de
+07/03/2023, por meio da petição n.º 870230047531, de 02/06/2023.
+          O exame evidenciou irregularidades no pedido, não atendendo ao disposto nos Arts. 25 e
+6 da LPI. Desse modo, foi dado uma ciência (7.1). Para fins de continuidade do exame estão
+sendo considerados as páginas abaixo:
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                   1 a 153               870220093818           11/10/2022
+Quadro Reivindicatório                                  1 a 60               870230047531*          02/06/2023
+Desenhos                                                 1a7                 870220093818           11/10/2022
+Resumo                                                      1                870220093818           11/10/2022
+* Petição 870230047531, de 02/06/2023, pág. 83/218 a 142/2018
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR122022020636-0
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim           Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                  X
+Comentários/Justificativas
+
+         Na Manifestação ao Parecer Técnico (petição n.º 870230047531, de 02/06/2023.), o
+requerente apresenta novo quadro reivindicatório.
+         Em relação ao questionamento feito no parecer técnico anterior quanto a algumas
+características conhecidas do estado da técnica serem pleiteadas após a expressão
+caracterizado por e outras serem pleiteadas duas vezes numa mesma reivindicação. Em relação
+à segunda questão, embora, como citado, o comentário em questão não se limite ao exemplo
+dado, o requerente limitou sua resposta ao exemplo dado. Tomando com base a resposta do
+requerente são feitos os seguintes comentários:
+         É fato amplamente conhecido de que ao ser acionada uma engrenagem solar, as
+engrenagens planetárias, bem como a engrenagem anelar orbitarão ao redor da primeira (serão
+igualmente acionadas) e transmitirão movimento para um outro eixo de rotação. A repetição de
+passos e/ou características conhecidas do estado da técnica, tornam o texto redundante e, ao
+contrário do afirmado pelo requerente, o mesmo não define de forma clara e/ou precisa objeto do
+pedido.
+         Analisando, por exemplo (mas não limitado a), a reivindicação independente 1 do quadro
+atual:
+         Em sua manifestação, o requerente alega que a característica inventiva (segundo o
+requerente) o fato de que o freio controlável BK102 fica conectado ao eixo de rotação S102 do
+lado oposto ao eixo de rotação do tipo luva AS101. No entanto, após a expressão caracterizado
+por são apresentadas uma série de características já presentes no estado da técnica conforme
+descrito acima ( eixo de rotação (S101) de saída/entrada compartilhado pela roda solar (W101)
+do conjunto de engrenagens planetárias (DG101) . , o eixo de rotação tipo luva (AS101) com
+manga no eixo de rotação (S101) é servido como uma saída/entrada, a roda anular externa
+(W102) do conjunto de engrenagens planetárias (DG101) é fornecida para acionar o eixo de
+rotação (S102) de saída/entrada). Tais características são também apresentadas antes da
+expressão caracterizado por da reiv. 1.
+         Ainda, após o trecho acima mencionado é apresentado a característica supostamente
+inventiva (o freio controlável BK102 fica conectado ao eixo de rotação S102)  pág. 3 do quadro
+reivindicatório. No entanto, mais adiante, esta mesma característica é novamente descrita na
+parte caracterizante da reiv. 1:  dispositivo de freio controlável (BK102):.. que um dos lados
+de ação é conectado ao eixo de rotação (S102) de saída/entrada e o outro lado de ação é fixado
+
+
+
+                                                                                        Página 2
+                                         BR122022020636-0
+
+
+no alojamento (H100); ... - (final da pág. 3, início da pág. 4 e novamente no final da pág. 4 do
+quatro reivindicatório)
+          Além disso, como comentado, boa parte de características já definidas em uma
+reivindicação são repetidas em outras, deixando quadro reivindicatório redundante, confuso e
+impreciso. O próprio requerente reconhece isso em sua manifestação ao dizer que: Em relação
+ao comentário do Examinador de que algumas das características reveladas na reivindicação 1
+também se encontram na reivindicação 2, concordamos com essa afirmação, ...
+          O quadro reivindicatório está em desacordo com o disposto no Art. 25 da LPI, pela falta de
+clareza em relação a definição das características técnicas para qual se requer proteção.
+          Além disso, o quadro reivindicatório também está em desacordo com o disposto no Art. 25
+da LPI, pela proliferação excessiva de reivindicações independentes de forma redundante.
+          Ver também comentários do Quadro 5.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                 Documento                              Data de publicação
+    ---                                      ---                                        ---
+
+
+     Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento             Reivindicações
+                                                       Sim                        ---
+             Aplicação Industrial
+                                                      Não                         ---
+
+                                                       Sim                        ---
+                   Novidade
+                                                      Não                         ---
+
+                                                       Sim                        ---
+             Atividade Inventiva
+                                                      Não                         ---
+
+
+
+Comentários/Justificativas
+
+          Apesar da falta de clareza mencionada, por economia processual faz-se os seguintes
+comentários:
+
+          Em relação ao parecer emitido notificado na RPI 2580 de 16/06/2020 (despacho 6.21), o
+requerente, mais uma vez, não apresentou qualquer argumento no sentido de diferenciar o
+presente pedido de invenção das anterioridades apontadas. Se limita a argumentar que o
+presente pedido teve sua contraparte europeia concedida, anexando a mesma à atual
+manifestação.
+
+          Em relação à exigência de um quadro comparativo (reivindicação a reivindicação) no
+sentido de evidenciar a diferença entre os quadros do presente pedido e do pedido original, o
+
+
+
+                                                                                              Página 3
+                                        BR122022020636-0
+
+
+requerente justifica a sua opção por não cumprir a exigência feita, sob o argumento de que
+tal comparação seria exaustiva. Este argumento contradiz o argumento seguinte de que as
+diferenças entre ambos os quadros são nítidas.
+
+       Se tais diferenças são, segundo o requerente, nítidas, por que a comparação seria
+exaustiva? Se o requerente que conhece a matéria pleiteada em todos os seus detalhes,
+considera tal comparação exaustiva, o que se poderia pensar de um técnico no assunto ou
+qualquer interessado ao tentar reproduzir o objeto de cada um dos dois pedidos (o original e o
+dividido)? O citado argumento apenas evidencia que o próprio requerente reconhece a falta de
+clareza do quadro reivindicatório proposto, estando o mesmo em desacordo com o disposto no
+Art. 25 da LPI, como já anteriormente comentado. (Ver também comentários do Quadro 3.)
+
+       Além disso, embora o requerente diga que reconhece a independência das decisões
+entre países diferentes, argumenta subjetivamente que a citada independência objetiva apenas
+que um país não seja obrigado a conceder um pedido de patente que contrarie suas diretrizes.
+Por fim, argumenta que o escritório europeu concedeu patente correspondente.
+
+       Uma vez mais, cabe lembrar que a concessão de um pedido de patente é local, o que
+significa que ter sido concedido a patente em um país, não garante a concessão em outro
+(Principio de Territorialidade, definido na Convenção de Paris e Independence of Patents
+definido no PCT). Portanto, os referidos argumentos mostram-se inapropriados e, por
+consequência, desnecessários.
+
+       Em sua manifestação o requerente reconhece que o quadro do presente pedido dividido
+e o quadro do pedido original possuem características em comum (petição 870230047531, de
+02/06/2023, pág. 11/218). No entanto, alega como única diferença a característica (segundo o
+requerente) inventiva de que no presente pedido o eixo de rotação tipo luva (AS101) não é
+conectado a um lado de ação do dispositivo de freio controlável (BK101). No entanto, ao
+contrário do também solicitado no parecer técnico anterior, não indica qual seria o efeito técnico
+inesperado obtido por esta diferença.
+
+       Embora o novo quadro apresentado no presente pedido dividido tenha sido parcialmente
+reformulado em algumas de suas reivindicações apenas no tocante ao reposicionamento da
+expressão caracterizado por, o mesmo apresenta características pleiteadas no quadro
+reivindicatório do pedido original (BR102012004078-6).
+
+       Importante também lembrar que as reivindicações ora apresentadas no presente pedido,
+foram excluídas do quadro reivindicatório do pedido original (BR102012004078-6, petição
+870200116726, de 14/09/2020), pelo requerente, em cumprimento a exigência (publicada na
+RPI n.º 2688 de 12/07/2022), em sua maioria pelo fato de pleitearem a mesma matéria das
+reivindicações inciais do pedido original. Ou seja, naquela ocasião, o próprio requerente
+reconheceu a duplicidade de matéria.
+
+       Uma vez que o requerente optou por não cumprir a exigência feita referente à
+comparação evidenciando a diferença entre os quadros reivindicatórios dos dois pedidos, bem
+
+
+
+                                                                                          Página 4
+                                         BR122022020636-0
+
+
+como não apresentando qual seria o efeito técnico inesperado obtido por supostas diferenças e
+se limitando a embasar seus argumentos na concessão pelo escritório europeu, o quadro
+reivindicatório do presente pedido não está sendo aceito, pois há uma duplicidade da matéria
+pleiteada entre o quadro do pedido original (BR102012004078-6) e o presente pedido
+(BR122022020636-0). Tendo em vista a concessão de patente do pedido BR102012004078-6,
+verifica-se que um eventual deferimento do presente pedido resultaria em dupla proteção da
+matéria pleiteada, o que infringiria as disposições do Art. 6° da LPI.
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   falta de clareza nas reivindicações - Art. 25 da LPI
+
+      -   não atende ao Art. 6º LPI
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                   Publique-se o indeferimento (9.2).
+
+
+
+                                                                 Rio de Janeiro, 19 de junho de 2023.
+
+
+
+
+Márcio Feres Bessa
+Pesquisador/ Mat. Nº 2317389
+DIRPA / CGPAT IV/DIMEC
+Deleg. Comp. - Port. INPI/DIRPA Nº 021/18
+
+
+
+
+                                                                                            Página 5
+

@@ -1,0 +1,426 @@
+                               SERVIÇO PÚBLICO FEDERAL
+                                MINISTÉRIO DA ECONOMIA
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+N.° do Pedido:              BR112017011602-2         N.° de Depósito PCT: IB2015/059257
+                                                     (01/12/2014)
+
+                        Publicação Nacional:     Publicação Internacional: WO 2016/088044
+                        06/03/2018 (RPI 2461) (09/06/2016)
+Data de Depósito (PCT): 01/12/2015
+Prioridade Unionista:   IT TO2014A000998 (01/12/2014)
+Depositante:            THALES ALENIA SPACE ITALIA S.P.A. CON UNICO SOCIO (IT)
+Inventor(es):           GUIDO PARISSENTI (IT), PRIMO ATTINA (IT), ROBERTO
+                        DESTEFANIS (IT), CORRADO GENNARO (IT), LILITH GRASSI (IT),
+                        MARCO NEBIOLO (IT)
+Título:                 Dispositivo passivo projetado para facilitar a desintegração de um
+                        sistema espacial durante a reentrada na atmosfera da terra..
+
+                                PARECER DE EXAME TÉCNICO
+
+
+
+         O presente pedido de Patente de Invenção (PI), refere-se a um sistema espacial (1),
+compreendendo uma estrutura (2) formada por componentes estruturais (3), um equipamento de
+bordo (5) transportado pela estrutura (2), e um dispositivo passivo concebido para facilitar a
+desintegração e o desaparecimento do sistema espacial (1) durante a reentrada na atmosfera da
+Terra.
+
+
+
+         Para realização industrial do reivindicado como inventivo no presente pedido de PI, o
+dispositivo passivo compreende membros de conexão (4) concebidos para conectarem de forma
+estável os componentes estruturais (3). Os membros de conexão (4) compreendem pelo menos
+uma porção feita de um material de desencadeamento tendo características de degradação a
+altitudes de reentrada mais elevadas do que aquelas nas quais os elementos de conexão atuais
+se derretem, de modo a tornar instável a conexão criada pelos membros de conexão (4), para
+desencadear a desintegração prematura da estrutura (2) do sistema espacial (1) durante a
+reentrada na atmosfera terrestre.
+
+
+
+         Em 15/02/2022, foi publicada através da RPI Nº 2667, notificação de emissão de parecer
+técnico relativo ao pedido de Patente de Invenção (PI), referente a Ciência de Parecer (7.1),
+decorrendo a partir daquela data o prazo de 90 (noventa) dias para manifestação da Requerente
+quanto ao contido no citado parecer técnico.
+
+
+
+
+                                                                                                    1
+                                          BR112017011602-2
+
+
+       Em 01/06/2017, 03/08/2020 e 16/05/2022, através das Petições 870170036843/SP,
+870200096507/RJ e 870220042333/RJ, a Requerente apresenta os documentos listados no
+Quadro 1, a seguir, e solicita alteração do título do presente pedido para: SISTEMA
+ESPACIAL E USO DE UM DISPOSITIVO PASSIVO..
+
+                            Quadro 1  Páginas do pedido examinadas
+           Elemento                      Páginas               N.o da Petição           Data
+
+Relatório Descritivo (RD): com            16/23               870200096507/SP         03/08/2020
+01 (Uma) folha, numerada
+como 01/10.
+RD: com 09 (Nove) folhas, 85/109  93/109                     870170036843/SP         01/06/2017
+numerada como 02/10 
+10/10.
+Quadro Reivindicatório (QR):         12/17  15/17            870220042333/RJ         16/05/2022
+com 04 (Quatro) folhas,
+apresentando    13    (Treze)
+reivindicações.
+Desenhos (D´s): com 11 98/109  108/109                       870170036843/SP         01/06/2017
+(Onze) folhas, apresentando
+14    (Quatorze)     figuras,
+numeradas de: Fig. 01  Fig.
+14.
+Resumo (R): com 01 (Uma)                  21/23               870200096507/SP         03/08/2020
+folha.
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                  Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                        X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                          X
+O pedido está de acordo com disposto no art. 32 da LPI                           X
+Comentários/Justificativas
+
+
+
+              Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                  Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI             X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI           X
+Comentários/Justificativas
+
+
+
+                                                                                                   2
+                                     BR112017011602-2
+
+        Em 15/11/2021, a Justiça Federal, da 13a. Vara Federal do Rio de Janeiro (TRF-RJ), no
+âmbito do Mandado de Segurança nº 5051373-49.2019.4.02.5101, sentenciou:
+        Do exposto, concedo parcialmente a segurança (CPC/2015, art. 269, I), para
+        determinar a nulidade parcial da Resolução n.º 241 de 2019, apenas no que se refere
+        à impossibilidade de realização de buscas complementares, sendo assegurado aos
+        representados pelas associações impetrantes que, em cada caso concreto, possam
+        fazer tais buscas, quando o entenderem adequado e pertinente.
+        Em 14/12/2021, o INPI publicou a PORTARIA/INPI/PRNº052, que em seu Art. 6º. revoga a
+Resolução INPI/PR Nº 241, de 03/07/2019. No seu Art. 5º, estabelece:
+        Por ocasião do prosseguimento do exame do pedido, poderá ser realizada a
+complementação da busca a que se refere o art. 3º desta Portaria.
+        Face à decisão judicial supracitada e à publicação da Portaria 52/2021, em pesquisas
+realizadas em bases de dados de documentos de (e pedidos de) patentes e em literatura não
+patentaria, foi encontrado o seguinte documento capaz de indicar arranjos técnicos funcionais
+semelhantes aos pleiteados no QR do presente pedido:
+                        Quadro 4  Documentos citados no parecer
+
+ Código                              Documento                           Data de publicação
+(Relevân
+  cia)
+   D1         WO2014045078 (A1) (EUROP AGENCE SPATIALE[FR])                  27/03/2014
+Comentários/Justificativas
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15, da LPI)
+     Requisito de Patenteabilidade          Cumprimento              Reivindicações
+                                                 Sim                         
+           Aplicação Industrial
+                                                 Não                      01  13
+
+                                                 Sim                      01  13
+                Novidade
+                                                 Não                         
+
+                                                 Sim                         
+           Atividade Inventiva
+                                                 Não                      01  13
+
+Comentários/Justificativas
+
+
+
+        A análise do QR do presente pedido, apresentado em 03/08/2020, através da Petição
+870200096507/SP, e mais especificamente suas Reivindicação Independente do Presente
+Pedido (RI**pp), que é a RI01pp (Sistema Espacial (1) ), quando confrontadas com o
+documento D1, constatamos que tanto a parte não caracterizante do pedido sob exame, quanto
+a parte caracterizante, encontram-se contempladas naquele documento, como veremos a
+seguir, via Parecer Técnico de primeiro exame, publicado em 15/02/2022, através da RPI 2667,
+que tanto a parte não caracterizante do pedido sob exame, quanto a parte caracterizante,
+encontravam-se contempladas naquele documento, como vimos a seguir.
+
+
+
+                                                                                               3
+                                               BR112017011602-2
+
+
+
+
+        Através da Reivindicação Independente 01 (RI01pp), do presente pedido, a
+Requerente reivindica:
+
+        RI01pp (SISTEMA ESPACIAL (1), compreendendo uma estrutura (2) formada por
+componentes estruturais (3), um equipamento de bordo (5) transportado pela estrutura (2), e um
+dispositivo passivo concebido para facilitar a desintegração prematura do sistema espacial (1)
+durante a reentrada na atmosfera da Terra; o dispositivo passivo compreende membros de
+conexão (4) concebidos para conectarem de forma estável os componentes estruturais (3) uns
+aos outros; cada membro de conexão (4) compreende uma pluralidade de componentes de
+conexão (6, 7, 13, 14) concebidos para acoplarem-se uns aos outros, de modo a criarem uma
+conexão estável entre um par correspondente de componentes estruturais (3), durante as
+operações de lançamento e de colocação em órbita do sistema espacial (1)); e
+        caracterizado por:
+        ETAPA01: pelo menos um componente de desencadeamento (14) em um membro de
+conexão (4) ser feito de um material de desencadeamento, que é diferente do material dos
+outros componentes de conexão (6, 7, 13), tendo características de degradação em altitudes
+superiores àquelas nas quais as características dos materiais dos outros componentes de
+conexão (6, 7, 13) se degradam, de modo a soltar antecipadamente a conexão estável criada
+pelo membro de conexão (4) durante a reentrada do sistema espacial (1) na atmosfera da
+Terra, permitindo que os dois componentes da estrutura (3) se desacoplem um do outro,
+provocando assim o desencadeamento da desintegração prematura da estrutura (2) do sistema
+espacial (1).
+
+
+       No que se refere a sua manifestação, de 16/05/2022, através da Petição
+870220042333/RJ, a Requerente entende que o documento D1, não contempla o reivindicado no
+presente pedido, pois:
+         refere-se o presente invento a um sistema espacial formado por componentes estruturais compreendendo
+um dispositivo passivo concebido para facilitar a desintegração prematura do dito sistema espacial. O Dispositivo
+passivo compreende uma pluralidade de membros de conexão concebidos para conectarem de forma estável os
+componentes estruturais uns aos outros, cada membro de conexão compreende uma pluralidade de componentes
+estruturais. Particularmente, um componente de desencadeamento de uma pluralidade de componentes de conexão de
+um membro de conexão é feito de um material de desencadeamento, que é diferente do material dos outros
+componentes, tendo características de degradação em altitudes superiores àquelas nas quais as características dos
+materiais dos outros componentes se degradam, de modo a soltar antecipadamente a conexão estável criada pelos
+componentes (4) durante a reentrada do sistema espacial na atmosfera da Terra.
+        De conformidade com as buscas realizadas, o Examinador indicou um documento como anterioridade ao
+presente pedido, qual: D1 - WO 2014045078 A1 Frente ao antecedente citado o examinador declarou que as
+reivindicações 1 a 13 do presente pedido não cumprem com os requisitos de Atividade Inventiva. Mais especificamente,
+segundo o examinador o documento D1 revela um conector para fixar um alojamento a um sistema espacial e libera-lo
+durante a reentrada na atmosfera, em que subentendesse que para a realização deste processo de liberação de uma
+parte do aparelho em relação a outra, tais materiais sejam de composições (ligas) diferentes.
+        O examinador considerou que as reivindicações 1 a 13 não cumpre com os requisitos de Aplicação Industrial,
+argumentando que para o funcionamento do sistema se faz necessário um receptor de geolocalização, pois sem o
+
+
+
+
+                                                                                                                   4
+                                                BR112017011602-2
+
+mesmo não é possível estabelecer uma correlação entre a ruptura do material e o geoposicionamento do sistema
+espacial. A depositante respeitosamente discorda de tal associação pois, conforme descrito, o dispositivo para facilitar a
+desintegração prematura do sistema espacial é descrito como um sistema passivo, ou seja, um dispositivo que funciona
+independentemente de um sinal de ativação, deste modo não há qualquer necessidade do dispositivo de saber sua
+geolocalização para seu funcionamento, sua degradação irá ocorrer sempre durante a entrada do sistema espacial na
+atmosfera da Terra, pois durante a entrada na atmosfera o dispositivo sofre forças externas as quais resultam na sua
+degradação.
+         A depositante apresenta um novo quadro reivindicatório onde as emendas presentes visam apenas tornar o
+texto mais claro, sem que seja adicionado qualquer matéria, respeitando assim o Art. 32 da LPI.
+         O Examinador cita D1 para seus ensinamentos relativos a um sistema de reentrada em que um conector (12,
+120) conecta um alojamento a um sistema espacial. É importante ressaltar que o examinador destaca a afirmação de
+D1 de que "parafusos 120 derretem ou se tornam quebradiços a uma temperatura predeterminada atingida durante a
+reentrada" constitui "um dispositivo passivo (120) projetado para facilitar a desintegração ... do sistema espacial (100)
+durante a reentrada na atmosfera da Terra".
+         Importante, o Examinador aplicou os ensinamentos de D1 como se a invenção reivindicada pelo Requerente
+apenas exigisse que os parafusos fossem fabricados de um material diferente em comparação com a estrutura
+circundante, por exemplo, o alojamento ou o sistema espacial. No entanto, ao contrário de tal interpretação, a
+reivindicação independente alterada do Requerente 1 afirma que "cada elemento de conexão (4) inclui pelo menos um
+componente de desencadeamento (14) que é feito de um material de desencadeamento diferente daquele do outro
+componente de conexão componentes (6, 7, 13) e que degrada em altitudes de reentrada maiores do que aquelas em
+que os outros componentes de conexão (6, 7, 13) degradam." Assim, o que é significativo de acordo com a invenção
+reivindicada pelo Requerente é que um componente específico - o "componente de desencadeamento" - que faz parte
+de cada elemento de conexão inclui um componente de desencadeamento que é fabricado a partir de um material
+diferente em relação aos outros componentes de conexão e, com base no diferencial do material, degrada a uma
+altitude de reentrada maior. Os materiais das "estruturas circundantes" é irrelevante para a invenção reivindicada pelo
+Requerente e demonstra uma deficiência fundamental nos ensinamentos de D1.
+          D1 não apenas não revela que haveria um benefício em incluir um componente de desencadeamento como
+parte de cada componente de conexão, mas, mais importante, D1 não ensina nem sugere um sistema em que os
+componentes de conexão são projetados de tal modo que o material de desencadeamento do componente de
+desencadeamento degrada em altitudes de reentrada que são maiores do que aquelas em que os outros componentes
+de conexão degradam. Não é apenas que os materiais são diferentes, é que o sistema do Requerente é projetado para
+incorporar um componente em cada membro de conexão (ou seja, o componente de desencadeamento) que degrada
+preferencialmente em altitudes de reentrada maiores, de modo a soltar a conexão estável criada por o elemento de
+ligação durante a reentrada do sistema espacial (1) na atmosfera da Terra, permite que os dois componentes da
+estrutura (3) se desconectem um do outro e desencadeie a desintegração da estrutura (2) do sistema espacial (1).
+         A invenção reivindicada pelo requerente oferece benefícios substanciais na prática. Por exemplo, o
+fornecimento reivindicado de um componente de conexão feito de um material de desencadeamento diferente do dos
+outros componentes de conexão e que degrada em altitudes de reentrada maiores do que aquelas em que os outros
+componentes de conexão degradam, permite um dispositivo passivo leve que facilita a desintegração do sistema
+espacial durante a reentrada na atmosfera da Terra para ser fabricado de forma fácil e barata. A redução de peso e
+complexidade técnica em comparação com aqueles do sistema de reentrada ativo na atmosfera muito mais pesado e
+tecnicamente mais complexo (por exemplo, foguetes, sistemas de orientação, estações de reentrada, pessoal, etc.),
+onde a operação adequada após, por exemplo, um ciclo de vida de 10 anos deve ser garantido, são tão notáveis que a
+extensão da economia de custos relacionada ao lançamento e à reentrada é estimada em dezenas de milhões de
+euros.
+         Pelo menos pelas razões anteriores, o Requerente respeitosamente entende que a reivindicação independente
+1, distingue-se patentemente de D1. As reivindicações dependentes 2-3, 8 e 13 também distinguem patentemente de
+D1 pelo menos pelas razões observadas em relação à reivindicação independente 1 (da qual dependem). A
+reconsideração e a retirada da rejeição da atividade inventiva são seriamente solicitadas.. 
+
+
+
+                                                                                                                         5
+                                      BR112017011602-2
+
+
+
+
+       Ainda na sua manifestação, de 16/05/2022, através da Petição 870220042333/RJ, a
+Requerente REapresenta o QR, de 03/08/2020, através da Petição 870200096507/SP, com a
+mesma RI01pp (Sistema Espacial (1) ), e com a mesma ETAPA01, entretanto,
+acrescentando à ETAPA01, a informação grifada, a seguir, e aqui chamada de ETAPA01_New:
+       RI01pp_New. SISTEMA ESPACIAL (1), compreendendo uma estrutura (2) formada por
+componentes estruturais (3), um equipamento de bordo (5) transportado pela estrutura (2), e um
+dispositivo passivo concebido para facilitar a desintegração prematura do sistema espacial (1)
+durante a reentrada na atmosfera da Terra; o dispositivo passivo compreende uma pluralidade
+de membros de conexão (4) concebidos para conectarem de forma estável os componentes
+estruturais (3) uns aos outros; cada membro de conexão (4) compreende uma pluralidade de
+componentes de conexão (6, 7, 13, 14) concebidos para acoplarem-se uns aos outros, de modo
+a criarem uma conexão estável entre um par correspondente de componentes estruturais (3),
+durante as operações de lançamento e de colocação em órbita do sistema espacial (1);
+       caracterizado por
+       ETAPA01_New: pelo menos um componente de desencadeamento (14) de uma
+pluralidade de componentes de conexão (6, 7, 13, 14) de um membro de conexão (4) de uma
+pluralidade de membros de conexão (4) ser feito de um material de desencadeamento, que
+é diferente do material dos outros componentes de conexão (6, 7, 13) do membro de
+conexão (4) da pluralidade de membros de conexão (4), tendo características de degradação
+em altitudes superiores, ou seja a temperaturas inferiores, àquelas nas quais as
+características dos materiais dos outros componentes de conexão (6, 7, 13) se degradam, de
+modo a soltar antecipadamente a conexão estável criada pelo membro de conexão (4)
+durante a reentrada do sistema espacial (1) na atmosfera da Terra, permitindo que os dois
+componentes da estrutura (3) se desacoplem             um do outro, provocando assim o
+desencadeamento da desintegração prematura da estrutura (2) do sistema espacial (1).
+
+
+       Em resumo, a Requerente substitui a expressão pelo menos um componente de
+desencadeamento (14), na ETAPA01, da RI01pp, pela expressão pelo menos um
+componente de desencadeamento (14) de uma pluralidade de componentes de
+conexão, na ETAPA01_New, da RI01pp_New. E, em adição, introduzir uma expressão
+explicativa , ...ou seja a temperaturas inferiores,, infringindo, portanto, o Inciso VIII, do
+Art. 4o, da IN 30/2013, que estabelece: ...não serão aceitas em reivindicações trechos
+explicativos com relação às vantagens e ao simples uso do objeto..... A título de
+exemplificação, e em divulgações de informações acessíveis ao público via rede pública de
+internet, a temperatura externa na estação espacial internacional, que se encontra a
+aproximadamente 408 Km de distância do planeta Terra, é de +121 oC (positivos). Já o satélite
+lunar, que se encontra a 384.400 km de distância do planeta Terra, possui variações de
+temperatura entre -184oC (negativos) e +214oC (positivos). Portanto, é óbvio para um técnico no
+assunto que a temperatura externa de um objeto no espaço depende da situação se está ou não
+
+
+
+                                                                                                    6
+                                     BR112017011602-2
+
+
+exposto à incidência direta da luz solar. Significando dizer que não necessariamente a
+temperatura externa é negativa, dependendo da situação, e depende diretamente da distância
+do planeta Terra, medida com a ajuda de geoposicionadores, bem como da exposição ou não à
+luz solar, e da distância deste ao Sol, medida, novamente, com a ajuda de geoposicionadores.
+Este etapa de geoposicionamento, não é sequer tangido pela nova RI01pp_New, infringindo,
+portanto, o Art. 15, da LPI, conforme sinalizado no Quadro 5, tanto neste quanto no primeiro
+parecer técnico, dado que a desintegração do dispositivo, pode ocorrer a qualquer tempo,
+contrariamente ao argumentado pela Requerente que atesta: deste modo não há qualquer
+necessidade do dispositivo de saber sua geolocalização para seu funcionamento, sua
+degradação irá ocorrer sempre durante a entrada.
+       Em relação à substituição efetuada pela Requerente DE pelo menos um
+componente de desencadeamento (14), na ETAPA01, da RI01pp, PARA pelo menos
+um componente de desencadeamento (14) de uma pluralidade de componentes de
+conexão, na ETAPA01_New, da RI01pp_New, temos a dizer que no estudo semântico,
+existe a categoria de sinonímia, que ocorre quando duas palavras com significados diferentes
+são colocadas em um contexto em que passam a ser sinônimas. Assim, isto quer dizer que
+muito embora não sejam palavras sinônimas, dentro daquela determinada oração assumem
+significados iguais. Desta forma, pelo menos um E uma pluralidade, possuem idêntico
+significado.
+       Assim, entendemos que a ETAPA01_New = ETAPA01, e por conseguinte, RI01pp_New
+= RI01pp.
+
+
+        Face ao disposto acima, e às argumentações da Requerente de 16/05/2022, através da
+Petição 870220042333/RJ, voltamos a sustentar QUE o documento de anterioridade (D1)
+(WO2014045078 (A1) (EUROP AGENCE SPATIALE[FR]) ), ensina tanto através da sua
+Reivindicação Independente (RI) 01 (aparelho de alerta de reentrada), juntamente com sua
+Reivindicação Dependente (RDp) 06, aqui chamadas de RI01_D1 e RDp06_D1, quanto
+através do seu relatório descritivo, e mais especificamente os Parágrafos [0011], [0020] e
+[0040], e figura Fig. 01, de D1, incluindo na sua RI01_D1, um aparelho de alerta de radiodifusão
+de reentrada (1), possuindo um escudo térmico (11), e um conector (12, 120) para fixar o
+referido alojamento a um sistema espacial (100) e liberá-lo durante a reentrada atmosférica.
+Para realização deste processo de liberação de uma parte do aparelho em relação a outra,
+entende-se que tais materiais sejam de composições (ligas) diferentes. Em adição, há
+necessidade de um receptor de geolocalização (15), localizado dentro do referido alojamento,
+para determinar a posição do aparelho, sem a qual não é industrialmente realizável (Art. 15, da
+LPI), o processo de fragmentação ou ruptura dos materiais. Isto porque, na RI01pp, não é
+estabelecida uma correlação entre ruptura do material e geoposicionamento do sistema espacial,
+visto que em nenhum momento é citado o mapeamento da trajetória do sistema espacial. Em
+oposição, a anterioridade D1, possui ainda em sua RI01_D1, um processador (16) programado
+para determinar a localização de uma área de risco no espaço aéreo, tomando a referida posição
+do aparelho como dados de entrada. Na RDp06_D1, o conector (12, 120) é configurado para
+liberar o alojamento durante a ruptura do sistema espacial, contemplando a ETAPA01_New, da
+RI01_New.
+
+
+
+
+                                                                                               7
+                                      BR112017011602-2
+
+       Tal reafirmação se sustenta dado que o documento de anterioridade D1, à Na Fig. 01, de
+D1, descrita nos Parágrafos [0011], [0020] e [0040], temos que a caixa do aparelho de alerta é
+fixada ao sistema espacial por um conector 12, projetado para quebrar durante a ruptura do
+sistema para liberar o aparelho. Desta forma, o conector pode compreender parafusos 120
+que derretem ou tornam-se quebradiços a uma temperatura predeterminada alcançada durante a
+reentrada, comprovando que é feito de um material diferente do restante do dispositivo de alerta,
+contemplando a ETAPA01_New, da RI01_New.
+
+
+       Desta forma, a matéria reivindicada através da reivindicação independente RI01pp_New,
+do presente pedido, encontra-se totalmente absorvida por D1.
+
+
+
+       Quanto às demais reivindicações, as mesmas também não são válidas por serem
+dependentes das reivindicações independentes contestadas acima
+
+
+
+Conclusão
+       Sendo assim, face ao exposto, considerando o QR da forma apresentada, somos de
+opinião que o presente pedido carece de atividade inventiva por ser mera decorrência do estado
+da técnica, representado por D1, não possuindo, pois, condições de patenteabilidade.
+
+
+       Ressaltamos que, quando da reapresentação do QR, a Requerente infringe o estabelecido
+pelo Inciso VIII, do Art. 4o., da IN 30/2013, e o Art. 15, da LPI, à sua RI01_New.
+
+
+       Face às conclusões a que se chegou o Exame Técnico, de acordo com o Art. 37, baseado
+no Art. 8º, combinado com o Art. 13, da LPI, INDEFIRO o presente pedido como PATENTE DE
+INVENÇÃO.
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2)
+
+
+                                                            Rio de Janeiro, 19 de Maio de 2022.
+
+
+                                   Edson Ferreira Suisso
+                    Pesquisador em Propriedade Industrial / Mat. Nº 1548985
+                          Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+                           DIRPA / CGPAT III / DIPAT XV (DIPEQ)
+
+
+
+
+                                                                                                8
+

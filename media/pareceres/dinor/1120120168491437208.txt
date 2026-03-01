@@ -1,0 +1,181 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112012016849-5         N.° de Depósito PCT:US2011/030343
+ Data de Depósito:                   29/03/2011
+ Prioridade Unionista:               US 61/318,482 (29/03/2010); US 13/071,941 (25/03/2011)
+ Depositante:                        Rockbestos Surprenant Cable Corp. (US)
+ Inventor:                           Scott Magner
+ Título:                             Cabos down-hole e respectivo de fabrico
+
+                                                                PARECER
+
+
+          Em resposta ao parecer de Ciência, publicado na RPI nº 2613, de 02/02/2021, foi
+apresentada a petição nº 870210039108, de 29/04/2021, com manifestação acerca do parecer
+emitido, assim como, novas vias das páginas do relatório descritivo, do resumo e do quadro
+reivindicatório, com 13 reivindicações.
+
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-12               870210039108           29/04/2021
+Quadro Reivindicatório                                     1-3               870210039108           29/04/2021
+Desenhos                                                   1-4               020120062927           09/07/2021
+Resumo                                                      1                870210039108           29/04/2021
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                       X
+O pedido está de acordo com disposto no art. 32 da LPI                                        X
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR112012016849-5
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                            Sim                    Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI       X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                           X
+Comentários/Justificativas
+
+
+      O quadro reivindicatório não se encontra de acordo com as disposições do Art. 4º(III) da IN
+30/2013 e do Art. 25 da LPI, pois as reivindicações 3 e 4 não parecem definir etapas de Método.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                              Data de publicação
+    D1                                 US2005067159                                  31/03/2005
+    D2                                   US4764538                                   16/08/1988
+   D3*                                   US3072583                                   08/01/1963
+*O documento D3 é um documento citado em D2, portanto, não é resultado de uma nova busca.
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento            Reivindicações
+                                                         Sim                      1-13
+            Aplicação Industrial
+                                                        Não                 ------------------
+                                                         Sim                      1-13
+                 Novidade
+                                                        Não                 ------------------
+
+                                                         Sim                ------------------
+            Atividade Inventiva
+                                                        Não                       1-13
+
+
+
+Comentários/Justificativas
+
+
+
+         A reivindicação 1 do presente pedido pleiteia: Método de fazer cabo down-hole,
+caracterizado por que o método compreende as etapas de: espumar uma camada de
+enchimento em torno de uma parte de condutor isolado, sendo a camada de enchimento
+contígua e encapsulando a parte de condutor isolado, em que a camada de enchimento é um
+fluorpolímero; e aplicar um revestimento de armadura ao exterior da camada de enchimento
+para formar o cabo down-hole, em que a etapa de formação de espuma na camada de
+
+                                                                                                 Página 2
+                                        BR112012016849-5
+
+enchimento em torno da parte de condutor isolado compreende ainda a criação de uma
+estrutura celular espumada por injeção de gás.
+
+
+
+       Conforme já comentado no parecer anterior, o documento D1 descreve um cabo
+down-hole que compreende um centro condutor (22), o qual pode ser oco, sólido ou múltiplo
+(par. [0017, [0034]) podendo ser isolado por revestimento com um polímero não condutor (par.
+[0039]). Tal centro condutor é envolto por um material dielétrico (21), o qual pode ser um
+fluorpolímero espumado (par. [0034]). O cabo descrito em D1 compreende ainda uma armadura
+externa (20), feita de um material condutor (par. [0035]).
+
+       O documento D1 não menciona a forma de produção do fluorpolímero espumado. Mas,
+no documento D2 é dito que isolamento de fios condutores com fluorpolímeros espumados é
+geralmente feito por um processo de injeção contínua de gases como clorodifluorometano,
+nitrogênio, dióxido de carbono ou outros gases apropriados (col. 3, l 6-9). Também no
+documento D3 é mencionado método no qual polímeros de perfluorocarbono são formados pela
+dissolução de um gás, como nitrogênio ou dióxido de carbono na resina fundida, à medida que a
+mesma passa por um extrusor (col. 1, l 20-25).
+
+       Em sua manifestação a requerente alega, com relação a D1: Diferentemente de D1, a
+presente invenção refere-se a um método de fazer cabo down-hole, o que por si só já é
+completamente díspar do objeto de D1.; e com relação a D2: Mesmo com tal definição , D2
+não evidencia características técnicas providas de novidade e inventividade para superar as
+características pleiteadas nas reivindicações conforme alteradas.
+
+       Contudo, não é esclarecido na manifestação qual é exatamente a parte do método com
+características providas de atividade inventiva frente aos documentos citados do estado da
+técnica.
+
+       Assim, considera-se que as argumentações apresentadas pela requerente não foram
+satisfatórias, mantendo-se a opinião de que a reivindicação 1 e suas dependentes não definem
+matéria com atividade inventiva se considerada a combinação dos conhecimentos revelados nos
+documentos D1 e D2.
+
+       Portanto, o pedido não atende ao requisito de atividade inventiva, estando em desacordo
+com o disposto no Art. 8º em combinação com o Art. 13 da LPI.
+
+
+
+
+                                                                                       Página 3
+                                       BR112012016849-5
+
+Conclusão
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+      -   as reivindicações apresentam falta de clareza (Art. 25 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                              Rio de Janeiro, 23 de junho de 2021.
+
+
+
+
+Elisete Aparecida Batista
+Pesquisador/ Mat. Nº 2317247
+DIRPA / CGPAT I/DINOR
+Deleg. Comp. - Port. INPI/DIRPA Nº
+003/18
+
+
+
+
+                                                                                          Página 4
+

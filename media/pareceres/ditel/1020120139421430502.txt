@@ -1,0 +1,248 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102012013942-1             N.° de Depósito PCT:-
+ Data de Depósito:                   11/06/2012
+ Prioridade Unionista:               -
+ Depositante:                        UNIVERSIDADE ESTADUAL DE CAMPINAS - UNICAMP (BRSP) ,
+                                     REDE NACIONAL DE ENSINO E PESQUISA - RNP (BRRJ)
+ Inventor:                           YUZO IANO, RANGEL ARTHUR, DIOGO GARA CAETANO, VICENTE
+                                     IDALBERTO BECERRA SABIÓN
+ Título:                             Método e ferramenta para coleta de sinais, estatística de acesso,
+                                     auxílio à predição de cobertura de sinal digital terrestre e diagnóstico
+                                     para instalações de tv digital 
+
+                                                                PARECER
+         Em 17 de novembro de 2020 foi publicada através da RPI nº 2602, notificação de Ciência
+de Parecer, conforme parecer de exame técnico do presente pedido datado de 09 de novembro
+de 2020. Tal parecer concluiu que o pedido infringia o disposto nos Artigos 24, 25 e 8º combinado
+com o Artigo 13 da Lei 9.279/96 (LPI).
+
+         A requerente, através da petição nº 870210015289, de 15 de fevereiro de 2021, e portanto
+tempestivamente, apresentou manifestação a respeito do parecer técnico propondo alterações no
+relatório descritivo, quadro reivindicatório, contendo 3 reivindicações e desenhos.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1  17               870210015289           15/02/2021
+Quadro Reivindicatório                                   12                 870210015289           15/02/2021
+Desenhos                                                 16                 870210015289           15/02/2021
+Resumo                                                      1                018120020653           11/06/2012
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR102012013942-1
+
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                      x
+Comentários/Justificativas
+
+      A reivindicação 1, a qual foi emendada combinando as características técnicas das
+reivindicações 1, 2, 3 e 4 do quadro reivindicatório anterior (pet. 018120020653) possui em suas
+características técnicas a coleta de dados de uma ferramenta, sem que seja especificado
+claramente nas citadas reivindicações a qual ferramenta está se referindo. Com isso, assim
+como apontado no parecer anterior, o escopo de proteção da citada reivindicação não está claro
+e preciso, contrariando o disposto nos Art. 25 da LPI e na Instrução Normativa nº 30/2013  Art.
+4º (III). Para fins de avaliação da atividade inventiva, considerou-se o termo ferramenta na
+citada reivindicação como sinônimo de set-top-box (STB).
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1      US2005183130 A1                                                        18/08/2005
+    D2      US7810127 B2                                                           05/10/2010
+    D3      US2010287579 A1                                                          11/11/2010
+    D4      US2010287579 A1                                                        26/08/2010
+    D5      US2010333157 A1                                                        30/12/2010
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                    13
+           Aplicação Industrial
+                                                        Não                      
+
+                                                         Sim                    13
+                 Novidade
+                                                        Não                      
+
+                                                         Sim                     
+           Atividade Inventiva
+                                                        Não                     13
+Comentários/Justificativas
+
+      Em sua manifestação a requerente apresentou os seguintes argumentos quanto aos
+documentos citados:
+
+      Argumentação da requerente: A requerente argumenta que D1 aborda uma
+metodologia de diagnóstico e monitoramento de redes de TV a cabo e não faz menção a
+
+
+
+                                                                                           Página 2
+                                        BR102012013942-1
+
+
+nenhuma especificidade de TV Digital aberta. No presente pedido de patente efetivamente
+aborda-se uma metodologia aplicável à TV Digital aberta e as condicionantes de adaptação do
+documento D1 para essa aplicação não são triviais, devendo todo o sistema proposto ser
+redefinido. É evidente que a D1 não permite uma aplicação de monitoramento de rede
+Broadcasting e nem remete à calibração de redes de frequência única em processos de
+refinamento de cobertura e em processos de expansão de cobertura.
+
+      Análise da argumentação: De fato, o documento D1 refere-se ao monitoramento de um
+conjunto de STBs em uma rede de distribuição de TV a Cabo. Porém, ao contrário do apontado
+pela requerente, a solução técnica apresentada no presente pedido, apesar de direcionada para
+um receptor de TV Digital, não possui aplicação específica na TV Digital aberta, sendo inclusive
+apontado na página 8, linhas 24-26 do relatório descritivo que O dispositivo de decodificação
+pode funcionar para diversos tipos de aplicação, além da recepção de sinal de TV Digital aberta,
+decodificador de TV a cabo ou via satélite.
+
+      Não há nas reivindicações quaisquer características técnicas referentes à calibração de
+redes de frequência única em processos de refinamento de cobertura e em processos de
+expansão de cobertura. A função de coleta de dados nada mais é que a leitura de parâmetros
+do receptor (dados) em formato texto, característica essa revelada pelo documento D1.
+
+      Argumentação da requerente: De acordo com a requerente, em relação a D2 A
+comparação de ferramentas que monitoram fluxo de vídeo sob demanda em rede cabeada ao
+que monitora TV Digital aberta precisa ser analisada de forma muito criteriosa, pois as
+diferenças entre as camadas de comunicação são significativas.
+
+      Análise da argumentação: O documento D2 foi apontado como relevante para a avaliação
+da atividade inventiva das reivindicações independentes 2 e 3, as quais referem-se,
+respectivamente a uma ferramenta constituída de um tuner, um chipset e conectores para
+interfaceamento com dispositivos externos, e um sistema de monitoramento de audiência. Não há
+nas citadas reivindicações quaisquer características técnicas que condicionem a aplicação dos
+objetos de proteção à TV Digital terrestre. Não há também no presente pedido quaisquer menções
+às camadas de comunicação citadas pela requerente nos seus argumentos.
+
+      Argumentação da requerente: Em relação a D3 a requerente argumenta que No
+parágrafo [17] de D3, conforme enfatizado pelo Ilmo. Examinador, é explicado que parâmetros
+de transmissão como a SNR e perda de pacotes é utilizada no processo, mas não é detalhado
+como esse parâmetro é extraído, de qual camada é extraído.
+
+      Análise da argumentação: O presente pedido também não especifica nem detalha a
+forma de extração dos parâmetros pelo set-top-box. Somente é exposto que os parâmetros
+disponíveis pelo set-top-box são lidos pela aplicação em formato texto para atualização dos dados
+armazenados.
+
+      Argumentação da requerente: A requerente argumenta que o documento D4 trata de
+um método de se transmitir metadados de um cliente para o servidor de um serviço de
+
+
+
+                                                                                        Página 3
+                                        BR102012013942-1
+
+
+TV-Anytime usando o protocolo SOAP. O presente pedido de patente se diferencia totalmente
+de D4, pois se refere a um sistema para amplo monitoramento de sistema de transmissão e
+recepção de TV Digital aberta (do tipo Broadcasting). O sistema possibilita a coleta de dados de
+sinais e detecção de erros no processo de decodificação em tempo real em receptores de TV
+Digital, informando à estação transmissora o impacto instantâneo de modificações em
+parâmetros de transmissão. Assim, o documento D4 trata de uma proposta específica de um
+padrão não-oficial. Diferente do presente pedido de patente, que foi e continua sendo importante
+para a disseminação, implantação e monitoramento da TV Digital no Brasil, seguindo os padrões
+e protocolos oficiais da norma de TV aberta brasileira.
+
+       Análise da argumentação: De fato, D4 refere-se a um método de se transmitir metadados
+de um cliente para o servidor de um serviço de TV-Anytime usando o protocolo SOAP. Dessa
+forma, conforme apresentado no parecer anterior, o documento D4 é relevante frente ao presente
+pedido pois apresenta um protocolo de transmissão de metadados do STB para o servidor através
+de um canal de retorno. É óbvio para um técnico no assunto usar os conhecimentos apresentados
+em D4 para realizar a comunicação entre o STB e o Headend. Ao contrário do argumentado pela
+requerente, o presente pedido não apresenta quaisquer menções explícitas a aplicação,
+protocolos ou padrão de TV Digital no Brasil.
+
+       Argumentação da requerente: Em relação a D5 a requerente aponta que este envolve
+método, sistema e programa de computador para auxílio no suporte de IPTV (Televisão por
+Protocolo de Internet). O método se baseia em testes de comunicação entre o usuário e o
+servidor. O Ilmo. Examinador declara como óbvio adaptar D5 para um sistema Broadcasting.
+Porém, como especialistas na área, consideramos que o documento é insuficiente para se
+trabalhar com os protocolos definidos pelo padrão do SBTVD.
+
+       Análise da argumentação: Ao contrário do argumentado pela requerente, não há qualquer
+menção no presente pedido aos protocolos definidos pelo padrão do SBTVD. Conforme já
+mencionado anteriormente, o presente pedido, apesar de apresentar-se como uma solução para
+TV Digital aberta, não há nas características técnicas apresentadas quaisquer especificidades que
+diferencie a solução técnica apresentada para aplicação em TV Digital aberta ou broadcast, sendo
+inclusive apontado na página 8, linhas 24-26 do relatório descritivo que O dispositivo de
+decodificação pode funcionar para diversos tipos de aplicação, além da recepção de sinal de TV
+Digital aberta, decodificador de TV a cabo ou via satélite.
+
+       Portanto, apesar dos argumentos apresentados, mantém-se a opinião que os documentos
+D1 a D5 são relevantes na avaliação da atividade inventiva do presente pedido.
+
+       A reivindicação 1 foi emendada combinando as características técnicas das reivindicações
+1, 2, 3 e 4 do quadro reivindicatório anterior (pet. 018120020653), a reivindicação 2 foi emendada
+combinando as características técnicas das reivindicações 6 e 7 do quadro reivindicatório anterior
+e a reivindicação 3 equivale às características técnicas da reivindicação 8 do quadro
+reivindicatório anterior. Portanto, mantém-se a opinião do não cumprimento do requisito de
+atividade inventiva baseado nos argumentos apresentados no parecer anterior.
+
+
+
+                                                                                         Página 4
+                                        BR102012013942-1
+
+
+      A matéria pleiteada nas reivindicações 1 a 3 carece de atividade inventiva, pois decorre
+de maneira óbvia para um técnico no assunto a partir da combinação dos ensinamentos
+contidos nas anterioridades D1 a D5 e não é patenteável por infringir o disposto no artigo 8º,
+combinado com o artigo 13 da Lei nº 9.279/96 (LPI).
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 07 de junho de 2021.
+
+
+
+
+Marcelo de Azevedo Miguel
+Pesquisador/ Mat. Nº 2041813
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+007/16
+
+
+
+
+                                                                                         Página 5
+

@@ -1,0 +1,234 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102013025651-0         N.° de Depósito PCT:
+ Data de Depósito:                   04/10/2013
+ Prioridade Unionista:               -
+ Depositante:                        UNIVERSIDADE DE SÃO PAULO - USP (BRSP) , UNIVERSIDADE
+                                     FEDERAL DO RIO GRANDE DO NORTE - UFRN (BRRN)
+ Inventor:                           OSWALDO BAFFA FILHO, DRAULIO BARROS DE ARAÚJO, ANDRÉ
+                                     SALLES CUNHA PERES, EDUARDO DE MATOS RODRIGUES,
+                                     PAULO HENRIQUE JUNQUEIRA AMORIM, TATIANA AL-CHUEYR
+                                     PEREIRA MARTINS, JORGE VICENTE LOPES DA SILVA, THIAGO
+                                     FRANCO DE MORAES, VICTOR HUGO DE OLIVEIRA E SOUZA
+ Título:                             Sistema para navegação virtual e co-registro de corpos rígidos e seus
+                                     modelos virtuais e método para a determinação das coordenadas
+                                     comuns aos componentes do sistema 
+
+                                                                PARECER
+          Em resposta ao parecer técnico publicado na RPI nº 2655 de 23/11/2021, manifestou-se,
+tempestivamente, a requerente em petição nº 870220015351 de 21/02/2022. Em sua
+manifestação, a requerente apresenta um novo quadro reivindicatório composto de 10
+reivindicações, assim como contra-argumentos relativos ao parecer denegatório de privilégio.
+Para fins de continuidade do exame estão sendo consideradas as seguintes vias abaixo:
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                    1  11               870210088219     24/09/2021
+Quadro Reivindicatório                                   13                 870220015351     21/02/2022
+Desenhos                                                 14                 870210088219     24/09/2021
+Resumo                                                      1                870210088219     24/09/2021
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                          Página 1
+                                           BR102013025651-0
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                           Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                       x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   x
+O pedido está de acordo com disposto no art. 32 da LPI                    x
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                   US 8503745                                06/08/2013
+    D2                                   US 8046052                                25/10/2011
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                   1  10
+            Aplicação Industrial
+                                                         Não                     ---
+                                                         Sim                   1  10
+                 Novidade
+                                                         Não                     ---
+                                                         Sim                     ---
+            Atividade Inventiva
+                                                         Não                   1  10
+
+
+
+Comentários/Justificativas
+
+         Em resposta ao parecer técnico publicado na RPI nº 2655 de 23/11/2021, manifestou-se,
+tempestivamente, a requerente em petição nº 870220015351 de 21/02/2022. Em sua
+manifestação, a requerente apresenta um novo quadro reivindicatório composto de 10
+reivindicações, assim como contra-argumentos relativos ao parecer denegatório de privilégio.
+
+
+
+                                                                                          Página 2
+                                              BR102013025651-0
+
+
+       Em sua manifestação o depositante apenas afirma que os documentos D1 e D2 são
+sistemas acoplados a um único rastreador espacial específico, o que em seu pedido de
+invenção não há limitação de um rastreador espacial específico, possibilitando um ou mais
+aparelhos de rastreamento espacial ao mesmo tempo ou independentemente. O depositante
+afirma que o sistema e método             utiliza software aberto, o que permite modificações para
+adaptá-lo à realidade do ambiente em que será utilizado, que pode ser associado a
+diferentes equipamentos.
+
+       Analisando o novo quadro reivindicatório observa-se que o depositante modificou sua
+reiv.1 de modo a especificar o sistema para navegação virtual e corregistro corpos rígidos e
+seus   modelos     virtuais      que   apresenta    um de programa de navegação virtual pleiteado,
+apresentando as seguintes características:
+
+      um    aparelho       de    rastreamento     espacial   que   independe   do princípio     físico   de
+       funcionamento e é composto por uma unidade processadora (1);
+
+      elementos para o cálculo da origem do sistema de coordenadas (2) fixado a um
+       suporte (10);
+
+      sensores (4) acoplados a um instrumento de aplicação (3) e;
+
+      sensores auxiliares (12) e;
+
+         um    aparelho         computador    que consiste em um tablet, computador convencional,
+       smartphone ou similar, no qual o programa é instalado.
+
+       No caso da nova reiv.7 o depositante modificou o texto para que o método pleiteado seja
+definido conforme o sistema pleiteado na reiv.1.
+
+        Analisando a argumentação da requerente com relação ao novo quadro reivindicatório e a
+matéria revelada nos documentos citados, observa-se que as características introduzidas no texto
+da nova reiv.1 já se encontram ensinadas nos documentos D1 e D2, conforme também apontado
+no parecer técnico anterior:
+
+      um aparelho de rastreamento espacial [D1: col.1 linhas 45  60, col.2 linhas 60  68, col.3
+       linhas 55  60; D2: col. 3 linhas 48  65, reiv.1] que       independe do princípio físico de
+       funcionamento e é composto por uma unidade processadora (1) [D1: col.6 linhas 9  12 ;
+       D2: col.4 linhas 25  40, reiv.1 ];
+
+      elementos para o cálculo da origem do sistema de coordenadas (2) fixado a um
+       suporte (10) [D1: col.6 linhas 9  12, col.7 linhas 19  27, col.11 linhas 23  36 ; D2: col.4 linhas
+       25  40, reiv.1 ];
+
+      sensores (4) acoplados a um instrumento de aplicação (3) e sensores auxiliares (12) e
+       [D1: ref152 ; D2:col.4 , col.8 linhas 1 - 15];
+
+        um aparelho computador [D1: col.5 linhas 24 ; D2: ref.34] que consiste em um tablet,
+       computador convencional, smartphone ou similar, no qual o programa é instalado.
+
+
+
+
+                                                                                                  Página 3
+                                         BR102013025651-0
+
+
+       Portanto, estas características já se encontram ensinadas em D1 e também D2. Deve-se
+apontar que o documento D1 ensina um sistema de rastreamento aplicado em imagens de
+raios-X. Já o documento D2 ensina um sistema de rastreamento em imagens de instrumentos
+cirúrgicos, mais especificamente, um cateter de navegação. No entanto, apesar de D1 e D2
+especificarem o sistema de rastreamento, um técnico no assunto pode sim ser motivado a
+modificar os sistemas tanto de D1 quanto de D2 a fim de chegar à matéria reivindicada na
+nova reiv.1. Aponta-se também que na argumentação da requerente, sua diferenciação do estado
+da técnica consiste em utilizar um programa ou software de navegação aberto que possibilita a
+adaptação para qualquer sistema de rastreamento. Entretanto, tal argumentação não se considera
+válida pois programa ou software não podem ser patenteáveis, conforme Art.10 da LPI, de modo
+que o depositante não pode adicionar o dito programa no quadro reivindicatório para se diferenciar
+do estado da técnica. Assim sendo, conforme o revelado no estado da técnica citado a nova
+reivindicação independente 1 decorre de modo óbvio do estado da técnica, não apresentando
+atividade inventiva.
+
+
+
+       Com relação à nova reiv.9 observa-se que as etapas pleiteadas já se encontram ensinadas
+nos documentos do estado da técnica, conforme já apontado no parecer técnico anterior, visto que
+D1 e D2 revelam um método que ensina aquisição de imagens, calibração e navegação do
+sistema [D1: col.11 linhas 23  36, reiv.1, 7 e 9 ; D2: reiv.16  22]. Assim sendo, a nova reivindicação
+independente 9 também decorre de modo óbvio do estado da técnica, não apresentando atividade
+inventiva.
+
+           Nas demais reivindicações dependentes não foram identificadas características que,
+mesmo quando combinadas com as características de qualquer reivindicação independente a
+que se referem, venham prover atividade inventiva à matéria.
+
+
+
+       As reivindicações apresentadas não contemplam efeitos técnicos que não tenham sido
+previstos pelo estado da técnica, pleiteando características consideradas óbvias para um técnico
+no assunto, o que configura uma situação onde não se vislumbram indícios de atividade
+inventiva. A exemplo do apontado em parecer anterior, mantém-se a opinião de que o sistema e
+método proposto não dispõe de predicados de patenteabilidade.
+
+
+
+Conclusão
+
+       Portanto, analisando a contestação da requerente e face ao exposto acima, conclui-se
+que a matéria reivindicada no presente pedido de invenção decorre de forma óbvia do estado
+técnica.
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+
+
+
+                                                                                              Página 4
+                                       BR102013025651-0
+
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                               Rio de Janeiro, 01 de abril de 2022.
+
+
+
+
+Luis Andre Subtil Machado
+Pesquisador/ Mat. Nº 1474612
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                          Página 5
+

@@ -1,0 +1,200 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR112012023010-7            N.° de Depósito PCT: US2011/028172
+ Data de Depósito:     11/03/2011
+ Prioridade Unionista: US 61/313,628 (12/03/2010); US 61/327,314 (23/04/2010); US
+                       61/412,644 (11/11/2010)
+ Depositante:          DEBIOPHARM INTERNATIONAL SA (CH)
+ Inventor:             Jutta Deckert, Peter U. Park, Daniel Tavares, Lingyun Rui
+ Título:               "anticorpo ou fragmento de ligação a antígeno do mesmo que se liga
+                       especificamente a cd37, imunoconjugado compreendendo os
+                       mesmos, uso dos referidos anticorpo, fragmento e imunoconjugado,
+                       composição compreendendo os mesmos, kit, célula isolada, bem
+                       como método in vitro para inibir o crescimento de uma célula que
+                       expressa cd37" 
+
+                                                              PARECER
+
+
+          Este pedido é o pedido original do dividido BR122019018710.
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                              Sim      Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                    x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)     x
+
+O pedido refere-se a Sequências Biológicas                                                              x
+
+Comentários/Justificativas
+
+* Notificação de anuência relacionada com o Art.229-C da LPI (anuência prévia) publicada na
+RPI 2525 de 28/05/2019.
+
+** O INPI emitiu a exigência de código 6.6.1 na RPI 2466 de 10/04/2018, para fins de
+manifestação do depositante quanto à ocorrência de acesso ao Patrimônio Genético nacional
+e/ou Conhecimento Tradicional Associado para obtenção do objeto do presente pedido. Não
+tendo havido manifestação do depositante no prazo de 60 (sessenta) dias contados a partir da
+publicação na RPI, o INPI deu prosseguimento ao exame técnico com o entendimento de que
+não houve acesso ao patrimônio genético nacional e/ou conhecimento tradicional associado,
+conforme consta no texto do despacho de código 6.6.1 publicado na RPI, de acordo com
+entendimento firmado pela Procuradoria Federal Especializada junto ao INPI (PFE-INPI) no
+Parecer           nº         00001/2018/PROCGAB/PFE-INPI/PGF/AGU                  (Processo           INPI       nº
+52400.002142/2018-30), publicado na RPI 2465 de 03/04/2018.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                   Página 1
+                                           BR112012023010-7
+
+
+*** Listagem de sequências formato eletrônico encontra-se na petição nº 870200105706 de
+24/08/2020.
+
+
+
+                            Quadro 1  Páginas do pedido examinadas
+           Elemento                       Páginas               n.o da Petição         Data
+Relatório Descritivo                      01-198                870200105706         24/08/2020
+Listagem de sequências em
+                                          01-188                860140026117         06/03/2014
+formato impresso
+Listagem de sequências*            Código de Controle           870200105706         24/08/2020
+Quadro Reivindicatório                     01-06                870200105706         24/08/2020
+Desenhos                                   01-32                020120085369         12/09/2012
+Resumo                                       01                 870200105706         24/08/2020
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+     1104856E30CC7E2A (Campo 1) e F7CF3C7FD0EADED8 (Campo 2).
+
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                               Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                       x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                          x
+O pedido está de acordo com disposto no art. 32 da LPI                           x
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                               Sim         Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI             x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                    x
+Comentários/Justificativas
+       A reivindicação 5, que inclui na lista de anticorpos aquela da sequência consenso não
+apesenta clareza e precisão. Tal sequência faz com que exista a possibilidade de formar um
+conjunto de CDRs para um mesmo anticorpo sendo que esses CDRs não fariam parte de nenhum
+dos anticorpos produzidos no presente pedido. Tampouco as variantes possuem clareza e
+precisão, uma vez que não permite que um técnico no assunto determine as sequências dos
+CDRs (o que caracteriza uma proteína é a sua sequência de aminoácidos na forma de SEQ ID
+NO).
+
+
+
+
+                                                                                          Página 2
+                                        BR112012023010-7
+
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                                Documento                              Data de publicação
+     -       -                                                                         -
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade              Cumprimento              Reivindicações
+                                                     Sim                       01-24
+             Aplicação Industrial
+                                                     Não                         -
+                                                     Sim                       01-24
+                  Novidade
+                                                     Não                         -
+
+                                                     Sim                       01-24
+             Atividade Inventiva
+                                                     Não                         -
+Comentários/Justificativas
+
+         O presente pedido é o pedido original do pedido dividido BR122019018710-0.
+
+         O presente pedido refere-se a anticorpos anti-CD37, imunoconjugados contendo esses
+anticorpos e sua aplicação no tratamento de diversos tipos de leucemia e linfomas. Alguns
+anticorpos eram capazes de induzir apoptose, citotoxicidade dependente de complemento e
+citotoxicidade dependente de anticorpo.
+
+         Em 09/09/2019, por meio da petição 870190089216, o Depositante apresentou
+argumentações e modificações no pedido em resposta ao parecer emitido no âmbito da
+Resolução Nº 227/2018, notificado na RPI 2531 de 09/07/2019 segundo a exigência de
+Pré-exame (6.20).
+
+         O primeiro parecer técnico foi um 7.1 (publicado na RPI 2551 de 26/11/2019) por falta de
+clareza e falta de atividade inventiva da matéria pleiteada.
+
+         Através da petição 870200025289 de 21/02/2020, a requerente apresentou um novo
+quadro reivindicatório em que definiu os anticorpos pleiteados por suas sequências e apresentou
+argumentos em prol da invenção.
+
+         O segundo parecer técnico foi uma exigência publicada na RPI 2577 de 26/05/2020.
+
+         Através da petição 870200105706 de 24/08/2020 o requerente apresenta um novo
+quadro reivindicatório cumprindo parcialmente as exigências formuladas no parecer anterior.
+Com isso, persiste o problema de falta de clareza e precisão causado pela matéria que pleiteia
+variantes dos anticorpos, não permitindo a um técnico no assunto determinar quais seriam essas
+variantes.
+
+
+
+
+                                                                                           Página 3
+                                        BR112012023010-7
+
+
+
+
+Conclusão
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 26 de março de 2021.
+
+
+
+
+Júlia Rolão Araripe
+Pesquisador/ Mat. Nº 1525876
+DIRPA / CGPAT II/DIMOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                        Página 4
+

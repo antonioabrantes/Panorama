@@ -1,0 +1,164 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112020019522-7         N.° de Depósito PCT:JP2019/011606
+ Data de Depósito:                   19/03/2019
+ Prioridade Unionista:               JP 2018-059814 (27/03/2018); JP 2019-029207 (21/02/2019)
+ Depositante:                        KABUSHIKI KAISHA KOBE SEIKO SHO (KOBE STEEL, LTD.) (JP)
+ Inventor:                           HARUKA ARAKI; SAE HAMAMOTO; TATSUYA ASAI
+ Título:                             Chapa de aço para estampagem a quente 
+
+                                                                PARECER
+
+
+   Após notificação de despacho de ciência (código 7.1) na RPI nº 2742 em 25/07/2023,
+a Requerente impetrou a petição de número 870230093494 em 23/10/2023, onde
+apresenta resposta à ciência. Nessa petição não foram apresentadas novas vias do
+pedido.
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-30               870230029330           06/04/2023
+Quadro Reivindicatório                                     1-2               870230029330           06/04/2023
+Desenhos                                                   1-4               870200120681           25/09/2020
+Resumo                                                      1                870230029330           06/04/2023
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR112020019522-7
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D6                               WO2017036338A1                                09/03/2017
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                     1
+           Aplicação Industrial
+                                                        Não                      --
+                                                         Sim                     1
+                 Novidade
+                                                        Não                      ---
+
+                                                         Sim                     ---
+           Atividade Inventiva
+                                                        Não                      1
+
+
+
+Comentários/Justificativas
+
+   Na defesa de mérito do pedido a Requerente alega que o efeito técnico do pedido é
+o fornecimento de um produto moldado que apresenta excelente estabilidade de
+dureza, e a estabilidade de dureza é descrita como a folga entre a matriz e a chapa
+de aço e um aumento na temperatura da matriz causam variação na dureza, entre uma
+porção resfriada a uma alta velocidade de resfriamento e uma porção resfriada a uma
+baixa velocidade de resfriamento, em um elemento de estampagem a quente obtido por
+estampagem a quente da chapa de aço. Então, o pedido foca na supressão da
+variação na dureza que é devido ao balanço entre os teores de C, Si, Mn, e Cr.
+Em D6 o objetivo é possuir maior resistência à tração e maior dureza Brinell e
+os meios para atingir o objetivo são completamente diferentes.
+    Como foi dito no primeiro exame, reivindicações que tentam definir a invenção
+em função do resultado a alcançar não são permitidas, as equações 2-4 da R1 são
+baseadas em resultado de teste de impacto (A), e durezas (B e C). A equação restante
+(1) é atendida pelos exemplos da tabela 1 de D6.
+
+
+
+
+                                                                                          Página 2
+                                    BR112020019522-7
+
+
+    A estabilidade de dureza dita pela Requerente é um parâmetro técnico de
+resfriamento em um processo de estampagem que, pelo que é dito, será definido pelo
+equilíbrio químico entre os elementos da liga. O objetivo disso é obter microestruturas
+específicas para obter uma maior ou menor dureza. Nada no pedido é reivindicado em
+relação ao processo. Apenas uma CQ (composição química) que definirá na
+estampagem a quente a microestrutura objetivada responsável pelas características
+mecânicas. Em D6 temos a mesma CQ, aliada a um processo, que objetiva entre outros
+fatores dureza e tenacidade. R1 é exatamente isto, mesma CQ que D6, objetivando
+tenacidade e dureza. Certamente o efeito da estabilidade de dureza alegado em um
+processo de estampagem a quente para a chapa de aço de R1 acontecerá com a chapa
+de aço dos exemplos de D6.
+   Na aferição da atividade inventiva a subfaixa selecionada deve representar uma
+contribuição ao estado da técnica, já que os efeitos e propriedades decorrentes de tal
+escolha serão avaliados sempre do ponto de vista do técnico no assunto. O pedido tem
+que demonstrar que o efeito técnico inesperado não está no estado da técnica. Todos os
+efeitos técnicos alegados estão em D6, e esta vai além, demonstra processos
+termomecânicos para obter combinação dureza com tenacidade a partir da mesma CQ
+de R1. A dita estabilidade de dureza alegada também é uma tentativa de definir a
+invenção em função do resultado a alcançar, o que é de fato reivindicado é apenas um
+produto que possui a CQ revelada em D6.
+Conclusão
+
+   R1 não possui atividade inventiva e não atende aos Art. 8º c/c 13 da LPI.
+
+
+
+     Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+     -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da
+         LPI)
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a
+partir da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                        Publique-se o indeferimento (9.2).
+
+
+
+                                                 Rio de Janeiro, 16 de dezembro de 2023.
+
+
+
+
+Alberto de Andrade Fernandes
+
+
+
+                                                                                 Página 3
+                               BR112020019522-7
+
+Pesquisador/ Mat. Nº 2316308
+DIRPA / CGPAT IV/DIMAT
+Deleg. Comp. - Port. INPI/DIRPA Nº
+012/18
+
+
+
+
+                                                  Página 4
+

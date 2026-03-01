@@ -1,0 +1,229 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112012015579-2         N.° de Depósito PCT:US10/061905
+ Data de Depósito:                   22/12/2010
+ Prioridade Unionista:               US 61/289,892 (23/12/2009)
+ Depositante:                        AEA Integration (US)
+ Inventor:                           Gregory R. Schnackel
+ Título:                             Sistema e método para projeto de serviços de construção
+                                     automatizados 
+
+                                                                PARECER
+        O presente pedido refere-se a sistema e método, cujo objetivo é projetar sistemas de
+serviços de construção. Para tal, é revelado um sistema/processo que examina múltiplas soluções
+válidas para as exigências de projeto de sistema, enquanto prepara as estimativas de custo de
+construção de cada solução válida examinada e compara o custo de cada solução para
+determinar a solução menos onerosa que satisfaça ou exceda todos os parâmetros de projeto
+necessários inseridos no sistema. A solução retornada pelo processo de otimização inclui uma
+representação completa da melhor solução encontrada colocada em uma base de dados CAD
+pronta para a reprodução e o uso na licitação e construção do edifício.
+        Em      30/10/2019,          por     meio      da       petição      870190110406,   o    requerente   apresentou
+argumentações em resposta ao parecer emitido no âmbito da Resolução 241/2019, notificado na
+RPI 2535 de 06/08/2019 (despacho 6.21).
+
+        Em 24/09/2020, através da petição 870200119568, o requerente apresentou modificações
+no pedido, em resposta ao parecer emitido (despacho 7.1), notificado na RPI 2582 de 30/06/2020.
+        Em 05/03/2021, através da petição 870200119568, o requerente apresentou modificações
+no pedido, conforme Quadro I, em resposta ao parecer emitido (despacho 7.1), notificado na RPI
+2605 de 08/12/2020.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                   n.o da Petição                Data
+
+Relatório Descritivo                                    1 a 44                   870200119568             24/09/2020
+Quadro Reivindicatório                                   1a5                     870210021293             05/03/2021
+Desenhos                                                 1e2                     870190110406             30/10/2019
+Resumo                                                      1                    870190110406             30/10/2019
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                        Página 1
+                                         BR112012015579-2
+
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                            Sim             Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)          x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                 x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                      x
+O pedido está de acordo com disposto no art. 32 da LPI                       x
+Comentários/Justificativas
+
+       O Quadro Reivindicatório não é considerada invenção nem modelo de utilidade, pois se
+trata de esquemas, planos, princípios ou métodos comerciais, contábeis, financeiros, educativos,
+publicitários, de sorteio e de fiscalização, se enquadrando no disposto no Art. 10 inciso (III) da
+LPI. As reivindicações independentes 1 (sistema) e 11 (método) pleiteiam as características:
+um sistema/método para o projeto de sistemas de serviços de construção, caracterizado pelo
+fato de compreender: pelo menos um processador operável para realizar as etapas
+compreendendo:
+       configurar pelo menos uma interface de usuário acoplada a pelo menos um processador e
+        operável para receber uma pluralidade de conjuntos de dados, (...)
+
+       usar a pluralidade de conjuntos de dados para gerar uma pluralidade de soluções de
+        projeto, (...); e
+
+       realizar a execução paralela de uma pluralidade de servidores de execução virtual, (...):
+
+       determinar um custo de construção associado a cada uma dentre a pluralidade de
+        soluções de projeto; e
+
+       determinar uma solução de projeto otimizada dentre a pluralidade de soluções de projeto,
+        (...).
+
+          Tais características não são consideradas como fazendo parte de um campo técnico,
+mas sim como esquema, plano, princípio ou método comercial que implementa etapas
+administrativas de gerenciamento de projeto de serviços de construção automatizados a partir
+de elementos computacionais (processador, banco de dados, processamento paralelo, sistema
+de otimização) corriqueiros e largamente conhecidos na data de prioridade do presente pedido
+de patente de invenção para a implementação de um método comercial. As mesmas
+observações podem ser estendidas às reivindicações 2 a 10 e 12 a 20, as quais descrevem
+características pertinentes as etapas administrativas de gerenciamento de projeto de serviços de
+construção automatizados.
+
+
+
+
+                                                                                            Página 2
+                                           BR112012015579-2
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim                   Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                              Data de publicação
+    D1                                  US6859768B1                                   22/02/2005
+    D2                               US20030018492A1                                  23/01/2003
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade               Cumprimento           Reivindicações
+                                                         Sim                   -------------
+            Aplicação Industrial
+                                                        Não                    -------------
+
+                                                         Sim                   -------------
+                 Novidade
+                                                        Não                    -------------
+
+                                                         Sim                   -------------
+            Atividade Inventiva
+                                                        Não                    -------------
+Comentários/Justificativas
+
+          De acordo com o disposto na seção Comentários/Justificativas do Quadro 2, a matéria
+pleiteada está fundamentada na implementação de esquemas, planos, princípios ou métodos
+comerciais a partir de elementos computacionais (que formam o núcleo das características
+técnicas) corriqueiros e largamente conhecidos na data de prioridade do presente pedido de
+patente de invenção. Neste contexto, o Quadro Reivindicatório não pode ser avaliado quanto
+aos requisitos de patenteabilidade (vide Resolução n° 169/2016  Diretrizes de Exame de
+Pedidos de Patente  Bloco II  1.1 e 1.2).
+         Através da petição 870200119568, de 05/03/2021, o requerente efetuou emendas no
+pedido sendo incluídas as características sublinhadas a seguir.
+
+
+Reivindicação independente 1(Sistema) e 11(Método): Sistema/Método para o projeto de
+sistemas de serviços de construção, caracterizado pelo fato de compreender:
+         pelo menos um processador operável para realizar as etapas compreendendo:
+        configurar pelo menos uma interface de usuário acoplada a pelo menos um processador e
+         operável para receber uma pluralidade de conjuntos de dados, a pluralidade de conjuntos
+         de dados compreendendo um primeiro conjunto de dados compreendendo as localizações
+
+
+
+                                                                                               Página 3
+                                          BR112012015579-2
+
+
+           de uma pluralidade de dispositivos de componente de pelo menos um sistema de serviços
+           de construção, e um segundo conjunto de dados compreendendo pelo menos um
+           parâmetro de operação associado com pelo menos um dentre uma pluralidade de
+           dispositivos de componente;
+
+          usar a pluralidade de conjuntos de dados para gerar uma pluralidade de soluções de
+           projeto, cada uma da pluralidade de soluções de projeto compreendendo uma disposição
+           das interconexões entre a pluralidade de dispositivos de componente, a geração
+           compreendendo o envio de uma pluralidade de tarefas a uma fila de processamento
+           contendo instruções para programas de projeto automatizados, cada tarefa associada a
+           um arquivo preparado usando um sistema de computador de usuário, o arquivo
+           armazenando um ou mais conjuntos de dados; e
+
+          realizar a execução paralela de uma pluralidade de servidores de execução virtual, cada
+           servidor de execução virtual examinando a fila de processamento para determinar um
+           trabalho para processar e receber instruções para processar o trabalho da fila de
+           processamento, os servidores de execução virtual separados dos sistemas de computador
+           do usuário usados para preparar os arquivos, a execução compreendendo:
+
+          determinar um custo de construção associado a cada uma dentre a pluralidade de
+           soluções de projeto; e
+
+          determinar uma solução de projeto otimizada dentre a pluralidade de soluções de projeto ,
+           a determinação da solução de projeto otimizada compreendendo a seleção de uma rota
+           ideal para as interconexões entre a pluralidade de dispositivos componentes.
+
+
+            Entende-se que o objeto pleiteado refere-se à etapas administrativas de gerenciamento
+de projeto de serviços de construção automatizados a partir de elementos computacionais que
+utiliza meios técnicos. Além disso as características emendadas são comuns ao estado da
+técnica e para um técnico no assunto a época do pedido. Ainda, segundo a Resolução n°
+169/2016, item 1.9, Os itens contidos no inciso Ill do artigo 10 da LPI, mesmo quando utilizarem
+meios técnicos ou tenham utilidade prática não serão considerados invenção. .
+            Dessa forma, mantém-se o entendimento, conforme emitido nos pareceres de 1 o e 2o
+exames, de que a matéria pleiteada enquadra-se no Art.10 inciso III da LPI.
+
+
+
+Conclusão
+
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+       -     não é considerado invenção, uma vez que incide no Art. 10 da LPI
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                                           Página 4
+                                    BR112012015579-2
+
+
+
+
+                                                          Publique-se o indeferimento (9.2).
+
+
+
+                                                       Rio de Janeiro, 24 de março de 2021.
+
+
+
+
+Cid da Silva Garcia Monteiro
+Pesquisador/ Mat. Nº 2390298
+DIRPA / CGPAT III/DICEL
+Del. Comp. - Port. INPI/DIRPA Nº 017/19
+
+
+
+
+                                                                                   Página 5
+

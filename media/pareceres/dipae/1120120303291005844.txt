@@ -1,0 +1,351 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR112012030329-5           N.° de Depósito PCT: US2011/038464
+ Data de Depósito:     27/05/2011
+ Prioridade Unionista: US 61/349774 (28/05/2010); US 61/374992 (18/08/2010); US
+                       61/414393 (16/11/2010); US 61/428192 (29/12/2010)
+ Depositante:          TERRAVIA HOLDINGS, INC. (US)
+ Inventor:             Scott Franklin, Aravind Somanchi, Janice Wee, George Rudenko,
+                       Jeffrey L. Moseley, Walt Rakitsky
+ Título:               Composição alimentícia, e, método paa fazer uma composição
+                       alimentícia 
+
+                                                              PARECER
+          O presente pedido refere-se a métodos e composições para a produção de composições
+alimentícias, óleos, combustíveis, oleoquímicos e outros compostos em microrganismos
+recombinantes são fornecidos, incluindo microrganismos transportando óleo e métodos de cultivo
+de baixo custo de tais microrganismos. Células de microalgas contendo genes exógenos
+codificando, por exemplo, uma lipase, um transportador de sacarose, uma invertase de sacarose,
+uma frutocinase, uma enzima de degradação de polissacarídeo, uma enzima de sintase de ceto
+acil-ACP, uma tioesterase de acil-ACP graxa, uma redutase de acil-CoA/aldeído graxa, uma
+redutase de acil-CoA graxa, uma redutase de aldeído graxa, uma decarbonilase de aldeído graxa
+e/ou uma proteína transportadora de acil são úteis na fabricação de composições alimentícias e
+combustíveis de transporte, tal como diesel renovável, biodiesel e combustível de jato renovável,
+bem como oleoquímicos, tal como fluidos funcionais, surfactantes, sabões e lubrificantes.
+
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim   Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                         X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    X
+
+O pedido refere-se a Sequências Biológicas                                                             X
+
+Comentários/Justificativas
+
+          A matéria do presente pedido não se enquadra no disposto no Art. 229-C da LPI.
+
+          A Requerente declarou voluntariamente, através da petição nº 020130012834 de
+15/02/2013, que o objeto do presente pedido de patente de invenção não foi obtido em
+decorrência de acesso à amostra de componente do patrimônio genético nacional.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                            Página 1/7
+                                         BR112012030329-5
+
+                           Quadro 1  Páginas do pedido examinadas
+            Elemento                     Páginas             n.o da Petição         Data
+Relatório Descritivo                       1                 860140078428         23/05/2014
+                                         2 a 312             020130008130         29/01/2013
+Listagem de sequências em
+                                           ---                     ---                ---
+formato impresso
+Listagem de sequências*           Código de Controle         870180150371         12/11/2018
+Quadro Reivindicatório                    1a3                870180150371         12/11/2018
+Desenhos                                   1                 020130008130         29/01/2013
+Resumo                                     1                 860140078428         23/05/2014
+       *Listagem de sequências em formato eletrônico referente ao código de controle
+       D6CE4FD656484ACD (Campo 1) e 5A568AACF3111811 (Campo 2).
+
+        Através da petição nº 020130008130 de 29/01/2013, a Requerente apresentou novas vias
+do Relatório Descritivo (páginas 2 a 312, considerando as vias voluntariamente apresentadas das
+páginas 86, 267, 276, 288 e 289) e o Desenho; através da petição nº 860140078428 de
+23/05/2014 apresentou as vias da página 1 do Relatório Descritivo, e do Resumo.
+
+        Em resposta ao parecer técnico de ciência (7.1), notificado na RPI 2484 de 14/08/2018, a
+Requerente apresenta, através da petição nº 870180150371 de 12/11/2018, novas vias do
+Quadro Reivindicatório (total de 16 reivindicações). Todas essas petições foram consideradas para
+o presente exame técnico.
+
+        A Requerente esclarece que o novo Quadro Reivindicatório, com escopo de proteção
+inteiramente adaptado às disposições da Instrução Normativa 30/2013, em que:
+
+       O novo Quadro Reivindicatório contendo 16 reivindicações, que foi modificado para melhor
+        precisar e definir a invenção.
+
+       As reivindicações como ora emendadas são idênticas às reivindicações concedidas em 2
+        de setembro de 2016 na patente japonesa nº 5996527.
+
+       As novas reivindicações são direcionadas a óleos/composição alimentícia/métodos de
+        Prototheca recombinante, em que as microalgas compreendem uma desaturase de ácido
+        graxo endógeno mutada ou inativada.
+
+       Cancelou a reivindicação 18 anterior, de modo a evitar a duplicidade de matéria com o
+        pedido BR112012030333-3.
+
+        Em relação à Listagem apresentada pela petição n° 870180150371 de 12/11/2018, no
+exame formal da listagem não se verificou irregularidades.
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                            Sim          Não
+
+
+
+                                                                                      Página 2/7
+                                           BR112012030329-5
+
+
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                          X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                  X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                       X
+O pedido está de acordo com disposto no art. 32 da LPI                        X
+Comentários/Justificativas ---
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                               Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                         X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                       X
+Comentários/Justificativas
+
+       A documentação analisada neste exame constituiu-se do 1º Parecer Técnico, notificado na
+RPI nº 2484 de 14/08/2018, sob o Despacho 7.1; da manifestação tempestiva acerca do mesmo; e
+das vias do Quadro Reivindicatório apresentada através da petição no Quadro 1.
+
+
+
+Irregularidades frente ao artigo 24 da Lei 9279/96
+
+       Em resposta ao parecer, a Requerente apresenta o certificado de depósito (ANEXO 1),
+conforme requerido no parecer técnico.
+
+       Considerando que os certificados ora apresentados tem data de depósito de 13/10/2009
+para as cepas Chlorella protothecoides: 25-32 (PTA-10396) e Chlorella protothecoides: 33-55
+(PTA-10397). Tais datas são anteriores a data da prioridade              unionista reivindica que são:
+US61/349774       (28/05/2010);      US61/374992         (18/08/2010);   US61/414393     (16/11/2010);
+US61/428192 (29/12/2010), o presente exame entende que houve a comprovação de depósito
+original de material biológico das cepas PTA-10396 e PTA-10397 para fins patentários cumpre o
+disposto no art. 24 da LPI, na IN PR Nº 17/2013 e item 2.2.1.2 das Diretrizes de Exame de
+Biotecnologia (IN 144/2015).
+
+       Cumpre informar que a cepa Prototheca moriformis (UTEX 1435) não foi apresentado o
+certificado de depósito. E, mantemos a objeção do art. 24 da LPI para o presente pedido.
+
+
+
+Irregularidades frente ao artigo 25 da Lei 9279/96
+
+       Em resposta ao parecer, a Requerente apresenta emendas no Quadro Reivindicatório, sem
+adição de matéria, em que:
+
+      Os documentos do estado da técnica D2, D3 e D4 são da própria Requerente da presente
+       invenção. Como pode ser notado, D4 foi depositado no mesmo dia do depósito do
+       presente pedido.
+
+
+
+
+                                                                                           Página 3/7
+                                        BR112012030329-5
+
+
+      A Requerente esclarece que nenhuma das referências discute ou sugere células
+       Prototheca recombinantes, em que uma desaturase de ácido graxo endógena é mutada ou
+       inativada para ter menos atividade enzimática.
+
+      Uma vez que reivindicações idênticas foram concedidas no Japão, a Requerente acredita
+       que as reivindicações como ora emendadas estão em condições de serem concedidas.
+
+
+
+       Considerando que as alterações ora apresentadas, o atual Quadro Reivindicatório continua
+apresentando irregularidades com relação ao art. 25 da LPI. Citamos:
+
+      O Quadro Reivindicatório contém expressões como compreender, pelo menos, as quais
+       resultam na falta de clareza e precisão da matéria reivindicada, contrariando o disposto no
+       art. 25 da LPI, o item 3.49 das Diretrizes de Exame (Resolução 124/2013) e na Instrução
+       Normativa nº 30/2013  art. 4º (III).
+
+      As reivindicações independentes 1 está descrita de forma ampla e abrangente, com a
+       carência de características técnicas essenciais da categoria pleiteada, conforme
+       Resolução nº 124/13 e artigo 25 da LPI.
+
+       Tal reivindicação 1 pede proteção a microalgas (recombinantes) do gênero Prototheca,
+       mas os certificados de depósito são para a algas da espécie Chlorella protothecoides (que
+       são do gênero Auxeochlorella), e o gênero Prothoteca não inclui tal espécie.
+
+
+
+      Conforme consta no Relatório Descritivo:
+
+        (...) o óleo de triglicerídeo compreendendo (a) um perfil lipídico de menos do que 5%
+          ou menos do que 2%, preferencialmente menos do que 1%, <C12; entre 1%-10%,
+          preferencialmente 2%-7%, C14:0; entre 20%-35%, preferencialmente 23%-30%,
+          C16:0;    entre    5%-20%,     preferencialmente     7%-15%,    C18:0;    entre     35-60%,
+          preferencialmente 40-55%, C18:1; e entre 1%-20%, preferencialmente 2-15%, C18:2
+          ácido graxos (...) (grifo nosso; ver página 9, linhas 6-12 do Relatório Descritivo);
+
+        (...) o óleo de triglicerídeo é isolado de um micróbio compreendendo um ou mais
+          genes exógenos. Em alguns casos, o óleo de triglicerídeo compreende um perl
+          lipídico de 1%-10%, preferencialmente 3-5%, C14:0; 20%-30%, preferencialmente
+          25-27%,     C16:0;   5%-20%,     preferencialmente    10-15%,    C18:0;    e      35%-50%,
+          preferencialmente 40-45%, C18:1 (...) (grifo nosso; página 10, linhas 10-14 do
+          Relatório Descritivo); e,
+
+        Ainda, a título de exemplificação, as Tabelas 16 , 17, 21 e 23 também demonstram que
+          o teor de C18:1 variam de ~7% a ~58% no perfil lipídico das cepas.
+
+
+
+
+                                                                                            Página 4/7
+                                          BR112012030329-5
+
+
+         Diante do exposto, o teor de C18:1 obtenível é até no máximo 60%, preferencialmente
+40-55%, enquanto a Quadro Reivindicatório pede proteção para óleo em que o teor de C18:1 seja
+de pelo menos 60%. Assim, as reivindicações 1-16 não atendem ao disposto no art. 25 da LPI e
+na Instrução Normativa nº 30/2013  art. 4º (IV), pois a matéria pleiteada não está fundamentada
+no relatório descritivo do pedido.
+
+         Desse modo, entende-se que tais emendas não superam as objeções exaradas no parecer
+anterior em relação ao art. 25 da LPI.
+
+
+                            Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                          Data de publicação
+    D1       Halim, R. Et al., Oil extraction from microalgae for biodiesel Available online 23
+             production. Bioresource Technology 102 (2011) 178185.             July 2010
+    D2                               WO 2010/045368                             22/04/2010
+    D3                               US 2009/061493                              05/03/2009
+    D4                      WO2011/150410 (BR112012030333-3)                     01/12/2012
+D1 a D5 são os mesmos documentos já citados em parecer anterior.
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade           Cumprimento              Reivindicações
+                                                     Sim                      1-16
+            Aplicação Industrial
+                                                     Não                       ---
+                                                     Sim                      1-16
+                  Novidade
+                                                     Não                       ---
+
+                                                     Sim                       ---
+            Atividade Inventiva
+                                                     Não                      1-16
+Comentários/Justificativas
+
+         Em resposta ao parecer técnico emitido pelo INPI, a Requerente apresenta um novo
+Quadro Reivindicatório (total de 16 reivindicações). A Requerente alegou, resumidamente, que:
+
+        Os documentos do estado da técnica D2, D3 e D4 são da própria Requerente da presente
+         invenção. Como pode ser notado, D4 foi depositado no mesmo dia do depósito do
+         presente pedido.
+
+        A Requerente esclarece que nenhuma das referências discute ou sugere células
+         Prototheca recombinantes, em que uma desaturase de ácido graxo endógena é mutada ou
+         inativada para ter menos atividade enzimática.
+
+        Uma vez que reivindicações idênticas foram concedidas no Japão, a Requerente acredita
+         que as reivindicações como ora emendadas estão em condições de serem concedidas.
+
+
+
+                                                                                      Página 5/7
+                                           BR112012030329-5
+
+
+
+
+       Avaliando a manifestação do depositante apresentada por meio da petição nº
+870180150371 de 12/11/2018, bem como avaliando as novas vias do Quadro Reivindicatório, a
+argumentação da Requerente não foi considerada persuasiva, pelos seguintes motivos:
+
+          D2 é considerado o estado da técnica mais próximo, pois revela uma composição
+           alimentícia compreendendo pelo menos 0,1% p/p de biomassa de alga biomassa
+           (parágrafo [01731]) e um ou mais outros ingredientes comestíveis (parágrafos [0158],
+           [0180]), sendo que a biomassa de algas conte, pelo menos 40%, pelo menos 50%, 75% ou
+           mais de óleo por peso seco (parágrafo [0084]); que o dito óleo de triglicéridos pode
+           compreender um perfil de ácidos graxos selecionado do grupo consistindo de
+           aproximadamente 60% de C18:1 e, assim, incluir 7% de C18:2 (parágrafo [0046]) e, que a
+           biomassa de algas é da espécie Chlorella protothecoides (parágrafo [00091]).
+
+          Além disso, D2 revela que o óleo extraído da biomassa de algas também pode ser usado
+           como óleo de cozinha por fabricantes de alimentos, restaurantes e/ou consumidores. Em
+           tais casos, o óleo de algas pode substituir óleos de cozinha convencionais, tais como óleo
+           de cártamo, óleo de canola, azeite, óleo de semente de uva, óleo de milho, óleo de
+           girassol, óleo de coco, óleo de palma, ou qualquer outro óleo de cozinha
+           convencionalmente usado, ensinando assim que o perfil de ácidos graxos do óleo de
+           triglicerídeos de algas é similar ao perfil de ácidos graxos de um óleo que ocorre
+           naturalmente, como manteiga de cacau, óleo de coco, óleo de palma, sebo ou banha
+           (parágrafo [0200]). Embora D2 não ensina que a biomassa de algas cultivada pode ser
+           algas recombinantes. No entanto, D3 ensina algas recombinantes, como Chlorella spp.
+           (parágrafo [0459]).
+
+          Diante desses ensinamentos, o presente exame entende que seria sido óbvio para um
+           técnico no assunto combinar composição de alimentos compreendendo biomassa de
+           algas, como ensinado por D2, com a tecnologia de DNA recombinante por D3, para obter
+           algas com perfis melhorados de ácidos graxos, a fim de fornecer ou ingredientes
+           alimentares contendo óleo derivado de algas (D2, parágrafos [0012], [0015], [0080], [0084],
+           [0091], [0095], [0158], [0173] 0191], [0193], [0199]; D3, parágrafo [0635]). Portanto, a
+           matéria das reivindicações 1-16 carece de atividade inventiva (art. 8º c/c 13 da LPI) frente
+           as anterioridades citadas.
+
+
+
+Conclusão
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+       -     não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+       -     não apresenta suficiência descritiva (Art. 24 da LPI)
+
+
+
+
+                                                                                            Página 6/7
+                                         BR112012030329-5
+
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI).
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                              Rio de Janeiro, 9 de julho de 2019.
+
+
+
+
+Welington Inácio de Almeida
+Pesquisador/ Mat. Nº 1568229
+DIRPA / CGPAT II/DIPAE
+Deleg. Comp. - Port. INPI/DIRPA Nº 001/19
+
+
+
+
+                                                                                      Página 7/7
+

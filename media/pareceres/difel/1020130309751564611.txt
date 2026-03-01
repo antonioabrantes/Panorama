@@ -1,0 +1,222 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102013030975-3          N.° de Depósito PCT:
+ Data de Depósito:                   02/12/2013
+ Prioridade Unionista:               -
+ Depositante:                        ZEIT    COMÉRCIO       E    MONTAGEM         DE                EQUIPAMENTOS
+                                     ELETRÔNICOS LTDA (BRPR)
+ Inventor:                           SIDARTA FORNARI BELTRAMIN
+ Título:                             Alternador sem escovas de alta performace 
+
+                                                                PARECER
+
+
+          O presente pedido de patente de invenção sofreu Ciência de Parecer (7.1), conforme
+publicado na RPI 2636 de 13/07/2021. Através da petição 870210094539 de 13/10/2021, o
+Requerente apresentou sua Manifestação. Para fins de continuidade do exame estão sendo
+consideradas as vias abaixo:
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição              Data
+
+Relatório Descritivo                                     1a4                 020130090854              02/12/2013
+Quadro Reivindicatório                                      1                020130090854              02/12/2013
+Desenhos                                                    1                020130090854              02/12/2013
+Resumo                                                      1                020130090854              02/12/2013
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim          Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                         X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                 X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                  Página 1
+                                           BR102013030975-3
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                               Sim           Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                        X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                      X
+Comentários/Justificativas
+       Como não foi apresentado nenhum argumento técnico na manifestação e nenhum novo
+documento ou modificação,           ratificamos a seguir as observações e argumentações já
+apresentadas no parecer anterior:
+       A reivindicação independente 1 menciona que o alternador sem escovas é
+caracterizado por compreender adicionalmente um controlador de corrente (8) interno ao
+gerador, preferencialmente operado por radio, disposto de forma a agir diretamente no campo do
+alternador principal (6). Ou seja, apenas cita de maneira genérica que existe um controlador
+operado por rádio que age no campo do alternador. Não é detalhado como é realizado de fato
+este controle, sua estratégia etc, estando a reivindicação 1 em desacordo com o artigo 25 da LPI.
+       A reivindicação dependente 2 diz que o alternador é caracterizado pelo fato de que um
+campo auxiliar (AF) com corrente (I1) é controlado externamente para assegurar que V1 seja
+mantido dentro de certa faixa, suficiente para energizar o controlador de corrente (8) para
+alimentar a corrente do campo principal (I2). Mais uma vez há uma descrição genérica/imprecisa
+em que não está clara tanto a forma de controle quanto qual seria a faixa de tensão ou mesmo
+qual seria o valor dito suficiente. Consequentemente a reivindicação 2 está em desacordo com o
+artigo 25 da LPI.
+       A reivindicação dependente 3 menciona que o alternador é caracterizado pelo fato de
+que referido controlador de corrente (8) recebe as informações através de comunicação de rádio a
+partir de um controlador de tração externo (não mostrado) e aplica uma corrente desejada no
+campo do alternador principal (I2). Novamente há uma descrição genérica/imprecisa em que não
+está clara tanto a forma de controle quanto a corrente desejada. É ainda explicitado que o
+controlador de tração não é mostrado, e de fato não o é. Consequentemente, a reivindicação 3
+está em desacordo com o artigo 25 da LPI. Ressalte-se ainda que não pode haver nenhuma
+expressão entre parênteses ao longo das reivindicações que não seja referência numérica de
+elementos constantes das figuras.
+       Cabe destacar ainda que a dita descrição detalhada da invenção consta de fato de
+somente dois parágrafos do relatório (Os dois primeiros parágrafos da página 4) os quais são
+praticamente repetidos nas reivindicações 1 a 3, ou seja, na verdade trata de descrição bastante
+pequena e genérica, que dificulta o entendimento detalhado da matéria e não permite que um
+terceiro técnico no assunto a realize com a devida precisão.             Consequentemente, a matéria
+pleiteada está em desacordo com o artigo 24 da LPI.
+
+
+
+
+                                                                                            Página 2
+                                        BR102013030975-3
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                                Documento                               Data de publicação
+    D1                                EP0233425 A1                                   26/08/1987
+    D2                                EP0837555 A1                                   22/04/1998
+    D3                                US4,654,551 A                                  31/03/1987
+    D5                             BR102012002011-4 A2                               12/11/2013
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento                 Reivindicações
+                                                      Sim                          1a4
+            Aplicação Industrial
+                                                      Não                          ---
+                                                      Sim                          1a4
+                 Novidade
+                                                      Não                          ---
+                                                      Sim                          ---
+            Atividade Inventiva
+                                                      Não                          1a4
+Comentários/Justificativas
+
+         Em sua manifestação a Requerente menciona que:
+
+         1) A Requerente respeitosamente discorda do INPI, e acredita que restrições adicionais
+ao escopo da invenção seriam impróprias e só colaborariam para uma drástica e injusta
+limitação do escopo da invenção que somente favoreceria a terceiros interessados em se
+aproveitar impunemente dos ensinamentos aqui contidos.;
+         2) Além disso, a Requerente entende que o presente pedido de patente está repleto de
+informações que permitem que o técnico no assunto consiga reproduzir a invenção como ora
+reivindicada. A matéria reivindicada pode ser diretamente preparada a partir dos ensinamentos
+contidos no presente pedido de patente como ali exemplificado ou, alternativamente, por
+analogia a partir das informações detalhadas contidas no relatório descritivo.;
+         3) Assim, é nítido que as reivindicações estão devidamente suportadas no
+relatório descritivo e que o presente pedido de patente apresenta detalhes suficientes para
+permitir que um técnico no assunto reproduza a invenção.;
+         4) Ainda, de acordo com o INPI, as reivindicações 1 a 4 ora reivindicadas seriam
+destituídas de atividade inventiva, em vista dos ensinamentos de D1 (EP0233425), D2
+(EP0837555), D3 (US 4,654,551) e D4 (BR102012002011-4). Neste sentido, a Requerente
+respeitosamente discorda do INPI, e entende que o quadro reivindicatório atual é dotado de
+atividade inventiva, pois o presente pedido de patente é caracterizado apenas por matéria
+exclusiva e não óbvia, cumprindo dessa forma, com os requisitos legais para a concessão de
+uma patente.;
+
+
+
+                                                                                            Página 3
+                                        BR102013030975-3
+
+
+
+       5) A Requerente entende que o efeito técnico alcançado pelo presente pedido de
+patente, a saber, um alternador do tipo sem escovas, possuindo alta performance, e
+especialmente adequado para aplicações em locomotivas de trens.
+       6) Assim, a Requerente entende que a matéria das reivindicações atuais (i)
+apresenta características   distintas   e   efeitos   técnicos   superiores   e   imprevisíveis,   em
+atendimento aos requisitos de patenteabilidade, conforme disposto nos Artigos 8º e 13 da LPI, e
+(ii) está definida de forma clara e precisa, conforme disposto no Artigo 25 da LPI..
+
+       As observações da Requerente constantes de sua manifestação estão fielmente
+descritas nos itens 1 a 6 acima. Como pode ser visto, e já mencionado no quadro 3 do presente
+parecer, não foram apresentados argumentos técnicos. Foram feitas afirmações e ilações
+genéricas sem a devida fundamentação técnica e sem contraposição clara aos argumentos já
+apresentados no parecer anterior. Sendo assim, ratificamos a seguir as observações e
+argumentações já apresentadas no parecer anterior de que:
+       Da forma genérica tal como reivindicado, alternadores sem escovas com controladores
+de corrente no gerador são mostrados em D1, D2, D3 e D5 (Resumo,                   Reivindicações e
+Figuras). Vale ressaltar que em D5 (Relatório Descritivo  Página 10  linhas 2 a 17) é mostrada
+explicitamente a possibilidade de comunicação sem fio em circuitos de controle de um gerador
+via ondas eletromagnéticas, rádio frequência e ondas ópticas, algo que de fato é comum no
+estado da técnica. Sendo assim, ainda que consideremos a matéria como nova e
+suficientemente descrita (o que não é o caso vide observações do quadro 3 do presente
+parecer), as reivindicações 1 a 4 não possuem atividade inventiva frente aos conhecimentos
+apresentados nos documentos D1 ou D2 ou D3 em conjunto com D5.
+
+
+
+
+Conclusão
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não
+apresenta suficiência descritiva (Art. 24 da LPI) e as reivindicações estão indefinidas e/ou não
+estão fundamentadas no relatório descritivo (Art. 25 da LPI).
+
+      Adicionalmente, conforme já mencionado no Quadro 5 do presente parecer, ainda que
+considerássemos (por economia processual) a matéria como suficientemente descrita (o que não
+é o caso), da forma genérica tal como reivindicada, a matéria também não atenderia ao requisito
+de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+
+
+
+                                                                                              Página 4
+                                      BR102013030975-3
+
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 27 de abril de 2022.
+
+
+
+
+Cesar Vianna Moreira Junior
+Pesquisador/ Mat. Nº 2041070
+DIRPA / CGPAT III/DIFEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+007/15
+
+
+
+
+                                                                                        Página 5
+

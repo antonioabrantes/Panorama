@@ -1,0 +1,241 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR112016003644-1         N.° de Depósito PCT:US2014/013930
+ Data de Depósito:     30/01/2014
+ Prioridade Unionista: US 61/870,712 (27/08/2013); US 61/898,690 (01/11/2013); US
+                       61/907,308 (21/11/2013)
+ Depositante:          GILEAD PHARMASSET LLC (US)
+ Inventor:             ERIC GORMAN, ERIK MOGALIAN, REZA OLIYAI, DIMITRIOS
+                       STEFANIDIS, LAUREN WISER, VAHID ZIA
+ Título:               Formulação de combinação de dois compostos antivirais 
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição          Data
+
+Relatório Descritivo                                        1                870170005164           25/01/17
+Relatório Descritivo                                    2 a 58               870160005592           22/02/16
+Quadro Reivindicatório                                   1a4                 870190125142           28/11/19
+
+Desenhos                                                   ---                     ---                 ---
+Resumo                                                      1                870170005164           25/01/17
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim      Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim      Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                                     x
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                          BR112016003644-1
+
+
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                    x
+Comentários/Justificativas
+
+
+
+         Quanto a suficiência descritiva da composição farmacêutica contendo o composto I
+(velpateasvir) substancialmente amorfo e sofosbuvir substancialmente cristalino, o relatório
+descritivo (página 14) informa que exemplos de preparação de formas cristalinas de sofosbuvir
+são divulgados nas Pub. de Pat. U.S. Nos.: 2010/0298257 e 2011/0251152, ambas incorporadas
+por referência no relatório. Ressalta-se que a US2011/0251152 tem como correspondente o
+BR1012781-0, o qual teve o seu indeferimento notificado na RPI 2467, de 17/04/18, haja vista não
+ser possível aferir a novidade do sofosbuvir cristalino, tampouco a suficiência descritiva do
+mesmo. Logo, uma vez que o sofosbuvir cristalino não está suficientemente descrito, a
+combinação contendo o mesmo e um outro princípio ativo está comprometida.
+O quadro reivindicatório apresenta termos e ou expressões que acarretam indefinição à matéria
+objeto de proteção, como por exemplo, revestimento de película, o que contraria o disposto no
+art. 25 da LPI.
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                                 Documento                           Data de publicação
+    D1                                WO2012068234                               24/05/12
+    D2                                 US2011251152                              13/10/11
+    D3                                WO2013075029                               23/05/13
+    D4                                WO2010017432                               11/02/10
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento            Reivindicações
+                                                       Sim                   1 a 11
+            Aplicação Industrial
+                                                       Não
+                                                       Sim
+                  Novidade
+                                                       Não                   1 a 11
+
+                                                       Sim
+            Atividade Inventiva
+                                                       Não                   1 a 11
+Comentários/Justificativas
+
+
+
+         A documentação analisada neste exame constituiu-se do parecer técnico notificado na
+RPI n°2526, de 04/06/19, sob o despacho 7.1, da manifestação acerca do mesmo, apresentada
+através da petição INPI n°870190125142, de 28/11/19, no qual o Requerente apresentou
+
+
+
+                                                                                          Página 2
+                                          BR112016003644-1
+
+
+manifestação sobre o parecer e submeteu a este INPI novas páginas resumo e quadro
+reivindicatório (total de 04 reivindicações).
+
+Novidade
+
+       Com relação ao questionamento da falta de novidade da combinação reivindicada frente
+ao documento D3, a Requerente alegou que A presente invenção, como ora reivindicada, inclui
+características técnicas que não são reveladas em D3. Particularmente, D3 falha em divulgar ou
+sugerir todos os seguintes elementos requeridos pela reivindicação independente 1. Dessa
+forma, a matéria objeto de proteção do presente pedido é nova, uma vez que D3 não revela
+todos os elementos da reivindicação 1, ou seja, a invenção reivindicada não é totalmente
+antecipada pelo estado da técnica citado.
+
+       Acerca da alegação da Requerente, salienta-se que o documento D3, revela
+composições farmacêuticas que compreendem como princípios ativos: velpatasvir amorfo mais
+sofosbuvir, além de excipientes convencionais da tecnologia farmacêutica. Para que seja aferida
+novidade à composição pleiteada, necessário que os compostos I e sofosbuvir nas formas
+sólidas pleiteadas sejam comparadas com aquelas descritas em D3. Ainda que o documento de
+anterioridade D3 não especifique a forma sólida na qual se encontram o composto I e o
+sofosbuvir, não é possível afirmar que os sólidos não sejam os mesmos, a não ser que sejam
+apresentados os dados comprativos de caracterização físico-químicos. Desta forma, as
+reivindicações 1 a 10 e a interligada 11 não são novas e não atendem ao disposto nos arts. 8º e
+11 da LPI.
+
+Atividade Inventiva
+
+       No tocante ao questionamento da falta de atividade inventiva da composição do pedido el
+tela frente aos ensinamentos dos documentos D1-D4, a Requerente pontuou que:
+
+      Conforme detalhado acima (vide seção 4.1), D1 (ou D3) não revela ou sugere vários
+elementos requeridos pela reivindicação 1 do presente pedido. D1 e D3 descrevem, de forma
+geral, o Composto I. Não há ensinamento ou sugestão de combinar o Composto I em uma forma
+amorfa com sofosbuvir em forma cristalina com os excipientes, como ora reivindicado no
+presente pedido;
+
+      O documento D2 revela sofosbuvir cristalino. No entanto, não há ensinamento ou
+sugestão de combinar o sofosbuvir cristalino com um segundo inibidor de HCV e com os
+excipientes conforme reivindicado no presente pedido. D2 falha em fornecer qualquer
+ensinamento ou motivação para modificar seus ensinamentos e alcançar a composição ora
+reivindicada que compreende um segundo inibidor de HCV em uma forma amorfa.
+
+      Já o documento D4 é direcionado a dispersões sólidas de inibidores específicos de HCV.
+Os inibidores de HCV de D4 são completamente diferentes dos da combinação reivindicada.
+Portanto, a combinação de D4 com D2, ou D1 e D3, só pode ser feita a partir de uma análise em
+retrospectiva, o que é inadmissível. Um ensinamento, tal como o fornecido em D4, de que um
+inibidor de HCV pode ser formulado como uma dispersão de sólidos não significa que todo
+
+
+
+                                                                                        Página 3
+                                        BR112016003644-1
+
+
+inibidor de HCV deve ser formulado da mesma maneira. Simplesmente não há expectativa de
+sucesso e, para perceber isso, basta analisar os dois inibidores de HCV na combinação
+reivindicada. Ambos são inibidores de HCV e apenas um é formulado como uma dispersão de
+sólidos, enquanto o outro está presente na forma cristalina. Além disso, não há ensinamento ou
+sugestão para combinar um segundo inibidor de HCV na forma cristalina. D4 falha em fornecer
+qualquer sugestão ou motivação para modificar seus ensinamentos e, assim, alcançar a
+composição reivindicada no presente pedido.
+
+          No que concerne a alegação da Requerente, ressalta-se que falta de atividade inventiva
+de uma combinação do composto I com sofosbuvir cristalino deriva do fato de que ambos os
+compostos já são conhecidos do estado da técnica (D1 e D2) aliado ao fato de que documento
+D3 já antecipa comprimidos de sofosbuvir que contém os constituinte da combinação do pedido
+em tela (croscarmelose de sódio, celulose microcristalina e estearato de magnésio) e o
+documento D4 revela dispersões sólidas que compreendem o inibidor HCV na forma amorfa
+isenta de suas formas cristalinas contendo alguns dos polímeros presentes na combinação
+reivindicada. Portanto, depreende-se que combinar velpatasvir amorfo com sofosbuvir cristalino
+em uma composição sólida contendo excipientes convencionais da tecnologia farmacêutica
+decorre de maneira óbvia e evidente do estado da técnica. Portanto, considera-se que a
+reivindicação independente 1 e suas dependentes 2 a 10 e interligada 11 não apresentam
+atividade inventiva frente ao estado da técnica (D1-D4), conforme disposto no art. 13 da LPI.
+
+
+
+Dos dados apresentados pela Requerente
+
+      Sobre os dados apresentados pela Requerente (resultados inesperados das formulações
+do composto I com polímeros diferentes e resultados farmacocinéticos para granulação úmida
+versus dispersão sólida do composto I em cães) cabe ressaltar que para este Instituto a
+apresentação de resultados/testes/ensaios com o objetivo de comprovar o efeito técnico do
+objeto é permitido apenas quando o efeito técnico já está descrito na matéria inicialmente
+revelada, ainda que não de forma quantitativa (item 5.16 da Resolução nº 169 de 15/07/2016).
+Logo, os resultados apresentados na petição n°870190125142, de 28/11/19, não foram aceitos
+no exame para avaliação de atividade inventiva
+
+Conclusão
+
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -    não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+      -    não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -    não apresenta suficiência descritiva (Art. 24 da LPI)
+
+
+
+
+                                                                                          Página 4
+                                        BR112016003644-1
+
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 27 de abril de 2020.
+
+
+
+
+Jaqueline Mendes Soares
+Pesquisador/ Mat. Nº 1568553
+DIRPA / CGPAT I/DIFAR-II
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                        Página 5
+

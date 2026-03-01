@@ -1,0 +1,259 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI1003746-2                 N.° de Depósito PCT:
+ Data de Depósito:                   09/07/2010
+ Prioridade Unionista:               -
+ Depositante:                        Universidade Federal de Uberlândia (BRMG) , Instituto Nacional do
+                                     Câncer - INCA (BRRJ) , Fundação de Amparo à Pesquisa do Estado
+                                     de Minas Gerais (BRMG)
+ Inventor:                           Luiz Ricardo Goulart Filho, Ana Carolina Silva Siqueiroli, Carlos Ueira
+                                     Vieira, Ana Paula Peres Freschi, Etel Rodrigues Pereira Gimba
+ Título:                             Peptídeos recombinantes miméticos e motivos proteicos ligantes a
+                                     imunoglobulinas g (igg) de pacientes com câncer de ovário e suas
+                                     aplicações 
+
+                                                              PARECER
+          A presente invenção se refere à seleção e caracterização de peptídeos recombinantes
+miméticos ligantes a IgG de pacientes com câncer de ovário.
+          Esse exame foi realizado em ambiente digital, tendo sido consideradas as seguintes
+petições:
+
+Petição                                                                 Data
+
+DEMG 014100002341                                                       09/07/10
+DEMG 014120001003                                                       11/05/12
+DEMG 014160000702                                                       28/09/16
+RJ 870180057582                                                         03/07/18
+RJ 870200162473                                                         29/12/20
+          Através da petição RJ 870200162473, de 29/12/20, a Requerente apresentou
+manifestação a respeito do parecer técnico (doravante denominado parecer técnico anterior)
+referente ao despacho 7.1 notificado na RPI nº 2596, de 06/10/2020, trazendo esclarecimentos a
+respeito da matéria, nova listagem de sequências e de quadro reivindicatório, esse composto por
+4 reivindicações.
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas Sim                                Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                  X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)   X
+
+O pedido refere-se a Sequências Biológicas                                                            X
+
+Comentários/Justificativas
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                Página 1
+                                             PI1003746-2
+
+
+       As irregularidades detectadas na listagem de sequências apontadas no parecer técnico
+anterior foram devidamente sanadas.
+
+
+
+                           Quadro 1  Páginas do pedido examinadas
+           Elemento                     Páginas                 n.o da Petição        Data
+Relatório Descritivo                     1 a 31               DEMG 014100002341      09/07/10
+Listagem de sequências em
+                                            ---                       ---              ---
+formato impresso
+Listagem de sequências*           Código de Controle           RJ 870200162473       29/12/20
+Quadro Reivindicatório                      1                  RJ 870200162473       29/12/20
+Desenhos                                  1a3                 DEMG 014100002341      09/07/10
+Resumo                                      1                 DEMG 014100002341      09/07/10
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+     78D796E36E71EAEE (Campo 1) e 74B4673532959085 (Campo 2).
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                               Sim        Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                  X
+O pedido está de acordo com disposto no art. 32 da LPI                           X
+Comentários/Justificativas
+
+       A reivindicação 1 do atual quadro reivindicatório se refere a peptídeos recombinantes que
+compreendem uma sequência selecionada dentre SEQ ID nº 1 a SEQ ID n° 86. As sequências
+SEQ ID Nº 1 a 22 e 47 a 65 foram selecionadas a partir da triagem de uma biblioteca de phage
+display de peptídeos sintéticos randômicos para a seleção de ligantes específicos de IgG
+sorológica ou tecidual de pacientes com câncer de ovário. As sequências SEQ ID Nº 23 a 44 e
+66 a 84 representam as sequências invertidas dos peptídeos identificados por phage display. Já
+a SEQ ID nº 45 refere-se à sequência de consenso entre alguns dos peptídeos isolados por
+phage display e a SEQ ID Nº 46, à sua respectiva sequência reversa. A SEQ ID Nº 85, por sua
+vez, refere-se à principal região de similaridade da proteína CA125 com alguns dos peptídeos
+identificados, sendo a SEQ ID Nº 86 a sequência reversa respectiva da SEQ ID Nº 85.
+       No parecer técnico anterior havia sido argumentado que o quadro reivindicatório então
+ofertado estaria se referindo a mais de uma invenção, não atendendo, desse modo, ao artigo 22
+da LPI. A esse respeito, a Requerente manifestou-se argumentando que na metodologia de
+phage display sequências aleatórias de DNA são introduzidas no gene que codifica a proteína
+do capsídeo do fago, gerando, dessa forma, sequências randômicas de peptídeos fundidos à
+
+
+                                                                                         Página 2
+                                           PI1003746-2
+
+
+proteína pIII do capsídeo durante a produção da partícula viral. Desse modo, os peptídeos de
+acordo com a presente invenção foram obtidos a partir de um único processo de seleção,
+empregando-se o mesmo alvo, mesmo ciclo de seleção, mesma quantidade de lavagens com a
+mesma adstringência, número de subtrações e controles. Os peptídeos identificados mostraram-
+se com especificidade a um mesmo alvo, a partir de resultados dos alinhamentos com a proteína
+CA125 (Tabelas 3, 4 e 7).
+       A Requerente enfatiza, então, que todos os peptídeos reivindicados possuem o mesmo
+alvo em comum, o que indicaria que partilham de características técnicas em comum. Observa-
+se, no entanto, que não basta que todos os peptídeos reivindicados partilhem de uma atividade
+em comum para que a unidade de invenção da matéria pleiteada possa ser reconhecida. De
+fato, os peptídeos reivindicados apresentam afinidade a um mesmo alvo e compreende-se,
+também, que tais peptídeos nem sempre alinham na mesma porção, já que a proteína natural a
+ser mimetizada é de alto peso molecular e os peptídeos em questão possuem apenas 12
+aminoácidos.
+       Contudo, como já discutido no parecer técnico anterior, para o atendimento ao artigo 22
+da LPI, as sequências SEQ ID Nºs 1 a 86 devem apresentar uma propriedade ou atividade em
+comum e compartilhar de um elemento estrutural significativo essencial à dita propriedade ou
+atividade em comum, conforme entendimento dados pelas Diretrizes de Exame de Pedidos de
+Patente  Conteúdo do Pedido de Patente, instituídas pela Resolução PR nº 124/2013. O
+subitem 3.99 das referidas Diretrizes determina que deve haver uma ou mais características
+técnicas especiais que são as mesmas ou correspondentes para todas as invenções
+reivindicadas, sendo o termo características técnicas especiais definido no item 3.100. Mais
+especificamente para o caso de compostos químicos (já que os peptídeos em questão tratam-se
+de compostos químicos), o subitem 3.126 das citadas Diretrizes estabelece a necessidade de se
+verificar entre as possibilidades de compostos químicos pleiteados a presença de uma
+propriedade ou atividade em comum entre todas as alternativas pleiteadas (o que se verifica no
+presente caso) e uma estrutura comum presente, ou seja, um elemento estrutural significativo
+compartilhado por todas as alternativas ou o fato de todas as alternativas pertencerem a uma
+classe reconhecida de compostos químicos do estado da técnica ao qual a invenção pertence (o
+que não se verifica entre todas as possibilidades de peptídeos de SEQ ID nº 1 a nº 86).
+       Ainda, as Diretrizes de Exame de Pedidos de Patente na Área de Biotecnologia,
+instituídas pela Instrução Normativa/INPI/PR nº 118/2020 também tratam da questão da
+avaliação da unidade de invenção da matéria pleiteada. O Exemplo 3 dessas Diretrizes trata da
+necessidade de se verificar tanto propriedades comuns quanto elementos estruturais
+compartilhados entre as biomoléculas reivindicadas.
+       Por conseguinte, não é viável vislumbrar um core estrutural comum a todos os peptídeos
+reivindicados. Reitera-se que o quadro reivindicatório não atende ao artigo 22 da LPI, sendo que
+42 invenções distintas foram detectadas, a saber:
+      Invenção 1: peptídeo recombinante que compreende a SEQ ID Nº 1, SEQ ID Nº 19 ou
+       suas sequências reversas (SEQ ID Nº 23 e SEQ ID Nº 41), tal como consta nas
+       reivindicações 1, 3 e 4 (parcialmente);
+
+
+                                                                                          Página 3
+                                                PI1003746-2
+
+
+            Invenções 2 a 41: o mesmo descrito na Invenção 1, para os peptídeos de SEQ ID Nºs 2 a
+             18, 20 a 22, 47 a 65 e 85 (incluindo suas respectivas sequências reversas de SEQ ID Nºs
+             24 a 40, 42 a 44, 66 a 84 e 86), tal como consta nas reivindicações 1, 3 e 4 (parcialmente);
+
+            Invenção 42: motivo proteico de antígenos sorológicos e teciduais de câncer de ovário,
+   que compreende a SEQ ID Nº 45, ou sua sequência reversa, SEQ ID Nº 46, tal como consta
+   nas reivindicações 2 (por completo), 3 e 4 (parcialmente).
+
+             Em observância ao subitem 3.115 das Diretrizes de Exame de Pedidos de Patente 
+Conteúdo do Pedido de Patente, instituídas pela Resolução PR nº 124/2013, e fluxograma do
+Apêndice I das referidas Diretrizes, o presente exame técnico foi realizado com base na
+primeira unidade de invenção reivindicada (primeira invenção acima elencada).
+
+             Por último, destaca-se que, durante as buscas para a SEQ ID Nº 1, detectou-se sua
+elevada similaridade com a SEQ ID Nº 19 (diferindo apenas pelo seu resíduo de aminoácido na
+porção C-terminal) e, por conseguinte, a SEQ ID Nº 19 e sua sequência reversa, de SEQ ID Nº
+41, foram consideradas pertencentes ao mesmo conceito inventivo da SEQ ID Nº 1 e sua
+sequência reversa.
+
+                       Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI            X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                             X
+Comentários/Justificativas
+
+             Apesar de ser sabido no estado da técnica que, em determinados casos, o peptídeo
+reverso apresenta um dobramento similar ao peptídeo original e, portanto, é também capaz de se
+ligar aos mesmos alvos do peptídeo original, essa é uma hipótese que deve ser averiguada caso a
+caso, tendo em vista que nem sempre de fato ocorre. A esse respeito, a Requerente argumentou
+citando que a experiência com peptídeos ligantes tem mostrado que o peptídeo reverso apresenta
+um dobramento similar ao peptídeo original, o que justificaria pleitear também os peptídeos
+reversos. No entanto, na falta de qualquer evidência experimental a tal respeito, mantêm-se o
+posicionamento de que toda matéria reivindicada referente à SEQ ID Nº 23 ou à SEQ ID Nº 41
+não se encontra tecnicamente suportada pelo relatório descritivo, em desacordo com o artigo 25
+da LPI.
+
+
+                                Quadro 4  Documentos citados no parecer
+
+ Código                                     Documento                               Data de publicação
+       ---       ---                                                                         ---
+
+
+       Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+        Requisito de Patenteabilidade               Cumprimento                Reivindicações*
+
+
+                                                                                                   Página 4
+                                           PI1003746-2
+
+
+                                                    Sim                 1, 3, 4 (parcialmente)
+           Aplicação Industrial
+                                                    Não                          ---
+                                                    Sim                 1, 3, 4 (parcialmente)
+                Novidade
+                                                    Não                          ---
+
+                                                    Sim                 1, 3, 4 (parcialmente)
+           Atividade Inventiva
+                                                    Não                          ---
+* Devido ao não-atendimento ao artigo 22 da LPI, apenas a matéria referente à primeira
+invenção reivindicada está sendo examinada no presente exame, conforme observações após o
+Quadro 2, acima.
+
+
+
+Comentários/Justificativas
+
+       Não foram encontrados documentos no estado da técnica antecipando ou sugerindo a
+matéria reivindicada. A matéria é dotada de novidade, atividade inventiva e aplicação industrial.
+
+
+
+Conclusão
+
+       Face ao acima exposto, reitera-se o posicionamento do parecer técnico anterior de que o
+presente pedido de patente não atende ao artigo 22 da LPI. Em observância ao subitem 3.115
+das Diretrizes de Exame de Pedidos de Patente  Conteúdo do Pedido de Patente, instituídas
+pela Resolução PR nº 124/2013, e fluxograma do Apêndice I das referidas Diretrizes, o presente
+exame foi realizado com base na primeira unidade de invenção reivindicada. Além do não-
+atendimento ao artigo 22 da LPI, a matéria não atende ao artigo 25 da LPI.
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que a matéria
+reivindicada não apresenta unidade de invenção (Art. 22 da LPI) e as reivindicações não estão
+fundamentadas no relatório descritivo (Art. 25 da LPI).
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                              Rio de Janeiro, 25 de junho de 2021.
+
+
+
+
+Flávia Riso Rocha
+Pesquisador/ Mat. Nº 1550511
+DIRPA / CGPAT II/DIMOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                           Página 5
+

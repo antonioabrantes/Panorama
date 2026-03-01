@@ -1,0 +1,201 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI1012243-5               N.° de Depósito PCT:US2010/027725
+ Data de Depósito:                   17/03/2010
+ Prioridade Unionista:               US 61/210,888 (23/03/2009); US 12/538,041 (07/08/2009)
+ Depositante:                        OL2, INC. (US)
+ Inventor:                           Stephen G. Perlman; Roger Van Der Laan; Timothy Cotter; Scott
+                                     Furman; Robert Mccool; Ian Buckley
+ Título:                             Sistema e método para compressão de vídeo multi-fluxo 
+
+                                                              PARECER
+          O presente pedido teve parecer de ciência(7.1), tendo em vista primeira conclusão
+de     ausência          de      atividade          inventiva         frente   aos   documentos       US6466248(D1),
+US20080220859(D2),US20050210515(D3), tendo como base legal os artigos 8 e 13 da LPI.
+A publicação do referido parecer sendo feita conforme RPI n. 2612 de 26 de janeiro de
+2021.
+
+        O requerente então, conforme petição 870210036314 de 22/04/2021, apresentou
+manifestação contestando o estado da tecnica, bem como apresentou novo quadro
+reivindicatorio mais restrito.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                 n.o da Petição              Data
+
+Relatório Descritivo                             1/215 a 215/215               870210036314             22/04/2021
+
+Quadro Reivindicatório                              1/10 a 10/10               870210036314             22/04/2021
+
+Desenhos                                            1/55 a 55/55                020110119480             22/11/2011
+Resumo                                                     1/1                 870210036314             22/04/2021
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                  Sim          Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                           x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                   x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                          x
+O pedido está de acordo com disposto no art. 32 da LPI                                           x
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                    Página 1
+                                               PI1012243-5
+
+
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                   US6466248                                                 15/10/2002
+    D2                   US20080220859                                             11/09/2009
+    D3                   US20050210515                                             22/09/2005
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                    1-33
+           Aplicação Industrial
+                                                        Não                    Nenhuma
+                                                         Sim                    1-33
+                 Novidade
+                                                        Não                    Nenhuma
+
+                                                         Sim                   Nenhuma
+           Atividade Inventiva
+                                                        Não                     1-33
+
+
+
+Comentários/Justificativas
+
+1. As alegações do requerente foram analisadas.
+
+
+
+2. Entende-se que apesar das restrições no quadro reivindicatorio,respeitosamente discorda-se
+do entendimento do requerente. Entende-se que tais restrições são de conhecimento de D1. A
+caracteristica manter uma latência de tal forma que o usuario não perceba atrasos na
+transmissão do sinal e objetivo da solução tecnica não solução em si. O uso de um buffer para
+manter uma latência em que o usuario não perceba um atraso na transmissão do sinal e
+conhecida do estado da tecnica, uma solução usual para o problema envolvendo latência. O
+documento D1(reivindicação 8) ensina tal solução, quando usa uma memoria não volatil cuja
+
+
+
+
+                                                                                          Página 2
+                                          PI1012243-5
+
+
+função e similar,tecnicamente falando, para evitar atrasos na transmissão de sinal, mantendo
+uma latência da mesma forma.
+
+
+
+3. Quanto aos documentos D2 e D3, são complementares a D1.
+
+
+
+4. Quanto ao novo quadro reivindicatorio, na reivindicação 1, o referido Sistema implementado
+para computador para jogos online, consiste no conjunto de aparelhos eletrônicos/elementos de
+programação que implementa as etapas do metodo computacional da reivindicação 23 e e
+antecipado por D1(Figuras 1 e 2),D2(Figura 2) e D3(Figuras 2 a 4).
+
+
+
+5. Quanto a reivindicação 23 o referido metodo implementado para computador para jogos
+online e mostrado por D1(reivindicação 8) ,em que e antecipado: receber entradas de usuário
+relacionadas a um vídeo game online ou aplicativo a partir de um dispositivo do cliente e
+executar responsivamente o código de programa do vídeo game ou do aplicativo para renderizar
+uma sequência de imagens de vídeo,conforme D2(coluna 4); comprimir a sequência de imagens
+de vídeo e gerar um fluxo de vídeo de baixa latência durante uma sessão de jogo ou de
+aplicativo ao vivo com um usuário do dispositivo do cliente,conforme D1(colunas 2 e 3); receber
+sinais de retorno de canal do dispositivo do cliente pela Internet e responsivamente adaptar a
+compressão da sequência de imagens de vídeo baseadas nos sinais de retorno do canal,
+transmitir continuamente o fluxo de vídeo de baixa latência para o dispositivo do cliente durante
+a sessão de jogo ou de aplicativo ao vivo com o usuário,conforme D1(colunas 2 e 3); o
+dispositivo do cliente recebe o fluxo de vídeo ao vivo pela Internet e renderiza a sequência de
+imagens de vídeo conforme o usuário joga o vídeo game ou usa o aplicativo, em que as
+imagens de vídeo são comprimidas e transmitidas em resposta à entrada do usuário com uma
+latência tal que o usuário tenha a percepção de que o vídeo game ou aplicativo está
+respondendo instantaneamente à entrada do usuário,D1(colunas 2 e 3),D3(paragrafo16) e
+relatório descritivo(paragrafo 28); comprimir a sequência de imagens de vídeo em uma
+qualidade de vídeo especificada/ou taxa de compressão não relacionada ao sinal de retorno do
+canal durante a sessão de jogo ao vivo com o usuário, gerando desse modo, um fluxo de vídeo
+de alta qualidade HQ o fluxo de vídeo de HQ que tem uma qualidade de vídeo relativamente
+mais elevada e/ou menor taxa de compressão do que o fluxo de vídeo de baixa
+latência,conforme D1(colunas 2 e 3); armazenar o fluxo de vídeo de HQ em um dispositivo de
+armazenamento para a reprodução subsequente para o usuário do dispositivo do cliente e para
+outros usuários sob pedido,conforme D1(reivindicação 8) e D2(abstract); o dispositivo de
+armazenamento compreende um buffer de atraso para armazenar temporariamente o fluxo de
+vídeo HQ antes da transmissão para um ou mais usuários,conforme D1(reivindicação 8). Desta
+forma a materia contida na reivindicação 23 esta antecipada pelo estado da tecnica não
+apresentando atividade inventiva.
+
+
+
+
+                                                                                         Página 3
+                                          PI1012243-5
+
+
+
+
+6. Quanto as reivindicações dependentes, consistem de meros detalhamentos que não
+apresentam atividade inventiva.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                               Rio de Janeiro, 6 de maio de 2021.
+
+
+
+
+Ronaldo de Oliveira
+Pesquisador/ Mat. Nº 1546951
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+004/15
+
+
+
+
+                                                                                         Página 4
+

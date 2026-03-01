@@ -1,0 +1,230 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112015012218-3            N.° de Depósito PCT:FR2013/052845
+ Data de Depósito:                   25/11/2013
+ Prioridade Unionista:               FR 12 61397 (29/11/2012)
+ Depositante:                        ELECTRICITE DE FRANCE (FR)
+ Inventor:                           PHILIPPE STEVENS; GWENAËLLE TOUSSAINT
+ Título:                             Método para armazenar e liberar energia elétrica com um uso de uma
+                                     bateria de ar-metal e bateria de ar-metal 
+
+                                                                PARECER
+          Em 18/11/2021, através da petição eletrônica 870210106342, a requerente apresentou
+tempestivamente sua manifestação em resposta ao parecer de ciência emitido, notificado na RPI
+2642 de 24/08/2021, com modificações no pedido incluindo novo quadro reivindicatório com 9
+reivindicações, novas vias do relatório descritivo e do resumo.
+          Estas modificações estão consideradas no Quadro 1, sendo o reexame conduzido com
+base nestas e no conteúdo da manifestação.
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-14               870210106342           18/11/2021
+Quadro Reivindicatório                                     1-3               870210106342           18/11/2021
+Desenhos                                                    1                860150138842           02/07/2015
+Resumo                                                      1                870210106342           18/11/2021
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR112015012218-3
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+Comentários/Justificativas
+
+         Em sua manifestação, a requerente apresentou novas páginas do Relatório Descritivo, do
+Quadro Reivindicatório e do Resumo em anexo aos esclarecimentos em defesa da
+patenteabilidade da matéria pleiteada. Analisando as novas vias apresentadas, é constatado que
+as objeções levantadas no parecer técnico notificado na RPI 2642, de 24/08/2021, foram
+integralmente superadas com a reformulação do quadro reivindicatório. O Quadro Reivindicatório
+apresentado por meio da petição 870210106342 de 18/11/2021, encontra-se adaptado às
+normativas do INPI vigentes (Instruções Normativas nº 030/2013 e 031/2013) e, portanto, atende
+ao disposto no artigo 25 da LPI.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1       WO2012156639                                                          22/11/2012
+   D1T       US20140191727                                                         10/07/2014
+    D2       US2012249080                                                          04/10/2012
+    D3       US2011133699                                                          09/06/2011
+    D4       US3660170                                                             02/05/1972
+    D5       US2011/0199055                                                        18/08/2011
+O documento D1 é considerado relevante. Para facilitar a discussão técnica, o documento
+equivalente D1T foi utilizado como referência ao longo deste parecer.
+O novo documento D5, considerado impeditivo à patenteabilidade do pedido, foi citado tendo em
+vista a adequação à legislação nacional, nos termos do artigo 5º parágrafo segundo da Resolução
+Nº 241/2019, item 5.2.15.1 do procedimento P029, da Norma de Execução SEI Nº 7/2019, não
+sendo decorrentes de nova busca.
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                     1-9
+            Aplicação Industrial
+                                                        Não
+                                                         Sim                     1-9
+                 Novidade
+                                                        Não
+                                                         Sim
+            Atividade Inventiva
+                                                        Não                      1-9
+
+
+                                                                                          Página 2
+                                       BR112015012218-3
+
+
+Comentários/Justificativas
+
+       Resumidamente, a requerente apresenta as seguintes argumentações na manifestação
+em resposta ao parecer anterior:
+
+- D1 refere-se a um acumulador recarregável de metal-ar que compreende um eletrodo de ar,
+um eletrodo de liberação de oxigênio e um dispositivo automático para proteger o eletrodo de ar
+do acumulador, que mede a tensão entre o segundo terminal e o primeiro, sendo a tensão a
+diferença de potencial entre dois eletrodos ativamente conectados aos terminais durante a fase
+de carga ou descarga escolhida, isto é, D1 mede a tensão/ diferença de potencial entre eletrodo
+negativo e segundo eletrodo positivo, conectados aos terminais durante a fase de recarga;
+
+- D1 não menciona ou sugere medir o potencial do eletrodo negativo durante a fase de recarga,
+ou seja, medir uma diferença de potencial entre eletrodo negativo conectado ao terminal e um
+eletrodo inativo durante a fase de recarga (desconectado do terminal positivo), ou seja, o
+primeiro eletrodo positivo desconectado;
+
+- presente pedido reflete com mais precisão o potencial do terminal negativo instantaneamente
+durante a fase de recarga, medindo o potencial e não a tensão do eletrodo negativo em relação
+ao primeiro eletrodo de ar positivo que está desconectado do terminal positivo e, portanto, atua
+como um eletrodo de referência; D1 não revela nem sugere o controle do potencial do eletrodo
+negativo durante a fase de recarga;
+
+- D1 controla a tensão no início da fase de descarga; presente pedido diferencia-se pois controla
+o potencial do eletrodo negativo durante a fase de (re)carga e o mantém em um valor absoluto
+não acima de um valor definido, a fim de limitar a formação de depósitos de zinco na forma de
+espuma ou dendritos no eletrodo negativo, pois o problema da precipitação do zinco no eletrodo
+negativo só ocorre durante a fase de carregamento, quando o metal se redeposita no eletrodo
+negativo;
+
+- D2 não revela nem sugere medir o potencial do eletrodo negativo durante a fase de recarga,
+em relação ao eletrodo de ar positivo inativo usado como um eletrodo de referência; D2 assim
+como D1 apenas menciona a medição de tensões medindo uma diferença de potenciais de dois
+eletrodos ativos;
+
+- a partir de D1 ou D2, um técnico no assunto teria monitorado a tensão, isto é, a diferença de
+potenciais, entre o eletrodo negativo e o segundo eletrodo positivo, que é o único eletrodo
+conectado ao terminal da bateria durante a fase de recarga, e não teria razão para considerar
+controlar o potencial do eletrodo negativo medido em relação ao primeiro eletrodo de ar positivo
+que está desconectado do terminal positivo;
+
+- D5 não revela ou sugere medir o potencial do eletrodo negativo durante a fase de recarga, em
+relação ao eletrodo de ar positivo inativo usado como um eletrodo de referência; D5, assim como
+D1 e D2, menciona medir uma tensão, isto é, medir uma diferença de potenciais de dois
+eletrodos ativos, ou uma corrente.
+
+       As argumentações da requerente não foram consideradas pertinentes.
+
+
+                                                                                         Página 3
+                                         BR112015012218-3
+
+
+        A requerente argumenta que presente pedido diferencia-se do estado da técnica pois
+mede um potencial e não uma diferença de potencial. Contudo, a medição realizada entre
+eletrodos em que um deles está desconectado ou inativo, necessariamente implica na medição
+de um potencial contra um eletrodo de referência, visto que não há diferença de potencial no
+circuito.
+
+        Como apontado no parecer anterior, D1 revela (Vc) como a tensão de circuito aberto no
+estado carregado determinada com apenas eletrodo de ar conectado, sendo um potencial de
+referência fornecido por uma fonte de tensão estabilizada, alimentada pela bateria ou por uma
+bateria externa [parágrafo 0038]. Presente pedido e D1 diferenciam-se pelo referencial utilizado
+pois D1 utiliza potencial de circuito aberto medido com apenas eletrodo de ar conectado para
+determinar (Vc) que é utilizada como tensão de controle, e presente pedido utiliza o potencial
+entre eletrodo negativo e eletrodo de referência, isto é, eletrodo de ar inativo, como tensão de
+controle.
+
+        Também foi apontado no parecer anterior que D2 revela sistema de bateria de ar
+controlado pelo método de três eletrodos que usa um eletrodo de referência, tal que potencial
+pode ser controlado pela determinação de controle de valor absoluto de potencial de eletrodo de
+ar usando um eletrodo de referência [parágrafo 0050]. Como em D1, o que muda em relação ao
+presente pedido é o eletrodo referencial de medição.
+
+        Como comentado no parecer anterior, D3 revela monitoramento de ocorrências durante o
+carregamento de uma bateria metal-ar, com objetivo de reduzir a degradação da mesma
+[parágrafos 0011, 0012, 0067].
+
+        Assim, a partir de D1 a D3, já é conhecido do estado da técnica uma bateria de ar-metal
+compreendendo terminais negativo e positivo, eletrodo negativo, eletrodo de ar positivo e
+eletrodo de evolução de oxigênio positivo, em que o controle de carga e descarga, buscando
+diminuir a degradação da bateria, é realizado com base no método de três eletrodos, com
+medição de potencial absoluto, durante a fase de (re)carga. As diferenças existentes entre o
+presente pedido e o estado da técnica podem ser consideradas uma seleção óbvia, um
+procedimento normal de projeto, visto que objetivo e finalidades do presente pedido são
+conhecidos do estado da técnica, e não se observa qualquer efeito técnico inesperado no
+presente pedido.
+
+
+
+Conclusão
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+       -    não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                                           Página 4
+                                BR112015012218-3
+
+
+
+
+                                                     Publique-se o indeferimento (9.2).
+
+
+
+                                              Rio de Janeiro, 13 de dezembro de 2021.
+
+
+
+
+Tatielli Goncalves Gregorio Barbosa
+Pesquisador/ Mat. Nº 2391048
+DIRPA / CGPAT I/DINOR
+Deleg. Comp. - Port. INPI/DIRPA Nº
+020/18
+
+
+
+
+                                                                              Página 5
+

@@ -1,0 +1,124 @@
+N.° do Pedido: BR102012013942-1 
+Data de Depósito: 11/06/2012 
+Depositante: Universidade Estadual de Campinas - UNICAMP (BR/SP), REDE 
+NACIONAL DE ENSINO E PESQUISA - RNP (BR/RJ) 
+Inventor: YUZO IANO, RANGEL ARTHUR, DIOGO GARA CAETANO, 
+VICENTE IDALBERTO BECERRA SABIÓN. 
+Título: “Método e ferramenta para coleta de sinais, estatística de acesso, 
+auxílio à predição de cobertura de sinal digital terrestre e diagnóstico para 
+instalações de TV digital” 
+RESPOSTA AO PARECER TÉCNICO DE RECURSO AO INDEFERIMENTO, 
+DE ACORDO COM PUBLICAÇÃO NA RPI Nº 2632, DE 15.06.21, SOB 
+CÓDIGO 9.2 
+Primeiramente, a Requerente esclarece que a presente invenção se 
+refere a um método que possibilita a coleta de dados de sinais e detecção de 
+erros no processo de decodificação em tempo real em receptores de TV Digital, 
+informando à estação transmissora o impacto instantâneo de modificações em 
+parâmetros de transmissão, enfatiza-se que a tecnologia é fruto de uma 
+parceria entre a Unicamp e a RNP (Rede Nacional de Ensino e Pesquisa), no 
+qual a Unicamp participou de edital público e foi vencedora, onde foi 
+considerado o alto grau inovativo da proposta diante das demais propostas 
+concorrentes. 
+Em decorrência do parecer exarado vimos por meio deste apresentar 
+resposta à ciência do dito parecer, na qual conforme entendimento do Ilmo. 
+Examinador o presente pedido não atende ao requisito de atividade inventiva 
+(Art. 8º combinado com Art. 13 da LPI) baseado na combinação dos 
+ensinamentos contidos nas anterioridades D1 a D5.  
+A busca pela combinação mais adequada e definição das etapas do 
+método exigiram extensa experimentação, avaliação e validação. 
+Respeitosamente, a Requerente discorda que seja óbvio para um técnico 
+1/4 
+Petição 870210072284, de 09/08/2021, pág. 3/15
+chegar sem esforço e atividade inventiva ao método descrito no presente 
+pedido, visto que levou-se mais de 1 ano para se realizar a modificação do 
+hardware em condições de baixo custo para leitura em tempo real e otimizar o 
+canal de retorno seguindo a recomendação ITU-T H.761. Sabemos que essa é 
+uma análise muito subjetiva, mas enfatizamos a dificuldade no 
+desenvolvimento de ferramentas desse tipo, cujo objetivo é a inclusão 
+principalmente para regiões mais afastadas do país, com os recursos 
+computacionais da época. 
+Conforme abordado pelo Ilmo. Examinador, em relação ao documento 
+D1 “Não há nas reivindicações quaisquer características técnicas referentes à 
+“calibração de redes de frequência única em processos de refinamento de 
+cobertura e em processos de expansão de cobertura”. A função de “coleta de 
+dados nada mais é que a leitura de parâmetros do receptor (dados) em formato 
+texto, característica essa revelada pelo documento D1.” Em relação à D2 “Não 
+há nas citadas reivindicações quaisquer características técnicas que 
+condicionem a aplicação dos objetos de proteção à TV Digital terrestre.” E em 
+relação ao documento D5 “Ao contrário do argumentado pela requerente, não 
+há qualquer menção no presente pedido aos protocolos definidos pelo padrão 
+do SBTVD.” 
+É notório que as alterações que fizemos nas reivindicações, em relação 
+a sua proposta inicial e a partir da primeira contestação que nos chegou, para 
+demonstrar que os métodos combinados argumentados pelo Ilmo. Examinador 
+como conflitantes de fato não permitem a reprodução do presente método. 
+Porém, agora o analista argumenta que as partes das reivindicações que foram 
+restringidas não têm representatividade no invento. 
+No Relatório descritivo inicialmente depositado, página 14/17 linha 2, a 
+Requerente destaca que os dados são disponibilizados em diversos tipos de 
+interfaces que incluem páginas web e Ginga; a interface permite ainda controle 
+das taxas de aquisição e essas informações de mudança são enviadas aos set
+top boxes. Ainda na página 12/17 linha 5, a Requerente esclarece que a partir 
+das medidas obtidas pela ferramenta desenvolvida, obtém-se resposta em 
+2/4 
+Petição 870210072284, de 09/08/2021, pág. 4/15
+tempo real de modificações em antenas, troca de painéis, tilt elétrico, tilt 
+mecânico, variações de potência. 
+Assim, questiona-se onde e de que forma que esse controle pode ser 
+estabelecido a partir de D1.  Onde em D1 estão as interfaces fundamentais do 
+middleware Ginga, que correspondem às atuais normas internacionais ITU-T 
+H.761 e ITU-R BT.2075, e são adotadas no Sistema Brasileiro de TV Digital 
+(SBTVD).  
+Em que momento em D1 aparece informações de controle para 
+configuração de antenas e parâmetros de polarização de antenas? Notem que 
+não são parâmetros de TV a cabo e o documento D1 é insuficiente para uma 
+extensão nessa magnitude sugerida pelo Ilmo. Examinador. 
+Em relação ao documento D3, enfatiza-se que “perda de pacotes” não é 
+uma medida de qualidade em TV Digital aberta. É importante sim que a 
+camada em questão fosse especificada no documento D3 para entendermos 
+no que o Ilmo. Examinador se prendeu para fazer tal contestação.  
+Em relação ao documento D4, o Examinador afirma que “É óbvio para 
+um técnico no assunto usar os conhecimentos apresentados em D4 para 
+realizar a comunicação entre o STB e o Headend.”. Como já mencionado, a 
+Requerente discorda do Ilmo. Examinador principalmente porque levamos mais 
+de 1 ano para otimizar o canal de retorno seguindo a recomendação ITU-T 
+H.761 e realizar a modificação do hardware em condições de baixo custo para 
+leitura em tempo real.  
+Adicionalmente, considerando que a presente invenção alcançou 
+sucesso comercial tendo em vista que está, desde 19/06/2017, licenciada para 
+a empresa KASCO PESQUISA E DESENVOLVIMENTO TECNOLOGIA LTDA., 
+com vigência até 19/06/2037, conforme publicação no Diário Oficial de São 
+Paulo – DOESP apresentado nesta manifestação, sendo que o referido 
+sucesso está diretamente relacionado com as características técnicas da 
+invenção, consequentemente, o pedido de patente em questão apresenta 
+atividade inventiva, conforme previsto no item 5.59 da Resolução nº 169, de 
+15/07/2016, que institui as Diretrizes de Exame de Pedidos de Patente - Bloco 
+II - Patenteabilidade. Informamos, ainda, que essa parceria é de extrema 
+3/4 
+Petição 870210072284, de 09/08/2021, pág. 5/15
+utilidade para configuração de redes de transmissão de TV Digital aberta no 
+Brasil. Grandes players como Globo e Record têm utilizado o produto gerado 
+pela tecnologia. Com essa ferramenta (o set-top box adaptado) é possível, com 
+poucos recursos financeiros, otimizar a distribuição de sinal com a correta 
+configuração de transmissores e repetidores em uma determinada área de 
+serviço. Do que é de nosso conhecimento e também das muitas emissoras que 
+temos contato, não existe nenhuma ferramenta comercial que concorre a esta 
+tecnologia. 
+Enfatiza-se que a ferramenta, que o Examinador está contestando a 
+definição por diversas vezes, é o próprio set-top box modificado e adaptado 
+para permitir as funcionalidades aqui enfatizadas, conforme suportado no 
+Relatório descritivo página 13/17 linha 25, [..] uma STB adaptado (denominado 
+Ferramenta). Consideramos que essa definição está clara, atendendo, portanto 
+o Art. 25 da LPI. 
+A Requerente apresenta nova versão do Quadro Reivindicatório, 
+especificando a ferramenta conforme suportado no relatório descritivo, a fim de 
+atender as objeções levantadas pelo Ilmo. Examinador.  
+A Requerente, muito respeitosamente, acredita que tenha esclarecido 
+todos os pontos citados no parecer técnico do Ilmo. Examinador e, diante do 
+exposto, requer e aguarda a continuação do exame do presente pedido 
+advindo seu deferimento e, consequente, concessão da Carta Patente. 
+Termos em que pede deferimento. 
+Elisama Campelo Santos 
+Analista de Propriedade Intelectual 
+Agência de Inovação Inova Unicamp 
+Matrícula 200477

@@ -1,0 +1,261 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102022003299-8        N.° de Depósito PCT:
+ Data de Depósito:                   22/02/2022
+ Prioridade Unionista:               -
+ Depositante:                        WERNER ERWIN WAGNER (BRRS)
+ Inventor:                           WERNER ERWIN WAGNER
+ Título:                             Sistema, método e equipamento para pré-cozimento de grãos a
+                                     vácuo
+
+                                                                PARECER
+          Em 16/02/2023, através da petição nº. 870230013898, a Requerente
+apresentou modificações no pedido, conforme consideradas no Quadro I, em
+resposta ao parecer emitido, notificado na RPI 2709 de 06/12/2022. Estas
+modificações estão consideradas no Quadro I.
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-13               870230013898           16/02/2023
+Quadro Reivindicatório                                     1-4               870230013898           16/02/2023
+Desenhos                                                    1                870220015432           22/02/2022
+Resumo                                                      1                870230013898           16/02/2023
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                          BR102022003299-8
+
+
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                      x
+Comentários/Justificativas
+
+         Por meio da petição n°. 870230013898 de 16/02/2023, a Requerente cumpriu
+parcialmente as exigências relacionadas ao artigo 25 formuladas em parecer técnico anterior. Os
+detalhes que orientam a presente decisão são encontrados pela leitura dos itens a seguir:
+
+
+
+        As objeções relacionadas ao Art. 25 da LPI sobre as reivindicações 3, 4, 5 e 10 foram
+         revistas e, neste exame, foi acatada a justificativa de que o item 3.52 da Resolução nº. 124
+         de 04/12/2013 possa ser aplicado ao caso em tela. Relativo às reivindicações 3 e 4, a
+         presente reconsideração baseou-se no fato de que, pela leitura da tabela das páginas 9 e
+         10 do Relatório Descritivo, pode-se verificar o resultado direta e positivamente por testes
+         ou procedimentos adequadamente especificados no relatório descritivo, ou conhecidos por
+         um técnico no assunto, e que não requeiram experimentação indevida tal como prevê o
+         item 3.52 da supracitada Resolução. Relativo à reivindicação 5, a presente reconsideração
+         baseou-se no fato de que a configuração específica de processamento de uma central de
+         controle (12) não gera falta de clareza e precisão ao sistema para pré-cozimento em pleito,
+         haja vista que especifica o modus operandi da dita central de controle e é plenamente
+         conhecido por um técnico no assunto tal como prevê a Resolução nº. 124 de 04/12/2013
+         em seu item 3.52. Relativo à reivindicação 10, a presente reconsideração baseou-se no
+         fato de que o óbice exarado em parecer técnico anterior pode ser revisto tendo por base,
+         concomitantemente, as reconsiderações feitas para as reivindicações 3 ou 4 e 5, ou seja,
+         engloba (i) resultados direta e positivamente obtidos por testes ou procedimentos
+         adequadamente especificados no relatório descritivo, ou conhecidos por um técnico no
+         assunto, e que não requeiram experimentação indevida e (ii) conhecidos por um técnico
+         no assunto tal como prevê a referida Resolução em seu item 3.52. Assim sendo, reviso os
+         óbices previamente exarados e retiro a aplicabilidade dos mesmos neste segundo exame.
+
+
+        O óbice exarado em parecer técnico anterior quanto a interligação entre as reivindicações
+         7 e qualquer uma das reivindicações 1 a 6 de categorias distintas foi mantido, haja vista
+         que entende-se que a reivindicação 7 é especialmente adaptada ao sistema descrito nas
+         reivindicações 1 a 6. Assim sendo, de modo a atender ao disposto no Art. 25 da LPI e na
+         Instrução Normativa nº 30/2013  Art. 5º (III), a Requerente deveria ter inserido a devida
+         interligação apontada ou, então, apresentado justificativas plausíveis para que tal
+         interligação não fosse implementada. Assim sendo, repiso que o novo quadro
+         reivindicatório não está de acordo com o disposto no Art. 25 da LPI.
+                          Quadro 4  Documentos citados no parecer
+
+ Código                                 Documento                               Data de publicação
+    D1                                 WO03037106                                   08/05/2003
+
+
+
+
+                                                                                            Página 2
+                                       BR102022003299-8
+
+
+     Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+      Requisito de Patenteabilidade             Cumprimento             Reivindicações
+                                                    Sim                        1-9
+           Aplicação Industrial
+                                                   Não                         ---
+                                                    Sim                        1-9
+                Novidade
+                                                   Não                         ---
+                                                    Sim                        ---
+           Atividade Inventiva
+                                                   Não                         1-9
+Comentários/Justificativas
+
+       Em prosseguimento ao exame deste pedido, após reanalisar os ensinamentos propostos
+em D1, analisar técnica e legalmente o novo quadro reivindicatório apresentado pela Requerente,
+refletir sobre as argumentações técnicas apresentadas pela Requerente em sua manifestação e
+revestir-me das capacidades intelectuais inerentes a um técnico no assunto, reitero a pertinência
+do referido documento e ratifico-o como o mais próximo da matéria reivindicada.
+
+        Relativo ao cumprimento dos requisitos de patenteabilidade avaliado, à luz de um técnico
+no assunto, e revelado no parecer emitido e notificado na RPI 2709 de 06/12/2022 e considerando
+que as novas vias do quadro reivindicatório, apresentadas pela Requerente, foram aceitas e
+utilizadas neste exame por estarem de acordo com a matéria inicialmente revelada, infiro que a
+modificação realizada na atual reivindicação independente 1, qual seja A nova reivindicação 1 foi
+emendada com o conteúdo das antigas reivindicações 2 e 5 não supera a objeção exarada
+quanto ao requisito de atividade inventiva. Na sequência, transcrevo o conteúdo das objeções
+apontadas em parecer técnico anterior acerca da matéria contida nas Reivindicações 2 e 5, veja:
+
+         Na reivindicação dependente 2 não foram identificadas características
+         adicionais ou detalhamentos que, mesmo quando combinadas com as
+         características da reivindicação a que se refere, atendam ao requisito de
+         atividade inventiva, haja vista que tratam de meras escolhas de materiais de
+         acordo com a conveniência e/ou a necessidade ordinária de um versado na
+         técnica
+
+e,
+
+          Na reivindicação dependente 5 não foram identificadas características
+          adicionais ou detalhamentos que, mesmo quando combinadas com as
+          características da reivindicação a que se refere, atendam ao requisito de
+          atividade inventiva, haja vista que tratam de um procedimento associado a
+          um processo de análise comum à técnica, o qual é suficientemente capaz
+          de ser implementado de acordo com a conveniência e/ou a necessidade
+          ordinária de um versado na técnica.
+
+
+
+
+                                                                                         Página 3
+                                        BR102022003299-8
+
+
+        Observa-se que a escolha de um conjunto de tubulação confeccionado em liga metálica,
+tendo que a dita liga é o aço inoxidável, não pode ser entendida como um passo inventivo à
+técnica, haja vista que a própria Requerente assume que a citada escolha foi baseada no fato de
+que o aço carbono, usual no campo técnico em tela, torna-se mais poroso quando em contato
+com o oxigênio, favorecendo a corrosão e/ou o acúmulo de microrganismos em sua estrutura,
+veja:
+
+          Propõe-se ainda que (iii) tubulação é confeccionada em uma liga metálica,
+          o que também é extremamente vantajoso e inexistente no estado da
+          técnica. Isso porque as soluções conhecidas apresentam tubos e paredes
+          confeccionados usualmente em aço carbono. (Parágrafo 2 da página 10
+          dos Esclarecimentos apresentados)
+
+e,
+
+          Com o emprego deste material os grãos ocasionalmente entram nesta
+          tubulação e ficam ali encrustados, de modo a absorver restos, água, vapor
+          até se decomporem e fermentarem, o que gera corrosão e entupimento dos
+          tubos. (Parágrafo 3 da página 10 dos Esclarecimentos apresentados)
+
+        Resta incontroverso que a escolha visa contornar um problema técnico através de uma
+mera escolha de um material mais conveniente (vantajoso) e adequado ao uso almejado.
+
+        Tem-se, também, que as características da reivindicação 5 são fundamental e
+essencialmente conhecidas por um versado na técnica, à época da invenção, sendo assim, a
+mera inserção das características da reivindicação 5 na reivindicação 1 não é capaz de gerar um
+passo inventivo na técnica associada.
+
+        Assim sendo, concluo que a reivindicação independente 1 não frui do requisito atividade
+inventiva, pois decorre de maneira óbvia para um técnico no assunto a partir do documento D1.
+
+        Relativo à análise dos requisitos de patenteabilidade das atuais reivindicações 2 a 9, as
+quais possuem correspondência numérica direta às reivindicações do Quadro Reivindicatório
+anterior, repiso as objeções exarada anteriormente, tendo, apenas, implementado as devidas
+correções numéricas. São elas:
+
+        A reivindicação dependente 2 (antiga reivindicação 3) não atende ao requisito atividade
+inventiva, pois decorre de maneira evidente ou óbvia para um técnico no assunto a partir do
+documento D1, ao passo que o referido documento descreve um processo equivalente de
+eliminação de micotoxinas nas páginas 9 a 12.
+
+        Na reivindicação dependente 3 (antiga reivindicação 4) não foram identificadas
+características adicionais ou detalhamentos que, mesmo quando combinadas com as
+características da reivindicação a que se refere, atendam ao requisito de atividade inventiva, haja
+vista que tratam de uma mera adequação pertencente ao processo de eliminação de
+micotoxinas nos grãos, a qual é suficientemente capaz de ser implementada de acordo com a
+conveniência e/ou a necessidade ordinária de um versado na técnica.
+
+
+                                                                                          Página 4
+                                           BR102022003299-8
+
+
+       Na reivindicação dependente 4 (antiga reivindicação 6) não foram identificadas
+características adicionais ou detalhamentos que, mesmo quando combinadas com as
+características da reivindicação a que se refere, atendam ao requisito de atividade inventiva.
+
+       Relativo à análise do cumprimento dos requisitos de patenteabilidade da reivindicação
+independente 5 (antiga reivindicação 7), tendo em vista que o processo de pré-cozimento de
+grãos em pleito é essencial e tecnicamente associado ao sistema de pré-cozimento em pleito em
+qualquer uma das reivindicações 1 a 4 (antigas reivindicações 1 a 6), mutatis mutandis, infiro que
+o mesmo não frui do requisito atividade inventiva.
+
+       Nas reivindicações dependentes 6 (antiga reivindicação 8) e 7 (antiga reivindicação 9) não
+foram identificadas características adicionais ou detalhamentos que, mesmo quando combinadas
+com as características das reivindicações a que se referem, atendam ao requisito de atividade
+inventiva.
+
+       Relativo à análise do cumprimento dos requisitos de patenteabilidade da reivindicação
+independente 8 (antiga reivindicação 10), tendo em vista que o equipamento para pré-cozimento
+de grãos em pleito é essencial e tecnicamente associado ao sistema de pré-cozimento em pleito
+em qualquer uma das reivindicações 1 a 4 (antigas reivindicações 1 a 6), mutatis mutandis, infiro
+que o mesmo não frui do requisito atividade inventiva.
+
+       Na reivindicação dependente 9 (antiga reivindicação 11) não foram identificadas
+características adicionais ou detalhamentos que, mesmo quando combinadas com as
+características das reivindicações a que se refere, atendam ao requisito de atividade inventiva.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -      as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+             descritivo (Art. 25 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                   Publique-se o indeferimento (9.2).
+
+                                                                   Rio de Janeiro, 6 de abril de 2023.
+
+
+
+
+Raphael de Carvalho Ferreira
+Pesquisador/ Mat. Nº 2391254
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº 016/18
+
+
+
+
+                                                                                            Página 5
+

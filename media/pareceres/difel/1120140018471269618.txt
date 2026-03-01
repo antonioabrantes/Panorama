@@ -1,0 +1,236 @@
+                                         SERVIÇO PÚBLICO FEDERAL
+                                          MINISTÉRIO DA ECONOMIA
+                              INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.º do Pedido:                       BR112014001847-2            N.º de Depósito PCT: US2011/045371
+ Data de Depósito:                    26/07/2011
+ Prioridade Unionista:                ----
+ Depositante:                         MOOG INC (US)
+ Inventor:                            Michael H. Shriver, John W. Stevens
+ Título:                              Sistema de Motor Elétrico, Método para Acionar um Interface do Motor
+                                      Elétrico, e, Acionador para um Motor Elétrico
+                                                                      PARECER
+
+      A Requerente recebeu notificação de Ciência de Parecer (7.1) publicada na RPI 2557, de
+07/01/2020. Através da petição nº 870200042898 de 03/04/2020, a mesma apresentou
+Manifestação sobre o Parecer Técnico, novo Relatório Descritivo, novo Quadro Reivindicatório e
+novo Resumo. Para fins de continuidade do exame estão sendo consideradas as vias abaixo:
+
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas           Nº da Petição         Data
+                                                                                870190085258
+ Relatório Descritivo                                          1-32                                 30/08/2019
+                                                                                 Págs. 9 a 40
+                                                                                870200042898
+ Quadro Reivindicatório                                         1-7                                 03/04/2020
+                                                                                 Págs. 9 a 15
+                                                                                020140003207
+ Desenhos                                                       1-7                                 24/01/2014
+                                                                                Págs. 53 a 59
+                                                                                870190085258
+ Resumo                                                         1                                   30/08/2019
+                                                                                   Pág. 48
+
+
+
+                  Quadro 2 - Considerações referentes aos Artigos 10, 18, 22 e 32 da LPI
+ Artigos da LPI                                                                             Sim         Não
+ A matéria enquadra-se no Art. 10 da LPI (não se considera invenção)                                     X
+ A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                                             X
+ O pedido apresenta Unidade de Invenção (Art. 22 da LPI)                                        X
+ O pedido está de acordo com disposto no Art. 32 da LPI                                         X
+Comentários/Justificativas: ----
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                               Página 1
+                                            BR112014001847-2
+
+                 Quadro 3 - Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                            Sim                     Não
+O relatório descritivo está de acordo com disposto no Art. 24 da LPI                        X
+O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI                      X
+Comentários/Justificativas: ----
+                            Quadro 4 - Documentos citados no parecer
+ Código                                  Documento                                                Data de publicação
+    D1                                   EP2080902                                                       22/07/2009
+
+
+
+
+     Quadro 5 - Análise dos Requisitos de Patenteabilidade (Art. 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento                              Reivindicações
+                                                         Sim                                        1-27
+           Aplicação Industrial
+                                                        Não                                          ----
+                                                         Sim                                        1-27
+                 Novidade
+                                                        Não                                          ----
+                                                         Sim                                         ----
+           Atividade Inventiva
+                                                        Não                                         1-27
+Comentários/Justificativas:
+
+   Reivindicação 1: Acionador para um motor elétrico compreendendo: uma entrada da fonte de
+alimentação externa: um sensor de energia (114, 214) com uma saída e configurado para
+monitorar a entrada da fonte de alimentação externa;
+
+   um sensor de posição (115) com uma saída; um retificador de energia CA em CC (218); uma
+rede de comutação (219) com portas de comutação e configurada para converter energia CC de
+um retificador de energia (218) para uma fonte CA para um motor (111, 211,311);
+
+   uma interface do motor elétrico para conectar ao motor elétrico (111,211,311);
+
+   um controlador (122, 222) conectado às portas de comutação e configurado para monitorar a
+saída do sensor de energia e a saída do sensor de posição e configurado para operar as portas
+de comutação; e
+
+   uma interface de armazenamento de energia local (223) para suprir temporariamente energia
+de um armazenamento de energia local à rede de comutação;
+
+   caracterizado pelo fato de que o controlador é configurado para operar as portas de
+comutação de maneira que a energia recuperada seja extraída da interface do motor elétrico em
+resposta a saída do sensor de energia estando abaixo de um patamar de fonte de energia (135,
+
+
+
+                                                    Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12     Página 2
+                                         BR112014001847-2
+
+235) e a saída do sensor de posição estando dentro de um patamar de posição neutra (136, 236)
+de uma posição ou faixa neutra (134, 234), em que um objeto acionado pelo motor elétrico não
+está inclinado para mover quando em repouso na posição ou faixa neutra.
+
+    Reivindicação 5: Sistema de motor elétrico compreendendo: uma fonte de alimentação (112,
+212); um motor elétrico (111, 211, 311) conectado na fonte de alimentação (112, 212);
+
+    um objeto (116, 216, 316) acionado pelo motor (111; 211; 311) com uma faixa de movimento e
+uma posição ou faixa neutra (134, 234) na faixa de movimento, em que o objeto não é inclinado
+para mover quando em repouso na posição ou faixa neutra;
+
+    um sensor de energia (114, 214) configurado para detectar energia da fonte de alimentação
+(112, 212);
+
+    um sensor de posição (115, 215) configurado para detectar posição do objeto (116; 216; 316)
+em pelo menos uma porção da faixa de movimento:
+
+    um armazenamento de energia (123; 223);
+
+    um controlador (122, 222) conectado ao sensor de posição (115, 215), sensor de energia (114,
+214), fonte de alimentação (112, 212) e no armazenamento de energia (123, 223);
+
+    caracterizado pelo fato de que o controlador (122, 222) é configurado e arranjado para frear o
+motor (111; 211; 311) com potência do armazenamento de energia (123, 223) apenas quando a
+energia detectada pelo sensor de energia (114, 214) é menor do que um patamar da fonte de
+energia (135, 235) e de que o sensor de posição (115, 215) indica que o objeto (116; 216; 316)
+está dentro de um patamar da posição neutra (136, 236) da posição neutra (134, 234).
+
+    Reivindicação 22: Método para acionar uma interface do motor elétrico compreendendo as
+etapas de:
+
+    prover uma entrada da fonte de alimentação externa (112, 212);
+
+    prover uma entrada de sinal do sensor de posição (115); prover uma rede de comutação (119,
+219) com portas de comutação:
+
+    prover uma interface do motor elétrico para conectar a um motor elétrico (111, 211, 311);
+
+    prover um controlador (122, 222); prover uma interface de armazenamento de energia;
+caracterizado pelo fato de conectar a interface de motor elétrico a um sensor de posição (115), o
+motor elétrico (111,211, 311) e uma fonte de alimentação externa (112, 212) para o motor elétrico;
+
+    monitorar com o controlador (122, 222) a entrada de sinal do sensor de posição (115);
+
+
+
+                                                Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 3
+                                         BR112014001847-2
+
+    monitorar com o controlador (122, 222) a entrada de sinal de fonte de alimentação externa: e
+
+    operar com o controlador (122, 222) as portas do comutação para absorver energia da
+interface do motor elétrico em resposta a entrada da alimentação externa estando menor do que o
+patamar de fonte de energia (135, 235) e, a entrada de sinal do sensor de posição estando dentro
+de um patamar de posição neutra (136, 236) da posição ou faixa neutra (134, 234).
+
+    Na manifestação a Requerente alega que D1 não descreve nenhuma ação de frenagem é
+realizada especificamente em resposta à detecção da posição da lâmina do rotor em comparação
+com uma posição ou faixa neutra.
+
+    De acordo com a Requerente, o acionamento da provisão de frenagem do parágrafo descrito
+em D1 não depende de a posição da lâmina do rotor estar dentro de um limite de uma certa faixa
+ou posição, muito menos dependente de tal condição em combinação com uma potência
+detectada abaixo de um limite. De fato, o regime de frenagem de passo da pá do rotor de D1 é
+configurado para operar em uma faixa tão ampla quanto possível, a fim de cumprir o objetivo geral
+de otimizar a velocidade do passo em qualquer momento.
+
+    De acordo com a Requerente, o presente pedido de patente de invenção é direcionada a um
+arranjo à prova de falhas, por exemplo, permitindo que o motor seja travado usando uma fonte de
+energia de reserva, de modo a parar um objeto dentro de uma faixa ou posição natural. Um
+técnico no assunto não tem motivação para fornecer os recursos distintivos acima no contexto de
+D1, uma vez que D1 se preocupa apenas em otimizar a velocidade do tom em um dado momento,
+não em fornecer um arranjo à prova de falhas para melhorar a segurança no caso de falha de
+energia.
+
+    De acordo com a Requerente, acionar a frenagem apenas em resposta a um sensor de
+posição indicando que a lâmina do rotor está dentro de um limiar de posição neutra de uma faixa
+ou posição neutra seria contra intuitivo no contexto de D1, pois seria contrário ao objetivo de D1,
+ou seja, otimizar velocidade do passo em uma faixa tão grande quanto possível.
+
+    Apesar das alegações da Requerente o documento D1 descreve que no caso de um evento
+de emergência, por exemplo, a desconexão da rede, a uma turbina eólica possui um motor de
+paço com um sistema de controle de inclinação para ajustar um ângulo de inclinação da lâmina
+em que o sistema de acionamento é adaptado para transformar a energia rotacional da lâmina do
+rotor girando em tomo de seu eixo longitudinal em outra forma de energia, de modo que um
+conjugado contrário contra a direção de rotação seja induzido [Parágrafo 0005].
+
+    O documento D1 descreve ainda um método para controlar uma velocidade de inclinação de
+uma lâmina de rotor de uma turbina eólica, a turbina eólica contém um sistema de acionamento
+para ajustar um ângulo de inclinação da lâmina do rotor, o sistema de acionamento adaptado para
+
+
+                                                Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 4
+                                                  BR112014001847-2
+
+operar em um modo ativo, em que o sistema de acionamento gira a lâmina do rotor e, em um
+modo passivo, em que o sistema de acionamento exerce uma força contrária contra a direção de
+rotação, quando a lâmina do rotor é girada por outra força que não a força do sistema de
+acionamento, em que o a velocidade do passo é controlada pela operação do sistema de
+acionamento no referido modo passivo quando o passo da lâmina do rotor é alterado de uma
+primeira posição para uma segunda posição [Parágrafo 0006].
+
+    Apesar do documento D1 não revelar explicitamente que o controlador freia o motor quando a
+potência medida é menor do que um patamar de fonte de potência (isto é, ocorrência de perda de
+potência) e quando um sensor de posição indica que a pá está dentro de um patamar de posição
+neutra da posição (ou faixa) da pá; que o armazenamento de energia só pode ter energia
+suficiente para controlar temporariamente a rede de comutação; que a temporização de freio da
+turbina é feita com base em uma combinação da perda de potência e na localização da turbina
+eólica em relação a uma posição ou faixa neutra; tais características são inerentes à matéria
+pleiteada e, portanto óbvias para um técnico no assunto.
+
+Conclusão
+
+    Face ao exposto, conclui-se que a invenção ora pleiteada decorre de maneira evidente ou
+óbvia, para um técnico no assunto, a partir do estado da técnica, sendo desprovida de atividade
+inventiva, conforme Art. 13 da LPI.
+
+    Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que o mesmo não
+atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+    Rio de Janeiro, 31 de agosto de 2020.
+
+    Publique-se o indeferimento (9.2).
+
+    CAMILO BRAGA GOMES
+    Pesquisador / Mat. Nº 1547071
+    DIRPA / CGPAT III / DIFEL
+    Deleg. Comp. - Port. INPI / DIRPA Nº 022/12
+
+
+
+
+                                                        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 5
+

@@ -1,0 +1,217 @@
+                                  SERVIÇO PÚBLICO FEDERAL
+                   MINISTÉRIO DA INDÚSTRIA, COMÉRCIO EXTERIOR E SERVIÇOS
+                       INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0915348-9                N.° de Depósito PCT:FI2009/050592
+ Data de Depósito:                   30/06/2009
+ Prioridade Unionista:               FI 20085669 (30/06/2008)
+ Depositante:                        Outotec Oyj (FI)
+ Inventor:                           Saarinen, Risto, Hugg, Eero, Jafs, Mikael
+ Título:                             Método para fabricação de um elemento de resfriamento e respectivo
+                                     elemento de resfriamento 
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1  15               870170039483           09/06/2017
+Quadro Reivindicatório                                   14                 870170039483           09/06/2017
+Desenhos                                                 13                 020100121509           29/12/2010
+Resumo                                                      1                870170039483           09/06/2017
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         x
+Comentários/Justificativas
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                                        PI0915348-9
+
+
+
+
+                                  Quadro 4  Documentos citados no parecer
+
+  Código                                            Documento                   Data de publicação
+     D1                                           US2006049554                       09/03/2006
+
+     D2                                          WO2008037836                        03/04/2008
+
+     D3                                           US2003038164                       27/02/2003
+
+
+     Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade                       Cumprimento       Reivindicações
+                                                                Sim              18
+              Aplicação Industrial
+                                                                Não                ---
+                                                                Sim              18
+                      Novidade
+                                                                Não                ---
+                                                                Sim                ---
+               Atividade Inventiva
+                                                                Não              18
+Comentários/Justificativas
+Neste parecer serão utilizados os seguintes símbolos:
+LPI  Lei da Propriedade Industrial (Lei N° 9.279/96)
+QR  quadro reivindicatório
+R  reivindicação
+
+
+
+        Após notificação de despacho de ciência de parecer (7.1) publicada na RPI nº 2410 em
+14/03/2017, a requerente impetrou a petição de n° 870170039483 em 09/06/2017, onde apresenta
+novas vias do relatório descritivo, quadro reivindicatório e resumo.
+
+
+        No que concerne ao mérito da matéria pleiteada nas novas reivindicações independentes 1
+e 5, que referem-se respectivamente ao método de fabricação de um elemento de resfriamento (1)
+e ao referido elemento de resfriamento, cabem as seguintes considerações:
+
+
+        A requerente agregou as características das antigas reivindicações dependentes 3 a 5 na
+reivindicação 1 e as características das antigas reivindicações dependentes 13 a 15 na
+reivindicação 5 (antiga R11).
+
+
+        Conforme demonstrado no exame anterior, a matéria pleiteada pode ser alcançada pela
+simples combinação de itens revelados no estado da técnica, especificamente combinando-se os
+ensinamentos de D1 a uma característica presente em qualquer um dos documentos D2 ou D3, a
+saber: que as cavidades (espaços) de fixação dos refratários devem se estreitar numa direção
+
+
+
+                                                                                              Página 2
+                                             PI0915348-9
+
+
+apontada para fora da base. A inclusão da matéria pleiteada nas antigas reivindicações
+dependentes 3 a 5 não confere atividade inventiva à matéria pleiteada na nova reivindicação 1,
+conforme demonstrado abaixo.
+
+
+         R1 - Método para fabricação de um elemento de resfriamento (1) para ser usado em um
+forno metalúrgico ou dispositivo similar (vide resumo de D1), o método incluindo:
+
+         dispor um elemento estrutural (3) que é feito principalmente de cobre e provido de canais
+de água de resfriamento (2) (vide §[0012] e fig. 2 de D1);
+
+         - prover no elemento estrutural (3) elementos de fixação (4) para conexão dos tijolos
+refratários (6) ao elemento estrutural (3) (vide fig. 1 (a, b e c) de D1); e
+
+         - conectar os tijolos refratários (6) ao elemento estrutural (3) mediante uso de elementos de
+fixação (4) (vide fig. 1c de D1);
+
+         - os elementos de fixação (4) sendo, pelo menos parcialmente, constituídos de tiras de
+aço de fixação alongadas (5) (vide elemento 5 de D1); e
+
+         - as tiras de aço de fixação alongadas (5) sendo fixadas ao elemento estrutural (3), de
+modo que as tiras de aço de fixação alongadas (5) juntas formam entre as mesmas um espaço
+intermediário aberto (7) (vide elemento 2 de D1), o qual é estreitado em uma direção apontada
+para fora da base (8) do espaço intermediário aberto (7) formado por uma superfície do elemento
+estrutural (3) (vide fig. 1 de D3),
+
+         caracterizado pelo fato de fixar as tiras de aço de fixação alongadas (5) ao elemento
+estrutural (3), de modo que duas tiras de aço de fixação alongadas (5) juntas formam entre as
+mesmas um espaço intermediário aberto (7), que possui uma forma alongada e é configurada
+para receber uma pluralidade de tijolos refratários (6) (vide fig. 2 de D1);
+
+         - em que no espaço intermediário aberto (7) são dispostos os tijolos refratários (6), em
+que os tijolos refratários (6) juntos formam uma estrutura uniforme (vide fig. 2 de D1), a qual
+se localiza completamente no espaço intermediário aberto (7), onde as medidas e o formato da
+estrutura, pelo menos         parcialmente, correspondem às medidas e formato do espaço
+intermediário aberto (7) (vide fig. 1 de D3);
+
+         - fixar no elemento estrutural (3) pelo menos uma tira de aço de fixação alongada (5), cuja
+área de seção transversal se expande em uma direção apontada para fora da base (8) do espaço
+intermediário aberto (7), de modo que o espaço intermediário aberto (7) criado entre duas tiras de
+aço de fixação alongadas (5) é estreitado em uma direção apontada para fora da base (8) do
+espaço intermediário aberto (7) formado pela superfície do elemento estrutural (3) (vide fig. 1 de
+D1); e
+
+         - em que nas tiras de aço de fixação alongadas (5) são fixadas ao elemento estrutural (3)
+por meio de uma junção do tipo rabo de andorinha.
+
+
+
+
+                                                                                             Página 3
+                                            PI0915348-9
+
+
+      A última característica da nova R1 (grifada acima), é um mecanismo de fixação corriqueiro
+e amplamente utilizado (rabo de andorinha), sendo acessível a um técnico no assunto. Portanto,
+tal característica não confere atividade inventiva à matéria pleiteada.
+
+
+      Da mesma forma, a inclusão da matéria pleiteada nas antigas reivindicações dependentes
+13 a 15 não confere atividade inventiva à matéria pleiteada na nova reivindicação 5, uma vez que
+as referidas reivindicações dependentes são análogas às antigas reivindicações 3 a 5 (por
+apresentarem as mesmas características técnicas dessas).
+
+
+      Assim, decorre de maneira óbvia para um técnico no assunto a combinação das
+características ensinadas em D1 com a característica ensinada tanto em D2 como em D3 para
+chegar à matéria pleiteada.
+
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, opino pelo indeferimento do presente pedido, uma
+vez que não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Rio de Janeiro, 4 de julho de 2017.
+
+
+
+
+Rafael Vieira Camerini
+Pesquisador/ Mat. Nº 2317410
+DIRPA / CGPAT IV/DIMAT
+
+
+
+      De acordo com o parecer acima, indefiro o presente pedido como Patente de Invenção.
+
+                                                                   Publique-se o indeferimento (9.2).
+
+
+
+
+Allan Ribeiro de Souza
+Pesquisador / Mat. Nº 1549348
+DIRPA / CGPAT IV / DIMAT
+Del. de comp. - Port. INPI 003/2013
+
+
+
+
+                                                                                            Página 4
+

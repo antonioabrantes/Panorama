@@ -1,0 +1,150 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102018076081-5          N.° de Depósito PCT:
+ Data de Depósito:                   14/12/2018
+ Prioridade Unionista:               -
+ Depositante:                        DOACYR BALBINOT (BRSC)
+ Inventor:                           DOACYR BALBINOT
+ Título:                             Sistema de transformação de resíduos em gás combustível 
+
+                                                                PARECER
+
+
+            O requerente apresentou manifestação ao parecer técnico publicado na RPI 2559 de
+21/01/2020 por meio da petição 870200063600 RJ de 22/05/2020. Para fins de continuidade do
+exame estão sendo consideradas as páginas relacionadas no Quadro 1.
+
+            Por meio das petições 870200006409 RJ (14/01/2020) e 870200020949 RJ (12/02/2020),
+foram apresentados subsídios ao exame técnico, respectivamente, por Marcelo R. C. Marques e
+Vagner A. Cardoso, citando os documentos de patente BRMU8902261, BRMU9001251 e o
+parecer técnico de exame anterior, conforme despacho 7.1 (RPI 2559 de 21/01/2020).
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                n.o da Petição           Data
+
+Relatório Descritivo                                       1-4               870180163315 RJ         14/12/2018
+Quadro Reivindicatório                                     1-2               870200063600 RJ         22/05/2020
+Desenhos                                                   1-5               870180163315 RJ         14/12/2018
+Resumo                                                      1                870180163315 RJ         14/12/2018
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                 Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                       x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                         x
+O pedido está de acordo com disposto no art. 32 da LPI                                          x
+Comentários/Justificativas --
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                Página 1
+                                          BR102018076081-5
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas 
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                 WO2014201532                                24/12/2014
+
+    D2                                 BRMU9001251                                 27/11/2012
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento            Reivindicações
+                                                        Sim                      1-6
+           Aplicação Industrial
+                                                        Não                      ---
+                                                        Sim                      1-6
+                 Novidade
+                                                        Não                      ---
+                                                        Sim                      ---
+           Atividade Inventiva
+                                                        Não                      1-6
+Comentários/Justificativas
+         A matéria do presente pedido diz respeito a um sistema de transformação de resíduos
+em gás combustível, montado sobre um semirreboque, que compreende essencialmente um
+triturador (86), um forno (142) e um sistema de filtragem (154, 195) e armazenamento do gás
+combustível produzido (228, 244) para consumo próprio na câmara de combustão do forno ou
+outras formas de geração de energia.
+
+         Conforme definido na nova reivindicação independente 1, o sistema do presente pedido é
+caracterizado pelo gás ser sugado por um compressor (228) passando por um filtro ciclônico com
+acelerador (154), um agitador (195) e chegando nos reservatórios de armazenagem e
+homogeneização (244).
+
+         O requerente argumenta em sua manifestação a respeito do modelo proposto
+compreender um dispositivo de alimentação com célula de carga, para controle do material
+adicionado ao sistema, e o gás gerado ser utilizado diretamente no queimador do forno, e não
+em um gerador de energia. Sugerindo que a matéria de D1 não anteciparia totalmente a matéria
+pleiteada no novo quadro reivindicatório.
+
+
+
+
+                                                                                          Página 2
+                                       BR102018076081-5
+
+        Com relação ao documento D2, o requerente argumenta que o sistema                       de
+alimentação/trituração não compreende célula de carga para registro de material adicionado,
+o gás gerado não é reaproveitado no processo, além de no modelo proposto o gás ser
+pressurizado antes do seu tratamento, enquanto em D2 a pressurização ocorre somente após.
+
+        No entanto, pode ser observado que os sistemas revelados nos documentos D1 e D2
+prevêem a compressão do gás gerado, resfriamento e lavagem dos mesmos para
+armazenamento e consumo próprio, de forma similar ao reivindicado no presente pedido
+(conforme indicado no parecer técnico anterior).
+
+        Portanto, o pedido não atende ao requisito de atividade inventiva, pois decorre de
+maneira óbvia para um técnico no assunto a partir dos ensinamentos do documento D1 ou,
+alternativamente, do documento D2.
+
+        Cabe ressaltar que os sistemas compreendidos nos documentos D1 e D2 resolvem o
+mesmo problema técnico do presente pedido, produzindo gás combustível em unidades móveis
+por meio da gaseificação de resíduos e promovendo o tratamento e aproveitamento do gás para
+consumo próprio ou outros fins (conforme relatado em parecer técnico anterior).
+
+
+
+Conclusão
+        Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não
+atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+        De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                               Rio de Janeiro, 2 de junho de 2020.
+
+
+
+
+Denise Neves Menchero Palacio
+Pesquisador/ Mat. Nº 1742347
+DIRPA / CGPAT IV/DIMEC
+Deleg.Comp.-Port. INPI/DIRPA Nº 004/17
+
+
+
+
+                                                                                          Página 3
+

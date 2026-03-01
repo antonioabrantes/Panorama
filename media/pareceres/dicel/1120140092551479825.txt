@@ -1,0 +1,288 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112014009255-9         N.° de Depósito PCT:US2012/060729
+ Data de Depósito:                   18/10/2012
+ Prioridade Unionista:               US 61/549,320 (20/10/2011)
+ Depositante:                        MONSANTO TECHNOLOGY LLC (US)
+ Inventor:                           CHRISTOPHER A. HUNDLEY, JAMES H. CRAIN
+ Título:                             Contador de plantas 
+
+                                                                PARECER
+A Requerente apresentou modificações no pedido em resposta ao parecer emitido (despacho
+7.1). Estas modificações estão consideradas no Quadro 1.
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-26               870210084378           13/09/2021
+Quadro Reivindicatório                                     1-5               870210084378           13/09/2021
+Desenhos                                                   1-9               860140074726           19/05/2014
+Resumo                                                      1                870210084378           13/09/2021
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         x
+Comentários/Justificativas
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                         BR112014009255-9
+
+
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                                 Documento                                 Data de publicação
+    D1      US20010036295A1                                                       1/11/2001
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade               Cumprimento                 Reivindicações
+                                                       Sim                          1-6
+           Aplicação Industrial
+                                                      Não                             -
+                                                       Sim                          1-6
+                 Novidade
+                                                      Não                             -
+
+                                                       Sim                            -
+            Atividade Inventiva
+                                                      Não                           1-6
+
+
+
+Comentários/Justificativas
+A reivindicação 1 não atende ao requisito atividade inventiva, pois decorre de maneira evidente ou
+óbvia para um técnico no assunto a partir do documento D1, conforme a seguir:
+
+Método para reconhecer plantas individuais de um tipo
+selecionado crescendo em um campo, o método compreendendo:
+- D1 par. 37 ...or with crops that do not grow to great heights, a tractor with towed implement
+containing fertilizer applicators may be employed.
+- D1 par [0041] In this connection the green intensity in reference rows 12 and 13 may be
+compared to the green intensity for the remaining portion of the frame, such as indicated at box
+50 and if the entire frame's green intensity is equal to the reference intensity, clearly no further
+nitrogen must be applied to the field.
+
+fornecer, a um sistema de processamento de dados (38) de
+um sistema automatizado de contagem de plantas (10), uma localiza-
+ção geoespacial de cada fileira de uma pluralidade de fileiras (98) de
+plantas (46) de um tipo selecionado que cresce dentro de um campo
+(82);
+- D1 deixa claro que o nível de clorofila (o dito tipo selecionado do presente pedido está
+relacionado ao nível de clorofila) está relacionada ao nível da cor verde (par. 60 : A relative
+"chlorophyll" or "greenness" map is prepared)
+ D1 par. 29 com foco em allow the conversion of the green images to a gray value image
+to facilitate easy identification of nutrient deficiencies, and their locations associa níveis de verde
+com níveis de cinza.
+ D1 não faz referência clara ao software citado no par. 60 fazer contagem de plantas, mas
+com base na Fig. 2 de D1 , um técnico no assunto sem esforço inventivo adaptaria o software de
+análise para que ele fizesse a contagem das plantas das fileiras 12 e 13 (Fig. 2) as quais,
+claramente, possuem coloração diferenciada com relação às demais fileiras: D1 par [0041] In this
+
+
+                                                                                               Página 2
+                                        BR112014009255-9
+
+connection the green intensity in reference rows 12 and 13 may be compared to the green
+intensity for the remaining portion of the frame, such as indicated at box 50 and if the entire
+frame's green intensity is equal to the reference intensity, clearly no further nitrogen must be
+applied to the field.
+- Assim, a característica de contagem decorre de forma óbvia da Fig. 2 de D1, par. 35 e demais
+parágrafos citados.
+
+
+
+capturar dados de imagem colorida e dados de imagem de
+infravermelho próximo (NIR) do campo (82) inteiro possuindo plantas
+(46) do tipo selecionado crescendo no mesmo utilizando o sistema
+(10) de contagem de plantas automatizado;
+- D1 par. 39 (color camera ...near infrared)
+
+calcular um valor de razão entre cada pixel dos dados de
+imagem colorida e do pixel correspondente dos dados de imagem NIR
+utilizando um algoritmo de reconhecimento de planta executado atra-
+vés do sistema de processamento de dados (38);
+- - D1 par. 51 ( com foco em For example, as taught in the parent application, the NDVI index for
+each pixel may be calculated by Subtracting the red value from the near infra red value and
+dividing the result from the addition of the red value and the near infrared value.. )
+
+gerar, através da execução do algoritmo de reconhecimento
+de planta, de uma imagem de cor falsa (74) do campo (82) com base
+nas razões calculadas para cada pixel; e
+- D1 par. 3 (...as the current focus in remote Sensing is directed towards anomaly detection, the
+most typical image product is a false color image,...)
+
+caracterizado pelo fato de que compreende ainda:
+identificar, através da execução do algoritmo de reconheci-
+mento de planta, de uma localização geoespacial de cada planta de
+uma pluralidade de plantas (46) do tipo selecionado na imagem de cor
+falsa (74) por meio da identificação das localizações geoespaciais de
+cada planta da pluralidade de plantas (46) na imagem de cor falsa (74)
+que indica um espiral de planta (78) que é renderizada de forma singu-
+lar na imagem de cores falsas como localizações no campo com um
+nível de densidade de clorofila acima de um limite predeterminado;
+- D1 par. 37 ...applying nitrogen rich fertilizer as through a delivery System 152 to Selected plants
+in prede termined rows in the field 10. .. e D1 par 51 com foco em vegetation indices include
+information about relative Soil coverage and also about crop chlorophyll levels, Such vegetation
+indices may be used 
+- Renderizar uma imagem é um termo genérico, sendo portanto um processo comum na técnica
+ver por exemplo:
+
+- https://pt.wikipedia.org/wiki/Renderiza%C3%A7%C3%A3o "Renderização é o processo pelo qual
+se obtém o produto final de um processamento digital qualquer."
+
+- https://shuttermuse.com/glossary/render/
+
+
+
+
+                                                                                            Página 3
+                                        BR112014009255-9
+
+- Render refers to taking a computer image or file and converting it into another format or applying
+a modification, like shading or shadows.
+https://www.computerhope.com/jargon/r/render.htm
+
+
+
+ e contar o número de plantas (46) do tipo selecionado que
+cresce no campo (82) por meio da comparação das localizações geo-
+espaciais de cada planta da pluralidade de plantas (46) na imagem de
+cor falsa identificada como sendo do tipo selecionado com as localiza-
+ções geoespaciais de fileiras fornecidas, de modo que apenas as plan-
+tas (46) identificadas na imagem de cor falsa como sendo do tipo sele-
+cionado e localizadas geoespacialmente dentro das localizações geo-
+espaciais de fileira fornecidas do campo (82) são contadas como plan-
+tas (82) do tipo selecionado.
+
+- essa característica decorre de forma óbvia da Fig. 2 de D1, par. 35 e demais parágrafos
+citados, conforme detalhado anteriormente.
+
+A requerente argumenta que :
+
+O parágrafo [0037] não descreve ou sugere a identificação de uma localização
+e, além disso, não descreve ou sugere a identificação de uma localização
+geoespacial, de qualquer uma das plantas no campo ou qualquer uma das
+plantas nas linhas de referência 12 e 13. O parágrafo [0037] apenas descreve
+pulverizar plantas selecionadas nas linhas de referência 12 e 13, e está
+completamente ausente de qualquer linguagem ou inferência a respeito da
+identificação da localização ou geolocalização de qualquer uma das plantas no
+campo ou de qualquer uma das plantas nas linhas de referência 12 e 13.
+
+A esse respeito ressalta-se que é inerente ao processo de pulverização de uma planta, saber sua
+localização.
+
+As características não comentadas anteriormente da reivindicação 6, são comentadas a seguir:
+
+pelo menos uma câmera multiespectral (18) montada de forma ajustável à plataforma móvel
+(14) de modo que uma largura de um campo de visão (42) de cada câmera (18) possa ser
+ajustada para englobar uma ou mais das plantas (46) dentro de um número desejado de fileiras
+(98) de planta no campo (82), cada câmera (18) estruturada e operando para capturar dados de
+imagem colorida e dados de imagem quase infravermelha (NIR) de todo o campo (82) à medida
+que a plataforma móvel (14) atravessa o campo (82);
+- D1 reivindicação 9
+um receptor (34) de sistema de posicionamento global (GPS) disposto na plataforma móvel
+(14) e estruturado e operável para receber sinais de dados de posicionamento via
+satélite
+identificando a localização geoespacial da pelo menos uma câmera (18) à medida
+que a pelo menos uma câmera (18) atravessa o campo
+ D1 par. 38
+Assim a reivindicação 6 não atende ao requisito atividade inventiva, pois decorre de maneira
+evidente ou óbvia para um técnico no assunto a partir do documento D1.
+
+
+                                                                                            Página 4
+                                        BR112014009255-9
+
+
+
+
+A requerente argumenta que :
+
+A Fig. 2 não é uma figura produzida por ou resultante da execução do software
+ou do método divulgado em D1. Por uma questão de fato, D1 não fornece uma
+figura ilustrando o greeness map ou  mapa de imagem da vegetação. Portanto,
+uma vez que a Fig. 2 não é, de fato, o que os srs. Examinadores sustentam,
+portanto, a alegação dos Srs. Examinadores a respeito da interpretação da Fig.
+2 por um técnico no assunto é falha.
+
+A esse respeito ressalta-se que , de fato, a Fig. 2 foi identificada como a view in plan of a portion
+of a field to which the process of the present invention is to be applied. No entanto, apesar da
+figura 2 ter sido assim identificada, ela é o objeto da fotografia referida em D1 (elemento 30 da
+Fig. 3). Portanto essa figura é uma representação da dita etapa do método divulgado em D1. É
+óbvio que o objeto da fotografia da Fig. 3 etapa 30 é o campo representado na Fig.2, conforme
+trechos a seguir de D1:
+
+0040. After a photograph of a portion of the field is taken
+by the camera 26 mounted in the plane 20, and as depicted
+in box 30 of FIG. 3, the photograph is analyzed as at 40 in
+FIG. 3.
+
+Par. 61: Because the nutrient
+recommendation map is created directly from the greenness
+map using a look-up table, the nutrient recommendation
+map has spatial resolution that is equivalent to the Spatial
+resolution of the greenness map and the aerial photographs.
+
+
+
+Nas reivindicações dependentes não foram identificadas características que, mesmo quando
+combinadas com as características de qualquer reivindicação independente a que se referem,
+venham a prover novidade e/ou a atividade inventiva à matéria.
+
+
+Conclusão
+
+Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                   Publique-se o indeferimento (9.2).
+
+
+
+                                                            Rio de Janeiro, 19 de setembro de 2021.
+
+
+
+                                                                                             Página 5
+                               BR112014009255-9
+
+
+
+
+Denise Freitas Silva
+Pesquisador/ Mat. Nº 1472730
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+008/13
+
+
+
+
+                                                  Página 6
+

@@ -1,0 +1,180 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112021012952-9          N.° de Depósito PCT:US2019/068815
+ Data de Depósito:                   27/12/2019
+ Prioridade Unionista:               US 62/787,055 (31/12/2018)
+ Depositante:                        SUNCOKE TECHNOLOGY AND DEVELOPMENT LLC (US)
+ Inventor:                           JOHN FRANCIS QUANCI; MAYELA CAROLINA FERNANDEZ;
+                                     DANIEL C. CHARLES
+ Título:                             Métodos e sistemas para fornecer superfícies resistentes a corrosão
+                                     em sistemas de tratamento de contaminantes 
+
+
+
+                                                                PARECER
+
+
+          A requerente apresentou a petição 870230012978, de 14/02/2023, trazendo solicitando
+para participação no exame colaborativo prioritário  PPH  USPTO.
+
+          O quadro reivindicatório apresentado na petição 870230012978, de 14/02/2023 é o
+mesmo apresentado na petição de depósito da fase nacional 870210058954 de 29/06/2021.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 30               870210058954           29/06/2021
+Quadro Reivindicatório                                   1a7                 870210058954           29/06/2021
+Desenhos                                                1 a 11               870210058954           29/06/2021
+Resumo                                                      1                870210058954           29/06/2021
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                                  x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR112021012952-9
+
+
+Art. 22 da LPI
+
+       O requerente afirma que a matéria atende ao Art. 22 da LPI, mas não mostra o conjunto
+de elementos que evidenciam sua unidade de invenção, bem como não apresenta alterações no
+quadro reivindicatório. Portanto, mantem-se as objeções quanto ao não atendimento do requisito
+de Unidade de Invenção.
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                    x
+Comentários/Justificativas
+
+       Não foram sanadas as irregularidades apontadas, portanto mantem-se as objeções.
+       As reivindicações não atendem ao disposto no Art. 25 da LPI e na Instrução Normativa nº
+30/2013  Art. 4º (III), pois a matéria pleiteada não está definida de maneira clara, precisa e
+positiva pelas seguintes razões:
+      -As reivindicações colocam uma liga resistente à corrosão", mas esta característica é
+      subjetiva e aberta a interpretação; pode-se esperar que qualquer liga tenha pelo menos
+      alguma resistência à corrosão. A inclusão de marcas comerciais, tais como liga de
+      Inconel, liga de Incoloy, liga de Monel, liga de Hastelloy, ou A|loy 20 que podem variar ao
+      longo do tempo não define adequadamente as ligas, as composições destas ligas
+      deveriam ser definidas por seus componentes específicos.
+
+      -As reivindicações colocam um sistema de tratamento de contaminantes", mas o sistema
+      conforme definido resulta apenas na combustão dos gases sendo misturados com um
+      "aditivo" indefinido. O contaminante a ser tratado não está descrito na reivindicação
+      independente 1, é colocado na reivindicação dependente 12, como sendo uma
+      característica não essencial.
+
+      -A reivindicação 16 descreve um "absorvedor de secagem por aspersão", mas nenhum
+      dos componentes definidos nele sugerem qualquer "aspersão".
+
+      -Na reivindicação 16 está colocado que a primeira e a segunda ligas são configuradas
+      para resistir à corrosão mas não está claro como uma liga pode ser especificamente
+      configurada para tal finalidade.
+
+      -Observe que o neutralizante na reivindicação 16 também não está definido.
+
+      -De forma geral o quadro reivindicatório não está definido de maneira clara, precisa.
+
+
+
+       O título das reivindicações não estão harmonizados.
+
+
+
+
+                                                                                          Página 2
+                                              BR112021012952-9
+
+
+                              Quadro 4  Documentos citados no parecer
+
+ Código                                      Documento                           Data de publicação
+    D1                                 US20090257932 A1                               15/10/2009
+    D2                                 US20170173519 A1                               22/06/2017
+
+
+
+       Quadro 5 - Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade               Cumprimento               Reivindicações
+                                                            Sim                   1 a 25
+               Aplicação Industrial
+                                                         Não                        --
+                                                            Sim                   1 a 25
+                     Novidade
+                                                         Não                        --
+                                                            Sim                     --
+               Atividade Inventiva
+                                                         Não                      1 a 25
+Comentários/Justificativas
+
+        De acordo com o parecer técnico de ciência publicado na RPI nº 2732 de 16/05/2023, o
+pedido em questão não apresentava condições de patenteabilidade por falta de atividade
+inventiva. Baseado nas argumentações da depositante na manifestação apresentada por meio da
+petição nº 870230071995, depositada em 14/08/2023, onde o mesmo se limita a apresentar
+contra-argumentos, tem-se a fazer os seguintes comentários:
+
+           A manifestação da depositante não traz nenhum elemento novo que reverta os óbices
+            apontados no parecer de ciência retro, pois suas argumentações se limitam a mostrar que
+            a matéria tem uma correspondente US concedida. Portanto, não evidencia as diferenças
+            entre a matéria e o estado da técnica citado.
+
+           Ultimamente, não há mudanças no quadro reivindicatório que permitam diferenciar entre o
+            que há de novo e inventivo na suposta invenção e o estado da técnica existente. Portanto,
+            mantém-se a decisão anterior por considerar tais argumentações não pertinentes.
+
+
+
+Conclusão
+
+        Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+        -     não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+        -     as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+              descritivo (Art. 25 da LPI).
+
+        -     não apresenta unidade de invenção (Art. 22 da LPI).
+
+
+
+                                                                                              Página 3
+                                      BR112021012952-9
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                 Publique-se o indeferimento (9.2).
+
+                                                           Rio de Janeiro, 22 de setembro de 2023.
+
+
+Gerlane Carla Honorato
+Pesquisador/ Mat. Nº 1569136
+DIRPA / CGPAT I/DINOR
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                          Página 4
+

@@ -1,0 +1,166 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112015013863-2           N.° de Depósito PCT: EP2012/005155
+ Data de Depósito:                   13/12/2012
+ Prioridade Unionista:               -
+ Depositante:                        RUPRECHT-KARLS-UNIVERSITÄT HEIDELBERG (DE)
+ Inventor:                           MATTHIAS KLOOR, MIRIAM REUSCHENBACH, MAGNUS VON
+                                     KNEBEL-DOEBERITZ
+ Título:                             Peptídeos derivados p16ink4a para profilaxia e terapia de tumores
+                                     associados a hpv e outros tumores expressando p16 
+
+                                                              PARECER
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim      Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                    x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)     x
+
+O pedido refere-se a Sequências Biológicas                                                              x
+
+Comentários/Justificativas
+
+Notificação de anuência relacionada com o Art.229-C da LPI (anuência prévia) encontra-se na
+RPI 2545 de 15/10/2019.
+
+Declaração negativa do acesso à amostra do Patrimônio Genético Nacional encontra-se
+na petição 870180062635 de 20/07/2018.
+
+Listagem de Sequências encontra-se na petição 870200153674 de 07/12/2020.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+Relatório Descritivo                                     01-30               860150160108        27/07/2015
+Listagem de sequências em
+                                                         01-04               870200153674        07/12/2020
+formato impresso
+Listagem de sequências*                        Código de Controle            870200153674        07/12/2020
+Quadro Reivindicatório                                   01-03               870210074500        13/08/2021
+Desenhos                                                 01-07               860150119756        12/06/2015
+Resumo                                                      01               860150119756        12/06/2015
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                  Página 1
+                                           BR112015013863-2
+
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+     0A764475C1BBB22B (Campo 1) e E68FAC6C6B287F97 (Campo 2).
+
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                           Sim               Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                         x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                 x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   x
+O pedido está de acordo com disposto no art. 32 da LPI                    x
+Comentários/Justificativas -
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                      x
+Comentários/Justificativas
+       A matéria contida no quadro reivindicatório relativa à vetor que expressa peptídeo ainda
+permanece sem clareza e precisão pois permanece o entendimento de que a mesma não está
+caracterizando o vetor que contém uma sequência polipeptídica da SEQ ID NO que expressa o
+peptídeo x. As reivindicações correspondentes ao vetor deveriam ter sido excluídas.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+     -                                         -                                       -
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                   01-14
+           Aplicação Industrial
+                                                         Não                      -
+                                                         Sim                   01-14
+                 Novidade
+                                                         Não                      -
+
+                                                         Sim                   01-14
+           Atividade Inventiva
+                                                         Não                      -
+Comentários/Justificativas
+
+
+
+                                                                                           Página 2
+                                            BR112015013863-2
+
+
+          O presente pedido refere-se a fragmento P16_37-63 do inibidor de quinase P16 ink4a
+dependente de ciclina.
+
+          Em      27/01/2020,     por     meio   da    petição   870200012543,      o    Depositante
+apresentou argumentações           e    modificações   no   pedido    em    resposta    ao   parecer
+emitido      no     âmbito      da Resolução Nº 241/2019, notificado na RPI 2547 de 29/10/2019
+segundo a exigência preliminar (6.21).
+
+          O primeiro parecer técnico foi uma exigência publicada na RPI 2592 de 08/09/2020.
+
+          O segundo parecer técnico foi novamente uma exigência (publicada na RPI 2628 de
+18/05/2021) relativa à falta de clareza na caracterização dos ácidos nucleicos.
+
+          O requerente, através da petição 870210074500 de 13/08/2021 modificou o quadro
+reivindicatório incluindo nas reivindicações de composições aquelas relativas aos ácidos.
+
+          Porém, continua havendo problema com relação à clareza e precisão.
+
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -     as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+            descritivo (Art. 25 da LPI)
+
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                     Publique-se o indeferimento (9.2).
+
+
+
+                                                                 Rio de Janeiro, 31 de agosto de 2021.
+
+
+
+
+Júlia Rolão Araripe
+Pesquisador/ Mat. Nº 1525876
+DIRPA / CGPAT II/DIMOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                              Página 3
+

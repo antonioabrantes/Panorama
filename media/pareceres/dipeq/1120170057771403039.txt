@@ -1,0 +1,178 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112017005777-8         N.° de Depósito PCT: EP2015/071655
+ Data de Depósito:                   22/09/2015
+ Prioridade Unionista:               EP 14185750.8 (22/09/2014)
+ Depositante:                        HUNTSMAN INTERNATIONAL LLC (US)
+ Inventor:                           ANDRÉ HEERES, NIELS JAN SCHENK, AREND-JAN ZEEUW, BART
+                                     DE WAELE, KORNELIS JAN KAMMINGA
+ Título:                             Processo para a preparação de pequenos compostos aromáticos a
+                                     partir de licor negro
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-19               870170018770           21/03/2017
+Quadro Reivindicatório                                     1-3               870190128067           04/12/2019
+Desenhos                                                   1-4               870170018770           21/03/2017
+Resumo                                                      1                870170018770           21/03/2017
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         x
+Comentários/Justificativas
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                      BR112017005777-8
+
+
+                        Quadro 4  Documentos citados no parecer
+
+ Código                              Documento                              Data de publicação
+    D1                            WO2014146128A1                                    18/09/2014
+    D2                            US2013324772A1                                    05/12/2013
+    D3                            US2011272108A1                                    10/11/2011
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade           Cumprimento                Reivindicações
+                                                   Sim                        1-16
+           Aplicação Industrial
+                                                   Não                          -
+                                                   Sim                        1-16
+                Novidade
+                                                   Não                          -
+                                                   Sim                          -
+            Atividade Inventiva
+                                                   Não                        1-16
+Comentários/Justificativas
+
+
+
+         Conforme descrito no parecer técnico de 1º exame publicado na RPI 2605 de
+08/12/2020, foi considerado que a matéria do presente pedido não era dotada de atividade
+inventiva em relação (pelo menos) aos ensinamentos de D1-D3, estando em desacordo com os
+Arts. 8º e 13 da LPI. Na ocasião, foi considerado que o documento D1, descreve um processo
+catalítico de produção de BTEX com rendimento e seletividade aprimorados e reduzida
+produção de carvão (vide resumo). No parágrafo 78 da página 13, divulga-se uma lista de
+matérias-primas adequadas para qualquer processo descrito nesse documento, dentre elas licor
+negro oriundo de processo Kraft. De acordo com o parágrafo 67 da página 11, o processo
+compreende admitir biomassa de modo a produzir um ou mais produtos de pirólise em operação
+rápida, e, simultaneamente ou subsequentemente contatar o referido produto com um
+catalisador zeolítico, e isolar BTEX da corrente de produto, que pode ser um vapor (vide
+parágrafo 57). Através da petição 870210017709 de 23/02/2021, o requerente se manifestou,
+optando por não realizar modificações no quadro reivindicatório fornecido na petição
+870190128067 de 04/12/2019. Portanto, de forma análoga, a matéria das reivindicações 1-16 é
+considerada dotada de novidade em relação a D1, estando de acordo com o Art. 11 da LPI, pois
+nesse documento não são descritas todas as características técnicas tais como definidas na
+reivindicação 1 do presente pedido, a saber, a especificação de utilização de aparas de madeira,
+derivadas de madeira dura. No primeiro exame técnico, também foi considerado que o
+documento D2 revela um método de produção de hidrocarbonetos (vide resumo) via pirólise
+catalítica. Assim como em D1, na página 4 do relatório descritivo de D2, é definido que o
+material carbonáceo utilizado como matéria-prima para o referido processo pode consistir de
+diversas naturezas, tal como licor negro de polpa de madeira, a ser cataliticamente pirolisado.
+
+
+                                                                                          Página 2
+                                      BR112017005777-8
+
+
+Ainda, o documento D3 também divulga a pirólise de licores negros, em que é descrito que
+madeiras duras e macias (dentre outros) podem ser usadas no processo de modo a originar o
+licor negro (vide parágrafos 52, 64, 67 e 100). Na página 9 do arquivo .pdf da petição
+870210017709 de 23/02/2021, o requerente afirma que o documento D3, considerado relevante
+para a matéria de invenção do presente pedido, não foi considerado relevante na Europa. Em
+relação a esse comentário, a análise dos requisitos de patenteabilidade no Brasil não obedece
+ao que foi considerado nos outros escritórios, e sim aos critérios dispostos na LPI. Em sua
+manifestação, o requerente argumenta que a partir dos documentos do estado da técnica,
+considerados relevantes, um técnico no assunto não seria motivado a realizar uma seleção
+específica a fim de obter uma melhoria no rendimento em pequenos compostos aromáticos.
+Também fica evidente o breve comentário de duas linhas por parte do requerente em relação ao
+que foi considerado sobre os ensinamentos de D2.
+
+
+
+       Complementando o que foi dito no parecer técnico de 1º exame, D2 divulga um processo
+para a produção de um produto de hidrocarboneto fluido compreendendo p-xileno, em que o
+material de partida pode consistir de licor negro de polpa de madeira, através de pirólise e
+reação catalítica, em que as etapas mencionadas são realizadas em reatores separados (vide
+páginas 3 e 4 do relatório descritivo, e reivindicações 1 e 38). Ocorre que, em suas
+manifestações, a respeito da exigência preliminar 6.21 publicada na RPI 2540 de 10/09/2019 e
+ao parecer técnico de 1º exame, respectivamente, o requerente não apresentou argumentos
+relacionados a obtenção do referido efeito técnico, em relação ao critério de utilização de um
+licor negro obtido de madeira dura em comparação com licor negro obtido de madeira macia. A
+escolha dessas opções decorre de maneira evidente para um técnico no assunto a partir dos
+ensinamentos dos documentos citados. Logo, em relação a análise do requisito de
+patenteabilidade de atividade inventiva da presente invenção, não foi identificado a obtenção de
+um efeito técnico surpreendente em relação ao divulgado em D1-D3, haja vista, também, a
+similaridade do processo proposto e as opções de material de partida divulgados no estado da
+técnica. Portanto, mantém-se o entendimento que a matéria definida na reivindicação 1 do
+presente pedido, relacionada ao provimento de um processo alternativo fazendo uso de um
+determinado tipo de madeira, não é considerada dotada de atividade inventiva em relação a
+D1-D3, estando em desacordo com o Art. 13 da LPI, pois o referido processo decorre de
+maneira evidente para um técnico no assunto levando em consideração os ensinamentos de D3
+associados aos de D1 e/ou D2. Nas reivindicações dependentes 2-16 não foram identificadas
+características que, mesmo quando combinadas com as características de qualquer
+reivindicação independente a que se referem, venham a prover atividade inventiva à matéria,
+haja vista as temperaturas operacionais e razão biomassa/catalisador definido nos referidos
+documentos do estado da técnica.
+
+
+
+
+                                                                                        Página 3
+                                       BR112017005777-8
+
+
+Conclusão
+
+
+       Através   da   petição    870210017709     de     23/02/2021,    o   requerente     apresentou
+argumentações,    consideradas    insuficientes   para    que   fosse   atribuído   o    requisito   de
+patenteabilidade de atividade inventiva à presente matéria de invenção.
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                   Publique-se o indeferimento (9.2).
+
+                                                                 Rio de Janeiro, 06 de abril de 2021.
+
+
+Thales Avellar Soares
+Pesquisador/ Mat. Nº 2390855
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº
+016/18
+
+
+
+
+                                                                                               Página 4
+

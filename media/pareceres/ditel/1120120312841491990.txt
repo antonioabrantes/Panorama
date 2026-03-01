@@ -1,0 +1,236 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR112012031284-7           N.° de Depósito PCT:KR2011/004163
+ Data de Depósito:     08/06/2011
+ Prioridade Unionista: KR 1020100054026 (08/06/2010); KR 1020100063401 (01/07/2010);
+                       KR 1020110054501 (07/06/2011)
+ Depositante:          ELECTRONICS      AND       TELECOMMUNICATIONS         RESEARCH
+                       INSTITUTE (KR)
+ Inventor:             YOUNG JO KO, Bang Won Seo, Jae Young Ahn
+ Título:               Método e aparelho para transmissão e recepção em sistemas de
+                       comunicação sem fio multi- transportadora 
+
+                                                                PARECER
+          O presente pedido de Patente de Invenção se enquadra no âmbito da PORTARIA
+INPI/PR N° 412, DE 2020, estabelecida no Plano de Ataque ao Backlog de Patentes elaborado
+pela DIRETORA DE PATENTES, PROGRAMAS DE COMPUTADOR E TOPOGRAFIAS DE
+CIRCUITOS INTEGRADOS do INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+(DIRPA).
+
+          Por meio dos atos normativos para execução do referido plano, a Administração do INPI
+avoca a responsabilidade sobre os procedimentos adotados no presente exame técnico.
+
+          Em 18/06/2020, por meio da petição 870200076227, o Depositante apresentou
+modificações no pedido em resposta ao parecer emitido no âmbito da Resolução Nº 241/2019,
+notificado na RPI 2568 de 24/03/2020 segundo a exigência preliminar (6.21). Foram
+apresentadas argumentações quanto ao estado da técnica citado no relatório de busca.
+
+          Em 27/09/2021, por meio da petição 870210088708, a Requerente apresentou
+modificações no pedido em resposta ao parecer emitido, notificado na RPI 2635 de 06/07/2021
+(despacho 7.1). Estas modificações estão consideradas no Quadro 1.
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                    1 a 15               020130010062     05/02/2013
+Quadro Reivindicatório (QRv)                             1a4                 020130010062     05/02/2013
+Quadro Reivindicatório (QR)                              1a3                 870210088708     27/09/2021
+Desenhos                                                 1a8                 020130010062     05/02/2013
+Resumo                                                      1                020120113775     07/12/2012
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                         BR112012031284-7
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                         Sim               Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                 X
+O pedido está de acordo com disposto no art. 32 da LPI                                   X
+Comentários/Justificativas
+
+       Em exame anterior, foi apontado que a característica ter diferentes formatos de campo
+de Informação de Controle de Downlink (DCI). presente na antiga reivindicação 15 não estava
+presente na revindicação 1 do quadro apresentado.
+
+       Dessa forma, a requerente modificou a nova reivindicação 1 de forma a incluir o seguinte
+termo: em que o UE é configurado com um campo de indicador do transportador.. Além dessa
+modificação, foram apresentadas as seguintes argumentações:
+
+   1. Assim, a única diferença entre a reivindicação 15 (depositada em 05/02/2013) e a
+       reivindicação emendada 1 é que na reivindicação 15 é declarada a característica:
+       "têm diferentes formatos de campo de Informação de Controle de Downlink (DCI)" (entre o
+       candidato PDCCH no CSS e no candidato PDCCH no USS), e na reivindicação emendada
+       1, o referido recurso não aparece, mas é declarado o recurso onde o UE é configurado
+       com um Campo de Identificador de transportador (CIF).
+
+   2. No pedido originalmente depositado (correspondendo a PCT KR2011 / 004163), as
+       condições para considerar o candidato PDCCH no CSS como PDCCH transmitido de uma
+       estação base são: "dois candidatos PDCCH de um CSS e um USS, respectivamente, são
+       CRC codificados pelo mesmo RNTI e têm um tamanho de carga útil comum e o mesmo
+       índice do primeiro elemento de canal de controle (CCE), ver por exemplo, a seção
+       Soluções Técnicas, no Relatório Descritivo. Ou seja, as condições          no       pedido
+       originalmente depositado eram as mesmas condições estabelecidas na reivindicação
+       alterada 1. Em outras palavras, no pedido original apresentado (nem na descrição nem
+       nas reivindicações), a condição de ter diferentes formatos de campo DCI não era incluído
+       no conjunto de condições (como acontece na reivindicação alterada 1).       Portanto,      a
+       reivindicação 1 alterada não amplia o escopo de proteção em comparação com o
+       pedido original apresentado.
+
+   3. Além disso, o Campo de Identificador de transportador (CIF) é um campo incluído no
+       campo de Informação de Controle de Downlink (DCI) e, na verdade, o fato de usar o CIF
+       (conforme declarado na reivindicação alterada 1) implica uma diferença no formato DCI
+       entre os candidatos USS e CSS, conforme declarado no Relatório Descritivo (por exemplo,
+       conforme declarado na descrição, DCI em USS sempre inclui CIF, mas o DCI em CSS
+       pode                     não                      incluir          CIF).
+
+
+
+                                                                                         Página 2
+                                          BR112012031284-7
+
+
+      Assim, a característica de usar CIF, na prática, implica na característica de ter
+      diferentes   formatos    DCI       em   CSS   e    USS   nestes   cenários.       Portanto,   esta
+      característica   não    amplia     o escopo de proteção da reivindicação alterada 1 (pelo
+      contrário, ela limita o escopo de proteção) quando comparada com a reivindicação 15
+      (depositada em 05/02/2013).
+
+Análise da argumentação da requerente:
+
+   1. De fato, ao comparar ambas as reivindicações, a única diferença relevante entre as
+      reivindicações está relacionada ao trecho destacado. Respeitosamente discordamos da
+      requerente e voltamos a afirmar que a reivindicação incide no art. 32 da LPI ao excluir a
+      frase ter diferentes formatos de campo de Informação de Controle de Downlink (DCI)..
+
+   2. De acordo com a Resolução INPI 93/2013 (2.3) O escopo da proteção reivindicada
+      quando da solicitação do exame do pedido de patente não pode ser ampliado após esta
+      data. Em nenhum momento, após a solicitação do exame do pedido de patente, poderá o
+      examinador em seu parecer propor que elementos presentes no relatório descritivo e não
+      reivindicados originalmente sejam trazidos para o QR, se esta inserção venha ampliar o
+      escopo da matéria reivindicada. Tampouco pode o Requerente aproveitar-se de um
+      cumprimento de exigência para fazer esta inserção, ampliando o escopo da reivindicação...
+      Elementos da reivindicação independente não poderão ser retirados, após a data
+      limite representada pela solicitação do exame do pedido de patente, pois, da mesma
+      forma, não se pode ampliar o escopo da matéria requerida na data do pedido de
+      exame. Dessa forma, mesmo o pedido PCT não reivindicando tal característica, o quadro
+      reivindicatório válido para análise de acréscimo de matéria é o quadro apresentado no
+      momento do pedido de exame, sendo este quadro válido (Qrv) apresentado na petição
+      020130010062, de 05/02/2013.
+
+   3. Como dito pela requerente, o Campo de Identificador de transportador (CIF) é um campo
+      incluído no campo de Informação de Controle de Downlink (DCI), ou seja, representa um
+      dos campos contidos no DCI. Dessa forma o DCI tem outros campos além do CIF.
+      Assim, modificar um dos campos do DCI não apresenta a mesmo efeito técnico de ter
+      diferentes formatos de campo de Informação de Controle de Downlink (DCI). Outros
+      campos do DCI não poderão ter formatos distintos. Além disso, o novo termo em que o
+      UE é configurado com um campo de indicador do transportador. não está relacionado a
+      modificar os formatos de um campo, nem mesmo o campo o CIF. Ele pode apresentar
+      valores   distintos,    mas    o    formato   do   campo   em     sí   não    é     modificado.
+      A argumentação que por exemplo, conforme declarado na descrição, DCI em USS
+      sempre inclui CIF, mas o DCI em CSS pode não incluir CIF não é suficiente para distinguir
+      diferentes formatos de campo de DCI, pois não indica de forma clara quando é utilizado o
+      CIF, podendo ou não modificar os campos do DCI. O não incluir o CIF pode estar
+      relacionado a simplesmente não usar o campo, deixando seu conteúdo vazio, e não em
+      modificar os campos para removê-lo.
+
+
+
+                                                                                               Página 3
+                                           BR112012031284-7
+
+
+                   Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      --                --
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    --                --
+Comentários/Justificativas
+
+   1. Tendo em vista que o pedido não está de acordo com o Artigo 32 da LPI, não serão tecidos
+         comentários quanto aos Artigos 24 e 25 da LPI, conforme a Portaria/INPI/DIRPA N° 1/
+         2021, procedimento P029, item 5.2.25.2.
+
+                            Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    --        --                                                                       --
+         Em obediência à Resolução N° 241, de 2019, artigo 3º, Inciso I e artigo 5º, exarada pela
+DIRPA, que avoca a responsabilidade sobre os procedimentos do exame técnico, não foram
+realizadas buscas suplementares por este Instituto. Portanto, os documentos de anterioridade
+analisados neste parecer são exclusivamente oriundos de buscas e/ou no exame técnico
+realizados por Escritórios de Patentes de outros países, de Organizações Internacionais ou
+Regionais.
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                     --
+            Aplicação Industrial
+                                                        Não                      --
+                                                         Sim                     --
+                     Novidade
+                                                        Não                      --
+
+                                                         Sim                     --
+            Atividade Inventiva
+                                                        Não                      --
+Comentários/Justificativas
+
+   1. De acordo com o art.5º §1º da Resolução Nº 240/2019, os exames realizado no escritório
+         europeu e outros escritórios (EP3557790), apontados no parecer de exigência preliminar
+         (6.21), são considerados como subsídio ao presente exame, sendo aqui apontadas as
+         mesmas considerações quanto aos requisitos de patenteabilidade do quadro válido,
+         conforme a procedimento P029, da Portaria/INPI/DIRPA N° 1/ 2021, item 5.2.25.4.
+
+   2. De acordo com a Resolução INPI 93/2013 o pedido de patente será indeferido
+         considerando as razões de não-patenteabilidade apontadas no parecer do exame anterior,
+         e, adicionalmente, o Artigo 32 da LPI. Assim, não serão tecidos comentários quanto aos
+         Artigos 8º, 11, 13 e 15 da LPI, dado que não houve avaliação desses requisitos de
+         patenteabilidade no parecer anterior.
+
+
+
+                                                                                            Página 4
+                                      BR112012031284-7
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+     -   acréscimo de matéria do pedido ou do escopo das reivindicações (Art. 32 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 16 de outubro de 2021.
+
+
+
+
+Daniel de Souza Dias
+Pesquisador/ Mat. Nº 2041265
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+007/16
+
+
+
+
+                                                                                         Página 5
+

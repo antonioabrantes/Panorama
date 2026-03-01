@@ -1,0 +1,272 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102013028483-1            N.° de Depósito PCT:-
+ Data de Depósito:                   05/11/2013
+ Prioridade Unionista:               -
+ Depositante:                        FIAT AUTOMÓVEIS S.A (BRMG)
+ Inventor:                           LUIZ CARLOS QUINTINO DOS SANTOS
+ Título:                             Transceptor de interface para redes can/ethernet 
+
+                                                                PARECER
+          O presente pedido refere-se a um transceptor de interface para redes CAN/Ethernet cujo
+objetivo é realizar o interfaceamento entre o núcleo de processamento do nó e o barramento de
+forma a aumentar a segurança das mensagens trafegadas na rede e a selecionar as mensagens
+recebidas por parte do núcleo de processamento.
+          Em 07/06/2021, por meio da petição 870210051267, o Depositante apresentou
+argumentações e modificações no pedido em resposta ao parecer emitido no âmbito da
+Portaria/INPI/PR N° 412/2019, notificado na RPI 2618 de 09/03/2021 segundo a exigência
+preliminar (6.22).
+
+          Em 03/11/2021, através da petição 870210101217, a Requerente apresentou
+modificações e argumentações em resposta ao parecer de ciência (despacho 7.1) notificado na
+RPI 2639 de 03/08/2021, no qual se considerou que o presente pedido carecia de atividade
+inventiva por ser mera decorrência do estado da técnica representado por D1 (US2011093639),
+D2 (US6252874) e D3 (KAREN, Scarfone; PAUL, Hoffman. Guidelines on firewalls and firewall
+policy. NIST Recommendations, SP, p. 800-41, 2009).
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição        Data
+
+Relatório Descritivo                                     1a9                 870210051267       07/06/2021
+
+Quadro Reivindicatório                                   1a2                 870210101217     03/11/2021
+
+Desenhos                                                 1a2                 018130036559       05/11/2013
+
+Resumo                                                      1                870210051267       07/06/2021
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                            Página 1
+                                           BR102013028483-1
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                           Sim               Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                          x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                  x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   x
+O pedido está de acordo com disposto no art. 32 da LPI                    x
+Comentários/Justificativas -
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas -
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                 US2011093639                                   21/04/2011
+
+    D2                                   US6252874                                    26/06/2001
+
+    D3       KAREN, Scarfone; PAUL, Hoffman. Guidelines on firewalls and               09/2009
+              firewall policy. NIST Recommendations, SP, p. 800-41, 2009.
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                    1a5
+            Aplicação Industrial
+                                                         Não                      -
+                                                         Sim                    1a5
+                 Novidade
+                                                         Não                      -
+
+                                                         Sim                      -
+            Atividade Inventiva
+                                                         Não                    1a5
+
+
+
+Comentários/Justificativas
+
+         Em sua manifestação,a Requerente argumenta que:
+
+
+
+
+                                                                                            Página 2
+                                    BR102013028483-1
+
+
+1. No item B do Parecer, é abordada a forma de indicação da codificação, ou não, de uma
+   mensagem que transita pela rede veicular, e em particular:
+
+   -marcar/setar um bit de estado da mensagem como mensagem codificada (esta
+   característica é óbvia frente a D1, pois D1 descreve a transmissão de mensagens
+   criptografadas e não criptografadas para o barramento CAN sinalizadas por bytes : ver D1,
+   parágrafo 27 e Figura 3) - grifo nosso
+
+   Em relação a este comentário, o inventor discorda da colocação da examinadora, posto
+   que, a partir do conteúdo ensinado em D1, um mero técnico no setor não teria como
+   extrapolar um único bit de identificação da criptografia da mensagem a partir dos bytes
+   ensinados em D1, os quais apontam para a necessidade de 4 bytes envolvendo o tipo de
+   criptografia KEELOG
+
+2. Além disto, e tal como se pode verificar a partir da nova redação da R1, tal bit / flag de
+   identificação da condição criptográfica de uma mensagem é devidamente protegido, ou
+   seja, não é possível a sua alteração quer seja pelo núcleo de processamento do nó, quer
+   seja pelo transceptor. Em outras palavras, além de uma solução absolutamente simples, a
+   mesma ainda se cerca de proteção contra tentativas de alteração indevidas
+
+3. Como resultado de tais ações, as diretrizes de exame de patentes (Resolução 169/16),
+   em seu paragrafo 5.22 indicam que, EXCEPCIONALMENTE, podem os examinadores
+   lançar mão de uma tripla base combinatória de documentos. Porém, e a despeito desta
+   possibilidade, este próprio regulamento já ressalta o seu caráter impar, ou seja, fora do
+   quanto regular e convencional.
+
+   5.22 Ao determinar se a combinação de duas ou excepcionalmente três divulgações
+   distintas resulta em óbvia ou não, o examinador deverá avaliar os seguintes critérios:
+
+   (i) se o conteúdo dos documentos é tal que um técnico no assunto seria capaz de
+   combiná-los diante do problema solucionado pela invenção;
+
+   (ii) se os documentos são provenientes de campos técnicos similares, próximos, ou se os
+   documentos são pertinentes a um problema particular com o qual a invenção está
+   relacionada; e
+
+   (iii) se a combinação de duas ou mais partes de um mesmo documento poderia ser óbvia
+   se existe uma base razoável para que um técnico no assunto associe estas partes entre si.
+
+   Com particular atenção ao caso em tela, há de se destacar ainda que D3 foge
+   completamente ao escopo da invenção, tendo sido incluído na listagem de anterioridades
+   exclusivamente para antecipar um ponto específico. Assim, não há como imaginar que o
+   nosso mero técnico embarcaria em uma busca relativa a parâmetros de um firewall,
+   imerso estando em uma pesquisa destinada a incrementar a funcionalidade / velocidade
+   de um transceptor exclusivamente destinado a redes veiculares.
+
+
+
+
+                                                                                      Página 3
+                                  BR102013028483-1
+
+
+  () Portanto, a inclusão de D3 também fere o item (ii) do citado item 5.22 supra, uma vez
+  que o conceito de firewall é natural e logicamente associado a redes abertas de
+  computadores e similares.
+
+
+
+  Análise das argumentações e modificações apresentadas pela Requerente:
+
+A. Quanto às argumentações presentes no item 1 anterior, ressalte-se que um técnico no
+  assunto frente aos ensinamentos de D1 de utilizar alguns bytes na própria mensagem para
+  sinalizar que a mensagem está criptograda de acordo com um padrão proprietário,
+  obviamente proporia utilizar apenas um bit sinalizando que a mensagem está criptografada
+  de acordo com um outro padrão, tal como o proposto pelo presente pedido, sem exercer
+  atividade inventiva, pois trata-se de um mero detalhe de implementação óbvio para um
+  técnico no assunto frente ao objetivo de simplificação das mensagens.
+
+B. Quanto às argumentações presentes no item 2 anterior, também se trata de um mero
+  detalhe de implementação óbvio para um técnico no assunto já que D1 também descreve
+  a proteção contra tentativas de alteração indevidas das mensagens (ver D1, parágrafos
+  4-5, 9).
+
+C. Quanto às argumentações presentes no item 3 anterior, ressalte-se que o documento D3
+  foi apontado pelo exame anterior apenas para explicitar que a filtragem de
+  pacotes/mensagens recebidas de acordo com um identificador tal como o endereço IP de
+  origem e/ou destino através do uso de tabelas já fazia parte do estado da técnica à época
+  de depósito do presente pedido.
+
+  Ao contrário do argumentado pela Requerente, D3 possui um campo técnico similar ao do
+  presente pedido, pois se destina à segurança em uma rede com nós com núcleo de
+  processamento dotados de transceptores para transmissão/recepção de mensagens. A
+  reivindicação independente 1 do presente pedido pleiteia transceptor para redes
+  CAN/Ethernet não fazendo menção à redes veiculares. Além disso, um técnico no assunto
+  sabe que as redes Ethernet são redes muito utilizada nas redes corporativas (intranets)
+  que se comunicam com a Internet e frequentemente são protegidas por firewall e, portanto,
+  seria motivado a consultar D3 para especificar a característica de filtragem de
+  pacotes/mensagens recebidas de acordo com um identificador tal como o endereço IP de
+  origem e/ou destino através do uso de tabelas (ver D3, seções 2.1.1, 2.1.2 e 4.1).
+
+  Ainda que a menção à redes veiculares fosse inserida na reivindicação independente 1, tal
+  característica estaria antecipada por D1 (ver D1, parágrafo 24).
+
+  Ademais, como mencionado no exame anterior, D2 antecipa uma interface Ethernet entre
+  um host e um barramento Ethernet dotada de um transceptor (ver D2, figura 3) em que, no
+  recebimento, há o descarte de pacotes não endereçados ao host (ver D2, resumo).
+  Portanto, D2, que está no mesmo campo técnico da matéria pleiteada pela reivindicação
+
+
+
+
+                                                                                       Página 4
+                                         BR102013028483-1
+
+
+          independente 1 (Transceptor de interface para redes CAN/Ethernet), antecipa a
+          característica pleiteada de filtragem na recepção das mensagens vindas do barramento.
+
+          Portanto, um técnico no assunto, frente ao objetivo de aumentar a segurança das
+          mensagens trafegadas na rede e a selecionar as mensagens recebidas por parte do
+          núcleo de processamento, obviamente uniria ensinamentos de D1, D2 e D3.
+
+    D. No novo Quadro Reivindicatório apresentado, a Requerente            inseriu na reivindicação
+          independente 1, características das antigas reivindicações dependentes 2, 5, 8 e 9.
+          Contudo, tais características são óbvias para um técnico no assunto frente ao estado da
+          técnica (ver, além dos trechos supracitados de D1-D3, os parágrafos 5, 9-10, 28 e a
+          reivindicação dependente 15 de D1).
+
+
+
+       Sendo assim, as argumentações e modificações apresentadas pela Requerente foram
+consideradas insuficientes para sustentar a atividade inventiva da matéria pleiteada frente aos
+ensinamentos de D1 quando combinados com os ensinamentos de D2 e D3.
+
+
+
+Conclusão
+
+       Face ao exposto neste parecer, reafirma-se que o presente pedido contraria o disposto
+no Art. 8° combinado com o 13 da LPI, conforme comentários ao Quadro 5 deste parecer.
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -     não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                              Rio de Janeiro, 10 de janeiro de 2022.
+
+
+
+
+Carolina Medeiros Carvalho
+Pesquisador/ Mat. Nº 1504559
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+022/12
+
+
+
+
+                                                                                           Página 5
+

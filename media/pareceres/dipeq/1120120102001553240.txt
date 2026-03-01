@@ -1,0 +1,205 @@
+                                         SERVIÇO PÚBLICO FEDERAL
+                                          MINISTÉRIO DA ECONOMIA
+                              INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                              BR112012010200-1        N.° de Depósito PCT: US2010/002863
+ Data de Depósito:                           29/10/2010
+ Prioridade Unionista:                       US 61/256,647 (30/10/2009); US 12/914,839 (28/10/2010)
+ Depositante:                                GETAROUND, INC
+ Inventor:                                   SAM ZAID, VIAJAI ANMA, ELLIOT KROO, MICHAEL LEE
+                                             CROGAN
+ Título:                                     Sistema de controle de acesso a veículo, metodo para controle de
+                                             acesso a veículo
+
+                                           PARECER
+           De acordo com o publicado na RPI 2602 de 17/11/2020, foi solicitado à requerente que
+tomasse Ciência de Parecer (despacho 7.1) relativa ao pedido em análise, tendo essa se
+manifestado acerca do conteúdo do parecer dentro do prazo máximo estabelecido por Lei (90 dias
+a contar da publicação na RPI) via petição Nº 870210015309 de 15/02/2021.
+
+                                         Quadro 1  Páginas do pedido examinadas
+            Elemento                     Páginas              N. da petição            Data
+Relatório Descritivo                        1-37          870190115119              08/11/2019
+Quadro Reivindicatório                       1-4          870210015309              15/02/2021
+Desenhos                                     1-8          870190115119              08/11/2019
+Resumo                                         1          870190115119              08/11/2019
+
+
+                 Quadro 2 - Considerações referentes aos Artigos 10, 18, 22 e 32 da LPI
+Artigos da LPI                                                                        Sim            Não
+A matéria enquadra-se no Art. 10 da LPI (não se considera invenção)                                   X
+A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                                           X
+O pedido apresenta Unidade de Invenção (Art. 22 da LPI)                                X
+O pedido está de acordo com disposto no Art. 32 da LPI                                 X
+Comentários/Justificativas: - - -
+
+                      Quadro 3 - Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                       Sim             Não
+O relatório descritivo está de acordo com disposto no Art. 24 da LPI                   X
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                           Página 1
+                                                         BR112012010200-1
+
+
+O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI               X
+Comentários/Justificativas:
+
+       A requerente apresentou emendas na reivindicação 1 em virtude dos questionamentos
+feitos em parecer anterior, justificando da seguinte maneira Em relação ao apontamento do Sr.
+Examinador quanto à imprecisão do termo amarrada presente no trecho a reserva de veículo é
+amarrada em ao menos uma camada de encriptação da reivindicação 1, a Requerente informa
+que houve um equívoco de tradução do referido termo, de modo que o termo mais adequado que
+traz maior clareza e precisão ao trecho e à matéria pleiteada é o termo envolvida, que faz
+sentido do ponto de vista de criptografia, onde os dados de reserva de veículo estão sendo
+envolvidos pelas camadas criptográficas. Ainda, os referidos termos são explicados pelo
+parágrafo [0030] do pedido equivalente estadunidense US2011112969 e pelo parágrafo [0030] do
+Relatório Descritivo apresentado na petição de nº 870190115119, que diz: (...) Amarração em
+uma rede de computador inclui envolver protocolos de nível inferior (por exemplo, Link Layer)
+dentro dos protocolos de nível superior (por exemplo, Transport Layer) para estender e virtualizar
+o alcance do Link Layer. Isto é feito frequentemente para construir pontes em redes incompatíveis
+ou para fornecer uma via segura através de uma rede não confiável.
+
+       A esse respeito, os argumentos foram aceitos.
+
+                                   Quadro 4 - Documentos citados no parecer
+
+ Código                                                Documento                         Data de publicação
+   ---                                                        ---                                ---
+
+
+
+     Quadro 5 - Análise dos Requisitos de Patenteabilidade (Art. 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                     Cumprimento   Reivindicações
+                                                                           Sim            1-22
+             Aplicação Industrial
+                                                                          Não             ---
+                                                                           Sim            1-22
+                     Novidade
+                                                                          Não             ---
+
+                                                                           Sim            ---
+             Atividade Inventiva
+                                                                          Não             1-22
+Comentários/Justificativas:
+       A requerente argumenta em sua manifestação que Em relação à nova reivindicação 1, a
+matéria pleiteada pela Requerente apresenta, dentre outras características: A reserva do veículo
+é envolvida em uma pluralidade de camadas de encriptação, em que a pluralidade de camadas de
+encriptação inclui uma primeira camada de encriptação e uma segunda camada de encriptação,
+em que a primeira camada de encriptação é encriptada usando uma primeira chave de
+encriptação para o dispositivo pessoal sem fio, e em que a segunda camada de encriptação é
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                   Página 2
+                                                        BR112012010200-1
+
+encriptada usando uma segunda chave de criptografia para o kit de acesso ao veículo e
+comunicar informação do sistema de controle de acesso a veículo para um servidor central (110)
+através de um canal de comunicação seguro para comunicações seguras entre o kit de acesso ao
+veículo e o servidor central (110) e outro canal de comunicação para outras comunicações
+seguras do dispositivo pessoal sem fio (106) para o servidor central (110), em que o canal de
+comunicação segura e o outro canal de comunicação segura são associados com a pluralidade
+de camadas de encriptação.
+
+       Complementa afirmando que, de acordo com o parágrafo 22 de D7, esse parece revelar
+apenas um link de comunicação segura entre o dispositivo de acesso remoto e o veículo. Ainda, o
+documento D7 não parece revelar um outro link de comunicação segura entre o dispositivo de
+acesso remoto e um servidor central. Ou seja, o parágrafo [0022] do documento D7 revela a
+utilização de apenas um link de comunicação segura para se comunicar com segurança com
+outro software e/ou hardware do aparelho no veículo, para autenticar um usuário do dispositivo de
+acesso remoto e para fornecer meios para o usuário destravar o veículo. Assim sendo, conclui
+que um sistema que comunica a informação de um sistema de controle de acesso a veículo para
+um servidor central através de um canal de comunicação segura para comunicações seguras
+entre um kit de acesso ao veículo e um servidor central, e através de outro canal de comunicação
+para outras comunicações seguras de um dispositivo pessoal sem fio para o servidor central, em
+que o canal de comunicação segura e o outro canal de comunicação segura são associados com
+uma pluralidade de camadas de encriptação.
+
+       À luz das considerações apresentadas pela requerente a matéria foi reavaliada. Mesmo
+após as emendas realizadas no quadro reivindicatório, entende-se que os argumentos
+apresentados permanecem não persuasivos. O mero uso de uma nova camada de encriptação
+soa como algo evidente para um técnico no assunto, ainda mais partindo do pressuposto das
+anterioridades citadas ao longo do exame (em particular, D1, D7 e D8), que preconizam o uso de
+comunicação segura com o dispositivo. Corroborando o entendimento, a questão de uma segunda
+camada de encriptação em um contexto similar é inclusive sugerida por exemplo em D1, parag.
+0015: The system according to the invention unfolds its full capability if a central computing unit
+is comprised, which determines the signals to be sent to the control receiving unit and sends them
+to the mobile transmission unit, and the mobile transmission unit has means for receiving and
+storing the signals sent from the central computing unit. Especially mobile phones are suitable for
+this purpose. In an advantageous way the signal sent from the central computing unit
+contains a digital data set. This data set can comprise several encrypted areas, which can
+be decrypted in the control receiving unit and/or in the mobile transmission unit. As an
+example, this is presented for the opening of a motorcar. A digital key is generated on a server, i.e.
+a central computing unit, transmitted to a mobile transmission unit of a mobile phone and stored
+thereon. On the mobile phone the digital key is partially decrypted and fully or partially, i.e.
+still partially encrypted, transmitted to a control device in the motorcar, i.e. to a control
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                          Página 3
+                                                        BR112012010200-1
+
+receiving unit. The control device decrypts the still encrypted transmitted part of the digital
+key and executes based thereon actions, which lead to opening of the doors of the motorcar.
+
+        Observa-se ainda que a comunicação entre a unidade de transmissão 5 e a unidade de
+controle 4 pode ser de curto alcance (Bluetooth e WLAN por exemplo) e é encriptada [D1: parag.
+0032], além da explícita menção a um sistema de aluguel de carros [D1: parag. 0043].
+
+       Isso posto, pondera-se ainda que não foram encontrados elementos nas demais
+reivindicações (dependentes) que sugiram características não óbvias para um técnico no assunto,
+na medida em que essas apenas particularizam o conteúdo já questionado ao longo dos
+pareceres anteriores.
+
+Conclusão
+
+       Do material exposto, entende-se que os argumentos apresentados pela requerente em sua
+manifestação não são persuasivos. O quadro reivindicatório apresentado não contempla efeitos
+técnicos que não tenham sido previstos pelo estado da técnica, pleiteando características
+consideradas óbvias para um técnico no assunto, o que configura uma situação onde não se
+vislumbram indícios de atividade inventiva. Ademais, a manifestação apresentada não explicou a
+contento as objeções levantadas. Reitera-se portanto o entendimento externado em parecer
+anterior, mantém-se a opinião de que o dispositivo proposto não dispõe de predicados de
+patenteabilidade.
+
+       Assim sendo, de acordo com o Art. 37, opino pelo indeferimento do presente pedido, uma
+vez que:
+
+      não atende ao requisito de novidade e de atividade inventiva (Art. 8º combinado com
+       Art.13 da LPI).
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                    Página 4
+                                                      BR112012010200-1
+
+
+                                                                     Rio de Janeiro, 26 de março de 2022.
+
+
+
+                                                                          Publique-se o indeferimento (9.2).
+
+
+
+Rafael Ribeiro Brandão
+Pesquisador/ Mat. Nº 1548959
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº
+007/15
+
+
+
+
+      Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 5
+

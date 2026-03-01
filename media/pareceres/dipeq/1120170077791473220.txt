@@ -1,0 +1,229 @@
+                                SERVIÇO PÚBLICO FEDERAL
+                                 MINISTÉRIO DA ECONOMIA
+                 INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+                               RELATÓRIO DE EXAME TÉCNICO
+ N.° do Pedido:        BR112017007779-5            N.° de Depósito PCT:US2015/054579
+ Data de Depósito:     08/10/2015
+ Prioridade Unionista: US 62/064,693 (16/10/2014)
+ Depositante:          Dow Global Technologies LLC (US)
+ Inventor:             Daniel F. Zweifel, Evelyn A. Zaugg-Hoozemans, Stephan Höltschi
+ Título:               Etoxilato de amina graxa e óleos de motor à base de polialquileno
+                       glicol
+                                                                PARECER
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-17               870200012143           27/01/2020
+Quadro Reivindicatório                                     1-2               870200161537           28/12/2020
+Desenhos                                                 --------                --------             --------
+Resumo                                                      1                870200012143           27/01/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                       x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         x
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                Página 1
+                                      BR112017007779-5
+
+
+                         Quadro 4  Documentos citados no parecer
+
+ Código                              Documento                              Data de publicação
+    D1                               US5900392A                                 04/05/1999
+    D3                             US2003191033A1                               09/10/2003
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade           Cumprimento                Reivindicações
+                                                  Sim                        1-4; 5
+            Aplicação Industrial
+                                                  Não
+                                                  Sim                        1-4; 5
+                 Novidade
+                                                  Não
+                                                  Sim
+            Atividade Inventiva
+                                                  Não                        1-4; 5
+Comentários/Justificativas
+
+         A documentação analisada neste exame técnico se baseia no quadro reivindicatório
+reformulado, com um total de 5 reivindicações, adaptado às disposições da Instrução Normativa
+IN30/2013, e ainda, do arrazoado interposto por manifestação da requerente quanto aos
+questionamentos indicados pelo INPI do escopo reivindicado, conforme apresentada a partir da
+petição nº870200161537 de 28/12/2020 como resposta ao parecer técnico de ciência notificado
+na RPI nº2595 de 29/09/2020.
+         Baseado nas referências US5900392A(D1) e US2003191033A1(D3) do estado da técnica,
+a requerente apresenta suas alegações em relação ao parecer de ciência, adequando o escopo
+reivindicado de forma a fundamentar que as anterioridades D1 e D3 não podem antecipar, indicar
+ou sugerir uma solução técnica equivalente a composição preconizada por etoxilatos de amina
+graxa e óleos de motor à base de polialquileno glicol, conforme a descrição das matérias das
+reivindicações 1-5 do quadro reformulado.
+         A solução do problema da técnica visa prover a minimização de lodos e verniz em óleos
+lubrificantes que, quando se conectam aos filtros de óleo, diminuem a eficácia de lubrificação do
+óleo, o que resulta no aumento do atrito e da temperatura do motor, acelerando ainda mais a
+degradação do óleo com a formação de lodo.
+         A solução proposta envolve um aditivo detergente à base de amina para formulações de
+óleos à base de PAG, o qual não contenha mais que um nitrogênio na cadeia molecular, e que
+seja solúvel em óleos à base de PAG. Em particular, o detergente é compreendido por compostos
+etoxilados de amina graxa tendo 8-20 frações de [-CH2C2O-], os quais atuam como agentes
+redutores de lodo e verniz em óleos à base de PAG.
+         No manifesto interposto, a requerente alega que o documento D3, citado como o mais
+próximo, é dirigido a uma composição lubrificante para prover a redução do desgaste em motores
+diesel devido a presença de fuligem, e sustenta que a referida anterioridade, não aborda uma
+solução técnica relacionada à redução de lodo ou verniz em óleos de motor, ou a detergentes
+
+
+
+                                                                                         Página 2
+                                        BR112017007779-5
+
+
+para lubrificantes, conforme proposto no escopo reivindicado do presente pedido.
+       A requerente alega que a solução técnica, que o presente pedido propõe resolver, está
+diretamente relacionada ao problema de redução de lodo ou verniz, especificamente, em óleos de
+base PAG. Nesse sentido, considerando que os óleos lubrificantes dirigidos ao escopo do pedido
+são referentes aos óleos à base de PAG (polialquilenoglicol), a requerente questiona que os
+detergentes vinculados e empregados aos óleos do presente pedido tem especificidades distintas
+em relação àqueles a base de óleos minerais, conforme preconizados e destacados pela
+anterioridade D3 (ver em D3, parágrafo [0101]).
+       Com base na abordagem problema-solução, a requerente alega que um especialista no
+assunto ao assumir o documento D3, que aborda uma composição baseada em óleos minerais, e
+tendo em conta a distinção entre detergentes formulados em óleos minerais em relação àqueles
+empregados em óleos base lubrificante de PAG, não teria os meios de solucionar o problema de
+redução de lodo e formação de verniz, cuja composição, à base de PAG associado aos
+detergentes etoxilados de aminas graxas, evita a formação de lodo e verniz, conforme a
+proposição do escopo reformulado.
+       Além disso, a requerente alega que o problema técnico a ser resolvido a partir da
+referência D3 citada, é voltado para a redução do atrito em motores de combustão interna, mesmo
+na presença de fuligem resultante da combustão incompleta de combustível, particularmente, em
+composições de óleo lubrificante adequadas para motores diesel equipados com EGR (sistema de
+recirculação de gases exaustos).
+       Nesse sentido, a requerente alega que um técnico no assunto não teria como propor,
+modificar ou adaptar os detergentes distintos que sejam plausíveis para preparar composições à
+base de PAG, de forma a proporcionar à redução de lodo ou verniz.
+       A requerente sustenta assim, que os etoxilados de amina graxa contendo 8-20 frações de
+-CH2C2O- (EO) atuam como agentes redutores de lodo e verniz em óleos à base de PAG,
+fornecendo de forma surpreendente, boa estabilidade à oxidação, baixa formação de verniz e boa
+detergência, em comparação com o óleo de base PAG sem o etoxilato de amina graxa, com base
+nos resultados prescritos na tabela 3 do relatório descritivo.
+       Em relação ao documento D1 citado, a requerente tem o entendimento que a anterioridade
+não aborda uma solução voltada à redução de lodo ou verniz em óleos de motor, ou a detergentes
+para lubrificantes, e sustenta que o efeito técnico de redução de lodo e/ou formação de verniz, não
+é ensinado ou sugerido pelos documentos D1 e D3 da técnica anterior.
+       Reexaminando o presente pedido, com base no quadro reformulado e a partir das
+alegações da requerente interpostas no manifesto, cabe aqui fazer algumas considerações acerca
+do escopo reivindicado.
+       O documento D3 divulga uma composição de lubrificante compreendida por um óleo base
+lubrificante que envolve um óleo mineral e/ou óleo sintético, ou similar, incorporando uma
+quantidade igual ou superior 1%(p/p) de um surfactante não iônico com óxido de alquileno, com
+base no peso total da composição do óleo lubrificante.
+       Em relação ao questionamento da requerente, quanto ao fato de sustentar que a referência
+D3 preconiza uma composição lubrificante cujo óleo base é compreendido apenas por um óleo
+
+
+                                                                                          Página 3
+                                        BR112017007779-5
+
+
+mineral, verifica-se de forma adversa, que o referido documento D3 não apenas expressa ser o
+referido óleo lubrificante base mineral e/ou sintético (ver em D3 resumo), mas ainda indica ser o
+óleo base sintético empregado na composição compreendida por uma série de compostos
+sintéticos   que    incluem   polioxialquilenoglicol,   éster   de   polioxialquilenoglicol,   éter   de
+polioxialquilenoglicol, etc. (ver em D3, parágrafo 0037).
+       Nesse sentido, D3 sinaliza e sugere óleos bases sintéticos da mesma classe química do
+óleo base de PAG do presente sentido, e um técnico no assunto, ao contrário daquilo que afirma a
+requerente, poderia sim considerar os compostos detergentes indicados e sugeridos por D3 para
+concretização de uma composição que envolva um óleo base sintético e uma amina alcoxilada.
+       Inclusive o próprio documento D3 ensina e sugere, particularmente, aminas alcoxiladas, tal
+como representada por uma alquil polioxialquileno amina, sendo esta definida a partir da
+fórmula estrutural (IV), conforme o etoxilado de amina graxa de fórmula (I) do escopo reivindicado.
+       D3 divulga em relação à composição de óleo lubrificante, o uso de uma quantidade do
+surfactante-não iônico tal como representado por uma alquil polioxialquileno amina que
+encontra-se ajustada a um teor superior a 0,01% (p/p), com base no peso total da composição
+lubrificante, permitindo como efeito reduzir suficientemente o atrito no desempenho do motor (ver
+em D3, parágrafo 0091).
+       A requerente alega que o problema técnico a ser resolvido por D3 estaria direcionado ao
+fato da composição evitar a redução do atrito em motores de combustão interna, mesmo na
+presença de fuligem resultante da combustão incompleta de combustível, e que nesse sentido, um
+técnico no assunto não teria como se basear na anterioridade D3 citada para solucionar o
+problema de redução de lodo e formação de verniz em composições lubrificantes, conforme o
+escopo reivindicado propõe resolver.
+       O documento D1 que embora sugira uma composição lubrificante para correias
+transportadoras, trata-se de uma anterioridade do mesmo campo técnico. Nesse sentido, D1 traz
+a indicação aos problemas relacionados à presença de precipitados pouco solúveis, que se
+manifestam turvando a solução lubrificante, e causando avarias como resultado de depósitos em
+zonas cegas, ou entupimento dos bocais do sistema de dispensação, os quais devem ser
+removidos regularmente por limpeza frequente dos sistemas, tal como a formação de lodos em
+sistemas de lubrificação, e conforme aquilo que propõe o escopo reivindicado (ver em D1, coluna
+1, linhas 25-35).
+       Em particular, para resolver tal problema, o documento D1 propõem o uso de uma
+composição com um teor entre 1,0-10% (p/p) de um alquil propileno tetramina graxo, e ainda,
+um teor entre 1,0 a 10% (p/p) de um éter poliglicol de álcool graxo, sendo todas as
+porcentagens baseadas no peso total composição do lubrificante (ver em D1, resumo).
+       A referência ainda preconiza em relação às monoaminas graxas, o emprego de agentes
+dispersantes adequados em uma quantidade entre 0-5%(p/p) em relação ao peso da
+composição, que segue o mesmo teor do escopo reivindicado, particularmente, agentes
+dispersantes como o trietanol amina, alquil diaminas graxas alcoxiladas, e em particular, alquil
+monoaminas graxas alcoxiladas que segue a seguinte fórmula estrutural:
+
+
+
+
+                                                                                               Página 4
+                                       BR112017007779-5
+
+
+
+
+cujos radicais R5, A, B, x e y, se encontram definidos na referência, sendo inclusive, mencionados
+no parecer anteriormente exarado.
+       Sendo assim, pelas razões supracitadas neste parecer, e também no parecer anterior,
+depreende-se que as matérias das reivindicações 1-4 e 5, a partir do documento D3, mais
+próximo, em combinação o aquilo que indica e sugere o documento D1, permanecem carecendo
+de ATIVIDADE INVENTIVA, por contrariarem aquilo que dispõem os Artigos 8o e 13 da LPI.
+
+
+
+Conclusão
+
+
+      Portanto, as matérias das reivindicações 1-4 e 5 com base nos documentos D3 combinado
+com D1 não apresentam ATIVIDADE INVENTIVA, estando as referidas matérias em desacordo
+com os Artigos 8o e 13 da LPI.
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido.
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+                                                           Rio de Janeiro, 3 de setembro de 2021.
+Flávio dos Reis Gonçalves
+Pesquisador/ Mat. Nº 1550074
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº 022/12
+
+
+
+
+                                                                                         Página 5
+

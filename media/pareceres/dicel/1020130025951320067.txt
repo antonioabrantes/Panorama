@@ -1,0 +1,150 @@
+                                         SERVIÇO PÚBLICO FEDERAL
+                                          MINISTÉRIO DA ECONOMIA
+                              INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                         BR102013002595-0            N.° de Depósito PCT:
+ Data de Depósito:                      01/02/2013
+ Prioridade Unionista:                  US 13/366,231 (03/02/2012)
+ Depositante:                           Apple Inc (US)
+ Inventor:                              Scott Forstall, Terry Blanchard, Daniel Shteremberg, Angela Guzman,
+                                        Stephen Lemay, Phillip Tao, Chris Lindsay, Ashley Clark
+ Título:                                Gerenciamento de caixa de correio de email 
+
+                                                                     PARECER
+       Em 10/11/2020, por meio da petição nº 870200141808, a Requerente apresentou
+modificações no pedido em resposta ao parecer emitido, notificado na RPI nº 2591 de 01/09/2020
+(despacho 7.1). Estas modificações estão consideradas no Quadro 1.
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas            n.o da Petição         Data
+Relatório Descritivo                                          1 à 21             870200141808         10/11/2020
+Quadro Reivindicatório                                         1à7               870200141808         10/11/2020
+Desenhos                                                       1à8             020130009258-NPRJ      01/02/2013
+Resumo                                                           1               870200141808         10/11/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                        X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                           X
+O pedido está de acordo com disposto no art. 32 da LPI                                            X
+Comentários/Justificativas
+
+                       Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                                Sim         Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                              X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                            X
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                                Página 1
+                                                         BR102013002595-0
+
+
+                                    Quadro 4  Documentos citados no parecer
+ Código                                                Documento                        Data de publicação
+    D1                                               US 6057841 A                              02/05/2000
+    D2                                           US 2006031329 A1                              09/02/2006
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                     Cumprimento   Reivindicações
+                                                                           Sim           1 à 21
+             Aplicação Industrial
+                                                                          Não              -
+                                                                           Sim           1 à 21
+                     Novidade
+                                                                          Não              -
+                                                                           Sim             -
+             Atividade Inventiva
+                                                                          Não            1 à 21
+Comentários/Justificativas
+
+         A requerente argumenta que o documento D1 não ensina a criação de um controle de
+interface de usuário adicional ao estabelecer uma regra, assumindo que qualquer pasta para a
+qual uma regra moveria uma mensagem já existia (seleção a partir de objetos disponíveis, linhas
+17 à 25 da coluna 13 de D1) quando da definição da regra. Por consequência, não seria sugerida
+no documento D1 a definição de uma caixa de correio em resposta a uma nova regra ou exibição
+da caixa de correio por meio de um controle de interface de usuário, conforme definido no método
+da reivindicação 1 do presente pedido. Entende-se natural a um técnico no assunto implementar
+uma rotina de criação de pasta de correio eletrônico caso não haja uma para a regra definida.
+Além disso, o documento D2 revela a criação automática de uma pasta separada para onde
+mover mensagens de correio eletrônico por meio de uma ação implementada em uma regra
+(figuras 4, 5D; parágrafos 0051 à 0053, 0058; reivindicação 5 de D2).
+
+         A requerente também argumenta que um técnico no assunto entenderia que uma
+mensagem "de uma lista de endereços" seria uma mensagem apenas enviada pela lista de
+endereços, em oposição a ser enviada por um remetente individual que é então correspondido
+com a lista pelo sistema do computador destinatário. Entende-se que o problema tecnico em
+questão seria como aplicar uma regra a uma mensagem recebida de modo a vincular o endereço
+da mensagem a outro endereço, tais meios são revelados no documento D1.
+
+         No método da reivindicação 1, o usuário define uma regra por referência a um primeiro
+endereço de e-mail e o computador faz referência a uma lista de contatos para determinar se a
+mesma regra também deve ser aplicada a um segundo endereço de e-mail. A requerente indica
+ainda que D1 nem mesmo sugere o último princípio de operação. Discorda-se da requerente,
+entende-se à luz da reivindicação 1 do presente pedido, que o documento D1 revela a aplicação e
+edição de regras sobre mensagens de e-mails individuais e listas de endereços de e-mails, sendo
+natural a um técnico no assunto, quando necessário realizar a tarefa de vincular mais de um
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 2
+                                                            BR102013002595-0
+
+
+endereço de e-mail a um mesmo contato, remeter-se aos ensinamentos do documento D1
+(resumo; figuras 1 à 6B; coluna 1: linhas 15 à 19; coluna 2: linhas 5 à 46; coluna 3: linhas 40 à 48;
+coluna 5: linhas 43 à 52; coluna 6: linhas 33 à 63; coluna 9: linhas 43 à 65; coluna 11: linha 56 à
+coluna 12: linha 7; reivindicações 1 à 6 de D1) combinando-os com os ensinamentos do
+documento D2 (resumo; figuras 1 à 4, 5A-D, 6, 7; parágrafos 0001, 0005 à 0006, 0039 à 0045,
+0051 à 0052, 0055 à 0058; reivindicações 1 à 6 de D2) de modo a implementar uma regra para
+buscar características similares ou idênticas (que definam um mesmo contato por exemplo) que
+permitam associar um segundo endereço individual, ou em uma lista, a um primeiro endereço.
+Entende-se também que particularidades definidas nas regras pleiteadas quanto a seleção de
+mensagens e endereços de um contato estão relacionadas à critérios organizacionais e não
+necessariamente solucionam um problema técnico.
+
+            Em relação ao documento D2, a requerente argumenta que este não ensina que a regra é
+aplicada a qualquer endereço de e-mail diferente dos endereços expressamente identificados em
+uma mensagem ou tópico.                       Porém os ensinamentos do documento D2 são combinados aos
+ensinamentos do documento D1 que revela a aplicação de regras a quaisquer endereços de e-
+mail.
+
+            É portanto mantida a análise anterior, considera-se que a parte técnica da matéria
+presente nas reivindicações 1 à 21 carece de atividade inventiva frente à combinação dos
+ensinamentos dos documento D1 e D2, estando em desacordo com o Artigo 8º combinado ao 13
+da LPI.
+
+
+
+Conclusão
+
+        Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+        -      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+        De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                          Rio de Janeiro, 29 de Novembro de 2020.
+
+                                                                                 Publique-se o indeferimento (9.2).
+
+
+Luciano Lauand Viana de Paula
+Pesquisador/ Mat. Nº 2042359
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 001/16
+
+
+
+
+            Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                   Página 3
+

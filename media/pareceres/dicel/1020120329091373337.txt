@@ -1,0 +1,158 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102012032909-3        N.° de Depósito PCT:
+ Data de Depósito:                   21/12/2012
+ Prioridade Unionista:               -
+ Depositante:                        INTELIMIDIA SOLUÇÕES EM INTELIGÊNCIA MERCADOLÓGICA
+                                     LTDA (BRSP)
+ Inventor:                           RODRIGO PARANÁ SANCHES
+ Título:                             Sistema e método para medição integrada da eficiência de
+                                     comunicações promocionais 
+
+                                                              PARECER
+          O presente pedido engloba em plataforma única meios de mediçäo das formas possíveis
+de um consumidor reagir a um anúncio em qualquer meio de comunicação, com análise em
+tempo real das respostas dos consumidores, compreendendo e integrando entidades
+anunciantes (1), uma ou mais entidades 10 de veiculação (2), que possuem servidores ligados a
+base de dados de anúncios (5), provendo meios para o cálculo do retorno do investimento
+publicitário bem como meios para o \ aumento da eficiência das campanhas publicitarias, que
+podem ser utilizados tanto pelos anunciantes, proporcionando melhor 15 resultado por unidade
+de investimento, como para os veículos, proporcionado aumento da receita publicitaria.
+
+
+
+          Em 25/01/2021, por meio da petição 870210008529, a requerente apresentou
+argumentação em relação ao parecer de ciência publicado na RPI Nº 2599 de 27/10/2020.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                            25 Págs. (Págs. 9            018120047560     21/12/2012
+                                                  a 33 do PDF)
+Quadro Reivindicatório                          4 Págs. (Págs. 13            870200006142     13/01/2020
+                                                  a 16 do PDF)
+Desenhos                                        7 Págs. (Págs, 38            018120047560     21/12/2012
+                                                  a 44 do PDF)
+Resumo                                         1 Pág. (Pág. 45 do            018120047560     21/12/2012
+                                                     PDF)
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                           BR102012032909-3
+
+
+Artigos da LPI                                                                 Sim               Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)             X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                        X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                         X
+O pedido está de acordo com disposto no art. 32 da LPI                          X
+Comentários/Justificativas: a matéria reivindicada incide no art. 10, III da LPI, por se tratar de
+método publicitário.
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                 Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI            X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI          X
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                   Data de publicação
+    D1                                  US20100042403                                       18/02/2010
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento                 Reivindicações
+                                                         Sim                         1 a 11
+            Aplicação Industrial
+                                                         Não                            -
+                                                         Sim                         1 a 11
+                 Novidade
+                                                         Não                            -
+
+                                                         Sim                            -
+            Atividade Inventiva
+                                                         Não                         1 a 11
+Comentários/Justificativas:
+
+         Em seus argumentos a requerente afirma que: D1 se refere à publicidade online e
+descreve um sistema cujo ponto de partida é a análise de sentimentos, interesses e
+linguagem de cada indivíduo público-alvo, tendo por base as interações deste com dispositivos
+móveis de comunicações, ou seja, aparelhos celulares. A partir dessa análise, o sistema
+seleciona o material     publicitário    sob   medida,      encaminhando-o    ao    indivíduo.       Esse
+encaminhamento seletivo é efetuado online, ou seja, o anúncio é veiculado através do terminal
+de telecomunicações que pode ser um aparelho celular ou um computador. Já, a invenção
+objeto do pedido de patente BR 10 2012 032909-3 aplica-se a anúncios veiculados em
+
+
+                                                                                                   Página 2
+                                        BR102012032909-3
+
+
+mídias tradicionais offline, sendo a resposta ao anúncio uma iniciativa que parte do indivíduo.
+Tal resposta pode manifestar-se de várias formas, compreendendo comunicações online ou
+off-line.
+
+
+        A requerente faz diferenciação entre publicidade on-line e offline, porém tanto o pedido
+quanto a anterioridade utilizam recursos computacionais conhecidos para exibição de
+propaganda, sendo que o pedido não deixa de estar em desacordo com o art. 10, III da LPI,
+configurando-se como publicidade.
+
+
+
+        O conteúdo do pedido pode ser encontrado em (D1: resumo, parágrafos 1 e 10,
+reivindicação 1). A veiculação de uma peça publicitária passiva é uma forma simplificada de
+uma veiculação ativa. O pedido não possui atividade inventiva.
+
+
+
+
+Conclusão
+
+
+        Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI), nem é considerado
+invenção, uma vez que incide no Art. 10 da LPI
+
+
+
+        De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 01 de março de 2021.
+
+
+
+
+Paulo Roberto Dutra Magalhaes
+Pesquisador/ Mat. Nº 1287310
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+008/13
+
+
+
+
+                                                                                          Página 3
+

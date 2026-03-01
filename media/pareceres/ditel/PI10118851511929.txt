@@ -1,0 +1,232 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI1011885-3                N.° de Depósito PCT:FR2010/051209
+ Data de Depósito:                   17/06/2010
+ Prioridade Unionista:               FR 0954194 (19/06/2009)
+ Depositante:                        France Telecom (FR)
+ Inventor:                           Stéphane Pateux, Gordon Clare, Joël Jung
+ Título:                             Métodos para a codificação e decodificação de um sinal de imagens,
+                                     dispositivos de codificação e decodificação, sinal e programas de
+                                     computador correspondentes. 
+
+                                                                PARECER
+          O presente pedido refere-se a métodos e dispositivos para codificação/decodificação de
+imagens por estimativa e compensação de movimento cujo objetivo é obter um melhor
+desempenho, limitando o custo da sinalização e, por conseguinte, aumentar a eficiência da
+compressão através da redução do número de preditores candidatos (vetores de movimento).
+
+          Em 27/05/2020, por meio da petição 870200065797, o Depositante apresentou
+argumentações e modificações no pedido em resposta ao parecer emitido no âmbito da
+Resolução Nº 241/2019, notificado na RPI 2565 de 03/03/2020 segundo a exigência preliminar
+(6.21).
+
+          Em 04/10/2021, por meio da petição 870210091664, o Depositante apresentou
+argumentações e modificações no pedido em resposta ao parecer de ciência (despacho 7.1)
+notificado na RPI 2638 de 27/07/2021, no qual se considerou que o presente pedido carecia de
+atividade inventiva por ser mera decorrência do estado da técnica representado por D2
+(US2008117978).
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                    1 a 23               870210091664     04/10/2021
+
+Quadro Reivindicatório                                   1a6                 870210091664     04/10/2021
+
+Desenhos                                                 1a4                 870200065797     27/05/2020
+Resumo                                                      1                870210091664     04/10/2021
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                          Página 1
+                                               PI1011885-3
+
+
+                                          maio de 1996  LPI
+Artigos da LPI                                                           Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                       x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   x
+O pedido está de acordo com disposto no art. 32 da LPI                    x
+Comentários/Justificativas -
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas -
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D2                                 US2008117978                               22/05/2008
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                   1 a 12
+            Aplicação Industrial
+                                                         Não                      -
+                                                         Sim                   1 a 12
+                  Novidade
+                                                         Não                      -
+                                                         Sim                      -
+            Atividade Inventiva
+                                                         Não                   1 a 12
+
+
+
+Comentários/Justificativas
+
+         Em sua manifestação, a Requerente argumentou que:
+
+   1. 'Primeiramente, o documento D2 não revela nem sugere as características técnicas das
+         novas reivindicações independentes e, especialmente, as características técnicas abaixo:
+
+                 - "a implementação do dito critério predeterminado pertence ao grupo que
+                 compreende igualdade entre os ditos primeiros vetores candidatos e a comparação
+
+
+
+
+                                                                                          Página 2
+                                      PI1011885-3
+
+
+           da diferença entre os ditos primeiros vetores candidatos com um primeiro limite
+           predeterminado":
+
+           - a posição no espaço e/ou no tempo dos ditos primeiros vetores candidatos é
+           pré-identificada.
+
+   Os parágrafos do documento D2 citados pela Sra. Examinadora, de fato, preveem a
+   limitação do número de vetores de movimento candidatos, de modo a limitar os recursos
+   computacionais usados para cada macrobloco. A limitação do número de vetores de
+   movimento candidatos pode consistir, de acordo com a técnica descrita no documento D2,
+   em fundir candidatos "redundantes", mantendo o vetor candidato mais próximo da
+   estimativa atual do vetor de movimento previsto. Por exemplo, dois vetores de movimento
+   candidatos são considerados próximos "se eles estiverem dentro do alcance de pesquisa
+   um do outro". O parágrafo 25 de D2 detalha esta noção de pesquisa. Por exemplo, as
+   regiões de pesquisa candidatas podem incluir: os melhores vetores de movimento de um
+   quadro anterior; os melhores vetores de movimento de uma etapa de refinamento anterior;
+   os melhores vetores de movimento para macroblocos anteriores na mesma etapa de
+   refinamento; e/ou a estimativa atual do vetor de movimento previsto
+
+   Assim, o documento D2 não revela a mesma técnica para limitar o número de vetores de
+   movimento candidatos como aquela usada na presente invenção, e em particular
+   reivindicada na antiga reivindicação 5 (agora incorporada nas novas reivindicações
+   independentes), isto é, em relação à proximidade entre dois vetores de movimento
+   candidatos (igualdade ou comparação de sua diferença com um primeiro limite)'.
+
+2. 'Além disso, o documento D2 não revela nem sugere que "a posição no espaço e/ou no
+   tempo dos ditos primeiros vetores candidatos é pré-identificada", como agora definido nas
+   novas reivindicações independentes. Esta característica revela que a posição no espaço
+   e/ou no tempo dos ditos primeiros vetores candidatos é, portanto, também conhecida pelo
+   decodificador, "(...) Esta escolha é predeterminada pelo e conhecida do decodificador, para
+   que o mesmo possa implementar um método de decodificação semelhante ao método de
+   codificação implementado." (vide relatório descritivo originalmente depositado  página
+   15)'.
+
+
+
+   Análise das argumentações da Requerente:
+
+1. Quanto às argumentações da Requerente presentes no item 1 anterior, a pesquisa citada
+   pela requerente referente ao parágrafo 25 de D2 detalha a etapa 310 da Figura 3,
+   determine candidate search regions. A Figura 3 de D2 ilustra um método iterativo de
+   refinamento dos candidatos a vetor de movimento. Os parágrafos 27 e 28 de D2, citados
+   pelo exame anterior, detalham a etapa 320 da Figura 3, trim candidate search region em
+   que o espaço de busca inicial, resultado da etapa 310, é refinado através da eliminação de
+   candidatos próximos. Como os vetores 505 e 504 são muito próximos, apenas um deles é
+
+
+
+                                                                                     Página 3
+                                              PI1011885-3
+
+
+          mantido (o 504). Apesar de D2 não detalhar o critério utilizado para se determinar tal
+          proximidade entre os vetores, um técnico no assunto sabe que a distância entre dois
+          vetores pode ser facilmente calculada matematicamente pela diferença vetorial entre eles,
+          sendo um detalhe de implementação óbvio para um técnico no assunto. Se esta diferença
+          resultar em 0 (vetores iguais) ou em um vetor com módulo pequeno (ou seja, menor que
+          um   limite   pré-estabelecido),   os   vetores   podem   obviamente    ser   considerados
+          respectivamente iguais ou muito próximos.
+
+   2. Quanto às argumentações da Requerente presentes no item 2 anterior, ao contrário do
+          argumentado pela Requerente, o documento D2 antecipa "a posição no espaço e/ou no
+          tempo dos ditos primeiros vetores candidatos é pré-identificada", pois D2 baseia-seem
+          estimativa e compensação de movimento (ver D2, parágrafos 4 e 5, Figura 1) em que as
+          redundâncias temporais entre os frames de vídeo são exploradas para reduzir a
+          quantidade de informações transmitidas na saída do codificador. Um frame de referência
+          anterior (110), previamente codificado, é utilizado pelo frame sendo codificado (120). O
+          frame 110 é buscado em vários pontos dentro de uma região de busca 111 para
+          identificação de uma posição (vetor de movimento 115) que se refere a uma região 113
+          que casa melhor com o macrobloco 123 sendo codificado do frame 120. Os dados
+          codificados (transmitidos) são o vetor de movimento e a diferença entre os pixels do
+          macrobloco 123 e da região 113. Sendo assim, em D2, o decodificador deve
+          necessariamente saber a posição no espaço (coordenadas) e no tempo (a qual frame se
+          referem) dos vetores de movimento candidatos para realizar a correta decodificação no
+          processo de estimativa e compensação de movimento com refinamento dos vetores de
+          movimento candidatos proposto por D2 (ver também D2, resumo, Figuras 3-5, parágrafos
+          25 a 28).
+
+          Sendo assim, as argumentações e modificações apresentadas pela Requerente foram
+          consideradas insuficientes para sustentar a atividade inventiva da matéria pleiteada frente
+          ao estado da técnica representado por D2.
+
+Conclusão
+
+       Face ao exposto neste parecer, reafirma-se que o presente pedido contraria o disposto
+no Art. 8° combinado com o 13 da LPI, conforme comentários ao Quadro 5 deste parecer.
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -     não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                    Publique-se o indeferimento (9.2).
+
+
+
+                                                                                             Página 4
+                                     PI1011885-3
+
+
+
+
+                                                   Rio de Janeiro, 1 de dezembro de 2021.
+
+
+
+
+Carolina Medeiros Carvalho
+Pesquisador/ Mat. Nº 1504559
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+022/12
+
+
+
+
+                                                                                Página 5
+

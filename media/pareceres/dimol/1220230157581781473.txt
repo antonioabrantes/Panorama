@@ -1,0 +1,188 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122023015758-3                        N.° de Depósito PCT:
+ Data de Depósito:                   26/10/2012
+ Prioridade Unionista:               -
+ Depositante:                        GENMAB AS (DK)
+ Inventor:
+ Título:                             MÉTODO IN VITRO PARA A PRODUÇÃO DE UM ANTICORPO
+                                     BIESPECÍFICO DE COMPRIMENTO TOTAL
+
+                                                              PARECER
+O presente pedido se refere a divisão do BR112014010023-3, notificada em 1209/2023, estando
+este na mesma fase processual do pedido original.
+
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                                Sim      Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                      x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)       x
+
+O pedido refere-se a Sequências Biológicas                                                                x
+
+Comentários/Justificativas
+
+
+
+Pedido anuído pela ANVISA conforme notificado na RPI nº 2596 de 06/10/2020.
+
+
+
+O INPI emitiu a exigência de código 6.6.1 na RPI 2464 de 2703/2018, para fins de manifestação
+do depositante quanto à ocorrência de acesso ao Patrimônio Genético nacional e/ou
+Conhecimento Tradicional Associado para obtenção do objeto do presente pedido. Não tendo
+havido manifestação do depositante no prazo de 60 (sessenta) dias contados a partir da
+publicação na RPI, o INPI deu prosseguimento ao exame técnico com o entendimento de que
+não houve acesso ao patrimônio genético nacional e/ou conhecimento tradicional associado,
+conforme consta no texto do despacho de código 6.6.1 publicado na RPI, de acordo com
+entendimento firmado pela Procuradoria Federal Especializada junto ao INPI (PFE-INPI) no
+Parecer           nº         00001/2018/PROCGAB/PFE-INPI/PGF/AGU                            (Processo   INPI       nº
+52400.002142/2018-30), publicado na RPI 2465 de 03/04/2018.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                     Página 1
+                                          BR122023015758-3
+
+                            Quadro 1  Páginas do pedido examinadas
+           Elemento                       Páginas               n.o da Petição           Data
+Relatório Descritivo                      1 a 257
+Listagem de sequências*            Código de Controle
+Quadro Reivindicatório                     1a7                  870230068933           04/08/2023
+Desenhos                                  1 a 115
+Resumo                                       1
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+     0C41698C8BBDE44D (Campo 1) e 5E1C3374B8328A2B (Campo 2).
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                   Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                         x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                 x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                           x
+O pedido está de acordo com disposto no art. 32 da LPI                            x
+Comentários/Justificativas
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                   Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI              x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                      x
+Comentários/Justificativas
+Conforme já discutido no parecer anterior do peido mãe, a reivindicação 1 não define a
+espécie, nem o isótopo a qual pertence o primeiro e o segundo anticorpo de comprimento
+total. . Nos exemplos 1 a 69 do presente pedido, foram feitos experimentos para
+determinar quais condições redutoras permitiriam a separação de cada anticorpo
+monoespecífico em dois meios-anticorpos, preservando o pareamento da cadeia
+leve-pesada dentro cada meio-anticorpo, No entanto, as características técnicas
+essenciais que resultam da otimização das referidas condições, incluindo uma definição
+mais precisa do anticorpo e as condições exatas de redução e oxidação, em que as
+referidas condições se aplicam à sequência específica do anticorpo, não estão presentes
+na reivindicação 1.
+Estas características são consideradas essências para realização do método da invenção
+conforme fundamentado pelo relatório descritivo (Art. 25), e, por tanto devem constar da
+reivindicação independente.
+Todos os experimentos do presente pedido foram realizados com IgG1 humana ou
+humanizadas. Não é possível prever a partir dos ensinamentos que outros isotipos com
+as mesmas mutações vão formar os heterodímeros tal como ocorre com a IgG1 humana
+                                                                                            Página 2
+                                      BR122023015758-3
+ou humanizada, de forma que reivindicações que pleiteiam outros isotipos, como as
+reivindicações 1 a 35, não estão devidamente fundamentadas no relatório descritivo (Art.
+25).
+
+
+
+                        Quadro 4  Documentos citados no parecer
+
+ Código                              Documento                             Data de publicação
+    D3     WO2008119353                                                           09/10/2008
+    D4     JENNIFER CARLRING ET AL, "A Novel Redox Method                          01/01/11
+           for Rapid Production of Functional Bi-Specific Antibodies
+           For Use in Early Pilot Studies", PLOS ONE, vol. 6, no. 7,
+           ISSN 1932-6203, pages e22533  e22533
+           DOI: 10.1371/journal.pone.0022533
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento              Reivindicações
+                                                   Sim                      1 a 35
+           Aplicação Industrial
+                                                   Não                        -
+                                                   Sim                      1 a 35
+                 Novidade
+                                                   Não                        -
+                                                   Sim                      1 a 35
+           Atividade Inventiva
+                                                   Não                        -
+Comentários/Justificativas
+
+Nenhum dos documentos do estado da técnica descrevem um método in             vitro    para    a
+produção    de    um   anticorpo biespecífico de comprimento total utilizando as mutações
+especificamente pleiteada na reivindicação 1 para aumentar a interação heterodimérica entre
+primeira e segunda regiões CH3.
+
+Desta forma, as reivindicações 1 a 35 podem ser consideradas novas.
+
+Os documentos D3 e D4 já ensinavam modificações na CH3, de forma a torna-la mais parecida
+com a da de IgG4, e assim aumentar a interação heterodimérica entre primeira e segunda
+regiões CH3.
+
+No entanto, tais documentos não descrevem as mutações especificamentes pleiteadas, em
+combinação com o método específico de redução e oxidação descrita pelo presente pedido, de
+forma a aumentar a proporção de heterodímeros e reduzir a proporção de homodímeros.
+
+Assim, caso a requerente defina de forma clara, precisa e fundamentada no relatório descritivo
+(Art. 25) o método da invenção, este pode ser considerado inventivo frente aos documentos do
+estado da técnica.
+
+                                                                                        Página 3
+                                        BR122023015758-3
+
+
+
+Conclusão
+
+       A requerente não cumpriu as exigências formuladas no parecer anterior emitido para o
+pedido mãe, e não apresentou argumentação.
+Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 21 de novembro de 2023.
+
+
+
+
+Julia Cordeiro Fontanella
+Pesquisador/ Mat. Nº 1546957
+DIRPA / CGPAT II/DIMOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                           Página 4
+

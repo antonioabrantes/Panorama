@@ -1,0 +1,191 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        PI0912225-7               N.° de Depósito PCT: US2009/043207
+ Data de Depósito:                     07/05/2009
+ Prioridade Unionista:                 US 61/051,336 (07/05/2008); US 61/144,106 (12/01/2009)
+ Depositante:                          BIOMARIN PHARMACEUTICAL INC. (US)
+ Inventor:                             Jonathan H. Lebowitz, John Maga
+ Título:                               Peptídeos de direcionamento lisossomais e usos dos mesmos 
+
+                                                              PARECER
+             O presente pedido refere-se a composições e métodos para direcionamento lisossomal
+baseado na tecnolgia GILT, usando peptídeos de direcionamento lisossomais resistentes à furina,
+que reduziu ou diminuiu a afinidade de ligação pelo receptor de insulina.
+
+              Por meio da petição 870210021803 de 8 de março de 2021 em resposta ao parecer de
+exigência, com despacho 6.1, publicado na RPI 2605 de 8 de dezembro de 2020, a requerente
+apresentou novas cópias do relatório descritivo, do resumo, um novo arquivo de listagem de
+sequências no formato eletrônico, e um novo quadro reivindicatório contendo 12 reivindicações.
+
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim    Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                  X       -
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)   X       -
+O pedido refere-se a Sequências Biológicas                                                            X       -
+Comentários/Justificativas
+
+             Por meio do parecer n° 534/19/COOPI/GGMED/ANVISA, publicado no DOU nº 194 de
+7 de outubro de 2019, foi emitida a anuência da ANVISA sobre o pedido em análise, sendo
+publicada a notificação 7.5, na RPI 2552, de 3 de dezembro de 2019.
+
+             O INPI emitiu a exigência de código 6.6.1 na RPI 2468 de 24 de abril de 2019, para fins
+de manifestação do depositante quanto à ocorrência de acesso ao Patrimônio Genético nacional
+e/ou Conhecimento Tradicional Associado para obtenção do objeto do presente pedido. Não
+tendo havido manifestação do depositante no prazo de 60 (sessenta) dias contados a partir da
+publicação na RPI, o INPI deu prosseguimento ao exame técnico com o entendimento de que
+não houve acesso ao patrimônio genético nacional e/ou conhecimento tradicional associado,
+conforme consta no texto do despacho de código 6.6.1 publicado na RPI, de acordo com
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                               Página 1
+                                                              PI0912225-7
+
+
+entendimento firmado pela Procuradoria Federal Especializada junto ao INPI (PFE-INPI) no
+Parecer nº 00001/2018/PROCGAB/PFE-INPI/PGF/AGU (Processo INPI nº 52400.002142/2018-
+30), publicado na RPI 2465 de 03/04/2018.
+
+         Por meio da petição 870210021803 de 8 de março de 2021 a requerente apresentou o
+arquivo de listagem de sequências em formato eletrônico.
+
+                                    Quadro 1  Páginas do pedido examinadas
+            Elemento                                   Páginas              n.o da Petição         Data
+Relatório Descritivo                                     1-108              870210021803         08/03/2021
+Listagem de sequências*                       Código de Controle            870210021803         08/03/2021
+Quadro Reivindicatório                                     1-4              870210021803         08/03/2021
+Desenhos                                                  1-11              020100103843         05/11/2010
+Resumo                                                      1               870210021803         08/03/2021
+
+      *Listagem de sequências em formato eletrônico referente ao código de controle
+      98604F411A7DB266 (Campo 1) e F87D35375C1E11A2 (Campo 2).
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                           Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                          -        X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                  X        -
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                      X        -
+O pedido está de acordo com disposto no art. 32 da LPI                                       X        -
+Comentários/Justificativas
+
+        A reivindicação 7 vem requerer células que contém ácido nucleico. Tal reivindicação
+pode incluir células de plantas e animais transgênicos, não sendo patenteáveis de acordo com o
+art. 18, inciso III, parágrafo único da LPI.
+
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                           Sim         Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                         X        -
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                       -        X
+Comentários/Justificativas
+         Conforme apontado no parecer anterior, uma sequência com 70% de identidade,
+conforme contido na reivindicação 1 e suas dependentes abrange inúmeras possibilidades, não
+definindo de forma clara a sequência de aminoácidos. A mutação definida pelo resultado a ser
+alcançado não define de forma clara a proteína de fusão, a ser protegida, objeto do presente
+pedido. O termo opcionalmente não restringe a substituição a Lys ou Ala na posição Arg37.
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                   Página 2
+                                                               PI0912225-7
+
+         Definir a proteína de fusão por conter qualquer proteína lisossomal conforme descrito na
+reivindicação 1, também não define de forma clara a matéria a ser protegida. Os exemplos
+apresentam como única enzima lisossomal a alfa-glucosidase ácida humana. Tais reivindicações
+1 a 3 não definem com clareza a matéria objeto de proteção, estando em desacordo com o artigo
+25 da LPI.
+
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                        Data de publicação
+    D1                                               EP1436316B1                               23/01/2008
+    D2        MOLLOY S S ET AL, "Human Furin Is CalciumDependent                               15/08/1992
+              Serine Endoprotease That Recognizes The Sequence Arg-X-
+              XArg And Efficiently Cleaves Anthrax Toxin Protective Antigen",
+              JOURNAL OF BIOLOGICAL CHEMISTRY, THE AMERICAN
+              SOCIETY OF BIOLOGICAL CHEMISTS, INC., BALTIMORE,
+              MD,      US,  vol.    267,    no.   23,   pp.    16396-16402.
+              https://www.ncbi.nlm.nih.gov/pubmed/1644824
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                     Cumprimento   Reivindicações
+                                                                           Sim            1-12
+             Aplicação Industrial
+                                                                          Não              -
+                                                                           Sim            1-12
+                     Novidade
+                                                                          Não              -
+
+                                                                           Sim             -
+             Atividade Inventiva
+                                                                          Não             1-12
+Comentários/Justificativas
+
+          Conforme descrito no parecer anterior, o documento D1 descreve um agente
+terapêutico compreendendo uma enzima lisossomal e a IGF-II humana (reivindicação 1). O
+documento D2 descreve os sítios de clivagem da endopeptidase furina. Com base nos
+documentos D1 e D2 não seria surpreendente para um técnico no assunto promover a
+resistência de uma proteína de fusão à furina conforme informação contida no documento D1
+por meio da mutação ou deleção do sítio de clivagem.
+
+          A requerente não atendeu às exigências exaradas no parecer anterior. As atuais
+reivindicações 1 a 15 não apresentam atividade inventiva, não sendo patenteáveis de acordo
+com o art. 13, combinado com o art. 10 da LPI.
+
+Conclusão
+
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 3
+                                                                PI0912225-7
+
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI);
+
+      -      as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+             descritivo (Art. 25 da LPI);
+
+      -      O presente quadro reivindicatório apresenta matéria não patenteável, de cordo com o
+             Art. 18 da LPI.
+
+      -
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                                              Rio de Janeiro, 25 de março de 2021.
+
+
+
+
+Cláudio Picanço Magalhães
+Pesquisador/ Mat. Nº 1546944
+DIRPA / CGPAT II/DIMOL
+Deleg. Comp. - Port. INPI/DIRPA Nº 010/18
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                     Página 4
+

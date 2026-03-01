@@ -1,0 +1,120 @@
+                                         SERVIÇO PÚBLICO FEDERAL
+                                          MINISTÉRIO DA ECONOMIA
+                              INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.º do Pedido:                       BR112018011919-9         N.º de Depósito PCT: US2016/063139
+ Data de Depósito:                    21/11/2016
+ Prioridade Unionista:                US 14/970,265 (15/12/2015)
+ Depositante:                         Qualcomm Incorporated (US)
+ Inventor:                            Todd Morgan Rasmus
+ Título:                              Gerador de Tensão de Referência de Temperatura Compensada que
+                                      Imprime Tensões Controladas através dos Resistores
+                                                                      PARECER
+
+      A Requerente recebeu notificação de Ciência de Parecer (7.1) publicada na RPI nº 2687 de
+05/07/2022. Através da petição nº 870220067347 de 29/07/2022, a mesma apresentou
+Manifestação sobre o Parecer Técnico e novo Quadro Reivindicatório. Para fins de continuidade
+do exame estão sendo consideradas as vias abaixo:
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas           Nº da Petição         Data
+                                                                                870180050363
+ Relatório Descritivo                                          1-16                                 12/06/2018
+                                                                                 Págs. 7 a 22
+                                                                                870220067347
+ Quadro Reivindicatório                                         1-8                                 29/07/2022
+                                                                                Págs. 21 a 28
+                                                                                870180050363
+ Desenhos                                                       1-4                                 12/06/2018
+                                                                                Págs. 33 a 36
+                                                                                870180050363
+ Resumo                                                         1                                   12/06/2018
+                                                                                   Pág. 37
+
+                  Quadro 2 - Considerações referentes aos Artigos 10, 18, 22 e 32 da LPI
+ Artigos da LPI                                                                             Sim         Não
+ A matéria enquadra-se no Art. 10 da LPI (não se considera invenção)                                     X
+ A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                                             X
+ O pedido apresenta Unidade de Invenção (Art. 22 da LPI)                                        X
+ O pedido está de acordo com disposto no Art. 32 da LPI                                         X
+Comentários/Justificativas: ----
+                        Quadro 3 - Considerações referentes aos Artigos 24 e 25 da LPI
+ Artigos da LPI                                                                             Sim         Não
+ O relatório descritivo está de acordo com disposto no Art. 24 da LPI                           X
+ O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI                         X
+Comentários/Justificativas: ----
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                               Página 1
+                                          BR112018011919-9
+
+
+
+
+                            Quadro 4 - Documentos citados no parecer
+ Código                                Documento                                               Data de publicação
+              HIRONORI BANBA ET AL: A CMOS Bandgap Reference Circuit
+              with Sub-1-V Operation, IEEE JOURNAL OF SOLID-STATE
+    D1        CIRCUITS, IEEE SERVICE CENTER, PISCATAWAY, NJ, USA,                                     1999-05-01
+              vol. 34, no. 5, 1 May 1999 (1999-05-01), XP011060992, ISSN:
+              0018-9200
+
+         Quadro 5 - Análise dos Requisitos de Patenteabilidade (Art. 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento                              Reivindicações
+                                                      Sim                                        1-15
+             Aplicação Industrial
+                                                     Não                                          ----
+                                                      Sim                                        1-15
+                  Novidade
+                                                     Não                                          ----
+                                                      Sim                                         ----
+             Atividade Inventiva
+                                                     Não                                         1-15
+Comentários/Justificativas:
+    Na manifestação a Requerente alega que realizou modificações no Quadro Reivindicatório de
+modo que o presente pedido de privilégio de patente de invenção descreve que as tensões dreno-
+fonte Vds dos FETs M1 e M2 se tornam relativamente pequenas devido a uma tensão de
+alimentação Vdd baixa e uma redução de temperatura significativa, o Vds dos FETs Mie M2 pode
+ser significativamente menor do que Vds do FET M3; assim, fazendo com que a resistência do
+FET M3 seja diferente das resistências dos FETs Mie M2. Isso ocasiona o descasamento entre a
+corrente I3 e as correntes I1 e 12, que produz erro na tensão de referência Vref.
+
+    Apesar das alegações da Requerente, D1 descreve o mesmo circuito de referência bandgap
+que o da figura 1 do presente pedido de privilégio de patente de invenção. Nas reivindicações são
+feitas referências a resistores, diodos, transistores e amplificadores operacionais. Um técnico no
+assunto sabe que um resistor ou um diodo é um componente elétrico de dois terminais, que um
+transistor é um dispositivo semicondutor com pelo menos três terminais e que um amplificador
+operacional é um amplificador de tensão eletrônico de alto ganho acoplado em CC com uma
+entrada diferencial e um único saída é. As reivindicações, portanto, não descrevem como os
+diferentes terminais dos diferentes elementos usados no presente pedido são conectados um ao
+outro.
+
+Conclusão
+    Face ao exposto, conclui-se que a invenção ora pleiteada decorre de maneira evidente ou
+óbvia, para um técnico no assunto, a partir do estado da técnica, sendo desprovida de atividade
+inventiva, conforme Art. 13 da LPI.
+
+
+
+
+                                                 Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 2
+                                                  BR112018011919-9
+
+    Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que o mesmo não
+atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+    Rio de Janeiro, 30 de agosto de 2022.
+
+    Publique-se o indeferimento (9.2).
+
+    CAMILO BRAGA GOMES
+    Pesquisador / Mat. Nº 1547071
+    DIRPA / CGPAT III / DIFEL
+    Deleg. Comp. - Port. INPI / DIRPA Nº 022/12
+
+
+
+
+                                                        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 3
+

@@ -1,0 +1,192 @@
+                                  SERVIÇO PÚBLICO FEDERAL
+                   MINISTÉRIO DA INDÚSTRIA, COMÉRCIO EXTERIOR E SERVIÇOS
+                       INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI1008640-4               N.° de Depósito PCT:FI2010/050085
+ Data de Depósito:                   11/02/2010
+ Prioridade Unionista:               FI 20090045 (11/02/2009)
+ Depositante:                        Outokumpu OYJ (FI) , OUTOTEC OYJ (FI)
+ Inventor:                           Mäkelä Tuomo, Niemelä Pekka
+ Título:                             Método para produzir uma liga ferrosa contendo níquel 
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-14               870170060532           21/08/2017
+Quadro Reivindicatório                                     1-5               870170060532           21/08/2017
+Desenhos                                                    1                020110084165           11/08/2011
+Resumo                                                      1                870170060532           21/08/2017
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         x
+Comentários/Justificativas
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                            PI1008640-4
+
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                                Documento                                Data de publicação
+    D1                                 CN1847440                                       18/10/2006
+
+    D2                               US2008/0011126                                    17/01/2008
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade              Cumprimento                  Reivindicações
+                                                     Sim                          1-23
+            Aplicação Industrial
+                                                     Não                           -
+                                                     Sim                          1-23
+                  Novidade
+                                                     Não                           -
+
+                                                     Sim                           -
+             Atividade Inventiva
+                                                     Não                          1-23
+
+
+
+Comentários/Justificativas
+
+
+
+Após notificação de despacho de ciência (código 7.1) na RPI nº 2421 em 30/05/2017, a
+requerente impetrou a petição de número 870170060532 em 21/08/2017, onde apresenta
+resposta à ciência. Nessa petição a requerente apresentou novas vias do relatório descritivo,
+quadro reivindicatório e resumo.
+
+Através da petição supracitada, o novo quadro reivindicatório e o relatório descritivo apresentado
+está de acordo com o Art. 25 da LPI.
+
+Quanto a análise dos requisitos de patenteabilidade, como apresentado na notificação de
+despacho de ciência, a reivindicação 1 não atende ao requisito atividade inventiva, pois decorre
+de maneira evidente ou óbvia para um técnico no assunto a partir dos documentos D1 e D2
+conforme a seguir:
+
+         - matéria-prima finamente triturada contendo ferro, níquel e cromo para formação de uma
+         liga de ferro está contemplada em D1 [página 9, reivindicação 4];
+
+         - O processo de aglomeração, calcinação seguido pela redução dos péletes estão
+         contempladas no documento D2 [página 2, coluna 1, parágrafo 0015 e coluna 2,
+         parágrafos 0022, 0023];
+
+         - A obtenção de uma liga ferro/cromo/níquel tendo a proporção de cromo para níquel
+         entre 1,5 e 5, vantajosamente, entre 2,0 e 3,1. Esta reivindicação já está pleitada no
+         documento D1 [página 9, reivindicação 1].
+
+
+
+
+                                                                                              Página 2
+                                          PI1008640-4
+
+
+E quanto as reivindicações dependentes 2 a 23 não foram identificadas características que,
+mesmo quando combinadas com as características de qualquer reivindicação independente a
+que se referem, venham a prover atividade inventiva à matéria.
+
+Diante do que foi exposto a requerente ressalta primeiramente que a matéria-prima utilizada no
+pedido e em D1 são diferentes. Enquanto no pedido de patente o material finamente triturado
+contendo níquel é primeiro fixado com um concentrado de cromita contendo ferro finamente
+triturado, e péletes são formados a partir dessa mistura; em D1 a fonte de níquel e cromo é uma
+lama industrial de Ni-Cr e um pó de minério de Ni-Cr. No entanto, não foi relatado no relatório
+descritivo nenhum efeito técnico diferenciado na liga ferrosa contendo níquel quando as
+matérias-primas de níquel e de cromo vêm de fontes diferentes.
+
+A requerente destacou também que no documento D1 não utiliza um material aglutinante
+durante a etapa de aglomeração. No entanto, no quadro reivindicatório [D1, reivindicação 11,
+página 10] cita que um dos compostos do material de fluxo é o calcário, composto comumente
+utilizado como aglutinante nos processos de aglomeração de minério.
+
+Outro ponto citado pela requerente foi de que os aglomerados não são tratados termicamente a
+uma temperatura na faixa de 1150 a 1400ºC. Todavia, o documento D1 cita no seu quadro
+reivindicatório que as pelotas fabricadas passam por um processo de sinterização [D1,
+reivindicação 4, página 9]. Tal processo trata-se portanto de um processo de tratamento térmico
+que possui uma faixa de temperatura de trabalho similar a apontada pelo pedido. E qualquer
+pequena diferença nesta faixa trata-se apenas de um ajuste técnico realizado de forma cotidiana
+por um técnico no assunto.
+
+Em relação a D2, a requerente alega que o documento refere-se a uma liga de ferro-níquel e
+não ferro-cromo-níquel tal como na presente invenção. Realmente a composição das duas ligas
+de ferro-níquel são diferentes, no entanto os métodos de fabricação das ligas são idênticos.
+Como a composição base das duas ligas é a mesma (ferro e níquel), um técnico no assunto
+pode facilmente se basear no documento D1 e utilizar o método de fabricação da liga de ferro
+contendo níquel na fabricação de uma ferroliga contento, além do níquel, cromo como um dos
+principais elementos.
+
+Entende-se, portanto, que diante da combinação dos documentos do estado da técnica D1 e D2,
+a matéria das reivindicações 1 a 23 não têm mérito de patenteabilidade por decorrer de maneira
+óbvia para um técnico no assunto e não acrescer efeito técnico novo ou inesperado ao estado
+da técnica.
+
+
+
+
+                                                                                        Página 3
+                                          PI1008640-4
+
+
+Conclusão
+
+
+Assim sendo, de acordo com o Art. 37, opino pelo indeferimento do presente pedido, uma vez
+que não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                           Rio de Janeiro, 15 de setembro de 2017.
+
+
+
+
+Natalia Cristina Candian Lobato
+Pesquisador/ Mat. Nº 2358641
+DIRPA / CGPAT IV/DIMAT
+
+
+
+      De acordo com o parecer acima, indefiro o presente pedido como Patente de Invenção.
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+
+Ricardo Iorio Garcia
+Chefe de Divisão/ Mat. Nº 1285442
+DIRPA / CGPAT IV/DIMAT
+Del. Comp. - Port. INPI/PR Nº436/13
+
+
+
+
+                                                                                          Página 4
+

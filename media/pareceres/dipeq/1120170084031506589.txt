@@ -1,0 +1,152 @@
+                              SERVIÇO PÚBLICO FEDERAL
+                               MINISTÉRIO DA ECONOMIA
+                 INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+                             RELATÓRIO DE EXAME TÉCNICO
+N.° do Pedido:        BR112017008403-1           N.° de Depósito PCT: US2015/053663
+Data de Depósito:     02/10/2015
+Prioridade Unionista: US US62/073,401 (31/10/2014)
+Depositante:          Dow Global Technologies LLC (US), Rohm and Haas Company (US)
+Inventor:             John G.Pendergast, William G.Worley, Stacy W.Hoy, Jacob M.Crosthwaite
+Título:               Processo para quebrar ou minimizar um azeótropo de metanol/metacrilato
+                      de metila (MMA)
+                                                                PARECER
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição               Data
+
+Relatório Descritivo                                        1                870210069803               30/07/2021
+Relatório Descritivo                                      2-14               870170026736               24/04/2017
+Quadro Reivindicatório                                     1-2               870210069803               30/07/2021
+Desenhos                                                   1-2               870170026736               24/04/2017
+Resumo                                                      1                870210069803               30/07/2021
+                                                                                                    o
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n. 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim           Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                          x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                  x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim           Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                                       x
+Comentários/Justificativas
+# Na reivindicação independente 1, verifica-se que o objeto não se encontra definido de forma
+clara e precisa em relação às características técnicas ali prescritas, uma vez que as pressões na
+primeira e segunda colunas de destilação (etapas (A) e (C)), e ainda, a concentração dos
+componentes do azeótropo, ou mesmo a razão MMA/CH3OH (etapa (B)) são definidas de forma
+ampla e vaga, bem como as características descritas na etapa (D), cuja formulação causa dúvidas
+e ambiguidades, dando a entender que a 1a corrente de topo da primeira coluna se mistura à 2 a
+corrente de topo da segunda coluna, aspecto este que não condiz com a figura 1 que acompanha
+o pedido. Nesse sentido, o objeto da reivindicação 1 não atende aos critérios de precisão e
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                   Página 1
+                                       BR112017008403-1
+
+clareza, infringindo o Artigo 25 da LPI, e ainda, aquilo que dispõe a instrução Normativa IN30/2013
+(Art.4o(III)).
+# Ainda na reivindicação 1, não se verifica a presença dos sinais de referência que defina com
+precisão e clareza o objeto, a saber, o processo de separação reivindicado, conforme apresentado
+a partir dos desenhos que acompanham o pedido (figura 1), prejudicando a compreensão das
+características técnicas da matéria reivindicada, contrariando o disposto do Artigo 25 da LPI e da
+Instrução Normativa nº30/2013 - Art. 4º(VI).
+# Verifica-se também que o objeto da reivindicação dependente 2 apresenta características
+técnicas que não constituem detalhamentos, mas sim, características técnicas que excedem ao
+escopo no qual o objeto se refere, a saber, os aspectos prescritos pela reivindicação independente
+1, uma vez que na mesma não há ali qualquer prescrição de uma etapa de transferência de calor
+da segunda para a primeira coluna, a partir de uma corrente de reciclo com carga térmica para
+prover o aquecimento do refervedor da primeira coluna de destilação. Nesse sentido, depreende-
+se que a citada reivindicação 2 excede as características técnicas nas quais se refere, e por isso,
+a mesma não atende aos critérios de precisão e clareza, infringindo o Artigo 25 da LPI, e ainda,
+aquilo que preconiza a Instrução Normativa IN30/2013 (Art.6o (II)).
+# Em relação à reivindicação 3, e tendo em conta a maneira como seu escopo foi formulado,
+depreende-se que as características técnicas do processo são definidas a partir de vantagens
+com base em trechos explicativos, que indicam um resultado esperado a ser alcançado. Nesse
+sentido, o objeto da reivindicação 2 não se encontra claro e precisamente definido, infringindo o
+Artigo 25 da LPI, aquilo que preconiza a Instrução Normativa IN30/2013 (Art.4o(III)), e ainda, o
+entendimento da Resolução PR nº124/2013 (Diretrizes de Exame de Pedidos de Patente-Itens
+(3.52)-(3.53)).
+# Verifica-se da maneira como foi formulada a reivindicação 5, que o referido escopo é definido a
+partir de aspectos que envolvem limitação negativa, a saber, em relação ao não uso do agente
+azeotrópico, infringindo o Artigo 25 da LPI, como aquilo que preconiza a Instrução Normativa
+IN30/2013 (Art.4o(III)), e ainda, o entendimento da Resolução PR nº124/2013 (Diretrizes de
+Exame de Pedidos de Patente Itens (3.83)-(3.84))
+# Da maneira como ambas as reivindicações 5 e 6 foram formuladas, verifica-se que os escopos
+podem causar dúvidas e ambiguidades, pois não fica claro se há, ou não, a necessidade do uso
+de um agente azeotrópico para a quebra do azeótropo de MMA e CH3OH que permita a
+separação eficaz dos produtos, infringindo o Artigo 25 da LPI, como aquilo que preconiza a
+Instrução Normativa IN30/2013 (Art.4o(III)).
+# Ainda na reivindicação 6, da forma como seu escopo foi formulado, depreende-se que as
+características técnicas do processo são ali definidas a partir de vantagens com base em trechos
+explicativos, a saber, a partir do simples uso do agente azeotrópico, sem descrever características
+essencialmente técnicas, tais como, a concentração do agente a ser empregada na corrente de
+alimentação, ou de refluxo, na segunda coluna. Consequentemente, o objeto da reivindicação 6
+indica apenas um resultado esperado a ser alcançado. Nesse sentido, a reivindicação 6 não
+atende aos critérios de precisão e clareza, infringindo o Artigo 25 da LPI, aquilo que preconiza a
+Instrução Normativa IN30/2013 (Art.4o (III)), e ainda, o entendimento da Resolução PR nº124/2013
+(Diretrizes de Exame de Pedidos de Patente-Itens (3.52)-(3.53)).
+
+
+
+
+                                                                                          Página 2
+                                         BR112017008403-1
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                 Documento                                Data de publicação
+  ---------                               ---------                                      ---------
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+      Requisito de Patenteabilidade              Cumprimento                  Reivindicações
+                                                      Sim                          1-6
+              Aplicação Industrial
+                                                      Não
+                                                      Sim                          1-6
+                   Novidade
+                                                      Não
+                                                      Sim                          1-6
+              Atividade Inventiva
+                                                      Não
+Comentários/Justificativas
+
+          A documentação analisada neste exame técnico do pedido consiste em um novo quadro
+reivindicatório com um total de 6 reivindicações, mais restrito, adaptado às disposições da
+Instrução Normativa IN030/2013, novas vias das páginas 1 do relatório descritivo e resumo, e
+ainda, das alegações feitas pela requerente em relação ao exame anterior, apresentadas através
+da petição nº870210069803 de 30/07/2021 como resposta ao parecer técnico de exigência
+notificado na RPI nº2626 de 04/05/2021.
+          Considerando que o quadro em análise não responde plenamente as objeções levantadas
+no parecer anterior, por ainda as reivindicações 1, 2, 3, 5 e 6 continuarem sem descrever em seus
+escopos os critérios de precisão e clareza, devido a não inclusão de suas respectivas
+características técnicas de processo, conforme pontuadas no quadro 3 deste parecer, depreende-
+se que o novo quadro reivindicatório não atende aquilo que dispõe o Artigo 25 da LPI.
+
+
+Conclusão
+
+          Portanto, os objetos das reivindicações 1, 2, 3, 5 e 6 não são definidos de acordo com os
+critérios de precisão e clareza, e por isso, o referido quadro reivindicatório não atende ao Artigo 25
+da LPI.
+
+
+          Assim sendo, de acordo com o Art. 37, indefiro o presente pedido.
+
+                                                                   Publique-se o indeferimento (9.2).
+                                                            Rio de Janeiro, 23 de novembro de 2021.
+Flávio dos Reis Gonçalves
+Pesquisador/ Mat. Nº 1550074
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº 022/12
+
+
+
+
+                                                                                                Página 3
+

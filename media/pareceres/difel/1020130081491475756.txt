@@ -1,0 +1,158 @@
+                              SERVIÇO PÚBLICO FEDERAL
+                               MINISTÉRIO DA ECONOMIA
+                   INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                RELATÓRIO DE EXAME TÉCNICO
+
+N.° do Pedido:            BR102013008149-3            N.° de Depósito PCT:
+Data de Depósito:         04/04/2013
+Prioridade Unionista:     -
+Depositante:              PEUGEOT CITROEN AUTOMOBILES S.A. (FR)
+Inventor:                 GILBERTO GERALDO
+Título:                   Método de auxílio na partida de um motor térmico controlado por um
+                          dispositivo eletrônico alimentado por um combustível podendo conter
+                          etanol e veículo compreendendo o referido método
+
+                                               PARECER
+        O presente pedido de patente de invenção sofreu ciência de parecer (7.1) conforme
+publicação na RPI nº 2565 de 03/03/2020. A Requerente apresentou, através da petição
+870210069982 de 02/08/2021, manifestação ao parecer técnico publicado e novo quadro
+reivindicatório. Para fins de continuidade do exame estão sendo consideradas as vias abaixo:
+
+                           Quadro 1  Páginas do pedido examinadas
+Elemento                             Páginas              Nº da Petição              Data
+
+Relatório Descritivo                  1 a 10                  870200067623         31/05/2020
+Quadro Reivindicatório                1a3                     870210069982         02/08/2021
+Desenhos                              1a2                     018130012964         18/04/2003
+Resumo                                  1                     870200067623         31/05/2020
+Comentários/Justificativas:
+
+        A nova via, apresentada pela Requerente, para sanar irregularidades apontadas no
+parecer inicial, foram aceitas para a continuidade do exame pois se limitam à matéria
+inicialmente revelada, em conformidade com o disposto no Art. 32 da Lei nº 9.279/96 (LPI).
+
+            Quadro 2 - Considerações referentes aos Artigos 10, 18, 22 e 32 da LPI
+Artigos da LPI                                                               Sim       Não
+A matéria enquadra-se no Art. 10 da LPI (não se considera invenção)                     X
+A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                             X
+O pedido apresenta Unidade de Invenção (Art. 22 da LPI)                       X
+O pedido está de acordo com disposto no Art. 32 da LPI                        X
+
+
+
+
+O_SISCAP@                                                                          Página 1 de 3
+                                          BR102013008149-3
+
+
+
+
+                 Quadro 3 - Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no Art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI    X
+
+
+
+
+                            Quadro 4 - Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                 JP2011064091A                               31/03/2011
+
+
+
+
+     Quadro 5 - Análise dos Requisitos de Patenteabilidade (Art. 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento            Reivindicações
+                                                        Sim                     1a9
+            Aplicação Industrial
+                                                        Não                      --
+                                                        Sim                     1a9
+                  Novidade
+                                                        Não                      --
+
+                                                        Sim                      --
+            Atividade Inventiva
+                                                        Não                     1a9
+
+
+
+Comentários/Justificativas:
+
+         Em sua manifestação, a Requerente argumenta que a presente invenção apresenta
+atividade inventiva e que a mesma não é óbvia quando se considera o documento D1. Ainda
+argumenta que, quanto à atividade inventiva da presente invenção, D1 falha em descrever ou
+mesmo sugerir que o aquecimento do combustível (H) é realizado durante uma duração
+determinada em função da taxa de etanol contido no combustível e da temperatura antes do
+aquecimento do combustível, como ora reivindicado.
+
+         Dessa forma, em sua manifestação, foi apresentado um novo quadro reivindicatório com
+as seguintes características técnicas na parte caracterizante da reivindicação independente 1:
+
+         o aquecimento do combustível (H) ser realizado durante uma duração determinada em
+         função da taxa de etanol contido no combustível e da temperatura antes do aquecimento
+         do combustível.
+
+Nota-se que tais características técnicas estão presentes no documento de anterioridade D1
+(relatório descritivo (parágrafo [0021])). Nesse documento, o aquecimento do combustível é
+
+
+
+                                                                                      Página 2 de 3
+                                       BR102013008149-3
+
+
+realizado em função da taxa de etanol do combustível e de sua temperatura. Logo, para um
+técnico no assunto, a matéria pleiteada nesta reivindicação novamente decorre de maneira
+evidente ou óbvia do estado da técnica. Dessa forma, tal reivindicação não apresenta atividade
+inventiva, o que contraria ao disposto no Art. 13 da LPI, em que a invenção é dotada de
+atividade inventiva sempre que, para um técnico no assunto, não decorra de maneira evidente
+ou óbvia do estado da técnica.
+
+       Deve-se notar que, de acordo com o Art. 41 da Lei nº 9.279/96 (LPI), a extensão da
+proteção conferida pela patente será determinada pelo teor das reivindicações, interpretado com
+base no relatório descritivo e nos desenhos, e que ainda de acordo com a Instrução Normativa
+030/2013, Art. 6º, inciso I, as reivindicações dependentes são aquelas que, mantida a unidade
+de invenção, incluem todas as características de outra(s) reivindicação(ões) anterior(es) e
+definem detalhamentos dessas características e/ou características adicionais que não sejam
+consideradas características essenciais da invenção. Pelo que é pleiteado na reivindicação
+independente 1, verifica-se que as características apresentadas são bem genéricas, fazendo
+com que as mesmas sejam óbvias para um técnico no assunto, pois são pleiteadas de forma
+muito ampla.
+
+       Adicionalmente, a argumentação já utilizada no parecer anterior em relação às demais
+características reivindicadas no quadro reivindicatório destitui a invenção pleiteada de atividade
+inventiva.
+
+
+
+Conclusão
+
+      Face ao exposto, conclui-se que a invenção ora pleiteada decorre de maneira evidente ou
+óbvia, para um técnico no assunto, do estado da técnica, sendo desprovida de atividade inventiva,
+conforme Art. 13 da LPI.
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que este não
+atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+                                                                 Publique-se o indeferimento (9.2).
+
+                                                          Rio de Janeiro, 10 de setembro de 2021.
+
+
+
+
+Cristiano Augusto Gomes Marques
+Pesquisador/ Mat. Nº 2042539
+DIRPA / CGPAT III/DIFEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+006/16
+
+
+
+
+                                                                                     Página 3 de 3
+

@@ -1,0 +1,323 @@
+                               SERVIÇO PÚBLICO FEDERAL
+                                MINISTÉRIO DA ECONOMIA
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                  RELATÓRIO DE EXAME TÉCNICO
+
+N.° do Pedido:             BR112014000985-6          N.° de Depósito PCT:CN2011/077204
+Data de Depósito:          15/07/2011
+Prioridade Unionista:      -
+Depositante:               ZHENGZHOU         ZHONGYUAN         SPANDEX          ENGINEERING
+                           TECHNOLOGY CO., LTD. (CN)
+Inventor:                  YUNQI ZHANG, PENGFEI ZHU, MINGQI LIU, JIANBO ZHANG
+Título:                    Aparelho de enrolamento de fibra de filamento e método de
+                           enrolamento para aparelho de enrolamento de fibra de filamento 
+
+                                                 PARECER
+
+
+                            Quadro 1  Páginas do pedido examinadas
+            Elemento                     Páginas                n.o da Petição           Data
+
+Relatório Descritivo                      1 a 23                870200112530           04/09/2020
+Quadro Reivindicatório                     1a5                  870200112530           04/09/2020
+Desenhos                                   1a7                  018140000792           15/01/2014
+Resumo                                       1                  870200112530           04/09/2020
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                   Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                         x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                 x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                           x
+O pedido está de acordo com disposto no art. 32 da LPI                            x
+Comentários/Justificativas
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                   Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI              x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI            x
+Comentários/Justificativas
+
+
+
+                                                                                       Página 1 de 7
+                                          BR112014000985-6
+
+
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                           Data de publicação
+   D1                                CN101018724 A                                 15/08/2007
+   D2                                    CN2591001 Y                               10/12/2003
+   D3                                    CN1220642 A                               23/06/1999
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade              Cumprimento              Reivindicações
+                                                       Sim                     1-9
+           Aplicação Industrial
+                                                       Não                  Nenhuma
+                                                       Sim                     1-9
+                 Novidade
+                                                       Não                  Nenhuma
+                                                       Sim                     1-9
+           Atividade Inventiva
+                                                       Não                  Nenhuma
+Comentários/Justificativas
+
+
+        Através da petição n° 870200112530, de 04/09/2020, a requerente apresentou
+manifestação ao parecer técnico publicado na RPI n° 2579 de 09/06/2020. Em tal manifestação, a
+requerente argumentou, em relação as anterioridades, que:
+         a Titular respeitosamente discorda de que o presente pedido de patente de invenção
+         (reivindicações 1-11) careça de atividade inventiva e não atenda aos critérios de
+         proteção. A Titular respeitosamente contesta esses motivos de objeção, uma vez que os
+         ensinamentos dos documentos de patentes pertencentes ao estado da técnica citados
+         são totalmente diferentes do presente pedido de patente de invenção...
+        No entanto, para agilizar o processo este caso e sem admitir a procedência das
+         objeções, a Titular alterou as reivindicações independentes depositadas para explicitar o
+         escopo da invenção reivindicada. A Titular solicita à i. Examinadora que gentilmente
+         considere o quadro reivindicatório alterado apresentado na presente petição, no qual as
+         reivindicações independentes anteriormente depositadas foram alteradas, visando
+         torná-las claras e concisas.
+        Um especialista na técnica, após leitura do documento D1, apreciaria que um dos
+         principais problemas técnicos a serem resolvidos por D1 pode ser definido em como
+         melhorar o enrolamento após duas estações de enrolamento, de modo que cada bobina
+         ainda esteja segura e com uma grande diferença entre o diâmetro ideal e a força de
+         pressão do enrolamento.
+
+
+
+
+                                                                                     Página 2 de 7
+                                   BR112014000985-6
+
+   A solução que o documento D1 fornece para resolver o problema acima é fornecer um
+    dispositivo de enrolamento para enrolar continuamente os fios fornecidos (1, 1) nas
+    bobinas (8.2, 8.2). O referido dispositivo de enrolamento compreende duas placas
+    rotativas simetricamente dispostas (9, 9), respectivamente compreendendo, pelo menos,
+    um fuso de enrolamento (7, 7) sobre o qual é respectivamente enrolada parte dos fios.
+    Um cilindro de pressão (6, 6) é associado a cada placa rotativa, o referido cilindro de
+    pressão sendo usado para pressionar os fios nas bobinas. Os cilindros de pressão são
+    montados em um suporte comum (12) por meio de transportadores móveis (14, 14), o
+    referido suporte sendo verticalmente deslocável por meio de um acionamento (19), a fim
+    de compensar o diâmetro crescente da bobina. De acordo com a invenção, para enrolar
+    homogeneamente o fio nos dois fusos de enrolamento, um meio sensor (5, 5) para
+    detectar o aumento no diâmetro de, pelo menos, uma das bobinas é acoplado a um
+    dispositivo de controle (17). O referido dispositivo de controle avalia os sinais do sensor,
+    forma um valor combinado e emite um valor regulador para o acionamento do suporte
+    comum.
+    Um especialista na técnica, após leitura do documento D2, apreciaria que um problema
+    técnico principal a ser resolvido pelo documento D2 pode ser definido em como fornecer
+    um trocador de disco com variação de envelope em um diâmetro do fio do ciclo de
+    enrolamento para operação contínua e ininterrupta do disco rotativo.
+   A solução que o documento D2 fornece para resolver o problema acima é fornecer um
+    mecanismo de enrolamento do tipo rotativo contínuo com disco rotativo que compreende
+    um dispositivo de troca de tambor do tipo disco rotativo (3), dois fusos de um tambor de
+    enrolamento (1), (2 ), que são instalados no dispositivo de troca de tambor do tipo disco
+    rotativo (3) por um mecanismo de acionamento, e um cilindro de toque (4) que é
+    pressionado em um fuso do tambor de enrolamento de trabalho por uma estrutura de
+    conexão (7). O modelo de utilidade é caracterizado pelo dispositivo de troca de tambor do
+    tipo disco rotativo (3) ser conectado a um servomotor (5) que é controlado por um
+    microcomputador de chip único pelo modo de acionamento em cadeia. O dispositivo de
+    troca de tambor do tipo disco rotativo do modelo de utilidade pode ser operado de forma
+    constante e contínua com a troca dos diâmetros de bobinagem durante um período de
+    bobinagem, a posição do cilindro de toque é sempre mantida constante e imutável
+    durante o período de bobinagem, o modelo de utilidade é mais favorável para manter a
+    tensão constante da superfície da bobina em um tambor de enrolamento e o modelo de
+    utilidade pode efetivamente evitar os fatores de formação instável da bobina, etc., que
+    são causados pelo impacto nas superfícies da bobina causado pelo movimento
+    intermitente do cilindro de toque e a mudança sutil da pressão de contato da superfície;
+    portanto, o efeito de formação de um tambor de bobinagem pode ser melhor.
+   Em relação à conclusão, por parte do r. Instituto, quanto à falta de Atividade Inventiva do
+    presente pedido de patente em vista ao documento D3: CN1220642, a Titular
+
+
+                                                                                  Página 3 de 7
+                                     BR112014000985-6
+
+    respeitosamente alega que o documento D3, pertencente ao estado da técnica, divulga
+    um método para enrolar um filamento de entrada contínuo em uma bobina, controlando a
+    distância central entre a embalagem e o cilindro de contato para realizar o controle de
+    formação da embalagem. A distância central entre a embalagem e o cilindro de contato é
+    controlada por um movimento de fuga do cilindro de contato ou por um movimento
+    constante de fuga do fuso de enrolamento como uma função do aumento do diâmetro da
+    embalagem. Tal operação é diferente da deste pedido, pois este pedido opera através do
+    ajuste respectivo das pressões de topo nos dois fusos da bobina para realizar o controle
+    da formação uniforme das duas embalagens simultaneamente.
+   A Titular alega, ainda, que, pelos detalhes de implementação, conforme fornecidos nos
+    documentos D1-D3, considerados isoladamente ou em combinação, um especialista na
+    técnica jamais seria capaz de combinar e/ou alcançar ou chegar, por meio de ensino,
+    sugestão e motivação, à matéria do presente pedido de patente de invenção, ou seja,
+    fornecer um aparelho de enrolamento de fibra de filamento para produzir uma pluralidade
+    de bobinas que podem manter a mesma pressão de topo em cada uma das bobinas,
+    mesmo se houver diferença nos diâmetros das bobinas.
+   ... D1 não divulga o suporte dos dois cilindros de contato em trilhos guia separados, de
+    modo que os cilindros de contato se movam independentemente ao longo dos
+    respectivos trilhos guia do cilindro de contato, de modo a controlar as pressões de topo
+    entre os cilindros de contato esquerdo e direito e os fusos da bobina, conforme descrito
+    na presente invenção. Assim, o aparelho de enrolamento de fibra de filamento do
+    presente pedido de patente de invenção tem um avanço técnico em relação à técnica
+    prévia descrita em D1, ou seja, os cilindros de contato esquerdo e direito da presente
+    invenção trabalham independentemente para manter a pressão de topo constante em
+    seu fuso de bobina correspondente, mesmo que o diâmetro de cada uma das
+    bobinas/rolos seja diferente.
+    a Titular respeitosamente alega que o cilindro de contato descrito em D2 é fixo e o
+    dispositivo de troca de tambor é móvel, enquanto que, no pedido de patente de invenção
+    ora sob análise, os cilindros de contato são móveis ao longo dos trilhos guia respectivos
+    e a placa giratória (equivalente ao dispositivo de troca de tambor) é fixa.
+   ... a Titular respeitosamente alega que o cilindro de contato descrito pelo documento D3
+    é fixo e o cilindro de prensa é móvel, enquanto que, no pedido de patente ora sob
+    análise, os cilindros de contato são móveis ao longo dos trilhos guia respectivos e a placa
+    giratória (equivalente ao dispositivo de troca de tambor) é fixa.
+   ... D1, D2 e D3 não divulgam dois dispositivos reguladores de pressão separados (22A,
+    22B) para os controladores esquerdo e direito, conforme descrito no pedido de patente
+    de invenção ora sob análise. Portanto, a Titular não considera que seja óbvio ao
+    especialista na técnica combinar os ensinamentos do método de enrolamento divulgados
+    por D2 a D1 e D3 para obter a presente invenção.
+
+
+                                                                                   Página 4 de 7
+                                        BR112014000985-6
+
+         D1-D2, sozinhos ou em combinação, não sugerem, explícita ou implicitamente, as
+         características distintivas acima. Especificamente, os documentos D1-D2, sozinhos ou
+         em combinação, não sugerem, explícita ou implicitamente, que o aparelho equalizador
+         de pressão (25) compreende um dispositivo regulador de pressão de topo esquerdo
+         (22A) e um dispositivo regulador de pressão de topo direito (22B), o dispositivo regulador
+         de pressão de topo esquerdo (22A) compreendendo um suporte deslizante esquerdo
+         (7A), um trilho guia de cilindro de contato esquerdo (8A), um suporte de fixação esquerdo
+         (9A) e um dispositivo de controle de pressão esquerdo, o dispositivo regulador de
+         pressão de topo direito (22B) compreendendo correspondentemente um suporte
+         deslizante direito (7B), um trilho guia de cilindro de contato direito (8B), um suporte de
+         fixação direito (9B) e um dispositivo de controle de pressão direito; em que os cilindros de
+         contato direito e esquerdo (6A, 6B) são suportados em uma forma de livre rotação nos
+         respectivos suportes deslizantes esquerdo e direito (7A, 7B); em que os suportes de
+         fixação esquerdo e direito (9A, 9B) são instalados de forma fixa na caixa deslizante; em
+         que os suportes deslizantes esquerdo e direito (7A, 7B) são conectados aos suportes de
+         fixação correspondentes (9A, 9B) por meio dos respectivos trilhos guia dos cilindros de
+         contato (8A, 8B) e são capazes de se mover ao longo dos respectivos trilhos guia do
+         cilindro de contato em relação aos respectivos suportes de fixação sob a ação dos
+         respectivos dispositivos de controle de pressão, de modo a controlar a pressão de topo
+         entre os cilindros de contato esquerdo e direito e os fusos de bobina (2A, 2B).
+
+        Em resumo, a requerente conclui dizendo que Portanto, a Titular considera que o objeto
+das reivindicações independentes 1 e 9 ora alteradas apresenta Atividade Inventiva em vista dos
+documentos D1-D3. Além disso, a mesma explicação descrita acima é aplicável às reivindicações
+dependentes da reivindicação independente 1 e, portanto, acredita a Titular que as mesmas
+devem ser consideradas patenteáveis em relação aos documentos D1-D3, pelo menos, pelos
+motivos descritos acima.
+
+        Tal conclusão não pode ser aceita pelos argumentos expostos a seguir e em parte
+observados pela própria requerente em sua manifestação como se destacou acima.
+
+        A presente invenção se refere a um aparelho de enrolamento de fibra de filamento e um
+método de enrolamento; o aparelho de enrolamento compreende: um sistema de enrolamento
+esquerdo (20A) e um sistema de enrolamento direito (20B) dispostos adjacente e simetricamente
+sobre uma estrutura de enrolamento (1), um aparelho transversal (21), uma caixa deslizante (12) e
+um aparelho equalizador de pressão (25); o aparelho equalizador de pressão ajusta
+respectivamente a pressão máxima entre os cilindros de contato esquerdo e direito (6Ae 6B) e
+fusos de bobina (2A e 2B), permitindo, assim, que o cilindro de contato esquerdo (6A) e o cilindro
+de contato direito (6B) permaneçam com uma pressão constante máxima na circunferência dos
+cilindros (18A e 1BB) dos fusos de bobina (2Ae 2B). São também fornecidos dois métodos para
+
+
+
+                                                                                       Página 5 de 7
+                                        BR112014000985-6
+
+restaurar a distância entre os cilindros de contato (6A e 6B) e um cilindro transversal (4) e para
+manter constante a pressão máxima; o aparelho de enrolamento e o método de enrolamento
+permitem a aquisição de cilindros consistentes.
+
+       Em relação às características técnicas do aparelho de enrolamento de fibra de filamento e
+método de enrolamento para aparelho de enrolamento de fibra de filamento, todos os itens
+descritos acima são antecipados nos documentos D1, D2 e D3, como já descrito no parecer
+técnico anterior, a saber: D1 descreve um dispositivo de enrolamento para enrolar as roscas
+fornecidas continuamente (1, 1') em bobinas (8.2, 8.2'). O referido dispositivo de enrolamento
+compreende     duas   placas   rotativas   dispostas   simetricamente   (9,   9'),   respectivamente,
+compreendendo pelo menos um eixo de enrolamento (7, 7'), sobre o qual é enrolada
+respectivamente parte das roscas. Um rolo de pressão (6, 6') é associado a cada placa rotativa,
+sendo o referido rolo de pressão usado para pressionar as roscas nos rolos. Os rolos de pressão
+são montados em um suporte comum (12) por meio de transportadores móveis (14, 14'), sendo o
+referido suporte verticalmente deslocável por meio de um acionador (19), a fim de compensar o
+diâmetro crescente do rolo. De acordo com a invenção, para enrolar homogeneamente a rosca
+nos dois eixos de enrolamento, um meio sensor (5, 5') para detectar o aumento no diâmetro de
+pelo menos um dos rolos é acoplado a um dispositivo de controle (17). O referido dispositivo de
+controle avalia os sinais do sensor, forma um valor combinado e emite um valor regulador para o
+inversor do detentor comum (vide resumo e reivindicações); D2 se refere a um mecanismo de
+enrolamento do tipo rotativo de disco rotativo, que compreende um dispositivo de troca de barril do
+tipo disco rotativo (3), dois eixos de um barril de enrolamento (1), (2) que são instalados no barril
+do tipo disco rotativo - dispositivo de mudança (3) por um mecanismo de acionamento e um rolo
+de toque (4) que é pressionado em um eixo do tambor de enrolamento de trabalho por uma
+estrutura de conexão (7). O modelo de utilidade é caracterizado pelo fato de que o dispositivo de
+troca de tambor do tipo disco rotativo (3) é conectado a um servomotor (5) controlado por um
+microcomputador de chip único pelo modo de acionamento por corrente. O dispositivo de troca de
+tambor do tipo disco rotativo do modelo de utilidade pode ser operado de forma contínua e
+contínua, com a alteração dos diâmetros de enrolamento durante um período de enrolamento, a
+posição do rolo de toque é sempre mantida constante e imutável durante o período de
+enrolamento, o utilitário o modelo é mais favorável para manter a tensão constante da superfície
+da bobina em um barril de enrolamento, e o modelo de utilidade pode efetivamente evitar os
+fatores de formação instável da bobina, etc., causados pelo impacto nas superfícies da bobina
+causado pelo movimento intermitente do rolo de toque e a mudança sutil da pressão de contato da
+superfície; portanto, o efeito de formação de um barril de enrolamento pode ser melhor (vide
+resumo e reivindicação 1) e D3 se refere a um método para enrolar o filamento de entrada
+contínuo em um carretel, no qual o carretel é formado em um eixo de carretel acionado suportado
+em consola em um suporte móvel; um dos quais é apoiado em um segundo suporte móvel. Os
+rolos de pressão são pressionados contra a circunferência do rolo com uma força de pressão que
+
+
+
+                                                                                        Página 6 de 7
+                                            BR112014000985-6
+
+pode ser alterada pela posição do rolo de pressão em relação ao rolo; onde o espaçamento
+necessário entre o rolo e o rolo de pressão é exigido devido ao aumento do diâmetro do rolo. A
+mudança é baseada no aumento do diâmetro do rolo através do movimento de deslocamento do
+rolo de pressão ou do movimento de deslocamento do eixo do rolo. O movimento de
+deslocamento do eixo do carretel durante o curso do enrolamento é controlado de acordo com
+uma função de velocidade predeterminada (Fv), que fornece a cada diâmetro do rolo (D) uma
+velocidade de movimento de deslocamento determinado (V) durante o processo de enrolamento
+(vide resumo e reivindicação 1). D3 ainda revela uma máquina de enrolamento que implementa o
+método descrito acima, com um mecanismo alternativo; um rolo de pressão (5) suportado em um
+suporte (8) móvel em relação à base da máquina; um balanço O eixo do molinete (14) suportado
+na estrutura giratória do molinete rotativo (11); um dispositivo de acionamento (40) do giro do
+quadro do carretel (11) e um dispositivo de controle que controla o movimento de deslocamento
+de acordo com o incremento do diâmetro do carretel 10), é caracterizado por: o dispositivo de
+controle (10) possui uma porta de entrada (24) para inserir uma função de velocidade. Esta função
+de velocidade atribui uma certa velocidade de movimento de deslocamento a cada diâmetro do
+cilindro durante o curso do enrolamento. Ao mesmo tempo, o dispositivo de controle (10) e um
+controlador de usuário A (34) para determinar o diâmetro ou o tempo de enrolamento do carretel
+estão conectados que o dispositivo de acionamento de velocidade variável (40) da torre do
+molinete (11) pode ser controlado pelo dispositivo de controle (10) de acordo com a função de
+velocidade (vide reivindicações 1 e 17). Adicionalmente, D3 trata de um enrolador caracterizado
+pelo fato de que o dispositivo de controle (10) está conectado a um sensor de força (41) para
+medir a força de prensagem entre o rolo de pressão e o carretel, e possui uma unidade de
+armazenamento para armazenamento o valor real da força de pressão relacionada à posição do
+suporte do rolo de pressão (vide resumo, reivindicações 1, 17 e 21).
+       Portanto, mantém-se a opinião do parecer técnico anterior, em relação aos documentos
+citados como anterioridades, de que um técnico no assunto em busca de um aparelho de
+enrolamento de fibra de filamento e método de enrolamento para aparelho de enrolamento de
+fibra de filamento, a partir de D1-D3, chegaria de maneira evidente ou óbvia à matéria pleiteada.
+       Desta forma, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não
+atende ao requisito de atividade inventiva (artigos 8º e 13 da Lei nº 9279 de 14/05/1996.).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+                                                               Publique-se o indeferimento (9.2).
+                                                           Rio de Janeiro, 19 de novembro de 2020.
+
+Genizia Islabão de Islabão
+Pesquisador/ Mat. Nº 1219459
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                      Página 7 de 7
+

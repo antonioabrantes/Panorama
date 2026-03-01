@@ -1,0 +1,154 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI1013029-2                 N.° de Depósito PCT: GB2010/000988
+ Data de Depósito:                   19/05/2010
+ Prioridade Unionista:               GB 0908613.3 (20/05/2009)
+ Depositante:                        Immunocore Ltda (GB)
+ Inventor:                           Bent Karsten Jakobsen, Annelise Brigitte Vuidepot, YI LI
+ Título:                             Polipeptídeos bifuncionais 
+
+                                                              PARECER
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                              Sim      Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                     x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)              x
+
+O pedido refere-se a Sequências Biológicas                                                               x
+
+Comentários/Justificativas
+          A anuência prévia da ANVISA em cumprimento ao Art. 229-C da LPI 9279/96 foi
+publicada na RPI 2482 de 31/07/18.
+          A Listagem de Sequencias em formato digital foi apresentada junto à petição
+870190118534 de 14/11/19.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição            Data
+Relatório Descritivo                                      1-31               870200075163             17/06/20
+Listagem de sequências*                        Código de Controle            870190118534             14/11/19
+Quadro Reivindicatório                                     1-2               870200075163             17/06/20
+Desenhos                                                  1-19               20110117831              18/11/11
+Resumo                                                                       870200075163             17/06/20
+        *Listagem de sequências em formato eletrônico referente ao código de controle
+        84F11A39CACB86C8 (Campo 1) e 19223ECDF1243F52 (Campo 2).
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                   Página 1
+                                               PI1013029-2
+
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                           Sim             Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                          x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                  x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                    x
+O pedido está de acordo com disposto no art. 32 da LPI                     x
+Comentários/Justificativas
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI       x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                       x
+Comentários/Justificativas
+          Conforme apontado no parecer anterior, publicado na RPI 2568 de 24/03/20, as moléculas
+bifuncionais pleiteadas não são definidas através de SEQ IDs em nenhuma das reivindicações.
+Além disso, a reivindicação principal 1 ainda define o parceiro de ligação peptídeo por aquilo que
+ele não é, o que também não é considerado claro e preciso.
+          Tal definição foi mantida no quadro reivindicatório atual, que portanto, permanece em
+desacordo com o Art. 25 da LPI.
+
+
+                             Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    ---       ---                                                                      ---
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento             Reivindicações
+                                                         Sim                    1-10
+             Aplicação Industrial
+                                                         Não                     ---
+                                                         Sim                    1-10
+                      Novidade
+                                                         Não                     ---
+                                                         Sim                    1-10
+             Atividade Inventiva
+                                                         Não                     ---
+
+
+
+
+                                                                                             Página 2
+                                          PI1013029-2
+
+
+Comentários/Justificativas
+       O pedido se refere a polipeptídeo bifuncional que compreende um parceiro de ligação
+específico para um epítopo peptídeo-MHC, tal como um anticorpo ou um receptor de células T
+("TCR"), e um efetor imune.
+
+
+       Foi publicada anteriormente uma exigência técnica ( RPI 2568 de 24/03/20), a fim de que
+o quadro reivindicatório fosse adequado ao que determina o Art. 25 da LPI, no que se refere à
+definição dos polipeptídeos pleiteados.
+
+
+       Através da petição 870200075163 de 17/06/20, o requerente responde a este parecer, e
+no novo quadro reivindicatório apresentado, manteve as definições apresentadas anteriormente.
+Em sua argumentação, o requerente afirma que a invenção refere-se à ligação do efetor imune
+ao N-terminal da cadeia TCR, e não a uma sequência TCR específica e uma sequência efetora
+imune específica. Além disso, apresenta dois documentos que, segundo ele, atestam a
+patenteabilidade do pedido.
+
+
+       Conforme apontado no parecer anterior, bem como no quadro 3 acima, a definição das
+às moléculas pleiteadas não está de acordo com o entendimento dado por este INPI ao Art. 25
+da LPI, no que se refere à caracterização de polipeptídeos. Desta forma, a matéria pleiteada é
+considerada desprovida de clareza e precisão.
+
+
+
+
+Conclusão
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que as
+reivindicações estão indefinidas e/ou não estão fundamentadas no relatório descritivo (Art. 25 da
+LPI)
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 08 de julho de 2020.
+
+
+
+
+Elielton Rezende Coelho
+Pesquisador/ Mat. Nº 1531553
+DIRPA / CGPAT II/DIMOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                        Página 3
+

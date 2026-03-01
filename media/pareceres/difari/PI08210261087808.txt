@@ -1,0 +1,249 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0821026-8              N.° de Depósito PCT:EP2008/066884
+ Data de Depósito:                   05/12/2008
+ Prioridade Unionista:               EP 07 024584.0 (19/12/2007)
+ Depositante:                        Newron Pharmaceutical S.P.A. (IT)
+ Inventor:                           Emanuela Izzo, Laura Faravelli, Elena Barbanti, Patricia Salvati
+ Título:                             Derivados de alfa-minoamidas úteis no tratamento de transtornos
+                                     psiquiátricos 
+
+                                                              PARECER
+
+
+          Através da petição n° 870190082677 de 23/08/2019, a requerente manifestou-se com
+relação ao parecer técnico negativo notificado na RPI 2525 de 28/05/2019, apresentando um novo
+quadro reivindicatório com um total de 20 reivindicações, novas páginas 1 do relatório descritivo e
+do resumo e seus argumentos em favor do mérito do pedido.
+
+                                      Quadro 1  Páginas do pedido examinadas
+           Elemento                               Páginas                    n.o da Petição           Data
+
+                                                       1                     870190082677           23/08/2019
+                                       2 a 5, 7, 8, 11 a 14, 16 a            020100054719           17/06/2010
+Relatório Descritivo
+                                            22, 24, 26 a 30
+                                          6, 9, 10, 15, 23 e 25              020110124221           02/12/2011
+Quadro Reivindicatório                               1a8                     870190082677           23/08/2019
+Desenhos                                               1                     020100054719           17/06/2010
+Resumo                                                 1                     870190082677           23/08/2019
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+Comentários/Justificativas
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                                PI0821026-8
+
+
+
+
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                               Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         X
+Comentários/Justificativas
+          Conforme discutido no exame anterior, a Resolução n° 208 de 27/12/2017, que institui as
+diretrizes de exame de pedidos de patente na área de química, estabelece que No caso do
+pedido pretender proteção para um novo uso médico de compostos definidos por uma "fórmula
+Markush", somente será considerado fundamentado o uso dos compostos que foi efetivamente
+demonstrado. Além disso, a mesma Resolução institui que o relatório descritivo deve apresentar
+evidências que comprovem o novo uso pleiteado no ato do depósito. Na ausência de
+comprovação deste uso, considera-se que esta característica técnica essencial da reivindicação
+não está suportada no relatório descritivo e, assim, a matéria não está suficientemente descrita.
+          Tendo em vista que o relatório descritivo somente contém dados referentes a testes in vivo
+de        1     único      composto,        a      saber,      o       composto     Ralfinamida     ou
+(S)-(+)-2-[4-(2-fluorobenzilóxi)-benzilamino]-propanamida, reitera-se que somente o uso deste
+composto é considerado suficientemente descrito e fundamentado. O uso dos demais compostos
+abrangido pela fórmula Markush (I) está insuficientemente descrito, contrariando o artigo 24 da
+LPI e, por conseguinte, não pode ser pleiteado por falta de fundamentação (artigo 25 da LPI).
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                 Data de publicação
+     D1                                 EP1870097 A1                                   26/12/2007
+     D2                              WO2007071311 A1                                   28/06/2007
+
+
+     Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+      Requisito de Patenteabilidade                Cumprimento                Reivindicações
+                                                         Sim                       1 a 20
+              Aplicação Industrial
+                                                        Não
+                                                         Sim
+                   Novidade
+                                                        Não                        1 a 20
+
+                                                         Sim
+              Atividade Inventiva
+                                                        Não                        1 a 20
+Comentários/Justificativas
+
+
+                                                                                               Página 2
+                                          PI0821026-8
+
+
+       Em sua manifestação, a requerente trouxe os seguintes argumentos em favor do mérito do
+pedido:
+
+       - D1 (EP0447285) descreve a síntese de N-[2-(7-metóxi-1-naftil) etil] acetamida em oito
+etapas a partir de 7-metóxi-1-tetralona, que leva à obtenção de agomelatina;
+
+       - os compostos do pedido (tais como ralfinamida) atuam no tratamento da esquizofrenia
+através de uma ação sobre a etiologia da doença;
+
+       - A hiperatividade do sistema dopaminérgico mesolímbico (DA) tem sido mais comumente
+associada aos sintomas positivos da esquizofrenia. Os documentos Doc. 1 a 9 ora apensos dão
+suporte ao conceito de que a etiologia da esquizofrenia envolve a hiperatividade glutamatérgica
+hipocampal, que influencia a transmissão dopaminérgica na área mesolímbica, levando a
+sintomas positivos de esquizofrenia. Portanto, o restabelecimento da função hipocampal e a
+restauração das anormalidades glutamatérgicas podem levar ao tratamento da doença e à
+prevenção dos sintomas positivos;
+
+       - o Exemplo 1 do pedido mostra que a ralfinamida não apresenta afinidade para os
+receptores de dopamina, portanto não seria esperado que fosse eficaz no tratamento dos
+sintomas positivos da esquizofrenia;
+
+       - os benefícios da ralfinamida na prevenção de sintomas positivos associados à
+esquizofrenia podem ser explicados pelos seus efeitos nos mecanismos fisiopatológicos da
+doença. Dados adicionais mostram que a ralfinamida inibe a liberação de glutamato resultante de
+uma hiperestimulação da atividade neuronal do hipocampo ventral, através do bloqueio do canal
+de sódio;
+
+       - Os compostos de D1 são antagonistas D2 e D1 descreve o tratamento dos sintomas da
+hiperfunção da dopamina. D1 descreve o tratamento de deficiências cognitivas que podem estar
+associadas a esquizofrenia, mas não o tratamento da esquizofrenia ou da ansiedade;
+
+       - D2 não divulga nem sugere a seleção de compostos de fórmula (I) como os do presente
+pedido para utilização no tratamento dos distúrbios reivindicados. Os compostos de D2 não têm
+efeito inibidor de MAO ou exibem um efeito inibidor de MAO reduzido; e
+
+       - D3 não divulga a utilização dos compostos do presente pedido para o tratamento de
+esquizofrenia e ansiedade.
+
+
+
+
+       Face a tais argumentos e ao novo quadro reivindicatório, as seguintes considerações
+foram feitas:
+
+Aplicação Industrial
+       A matéria do presente pedido é passível de produção e/ou utilização industrial, atendendo
+ao artigo 15 da LPI.
+
+
+
+
+                                                                                       Página 3
+                                           PI0821026-8
+
+
+
+
+Novidade e Atividade Inventiva
+
+       A requerente cita o documento D1 como sendo EP0447285, porém o documento D1 citado
+no exame anterior é o EP1870097 A1 e este documento antecipa tanto o composto
+(S)-(+)-2-[4-(2-fluorobenzilóxi)-benzilamino]-propanamida   (Ralfinamida),   como   seu   uso   em
+formulações farmacêuticas para o tratamento da esquizofrenia e ansiedade. Desta forma,
+reitera-se a opinião anterior de que os compostos e uso pleiteados no presente pedido não são
+novos frente a D1, desatendendo ao artigo 11 da LPI. Não sendo novos, carecem de atividade
+inventiva, desatendendo ao artigo 13 da LPI.
+
+       A requerente alega que D1 refere-se ao tratamento de sintomas e não da esquizofrenia,
+porém a própria descreve que "A esquizofrenia caracteriza-se por uma profunda ruptura dos
+atributos humanos mais fundamentais: linguagem, pensamento, percepção, afeto e sentido de si
+mesmo. O conjunto de sintomas frequentemente inclui... social prejudicado" (página 1, linha 31 à
+página 2, linha 8 do relatório descritivo), o que deixa claro que os atributos que caracterizam a
+esquizofrenia são os seus sintomas. Neste sentido, ressalta-se que não há no relatório descritivo
+dados que permitam uma separação entre o tratamento da esquizofrenia e o tratamento de seus
+sintomas, tampouco que comprovem que a Ralfinamida atue inibindo a esquizofrenia e não
+somente tratando seus sintomas. Pelo contrário, a avaliação da "hiperlocomoção induzida por
+MK-801" no Exemplo 5 do pedido foi identificada pela própria requerente como "modelo animal
+comumente usado preditivo de eficácia contra os sintomas de esquizofrenia, pois antangonistas
+de receptores de glutamato NMDA, como a fenciclidina (PCP) ou MK-801, dão origem a sintomas
+similares a esquizofrenia em humanos.... Da mesma forma, a inibição de pré-pulso de alarme
+(IPP), avaliada no exemplo 4, também é descrita como uma manifestação/ sintoma da
+esquizofrenia no relatório do pedido (página 4, linha 27 à página 5, linha 15). Assim, não é
+possível verificar uma diferença entre o uso da Ralfinamida descrito em D1 e o ora pleiteado, que
+portanto, é isento de novidade.
+
+       Além disso, conforme discutido no exame anterior, o documento D2 também descreve
+derivados 2-feniletilamino de fórmula (I) muito semelhantes aos do presente pedido úteis no
+tratamento de desordens cognitivas e transtornos psiquiátricos, tais como esquizofrenia e/ou
+ansiedade. De fato, parte dos compostos avaliados em D2 apresentaram atividade inibidora de
+MAO-B entre 0 e 53% numa concentração de 100 µM, porém a Salfinamida, que é um análogo de
+posição da Ralfinamida (a primeira tendo um grupo 3-Flúor ligado à fenila, enquanto a segunda
+tem um grupo 2-Flúor) apresentou 100% de inibição. Assim, frente a tais resultados, o versado
+seria incentivado a testar a Ralfinamida no tratamento da esquizofrenia e ansiedade, o que reforça
+a opinião de que o uso ora pleiteado decorreria de maneira óbvia, sendo isento de atividade
+inventiva, desatendendo ao artigo 13 da LPI.
+
+
+
+
+                                                                                          Página 4
+                                           PI0821026-8
+
+
+
+
+Conclusão
+
+
+       Os argumentos e novo quadro reivindicatório ora apresentados não superam os
+questionamentos feitos no exame anterior. Assim sendo, de acordo com o Art. 37, indefiro o
+presente pedido, uma vez que:
+
+      -   não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   não apresenta suficiência descritiva (Art. 24 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 1 de novembro de 2019.
+
+
+
+
+Camila Valentim de Souza Lopes
+Pesquisador/ Mat. Nº 1569130
+DIRPA / CGPAT I/DIFAR-I
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                           Página 5
+

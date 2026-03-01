@@ -1,0 +1,271 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112021004036-6         N.° de Depósito PCT:JP2019/034725
+ Data de Depósito:                   04/09/2019
+ Prioridade Unionista:               JP 2018-165318 (04/09/2018); JP PCT/JP2019/019915 (20/05/2019)
+ Depositante:                        JSP CORPORATION. (JP)
+ Inventor:                           TATSUYA HAYASHI; AKINOBU HIRA
+ Título:                             Partículas espumosas de resina de poliamida e método para
+                                     produção das mesmas 
+
+                                                                PARECER
+
+          Em resposta ao parecer técnico de 25/08/2022, notificado pela publicação na RPI n° 2696
+de 06/09/2022, a requerente apresentou na petição 870220112952, de 05/12/2022, manifestação
+onde anexou dois quadro reivindicatórios (Doc. A o menos preferido e o principal, ambos com 15
+reivindicações), novas vias do relatório descritivo e resumo, além de argumentações a respeito da
+patenteabilidade do pedido em exame.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 102              870220112952           05/12/2022
+Quadro Reivindicatório                                   1a5                 870220112952           05/12/2022
+Desenhos                                                    1                870210020434           03/03/2021
+Resumo                                                      1                870220112952           05/12/2022
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                          BR112021004036-6
+
+
+                Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI       x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                     x
+Comentários/Justificativas
+
+
+      O quadro reivindicatório não é claro e preciso e, portanto, contraria o Art. 25 da Lei
+9279/96 de acordo com o seguinte:
+
+            Observa-se que a reivindicação 1 principal dos dois quadros reivindicatórios
+             apresentados (Doc. A (menos preferencial) e Principal) são muito semelhantes, com
+             exceção do texto adicional (a resina à base de poliamida tem um ponto de fusão de
+             197ºC ou menos") no quadro do Doc. A. Cabe ressaltar que tal texto adicional não está
+             de acordo com alguns exemplos apresentados (301/220ºC, 302/259ºC e 413/220ºC).
+             Logo, considerando o quadro reivindicatório principal apresentado, observa-se que
+             a reivindicação 1 principal de tal quadro refere-se a Conta expandida de resina à base
+             de poliamida compreendendo uma camada de espuma formada por expansão de uma
+             resina à base de poliamida, caracterizada pelo fato de que: em uma primeira curva
+             DSC e uma segunda curva DSC obtidas na condição 1 abaixo, a primeira curva DSC
+             tem um pico de fusão (pico intrínseco) tendo uma temperatura máxima em um lado de
+             baixa temperatura menor ou igual a uma temperatura máxima de um pico de fusão da
+             segunda curva DSC e um pico de fusão (pico de alta temperatura) tendo uma
+             temperatura máxima em um lado de alta temperatura mais alta que a temperatura
+             máxima da segunda curva DSC, e, a temperatura máxima do pico de fusão da
+             segunda curva DSC é 180°C ou mais e 280°C ou menos, a diferença entre a
+             temperatura máxima do pico intrínseco e a temperatura máxima do pico de alta
+             temperatura é de 10°C ou mais, e a conta expandida de resina à base de poliamida
+             tem uma densidade aparente de 10 a 300 kg/m3 e uma relação de células fechadas de
+             85% ou mais: Condição 1 Uma curva DSC medida quando uma camada de espuma
+             de uma conta expandida de resina à base de poliamida como uma peça de teste é
+             aquecida e derretida a partir de 30°C até uma temperatura 30°C mais alta que a
+             temperatura ao final de um pico de fusão a uma taxa de aquecimento de 10°C/min é
+             definida como uma primeira curva DSC, e uma curva DSC medida quando a peça de
+             teste é então mantida à temperatura por 10 minutos, resfriada para 30°C a uma taxa
+             de resfriamento de 10°C/min, e novamente aquecida e derretida até uma temperatura
+             30°C mais alta que a temperatura ao final do pico de fusão a uma taxa de
+             aquecimento de 10°C/min é definida como uma segunda curva DSC, cada curva sendo
+             medido por calorimetria diferencial de varredura do fluxo de calor de acordo com a
+             norma JIS K7121-1987. Entretanto, tal pleito é questionável visto que os resultados
+             encontrados para o exemplo comparativo 252, partindo do mesmo procedimento e
+             material do exemplo 201, diferem entre si de acordo com o revelado na Tabela 4 do
+             relatório descritivo, páginas 82 e 83.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D3                                 JP2017066279                                06/04/2017
+    D5                                  JPS61268737                                28/11/1986
+    D6                                 US2018044497                                15/02/2018
+
+
+
+                                                                                           Página 2
+                                      BR112021004036-6
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade           Cumprimento                Reivindicações
+                                                  Sim                        1 a 15
+          Aplicação Industrial
+                                                  Não                           -
+                                                  Sim                           -
+               Novidade
+                                                  Não                        1 a 15
+
+                                                  Sim                           -
+          Atividade Inventiva
+                                                  Não                        1 a 15
+Comentários/Justificativas
+        O presente pedido de patente de invenção refere-se a Conta expandida de resina à base
+de poliamida compreendendo uma camada de espuma formada por expansão de uma resina à
+base de poliamida, caracterizada pelo fato de que: em uma primeira curva DSC e uma segunda
+curva DSC obtidas na condição 1 abaixo, a primeira curva DSC tem um pico de fusão (pico
+intrínseco) tendo uma temperatura máxima em um lado de baixa temperatura menor ou igual a
+uma temperatura máxima de um pico de fusão da segunda curva DSC e um pico de fusão (pico
+de alta temperatura) tendo uma temperatura máxima em um lado de alta temperatura mais alta
+que a temperatura máxima da segunda curva DSC, e, a temperatura máxima do pico de fusão da
+segunda curva DSC é 180°C ou mais e 280°C ou menos, a diferença entre a temperatura máxima
+do pico intrínseco e a temperatura máxima do pico de alta temperatura é de 10°C ou mais, e a
+conta expandida de resina à base de poliamida tem uma densidade aparente de 10 a 300 kg/m3 e
+uma relação de células fechadas de 85% ou mais: Condição 1 Uma curva DSC medida quando
+uma camada de espuma de uma conta expandida de resina à base de poliamida como uma peça
+de teste é aquecida e derretida a partir de 30°C até uma temperatura 30°C mais alta que a
+temperatura ao final de um pico de fusão a uma taxa de aquecimento de 10°C/min é definida
+como uma primeira curva DSC, e uma curva DSC medida quando a peça de teste é então
+mantida à temperatura por 10 minutos, resfriada para 30°C a uma taxa de resfriamento de
+10°C/min, e novamente aquecida e derretida até uma temperatura 30°C mais alta que a
+temperatura ao final do pico de fusão a uma taxa de aquecimento de 10°C/min é definida como
+uma segunda curva DSC, cada curva sendo medido por calorimetria diferencial de varredura do
+fluxo de calor de acordo com a norma JIS K7121-1987
+
+      De acordo com a requerente:
+
+         são reapresentadas todas as vias do presente pedido de patente - relatório descritivo,
+          resumo e quadro reivindicatório PRINCIPAL, com escopo de proteção
+          substancialmente idêntico ao apenso à petição No. 870220042082 de 16.5.2022 -, em
+          que apenas o exemplo 202 do relatório descritivo foi ora excluído. Cabe ressaltar
+          que tal exemplo 202 (apresentando temperatura de fusão ao lado da baixa temperatura
+          da primeira curva DSC é mais alta que a temperatura de fusão da segunda curva DSC)
+          excluído, foi revelado no relatório descritivo original e apresentou resultados de
+          conformabilidade semelhantes e de esforço de compressão melhores
+          comparativamente aos exemplos 201, 203 e 204 (a primeira curva DSC tem um pico
+          de fusão (pico intrínseco) tendo uma temperatura máxima em um lado de baixa
+          temperatura menor ou igual a uma temperatura máxima de um pico de fusão da
+          segunda curva DSC). Assim, é questionável a exclusão de tal exemplo. Ressalta-se
+          ainda que no relatório descritivo, página 80, parágrafo [264] é citado que As seguintes
+          medições foram feitas nos corpos moldados de contas expandidas obtidos nos
+
+
+
+                                                                                         Página 3
+                                      BR112021004036-6
+
+           Exemplos 201 a 204 e 251 a 253. Os resultados estão apresentados na Tabela 4
+           onde, a fim de eliminar o questionamento frente a discussão dos resultados, a coluna
+           na Tabela 4 associado ao Exemplo 202 encontra-se sem preenchimento dos
+           resultados.
+
+          propõe-se, como 'Doc. A" quadro reivindicatório subsidiário e MENOS preferido (total
+           de 15 reivindicações), em que a seguinte passagem foi incorporada à reivindicação
+           independente 1: "a resina à base de poliamida tem um ponto de fusão de 197ºC ou
+           menos"; com base no parágrafo [0137], Tabela 4, Exemplos 201 e 204. Entretanto, tal
+           incorporação é questionável visto que os exemplos 301, 302 e 413 apresentam ponto
+           de fusão maiores que 197ºC tais como 220ºC, 259ºC e 220ºC respectivamente.
+
+       Quanto as anterioridades citadas a requerente manifesta-se afirmando que D3, D5 ou D6,
+não há descrição nem sugestão sobre "um pico de fusão (pico de alta temperatura) tendo uma
+temperatura máxima em um lado de alta temperatura mais alta que a temperatura máxima da
+segunda curva DSC, e, a temperatura máxima do pico de fusão da segunda curva DSC " ou "uma
+diferença entre a temperatura máxima do pico intrínseco e a temperatura máxima do pico de alta
+temperatura é de 10°C ou mais ". No entanto, considerando tal afirmação frente aos resultados
+encontrados e discutidos anteriormente, ratifica-se que tais anterioridades são impeditivas de
+acordo com o seguinte:
+
+       D3 revela contas expandidas obtidas por partículas expansíveis de elastômero amida
+espumante que tenham sido mais modificadas superficialmente com um revestimento de pó
+de poliamida, o pó de poliamida com um ponto de fusão - 40°C a -5°C inferior à temperatura de
+fusão do elastômero amida. As contas expandidas têm uma densidade de 50-100 g/cm3. Cabe
+ressaltar que embora D3 não revela um pico tendo uma temperatura máxima em um lado de
+baixa temperatura da primeira Curva DSC nem o pico de temperatura máxima de um pico de
+fusão da segunda curva DSC, tais características não evidenciam um efeito técnico
+inovador, considerando os exemplos 301-303 e 351-353 da Tabela 5 (como questionado no
+parecer anterior).
+
+        D5 revela grânulos expandidos à base de poliamida em que os grânulos de poliamida
+têm um ponto de fusão de 215ºC ou 280°C, densidade de 20 kg/cm3 a 100 kg/m3, uma
+relação de célula fechada de 98% ou 95% e um tamanho de célula de espuma de 100 a 200
+mícrons. Revela ainda método para produzir grânulos de poliamida expandida
+compreendendo a dispersão de grânulos de poliamida em água em uma autoclave,
+impregnação dos grânulos com um agente de sopro, mantendo a temperatura da dispersão
+dentro do recipiente a 100°C a 350°C, e liberando o grânulos à pressão atmosférica para obter
+grânulos de espuma. Revela ainda artigo moldado obtido por moldagem dos grânulos. (atenção
+aos exemplos 2, 4 e 5). Embora D5 não revele as temperaturas de pico na primeira curva DSC,
+somente na segunda mas considerando que as contas pleiteadas são obtidas pelo mesmo
+processo divulgado em D5 e que estão de acordo com a temperatura                         de pico
+na primeira curva DSC, é de se esperar que um técnico no assunto alcance o resultado pleiteado
+no presente pedido. Assim, na ausência de um efeito técnico precisamente evidenciado relativo as
+características de um pico de fusão (pico de alta temperatura) tendo uma temperatura máxima
+em um lado de alta temperatura mais alta que a temperatura máxima da segunda curva DSC, e, a
+temperatura máxima do pico de fusão da segunda curva DSC " ou "uma diferença entre a
+temperatura máxima do pico intrínseco e a temperatura máxima do pico de alta temperatura é de
+10°C ou mais não é possível conferir atividade inventiva ao pedido em análise visto que as faixas
+reivindicadas parecem ter sido arbitrárias, tendo em vista que, como dito anteriormente, o corpo
+
+
+
+                                                                                         Página 4
+                                      BR112021004036-6
+
+moldado obtido pelo exemplo 202 (antes citado como pertencente a invenção e que agora foi
+excluído; questionável tal exclusão),  alcança melhorias semelhantes e ainda maiores
+considerando a da resistência compressiva comparativemente ao corpo moldado obtido dos
+exemplos 201, 203 e 204.
+
+       D6 refere-se a conta expandida a base de poliamida ( ponto de fusão da conta varia de
+150-270ºC) tendo uma cristalinidade X de 10% a 50% e um tamanho de cristalito D de 10 nm ou
+mais, calculado com base em um pico com a menor largura de pico em uma difração de raios X
+do perfil do produto em forma de espuma e um método de produção deste produto em forma de
+espuma de resina de poliamida. É revelado que a resina à base de poliamida é uma resina à
+base de poliamida capeada na extremidade com um composto de carbodiimida (semelhante
+ao revelado na reivindicação 15 do pedido em análise).
+
+
+        Assim, considerando a discussão acima, não é possível conferir novidade e/ou atividade
+inventiva ao pedido analisado.
+
+
+
+Conclusão
+
+
+       Consequentemente, indefiro o pedido com base nos artigos 8º, 11, 13 e 25 da Lei da
+Propriedade Industrial, Lei 9279 de 14 de maio de 1996.
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 19 de janeiro de 2023.
+
+
+
+
+Sandra Regina Gomes Fraga
+Pesquisador/ Mat. Nº 1375692
+DIRPA / CGPAT I/DIPOL
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                        Página 5
+

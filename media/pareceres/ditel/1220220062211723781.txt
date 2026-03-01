@@ -1,0 +1,219 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122022006221-0    N.° de Depósito PCT: CN2018/080747
+ Data de Depósito:                   27/03/2018
+ Prioridade Unionista:               -
+ Depositante:                        HUAWEI TECHNOLOGIES CO., LTD. (CN)
+ Inventor:                           TAO SUN; CONGCHAO ZHU
+ Título:                             DISPOSITIVOS ELETRÔNICOS E MÉTODO DE FOTOGRAFIA
+                                     IMPLEMENTADO POR UM DISPOSITIVO ELETRÔNICO
+
+                                            PARECER
+          Em 03/01/2023 foi publicada através da RPI nº 2713, notificação de Ciência de Parecer
+conforme parecer técnico de primeiro exame do presente pedido. Tal parecer indicou
+irregularidades quanto ao disposto nos Arts. 8º e 13 da LPI.
+
+          O depositante, através da petição 870230019930 de 08/03/2023, e portanto
+tempestivamente,             apresentou         manifestação           a     respeito   do   parecer     técnico    propondo
+argumentação quanto aos requisitos de patenteabilidade da matéria pleiteada. Não foram
+apresentadas novas vias do pedido.
+
+          Para fins de continuidade do exame, estão sendo consideradas as vias abaixo:
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                    n.o da Petição                   Data
+
+Relatório Descritivo                                    1 a 89                    870220027850                31/03/2022
+Quadro Reivindicatório                                   1a9                      870220112782                05/12/2022
+Desenhos                                                1 a 13                    870220027850                31/03/2022
+Resumo                                                      1                     870220027850                31/03/2022
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                     Sim               Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                                   x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                           x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                             x
+O pedido está de acordo com disposto no art. 32 da LPI                                              x
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                            Página 1
+                                           BR122022006221-0
+
+
+Comentários/Justificativas ---
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas ---
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1        US2013194456 A1                                                      01/08/2013
+    D2        US2013194456 A1                                                      18/02/2014
+    D3        US7940325 B2                                                         10/05/2011
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento            Reivindicações
+                                                         Sim                   1 a 20
+           Aplicação Industrial
+                                                        Não                      ---
+                                                         Sim                   1 a 20
+                 Novidade
+                                                        Não                      ---
+
+                                                         Sim                     ---
+           Atividade Inventiva
+                                                        Não                    1 a 20
+Comentários/Justificativas
+
+      A requerente optou por não apresentar nova via do quadro reivindicatório, concentrando a
+manifestação na argumentação dos requisitos de patenteabilidade do pedido em tela frente aos
+documentos D1, D2 e D3.
+
+      Na referida argumentação é indicado que as características técnicas essenciais e
+particulares da invenção pleiteada que sustentam a atividade inventiva frente ao estado da técnica
+são aquelas que definem: (i) determinar que uma cena de fotografia [noturna] atual é uma cena
+escura ou uma cena com fonte de luz...; e (ii) ...os parâmetros de exposição de pelo menos dois
+quadros nos múltiplos quadros são diferentes na cena com fonte de luz.
+
+      Assim, a partir das características apontadas e das as argumentações trazidas pela
+requerente, entende-se que o problema técnico a ser resolvido diz respeito à como melhorar o
+efeito da imagem durante a noite. Para tal, destacam-se aqui alguns trechos da argumentação da
+requerente:
+
+
+
+
+                                                                                           Página 2
+                                        BR122022006221-0
+
+
+                       A partir do exposto acima, fica claro que D1 divulga mais de dois modos
+                       alternativos, incluindo o modo retro iluminado e o modo noturno, que podem
+                       ser selecionados por um usuário ou determinados automaticamente pelo
+                       dispositivo digital. No entanto, D1 falha em revelar um modo de fotografia noturna
+                       (night shot) que distingue um estado de fotografia e uma cena de fotografia. Em
+                       outras palavras, D1 descreve o modo retro iluminado ( backlit mode), que é
+                       outro modo diferente do modo noturno ( nighttime mode), em vez de um ramo
+                       do modo noturno.
+
+                       Em D1, apenas um desses modos pode ser selecionado para captura.
+                       Embora o parágrafo [0077] de D1 diga que "esta tecnologia também pode ser
+                       aplicada ao modo noturno portátil", isso não significa que o modo retro iluminado
+                       seja um ramo do modo noturno, mas na verdade significa que a tecnologia de
+                       como reduzir a probabilidade de obter fotografias falhas de processamento
+                       sequencial de imagem, podem ser aplicadas ao modo noturno. Em outras
+                       palavras, D1 não presta atenção ao estado e cena de captura de fotografias à
+                       noite. D1 indica vários modos em diferentes ambientes. (página 3 das
+                       argumentações)
+
+                       [...]
+
+                       Esta diferença dá origem ao efeito técnico de fornecer um modo de fotografia
+                       noturna que determina uma cena de fotografia atual e um status de fotografia
+                       atual e sintetizar uma imagem alvo de acordo com a cena de fotografia atual e o
+                       status de fotografia atual para melhorar o efeito da imagem à noite (pagina 7
+                       das argumentações).
+
+
+
+      A requerente alega que os objetos pleiteados são direcionados para a identificação, a partir
+de um único modo de fotografia  modo noturno, das condições de cena e de estado . Assim, este
+efeito técnico de melhorar a captura de imagem à noite é alcançado e diferiria do que é exposto
+em D1, que apesar de citar o modo nighttime não seria capaz de avaliar os dois fatores de cena
+e de estado a partir da definição prévia de foto noturna.
+
+      Respeitosamente, discorda-se das alegações da requerente tendo em vista que, em termos
+de características técnicas, a identificação de um modo noturno seria uma indicação prévia para o
+usuário da situação desejada, porém as etapas de captura de imagens de fato irão operar a partir
+da variação das condições de cena e estado, que definem os ditos parâmetros de exposição. A
+denominação destas situações (modo noturno, cena escura, retroiluminada...) não se refere à uma
+característica técnica, apenas nomeia uma determinada combinação de situações que influenciará
+nos parâmetros de exposição para captura.
+
+      D1 divulga esses recursos (parágrafo [0049]: ...a scene mode is selected from among
+landscape mode, portrait mode, nighttime mode, backlit mode, and so forth by the user and the
+
+
+
+                                                                                               Página 3
+                                       BR122022006221-0
+
+
+scene mode is recognized by the controller 130.) de definir modos de operação. Sendo o mais
+importante em relação a isso o efeito técnico dessas escolhas estar diretamente ligado à forma de
+operação e definição os parâmetros de captura e exposição, como o tempo de exposição,
+quantidade de luz, velocidade do obturador (parágrafos [0023], [0063] e [0077]). São esses
+ensinamentos do documento D1 que seriam utilizados por um técnico para derivar soluções para
+o problema técnico de como realizar a captura de imagens em determinados cenários, como o
+modo noturno, por exemplo. Além disso, D1 também divulga no parágrafo [0077] um modo
+noturno portátil, que se refere a um estado de fotografia" ("portátil") e a uma cena fotográfica
+("noturno"), o que indicaria, para um técnico no assunto, a avaliação destes dois fatores, tal qual
+definido no pedido em tela. Por fim, D1 também antecipa a característica de processar um número
+de quadros a partir da variação desses parâmetros de exposição de modo a realizar a captura
+com uma determinada configuração de cena e estado (por exemplo, parágrafo [0077]: ...in
+handheld night time mode, a plurality of sets of image data (the individual sets of image data are
+usually under-exposed) are captured in a low-light environment at an exposure time that is short
+enough not to cause blurring.).
+
+      Neste caminho, reiteramos o entendimento que o documento D1 é capaz de fornecer para
+um técnico no assunto à época do depósito do pedido em tela os ensinamentos necessários para
+derivar de maneira óbvia os objetos pleiteados nas reivindicações independentes no quadro
+reivindicatório analisado.
+
+      Sendo assim, mantemos a opinião de que a matéria pleiteada nas reivindicações de 1 a 20
+não apresenta atividade inventiva frente ao revelado no documento D1, descumprindo o disposto
+nos Arts. 8.º e 13 da LPI.
+
+
+
+Conclusão
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                               Rio de Janeiro, 31 de maio de 2023.
+
+
+
+
+Camila Duarte Rodrigues Lopes
+
+
+                                                                                          Página 4
+                               BR122022006221-0
+
+Pesquisador/ Mat. Nº 2357468
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+015/18
+
+
+
+
+                                                  Página 5
+

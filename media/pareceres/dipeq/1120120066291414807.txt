@@ -1,0 +1,189 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112012006629-3            N.° de Depósito PCT:US2010/049639
+ Data de Depósito:                   21/09/2010
+ Prioridade Unionista:               US 61/245,044 (23/09/2009)
+ Depositante:                        ALCON INC. (CH)
+ Inventor:                           Robert CareyTucker, Laura Ashley Creech
+ Título:                             Lente de contato colorida com base em imagens amorfas 
+
+                                                                PARECER
+
+O Depositante apresentou resposta a parecer de exigência de Pré-exame (6.20), de forma que
+havia problemas de escrita e colidências com o estado da técnica no pedido que levaram a
+ciência de parecer (7.1) como notificado na Revista da Propriedade Industrial n o 2579 de 9 de
+junho de 2020. Em 03/09/2020, o Depositante apresentou a petição 870200112144 com
+esclarecimentos e novas páginas de resumo, desenhos, reivindicações e relatório descritivo.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+         Relatório Descritivo                             1-19               870200112144           03/09/2020
+      Quadro Reivindicatório                               1-2               870200112144           03/09/2020
+                Desenhos                                  1-12               870200112144           03/09/2020
+                 Resumo                                     1                870200112144           03/09/2020
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas -
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR112012006629-3
+
+
+
+
+                Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                            Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                         x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                       x
+
+
+
+Comentários/Justificativas
+
+
+O presente pedido apresenta as seguintes irregularidades:
+
+
+
+No relatório descritivo:
+
+        no parágrafo [045] the nitidez está no lugar de a nitidez.
+
+No quadro reivindicatório
+
+        na reivindicação 3, a palavra sutiliza não está clara;
+
+        a reivindicação 8 é imediatamente seguida pela 10 (artigo 3O II da IN30);
+
+        na reivindicação 10, está incorreto o trecho 0,635 cm (1 polegada) porque uma polegada
+         não tem esse valor em cm.
+
+
+
+                            Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                              Data de publicação
+    D1       US2005168688 A1                                                    04/08/2005
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade               Cumprimento             Reivindicações
+                                                         Sim                    1-8,10-12
+            Aplicação Industrial
+                                                        Não                          -
+                                                         Sim                    1-8,10-12
+                  Novidade
+                                                        Não                          -
+                                                         Sim                         -
+             Atividade Inventiva
+                                                        Não                     1-8,10-12
+
+
+
+
+                                                                                             Página 2
+                                       BR112012006629-3
+
+
+
+
+Comentários/Justificativas
+
+
+
+Em exame anterior fora apontado o documento patentário D1 cujos dados estão no Quadro 4
+acima. Tal documento foi analisado novamente no presente exame, assim como os
+esclarecimentos do Depositante.
+
+
+A respeito do objeto da reivindicação independente 1 (de método) do presente pedido, mantém-se
+o entendimento de que o documento patentário D1 antecipa lentes de contato coloridas (parágrafo
+[0002]) segundo um padrão que pode não simular a aparência de um olho ou de uma iris
+(parágrafos [0272] e [0313]). As modificações na imagem digital também são antecipadas pelo
+parágrafo [0313], que especifica o programa comercial a ser usado para modificar, colorir ou
+alterar a imagem digital, especificamente o Adobe Photoshop®, como é citado no relatório
+descritivo do presente pedido (parágrafo [0042], por exemplo). A utilização de imagens digitais
+relacionadas a um olho também é revelada, não como obrigatória, mas, sim, como uma
+concretização alternativa (ver parágrafo [0137], p. ex.). O parágrafo [0177] de D1 trata de uma das
+concretizações   da   invenção    reforça   que   a   imagem     digital   preferencialmente   (não
+obrigatoriamente) tem relação com o olho. O parágrafo [0214] elencado nos esclarecimentos do
+Depositante diz que a imagem compreende pelo menos uma parte de uma imagem, tal como, mas
+não se limitando à íris de um olho, de forma que a íris de um olho seria apenas um exemplo
+(não limitativo, não exclusivo) de imagem. Por tudo isto, entende-se que D1 efetivamente antecipa
+a utilização de uma imagem não vinculada a um olho.
+
+
+As demais reivindicações, dependentes, decorrem basicamente de alterações das reivindicações
+independentes já discutidas, que não parecem ter efeito técnico novo em relação ao revelado no
+estado da técnica, e não se vislumbra que alguma reivindicação dependente do presente pedido
+possa dar origem a eventuais novas reivindicações patenteáveis.
+
+
+Deste modo, não se vislumbra nenhum efeito técnico surpreendente no objeto das supracitadas
+reivindicações, que, para um técnico no assunto, decorreriam de forma óbvia do estado da técnica
+aqui representado pelo documento D1.
+
+
+
+Conclusão
+
+
+Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+
+                                                                                          Página 3
+                                      BR112012006629-3
+
+
+      -   tem problemas de clareza no relatório descritivo e no quadro reivindicatório (Arts. 24 e
+          25 da LPI).
+
+
+
+De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da data
+de publicação na RPI, para interposição de recurso.
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                               Rio de Janeiro, 3 de maio de 2021.
+
+
+
+Roberto da Silva
+Pesquisador/ Mat. Nº 1547187
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº
+001/18
+
+
+
+
+                                                                                         Página 4
+

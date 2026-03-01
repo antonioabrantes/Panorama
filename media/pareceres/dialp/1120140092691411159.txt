@@ -1,0 +1,155 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112014009269-9           N.° de Depósito PCT: IB2012/002091
+ Data de Depósito:                   18/10/2012
+ Prioridade Unionista:               US 61/548,632 (18/10/2011)
+ Depositante:                        MULTIPLICOM N.V. (BE)
+ Inventor:                           JURGEN DEL-FAVERO, DIRK GOOSSENS, LIEN HEYRMAN
+ Título:                             Diagnóstico de aneuploidia cromossômica fetal 
+
+                                                              PARECER
+Em parecer técnico inicial, publicado na RPI nº 2590 de 25/08/2020, foi emitido parecer de
+exigência (6.1) com base nos arts. 10 e 25 da LPI. Em resposta, através da petição n°
+870200147109 de 23/11/2020, a requerente propôs novo quadro reivindicatório.
+
+São realizadas as seguintes observações acerca da matéria pleiteada, considerando o parecer
+técnico inicial e a manifestação apresentada:
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                           x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    x
+
+O pedido refere-se a Sequências Biológicas                                                             x
+
+Comentários/Justificativas
+          O INPI emitiu a exigência de código 6.6.1 na RPI nº 2464 de 27/03/2018, para fins de
+manifestação do depositante quanto à ocorrência de acesso ao Patrimônio Genético nacional e/
+ou Conhecimento Tradicional Associado para obtenção do objeto do presente pedido. Não tendo
+havido manifestação do depositante no prazo de 60 (sessenta) dias contados a partir da
+publicação na RPI, o INPI deu prosseguimento ao exame técnico com o entendimento de que
+não houve acesso ao patrimônio genético nacional e/ou conhecimento tradicional associado,
+conforme consta no texto do despacho de código 6.6.1 publicado na RPI, de acordo com
+entendimento firmado pela Procuradoria Federal Especializada junto ao INPI (PFE-INPI) no
+Parecer nº 00001/2018/PROCGAB/PFE-INPI/PGF/AGU (Processo INPI nº 52400.002142/2018-
+30), publicado nas RPIs nº 2465 (03/04/2018), 2466 (10/04/2018) e 2467 (17/04/2018), ao qual
+foi atribuído caráter normativo na RPI nº 2485 de 21/08/2018.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                 Página 1
+                                          BR112014009269-9
+
+       A requerente apresentou a Listagem de Sequências Biológicas no formato eletrônico
+através da petição número 870200147109 do dia 23/11/2020 de acordo com a resolução no
+187/2017 do INPI.
+
+                            Quadro 1  Páginas do pedido examinadas
+             Elemento                     Páginas               n.o da Petição         Data
+Relatório Descritivo                        1-39                870200147109         23/11/2020
+Listagem de sequências em
+                                              -                          -               -
+formato impresso
+Listagem de sequências*            Código de Controle           870200147109         23/11/2020
+Quadro Reivindicatório                      1-3                 870200147109         23/11/2020
+Desenhos                                    1-5                 860140053613         16/04/2014
+Resumo                                       1                  870200147109         23/11/2020
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+     66A9F5CA94FB7DF5 (Campo 1) e 036407FC145DBFB7 (Campo 2).
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                               Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                          x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                  x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                          x
+O pedido está de acordo com disposto no art. 32 da LPI                           x
+Comentários/Justificativas
+
+As argumentações da requerente a respeito do Art. 10 (IX) da LPI foram apreciadas e acatadas
+neste parecer.
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                               Sim         Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI
+
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI
+
+Comentários/Justificativas
+       É amplamente conhecido que a técnica de PCR Multiplex não funciona com quaisquer
+conjuntos de iniciadores. Torna-se necessário, portanto, que as SEQs ID dos iniciadores sejam
+identificadas para que o método pleiteado seja executado. Desta forma, permanece o fato de que
+as reivindicações 1 e 10 não atendem ao disposto no Art. 25 da LPI e na Instrução Normativa nº
+30/2013  Art. 4º (III) uma vez que as SEQs ID ds iniciadores do PCR Multiplex não estão
+definidos.
+
+
+
+
+                                                                                             Página 2
+                                         BR112014009269-9
+
+         E reitera-se que as reivindicações 11-13 definem o objeto em termos do resultado
+alcançado e não pelas características técnicas do objeto, em desacordo ao disposto no Art. 25 da
+LPI. Ressalta-se que um produto deve ser adequadamente definido por especificações referentes
+aos aspectos construtivos dos elementos que o constituem.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                 Documento                              Data de publicação
+     -                                       -                                           -
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade               Cumprimento               Reivindicações
+                                                     Sim                         1-13
+             Aplicação Industrial
+                                                     Não                          -
+                                                     Sim                         1-13
+                  Novidade
+                                                     Não                          -
+                                                     Sim                         1-13
+             Atividade Inventiva
+                                                     Não                          -
+Comentários/Justificativas
+
+Conforme justificado em parecer anterior, o presente pedido atende a todos os requisitos de
+patenteabilidade.
+
+Conclusão
+
+         Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que as
+reivindicações estão indefinidas (Art. 25 da LPI).
+
+         De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+                                                                Rio de Janeiro, 26 de abril de 2021.
+
+
+
+
+Nathalia Pereira Cavaleiro
+Pesquisador/ Mat. Nº 2317366
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+009/18
+
+
+
+
+                                                                                             Página 3
+

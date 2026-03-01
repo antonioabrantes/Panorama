@@ -1,0 +1,319 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR112017020959-4           N.° de Depósito PCT:US2016/026608
+ Data de Depósito:                     08/04/2016
+ Prioridade Unionista:                 US 62/145170 (09/04/2015)
+ Depositante:                          BASF CORPORATION (US)
+ Inventor:                             XINGTAO GAO; CHRISTOPHER R. CASTELLANO; BRENDAN
+                                       PATRICK DOWD
+ Título:                               Microesferas de zeólito ZSM-5, e, método para formar microesferas
+                                       de zeólito ZSM-5
+
+                                                                    PARECER
+
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas         n.o da Petição           Data
+
+                                                                1             870200162912           30/12/2020
+Relatório Descritivo
+                                                              2 a 24          870170073641           29/09/2017
+Quadro Reivindicatório                                         1a5            870200162912           30/12/2020
+Desenhos                                                       1a3            870170073641           29/09/2017
+Resumo                                                          1             870170073641           29/09/2017
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                 Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                       X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                               X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                         X
+O pedido está de acordo com disposto no art. 32 da LPI                                          X
+Comentários/Justificativas
+
+XXX
+
+                      Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                 Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                                      X
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                          Página 1 de 7
+                                                        BR112017020959-4
+
+
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                           X
+Comentários/Justificativas
+
+   1. A reivindicação 1, não está clara e precisa à definição da matéria que se pleiteia proteção, pois
+       incorre nas seguintes irregularidades:
+
+       (i) De acordo com a reivindicação independente 1, o metacaulim é uma fonte de alumínio dentre
+       outras encontradas nos exemplos do presente pedido, em que revela que o resultado alcançado
+       não é inerentemente dependente da dita fonte de alumínio. Cabe destacar que, na redação da
+       reivindicação 1, o emprego do termo compreende não exclui outras fontes de alumínio, e não há
+       qualquer indício no presente pedido em que o metacaulim deve ser a fonte de alumínio preferida.
+       Mas, de forma contrária, o pedido, no seu conjunto, sugere, aparentemente, que tais elementos
+       devem ser evitados no produto final. Assim, entende-se que um técnico no assunto buscaria,
+       primordialmente, uma fonte de alumínio sem caulim ou metacaulim. O mesmo raciocínio pode ser
+       estendido para com a solução alcalina, que compreende, isto é, não está limitada a uma solução
+       coloidal de Na2O, SiO2 e Al2O3. Assim, a reivindicação não atende aquilo que dispõe o artigo 25
+       da LPI e a Instrução Normativa IN30/2013 Art.4° (III).
+
+       (ii) Considera-se ainda que à etapa de fornecimento de uma mistura compreendendo uma
+       pluralidade de particulados compreendendo um material de densidade alta compreendendo sílica
+       coloidal com uma massa específica absoluta de pelo menos 0.3 g/cc e cristais de zeólito ZSM-5
+       (posteriormente ZSM-5), que a referida definição não exclui a presença de outros materiais como pó
+       de alumina, mas também podem ser empregados outros zeólitos, como o ZSM-22 (TON), como
+       verificado em D1, ou mesmo o metacaulim, pois os zeólitos e o metacaulim são, a princípio,
+       também materiais de sílica, contrariando o disposto no artigo 25 da LPI e a Instrução Normativa
+       IN30/2013 Art.4° (III).
+
+       (iii) A etapa à formação in situ de ZSM-5 não revela as condições operacionais de processo,
+       características essas particulares e essenciais à reprodutibilidade do processo por um técnico no
+       assunto até o produto final. Não há, por exemplo, a quantidade de sílica ou outros materiais
+       potencialmente reativos da mistura da etapa inicial, a natureza e a quantidade do componente
+       introduzido com a solução alcalina, as condições de reação e de aquecimento (temperatura e
+       duração) e etc. Observa-se que, na etapa final, não está claramente explícito que todos os materiais
+       adicionados são transformados em ZSM-5, ou mesmo devem ser totalmente cristalizados. Na etapa
+       final do processo que se pleiteia proteção, as microesferas são misturadas com reagentes,
+       formando uma mistura reativa, para formar ZSM-5 in situ (integrado) nas ditas microesferas. Disto,
+       não é dito que todos os reagentes adicionados devem ser transformados em zeólita ZSM-5, mas é
+       apenas indicado, de forma indefinida, que as condições devem ser tais que o metacaulim
+       desapareça. Ainda, considera-se que o material formado entre as microesferas ZSM-5 da etapa
+       intermediária pode, claramente, compreender outros materiais (cristalinos ou amorfos) além de
+       ZSM-5, ou mesmo com excesso de sílica ou silicato, os quais não reagiram com metacaulim (fonte
+       de alumínio). Ainda, a composição do material (matriz) formado nas ou entre as microesferas da
+       etapa intermediária também não está bem definida e, desta forma, tal etapa é ampla e conflitante
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                        Página 2 de 7
+                                                 BR112017020959-4
+
+
+com os métodos ora revelados no estado da técnica, , contrariando o disposto no artigo 25 da LPI e
+a Instrução Normativa IN30/2013 Art.4° (III).
+
+(iv) Verifica-se, também, que as proporções em peso de ZSM-5 na mistura inicial da etapa inicial ou
+no produto final após a etapa final não estão bem definidas. Considerando que a reivindicação
+inicialmente depositada (reivindicação 33) definia um teor de ZSM-5 preferencial de 20 a 70% em
+peso no final da etapa inicial, e que a atual reivindicação 2 (antiga reivindicação 32) define uma
+faixa entre 10 a 75%, entende-se que as microesferas acabadas possam compreender até quase
+80% em peso de outros materiais, estes como ligantes inertes típicos. Assim, o processo da atual
+reivindicação 1 não está restrito a um resultado de alta cristalinidade oriundo exclusivamente dos
+zeólitos ZSM-5. Consequentemente, a quantidade de ZSM-5 não está claramente definida na
+reivindicação 1 (contrariando o artigo 25 da LPI) e, portanto, a cristalinidade inerente à zeólita
+também não está definida. Ademais, a natureza química dos componentes cristalinos não está
+definida. Também, não é possível deduzir as áreas de superfície BET, tamanhos médios de cristal
+e/ou taxas de atrito ou índices do método de preparação. Tais dados foram obtidos apenas, na
+melhor das hipóteses, nas condições específicas das concretizações dos exemplos individuais ora
+revelados no presente pedido.
+
+(v) Cabe ressaltar que, ao inserir os parâmetros para definir cristalinidade, tamanhos médios de
+cristal, áreas de superfície BET e/ou taxas de atrito, bem como índices, sem indicar "as condições
+do processo resultaria meramente em uma definição do produto e/ou o método pelo resultado
+desejado, a ser alcançado, onde os requisitos de patenteabilidade para com os artigos 24 e 25 da
+LPI não seriam cumpridos, deixando, obviamente, um técnico no assunto em dúvida quanto às
+características essenciais e particulares para a obtenção do referido resultado com o processo
+reivindicado.
+
+(vi) Sendo assim, vislumbra-se um sem número de possibilidades, em que não é garantido que
+todas essas possibilidades de combinação entre os diferentes parâmetros de processo possam
+resultar em produtos reprodutíveis. Nesse sentido, constata-se que o objeto reivindicado na
+presente reivindicação não é definido de forma precisa e suficiente, pois infringe aquilo que
+preconizam os Artigos 24 e 25 da LPI, e ainda, o que dispõe a Instrução Normativa IN30/2013 (Art.
+4° (III)).
+
+(vii) Ainda, segundo o entendimento da Resolução PR nº124/2013 (Diretrizes de Exame de Pedidos
+de Patente - itens (3.86) e (3.87)), verifica-se que o número de possibilidades ao processo não
+atende a condição de precisão do objeto, por envolver um grau de generalização amplo, não sendo,
+portanto, permitida a referida generalização.
+
+(viii) Denota-se que algumas das características técnicas do processo à obtenção de um produto,
+quando se considera as reivindicações independentes e dependentes, não são claras e precisas
+(artigo 25 da LPI e a Instrução Normativa IN30/2013 (Art.4° (III)). Por exemplo, não é possível
+considerar que a seleção de um tipo específico dentre uma pluralidade de particulados
+compreendendo um material de densidade alta compreendendo sílica coloidal com uma massa
+específica absoluta de pelo menos 0.3 g/cc e cristais de zeólito ZSM-5, a uma certa proporção,
+
+
+
+ Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                        Página 3 de 7
+                                                         BR112017020959-4
+
+
+         (reivindicação 2) leve a um produto final específico. Na mesma linha, a seleção de um "material de
+         alta densidade" específico não representa uma alternativa técnica à proporção do referido material
+         de alta densidade, nem à proporção de cristais ZSM-5. Considerações semelhantes aplicam-se
+         tendo em conta as outras listas de funcionalidades ora especificadas nas reivindicações
+         dependentes.
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                        Data de publicação
+    D1                                              WO0066263A1                             09/11/2000
+    D2                                                US5994603A                            30/11/1999
+    D3        JOURNAL OF FUEL CHEMISTRY AND TECHNOLOGY, vol.                                16/07/2008
+              36, no. 2, doi:10.1016/S1872-5813(08)60015-8, pags 144  150
+    D4                                            US2013225397A1                            29/08/2013
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                     Cumprimento   Reivindicações
+                                                                           Sim           1a7
+             Aplicação Industrial
+                                                                          Não              --
+                                                                           Sim           1a7
+                     Novidade
+                                                                          Não              --
+
+                                                                           Sim             --
+             Atividade Inventiva
+                                                                          Não            1a7
+Comentários/Justificativas
+
+      Através da petição INPI-RJ nº 870200162912 de 30/12/2020, a requerente apresentou
+manifestação ao parecer de ciência em 1ª instância, notificado na RPI N° 2596, em 06/10/2020,
+apresentando nova via da página 1 do relatório descritivo e do resumo, com título modificado,
+bem como nova via do quadro reivindicatório, com 7 reivindicações, e argumentações, em que
+contesta os critérios de não atividade inventiva, relativamente à matéria que se pleiteia proteção
+no presente pedido, frente ao quadro reivindicatório emendado, em contraste com os
+documentos do estado da técnica ora considerados ao exame técnico.
+
+      O presente pedido refere-se a um método para formar microesferas de zeólito ZSM-5,
+caracterizado pelo fato de que o método compreende: conformar uma mistura em microesferas,
+em que a mistura compreende uma pluralidade de particulados compreendendo um material de
+densidade alta compreendendo sílica coloidal com uma massa específica absoluta de pelo
+menos 0.3 g/cc e cristais de zeólito ZSM-5; calcinar as microesferas e reagir e
+subsequentemente aquecer as microesferas com uma solução alcalina para formar zeólito ZSM-
+5 in-situ nas microesferas, em que as microesferas de zeólito ZSM-5 incluem não mais do que
+8% em peso de argila ou material de argila calcinada, em que a solução alcalina compreende
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                            Página 4 de 7
+                                                        BR112017020959-4
+
+uma solução coloidal de Na2O, SiO2 e Al2O3, em que a reação compreende ainda reagir as
+microesferas com a pelo menos uma solução alcalina e a adição da fonte de alumínio produz
+uma mistura reativa, em que a fonte de alumínio compreende metacaulim, e em que a a fonte de
+alumínio está presente na quantidade de 0,1 a 3,0% em peso da mistura reativa (reivindicação
+1).
+
+      Destaca-se das argumentações da requerente que as referências citadas não empregam
+metacaulim como fonte de alumina durante a cristalização, em que o produto resultante tem uma
+quantidade mínima de argila presente. Ainda, em relação à faixa de 0,1 a 3,0% em peso na
+mistura reativa da fonte de alumínio, a requerente argumenta que tal faixa não seria
+incompatível com o percentual de não mais de 8% em peso em argila, que é em relação ao
+produto final e não em relação à mistura reativa, onde a argila metacaulim é consumida na
+reação e não é usada na conformação das microesferas.
+
+      As argumentações da requerente foram aceitas, mas não foram consideradas
+persuasivas de modo a contornar o estado da técnica ora considerado ao exame técnico no
+presente parecer técnico.
+
+      Reitera-se do parecer anterior, parecer de ciência em 1ª instância, notificado na RPI N°
+2596, em 06/10/2020, que D1 revela um catalisador zeólita ligado a uma zeolite que não contém
+uma quantidade significativa de aglutinante não zeolítico. De acordo com o método geral de D1,
+forma-se uma solução aquosa de cristais de núcleo zeolítico e pasta de sílica, seguida de
+conversão da sílica para o agregado zeolítico (D1, página 18, linha 24 - página 19, linha 6).
+Assim, tal como está implícito na descrição mais pormenorizada do método correspondente
+utilizando a extrusão, o agregado de sílica-zeólita é calcinado no ar, antes do passo final de
+conversão da sílica para o agregado zeolítico (D1, página 18, linhas 18-22). A conversão de
+sílica para agregado de zeólita é realizada na presença de uma solução que contenha íons
+hidróxi, ou seja, uma solução alcalina (D1, página 19, linhas 28-30). Uma solução que inclui
+TBA-Br e NaOH também é exemplificada (D1, exemplos 1 e 2; relativa aos extrudados).
+
+      D1 também aborda o problema de fornecer alta cristalização, e não emprega qualquer
+argila (D1, pág. 9, linhas 21-29). D1 revela um método em que uma solução aquosa de cristais
+zeólita e aglutinante de sílica é formada por spray seco, com o produto final apresentando alta
+critalinidade. D1 revela que o catalisador é útil para craqueamento catalítico (D1, página 18,
+linhas 24-26), notadamente por ter, inerentemente, resistência suficiente ao atrito (D1, página 4,
+linhas 26-30 e a página 5, linhas 18-21, necessidade de resistência mecânica).
+
+      D2 é semelhante a D1 (D2, col 5, linha 23 - col. 6, linha 35), em que a secagem por spray
+é mencionada (D2, col 5. linhas 60-66, bem como exemplo 1) à formação de extrudados.
+
+      D3 descreve um método em que são fornecidas microesferas de gel de sílica,
+impregnadas com uma solução NaAIO2, seca e misturada com uma solução de n-butilamina,
+NaOH e NaNO3, seguido de cristalização do ZSM-5 num autoclave (D3, item "1.1
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                  Página 5 de 7
+                                                          BR112017020959-4
+
+Experimental"). Embora o documento não descreva explicitamente a preparação das
+microesferas de gel de sílica, infere-se que podem ser preparadas por secagem e calcinamento.
+O gel de sílica (sílica precipitada) pode, ao mesmo tempo, ser visto como "componente de alta
+densidade" (D3, reivindicação 3).
+
+      Entende-se, a partir do estado da técnica, que o método da reivindicação 1 é óbvio e
+evidente a um técnico no assunto, que seria motivado a realizar pequenas adequações à
+otimização, dentro do seu conhecimento de rotina de trabalho, ao ponto de alcançar a matéria
+conforme se pleiteia proteção no presente pedido.
+
+      Denota-se, ainda, que as ditas etapas do método para a preparação das microesferas de
+gel de sílica já se encontram reveladas, por exemplo, em D3, o qual também aborda o problema
+da elevada cristalização (último parágrafo da seção 2.1.1; qualquer grau de cristalização pode
+ser selecionado) e não utiliza qualquer argila (isso compete a um valor de 0%, compreendido
+dentro da faixa do presente pedido), em que o catalisador é útil para craqueamento catalítico
+(seção 2.3). D3 não testa a resistência ao atrito, mas, de maneira óbvia e evidente, entende-se
+que a utilização de microesferas de gel de sílica está inerentemente associada à resistência ao
+atrito (D3, primeira página, segundo parágrafo).
+
+      D4 revela um método em que uma mistura composta por ZSM-5 e sílica sol é seca e
+calcinada (D4, exemplos 57-59 e exemplos 68-69). A microsfera calcinada é então reagida e
+aquecida para formar zeólita ZSM-5, in situ, numa solução que inclua diamina de etileno, uma
+solução alcalina. A microesfera final tem alta critalização (conteúdo de zeólita de 95 % em peso
+e acima, vide tabelas 14 e 19 de D4). Portanto, o dito produto não contém argila, e apresenta
+alta resistência ao atrito (índice de abrasão baixa, ver exemplos) e é conflitante com a matéria
+que se pleiteia proteção no presente pedido.
+
+Conclusão
+
+      Conclui-se que os argumentos apresentados pela requerente foram aceitos, mas NÃO
+foram considerados persuasivos. Sobre tal, conclui-se, frente aos documentos do estado da
+técnica, que a matéria que se pleiteia proteção nas reivindicações 1 a 7 NÃO apresenta atividade
+inventiva, descumprindo o disposto nos artigos 8° e 13 da LPI.
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da
+             LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a
+partir da data de publicação na RPI, para interposição de recurso.
+
+
+                                                                             Rio de Janeiro, 6 de abril de 2021.
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                            Página 6 de 7
+                                                      BR112017020959-4
+
+
+                                                                         Publique-se o indeferimento (9.2).
+
+
+
+Josias Azeredo Barbosa
+Pesquisador/ Mat. Nº 1882823
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº
+003/14
+
+
+
+
+      Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                            Página 7 de 7
+

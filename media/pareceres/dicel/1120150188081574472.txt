@@ -1,0 +1,250 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112015018808-7         N.° de Depósito PCT:US2014/014591
+ Data de Depósito:                   04/02/2014
+ Prioridade Unionista:               US 13/760,641 (06/02/2013)
+ Depositante:                        GOOGLE LLC (US)
+ Inventor:                           JEFFREY VAN GOGH, STEPHEN F. YEGGE, MICHAEL JOSEPH
+                                     FROMBERGER, AMIN SHALI, GREGORY SCOTT WEST, JAMES
+                                     ANTHONY DENNETT, LASSE ESPEHOLT, RONALD AARON
+                                     BRAUNSTEIN
+ Título:                             Método e sistema para modelagem de código-fonte 
+
+                                                              PARECER
+          O presente pedido teve parecer de ciência(7.1), tendo em vista primeira conclusão
+de objeções quanto ao artigo 10 inciso I da LPI, bem como ausência de atividade inventiva
+, considerando-se os ensinamentos do documento US2007226708(D1),tendo como base
+legal os artigos 8 e 13 da LPI. A publicação do referido parecer sendo feita conforme RPI
+n. 2656 de 30/11/2021.
+
+              O requerente então, conforme petição 870220016387 de 24/02/2022, apresentou
+manifestação contestando as objeções que enquadraram a matéria pleiteada no artigo 10,
+bem como contestou o estado da técnica mostrado(documento D1).
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                1/19 a 19/19             870220016387           24/02/2022
+
+Quadro Reivindicatório                                 1/3 a 3/3             870220016387           24/02/2022
+
+Desenhos                                            1/11 a 11/11             860150169626           05/08/2015
+Resumo                                                     1/1               870220016387           24/02/2022
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                       x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                               x
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                Página 1
+                                           BR112015018808-7
+
+
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   x
+O pedido está de acordo com disposto no art. 32 da LPI                    x
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1            US2007226708                                                     27/09/2007
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                    1-10
+           Aplicação Industrial
+                                                         Não                   Nenhuma
+                                                         Sim                    1-10
+                 Novidade
+                                                         Não                   Nenhuma
+
+                                                         Sim                   Nenhuma
+           Atividade Inventiva
+                                                         Não                    1-10
+
+
+
+Comentários/Justificativas
+
+1. As alegações do requerente foram analisadas.
+
+2. Em nova análise, concorda-se parcialmente com alegações do requerente. Entretanto,
+apesar de em novo entendimento o referido método não se tratar explicitamente de modelo
+abstrato, respeitosamente discorda-se que hajam efeitos técnicos envolvidos no processo de
+geração de modelo de grafo orientado(incorretamente traduzido como gráfico) de regiões
+ocultas/implícitas de um código fonte, tendo em vista uma melhor visualização das
+funcionalidades do código fonte, o qual o requerente coloca como um problema técnico
+associado a fornecer relações de aresta entre um nó que contém um segmento de código sem
+uma localização de origem e o nó que representa o segmento de código sem uma localização
+de origem em primeiro lugar por que a definição do problema técnico objetivo não é adequada,
+pois o problema técnico objetivo deve ser formulado de modo a não conter indicadores à
+
+
+                                                                                          Página 2
+                                        BR112015018808-7
+
+
+solução técnica, uma vez que incluir parte de uma solução técnica oferecida por uma invenção
+no enunciado do problema deve, quando o estado da técnica for avaliado em termos desse
+problema, necessariamente resultam em uma visão retrospectiva(ex post facto) sendo tomado
+como sendo atividade inventiva.
+
+3. Além disso, como nenhum modelo de dados específico é fornecido a um usuário, ele não
+pode permitir a um usuário "modelar e entender a funcionalidade do código ou o comportamento
+do código de forma eficaz". Além disso, não está claro como uma            ferramenta estática de
+análise, pode reconhecer um nó de simulação(figment) como não sendo um nó regular e,
+portanto, reconhecendo que não representa código regular que é necessário para que a solução
+tenha condição de ser executada. Ou seja, por exemplo, o trecho característico criar          um
+modelo de dados a partir do código-fonte indexado que inclui uma pluralidade de nós
+que representam elementos de códigos e uma pluralidade de arestas para as relações
+entre os elementos parece mais o resultado que se pretende atingir do que parte da solução do
+problema, uma vez que entende-se que o grafo orientado gerado, contendo arestas e
+relações entre os elementos e justo o modelo que se pretende gerar para facilitar a
+visualização do código fonte com trechos ocultos ou não claros.
+
+
+
+4. Ainda que se considere tecnicamente a atual solução apresentada no quadro reivindicatório
+pra efeitos de análise de atividade inventiva, entende-se que tais pleitos são de conhecimento
+de D1, conforme razões apresentadas a seguir.
+
+
+
+5. O requerente alega como limitações de D1, Em nenhuma parte, D1 divulga a criação de uma
+entidade artificial como um nó no AST, muito menos a criação de uma aresta entre uma
+entidade artificial que representa a invocação de macro expandida e um nó que representa o
+elemento de código que contém a referência à invocação de macro, entretanto os elementos
+característicos das reivindicações independentes principais não dão detalhes a um técnico no
+assunto, como, a partir de um código fonte tal geração de aresta e nó e realizada.
+
+
+
+6. O requerente alega que D1 não divulga ou sugere o recurso técnico: criar, em resposta ao
+reconhecimento de um dos segmentos de código como segmento de código oculto ou implícito,
+um nó de simulação para o segmento de código em que o modelo de dados representa o
+comportamento da simulação com uma aresta entre o nó de simulação e um nó que representa
+o elemento de código que contém a referência para a simulação e em que o conteúdo do nó de
+simulação não representa um código válido conforme definido na Reivindicação 1 do presente
+pedido, entretanto, de forma análoga, entende-se que os elementos característicos das
+reivindicações independentes principais não dão detalhes a um técnico no assunto como um nó
+de simulação e gerado a partir do reconhecimento de um dos segmentos de código como
+segmento de código oculto ou implícito.
+
+
+
+                                                                                            Página 3
+                                       BR112015018808-7
+
+
+
+
+7. Por fim, a expressão figment esta associada em sua tradução para o português a fantasia,
+ficção, imaginação e o próprio requerente em sua resposta admite que o A reivindicação
+Independente 1 do presente pedido descreve genericamente um método para modelar código-
+fonte, corroborando dessa forma, dada a generalidade dos elementos característicos, para a
+dificuldade de se estabelecer uma diferença entre os atuais pleitos e o ensinado por D1.
+
+
+
+8. Quanto a reivindicação 1, o referido método para modelagem de código-fonte, e mostrado
+por D1(Figuras 2 e 4), em que e antecipado:
+
+        receber o código-fonte que inclui segmentos de código que não possuem uma localização
+de origem,conforme D1(parágrafo 94);
+
+             indexar o código-fonte recebido,conforme D1(parágrafo 62),onde a indexação e
+implícita;
+
+         criar um modelo de dados a partir do código-fonte indexado que inclui uma
+pluralidade de nós que representam elementos de códigos e uma pluralidade de arestas
+para as relações entre os elementos,conforme D1(parágrafos 42 e 78);
+
+        determinar a localização de origem para ser associada a cada nó, conforme D1(parágrafo
+78);
+
+        criar, em resposta ao reconhecimento de um dos segmentos de código como segmento de
+código oculto ou implícito, um nó de simulação (figment) para o segmento de código em que o
+modelo de dados representa o comportamento da simulação com uma aresta entre o nó de
+simulação e um nó que representa o elemento de código que contém a referência para a
+simulação e em que o conteúdo do nó de simulação não representa um código válido, conforme
+D1(parágrafo 94);
+
+        atribuir a simulação criada como a localização de origem associada ao nó do segmento de
+código, conforme D1(parágrafo 94).
+
+       Desta forma a matéria contida na reivindicação 1 esta antecipada pelo estado da
+técnica não apresentando atividade inventiva.
+
+
+
+9. Quanto a reivindicação 6, o referido sistema para modelagem de código-fonte, consiste
+no conjunto de aparelhos de processamento eletrônico digital que implementam
+as etapas do método da reivindicação 1 e são antecipados por D1(Figura 5).
+
+
+
+10. Quanto as reivindicações dependentes, consistem de meros detalhamentos
+que não apresentam atividade inventiva.
+
+
+                                                                                           Página 4
+                                      BR112015018808-7
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da
+          LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 23 de maio de 2022.
+
+
+
+
+Ronaldo de Oliveira
+Pesquisador/ Mat. Nº 1546951
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+004/15
+
+
+
+
+                                                                                        Página 5
+

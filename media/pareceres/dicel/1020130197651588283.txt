@@ -1,0 +1,239 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102013019765-3           N.° de Depósito PCT:
+ Data de Depósito:                   02/08/2013
+ Prioridade Unionista:               -
+ Depositante:                        CEZAR AUGUSTO NAKANO (BRSP)
+ Inventor:                           CEZAR AUGUSTO NAKANO
+ Título:                             Sistema de captura, tratamento, armazenamento e transmissão de
+                                     dados de veículos leiloados 
+
+                                                                PARECER
+A presente Patente de Invenção refere-se a Sistema de Captura, Tratamento, Armazenamento e
+Transmissão de dados de Veículos Leiloados é constituído por módulos que trabalham de forma
+integrada, utilizando recursos avançados para a realização de todas as funções especificadas. A
+invenção é constituída de                    módulos         integrados,     sendo   os   principais   módulos   de
+Agendamento              (10), módulo de Captura (20), módulo de Tratamento (30), módulo de
+Conferência (40) e módulo de Transmissão (50), bem como por utilizar Banco de Dados (BD1) e
+(BD2) para criar um histórico das informações coletadas.
+
+Em 20/06/2022, através da Petição 870220053640, a requerente apresenta uma manifestação
+ao primeiro exame realizado, solicitando um novo exame do presente pedido com a citada 1
+(uma) reivindicação.
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                n.o da Petição             Data
+
+Relatório Descritivo                                     19-24                870210104271             11/11/2021
+Quadro Reivindicatório                                     25                 870220053640             20/06/2022
+Desenhos                                                    4                 870210104271             11/11/2021
+Resumo                                                     26                 870210104271             11/11/2021
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                  Página 1
+                                          BR102013019765-3
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                             Sim                Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                            x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                    x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                     x
+O pedido está de acordo com disposto no art. 32 da LPI                      x
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                             Sim                Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI        x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         x
+Comentários/Justificativas
+
+As características módulo de captura, módulo de tratamento, módulo de conferência e
+módulo de transmissão usadas na definição da matéria pleiteada na reivindicação 1 são
+genéricas, impossibilitando a definição clara e precisa da matéria objeto da proteção, o que
+contraria o disposto no Art. 25 da LPI e na Instrução Normativa nº 30/2013  Art. 4º (III).
+
+De fato, a reivindicação 1 apresenta um sistema constituído por esses referidos módulos sem
+detalhá-los.
+
+Assim, um técnico conseguiria realizar a invenção proposta de inúmeras maneiras (diversas
+implementações), dado que os módulos são descritos como se fossem caixas pretas.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                               Data de publicação
+    D3                                US20030036964                                  20/02/2003
+    D4                                US20040128224                                  01/07/2004
+
+
+
+
+                                                                                              Página 2
+                                          BR102013019765-3
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+        Requisito de Patenteabilidade          Cumprimento             Reivindicações
+                                                   Sim                         1
+            Aplicação Industrial
+                                                   Não                         -
+                                                   Sim                         1
+                 Novidade
+                                                   Não                         -
+
+                                                   Sim                         -
+             Atividade Inventiva
+                                                   Não                         1
+Comentários/Justificativas
+
+Na ocasião do primeiro exame, foi emitida uma ciência de parecer para este pedido de invenção.
+A requerente, então, ingressou com uma manifestação a esse exame com argumentações e
+modificações no quadro reivindicatório.
+
+Quanto às argumentações apresentadas, destacam-se:
+
+(i) Examinador quando sugere que um técnico, conhecendo D3 PODERIA utilizar um sistema
+web para leiloar veículos utilizando o OCR que é conhecido, pois, justamente a inventividade
+proposta no sistema do presente pedido é que o torna diferente de D3. Aquilo que poderia
+parecer óbvio para o Sr. Examinador é um dos pontos mais importantes do presente
+sistema pois resta claro que D3 NÃO utiliza tais ferramentas e é possível afirmar que até o
+presente momento, nenhum outro sistema no mercado alcançou tal solução;
+
+(ii) Obviamente que fazendo uma leitura superficial, D4 utiliza, sim, transmissão de dados,
+bancos de dados e comparação de dados, e certamente que tais funcionalidades são
+bastante conhecidas para quem opera sistemas de dados na internet. No entanto, como é de
+amplo conhecimento, não é a função em si que se está pleiteando no presente pedido, mas
+sim, a sequência metodológica à qual ditas funções são dispostas e empregadas no
+sistema, ou seja, a sequência aplicada a cada uma das funcionalidades         e    COMO    tais
+funcionalidades operam é que faz a substancial diferença entre o presente pedido de patente
+e D4.
+
+No argumento (i), de fato, o OCR era amplamente conhecido no estado da técnica à época da
+submissão deste pedido de patente de invenção. Ademais, D3 não usa essa ferramenta e se
+trata de um sistema web para leiloar veículos. Em um sistema de leilões de veículos ou um
+sistema genérico tal como se apresenta o sistema da reivindicação 1 (bata substituir os termos
+associados a leilão e inserir outros tais como coletânea de livros de bibliotecas diversas, por
+exemplo), é comum haver um módulo de obtenção de dados; um módulo de tratamento de
+dados em que são realizadas diversas operações tais como comparações e alterações de
+dados, escrita dos dados em um banco de dados etc.; módulos de transmissão de dados
+também são comuns.
+
+
+
+
+                                                                                        Página 3
+                                       BR102013019765-3
+
+
+Quanto ao argumento (ii), a própria requerente informa que D4 utiliza transmissão de dados,
+banco de dados, comparação de dados entre outras operações. Um técnico no assunto também
+conseguiria chegar aos mesmos efeitos técnicos da presente invenção a partir de D4 levando-se
+em consideração a reivindicação 1 pleiteada.
+
+Em se tratando do novo quadro apresentado, a reivindicação 1 (única) apresenta um sistema de
+captura, tratamento, armazenamento e transmissão de dados de veículos leiloados que
+basicamente é compreendido por módulos de (i) captura, (ii) tratamento, (iii) conferência e (iv)
+transmissão.
+
+O módulo (1) executa uma leitura OCR para obtenção dos dados do veículo a partir de
+documentos diversos (jornais catálogos etc.);
+
+O módulo (2) que é definido como um módulo de tratamento automatizador da coleta de dados e
+comparações dos dados dos veículos;
+
+O módulo (3) efetua a gravação dos dados dos veículos em um banco de dados;
+
+O módulo (4) usa Web e Web services para transmitir as informações dos veículos.
+
+Novamente, ressalta-se que o sistema proposto na reivindicação 1 está bem genérico e de
+simples concepção, já que a matéria pleiteada poderia se enquadrar em inúmeras aplicações já
+conhecidas no estado da técnica.
+
+Sendo assim, pode-se considerar ainda os documentos D3 e D4 já usados no exame anterior e,
+ainda, o mesmo argumento.
+
+Os documentos D3 e D4 podem servir como base para antecipar a reivindicação 1 seja
+individual ou conjuntamente. Tomando-se D3 (abstract; figura 1, parágrafos 3-13 e 24-26), por
+exemplo, um técnico no assunto, sem maiores problemas poderia usar o sistema web
+subjacente para leiloar veículos usando um módulo OCR que era amplamente conhecido na
+época de submissão deste pedido de patente e usual em sistemas de reconhecimento de
+caracteres. Além disso, operações como comparar informações, complementar registros,
+armazenar informações em bancos de dados e transmitir informações através de plataformas
+web são comuns no estado da técnica, inclusive para sistemas de leilões e especificamente o
+documento D3 ilustra bem isso.
+
+Logo, o documento D3, de fato, antecipa a reivindicação 1 da presente invenção.
+
+D4 (abstract; figuras 1-2; parágrafos 339-345), por sua vez, apresenta um sistema de leilão
+online que utiliza a internet para transmitir as informações. A figura 1 ilustra ainda o uso de
+banco de dados para armazenar informações e, intrinsecamente, são realizadas uma série de
+operações, tais como as pleiteadas pela presente invenção. A questão do OCR já foi avaliada
+mais acima. Assim, D4 também antecipa a presente invenção.
+
+Note-se que os documentos D3 e D4, de fato, tem objetivos distintos da presente invenção,
+porém,
+
+
+
+
+                                                                                        Página 4
+                                       BR102013019765-3
+
+
+Portanto, ratifica-se que a matéria pleiteada na reivindicação 1 não apresenta atividade
+inventiva. Logo, a mesma está em desacordo com o artigo 8º combinado com o artigo 13 da Lei
+nº 9.279/96 (LPI).
+
+
+
+
+Conclusão
+
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   a reivindicação está definida de maneira genérica (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 22 de junho de 2022.
+
+
+
+
+Michel Igor de Almeida Ennes
+Pesquisador/ Mat. Nº 2041239
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+001/16
+
+
+
+
+                                                                                           Página 5
+

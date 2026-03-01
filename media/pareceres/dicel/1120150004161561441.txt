@@ -1,0 +1,347 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112015000416-4          N.° de Depósito PCT:US2013/049805
+ Data de Depósito:                   09/07/2013
+ Prioridade Unionista:               US 61/670,071 (10/07/2012); US 13/929,649 (27/06/2013)
+ Depositante:                        LORING CRAYMER (US)
+ Inventor:                           LORING CRAYMER
+ Título:                             Método para aperfeiçoamento automatizado de paralelismo em
+                                     programa de compilação e sistema em meio de leitura óptica não
+                                     transitório por máquina 
+
+                                                                PARECER
+Por meio da petição 870220019259 07/03/2022, a Requerente apresentou modificações no
+pedido em resposta ao parecer emitido, notificado na RPI 2657 07/12/2021 (despacho 7.1).
+Estas modificações estão consideradas no Quadro 1.
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-36               870220019259           07/03/2022
+Quadro Reivindicatório                                     1-4               870220019259           07/03/2022
+Desenhos                                                  1-17               860150037015           04/03/2015
+Resumo                                                      1                870220019259           07/03/2022
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                       x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+O título contém expressões como programa, programa de computador e software, as quais
+resultam na falta de clareza e precisão da matéria reivindicada, pois podem ser associadas
+equivocadamente ao programa de computador em si a que se refere o Art. 10 (V).
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                Página 1
+                                           BR112015000416-4
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI       x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                     x
+Comentários/Justificativas
+
+
+O quadro reivindicatório contém expressões como programa de computador e software, as
+quais resultam na falta de clareza e precisão da matéria reivindicada, pois podem ser associadas
+equivocadamente ao programa de computador em si a que se refere o Art. 10 (V), contrariando o
+disposto no Art. 25 da LPI e na Instrução Normativa nº 30/2013  Art. 4º (III).
+
+Reitera-se alguns problemas de clareza (Art. 25) que foram detectados na Reivindicação 1:
+
+              o termo forma canônica não é claro
+              os termo gráfico de fluxo de dados funcional  e fluxo funcional de dados não é
+       claro e parece buscar expressar fluxograma
+
+Na reivindicação 1 carece de clareza (Art. 25) o trecho :
+
+       relatórios de conversão do programa (201) à um a forma canônica, poderá
+       remover sintaxe e similares aspectos do código do programa para prepará-lo
+       para conversão;
+
+Talvez busque expressar:
+
+       relatórios de conversão do programa (201) à um a forma canônica, a qual permite
+       ao usuário remover sintaxe e similares aspectos do código do programa para prepará-lo
+       para conversão;
+
+Adicionalmente , o termo remover sintaxe não é claro, talvez busque expressar :
+       remover trechos do código , ou seja, na construção da AST (árvore sintática abstrata) ,
+simplificar a estrutura do código através da remoção de trechos 1
+       corrigir erros de sintaxe2 do código
+
+Na reivindicação 1 carece de clareza (Art. 25) o trecho :
+
+a construção (203) da árvore de sintaxe abstrata (AST) para cada procedimento [0013]
+
+- a referência 13 não há nos desenhos
+
+
+1Árvores sintáticas abstratas (AST)...É uma representação abstrata (simplificada) da estrutura
+semântica de um código fonte  https://pt.wikipedia.org/wiki/%C3%81rvore_sint%C3%A1tica_abstrata
+
+2os erros de sintaxe correspondem à falta de conformidade com as regras de uma linguagem específica.
+https://www.cursosdeinformaticabasica.com.br/o-que-e-erro-de-sintaxe/
+
+
+                                                                                           Página 2
+                                        BR112015000416-4
+
+
+
+Na reivindicação 1 carece de clareza (Art. 25) o trecho :
+
+O trecho incluso  como um nódulo ordinário com uma única borda de saída, com uma única
+borda de saída, cada borda de conexão de borda conduzidos dados digitados;  carece de
+clareza (Art. 25) pois:
+- com uma única borda de saída se repete
+- conduzidos talvez busque expressar conduzindo
+
+Na reivindicação 1 carece de clareza (Art. 25) o trecho abaixo pela ausência de parágrafos e
+indentação (recuos):
+
+       uma decisão de fluxo de controle sendo representada por um especial conjunto de tipos de
+       nódulos ; ou uma matriz ou conjunto sendo representado como um segundo conjunto de
+       nódulos, e arcos conectando nódulos representam itens de dados ou conjuntos,
+
+Talvez busque expressar:
+
+uma decisão de fluxo de controle sendo representada por:
+      um especial conjunto de tipos de nódulos ou por:
+       - uma matriz ou conjunto sendo representado como um segundo conjunto de nódulos e
+       - arcos conectando nódulos representam itens de dados ou conjuntos,
+Nessa hipótese :
+      os três itens acima seriam relativos à representação da dita decisão e
+      a operação de e do segundo e terceiro item precederiam a operação de ou com o
+primeiro item.
+
+Adicionalmente, o terceiro item talvez busque expressar arcos conectando nódulos que
+representam itens de dados ou conjuntos,
+
+Na reivindicação 1 e extração dados de paralelismo carece de clareza (Art. 25) e:
+       talvez busque expressar e extração de dados de paralelismo
+       não está claro a que exatamente o e se refere, seria um item adicional à  uma decisão
+de fluxo de controle sendo representada por  ou (...e...); sugere-se nesse sentido a adição de
+parágrafos e indentação (recuos) para que fique clara a ordem de precedência dos operadores
+e e ou.
+
+Na reivindicação 1 carece de clareza (Art. 25) o trecho:
+
+...para identificar cada loop no gráfico que poderá ser executado em paralelo ;
+transformação de cada loop em gráfico executado em paralelo para estabelecer uma
+operação um conjunto de operação pela conversão dos arcos conectando os nódulos ...
+
+O termo tachado parece ser mais claro que o termo em negrito pois parece fazer referência ao
+conjunto de operações que será executado em paralelo. O trecho talvez busque expressar:
+
+...para identificar cada loop no gráfico que poderá ser executado em paralelo ;
+
+
+
+
+                                                                                         Página 3
+                                       BR112015000416-4
+
+agregação de cada loop em gráfico executado em paralelo formando assim uma
+pluralidade de loops , transformando esse agregado em uma representação gráfica de uma
+operação um conjunto de operação pela conversão dos arcos conectando os nódulos...
+
+Na reivindicação 1 carece de clareza (Art. 25) o trecho:
+
+         ...pela conversão dos arcos conectando os nódulos das representações dos únicos
+         itens para representação das coleções indexadas dos itens de dados similares no
+         fluxograma de dados funcionais (211) e remoção do loop lógico.
+
+       Não fica claro a que se refere as ditas coleções indexadas dos itens de dados
+similares; os dados seriam agregados (ou colecionados) por similaridade em que sentido (ou
+seja, qual critério de similaridade)?
+       Não fica claro a que se refere remoção do loop lógico (qual loop lógico?) pois face ao
+exposto anteriormente não parece se tratar efetivamente de uma remoção do loop mas sim da
+agregação de vários loops que serão executados em paralelo.
+
+
+                         Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                             Data de publicação
+    D1      ZIMA H P ET AL, "SUPERB: A tool for semi-automatic                      01/01/1998
+            MIMD/SIMD parallelization", PARALLEL COMPUTING,
+            ELSEVIER PUBLISHERS, AMSTERDAM, NL, vol. 6, no.
+            1, doi:10.1016/0167-8191(88)90002-6, ISSN 0167-8191,
+    D2      US5920723 A                                                             06/07/1999
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento              Reivindicações
+                                                    Sim                      1 a 10
+            Aplicação Industrial
+                                                    Não                         -
+                                                    Sim                      1 a 10
+                 Novidade
+                                                    Não                         -
+                                                    Sim                         -
+            Atividade Inventiva
+                                                    Não                      1 a 10
+
+
+
+Comentários/Justificativas
+
+
+Devido aos problemas de clareza ressaltados anteriormente quanto aos trechos alterados da
+Reivindicação 1, reitera-se os argumentos do parecer anterior de que tal reivindicação , nos
+trechos cuja falta de clareza não é impeditivo para o trecho ser comentado, não atende ao
+requisito atividade inventiva, pois decorre de maneira evidente ou óbvia para um técnico no
+assunto a partir do documento D1 (estado da técnica mais próximo) em combinação com D2,
+conforme a seguir:
+
+
+
+                                                                                          Página 4
+                                        BR112015000416-4
+
+
+
+a) MÉTODO IMPLEMENTADO DE COMPUTADOR DE COMPILAÇÃO
+PARA APERFEIÇOAR PARALELISMO
+- D1 conforme trechos que se seguem
+
+b) DURANTE A VINCULAÇÃO (linking) DO PROGRAMA POR UM COMPILADOR,
+- D2 Fig. 2, col.1, lin. 56-62 ("lt has been recognized in the prior art that making cross-
+modular information available during the compilation action will improve
+application performance. Thus, a compiler which can see across modular
+barriers can achieve significant benefits of inter-procedural optimization and
+achieve noticeable gains in performance of the resulting application."), col.
+2, lin. 55-59 ("The method compiles the CUs by analyzing each CU and
+employing at least the global call graph and program symbol table to enable
+cross CU relationships to be taken into account and utilized in arranging an
+improved object code representation of the source code /isting."), col. 3,
+lin. 43-46 ("Each CU is fed to a linker 22 which determines if the input code
+is in IR form or in object code form. The IR form code is fed to optimizer 24
+which establishes a number of tables that are utilized to achieve a program-
+wide optimization...").
+
+c) caracterizado por compreender
+relatórios de conversão do programa à uma forma canônica, a construção de
+uma representação transversal para cada procedimento no programa;
+atravessando o programa para construir gráfico de fluxo de dados funcional no
+qual o relatório de atribuição ou chamada funcional é representada como um
+nódulo, uma decisão d fluxo de controle sendo representada por um primeiro
+conjunto de nódulos, ou uma matriz ou conjunto sendo representado como um
+segundo conjunto de nódulos, e bordas do gráfico de fluxo de dados funcionais
+representam dados digitados;
+- D1 (pag. 2, par.4: "The Front End transforms a FORTRAN 77 program
+into an internal representation consisting of an attributed abstract
+tree... and intraprocedural program flow graphs,...", pag 4, último
+paragrafo "Then the program flow graph G of u is defined as
+follows: The nodes of G correspond to the statements")
+
+d) identificando ao menos um laço no gráfico de
+fluxo de dados funcional que poderá ser executado em paralelo,
+- D1 (pag. 3, par. 3: "...secondIy, every
+process is analyzed to find statements in loops that can be
+rewritten as vector operations (SIMD parallelization or
+vectorization).", pag. 13, par. 6 - pag 14, par. 3)
+
+e) e transformando o ao menos um laço como operação de conjunto pelas
+conexões de redigitação entre os nódulos do gráfico de fluxo de dados
+funcional.
+- D1 conforme trechos evidenciados anteriormente.
+
+
+A(s) reivindicação(ões) independente(s) restante(s) é(são) similar(es) à 1.
+
+
+
+                                                                                              Página 5
+                                          BR112015000416-4
+
+
+
+Nas reivindicações dependentes não foram identificadas características que, mesmo quando
+combinadas com as características de qualquer reivindicação independente a que se referem,
+venham a prover novidade e/ou a atividade inventiva à matéria.
+
+
+A requerente argumenta que:
+
+
+A diferença entre D1 e a presente invenção é que a construção
+do gráfico de fluxo de dados funcional não é ensinada por D1.
+
+
+- não procede face ao item (c) do presente parecer.
+
+
+A requerente argumenta que:
+
+
+          em D1 representações intermediárias finais são decoradas com árvores sintáticas
+       abstratas [AST] que, em geral, preservam a estrutura original do programa;
+
+
+         não procede pois em ASTs há uma simplificação: Árvore sintática abstrata (AST)...É uma
+representação abstrata (simplificada) da estrutura semântica de um código fonte"
+https://pt.wikipedia.org/wiki/%C3%81rvore_sint%C3%A1tica_abstrata
+
+
+Os demais argumentos quanto à diferença do presente pedido com relação a D1 (designada por
+Zima, pela requerente) não foram acompanhados de referências a trechos específicos de D1 ou a
+outras fontes que pudessem respaldar os argumentos.
+
+
+Os demais argumentos lidam com trechos que carecem de clareza ou que não estão na
+reivindicação independente, a qual deve agregar as características essenciais da invenção.
+
+Conclusão
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -     não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -     as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+            descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                                                           Página 6
+                               BR112015000416-4
+
+
+                                                  Rio de Janeiro, 18 de abril de 2022.
+
+
+
+
+Denise Freitas Silva
+Pesquisador/ Mat. Nº 1472730
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+008/13
+
+
+
+
+                                                                             Página 7
+

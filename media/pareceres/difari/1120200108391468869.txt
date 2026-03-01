@@ -1,0 +1,257 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112020010839-1            N.° de Depósito PCT:JP2018/043704
+ Data de Depósito:                   28/11/2018
+ Prioridade Unionista:               JP 2017-231449 (01/12/2017)
+ Depositante:                        SBI PHARMACEUTICALS CO., LTD. (JP) ; NATIONAL CENTER FOR
+                                     CHILD HEALTH AND DEVELOPMENT (JP)
+ Inventor:                           TOHRU TANAKA; HIDENORI ITO; KO RII
+ Título:                             Composição farmacêutica para intensificar o efeito antitumoral por
+                                     inibidor de ponto de verificação imunológico e uso de composto na
+                                     produção de um medicamento para intensificar o referido efeito
+                                     antitumoral 
+
+                                                                PARECER
+
+
+          A requerente apresentou manifestação ao parecer técnico publicado na RPI 2625 de
+27/04/2021, por meio da petição 870210066917 de 23/07/2021, assim como nova via do quadro
+reivindicatório com 4 reivindicações. Para fins de continuidade do exame, as vias consideradas
+no exame técnico estão descritas no quadro 1.
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 24               870200093836           28/07/2020
+Quadro Reivindicatório                                      1                870210066917           23/07/2021
+Desenhos                                                 1a2                 870200066718           29/05/2020
+Resumo                                                      1                870200093836           28/07/2020
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR112020010839-1
+
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                    x
+Comentários/Justificativas
+
+
+       Em manifestação apresentada através da petição 870210066917 de 23/07/2021, a
+requerente apresentou argumentos com relação às objeções levantadas no parecer publicado
+na RPI 2625 de 27/04/2021 em relação aos artigos 24 e 25 da LPI.
+
+
+       A requerente alega que o composto reivindicado foi restrito a 5-ALA, e que os exemplos
+apresentados no relatório descritivo suportam que 5-ALA aumenta significativamente a atividade
+antitumoral do anticorpo anti-PD-L1 ou anticorpo anti-PD-1. A requerente discorda que não há
+dados suficientes para descrever o uso pleiteado pois é conhecimento comum no estado da
+técnica que é altamente provável que os resultados obtidos em um modelo animal também
+podem ser obtidos em humanos, e que a ativação de células T é um mecanismo importante
+para a atividade antitumoral tanto em modelos animais, quanto em humanos. Assim, a
+requerente acredita que os efeitos antitumorais descritos no presente pedido podem ser
+razoavelmente esperados em humanos.
+       No entanto, ainda que o alvo seja o mesmo para animais e humanos, não é possível
+garantir que no organismo de um humano a substância atuará da mesma forma que no
+organismo de um animal.
+       No relatório descritivo, a requerente apresenta estudos realizados em camundongos com
+células de melanoma de camundongos e tratados com anticorpo anti-PD-L1 e anticorpo
+anti-PD-1 de camundongo, ALA e SFC. Segundo a Resolução INPI/PR nº 208/2017, quando se
+tratar de estudos em animais, os modelos adotados devem apresentar a possibilidade de
+extrapolação para os seres humanos ou animais a serem tratados. Dessa forma, entende-se
+que não há resultados suficientes para descrever de forma clara o uso ora pleiteado. Portanto, o
+presente pedido não está suficientemente descrito, contrariando o disposto no Art. 24 da LPI.
+       Ademais, o relatório descritivo não apresenta nenhuma concretização de uma
+composição conforme reivindicado, contrariando o disposto no artigo 24 da LPI.
+
+
+       A requerente alega que o anticorpo anti-PD-L1 ou anti-PD-1 é um agente antitumoral
+conhecido no estado da técnica, e que o artigo apresentado como ANEXO 1 na petição
+870210066917 de 23/07/2021 revela uma variedade de anticorpos anti-PD-L1 e anticorpos
+anti-PD-1. Assim, um técnico no assunto poderia prontamente associar o que é englobado por
+estes anticorpos.
+
+
+
+
+                                                                                         Página 2
+                                           BR112020010839-1
+
+
+            No entanto, não há como garantir que a composição reivindicada irá intensificar o efeito
+antitumoral de qualquer anticorpo anti-PD-L1 ou anti-PD-1. Dessa forma, entende-se que estes
+termos são amplos e, portanto, o quadro reivindicatório não atende ao disposto no artigo 25 da
+LPI.
+
+
+
+
+                             Quadro 4  Documentos citados no parecer
+
+ Código                                   Documento                              Data de publicação
+       D1                               WO2016187122                                    24/11/2016
+       D2                               WO2017103280                                    22/06/2017
+       D3                               WO2017103283                                    22/06/2017
+       D4                              US20170056351                                    02/03/2017
+       D5        Kee D., McArthur G. Immunotherapy of melanoma. EJSO, vol.              02/08/2016
+                                       43, p. 594-603
+
+
+
+
+       Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+        Requisito de Patenteabilidade             Cumprimento               Reivindicações
+                                                       Sim                        1a4
+               Aplicação Industrial
+                                                       Não                          -
+                                                       Sim                          -
+                     Novidade
+                                                       Não                        1a4
+
+                                                       Sim                          -
+               Atividade Inventiva
+                                                       Não                        1a4
+
+
+
+Comentários/Justificativas
+
+            Em manifestação apresentada através da petição 870210066917 de 23/07/2021, a
+requerente apresentou um novo quadro reivindicatório e argumentos com relação aos
+documentos apontados como anterioridades relevantes em relação a matéria do presente
+pedido no parecer publicado na RPI 2625 de 27/04/2021.
+            A requerente argumenta que em D1 não há nenhum exemplo de trabalho mostrando que
+5-ALA é utilizado como o agente citotóxico e, muito menos, que seria eficaz para exercer efeitos
+sinérgicos em combinação com um inibidor de ponto de verificação imunológico. Com relação a
+D2 e D3, a requerente lembra que o composto utilizado foi o hexil-ALA, e que depois da
+restrição do quadro reivindicatório, o composto utilizado no presente pedido foi limitado a 5-ALA.
+
+
+
+
+                                                                                              Página 3
+                                       BR112020010839-1
+
+
+       A requerente ressalta que a combinação de 5-ALA ou seu derivado com um agente de
+ponto de verificação imunológico não se trata de uma mera combinação de um agente
+antitumoral conhecido, mas uma combinação incomum e inesperada, e que as Figuras 2 e 4 do
+presente pedido demonstram o grupo de administração do anticorpo 5-ALA + anti-PD-L1 e o
+grupo de administração do anticorpo 5-ALA + anti-PD-1 levaram a aumentos significativos da
+atividade antitumoral, em comparação com o grupo de administração de anticorpo anti-PD-L1 e
+o grupo de administração de anticorpo anti-PD-1, respectivamente.
+
+       A requerente apresenta resultados adicionais de experimentos com camundongos e
+acredita que os resultados obtidos indicam que a combinação reivindicada não é uma mera
+agregação de terapias tumorais conhecidas e possui um efeito sinérgico, que não seria
+esperado uma vez que o composto 5-ALA poderia neutralizar o efeito do inibidor de ponto de
+verificação imunológico por causar aumento das células dendríticas que expressam PD-L1 ou de
+oxigênio reativo nas células T sendo removidas por bilirrubina e CO.
+
+       Em relação aos documentos D4 e D5, a requerente destaca que D4 apenas sugere uma
+atividade antitumoral de 5-ALA como agente único, e que D5 não ensina nem sugere o uso de
+anticorpo anti-PD1 em combinação com 5-ALA.
+
+
+
+       Como discutido anteriormente, o documento D1 descreve composições e métodos para o
+tratamento de câncer através da injeção no tumor de partículas citotóxicas incluindo fármacos
+como o ácido aminolevulínico (parágrafo 0043, página 13) e inibidores de ponto de verificação
+imunológico como anticorpos anti-PD-1 e anti-PD-L1, que podem ser administrados
+sequencialmente ou simultaneamente. D2 e D3 descrevem uma composição compreendendo o
+composto hexaminolevulinato ou seus sais e os anticorpos anti-PD-1 e anti-PD-L1 para o
+tratamento de câncer de bexiga.
+
+       O documento D4 descreve o uso de ácido aminolevulínico que pode estar associado a
+compostos contendo ferro, como o citrato ferroso de sódio (parágrafo 0023), em combinação
+com radioterapia para induzir ou aumentar a resposta imune antitumoral de um hospedeiro. D5
+se refere a imunoterapia do melanoma e destaca a eficácia dos inibidores de ponto de
+verificação imunológico como os anticorpos anti PD-1 e anti PD-L1 (página 597).
+       Dessa forma, a matéria das reivindicações 1 a 4 não pode ser considerada nova frente
+ao documento D1 (reivindicações 1, 2 e 4), e frente ao documento D4 (reivindicação 3). O fato
+do composto de fórmula R1-NHCH2COCH2CH2COOR2 ser utilizado para intensificar o efeito do
+inibidor de ponto de verificação imunológico, não confere novidade a composição reivindicada.
+Portanto, a matéria das reivindicações 1 a 4 não é nova, contrariando o disposto no artigo 11 da
+LPI.
+
+       Dessa forma, com base nos documentos D1 e D4, especialmente, seria óbvio para um
+técnico no assunto utilizar o composto de fórmula R1-NHCH2COCH2CH2COOR2 combinado a um
+inibidor de ponto de verificação imunológico como os anticorpos anti PD-1 e anti PD-L1 para o
+
+
+
+                                                                                         Página 4
+                                        BR112020010839-1
+
+
+preparo de uma composição farmacêutica para obter um efeito antitumoral. Ainda que os
+documentos D2 e D3 não falem do composto em que R1 e R2 é hidrogênio, um técnico no
+assunto, com base nesses documentos, também poderia pensar em usar o composto 5-ALA
+assim como foi utilizado o composto hexaminolevulinato. Portanto, a matéria das reivindicações
+1 a 4 não apresenta atividade inventiva, contrariando o disposto no Art. 13 da LPI.
+
+
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   não apresenta suficiência descritiva (Art. 24 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 24 de agosto de 2021.
+
+
+
+
+Luana Braga Pontes
+Pesquisador/ Mat. Nº 1783812
+DIRPA / CGPAT I/DIFAR-I
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/15
+
+
+
+
+                                                                                           Página 5
+

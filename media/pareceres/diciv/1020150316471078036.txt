@@ -1,0 +1,145 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102015031647-0          N.° de Depósito PCT:
+ Data de Depósito:                   17/12/2015
+ Prioridade Unionista:               -
+ Depositante:                        AB3 ADMINISTRAÇÃO E PROJETOS LTDA. (BRES)
+ Inventor:                           FERNANDO MAINARDI JUNIOR
+ Título:                             Processo de fabricação de placas híbridras anti-abrasivas basálticas 
+
+                                                              PARECER
+
+          Em 10/11/2017, por meio da petição 870170086821, o interessado KALENBORN DO
+BRASIL LTDA. apresentou subsídio ao exame técnico, de acordo com o Art. 31 da LPI. Os
+documentos considerados relevantes para a verificação dos requisitos de patenteabilidade estão
+listados no Quadro 4.
+          Em 12/02/2019 foi concedido o exame prioritário do pedido em questão, solicitado por
+meio da petição 870180162588 em 13/12/2018.
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição         Data
+Relatório Descritivo                                   1/9 a 9/9             870180150429         12/11/2018
+Quadro Reivindicatório                                     1/1               870190073537         31/07/2019
+Desenhos                                               1/8 a 8/8             870180150429         12/11/2018
+Resumo                                                     1/1               870180150429         12/11/2018
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                            Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                    X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                            X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                       X
+O pedido está de acordo com disposto no art. 32 da LPI                                        X
+Comentários/Justificativas: 
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                             Página 1
+                                          BR102015031647-0
+
+
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                            Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI        X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI      X
+Comentários/Justificativas: 
+
+
+                            Quadro 4  Documentos citados no parecer
+ Código                                  Documento                               Data de publicação
+    D1      KR100895868 (Resumo; fig. 1)                                             30/04/2009
+
+    D2      US20100285269 (parág. [0001], [0020], [0101], [0125], fig.2,5 e 6)       11/11/2010
+
+    D3      EP1726742 (parág. [0001] e [0004]; fig. 1)                               29/11/2006
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento              Reivindicações
+                                                        Sim                       14
+           Aplicação Industrial
+                                                        Não                      Nenhuma
+                                                        Sim                       14
+                  Novidade
+                                                        Não                      Nenhuma
+                                                        Sim                      Nenhuma
+           Atividade Inventiva
+                                                        Não                       14
+
+Comentários/Justificativas
+      O pedido foi analisado anteriormente conforme páginas 1 a 3 do Relatório de Exame
+Técnico, ocasião em que foi dada ciência ao depositante da falta dos requisitos de
+patenteabilidade do pedido em exame, sendo o despacho publicado na RPI (Revista Eletrônica da
+Propriedade Industrial) nº 2531 de 09/07/2019. O requerente por meio da petição de manifestação
+sobre Parecer Técnico  protocolo nº 870190073537 de 31/07/2019, apresentou observações (4
+páginas), juntamente com novo quadro reivindicatório (página 1/1), no intuito de comprovar a
+presença dos requisitos de patenteabilidade.
+      Desta forma, o pedido foi então reanalisado considerando-se o novo quadro reivindicatório
+e as observações do requerente que alega sucintamente que: 1) o presente pedido é prioridade
+do WO2017/100881 que foi considerado possuir os requisitos de patenteabilidade; 2) o
+documento D3 não poderia ser combinado com o documento D1 para sugerir a aplicação de
+argamassa sobre uma tela de aço uma vez que D3 ensina filamentos metálicos; 3) os
+ensinamentos do documento D2, por terem aplicação militar, não serviriam de motivação para um
+técnico no assunto em aplicações de placas anti-abrasivas basálticas.
+      Como será visto a seguir, consideramos que as alegações acima não são consistentes para
+validar os requisitos de patenteabilidade do presente pedido. Primeiramente, esclarecemos que os
+
+
+
+                                                                                            Página 2
+                                       BR102015031647-0
+
+
+documentos considerados como estado da técnica, quando da análise do WO2017/100881, não
+são os mesmos para o presente pedido, o que impossibilita a analogia de exame. Em relação à
+segunda alegação informamos que a combinação de D1 com D3 é referente apenas ao material e
+se mostra perfeitamente viável para um técnico no assunto. Como pode ser verificado, a única
+diferença entre D1 e o presente pedido está no fato de que a tela de referência 130 de D1 não é
+explicitamente ensinada como de aço, nem de qualquer outro material específico. Entretanto, um
+técnico no assunto, em se deparando com a necessidade de especificar um material para a tela
+de reforço da argamassa, poderia recorrer à literatura, como por exemplo o documento D3,
+entendendo que um material metálico óbvio para a tela (130) seria o aço, como opção de projeto.
+Por último, apesar de D2 ter aplicação militar, sua escolha se deve ao fato de ensinar processo de
+fabricação de placas híbridas anti-abrasivas pela fundição do basalto nas dimensões ou formatos
+de acordo com o tamanho da placa base e especificações do local onde a mesma será aplicada,
+em total acordo com um dos objetivos do presente pedido.
+      Em vista disso, considerando-se que os documentos D1, D2 e D3 constituem o estado da
+técnica, da mesma forma que no exame anterior, verifica-se que a reivindicação independente 1
+não é dotada de atividade inventiva. Além disso, as reivindicações dependentes, além de serem
+limitadas pelas independentes, já estão descritas ou sugeridas no documento D1, D2 ou D3 ou
+tratam de detalhamentos e se referem a meios e configurações óbvias para um técnico no assunto
+e, não são dotadas de atividade inventiva.
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                Publique-se o indeferimento (9.2).
+
+                                                           Rio de Janeiro, 17 de outubro de 2019.
+
+
+
+Rogerio Barbosa dos Reis
+Pesquisador/ Mat. Nº 1344336
+DIRPA / CGPAT III/DICIV
+Deleg. Comp. - Port. INPI/DIRPA Nº 003/14
+
+
+
+
+                                                                                         Página 3
+

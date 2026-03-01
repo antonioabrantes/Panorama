@@ -1,0 +1,227 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI1105689-4                  N.° de Depósito PCT:
+ Data de Depósito:                   22/11/2011
+ Prioridade Unionista:               -
+ Depositante:                        Fishiler Pimentel Zitenfeld Cardia (ES)
+ Inventor:                           Fishiler Pimentel Zitenfeld Cardia
+ Título:                             Central óptica para visualização direta de imagem em instrumento
+                                     para endoscopia
+
+                                                              PARECER
+O pedido de patente de invenção trata de central óptica para visualização direta de imagem em
+instrumento de endoscopia.
+
+Em 27/12/2017, por meio da petição 870170102293, o interessado KARL STORZ GMBH & CO.
+KG apresentou subsídio ao exame técnico, de acordo com o Art. 31 da LPI. Os documentos
+considerados relevantes para a verificação dos requisitos de patenteabilidade estão listados no
+Quadro 4. Em 13/03/2020, por meio da petição 870200034062, o depositante apresentou
+manifestação aos subsídios técnicos.
+
+Em 06/09/2021, por meio da petição 870210082356, o depositante apresentou modificações no
+pedido em resposta ao parecer emitido, notificado na RPI 2633 de 22/06/2021 (despacho 7.1).
+Estas modificações estão consideradas no Quadro 1.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                 n.o da Petição      Data
+
+Relatório Descritivo                                    6 a 12               NPRJ 020110119187   22/11/2011
+Quadro Reivindicatório                                   42/46                 870210082356      06/09/2021
+Desenhos                                               15 a 19
+                                                                             NPRJ 020110119187   22/11/2011
+Resumo                                                     14
+*Numeração correspondente à paginação eletrônica do documento PI1105689-4.tif, relativo à
+petição NPRJ 020110119187 de 22/11/2011.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                            Página 1
+                                               PI1105689-4
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                           Sim              Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                        x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   x
+O pedido está de acordo com disposto no art. 32 da LPI                    x
+Comentários/Justificativas
+
+                                                    ---
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+                                                     ---
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                               US20070225561 A1                              27/09/2007
+    D2                               US20100145146 A1                              10/06/2010
+    D3                                  EP1719445 A1                                 08/11/2006
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                           Sim                   1
+           Aplicação Industrial
+                                                           Não                   ---
+                                                           Sim                   1
+                 Novidade
+                                                           Não                   ---
+
+                                                           Sim                   ---
+           Atividade Inventiva
+                                                           Não                   1
+Comentários/Justificativas
+
+Em relação à reivindicação independente 1, o documento D1, o qual consiste na anterioridade
+mais próxima do objeto do pedido de patente de invenção, revela central óptica para
+visualização direta de imagem em instrumento para endoscopia (folha de rosto - abstract 57 e
+
+
+
+                                                                                           Página 2
+                                            PI1105689-4
+
+
+parágrafos [0017], [0041] e [0042]: display device 4 e figs. 1, 2 e 3), com corpo prismático
+lacrado contendo em seu interior uma câmera digital suprida de energia originada de um
+conjunto de baterias (parágrafos [0041] e [0042]: image pickup device 42 e battery 47) de onde
+deriva um cabo que leva energia até a fonte de luz (parágrafo [0021] e fig. 3: itens 36, 46 e 47),
+da porção anterior da central se destaca um conector para acoplamento do instrumento sendo a
+imagem reproduzida em um visor localizado na face posterior da central (parágrafos [0038] a
+[0042] e figs. 2 e 3: display de LCD).
+
+Em sua manifestação (petição 870210082356 de 06/09/2021), o depositante alega que por ser
+UM SÓ CONJUNTO, a presente invenção traz uma série de vantagens e melhorias técnicas,
+particularmente no sentido de MELHORAR E FACILITAR A ATIVIDADE MÉDICA DURANTE O
+PROCEDIMENTO, FACILITANDO O MANUSEIO E ATÉ MESMO A VISUALIZAÇÃO POR
+PARTE DO PROFISSIONAL MÉDICO, que o documento anterior se mostra completamente
+distinto do equipamento da presente invenção, haja vista que, neste documento anterior, a luz é
+acoplada de forma externa em uma torre única de transmissão de luz e o endoscópio não faz
+parte do equipamento; desta forma, os endoscópios existentes há décadas no mercado, são
+acoplados a uma central óptica de visualização direta que possui a fonte de luz a ser ligada
+durante o uso ao equipamento, e retirado ao término do procedimento, o que é tecnicamente
+impossível na presente invenção, que incorpora a fonte de luz de forma definitiva e indissolúvel
+e que verifica-se, com muita clareza, a facilidade de manuseio da câmera e do equipamento,
+haja vista a movimentação é feita pelo instrumento endoscópico 7, de maneira que a câmera
+fique posicionada sempre de forma positiva para a visualização do profissional, EM UMA TELA.
+Em outras palavras, a invenção é muito mais prática, possui uma série de vantagens, e,
+diferentemente de D1, não é um celular ou equipamentos adicionais, sendo um dispositivo todo
+projetado para essa finalidade do exame.
+
+A argumentação é fundamentada no fato de que o dispositivo pleitado no pedido de patente de
+invenção oferece manuseio facilitado, uma vez que a câmera fica posicionada sempre de
+maneira positiva para a visualização do profissional e a imagem é apresentada em uma tela.
+Observa-se, entretanto, que os ensinamentos do documento D1 mencionam este tipo de
+operação, no qual a seção do visor é suportada por um eixo (parágrafos [0025] e [0026]: shaft
+14), facilitando o posicionamento adequado da tela. Ainda, como pode ser visto nos parágrafos
+[0053] e [0054] e na fig. 3, o dispositivo de D1 possui aparato de fornecimento de energia para
+fonte de luz (white LED unit 36), constituindo um equipamento único. Nesse contexto, as
+alegações providas pelo depositante não são consideradas persuasivas.
+
+Como indicado em parecer de exame técnico notificado na RPI 2633 de 22/06/2021, o
+documento D1 não menciona explicitamente a característica de a câmera possuir recursos que
+permitem a visualização simultânea entre o próprio visor e um monitor remoto via wireless ou
+mesmo ligação física por meio de cabo; entretanto, o documento D2, o qual também trata de
+equipamento endoscópio portátil com dispositivo visor acoplado (folha de rosto  abstract 57,
+parágrafo [0074], e fig. 5: elemento 64), descreve tal aspecto (parágrafos [0015], [0067], [0079],
+[0118] e reivindicações 1 a 8). Uma vez que tanto o documento D1 como o documento D2
+
+
+                                                                                             Página 3
+                                            PI1105689-4
+
+
+versam sobre o mesmo campo técnico (ou seja, tratam de instrumentos para efetuar exames
+médicos de cavidades ou canais do corpo através de inspeção visual), o técnico no assunto
+seria naturalmente levado a adicionar o recurso de visualização externa descrito em D2 ao
+equipamento de D1, de modo a facilitar a manipulação de imagens. Em sua manifestação
+(petição 870210082356 de 06/09/2021), o depositante alega que o fato de o equipamento se
+manter acoplado ao computador com o fio de alimentação de energia já não permite a
+portabilidade plena e ainda mantém a dificuldade básica da tração que é imposta pelo cabo
+durante o procedimento, que é o princípio básico da central óptica ser portátil e facilitar as
+manobras; contudo, os ensinamentos de D2 preveem o emprego de protocolos de comunicação
+sem fio (parágrafo [0015]). Tal argumentação, portanto, não é considerada persuasiva.
+
+Também    não    é   citada   diretamente   no    documento   D1   a   presença   de    cabo   de
+segurança/manguito no corpo prismático; contudo, o aspecto de adaptar ao sistema
+endoscópico descrito em D1 essas características com a nalidade de evitar a queda do
+dispositivo é considerado óbvio, sendo ainda entendido como uma alternativa que seria
+naturalmente empregada pelo técnico no assunto (observar ainda o disposto na Resolução N°
+169/2016  institui as Diretrizes de Exame de pedidos de Patente  Bloco II  Patenteabilidade 
+5.52: a invenção não envolve atividade inventiva quando, na solução de um mesmo problema
+técnico, ocorre uma substituição de um elemento conhecido por outro com função
+correspondente para obter resultados previsíveis, ou seja, sem que se observe nenhum efeito
+técnico inesperado). Tanto é assim que o emprego de sistema de suporte de segurança é
+mencionado no documento D3 (parágrafos [0041], [0048], [0081], [0082], [0100], [0113] e figs. 1.
+6, 12, 13, 18, 24, 31, 32 e 38). Uma vez que tanto o documento D1 como o documento D3
+versam sobre o mesmo campo técnico (ou seja, tratam de instrumentos para efetuar exames
+médicos de cavidades ou canais do corpo através de inspeção visual), o técnico no assunto
+seria naturalmente levado a adicionar o recurso de suporte de segurança de D3 ao equipamento
+de D1, de modo a evitar a queda do dispositivo.
+
+Dessa maneira, a argumentação provida pelo depositante não é considerada persuasiva; de tal
+forma que a matéria pleiteada na reivindicação 1 não atende ao requisito de atividade inventiva,
+pois decorre de maneira óbvia para um técnico no assunto a partir da modificação dos
+ensinamentos do documento D1 com os ensinamentos dos documentos D2 (acerca da
+característica de transmissão e visualização simultânea em visor remoto) e D3 (acerca da
+característica de suporte de segurança).
+
+
+
+
+                                                                                          Página 4
+                                          PI1105689-4
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+
+
+      -   não atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 22 de setembro de 2021.
+
+
+
+
+Fábio Vieira Batista de Nazaré
+Pesquisador/ Mat. Nº 1958231
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 001/18
+
+
+
+
+                                                                                          Página 5
+

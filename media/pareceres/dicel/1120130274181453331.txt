@@ -1,0 +1,280 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR112013027418-2             N.° de Depósito PCT:EP2012/062692
+ Data de Depósito:     29/06/2012
+ Prioridade Unionista: DE 10 2011 078 410.1 (30/06/2011); DE 10 2011 079 613.4
+                       (22/07/2011)
+ Depositante:          ROHDE & SCHWARZ GMBH & CO. KG (DE)
+ Inventor:             UWE DALISDA; PETER MÜHLBACHER
+ Título:               Amplificador com um circuito de amplificadores principal e um circuito
+                       de amplificadores auxiliar 
+
+
+                                                                PARECER
+
+
+          O pedido sob análise faz referência a aperfeiçoamentos de amplificadores na configuração
+Doherty que permitem a adaptação da função e do ponto de operação do elemento (gerador,
+divisor, etc) responsável pela entrega do sinal destinado a cada um dos módulos amplificadores
+típicos daquela configuração.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-8                870200134698           26/10/2020
+Quadro Reivindicatório                                    1-3                870210055939           21/06/2021
+Desenhos                                                  1-4                870200134698           26/10/2020
+Resumo                                                      1
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+
+Comentários/Justificativas
+
+          O primeiro exame do pedido apontou infrações aos Arts. 8, 13 e 25 da LPI. Em virtude
+desse fato, foi emitido um despacho um despacho de Ciência de parecer (7.1), o qual foi
+publicado na RPI no 2620, de 23/03/2021. Em resposta ao parecer de primeiro exame, o
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR112013027418-2
+
+requerente submeteu, em 21/06/2021, por meio da petição 870210055939, Manifestação na qual
+apresentou novo Quadro reivindicatório, bem como esclarecimentos e contestações à conclusão
+de falta de atividade inventiva apontada no parecer de primeiro exame. Não foi detectado, no novo
+conteúdo, infração ao Art. 32 da LPI.
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI       x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI     x
+Comentários/Justificativas
+         Constata-se que as modificações efetuadas pelo requerente eliminaram as infrações ao
+Art. 25 apontadas no primeiro parecer de exame técnico.
+         Quanto às infrações ao Art. 2o da Instrução Normativa no 030/2013 também apontadas no
+primeiro parecer, não se verifica a alegação do requerente de que "o uso deste tipo de diagrama é
+completamente comum no estado da técnica" e que "é perfeitamente claro que o nível de potência
+atual, no qual o amplificador é operado, é exibido no eixo x", já que os diagramas comumente en-
+contrados no estado da técnica apresentam a correta identificação da variável no eixo das
+abscissas e, em nenhum trecho, do relatório descritivo a expressão "potência normalizada" é utili-
+zada. Apesar disso, reconhece-se que os referidos gráficos são acessórios com respeito ao enten-
+dimento dos circuitos referentes descritos e, portanto, suas formas atuais (embora indesejáveis)
+são aceitas, desde que eles não se revelem essenciais para a descrição da matéria pleiteada.
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1       US 7619468 - B1                                                          17/11/2009
+    D2       US 20080111622 - A1                                                      15/05/2008
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento            Reivindicações
+                                                         Sim                   1 - 10
+            Aplicação Industrial
+                                                        Não                       -
+                                                         Sim                   1 - 10
+                 Novidade
+                                                        Não                       -
+                                                         Sim                      -
+            Atividade Inventiva
+                                                        Não                    1 - 10
+Comentários/Justificativas
+         Em sua Manifestação, o requerente, essencialmente, argumenta que:
+             - A matéria pleiteada no pedido diferiria da matéria revelada em D1, pois D1 não
+             descreveria "que o dispositivo de geração de sinal é incorporado para gerar o sinal do
+             amplificador principal e o sinal do amplificador auxiliar por modulação" e essa
+
+
+                                                                                            Página 2
+                                  BR112013027418-2
+
+    diferença levaria "ao efeito de um aumento da complexidade geral do circuito do
+    dispositivo amplificador de D1", já que um modulador separado seria "necessário para
+    gerar o sinal de entrada 16 e, então, o sinal de entrada 16 já modulado, que
+    necessariamente possui uma largura de banda maior do que o sinal de dados não
+    modulado original, é adicionalmente processado, especialmente dividido e moldado".
+    - Essa alegadas desvantagens de D1 em relação ao aparato do pedido sob análise
+    requereriam "uma melhoria no que diz respeito a uma complexidade reduzida do
+    circuito". Esse problema seria resolvido "gerando diretamente o sinal do amplificador
+    principal e o sinal do amplificador auxiliar pela unidade geradora de sinal, e pela
+    geração do sinal do amplificador principal e o sinal do amplificador auxiliar pela
+    unidade geradora de sinal por modulação". Assim, não seria "necessário processar
+    um sinal já modulado em um sinal do amplificador principal e um sinal do amplificador
+    auxiliar", o que reduziria "significativamente a complexidade do circuito necessária". A
+    solução empregada no pedido sob análise não seria óbvia a partir de D1, já que esse
+    documento não revelaria "um modulador como parte do circuito do amplificador" e,
+    ainda de acordo com D1, "o sinal de entrada 16 já deve estar modulado, uma vez que
+    o circuito do amplificador não inclui moduladores" e a "descrição de D1 também não
+    faz menção em relação à modulação".
+    - Mesmo a combinação de D1 e D2 não tornaria óbvia a matéria pleiteada no pedido
+    sob análise "uma vez que o documento D2 também descreve uma construção
+    semelhante a D1". O documento D2 também descreveria "um amplificador principal e
+    um amplificador auxiliar sendo conectado em uma configuração Doherty, sendo
+    alimentado por sinais de entrada por um equalizador digital 20". Em D2, "o equalizador
+    digital 20" compreenderia "apenas meios para dividir o sinal e pré-distorcer o sinal" e
+    não seria descrito "nenhum modulador dentro do circuito do amplificador", o que
+    permitiria concluir que "o sinal de entrada de D2" também já estaria modulado.
+Em resposta à argumentação do requerente, esclarece-se que:
+    - Nos parágrafos 0022-0023 do Relatório descritivo, é possível ler que "Ao invés da
+    divisão, [...] um sinal do amplificador principal e um sinal do amplificador auxiliar são
+    gerados pelo dispositivo gerador de sinal 40", que "O dispositivo gerador de sinal é um
+    dispositivo de modulação vantajoso ou um transmissor de controle" e que "O
+    dispositivo   de   controle   46   controla   o   dispositivo   gerador   de   sinal   40.
+    Consequentemente, este ajusta o valor limite, em que o dispositivo gerador de sinal 40
+    divide o sinal a ser amplificado entre o sinal do amplificador principal e o sinal do
+    amplificador auxiliar". Ou seja, embora se admita que o "dispositivo gerador de sinal"
+    possa assumir um papel de modulador, a função principal dele (depreendida da leitura
+    do Relatório descritivo) é dispensar a existência de um mero divisor e, em lugar desse,
+    prover um dispositivo que gera diretamente os sinais específicos, para o amplificador
+    principal e para o amplificador auxiliar, com esses sinais já adequados à divisão
+
+
+
+                                                                                    Página 3
+                           BR112013027418-2
+
+característica dos amplificadores Doherty. Além disso, é obvio que incorporar um
+modulador ao gerador de sinal proveria "menor complexidade" aos circuitos
+necessários para complementar uma realização dos aparatos descritos no pedido, já
+que essa é uma característica esperada de circuitos com maior integração e, sendo
+assim, nenhuma vantagem não óbvia viria dessa incorporação.
+- O Documento D1 (Coluna 6, Linhas 36 - 46) revela que "The signal divider 24 and
+the signal shapers 26, 28 may collectively be referred to as a dual drive module 90.
+The dual drive module 90 may be implemented using analog components in some
+embodiments. In many embodiments, the dual drive module 90 may be implemented
+digitally. For example, the dual drive module 90 may be implemented using a digital
+signal processor (DSP), a Suitable programmed microcontroller, or an application
+specific integrated circuit (ASIC)...". O Documento D1 (Coluna 6, Linhas 47 - 56)
+também revela que "In many embodiments, the dual drive module 90 is configured to
+operate on a baseband analog signal or a digital signal. Accordingly, the signal
+preparation unit 20 may include a main up-converter 80 and an auxiliary up-converter
+82 for generating the RF main input signal 40 and the RF auxiliary input signal 42.
+Alternatively, the signal preparation unit 20 may be implemented using a direct RF
+solution with the signals being converted directly from digital to radio frequency to
+provide the RF main input signal 40 and the RF auxiliary input signal 42". Ou seja, a
+"signal preparation unit" (que inclui o dual drive module - vide Figura 3 de D1) pode
+atuar tanto digital quanto analogicamente, recebe sinais não modulados e realiza a
+modulação do sinal que recebe. Dessa forma, evidencia-se que D1 revela a
+incorporação de modulação à unidade responsável pela preparação dos sinais. Além
+disso, o fato de o "dual drive module" poder ser implementado digitalmente, evidencia
+que a "divisão de sinal" referenciada em D1 pode ser, simplesmente, uma operação
+efetuada de maneira lógica, sem corresponder a um bloco físico separado e, assim, as
+alegadas vantagens de processamento exigindo uma largura de banda menor já estão
+cobertas pela matéria revelada em D1.
+- O Documento D2 (Parágrafo 0023) revela que "depending on the type of application
+in which the amplifier system 10 is implemented, the amplifier system 10 can include
+additional interposing components, such as modulators or demodulators". Também em
+D2 (Parágrafo 0024), é revelado que "communication system 50 includes a processor
+52 that is configured to generate a transmit signal TX for transmission. As an example,
+the processor 52 can be configured to perform digital upconversion and/or crest-factor
+reduction on the transmit signal TX, such as to reduce a peak-to-average ratio (PAR)
+of the transmit signal TX. In addition, the example of FIG. 1 demonstrates that the
+transmit signal TX is modulated into I- and Q-components. The I- and Q-components,
+demonstrated in the example of FIG. 1 as TX I and TX Q, can collectively form an
+information-carrying baseband signal that has been upconverted into a stream of
+digital samples". Ou seja, os aparatos de D2 (incluindo o "processor 52") realizam
+
+
+                                                                              Página 4
+                                        BR112013027418-2
+
+           modulação e deslocamento de frequência de sinais e produzem um sinal em banda
+           base (a partir, obviamente, do sinal de entrada entregue ao processador 52). O sinal
+           assim produzido é, em seguida, entregue ao "DPD system 54" e, conforme explicado
+           (Figuras 1, 2; Parágrafo 24), "The DPD system 54 is configured substantially similar to
+           the DPD system 12 in the example of FIG.1. Specifically, the DPD system 54 is
+           configured to provide main and peak components of the transmit signal TX I and TX Q
+           onto respective main and peak amplifier paths based on a signal PROP that defines a
+           programmable proportion of division". Evidencia-se, portanto, que D2 revela
+           modulação a qual é efetuada antes da entrega dos sinais de RF aos amplificadores
+           (ao contrário do que o requerente afirma em sua Manifestação) sendo óbvio, além
+           disso, que essas operações sejam integradas em um único módulo. Por outro lado,
+           não se deve perder de vista que a efetiva importância da matéria revelada em D2,
+           para demonstrar a falta de atividade inventiva do pedido sob análise, decorre da sua
+           combinação com a matéria revelada em D1.
+           - O Documento D2 (Parágrafos 0026 e 0027) também revela operações de modulação
+           já que afirma que "The main digital signal components M I and M. Q are provided to a
+           DAC 60, and the peak digital signal components P I and P. Qare provided to a DAC
+           62. The DAC 60 is configured to convert the main digital signal components M I and M
+           Q into main analog signal components AM I and AM Q. Likewise, the DAC 62 is confi-
+           gured to convert the peak digital signal components P I and P Q into a peak analog
+           signal components AP I and AP O. The main analog signal components AM I and AM
+           Q are provided to a mixer 64, and the peak analog signal components AP I and AP O
+           are provided to a mixer 66. The mixers 64 and 66 are each configured to modulate the
+           respective main and peak analog signal components AM I and AM Q and AP I and AP
+           Q based on a local oscillator (LO) signal that is generated by a LO 68" e que "The
+           resultant modulated main and peak signals are provided to an amplifier chain 70".
+       Dando prosseguimento ao exame da matéria pleiteada no pedido, constata-se que
+continuam válidas a essência das argumentações e as conclusões presentes no primeiro parecer,
+as quais são reproduzidas a seguir (com as devidas adaptações):
+       O pedido sob análise apresenta 10 reivindicações, com a Reivindicação 1 (pleiteando um
+amplificador) sendo a única independente. A matéria considerada mais relevante para fins de
+análise de atividade inventiva consiste em um amplificador na configuração Doherty em que um
+subcircuito divisor de sinal recebe o sinal de entrada e, a partir dele e de um valor de limiar, gera
+dois outros sinais, um deles destinada a um amplificador principal e o outro destinado ao
+amplificador auxiliar, com o valor de limiar sendo definido por um subcircuito controlador o qual
+define define o valor de limiar a partir da estatística a qual depende do tipo de modulação
+empregada no sinal.
+       O Quadro reivindicatório do pedido é considerado destituído de atividade inventiva em
+virtude da combinação das matérias reveladas em D1 e D2. De fato, D1 (Abstract; Figuras 1 - 5;
+
+
+
+                                                                                           Página 5
+                                       BR112013027418-2
+
+Coluna 1, Linha 63 - Coluna 2, Linha 48; Coluna 3, Linha - Coluna 9, Linha 4 ) revela um
+amplificador na configuração Doherty contando com controle da tensão de limiar e do nível de
+polarização para cada subcircuito amplificador (principal e auxiliar) com esse controle sendo
+definido em função de estatísticas do sinal (há uma laço de realimentação para prover as
+estatísticas do sinal, permitindo o ajuste da operação do amplificador com base em medidas
+anteriores à aplicação do sinal). O Documento D2 (Abstract; Figuras 1 - 4; Parágrafos 0007 -
+0009, 0014 - 0040), por sua vez, também revela um amplificador Doherty com a capacidade de
+programação do valor do limiar para atuação de cada um dos amplificadores, mas também revela
+que o sinal entregue a cada um dos amplificadores depende do tipo de modulação empregada no
+sinal a ser transmitido.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que ele não
+atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                               Rio de Janeiro, 15 de julho de 2021.
+
+
+
+
+Alvaro da Silva Ferreira
+Pesquisador/ Mat. Nº 1742398
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 008/13
+
+
+
+
+                                                                                          Página 6
+

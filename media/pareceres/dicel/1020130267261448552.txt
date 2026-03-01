@@ -1,0 +1,249 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102013026726-0         N.° de Depósito PCT:
+ Data de Depósito:                   17/10/2013
+ Prioridade Unionista:               US 13/656,898 (22/10/2012)
+ Depositante:                        THE BOEING COMPANY (US)
+ Inventor:                           JOSHUA PRZYBYLKO, JOHN LYLE VIAN
+ Título:                             Sistema de gerenciamento de área aquática 
+
+
+
+                                                                PARECER
+
+
+          O pedido sob análise faz referência a sistemas e métodos para gerenciar operações de
+vigilância e salvamento, empregando câmeras, uma central de monitoramento e veículos aéreos
+não tripulados.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                 n.o da Petição           Data
+
+Relatório Descritivo                                     1 - 66                870210056846           24/06/2021
+Quadro Reivindicatório                                    1-4
+Desenhos                                                 1 - 14              NPWB 860130004760        17/10/2013
+Resumo                                                      1                  870210056846           24/06/2021
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                  Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                        x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                          x
+O pedido está de acordo com disposto no art. 32 da LPI                                           x
+Comentários/Justificativas
+
+          O primeiro exame do pedido apontou infrações aos Arts. 8 e 13 da LPI. Em virtude desse
+fato, foi emitido um despacho um despacho de Ciência de parecer (7.1), o qual foi publicado na
+RPI no 2621, de 30/03/2021. Em resposta ao parecer de primeiro exame, o requerente
+submeteu, em 24/06/2021, por meio da petição 870210056846, Manifestação na qual
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                 Página 1
+                                           BR102013026726-0
+
+apresentou novos Relatório descritivo, Quadro reivindicatório e Resumo, bem como
+esclarecimentos e contestações à conclusão de falta de atividade inventiva apontada no parecer
+de primeiro exame. Não foi detectado, no novo conteúdo, infração ao Art. 32 da LPI.
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                            Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI       x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI     x
+Comentários/Justificativas
+
+         Não há, para o momento, comentários a fazer, sobre o pedido, com respeito aos requisitos
+do Quadro 3.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                              Data de publicação
+    D1       PT 104558 - A                                                            08/11/2010
+    D2       US 2005271266 - A1                                                       08/12/2005
+    D3       EP 1857769 - A2                                                          21/11/2007
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento            Reivindicações
+                                                         Sim                     1-9
+            Aplicação Industrial
+                                                        Não                       -
+                                                         Sim                     1-9
+                 Novidade
+                                                        Não                       -
+                                                         Sim                      -
+            Atividade Inventiva
+                                                        Não                      1-9
+Comentários/Justificativas
+
+         Em sua Manifestação, o requerente, essencialmente, afirma que:
+            - O estado da técnica (incluindo os documentos D1, D2 ou D3) não revelaria o uso de
+             uma simulação que identificasse "as condições atuais e previstas" ou que detectasse
+             "uma condição potencial na área aquática recreativa.
+             - D1 não revelaria a identificação de "áreas escuras nas imagens obtidas do módulo
+             do sensor" de tal modo que correntes de retorno pudessem ser detectadas antes
+             mesmo de estarem totalmente formadas, tampouco que, na ocorrência de uma
+             "corrente de retorno", seria "realizada uma missão de resgate".
+              - D2, apesar de ter como objetivo "auxiliar salva-vidas experientes na detecção de
+             ondas de mar em sua vizinhança por análise de imagens computadorizadas" não
+             revelaria que sua análise de imagens usaria uma simulação.
+             - O Documento D3 não revelaria que veículos autônomos seriam "configurados para
+             implantar pelo menos um de um dispositivo de flutuação/uma boia de rastreamento no
+
+
+                                                                                            Página 2
+                               BR102013026726-0
+
+    local na missão de resgate ou para fornecer avisos para os indivíduos na área
+    aquática recreativa nas missões de alerta", tampouco revelaria que "correntes de
+    retorno sejam previstas e que, mediante a previsão de uma ocorrência de correntes de
+    retorno em uma seção particular da área aquática recreativa, os indivíduos sejam
+    evacuados desta seção ou avisados por meios implementados nos veículos
+    autônomos". O Documento D3 também não revelaria "quaisquer detalhes de como
+    uma corrente de retorno pode ser detectada ou prevista".
+
+Em resposta à manifestação do requerente, esclarece-se que:
+    - A parte caracterizante de cada uma das reivindicações independentes (consideradas
+    as mais relevantes para fins de análise de atividade inventiva) apresenta, como
+    características essenciais i) a realização de uma simulação para identificar potenciais
+    situações de risco, que necessitariam de resgate, e ii) a identificação de manchas nas
+    imagens captadas pelos aparatos pleiteados. Outras características da matéria pleitea-
+    da (os detalhes das ações de resgate, ou dos tipos de situações de risco detectados)
+    não são considerados relevantes, mas sim características acessórias dos aspectos
+    relevantes do pedido (a organização, composição e métodos relacionados aos
+    sistemas de gerenciamento pleiteados).
+    - O Relatório descritivo do pedido (no Parágrafo 0100) estabelece que "Em outras
+    palavras, a simulação 314 pode ser usada para identificar as condições correntes 316
+    bem como as condições previstas 318" o que evidencia que a "simulação" é, apenas,
+    uma análise que, com base nos dados obtidos de diversos sensores, detecta
+    situações de perigo presente ou iminente. Sendo assim, o aspecto importante é a
+    tarefa realizada pelo "simulador", não o nome adotado para ele.
+    - A falta de atividade inventiva do pedido é demonstrada, não por D1, D2 ou D3
+    isoladamente, mas sim por sua combinação (D1 combinado com D2, ou mesmo D2
+    combinado com D3) conforme indicado no primeiro parecer de exame técnico.
+    - Constata-se que o Documento D1 (nas Páginas 7 e 11-12) revela a detecção de
+    situações de risco potencial ("...compreende, pelo menos: - um meio de vigilância e
+    alerta, para a detecção e alerta de situações de potencial risco [...] recorrendo a
+    subsistemas de detecção, tais como, por exemplo,câmaras de espectro visível, de
+    infra-vermelho, sensores de elevada gama dinâmica e suas combinações" e "...meio
+    de vigilância, serve de suporte a operações em terra e compreende, pelo menos, um
+    conjunto de câmaras e sensores de imagem termográficos (espectro infravermelho) e
+    de luz visível; um subsistema de processamento computacional [...] os elementos
+    anteriores estão instalados em torres de vigia, de modo a que as câmaras
+    termográficas e de espectro visível possam abranger parte da área de interesse. A
+    imagem recolhida é processada automaticamente de forma a detectar situações de
+    risco. Estas podem ser parametrizadas pela presença de corpos na água ou pela
+    dinâmica na imagem").
+
+
+
+
+                                                                                  Página 3
+                                       BR102013026726-0
+
+
+           - Constata-se, também, que o Documento D2 (Parágrafos 0054 - 0058) revela
+           sistemas que realizam a análise de imagens (incluindo a percepção de áreas
+           claras/escuras) com objetivo de detectar situações de risco. O Documento D2
+           (Parágrafos 0020 - 0026) também revela que na detecção de situações de risco
+           também são considerados dados de diversos sensores incluindo imagens e dados de
+           satélite, velocidade do vento, temperatura e previsão de tempo de modo geral, os
+           quais além de serem usados para detectar situaços de risco também podem ser
+           usados para prevê-las (nos Parágrafos 0017 e 0026 de D2, "...an object of the present
+           invention to incorporate multi-sensor data from one or more sources, such as satellites,
+           autonomous unmanned aerial vehicles (UAV's) or watercraft, and off-shore towers to
+           enhance detection, differentiation, and prediction of hazardous rip currents" e "fly-by
+           data by satellite or UAV can provide potentially helpful evolutionary or hourly time-
+           scale data predicting the likelihood of hazardous rip currents; these supplementary
+           data can be used as decision tie-breakers in the computer analysis of the detection of
+           hazardous rip currents").
+           - O Documento D3, por sua vez, embora não limitado à sistemas de vigilância e alerta
+           para áreas aquáticas (no Parágrafo 0012, "features and concepts of the described
+           systems and methods for sensor scan planner can be implemented in any number of
+           different environments, systems, and/or configurations"), revela outros aspectos
+           pleiteados no sistema, tais como o uso de veículos autônomos, o escaneamento de
+           uma área alvo e a realização de missões (nos Parágrafos 0008 - 0009, "Sensor scan
+           planner is described to adaptively develop future sensor scan schedules which are
+           intended to maximize the probability of accomplishing the mission of aircraft such as
+           an unmanned aerial vehicle (UAV)" e "As a component of a larger system, sensor scan
+           planner functions in real-time to provide the best determinable sensor scan schedule to
+           facilitate accomplishing a mission according to pre-determined commit criteria for the
+           aircraft, airborne weapon system, non-aircraft platform, or other mobile platform") .
+           - Dessa forma, evidencia-se que a matéria pleiteada no pedido sob análise é
+           desprovida de atividade inventiva frente ao estado da técnica representado pelos
+           documentos D1, D2 e D3. De fato, o Documento D2 revela operações de análise de
+           dados análogas "simulação" do pedido sob análise o que combinados aos aparatos
+           de D1 e D3, antecipa as características relevantes da matéria pleiteada.
+       Dando prosseguimento ao exame da matéria pleiteada no pedido, constata-se que não há
+diferenças relevantes entre as matéria pleiteadas no Quadro reivindicatório atual e o aquele
+analisado no primeiro exame. Por esse motivo, continuam válidas as argumentações e conclusões
+presentes no primeiro parecer, os quais são reproduzidos a seguir:
+       O pedido sob análise apresenta 9 reivindicações, sendo independentes as Reivindicações
+1 (pleiteando sistema) e 6 (pleiteando método). A matéria pleitada considerada relevante, para fins
+de análise de atividade inventiva, consiste, essencialmente, em aparatos para gerenciar
+operações de vigilância e salvamento, efetuadas por meio de veículos aéreos não tripulados, em
+
+
+
+                                                                                            Página 4
+                                       BR102013026726-0
+
+
+que uma central de monitoramento recebe informações de imagens (captadas por sensores) da
+área monitorada, detecta e prevê situações exigindo a atuação dos veículos e, confirmando-se a
+detecção, anuncia a ocorrência por meio de alarme e dirige esses veículos para as áreas
+apropriadas em que se deva efetuar resgate, sinalização da ocorrência e/ou evacuação.
+       O pedido sob análise é considerado não inventivo em relação à combinação dos
+conteúdos revelados pelos Documentos D1 e D2. De fato, o Documento D1 (Resumo; Páginas 3 -
+27; Figuras 1 - 2) revela um sistema que gerencia operações de vigilância e salvamento, inclusive
+com a capacidade de prever eventos prováveis com base em imagens obtidas do ambiente
+monitorado. O Documento D1 revela, também, o controle de veículos não tripulados em virtude da
+detecção ou prevenção de eventos de salvamento, tanto no caso de um veículo marítimo quanto
+de um veículo aéreo. O Documento D1, entretanto, não revela a detecção de correntezas como
+fundamentação para missões de resgate. O Documento D2 (Abstract; Figuras 1 - 11; Parágrafos
+0003 - 0064), por sua vez, revela um sistema analisa imagens e que detecta correntezas e
+situações de perigo a elas associadas, além de sinalizar essas ocorrências. É natural, portanto,
+combinar os sistemas de D1 e de D2, para obter um sistema que demonstra a falta de atividade
+inventiva da matéria pleiteada no pedido sob análise.
+
+       A falta de atividade inventiva do pedido sob análise também é demonstrada pela
+combinação dos sistemas revelados nos Documentos D2 e D3. De fato, é possível combinar o
+sistema de detecção de correntezas e perigos de D2 (nos mesmos trechos já citados) com o
+sistema de gerenciamento de veículos não tripulados revelado em D3 (Abstract; Parágrafos 0003 -
+0006; 0008 - 0053) o qual proveria ao sistema de D2 a capacidade de analisar imagens para
+detectar outros eventos relevantes e programar as missões a serem realizadas pelos veículos não
+tripulados.
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que ele não
+atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                               Rio de Janeiro, 15 de julho de 2021.
+
+
+
+Alvaro da Silva Ferreira
+Pesquisador/ Mat. Nº 1742398
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 008/13
+
+
+
+                                                                                          Página 5
+

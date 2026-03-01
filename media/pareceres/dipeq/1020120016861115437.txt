@@ -1,0 +1,145 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102012001686-9            N.° de Depósito PCT:
+ Data de Depósito:                   25/01/2012
+ Prioridade Unionista:               US 13/015,327 (27/01/2011)
+ Depositante:                        Honeywell International Inc. (US)
+ Inventor:                           Stephen David Worthington, Jerry Wayne Evans, Patrick Gerard
+                                     Hogan
+ Título:                             SISTEMA 
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                        1                870190103582           14/10/2019
+Relatório Descritivo                                      2-20               020120006239           25/01/2012
+Quadro Reivindicatório                                     1-3               870190103582           14/10/2019
+Desenhos                                                   1-6               020120006239           25/01/2012
+Resumo                                                      1                870190103582           14/10/2019
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         x
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                        BR102012001686-9
+
+
+Comentários/Justificativas
+
+
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                                Documento                              Data de publicação
+    D1                               WO2007057692                                  24/05/2007
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade              Cumprimento               Reivindicações
+                                                     Sim                        1-9
+           Aplicação Industrial
+                                                     Não
+                                                     Sim                        2-9
+                 Novidade
+                                                     Não                         1
+
+                                                     Sim
+           Atividade Inventiva
+                                                     Não                        1-9
+
+
+
+Comentários/Justificativas
+
+Reivindicação 1 Como já afirmado no parecer técnico anterior, D1 descreve um detector
+compreendendo um elemento sensor de condições ambientais (thernopile, relatório descritivo,
+página 3), um sensor de movimento (acecelerometer, relatório descritivo, página 2), um controle
+de circuito (data processor, relatório descritivo, página 3) e hardware de comunicação
+bidirecional (radio transceiver, relatório descritivo, página 3) em que o circuito de controle
+determina um evento de alarme, com base em um primeiro sinal recebido do elemento sensor
+de condições ambientais, e transmite um sinal de alarme para o hardware de comunicação
+durante o evento de alarme (relatório descritivo, página 3), o circuito de controle determina um
+evento de homem caído, com base em um segundo sinal recebido do sensor de movimento, e
+transmite um sinal de alarme de homem caído para o hardware de comunicação durante o
+evento de homem caído (relatório descritivo, página 7; relatório descritivo, página 8), o hardware
+de comunicação bidirecional transmite pelo menos um dentre um sinal de alarme e um sinal de
+alarme de homem caído para um local remoto (relatório descritivo, página 4) e o hardware de
+comunicação bidirecional recebe uma consulta sobre a situação do local remoto (relatório
+descritivo, página 5). Portanto, a partir da análise do documento D1 prossigo com o
+entendimento que a matéria pleiteada na reivindicação 1 não atende ao requisito novidade e
+atividade inventiva e não atende ao disposto nos artigos 11 e 13 da Lei nº 9.279/96 (LPI) e não é
+patenteável por infringir o artigo 8º do mesmo dispositivo legal.
+
+Reivindicações 2-9
+
+
+
+
+                                                                                           Página 2
+                                       BR102012001686-9
+
+
+Nas reivindicações dependentes 2-9 não foram identificadas características que, mesmo quando
+combinadas com as características de qualquer reivindicação independente a que se referem,
+venham a prover a atividade inventiva à matéria.
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 16 de dezembro de 2019.
+
+
+
+
+Cleiton da Silva Barbosa
+Pesquisador/ Mat. Nº 1015167
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº
+001/18
+
+
+
+
+                                                                                           Página 3
+

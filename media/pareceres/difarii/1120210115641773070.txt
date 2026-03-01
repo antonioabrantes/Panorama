@@ -1,0 +1,237 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112021011564-1         N.° de Depósito PCT:US2019/066746
+ Data de Depósito:                   17/12/2019
+ Prioridade Unionista:               US 62/780,667 (17/12/2018)
+ Depositante:                        VERTEX PHARMACEUTICALS INCORPORATED (US)
+ Inventor:                           MICHAEL BRODNEY; KEVIN GAGNON; KAN-NIAN HU; ALES
+                                     MEDEK; PETER ROSE; YI SHI; MUNA SHRESTHA; FAITH WITKOS;
+                                     JINGRONG CAO; JON H. COME; LESLIE A. DAKIN; FRANCOIS
+                                     DENIS; WARREN A. DORSCH; ANNE FORTIER; MARTINE HAMEL;
+                                     BRIAN LEDFORD; ELAINE B. KRUEGER; OLIVIER NICOLAS;
+                                     SUGANTHINI S. NANTHAKUMAR; TIMOTHY J. SENTER; CAMIL
+                                     SAYEGH; TIANSHENG WANG
+ Título:                             COMPOSTOS       INIBIDORES      DE   APOL1,   COMPOSIÇÕES
+                                     FARMACÊUTICAS E USO DOS COMPOSTOS
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 411              870220119168           19/12/2022
+Quadro Reivindicatório                                1 a 32                 870230086496           02/10/2023
+                                                    (Principal 
+                                                 primeiro quadro
+                                                  reivindicatório
+                                                  apresentado)
+Desenhos                                                1 a 59               870210074685           16/08/2021
+Resumo                                                      1                870220119168           19/12/2022
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR112021011564-1
+
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                              Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                         x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                       x
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                Data de publicação
+    D1                                 WO2008092231                                   07/08/2008
+    D2                                 WO2015048301                                   02/04/2015
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento              Reivindicações
+                                                         Sim                      1 a 22
+            Aplicação Industrial
+                                                        Não                         ---
+                                                         Sim                      1 a 22
+                  Novidade
+                                                        Não                         ---
+
+                                                         Sim                      1 a 22
+            Atividade Inventiva
+                                                        Não                         ---
+Comentários/Justificativas
+
+
+
+         A Requerente por meio da petição nº 870230086496                de 02/10/2023 apresentou
+manifestação ao parecer notificado na RPI2739 de 04/07/2023. O quadro reivindicatório
+apresentado pela Requerente e considerado no presente exame é o primeiro quadro
+reivindicatório apresentado, ou seja, o quadro principal (total de 22 reivindicações).
+
+         Sobre o questionamento da falta de suficiência descritiva da matéria do presente pedido,
+a Requerente apontou que (...) exemplificou, no Relatório descritivo, 135 compostos, incluindo
+também procedimentos de síntese, dados analíticos e ensaios biológicos dos mesmos (vide, por
+exemplo, os parágrafos [00271] a [00482] e [00545] a [00580] do Relatório descritivo do
+presente pedido). As categorias das atuais reivindicações 1 a 3 abrangem esses compostos e
+generalizações razoáveis dos mesmos. É importante observar, no entanto, que esses
+compostos exemplificados são fornecidos, apenas, para fins ilustrativos e não têm a intenção de
+limitar a divulgação a esses compostos. Isto porque, um técnico no assunto seria capaz de
+sintetizar, com relativa facilidade, os compostos reivindicados por meio de manipulações
+
+
+
+                                                                                             Página 2
+                                       BR112021011564-1
+
+
+químicas de rotina, com base no conhecimento na área e nos procedimentos experimentais
+descritos na presente invenção.
+
+       A Requerente alega, ainda, que (...) por exemplo, embora nenhum dos compostos
+exemplificados exiba um "grupos C1-C6 alcóxi lineares, ramificados e cíclicos" para R5 ou R6 ,
+seria esperado que um técnico no assunto pudesse sintetizar tal composto, da mesma forma
+como o composto 1 foi sintetizado, conforme demostrado a seguir:
+
+
+
+
+       E, assim, tendo em vista os exemplos fornecidos e a matéria contida no estado da
+técnica, a Requerente afirma que as atuais reivindicações 1 a 3 são condizentes com o escopo
+descrito no Relatório do presente pedido, estando clara e suficientemente descritas de forma a
+garantir que um técnico no assunto possa trabalhar em todo o escopo do presente pedido.
+
+       Acerca das alegações da Requerente, salienta-se que as mesmas foram consideradas
+pertinentes no presente exame e, portanto, a matéria das reivindicações 1 a 4 e 9 a 20
+encontra-se suficientemente descrita do relatório descritivo consoante do art. 24 da LPI e,
+consequentemente fundamentada no mesmo como disposto no art. 25 da LPI.
+
+       Em relação as formas cristalinas e/ou hidratos do presente pedido, a Requerente
+apontou que (...) cada procedimento de síntese para uma forma cristalina específica indica
+claramente qual solvente foi utilizado, a que temperatura a experiência foi conduzida e, se
+relevante, a concentração da mistura reacional e a que taxa a temperatura foi ajustada (vide, por
+exemplo, os parágrafos [00354] a [00364] e [00412] a [00417] do Relatório descritivo do
+presente pedido). Além disso, e no que diz respeito à utilização de sementes, a Requerente
+esclarece que apenas a recristalização do Composto 2 necessitou de sementeira, e tanto a
+origem da semente como a sua utilização no processo de recristalização são descritas com
+detalhes suficientes para permitir que um técnico no assunto reproduza o experimento (vide, por
+exemplo, o parágrafo [00354] do Relatório descritivo do presente pedido.
+
+       Com relação aos parâmetros do processo de obtenção das formas cristalinas e/ou
+hidratos do presente pedido, a Requerente mencionou que Como é geralmente sabido do
+
+
+
+                                                                                          Página 3
+                                       BR112021011564-1
+
+
+estado da técnica, as reações diferem enormemente umas das outras e, embora alguns
+parâmetros possam ser importantes para o sucesso de uma transformação, o mesmo parâmetro
+pode ser totalmente irrelevante para outra. Por exemplo, pode acontecer da taxa de adição de
+um solvente seja crítica, enquanto a taxa de adição de um solvente diferente não tenha
+consequências. Neste cenário, seria prejudicial para a reprodutibilidade do experimento
+fornecer, então, a taxa de adição do referido solvente, pois daria a impressão de que ele é
+importante para a transformação, quando não o é. Além disso, muitos procedimentos
+experimentais tornaram-se rotineiros no estado da técnica, a tal ponto que um técnico no
+assunto assumiria automaticamente um determinado conjunto de condições, sem que um
+procedimento necessitasse mencioná-lo expressamente. Um exemplo de tal parâmetro é a taxa
+de agitação. Assim, ao ler que uma mistura foi deixada agitar, e na ausência de mais detalhes,
+um técnico no assunto ajustaria automaticamente a taxa de agitação de forma a garantir a
+mistura eficiente dos componentes. Novamente, a Requerente ressalta que, se não forem
+fornecidos mais detalhes a esse respeito, um técnico no assunto assumirá corretamente que
+este parâmetro específico não é crítico para a transformação em questão.
+
+       No tocante as alegações da Requerente, ressalta-se que o item 4.1 da Resolução nº
+208/2017 - que institui as diretrizes de exame de pedidos de patente na área de química, relativo
+a suficiência descritiva do processo de obtenção de um polimorfo, é bastante claro ao dispor que
+os parâmetros de obtenção da forma cristalina devem ser especificados no relatório descritivo,
+de modo a garantir sua reprodutibilidade por um técnico no assunto. Consideram-se parâmetros
+essenciais nestes processos, por exemplo, a indicação do(s) solvente(s), e sua(s)
+concentração(ões), taxas de adição de solvente(s), taxas de aquecimento e resfriamento,
+descrição do processo de obtenção de eventuais sementes empregadas no processo de
+cristalização e demais parâmetros que possam ser considerados críticos. Logo, os parâmetros
+de obtenção de uma forma cristalina e/ou um hidrato são elementos críticos que precisam estar
+descritos de modo a possibilitar a sua reprodução por um técnico no assunto e o ajustes dos
+mesmos necessitaria de inúmeras experimentações pelo técnico no assunto para alcançar a
+reprodutibilidade da obtenção e não um ajuste automático como acredita a Requerente.
+Portanto, conclui-se que a preparação da forma A, hidratos A a F e os solvatos (MTBE e DMF)
+do composto 2, bem como a forma A, hidrato, solvato IPAC e forma amorfa do composto 87
+presente pedido não atende o art. 24 da LPI, uma vez que não estão descritos alguns
+parâmetros críticos à obtenção dos mesmos, tais como: taxa de aquecimento (forma A do
+composto 2, solvato IPAC do composto 87), taxa de resfriamento (forma A e hidrato B do
+compostos 2, solvato IPAC do composto 87), taxa de agitação (forma A, hidratos e solvatos do
+composto 2, solvato IPAC do composto 87), tempo de manutenção à temperatura ambiente
+(hidrato E do composto 2), taxa de adição do solvente (solvatos do compostos 2 e hidrato do
+composto 87), taxa de dissolução (forma amorfa do composto 87), taxa de desidratação (forma A
+do composto 87). Desse modo, as reivindicações 5 a 8, 21 e 22 do presente pedido não estão
+fundamentada no relatório descritivo conforme dispõe o art. 25 da LPI.
+
+
+
+
+                                                                                         Página 4
+                                         BR112021011564-1
+
+
+       Em relação ao questionamento da falta de clareza das reivindicações as alegações
+apresentadas pela Requerente foram consideradas pertinentes no presente exame.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não apresenta suficiência descritiva (Art. 24 da LPI); e
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI).
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                     Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 24 de outubro de 2023.
+
+
+
+
+Jaqueline Mendes Soares
+Pesquisador/ Mat. Nº 1568553
+DIRPA / CGPAT I/DIFAR-II
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                              Página 5
+

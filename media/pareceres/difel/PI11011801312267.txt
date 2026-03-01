@@ -1,0 +1,178 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI1101180-7              N.° de Depósito PCT:
+ Data de Depósito:                   18/03/2011
+ Prioridade Unionista:               -
+ Depositante:                        TECNOLOGIA BANCÁRIA S.A. (BRSP)
+ Inventor:                           NELSON TAVARES DE PINHO
+ Título:                             Método para prover o incremento na segurança de um cassete de
+                                     equipamento bancário mediante incorporação ao mesmo de um
+                                     dispositivo de segurança intra-cassete e dispositivo de segurança
+                                     intra-cassete destinado a ser incorporado a um cassete de
+                                     equipamento bancário 
+
+                                                              PARECER
+O presente pedido de Patente de Invenção se enquadra no âmbito da RESOLUÇÃO INPI/PR N°
+240, DE 2019, estabelecida no Plano de Ataque ao Backlog de Patentes elaborado pela
+DIRETORA DE PATENTES, PROGRAMAS DE COMPUTADOR E TOPOGRAFIAS DE
+CIRCUITOS INTEGRADOS do INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+(DIRPA).
+
+Por meio dos atos normativos para execução do referido plano, a Administração do INPI avoca a
+responsabilidade sobre os procedimentos adotados no presente exame técnico.
+
+Em 04/11/2020, por meio da petição 870200138733 a Requerente manifestou-se e apresentou
+argumentações em resposta ao parecer emitido no âmbito da Resolução 240/2019, notificado na
+RPI 2588 de 11/08/2020 (despacho 7.1). A Requerente apresentou um novo Quadro
+Reivindicatório, com 6 reivindicações, reformulado, além de novas vias do relatório descritivo e do
+resumo. A Requerente incluiu páginas do relatório descritivo, reivindicações e resumo anteriores
+com marcações, indicando as modificações realizadas em que inserções aparecem em azul e as
+exclusões, tachadas em vermelho. A Requerente apresentou argumentações técnicas em defesa
+de seu pedido.
+
+Para fins de continuidade do exame estão sendo consideradas as vias abaixo:
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                 n.o da Petição      Data
+
+Relatório Descritivo                                1/10 a 10/10               870200138733      04/11/2020
+Quadro Reivindicatório                                 1/3 a 3/3               870200138733      04/11/2020
+Desenhos                                               1/3 a 3/3             DESP 018110009750   18/03/2011
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                            Página 1
+                                               PI1101180-7
+
+
+Resumo                                      1/1                 870200138733                04/11/2020
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                             Sim                  Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                              x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                      x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                        x
+O pedido está de acordo com disposto no art. 32 da LPI                         x
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                             Sim                  Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI         x
+Comentários/Justificativas
+As inconsistências apontadas no parecer anterior foram saneadas. Assim, o pedido atende ao
+disposto no Artigo 25 da LPI.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                 Data de publicação
+    D1                                  US7428873B1                                    30/09/2008
+    D2                                  US5537938A                                     23/07/1996
+    D3                                  EP1196897B1                                    11/01/2006
+    D4                                  EP0409725A1                                    23/01/1991
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento              Reivindicações
+                                                         Sim                        1a6
+           Aplicação Industrial
+                                                         Não                         ----
+                                                         Sim                        1a6
+                 Novidade
+                                                         Não                         ----
+
+                                                         Sim                         ----
+           Atividade Inventiva
+                                                         Não                        1a6
+
+
+
+
+                                                                                                 Página 2
+                                          PI1101180-7
+
+
+Comentários/Justificativas
+
+Em defesa de seu pedido, a Requerente faz inicialmente uma descrição dos 4 documentos
+antecipatórios citados e essencialmente alega que D1 não explica minimamente, em seu
+Quadro Reivindicatório, a estrutura do mecanismo de deterioração de cédulas de um cassete de
+ATM, citado no Quadro Reivindicatório, apenas cita um tipo de mecanismo desenvolvido para
+destruir cédula. Ocorre que a análise de um documento de anterioridade recai sobre toda a
+matéria do documento e não apenas do quadro reivindicatório. De fato, o quadro reivindicatório
+de uma anterioridade é pouco relevante na análise. E D1, explica sim e com muitos detalhes, o
+mecanismo de deterioração que, tal qual a reivindicação principal do pedido, é incorporado em
+um cassete, do tipo que é utilizado em equipamentos bancários, de um dispositivo de Segurança
+intra-cassete,   o dispositivo contendo um meio para       inutilizar as cédulas armazenadas no
+interior do cassete em caso de o equipamento bancário como um todo, ser alvo de violação
+mediante emprego de explosivos. Ou seja, D1, sozinho antecipa toda a caracterização essencial
+da reivindicação 1. Embora D1 não cite explicitamente um mecanismo de tampa basculante, tal
+disposição é óbvia, uma vez que se trata de uma montagem realizada dentro de um cassete
+onde há documentos (notas) retiráveis e inseríveis, então é óbvia a viabilização por algum tipo
+de porta. Já com relação a D2 a Requerente se limita a dizer que o documento mostra um
+tanque com tinta indelével, diferentemente do presente pedido, que ensina que o dispositivo é
+intracassete. No entanto, D2, embora utilize cilindros externos também trata de um dispositivo
+de segurança intra-cassete que é incorporado no interior de um equipamento bancário ATM e,
+também contém um meio para inutilizar cédulas em caso de ataque, onde explosivos são
+utilizados. Assim, embora, de fato, os cilindros sejam externos ao cassete, sua adaptação por
+cilindros menores no próprio cassete não requer esforço inventivo. E, de todo modo, as ampolas
+contendo tinta do pedido nem estão na caracterização da reivindicação independente, mas
+apenas na reivindicação dependente 5, mostrando que a própria requerente admite que o
+posicionamento interno ao cassete das ampolas é conhecido do estado da técnica (o que pode
+ser conferido em D1, D3 e D4).
+
+Portanto, as alegações da Requerente não foram persuasivas e, concretamente, uma análise da
+nova reivindicação 1 não mostra qualquer característica que pudesse minimamente ser
+considerada inventiva frente a qualquer dos documentos de anterioridade. Assim sendo, o
+pedido não atende ao disposto no Artigo 8º da LPI.
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                                         Página 3
+                                     PI1101180-7
+
+
+
+
+                                                          Publique-se o indeferimento (9.2).
+
+
+
+                                                   Rio de Janeiro, 16 de novembro de 2020.
+
+
+
+
+Peter Michael Beer
+Pesquisador/ Mat. Nº 1547227
+DIRPA / CGPAT III/DIFEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+022/12
+
+
+
+
+                                                                                   Página 4
+

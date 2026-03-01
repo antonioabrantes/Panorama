@@ -1,0 +1,221 @@
+                                    SERVIÇO PÚBLICO FEDERAL
+                                    MINISTÉRIO DA ECONOMIA
+                         INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                  RELATÓRIO DE EXAME TÉCNICO
+
+  N.° do Pedido:                          BR112017027108-7                   N.° de Depósito PCT:EP2016/065272
+  Data de Depósito:                       30/06/2016
+  Prioridade Unionista:                   DE 10 2015 212 389.8 (02/07/2015)
+  Depositante:                            AESCULAP AG (DE)
+  Inventor:                               CHRISTOPH ROTHWEILER; HOLGER REINECKE;                           DIETER
+                                          WEISSHAUPT
+  Título:                                 Revestimento para aplicadores na eletrocirurgia 
+
+                                                                      PARECER
+
+
+
+                                           Quadro 1  Páginas do pedido examinadas
+                   Elemento                                   Páginas            n.o da Petição           Data
+
+ Relatório Descritivo                                     1/20 a 20/20           870220049445           06/06/2022
+ Quadro Reivindicatório                                      1/5 a 5/5           870220049445           06/06/2022
+ Desenhos                                                         ----                 ----                ----
+ Resumo                                                           1/1            870220049445           06/06/2022
+
+
+   Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                    maio de 1996  LPI
+ Artigos da LPI                                                                                   Sim       Não
+ A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                         x
+ A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                 x
+ O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                           x
+ O pedido está de acordo com disposto no art. 32 da LPI                                            x
+Comentários/Justificativas
+
+
+
+                       Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+ Artigos da LPI                                                                                   Sim       Não
+ O relatório descritivo está de acordo com disposto no art. 24 da LPI                              x
+ O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                            x
+Comentários/Justificativas
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                   Página 1
+                                           BR112017027108-7
+
+
+                             Quadro 4  Documentos citados no parecer
+
+  Código                                  Documento                                   Data de publicação
+               Ilaria Corni et al., Polyetheretherketone (PEEK) Coatings on
+     D1       Stainless Steel by Electrophoretic Deposition, Adv. Eng. Mater.                 2008
+                              (2008), v. 10, nº. 6, pp. 559  564
+     D2                                CN 101147695 A                                      26/03/2008
+* O documento D2 foi considerado relevante, entretanto, para facilitar a discussão técnica, utilizou-se das
+informações do documento traduzido correspondente, D2T, para o qual se remetem todas as referências
+ao texto na análise técnica que se segue.
+
+
+     Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+      Requisito de Patenteabilidade                Cumprimento                  Reivindicações
+                                                         Sim                          1 a 23
+           Aplicação Industrial
+                                                         Não                            ----
+                                                         Sim                          1 a 23
+                  Novidade
+                                                         Não                            ----
+                                                         Sim                            ----
+            Atividade Inventiva
+                                                         Não                          1 a 23
+Comentários/Justificativas
+
+
+Após notificação de despacho de ciência de parecer (7.1) publicada na RPI nº 2672 datada de
+22/03/2022, o Depositante impetrou a petição n° 870220049445 em 06/06/2022, onde apresenta
+novas vias do relatório descritivo, quadro reivindicatório, e resumo. As emendas apresentadas
+pelo Depositante foram consideradas satisfatórias.
+
+
+Argumentos em defesa do mérito de patenteabilidade do pedido de patente também são
+apresentados e plenamente considerados. Contudo, os mesmos não foram suficientemente
+persuasivos para mudar o entendimento apresentado no primeiro exame técnico de que o
+presente pedido de patente não atende aos requisitos de patenteabilidade, conforme discutido a
+seguir.
+
+
+Resumidamente, o Depositante argumenta que:
+
+
+            O documento D1 se refere apenas a revestimentos para dispositivos biomédicos em
+            termos gerais, mas não especifica os dispositivos usados no procedimento. Além
+            disso, aplicadores de correntes, em particular correntes de AF (alta frequência), não
+            são descritos.
+
+
+                                                                                                   Página 2
+                                       BR112017027108-7
+           Além disso, D1 é absolutamente silente sobre um revestimento de polímero com uma
+           espessura entre 5 m e 500 m e que apresenta uma resistência a ruptura elétrica de
+           pelo menos 500 V/mm.
+
+
+           Mesmo que D1 ensine que o polímero PEEK apresenta boas propriedades
+           mecanoquímicas e é compatível e adaptável para uso em dispositivos médicos, estas
+           propriedades não envolvem alta resistência a uma ruptura elétrica como definida pelas
+           novas reivindicações 1, 17 e 21.
+
+
+Contudo, nota-se que ainda que D1 não discorra sobre a deposição de um material polimérico
+especificamente sobre dispositivos cirúrgicos em que correntes de alta frequência são
+empregadas, tal ensinamento encontra-se revelado em D2 (vide parágs. [0014], [0015], [0090];
+D2T).
+
+
+O Depositante alega que o problema técnico resolvido pela presente invenção é fornecer um
+aplicador para correntes com alta resistência a uma ruptura elétrica, e embora a nova
+reivindicação 1 defina que o revestimento de polímero exiba espessura entre 5 m e 500 m e
+uma resistência a ruptura elétrica de pelo menos 500 V/mm, observa-se no relatório descritivo e
+quadro reivindicatório (parágs. [0009], [0010] e reivs. 1, 7, e 8 da petição n° 870200053066
+29/04/2020) que essas características técnicas são apenas preferenciais, e não essenciais, e que
+portanto o problema técnico é resolvido sem tais características técnicas.
+
+
+O Depositante acrescenta ainda que:
+
+
+           Também não há maneira pela qual D2 possa compensar tais deficiências ou
+           limitações de D1. Apesar de D2 ensinar o uso do polímero PTFE como um
+           revestimento para dispositivos eletrocirúrgicos, D2 não sugere uma possível alta
+           resistência do revestimento a uma ruptura elétrica. Pelo contrário, D2 até mesmo
+           ensina que o revestimento pode ser mascarado para formar passagens abertas
+           através do revestimento, ou que o revestimento pode ser parcialmente removido por
+           diversas técnicas para formar canais (ver resumo), o que poderia ser claramente
+           prejudicial para uma alta resistência do revestimento a uma ruptura elétrica. Dessa
+           forma, os ensinamentos de D2, levam um técnico no assunto para longe dos
+           ensinamentos englobados pela matéria das reivindicações ora apensas no presente
+           pedido de patente.
+
+
+O documento D2, ensina que o politetrafluoretileno (PTFE) é utilizado especificamente como
+revestimento dielétrico de dispositivos cirúrgicos que fazem uso de correntes de alta frequência,
+
+                                                                                        Página 3
+                                        BR112017027108-7
+induzindo um técnico no assunto a empregar o mesmo (vide parágs. [0082], [0096]; D2T). A
+mencionada remoção parcial do revestimento refere-se à retirada intencional de material em áreas
+específicas do instrumento e determinadas durante a fabricação do mesmo. O documento D2 não
+sugere que a remoção de material isolante ocorreria durante o uso do instrumento devido à perda
+das propriedades dielétricas de um revestimento de PTFE. Ao contrário disso, D2 ensina que
+mesmo depois da remoção parcial do revestimento, a efetividade do mesmo é mantida (vide
+parág. [0089]; D2T), ou seja, as propriedades do revestimento não são prejudicadas por conta os
+processos de remoção empregados. Ademais, o pedido em análise é genérico quanto à definição
+do tipo de material plástico considerado com essencial e específico da invenção em seu conceito
+integral. A matéria pleiteada incluiria quaisquer tipos de materiais poliméricos disponíveis.
+
+
+Apesar das modificações efetuadas pelo Depositante, o documento D1 ainda pode ser
+considerado como a anterioridade mais próxima da matéria objeto de proteção na reivindicação 1,
+pois revela um processo para deposição eletroforética de um revestimento eletricamente isolante
+sobre um substrato metálico com relevância para aplicações biomédicas, em que uma suspensão
+compreendendo poliéter-éter-cetona (PEEK) e solvente orgânico álcool) é empregada durante a
+etapa de deposição (seção Experimental Procedure). Enquanto isso, o documento D2 revela,
+especificamente, o emprego de instrumentos eletrocirúrgicos (e.g. cartucho de grampos) exibindo
+um revestimento que consiste de material eletricamente isolante parágs. [0002], [0005], [0016],
+[0088]  [0090]; reiv. 1; figs. 8, 9, 10). Assim, a matéria pleiteada na reivindicação 1 não atende ao
+requisito de atividade inventiva, pois decorre de maneira óbvia para um técnico no assunto a partir
+da execução de suas atividades de rotina, bem como da combinação dos ensinamentos contidos
+no documento D1 com os ensinamentos de D2.
+
+
+Entendimento equivalente também se aplica à matéria pleiteada nas reivindicações independentes
+17 (suspensão) e 21 (aplicador para correntes). Assim como na reivindicação 1, a matéria
+pleiteada nas reivindicações 17 e 21 está redigida de forma genérica e não define características
+técnicas que permitam distinguir qualquer diferença em relação ao atual estado da técnica.
+
+
+Nas reivindicações dependentes não foram identificadas características que, mesmo quando
+combinadas com as características das reivindicações independentes 1, 17, e 21 a que se
+referem, venham a prover atividade inventiva à matéria.
+
+
+
+
+Conclusão
+
+
+Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+
+
+                                                                                                Página 4
+                                       BR112017027108-7
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da data
+de publicação na RPI, para interposição de recurso.
+
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+                                                              Rio de Janeiro, 14 de julho de 2022.
+
+
+
+
+ Douglas Fernandes de Souza
+ Pesquisador/ Mat. Nº 2390342
+ DIRPA / CGPAT IV/DIMAT
+ Deleg. Comp. - Port. INPI/DIRPA Nº 022/2018
+
+
+
+
+                                                                                         Página 5
+

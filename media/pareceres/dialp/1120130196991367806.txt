@@ -1,0 +1,320 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR112013019699-8           N.° de Depósito PCT: US2012/023696
+ Data de Depósito:     02/02/2012
+ Prioridade Unionista: US 61/438969 (02/02/2011); US 61/476691 (18/04/2011); US
+                       61/484458 (10/05/2011); US 61/548616 (18/10/2011)
+ Depositante:          TERRAVIA HOLDINGS, INC. (US)
+ Inventor:             SCOTT FRANKLIN, ARAVIND SOMANCHI, JANICE WEE, GEORGE
+                       RUDENKO, JEFFREY MOSELEY, WALT RAKITSKY, XINHUA ZHAO,
+                       RIYAZ BHAT
+ Título:               Método de produção de um óleo natural, óleo natural, produto, célula
+                       recombinante, célula de microrganismo, e, alimento 
+
+                                                              PARECER
+
+
+Por meio da RPI nº 2528 de 18/06/2019, o INPI publicou Exigência de pré-exame (despacho
+6.20), na qual foi apontado que a matéria correspondente ao presente pedido já foi objeto de
+análise em outros escritórios de patentes, tendo sido citadas as anterioridades e solicitadas as
+devidas providências consideradas pertinentes pela requerente.
+
+
+
+Através da petição nº 870190076162 de 07/08/2019, a requerente apresentou esclarecimentos e
+nova versão da 1ª página do relatório descritivo, resumo, quadro reivindicatório (30 reivindicações,
+segundo a requerente, baseado na correspondente concedida US8633012), razões (manifestação
+em defesa da novidade e atividade inventiva), ANEXO I (cópia da US8633012) e ANEXO II
+(quadro reivindicatório com modificações marcadas). O pedido foi analisado com base na Norma
+de Execução SEI nº 7/2019/DIRPA /PR, visto que se trata de um primeiro exame técnico de um
+pedido de patente de invenção após a exigência de pré-exame (6.20), que será realizado na
+vigência da Resolução 241/2019 (6.21).
+
+
+
+Por meio da RPI 2591 de 01/09/2020, foi notificado o parecer técnico de exigência de parecer
+(6.1).
+
+
+
+Através da petição nº 870200148515 de 25/11/2020, a requerente apresentou esclarecimentos e
+nova versão do relatório descritivo, quadro reivindicatório, resumo e listagem de sequências em
+formato eletrônico. O pedido foi analisado com base na vigente Portaria INPI/DIRPA nº 01/07/2021
+em substituição à Norma de Execução SEI nº 7/2019/DIRPA /PR.
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                 Página 1
+                                             BR112013019699-8
+
+
+
+  Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                              Sim      Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                            X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    X
+
+O pedido refere-se a Sequências Biológicas                                                             X
+
+Comentários/Justificativas
+Encaminhamento à Anvisa
+
+O pedido não foi encaminhado à ANVISA, pois foi considerado que a matéria pleiteada não
+necessita da prévia anuência, com base no disposto no art. 229-C da LPI, incluído pela Lei
+10.196/2001.
+
+Acesso ao patrimônio genético nacional
+O INPI emitiu a exigência de código 6.6.1 na RPI nº 2465 de 03/04/2018, para fins de
+manifestação do depositante quanto à ocorrência de acesso ao Patrimônio Genético nacional e/ou
+Conhecimento Tradicional Associado para a obtenção do objeto do presente pedido. Não tendo
+havido manifestação do depositante no prazo de 60 (sessenta) dias contados a partir da
+publicação na RPI, o INPI deu prosseguimento ao exame técnico com o entendimento de que não
+houve acesso ao patrimônio genético nacional e/ou conhecimento tradicional associado, conforme
+consta no texto do despacho de código 6.6.1 publicado na RPI, de acordo com entendimento
+firmado pela Procuradoria Federal Especializada junto ao INPI (PFE-INPI) no Parecer nº
+00001/2018/PROCGAB/PFE-INPI/PGF/AGU                    (Processo       INPI       nº   52400.002142/2018-30),
+publicado nas RPIs nº 2465 (03/04/2018), 2466 (10/04/2018) e 2467 (17/04/2018), ao qual foi
+atribuído caráter normativo na RPI nº 2485 de 21/08/2018.
+
+
+Sequências biológicas
+Por meio das petições n° 870170073298 de 28/09/2017 e nº 870200148515 de 25/11/2020, a
+requerente apresentou a Listagem de Sequências biológicas em formato eletrônico.
+
+
+                              Quadro 1  Páginas do pedido examinadas
+            Elemento                        Páginas                 no da Petição                     Data
+Relatório Descritivo                          1-409                 870200148515                  25/11/2020
+Listagem de sequências em
+                                                 -                            -                         -
+formato impresso
+Listagem de sequências*               Código de Controle            870200148515                  25/11/2020
+Quadro Reivindicatório                         1-2                  870200148515                  25/11/2020
+Desenhos                                       1-3                  020130066398                 01/08/2013
+Resumo                                          1                   870200148515                  25/11/2020
+
+                                                                                                            Página 2
+                                         BR112013019699-8
+      *Listagem de sequências em formato eletrônico referente ao código de controle
+      0D701A6482BECF0E (Campo 1) e 836591CE8B75EF59 (Campo 2).
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                          Sim             Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)       X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   X
+O pedido está de acordo com disposto no art. 32 da LPI                                   X
+Comentários/Justificativas
+Foi identificado que o novo quadro reivindicatório apresentado por meio da petição nº
+870200148515 de 25/11/2020, em resposta ao parecer técnico de exigência de parecer (6.1, RPI
+2591 de 01/09/2020), alterou o escopo de proteção que era integralmente voltado a Método de
+produção de um óleo, como consta na petição nº 870190076162 de 07/08/2019 em resposta à
+Exigência de pré-exame (6.20, RPI nº 2528 de 18/06/2019), ao inser o pleito de oléo
+(reivindicação 6).
+
+Incidência no Art. 10 da LPI
+A matéria da reivindicação 6 (óleo) não é considerada invenção, pois se trata de materiais
+biológicos encontrados na natureza, pois é indistinguível dos equivalentes naturais (óleos já
+existentes e produzidos naturalmente), se enquadrando no disposto no Art. 10 (IX) da LPI.
+
+
+Incidência no Art. 32 da LPI
+Foi observado que, uma vez que tal produto compunha a matéria reivindicada em quadros
+reivindicatórios anteriores (petição nº 860150011812 de 23/01/2015, reivindicação 12 e petição nº
+02130066398 de 01/08/2013, reivindicação 88, dentre outras), o objeto estaria abarcado pela
+matéria previamente revelada pelo pedido.
+
+Entretanto, resta claro que o novo quadro reivindicatório modificado apresenta alterações de
+escopo de proteção que foram efetuadas após o requerimento de exame, a Exigência de
+pré-exame (6.20, RPI nº 2528 de 18/06/2019) e o primeiro exame técnico (6.1, RPI 2591 de
+01/09/2020), não tendo sido motivadas para satisfazer a necessidade de melhor esclarecer ou
+definir a matéria objeto de proteção, configurando acréscimo de matéria reivindicada, contrariando
+o disposto no Art. 32 da LPI segundo o entendimento da Resolução PR nº 093/2013 (Diretrizes
+sobre a aplicabilidade do disposto no Art. 32 da LPI nos pedidos de patentes, no âmbito do INPI).
+
+
+
+Observação: Seguindo os princípios de economia processual dispostos no Art. 220 da LPI, e
+pautando-se no entendimento do princípio de celeridade contido no âmbito da Resolução Nº
+                                                                                         Página 3
+                                           BR112013019699-8
+241/2019 e vigente Portaria INPI/DIRPA nº 01/07/2021 em substituição à Norma de Execução SEI
+nº 7/2019/DIRPA /PR, mesmo tendo sido constatado o descumprimento às disposições dos Arts.
+10 (IX) e 32 da LPI, conforme discutido acima e indicado no Quadro 2, estas irregularidades não
+foram consideradas para fins de conclusão do presente parecer.
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                   X
+Comentários/Justificativas
+Foi constatado que o novo quadro reivindicatório apresentado por meio da petição nº
+870200148515 de 25/11/2020, em resposta ao parecer técnico de exigência (6.1, RPI 2591 de
+01/09/2020), não cumpriu integralmente as exigências feitas e persistiu em irregularidades
+relacionadas diretamente à definição da matéria alvo de proteção da reivindicação principal, de
+forma a impactar todas as demais reivindicações. Tais inadequações foram anteriormente
+apontadas e configuram descumprimento às disposições do art 25 da LPI à luz das nas Diretrizes
+de Exame de Pedidos de Patente na Área de Biotecnologia (Resol. vigente INPI/PR 118/2020 em
+substituição à INPI/PR nº 144/2015).
+
+
+
+Sobre o quadro reivindicatório
+As reivindicações não atendem ao disposto no Art. 25 da LPI, Instrução Normativa INPI/PR nº
+30/2013 e Diretrizes de Exame de Pedidos de Patente na Área de Biotecnologia (Resol. INPI/PR
+nº 118/2020), pois a matéria pleiteada continua não definida de maneira clara, precisa e positiva
+pelas seguintes razões:
+
+
+Falta de fundamentação no relatório descritivo (reiv. 1-5):
+O Método de produção de um óleo permaneceu descrito de forma ampla (na reivindicação
+principal), de maneira que persiste em falta de fundamentação no relatório descritivo.
+
+
+Falta de clareza e precisão na definição da matéria alvo de proteção (reiv. 1-5):
+A reivindicação principal de Método de produção de um óleo em microalgas, apesar de ter
+apresentado melhoras na definição do microrganismo essencial à realização do método, ao
+informar que se trata da espécie Prototheca moriformis, permaneceu por não definir com clareza e
+precisão o método alvo de proteção, pois:
+- falta clareza e precisão na descrição da microalga geneticamente modificada indispensável ao
+método, uma vez que não define de maneira clara as características genéticas diferenciais da
+mesma, em relação aos ácidos nucleicos recombinantes que codificam um gene sacarose
+                                                                                         Página 4
+                                       BR112013019699-8
+invertase de Saccharomyces aos quais se refere (deveriam ter sido descritos por meio da SEQ ID
+correspondente ou da descrição de forma precisa e localizada com base em uma dada SEQ ID de
+referência);
+- o trecho a microalga compreendendo o silenciamento de um gene FatA acil-ACP tioesterase
+endógeno de Prototheca moriformis e ácidos nucleicos recombinantes que codificam um gene
+sacarose invertase de Saccharomyces cerevisiae, gera falta de clareza, pois da forma como
+descrito, leva a entender que o silenciamento gênico impactaria também os ácidos nucleicos
+recombinantes de Saccharomyces cerevisiae descritos;
+- não é informado qual o mecanismo de silenciamento empregado. Como há várias formas de
+silenciamento gênicos descritas no estado da técnica, essa informação é importante à clareza e
+precisão do método e para dar suporte à inventividade (informações abordadas nas reivindicações
+3, 4 e 5);
+- descrever características técnicas essenciais sobre o mecanismo de silenciamento gênico
+empregado apenas em reivindicações independentes gera falta de clareza em relação à definição
+do Método de produção de um óleo em microalgas alvo de proteção;
+
+
+Reivindicações 3, 4 e 5
+As reivindicações 3, 4 e 5 geram falta de clareza e de fundamentação nos resultados e exemplos
+concretizados no relatório descritivo, pois este não comporta todas as diferentes técnicas
+pleiteadas para a realização do método (uma construção de supressão de RNAi; uma construção
+de supressão de dsRNA; ou um construto de supressão de RNA antissentido);
+
+
+Observação: a reivindicação 6 não foi analisada devido à incidência no Art. 10 (IX) da LPI (vide
+comentários sobre o Quadro 2);
+
+
+Por fim, as reivindicações não atendem ao disposto no Art. 25 da LPI e Diretrizes de Exame de
+Pedidos de Patente na Área de Biotecnologia (Resol. INPI/PR nº 118/2020).
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                             Data de publicação
+     -                                    -                                          -
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+      Requisito de Patenteabilidade           Cumprimento              Reivindicações
+                                                  Sim                         1-5
+             Aplicação Industrial
+                                                  Não                          -
+                  Novidade                        Sim                         1-5
+
+                                                                                         Página 5
+                                       BR112013019699-8
+
+                                                   Não                           -
+
+                                                   Sim                           -
+           Atividade Inventiva
+                                                   Não                         1-5
+*A reivindicação 6 não foi analisada devido à incidência no Art. 10 (IX) da LPI (vide comentários
+sobre o Quadro 2).
+
+Comentários/Justificativas
+Inicialmente, faz-se importante comentar que, no parecer anterior (6.1, RPI 2591 de 01/09/2020),
+foi identificado que o pedido apresentado por meio da petição nº 870190076162 de 07/08/2019,
+em resposta à Exigência de pré-exame (6.20, RPI nº 2528 de 18/06/2019), na manifestação, não
+apresentava argumentações em defesa da novidade e atividade inventiva, atendo-se apenas a
+informar que o novo quadro reivindicatório teria sido baseado na correspondente concedida
+US8633012. Entretanto, foi informado que a matéria conforme descrita não estava definida de
+forma clara e precisa, descumpria as disposições do Art. 25 da LPI e Diretrizes de Exame de
+Pedidos de Patente na Área de Biotecnologia (Resol. INPI/PR nº 144/2015, substituída pela
+vigente Resol. INPI/PR nº 118/2020), e não evidenciava as características técnicas diferenciais e
+inventivas em relação ao estado da técnica.
+
+Também foi informado que, seguindo os princípios de economia processual dispostos no Art. 220
+da LPI, pautando-se no entendimento do princípio de celeridade contido no âmbito da Resol. Nº
+241/2019 e Norma de Execução SEI nº 7/2019/DIRPA /PR substituída pela vigente Portaria
+INPI/DIRPA nº 01/07/2021, era reconhecido que o presente pedido possuía potencial de cumprir
+os Requisitos de Patenteabilidade estipulados na LPI, e foram feitas exigências com vistas a
+conduzir uma descrição do objeto de forma clara e precisa, evidenciando os diferenciais
+inventivos, conforme disposições dos Arts. 24 e 25 da LPI balizados nas Diretrizes de Exame de
+Pedidos de Patente na Área de Biotecnologia (Resol. INPI/PR nº 144/2015, substituída pela
+vigente Resol. INPI/PR nº 118/2020).
+
+Entretanto, foi constatado que o novo quadro reivindicatório apresentado por meio da petição nº
+870200148515 de 25/11/2020, em resposta ao parecer técnico de exigência (6.1, RPI 2591 de
+01/09/2020), não cumpriu integralmente as exigências feitas e persistiu em irregularidades que
+acarretam permanência em falta de clareza, precisão e fundamentação na definição da matéria
+alvo de proteção, além de não evidenciar as características técnicas diferencias da invenção.
+
+Por esse motivo, a presente análise mantém o entendimento sobre a falta de atividade inventiva
+em relação às anterioridades apontadas na exigência preliminar (6.20, RPI 2528 de 18/06/2019) e
+parecer técnico anterior (6.1, RPI 2591 de 01/09/2020).
+
+
+
+
+Conclusão
+
+                                                                                         Página 6
+                                        BR112013019699-8
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 24 de fevereiro de 2021.
+
+
+
+
+Andre Luiz Jeovanio da Silva
+Pesquisador/ Mat. Nº 2315191
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+009/18
+
+
+
+
+                                                                                          Página 7
+

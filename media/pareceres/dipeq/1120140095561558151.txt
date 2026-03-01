@@ -1,0 +1,229 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112014009556-6          N.° de Depósito PCT:US2012/061060
+ Data de Depósito:                   19/10/2012
+ Prioridade Unionista:               US 61/549,711 (20/10/2011); US 61/645,543 (10/05/2012)
+ Depositante:                        OAKLEY, INC (US)
+ Inventor:                           BROCK SCOTT MCCABE, RYAN SAYLOR, CARLOS D REYES
+ Título:                             Óculos, laminado e respectivos métodos para fabricá-los 
+
+                                                                PARECER
+
+
+          Em resposta ao parecer técnico publicado na RPI nº 2656 de 30/11/2021, manifestou-se,
+tempestivamente, a requerente em petição nº 870220017482 de 25/02/2022. Em sua
+manifestação, a requerente apresenta um novo título (Óculos), resumo, relatório descritivo e
+um novo quadro reivindicatório composto de 15 reivindicações, assim como contra-argumentos
+relativos ao parecer denegatório de privilégio. Para fins de continuidade do exame estão sendo
+consideradas as seguintes vias abaixo:
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                   1  146               870220017482           25/02/2022
+Quadro Reivindicatório                                   16                 870220017482           25/02/2022
+Desenhos                                                1  64               020140019358           06/06/2014
+Resumo                                                      1                870220017482           25/02/2022
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR112014009556-6
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                  WO2011130314                               20/10/2011
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                   1  15
+            Aplicação Industrial
+                                                        Não                      ----
+                                                         Sim                   1  15
+                 Novidade
+                                                        Não                      ----
+                                                         Sim                     ----
+            Atividade Inventiva
+                                                        Não                    1  15
+
+
+
+Comentários/Justificativas
+
+         Em resposta ao parecer técnico publicado na RPI nº 2656 de 30/11/2021, manifestou-se,
+tempestivamente, a requerente em petição nº 870220017482 de 25/02/2022. Em sua
+manifestação, a requerente apresenta um novo título (Óculos), resumo, relatório descritivo e
+um novo quadro reivindicatório composto de 15 reivindicações, assim como contra-argumentos
+relativos ao parecer denegatório de privilégio.
+
+         Em sua manifestação o depositante afirma que o documento D1 não divulga            uma
+largura de banda espectral igual à largura total a 80% da absorbância máxima do pico de
+absorbância, além de não revelar que a largura de banda espectral do pico de absorbância da
+luz azul é inferior ou igual a 30 nm.
+
+         Analisando a argumentação do depositante em conjunto com o novo quadro
+reivindicatório e face ao documento citado D1, observa-se que a argumentação não se
+apresenta plausível, visto que D1 divulga sim uma largura de banda espectral igual à largura
+total a 80% da absorbância máxima do pico de absorbância [D1: parag.5 e 7, reiv.1] . Observa-se
+também que D1 também divulga a largura de banda espectral do pico de absorbância da luz
+azul é maior ou igual a 20 nm, o que colide a característica pleiteada no presente pedido da a
+
+
+
+                                                                                          Página 2
+                                           BR112014009556-6
+
+
+largura de banda espectral do pico de absorbância da luz azul é inferior ou igual a 30 nm [D1:
+parag.10 e 27, reiv.1 , 56 e 57] .
+
+        Observa-se que as demais características da reivindicação 1 já se encontram reveladas
+em D1, conforme abaixo:
+
+       Óculos compreendendo um corpo de lente [D1:fig.1A, ref.102] que compreende um filtro
+        óptico configurado para atenuar a luz visível numa pluralidade de bandas espectrais
+        [D1:parág.5, 7, 26, 131  133] ;
+
+        uma da pluralidade de bandas espectrais: um pico de absorvância com uma largura de
+        banda espectral [D1:parág.5, 7, 132] ;
+       uma absorvância máxima [D1:parág.5, 7, 10,132] ;
+       um comprimento de onda central situado num ponto médio da largura da banda espectral
+        [D1:parág.10,132] ;
+       uma área integrada de pico de absorvância dentro da largura da banda espectral
+        [D1:parág.5, 7, 11,130] ;
+       o filtro óptico compreende um pico de absorvância de luz azul [D1:parág.27, reiv.56]; em que
+        o comprimento de onda central do pico de absorvância de luz azul é entre 445 nm e
+        480 nm [D1: fig.11, parág.27, reiv.56];
+       um fator de atenuação do pico de absorvância de luz azul é maior ou igual a 0,8 e
+        menor do que 1[D1: fig.11, parág.27, reiv.58];
+       o fator de atenuação de um pico de absorvância é obtido dividindo-se uma área integrada
+        do pico de absorvância dentro da largura de banda espectral pela largura de banda do
+        espectro do pico de absorvância [D1: parág.5, 7, 11, 26 reiv.55];
+
+
+        Assim sendo, um técnico no assunto, a partir do revelado em D1, pode sugerir ou propor o
+óculos pleiteado na reivindicação 1, de modo que o objeto da reiv.1 decorre de modo óbvio do
+estado da técnica, não apresentando atividade inventiva.
+        Observa-se também que as características da reivindicação 2 já se encontram reveladas
+em D1, conforme abaixo:
+
+       filtro óptico que inclui um ou mais corantes de intensificação de crominância configurados
+        para atenuar a luz visível numa pluralidade de bandas espectrais [D1: parág.6, 18];
+       pluralidade de bandas espectrais [D1:parág.5, 7, 132] ;
+       um pico de absorbância com uma largura de banda espectral [D1:parág.5, 7, 132] ;
+       uma absorvância máxima [D1:parág.5, 7, 10,132] ;
+       um comprimento de onda central situado num ponto médio da largura de banda espectral
+        [D1:parág.10,132] ;
+       uma área integrada do pico de absorbância dentro da largura de banda espectral
+        [D1:parág.5, 7, 11,130] ;
+
+
+
+
+                                                                                              Página 3
+                                              BR112014009556-6
+
+          em que a largura de banda espectral é igual à largura total do pico de absorbância a 80%
+           da absorbância máxima do pico de absorbância [D1: parag.5 e 7, reiv.1] ;
+          em que pelo menos um dos um ou mais corantes de intensificação de crominância tem um
+           pico de absorbância de luz azul [D1: parág.27];
+          em que o comprimento de onda central do pico de absorbância de luz azul é entre
+           445 nm e 485 nm [D1: parág.27];
+          em que a largura de banda espectral do pico de absorbância a luz azul é menor ou igual a
+           30 nm [D1: parag.10 e 27, reiv.1 , 56 e 57] ;
+          em que um fator de atenuação do pico de absorvância da luz azul é o maior ou igual
+           a 0,8 e menor do que 1 [D1: parág.26, 27, 28];
+          em que o fator de atenuação de um pico de absorvância é obtido dividindo uma área
+           integrada do pico de absorvância dentro da largura de banda espectral pela largura de
+           banda do espectro do pico de absorvância [D1: parág.26];
+          em que o filtro óptico está configurado para aumentar o valor médio de crominância de
+           estímulos luminosos de intensidade uniforme tendo uma largura de banda de 30 nm,
+           transmitidos através do filtro óptico dentro de uma gama espectral de 440 nm a 480
+           nm,    em comparação com um filtro neutro que atenua uniformemente a mesma
+           percentagem média de luz que o filtro óptico na gama espectral de 440 nm a 480 nm,
+           quando são comparadas as saídas resultantes das entradas de intensidade uniforme
+           tendo uma largura de banda de 30 nm e um comprimento de onda central dentro da
+           gama espectral [D1: parág. 25, 30, 111, 119];
+
+
+       Assim sendo, um técnico no assunto, a partir do revelado em D1, pode sugerir ou propor o
+óculos pleiteado na reivindicação 2, de modo que o objeto da reiv.2 decorre de modo óbvio do
+estado da técnica, não apresentando atividade inventiva.
+
+
+       Nas demais reivindicações dependentes não foram identificadas características que,
+mesmo quando combinadas com as características de qualquer reivindicação independente a que
+se referem, venham a prover atividade inventiva à matéria.
+
+
+       Portanto, as reivindicações apresentadas não contemplam efeitos técnicos que não
+tenham sido previstos pelo estado da técnica, pleiteando características consideradas óbvias para
+um técnico no assunto, o que configura uma situação onde não se vislumbram indícios de
+atividade inventiva.
+
+Conclusão
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+       -      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+
+
+
+                                                                                             Página 4
+                                      BR112014009556-6
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                               Rio de Janeiro, 6 de abril de 2022.
+
+
+
+
+Luis Andre Subtil Machado
+Pesquisador/ Mat. Nº 1474612
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                        Página 5
+

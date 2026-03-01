@@ -1,0 +1,255 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI1102899-8               N.° de Depósito PCT:
+ Data de Depósito:                   22/06/2011
+ Prioridade Unionista:               -
+ Depositante:                        TECNOLOGIA BANCÁRIA S.A. (BRSP)
+ Inventor:                           NELSON TAVARES DE PINHO
+ Título:                             Método para desenvolvimento de tratamento de chip nas transações
+                                     de saque, desbloqueio de cartão e troca de senha de um chip 
+
+                                                              PARECER
+          O presente pedido refere-se a um MÉTODO PARA DESENVOLVIMENTO DE
+TRATAMENTO DE CHIP NAS TRANSAÇÕES DE SAQUE, DESBLOQUEIO DE CARTÃO E
+TROCA DE SENHA DE UM CHIP, o qual prevê Transações de Saque Débito, Saque Crédito
+(com ou sem consulta), Saque CDC, Saque Débito com função CDC, Saque Crédito com
+Função CDC, Saque INSS, Saque Poupança, Alteração de Senha (Troca de senha do chip) e
+Desbloqueio de Cartão tratados no modo EMV FULL, sendo que a autenticação do chip pode
+ser realizada junto com a solicitação dos dados da transação, quando a instituição quiser tratar
+chip na mensagem de consulta de dados transacionais, e junto com a autorização da transação;
+o envio das informações para autenticação do chip (bit 55) é feito na solicitação de consulta de
+dados, se for a opção da instituição, e na autorização da transação; a geração do primeiro
+criptograma (ARQC) é realizada após a escolha e digitação de todos os dados da transação até
+o momento do envio da mensagem para a instituição financeira; os dados da transação (código
+de processamento, valor, data, etc.) são utilizados na geração do primeiro criptograma quando
+disponível.
+
+          Em 11/09/2020, por meio da petição 870200115432, o Depositante apresentou
+argumentações e modificações no quadro reivindicatório do pedido em resposta ao parecer
+emitido no âmbito da Resolução Nº 240/2019, notificado na RPI 2580 de 16/06/2020 segundo a
+exigência preliminar (6.22).
+
+          Em 05/03/2021, por meio da petição 870210021244, o Depositante apresentou
+modificações no pedido em resposta ao parecer emitido, notificado na RPI 2609 de 05/01/2021
+(despacho 7.1). Estas modificações estão consideradas no Quadro 1.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                    1 a 11               870200115432     11/09/2020
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                                 PI1102899-8
+
+
+Quadro Reivindicatório                     1a4                  870210021244              05/03/2021
+Desenhos                                   1a4                  870200115432              11/09/2020
+Resumo                                       1                  870200115432              11/09/2020
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                             Sim                Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                            X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                    X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                        X
+O pedido está de acordo com disposto no art. 32 da LPI                         X
+Comentários/Justificativas: --
+
+                Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                             Sim                Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI           X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI         X
+Comentários/Justificativas:
+
+   1. As irregularidade apontadas no parecer anterior foram sanadas de forma satisfatória. A
+         antiga reivindicação 8 foi removida e o trecho da reivindicação 6 foi corrigido de forma a
+         sanar a falta de clareza.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                 Data de publicação
+    D1       WO2007143740                                                             13/12/2007
+    D2       WO2009149348                                                             10/12/2009
+    D3       US2005033688                                                             10/02/2005
+    D4       Smart Card Alliance / Card Payments Roadmap in the United                    02/2011
+             States: How Will EMV Impact the Future Payments
+             Infrastructure?
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento             Reivindicações
+                                                         Sim                        1a7
+            Aplicação Industrial
+                                                         Não                         --
+                                                         Sim                        1a7
+                  Novidade
+                                                         Não                         --
+
+
+
+                                                                                               Página 2
+                                           PI1102899-8
+
+
+                                                    Sim                      --
+          Atividade Inventiva
+                                                    Não                     1a7
+Comentários/Justificativas
+
+   1. Foram apresentadas as seguintes alegações referentes à anterioridade D4:
+
+      1. ESPECIFICAÇÕES EMV GLOBAIS PARA CARTÕES BANCÁRIOS COM BASE NA
+          TECNOLOGIA DE CARTÃO COM CHIP. AS ESPECIFICAÇÕES EMV, DISPONÍVEIS
+          PELA PRIMEIRA VEZ EM 1996 E GERENCIADAS PELA EMVCO, DEFINEM O
+          PADRÃO INTEROPERÁVEL GLOBAL PARA CARTÕES BANCÁRIOS INTELIGENTES
+          E A INFRAESTRUTURA DE PONTO DE VENDA (POS) QUE A ACOMPANHA.
+
+          A AMERICAN EXPRESS ANUNCIOU SEU ROADMAP DE EMV NOS EUA, QUE
+          ALINHA AS DATAS DE MIGRAÇÃO COM AS OUTRAS MARCAS DE PAGAMENTO E
+          AFIRMA QUE A EMISSÃO DE CARTÕES COMPATÍVEIS COM EMV NOS EUA TERÁ
+          INÍCIO NA SEGUNDA METADE DE 2012.
+
+          CARTILHA SOBRE AS ESPECIFICAÇÕES EMV E AS PRINCIPAIS OPÇÕES DE
+          IMPLEMENTAÇÃO PARA EMISSORES, ADQUIRENTES / PROCESSADORES,
+          COMERCIANTES E OPERADORES DE ATM. OS PRINCIPAIS MARCOS E
+          ORIENTAÇÕES ANUNCIADAS PELAS MARCAS DE PAGAMENTO PARA A
+          MIGRAÇÃO EMV DOS EUA. A RELAÇÃO ENTRE EMV, PAGAMENTOS SEM
+          CONTATO     E      NEAR    FIELD      COMMUNICATION     (NFC).     AS   MUDANÇAS
+          NECESSÁRIAS         NA         EMISSÃO,     AQUISIÇÃO       /    PROCESSAMENTO,
+          INFRA-ESTRUTURA DE PAGAMENTOS DE COMERCIANTE                        E ATM       PARA
+          SUPORTAR AS DIFERENTES OPÇÕES DE ROTEIRO EMV.
+
+          O SMART CARD ALLIANCE PAYMENTS COUNCIL CRIOU ESTE WHITE PAPER
+          PARA EDUCAR OS INTERESSADOS NA CADEIA DE VALOR DE PAGAMENTOS
+          SOBRE OS ASPECTOS CRÍTICOS DA IMPLANTAÇÃO DE UMA SOLUÇÃO EMV EM
+          SEUS    AMBIENTES         DE     NEGÓCIOS.      APRESENTA       CONTEÚDO       SOBRE
+          PAGAMENTO ORIENTAÇÃO, MARCOS DA MARCA, CONTEÚDO NOVO E
+          REVISADO SOBRE AS DE IMPLEMENTAÇÃO DO EMV
+
+          O SMART CARD ALLIANCE PAYMENTS COUNCIL CONCENTRA-SE EM FACILITAR
+          A ADOÇÃO DE PAGAMENTOS COM CHIP E APLICATIVOS DE PAGAMENTO NOS
+          EUA POR MEIO DE PROGRAMAS EDUCACIONAIS PARA CONSUMIDORES,
+          COMERCIANTES,         EMISSORES,          ADQUIRENTES       /    PROCESSADORES,
+          REGULADORES GOVERNAMENTAIS, PROVEDORES DE TELECOMUNICAÇÕES
+          MÓVEIS E PROVEDORES DE SERVIÇOS DE PAGAMENTOS.
+
+          PROJETOS RELACIONADOS À IMPLEMENTAÇÃO DE EMV, PAGAMENTOS SEM
+          CONTATO,     PAGAMENTOS           E   APLICATIVOS    HABILITADOS        PARA    NFC,
+          PAGAMENTOS MÓVEIS E E-COMMERCE HABILITADO PARA CHIP.
+
+
+
+
+                                                                                     Página 3
+                                       PI1102899-8
+
+
+       INFORMAR E EDUCAR O MERCADO SOBRE O VALOR DOS PAGAMENTOS
+       HABILITADOS       COM        CHIP   PARA      MELHORAR         A    SEGURANÇA         DA
+       INFRAESTRUTURA          DE    PAGAMENTOS         E   AUMENTAR        O    VALOR     DOS
+       PAGAMENTOS E APLICATIVOS RELACIONADOS A PAGAMENTOS PARA AS
+       PARTES INTERESSADAS DA INDÚSTRIA. A PARTICIPAÇÃO NO CONSELHO ESTÁ
+       ABERTA A QUALQUER MEMBRO DA SMART CARD ALLIANCE QUE DESEJE
+       CONTRIBUIR COM OS PROJETOS DO CONSELHO.
+
+   2. Por fim, o documento não patentário apontado no Relatório de Busca Smart Card
+       Alliance/Card Payments Roadmap in the United States: How Will EMV Impact the
+       Future Payments Infrastructure?, de 02/2011 I, também mostra matéria divergente da
+       matéria pleiteada no documento PI1102899-8, pois, neste artigo, é mostrada uma
+       solução de utilização de cartão por aproximação e a matéria revelada no
+       documento PI1102899-8 é um método para desenvolvimento de tratamento de um chip
+       em transações de saque, desbloqueio de cartão e troca de senha de um chip.
+
+2. Segue a análise das considerações interpostas pela requerente:
+
+   1. O requerente, no quadro técnico comparativo, expõe as características das
+       especificações EMV ao qual o documento D4 está relacionado e informa que o
+       documento D4 está relacionado a divulgação da tecnologia de pagamento baseado
+       nos protocolos criador pela EMV. É importante destacar que a requerente inicia a
+       argumentação da matéria contida em D4 com a frase ESPECIFICAÇÕES EMV
+       GLOBAIS PARA CARTÕES BANCÁRIOS COM BASE NA TECNOLOGIA DE CARTÃO
+       COM CHIP. ou seja, a requerente está afirmando que o documento D4 está
+       relacionado a operações de cartões com chips, conforme reivindicado no presente
+       pedido.
+
+   2. O documento não patentário D4 diz explicitamente no capítulo 2 no trecho EMV is an
+       open-standard set of specifications for smart card payments and acceptance devices.
+       EMVCo, owned by American Express, JCB, MasterCard, and Visa, manages, maintains
+       and enhances the EMV specifications, to ensure global interoperability of chip-based
+       payment cards with acceptance devices including point of sale terminals and ATMs.
+       The specifications address interoperability at two levels. Level 1 defines the
+       electromagnetic and physical characteristics of cards and readers, while Level 2
+       defines data elements and protocols. (D4, seção 2.1) que o EMV é um padrão para
+       pagamentos utilizando cartões pagamento que possuem chip, sendo divididos em
+       características físicas (Level 1 defines the electromagnetic and physical characteristics
+       of cards and readers) e características dos protocolos (Level 2 defines data elements
+       and protocols.), ou seja, abstraindo os elementos físicos do protocolo de
+       comunicação.
+
+       Dessa forma, não importa se chip do cartão é lido por meio de contatos físicos ou por
+       meio de antenas, como já previsto em D4 The interface with the reader can be a
+
+
+
+                                                                                        Página 4
+                                              PI1102899-8
+
+
+             contact interface or a contactless interface. Dual-interface cards include both interfaces
+             and, depending on the options available at the acceptance location, can communicate
+             over either the contact or contactless interface. (D4, seção 2). O método de tratamento
+             das operações é realizado independente do tipo de leitura do chip.
+
+          3. Não foram apresentados argumentos novos em relação aos já apresentados
+             anteriormente. Os argumentos já foram discutidos no parecer anterior. Dessa forma, os
+             mesmos argumentos apresentados no parecer anterior são mantidos, e o documento
+             D4 possui elementos relevantes e relacionados ao presente pedido.
+
+   3. Prosseguindo, o quadro reivindicatório foi alterado, entretanto as alterações se limitaram a
+          remover a matéria que continha trechos explicativos. Nenhum conteúdo de outras
+          reivindicações ou do relatório descritivo foi adicionado a matéria das reivindicações.
+
+   4. Sendo assim os mesmo argumentos do parecer anterior são mantidos e a reivindicação
+          independente 1 é óbvia frente a D4. Portanto, a matéria pleiteada nas reivindicações 1 a 8
+          é mera decorrência do estado da técnica, não apresentando atividade inventiva, e estando
+          em desacordo com os artigos 8º e 13 da lei nº 9.279/96 (LPI)
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -     não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                    Publique-se o indeferimento (9.2).
+
+
+
+                                                                 Rio de Janeiro, 16 de março de 2021.
+
+
+
+
+Daniel de Souza Dias
+Pesquisador/ Mat. Nº 2041265
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+007/16
+
+
+
+
+                                                                                              Página 5
+

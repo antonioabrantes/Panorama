@@ -1,0 +1,155 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112020025305-7         N.° de Depósito PCT:EP2019/065408
+ Data de Depósito:                   12/06/2019
+ Prioridade Unionista:               EP 18178029.7 (15/06/2018)
+ Depositante:                        AB SANDVIK MATERIALS TECHNOLOGY (SE)
+ Inventor:                           SARA WIKLUND; TOMAS FORSMAN
+ Título:                             Uma tira de aço inoxidável duplex e método para produção da
+                                     mesma 
+
+                                                              PARECER
+
+
+   Após notificação de despacho de ciência (código 7.1) na RPI nº 2704 em 01/11/2022,
+a Requerente impetrou a petição de número 870230007751 em 27/01/2023, onde
+apresenta resposta à ciência. Nessa petição não foram apresentadas novas vias do
+pedido.
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-25               870220048152           01/06/2022
+Quadro Reivindicatório                                     1-5               870220048152           01/06/2022
+Desenhos                                                   ---                     ---                  ---
+Resumo                                                     1-1               870220048152           01/06/2022
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                       x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                Página 1
+                                           BR112020025305-7
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                 CN 107829043                                23/03/2018
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                    1-14
+           Aplicação Industrial
+                                                        Não                      ---
+                                                         Sim                    1-14
+                 Novidade
+                                                        Não                      ---
+                                                         Sim                     ---
+           Atividade Inventiva
+                                                        Não                     1-14
+
+
+
+Comentários/Justificativas
+
+   Na defesa de mérito do pedido a Requerente alega que no pedido é reivindicado em
+R1 uma microestrutura com camadas alternadas de ferrita e austenita com espessura
+entre média entre 1,0-4,0 m e que não é revelado em D1 por escrito. E nas figuras (3a
+e 3b de D1) estão apenas reveladas as fases ferrita e austenita e não apresentam um
+arranjo de foma essencialmente paralela e as camadas na figura 3a não estaria com
+espessura média de 1,0-4,0 m. A tira em D1 já após o tratamento térmico (recozimento)
+não teria o mesmo limite de escoamento e resistência mecânica do que o reivindicado
+em R1.
+
+    Deve ser esclarecido à Requerente que em regra, reivindicações que tentam definir a
+invenção em função do resultado a alcançar não são permitidas. A invenção pode ser
+descrita por meio de aspectos estruturais ou aspectos funcionais ou ambos, as
+reivindicações não devem declarar o que a invenção faz (vantagens). Os valores de
+propriedades mecânicas da tira, após laminação a frio e recozimento, são apenas
+valores a serem objetivados em função de um produto e processo associados, uma
+invenção não é definida pelo resultado a ser atingido. Produto e processo, como dito no
+
+
+
+                                                                                          Página 2
+                                   BR112020025305-7
+
+
+primeiro exame, extremamente similares que seriam óbvios para um técnico no assunto
+ao conhecer D1 e saber dos efeitos dos parâmetros de laminação e tratamento térmico,
+assim como, dos efeitos dos elementos na liga, e alterar estes nas suas faixas de
+conhecimento e obter maiores valores de propriedades mecânicas. É nítido nas figuras
+3a e 3b de D1 que temos uma microestrutura de camadas alternadas de fase ferrita e
+fase austenita essencialmente paralelas com o plano da tira e com uma média de
+camada espessura entre cerca de 1,0 a cerca de 4,0 m, como reivindicado em R1. A
+figura 3a de D1 é bem nítida, assim como a espessura média, e não houve necessidade
+de descrever isso no texto, assim como, no pedido não há figuras metalográficas para
+boa comparação e uma descrição clara (visual) do que seriam as camadas paralelas
+que parecem estar bem definida na figura 3a e 3b de D1.
+
+    As reivindicações independentes de tira de aço inoxidável duplex R1, e método para
+fabricação de uma tira de aço R12, têm um efeito de mesma natureza e não
+significantemente superior em que um técnico no assunto é capaz de esperar com o
+conhecimento da anterioridade D1. R1 e R12 não possuem atividade inventiva e não
+atendem aos Art. 8º c/c 13 da LPI. Não foram observadas características adicionais nas
+reivindicações dependentes que, em combinação com a reivindicação independente ao
+qual se referiam, pudessem atender ao requisito de atividade inventiva de acordo com
+Art. 8º c/c 13 da LPI.
+     Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+     -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da
+         LPI)
+
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a
+partir da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                       Publique-se o indeferimento (9.2).
+
+
+
+                                                 Rio de Janeiro, 16 de fevereiro de 2023.
+
+
+
+
+Alberto de Andrade Fernandes
+Pesquisador/ Mat. Nº 2316308
+DIRPA / CGPAT IV/DIMAT
+Deleg. Comp. - Port. INPI/DIRPA Nº
+012/18
+
+
+
+
+                                                                                 Página 3
+

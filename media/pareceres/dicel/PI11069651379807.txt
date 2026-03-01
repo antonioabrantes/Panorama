@@ -1,0 +1,303 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI1106965-1                 N.° de Depósito PCT:
+ Data de Depósito:                   20/12/2011
+ Prioridade Unionista:               -
+ Depositante:                        Net-Fit Tecnologia da Informação Ltda (BRSP)
+ Inventor:                           Flavio Junqueira Cimino
+ Título:                             Sistema analisador de pragas e doenças em lavouras e pomares via
+                                     celular 
+
+                                                              PARECER
+
+
+          O pedido em questão solicita proteção para um sistema analisador de pragas e doenças
+em lavouras e pomares via celular, contendo um sistema embarcado em um aparelho celular
+com acesso a internet, camera e GPS, com aplicativo formado pela junção de um software para
+analise digital da praga ou doença fotografa pelo referido celular.
+
+
+
+          O presente pedido foi fruto de exigência preliminar de exame onde foram apontados
+documentos do estado da tecnica que abordava a materia e poderiam antecipar as
+reivindicaçoes do atual pedido. Atraves da petição 870200004605 de 10/01/2020 o cliente
+apresentou novas vias com suas consideraçoes sobre os pedidos apontados na etapa de
+preliminar. Após verificar todos os documentos foi emitido parecer de ciência 7.1, principalmente
+devido a FALTA DE DESCRICAO TECNICA sobre como a imagem capturada e comparada
+com um banco de dados (qual tecnica, algoritmo, criterio) para que se obtenha as orientacoes
+estrategicas e operacionais. Nao foi descrito aparato tecnico, funcao, algoritmo, tecnica ou
+qualquer descricao que permita a um tecnico no assunto reproduzir o que e pedido como
+protecao.
+
+
+
+          Atraves da petição 870200150745 de 30/11/2020 o requerente apresenta argumentaçoes
+sobre o parecer e esta manifestação foi cuidadosamente analisada. Embora o requerente tente
+detalhar o processo de tratamento da imagem [Pag. 10] e do banco de dados [Pag. 11], ha uma
+falha grave ao omitir o item PRINCIPAL do referido sistema: o requerente não apresenta qual
+algoritmo e utilizado (ou como e feito) para diferenciar uma imagem de folha saudavel de uma
+imagem de folha não saudavel. O requerente nao apresenta quais os criterios e
+possibilidades para classificar, realizar uma analise e/ou emitir uma recomendacao. Sem
+essa informacao o tecnico no assunto e incapaz de reproduzir o sistema. Sem a
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                      Pagina 1
+                                           PI1106965-1
+
+informacao de COMO e feita a analise e quais os criterios possíveis para essa analise e
+IMPOSSIVEL DEFINIR UM SISTEMA ANALISADOR. No entendimento do examinador, mesmo
+com diversas omissoes do relatório descritivo, um tecnico no assunto poderia capturar uma
+imagem com o smartphone/celular, a imagem poderia ser digitalizada incluindo informaçoes de
+metadados (GPS, horario), a imagem ser enviada para um servidor central atraves da internet
+mas nesse ponto o tecnico no assunto sera incapaz de reproduzir a comparacao das
+imagens, uma vez que o algoritmo de comparacao de imagens nao e informado em
+nenhum momento.
+
+
+
+       Faltam as definiçoes tecnicas de [no minimo] o servidor central (7), falta definição
+tecnica de no qual um software (8) especifico, falta descrição funcional de ...realiza a
+comparacao da fotografia com um banco de dados (9) com inumeras imagens de pragas e
+doencas catalogadas..., falta descrição dos criterios e possibilidades para exarando a analise
+(10).... Outrossim, os desenhos apresentados não são conclusivos quanto a isso.
+
+
+
+       Uma vez que o pedido falha na definição, não atende aos Arts. 24 e 25 e não apresenta
+condiçoes de proteção. Atraves da petição 870200150745 de 30/11/2020 o requerente versa na
+Pag. 12 que incluiu os itens do estado da tecnica no preambulo, porem a reivindicação sequer
+contem preambulo, apresenta erros referentes a extensão dos arquivos (JPEG e PNG), e ampla
+e abstrata ao se referir aos termos que deveriam ser tecnicos com inumeras (imagens de
+pragas e doenças catalogadas) e contem trechos explicativos, de forma que infringe em
+diversas partes o orientado pela LPI e diretriz de exame. Portanto, devido aos motivos expostos,
+o pedido deve ser indeferido, uma vez que e impossivel identificar como invenção, aferir o efeito
+tecnico e avaliar o distanciamento dos documentos buscados [D1, por exemplo] para um pedido
+que não atende aos itens basicos das orientaçoes de LPI e diretriz de exame. Toda esta analise
+feita, salienta-se que o requerente acrescentou materia de forma indevida, infringindo o Art. 32.
+Desta forma, consideramos o ultimo relatório descritivo validoe foi emitido novo parecer de
+ciência.
+
+
+
+       DOS NOVOS FATOS: Atraves da petição 870210022269 de 09/03/2021 o requerente
+apresenta novas alegaçoes e consideraçoes sobre o pedido. Anexa tambem novas vias sobre o
+mesmo.
+
+
+
+       Após respeitosamente analisar o pleito do requerente, o examinador discorda das
+consideraçoes apresentadas. O pedido esta baseado em uma ferramenta, porem essa
+ferramenta não e descrita. Não e valido o argumento que não poderia ser citado o software ou
+metodo ou algoritmo, pois e possivel descrever um metodo e um sequencia de etapas sem
+
+                                                                                           Pagina 2
+                                               PI1106965-1
+
+sequer dizer que o mesmo e um software. O pedido carece de suficiência descritiva justamente
+por não apresentar TODAS as etapas necessarias para sua reprodução, de forma que, os
+pareceres anteriores estão limitados ao escopo tecnico e, portanto, respeitosamente
+entendemos que devem ser mantidos. Ressaltamos, portanto, os trechos a seguir: Nao foi
+descrito aparato tecnico, funcao, algoritmo, tecnica ou qualquer descricao que permita a
+um tecnico no assunto reproduzir o que e pedido como protecao. e O requerente nao
+apresenta quais os criterios e possibilidades para classificar, realizar uma analise e/ou
+emitir uma recomendacao. Sem essa informacao o tecnico no assunto e incapaz de
+reproduzir o sistema. Sem a informacao de COMO e feita a analise e quais os criterios
+possiveis para essa analise e IMPOSSIVEL DEFINIR UM SISTEMA ANALISADOR. No
+entendimento do examinador, mesmo com diversas omissoes do relatorio descritivo, um tecnico
+no assunto poderia capturar uma imagem com o smartphone/celular, a imagem poderia ser
+digitalizada incluindo informacoes de metadados (GPS, horario), a imagem ser enviada para um
+servidor central atraves da internet mas nesse ponto o tecnico no assunto sera incapaz de
+reproduzir a comparacao das imagens, uma vez que o algoritmo de comparacao de
+imagens nao e informado em nenhum momento.
+
+
+
+                             Quadro 1  Paginas do pedido examinadas
+         Elemento                        Paginas                 n.o da Petição         Data
+
+Relatório Descritivo           04 Pags. (14 a 17 do pdf)          870210022269        09/03/2021
+Quadro Reivindicatório             01 Pag. (18 do pdf)            870210022269        09/03/2021
+Desenhos                       02 Pags. (13 a 14 do pdf)          870200004605        10/01/2020
+Resumo                             01 Pag. (19 do pdf)            870210022269        09/03/2021
+
+
+ Quadro 2  Consideracões referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                 Sim         Nao
+A materia enquadra-se no art. 10 da LPI (não se considera invenção)                        X
+A materia enquadra-se no art. 18 da LPI (não e patenteavel)                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                            X
+O pedido esta de acordo com disposto no art. 32 da LPI                            X
+Comentarios/Justificativas
+
+Não ha consideração sobre o quadro acima.
+
+               Quadro 3  Consideracões referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                 Sim         Nao
+O relatório descritivo esta de acordo com disposto no art. 24 da LPI                       X
+                                                                                            Pagina 3
+                                              PI1106965-1
+
+O quadro reivindicatório esta de acordo com disposto no art. 25 da LPI                      X
+Comentarios/Justificativas
+
+O pedido foi objeto de extensa discussão sobre os Arts. 24 e 25. Foi descrito ao requerente que
+o pedido carece de informaçoes essenciais para a reprodução e que o tecnico no assunto e
+incapaz de atingir o efeito tecnico proposto de posse do relatório descritivo. Sendo assim, o
+pedido não esta apto a ser protegido.
+
+
+
+       Como descrito nos pareceres anteriores, segue na integra a base para o indeferimento,
+de acordo com a legislação. O artigo 24 da LPI, descrito tambem no item 2.13 da diretriz de
+exame vigente (Diretriz Geral de Exame, modulo 1 capitulo 2) versa que o pedido devera
+apresentar a invencao de maneira suficientemente clara e precisa, a ponto de ser reproduzida
+por um tecnico no assunto. O relatorio descritivo devera conter condicoes suficientes que
+garantam a concretizacao da invencao reivindicada, continuando no item 2.15 com Neste
+contexto, deve ser assegurado que o pedido contenha informacao tecnica suficiente para
+permitir que um tecnico no assunto:
+
+
+
+       (i) coloque a invencao em pratica, tal como reivindicada, sem experimentacao indevida;
+
+       (ii) entenda a contribuicao da invencao para o estado da tecnica ao qual a mesma
+pertenca.
+
+
+
+Por experimentacao indevida entende-se quando um tecnico no assunto, a partir do revelado na
+invencao, necessita de experimentacao adicional para realizar a mesma.
+
+
+
+       O relatório descritivo falha em mencionar como e feita o tratamento da imagem no
+hardware de captura (celular); tambem falha em descrever TECNICAMENTE como a imagem
+capturada e comparada com um banco de dados (qual tecnica, algoritmo, criterio) para que se
+obtenha as orientaçoes estrategicas e operacionais. Não e descrito aparato tecnico, função,
+algoritmo, tecnica ou qualquer descrição que permita a um tecnico no assunto reproduzir o que e
+pedido como proteção. Art. 24 da LPI.
+
+
+
+       Apesar do requerente ter apresentado novo texto para a reivindicação principal, o
+elemento caracterizando e um aplicativo de celular que captura e envia a um servidor que
+compara e trata as imagens. Nesse ponto, reitera-se o que fora dito nos demais pareceres,
+reproduzidor na integra a seguir:
+
+
+
+
+                                                                                            Pagina 4
+                                           PI1106965-1
+
+         O artigo 25 da LPI estabelece que as reivindicaçoes deverão ser fundamentadas no
+relatório descritivo, caracterizando as particularidades do pedido e definindo, de modo claro e
+preciso, a materia objeto da proteção. Isso significa que deve haver base no relatório descritivo
+da materia objeto de cada reivindicação e que o escopo das reivindicaçoes não deve ser mais
+amplo do que o conteudo do relatório descritivo e desenhos, se houver, e com base na
+contribuição ao estado da tecnica. Isto exposto, ha uma objeção de falta de fundamentação, nos
+termos do artigo 25 da LPI, relacionada a objeção de insuficiência descritiva da invenção nos
+termos do artigo 24 da LPI citado acima. Neste contexto, a objeção reside no fato de que o
+pedido, tal como revelado, e insuficiente para permitir a um tecnico no assunto realizar a
+"invenção" ao longo de todo o campo reivindicado. Sendo assim, entendemos que o pedido não
+possui condiçoes de proteção pois omite a caracteristica e/ou elemento que seria caracterizante
+(Materia a se incluir após o caracterizado por). Os itens apontados após o caracterizado por
+são itens pertencentes ao estado da tecnica, tais como celular com camera, servidor, bando de
+dados SEM DETALHAMENTO FUNCIONAL OU EFEITO TECNICO que justifique sua inclusão
+como invenção.
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                               Data de publicacao
+    D1       US2008157990                                                             03/07/2008
+
+
+    Quadro 5  Analise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento                Reivindicacões
+                                                    Sim                           -
+            Aplicacao Industrial
+                                                    Não                           -
+                                                    Sim                           -
+                 Novidade
+                                                    Não                           -
+
+                                                    Sim                           -
+            Atividade Inventiva
+                                                    Não                          1
+Comentarios/Justificativas
+
+
+
+         Embora o requerente tenha reformulado o pedido e apresentado consideraçoes, o
+quadro reivindicatório proposto segue ABSTRATO. Como mostrado nos quadros anteriores e
+impossivel caracterizar e reproduzir uma invenção com as informaçoes fornecidas. Sendo
+assim, mantemos a posição que o pedido contem irregularidade impeditivas que IMPEDEM a
+proteção do mesmo. Por economia processual, foi respeitosamente feito o apontamento frente
+aos Requisitos de Patenteabilidade dos Arts. 8.o, 11, 13 e 15 da LPI.
+
+
+                                                                                            Pagina 5
+                                           PI1106965-1
+
+       Na ausência de definição, demonstração e ate mesmo referência as caracteristicas
+tecnicas que definem um sistema como o referido no pedido, entende-se que qualquer das
+anterioridades citadas, no caso D1 [Ver Fig. 03, PAR 0007-0011 e 0041] antecipam o uso de
+camera, GPS, banco de dados remoto e comunicação entre servidor e aparelho. Não ha, na
+redação submetida, EFEITO TECNICO e caracteristica tecnica a ser analisada e, portanto, a
+reivindicação 01 não possui atividade inventiva.
+
+
+
+Conclusao
+
+
+O pedido em questão carece de suficiência descritiva Art. 24 pois o mesmo não descreve de
+forma clara, precisa e suficiente para que um tecnico no assunto pudesse reproduzir a invenção
+(insuficiência descritiva), tambem carece de clareza e definição referente ao Art. 25. Aliado a
+isto, com a redação atual não e possivel distanciar o pedido do estado da tecnica, de forma que
+o pedido tambem não contem atividade inventiva Art. 8 combinado com 13, resultando em não
+atingir a condição de proteção.
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   não apresenta suficiência descritiva (Art. 24 da LPI)
+
+      -   as reivindicaçoes estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                              Rio de Janeiro, 17 de março de 2021.
+
+
+
+
+Edgar Jose Garcia Neto Segundo
+Pesquisador/ Mat. Nº 2357042
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+005/20
+
+
+
+
+                                                                                           Pagina 6
+

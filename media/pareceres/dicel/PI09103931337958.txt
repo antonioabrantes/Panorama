@@ -1,0 +1,191 @@
+                                       SERVIÇO PÚBLICO FEDERAL
+                                        MINISTÉRIO DA ECONOMIA
+                            INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0910393-7                N.° de Depósito PCT:US2009/001738
+ Data de Depósito:                   19/03/2009
+ Prioridade Unionista:               US 61/037,840 (19/03/2008)
+ Depositante:                        BLACKBERRY LIMITED (CA)
+ Inventor:                           Ahmad Muhanna; Barnaba Barnowski; Mohamed Khalil
+ Título:                             Suporte para protocolos de múltiplas conexões usando registro
+                                     transitório e mensagens de revogação de ligação expandidas 
+
+                                                                PARECER
+          Em 23/12/2019, por meio da petição nº 870190138206, a Requerente optou por não
+apresentar modificações no pedido em resposta ao parecer emitido, notificado na RPI nº 2542
+de 24/09/2019 (despacho 7.1).
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                 n.o da Petição         Data
+                                                            1                  870190058825         25/06/2019
+Relatório Descritivo
+                                                        2 à 30               020120019626-NPRJ      08/03/2012
+Quadro Reivindicatório                                   1à6                   870190058825         25/06/2019
+Desenhos                                                 1à3                 020100087425-NPRJ      17/09/2010
+Resumo                                                      1                  870190058825         25/06/2019
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                              Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                         X
+O pedido está de acordo com disposto no art. 32 da LPI                                          X
+Comentários/Justificativas
+
+                     Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                              Sim         Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                            X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                          X
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                          PI0910393-7
+
+
+Comentários/Justificativas
+
+                          Quadro 4  Documentos citados no parecer
+ Código                              Documento                              Data de publicação
+             "Inter-technology handover in PMIPv6 domain; draft-premec-
+    D1       netlmm-intertech-handover-01.txt", PREMEC D.; INTERNET                09/03/2009
+             ENGINEERING TASK FORCE (IETF), XP015061680.
+             "Proxy Mobile IPv6; RFC 5213", Gundavelli S. et al; IETF,
+    D2                                                                              08/2008
+             XP015060252.
+             "Binding Revocation for IPv6 Mobility; draft-muhanna-mip6-
+             binding-revocation-02.txt", MUHANNA A,           INTERNET
+    D3                                                                             19/11/2007
+             ENGINEERING         TASK    FORCE   (IETF),     (20071119),
+             XP015054380.
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade           Cumprimento                Reivindicações
+                                                  Sim                        1 à 20
+            Aplicação Industrial
+                                                  Não                          -
+                                                  Sim                        1 à 20
+                 Novidade
+                                                  Não                          -
+                                                  Sim                          -
+            Atividade Inventiva
+                                                  Não                        1 à 20
+Comentários/Justificativas
+
+         Em sua resposta, a requerente discorda do exame anterior, afirmando que a prioridade
+abrangeria sim o identificador de tipo de acesso reivindicado e o indicador de transferência.
+Argumentando que o indicador de transferência reivindicado seria suficientemente suportado
+pelo documento de prioridade e que adicionalmente o identificador de tipo de acesso
+reivindicado seria uma indicação simples do tipo de tecnologia de rede (a requerente citou como
+exemplo uma rede WiMax). A requerente argumenta que o documento de prioridade fornece uma
+descrição suficiente de uma transferência entre o E-UTRAN e o e-HRPD e por essa razão, o
+conteúdo do documento de prioridade deveria ser suficiente para suportar o identificador do tipo
+de acesso.
+
+         É mantida a análise anterior. Entende-se que o documento de prioridade não é explicito
+quanto ao indicador de transferência e nem o identificador de tipo de acesso ou à matéria a qual
+eles descreveriam, ao contrário dos documentos D1 e D2. Enquanto o documento de prioridade
+indica a forma como ocorre a transição de uma rede para outra através dos MAGs, as
+características presentes na mensagem PBU, que efetivamente implementam as notificações e
+identificam as condições, para a migração de uma estação móvel de uma rede para outra, não
+são descritas de forma inequívoca no dito documento de prioridade, estando somente implícito o
+uso de instrumentos similares aos pleiteados no presente pedido. A presente reivindicação 1 trata
+explicitamente de uma mensagem PBU com tais características.
+
+
+
+                                                                                         Página 2
+                                          PI0910393-7
+
+
+       Citando o parecer anterior em relação ao documento de prioridade: ...não foi identificada
+que esta revelaria especificamente que a dita mensagem de solicitação de registro (PBU) incluiria
+...um identificador de tipo de acesso que indica um tipo de acesso de comunicação usado
+para conectar ao nó móvel. ou .um indicador de transferencia entre celulas que
+especifica se a mensagem de solicitacao de registro está associada com uma transferencia
+entre celulas para um novo tipo de acesso na primeira rede externa ou uma transferencia
+entre celulas para uma segunda rede externa, e um identificador de interface que indica
+uma interface de acesso específica sendo usada para conectar ao no movel;.
+       A requerente também argumenta que caso os documentos D1 e D2 sejam mantidos na
+análise, o documento D1 não divulgaria especificamente se a transferência para a segunda
+rede externa é detectada ou se a transferência para o novo tipo de acesso na primeira rede
+externa é detectada e associada ao indicador de transferência que especifica se a
+mensagem de solicitação de registro é associada a uma transferência para um novo tipo de
+acesso na primeira rede externa ou a uma segunda rede externa. D1 consequentemente
+também não revelaria a transmissão de uma resposta de registro da âncora de mobilidade
+local com um prefixo de rede, dependendo se a transferência para a segunda rede externa é
+detectada ou a transferência para um novo tipo de acesso na primeira rede externa é
+detectada.
+      A requerente argumenta que o indicador de transferência reivindicado especifica se a
+mensagem de solicitação de registro é associada a uma transferência para um novo tipo de
+acesso na primeira rede externa ou para uma transferência para uma segunda rede externa.
+        É reiterado que o documento D1 revela um método para registrar um nó ou estação móvel
+em uma rede a partir de outra rede externa, cada qual com um Gateway de Acesso Móvel (MAG)
+(página 4: figura 1 de D1), no qual a mensagem de solicitação de registro é recebida em uma
+Âncora de Mobilidade Local (LMA) relacionada a primeira rede externa. A dita mensagem de
+requisição de registro (mensagem PBU) descreve um identificador de nó móvel, um identificador
+de tipo de acesso que define a forma como é conectado o nó à rede externa, um identificador de
+transferência entre células para um novo tipo de acesso na primeira rede externa ou em
+uma nova rede externa e um identificador de interface que indica uma interface de acesso
+específica sendo usada para conectar o nó móvel à rede externa (primeiro parágrafo da seção
+4.2 Handover Indication, páginas 8 à 10 de D1, que inclusive referencia explicitamente o
+documento D2).
+        É revelado no documento D1 que a Âncora de Mobilidade Local (LMA) transmite uma
+mensagem de reivindicação de revogação ao Gateway (MAG) na rede externa fonte na qual o nó
+estava conectado com um campo de informação de disparo expandida para ser usado pelo dito
+MAG para determinar se recursos de rede alocados para o nó móvel devem ser revogados e de
+que modo (seção 8 LMA Operation, página 14 de D1). O documento D1 revela como o MAG
+notifica a LMA sobre um movimento de uma sessão de IP no nó móvel através das interfaces
+(Seção 7 Mobile Access Gateway Operation de D1). Entende-se que uma transição entre redes
+como aquela pleiteada está revelado sim nos ensinamentos do documento D1 combinados aos
+ensinamentos do documento D2.
+        Em relação ao documento D2, a requerente afirma que este não divulga as características
+do indicador de transferência e falha ainda em divulgar o identificador da interface.
+       Discorda-se da requerente, o documento D2 revela um formato de mensagem PBU (Proxy
+Binding Update) contendo os campos de dados de identificador de nó móvel, identificador de
+
+
+                                                                                        Página 3
+                                            PI0910393-7
+
+transferência entre células, identificador de camada de ligação ao nó móvel e identificador de tipo
+de tecnologia de acesso (seção 8.1 Proxy Binding Update Message, especialmente as páginas 69
+à 70 e seção 8.2 Proxy Binding Acknowledgement Message, páginas 71 à 72 de D2). Tais campos
+de dados revelam identificadores contendo características presentes nos identificadores de
+interface e de transferência pleiteados.
+          O documento D3 já foi considerado não impeditivo no parecer anterior.
+        Consequentemente, entende-se que a matéria das reivindicações 1 à 20 carece de
+atividade inventiva frente aos ensinamentos dos documentos D1 com D2, estando em desacordo
+com o Artigo 8º combinado ao 13 da LPI.
+
+
+
+Conclusão
+
+          Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -     não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                Rio de Janeiro, 11. Dezembro 2020.
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+Luciano Lauand Viana de Paula
+Pesquisador/ Mat. Nº 2042359
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 001/16
+
+
+
+
+                                                                                           Página 4
+

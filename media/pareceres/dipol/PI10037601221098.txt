@@ -1,0 +1,288 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI1003760-8               N.° de Depósito PCT:
+ Data de Depósito:                   28/10/2010
+ Prioridade Unionista:               -
+ Depositante:                        João Assunção de Lemos (BRRS)
+ Inventor:                           João Assunção de Lemos
+ Título:                             Disposição construtiva aplicada em extrusora horizontal para
+                                     produção de chapas de polietileno
+
+                                                                PARECER
+Em 13/01/2020, por meio da petição 870200005510, a Requerente apresentou manifestação
+com modificações no pedido em resposta ao parecer de 1º exame emitido em 21/11/2019,
+notificado na RPI 2552 de 03/12/2019 (despacho 7.1). Estas modificações estão consideradas
+no Quadro 1 e ao longo dos comentários deste parecer. Pertinentes esclarecimentos foram
+apontados e são também apreciados neste exame.
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                     1a8                 870200005510           13/01/2020
+Quadro Reivindicatório                                      1                870200005510           13/01/2020
+Desenhos                                                 1a4                 870200005510           13/01/2020
+Resumo                                                      1                870200005510           13/01/2020
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                               PI1003760-8
+
+
+O novo quadro reivindicatório modificado submetido para exame foi aceito, uma vez que as
+alterações efetuadas limitam-se à matéria inicialmente revelada e atendem ao objetivo de
+melhor esclarecer ou definir a matéria objeto de proteção, atendendo, portanto, ao disposto no
+Art. 32 da LPI.
+
+
+
+
+                Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI       x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                     x
+Comentários/Justificativas
+
+Irregularidades destacadas no parecer anterior de 1º exame (notificado na RPI 2552 de
+03/12/2019) não foram sanadas ou satisfatoriamente justificadas, permanecendo na nova e única
+reivindicação ora apresentada (reivindicação 1) de tal maneira a não concederem clareza sobre
+qual seria a matéria realmente reivindicada, particularmente pelos motivos expostos a seguir:
+
+1) A reivindicação 1 define um aparato por características relacionadas a um processo,
+especificamente no trecho          que será prensado por um pistão hidráulico (4), através de
+prensagem contínua e submetido a um tratamento térmico através do sistema hidráulico e de
+ventilação (5), o que ocasiona falta de clareza e precisão à matéria que se deseja proteger,
+descumprindo-se o disposto no Art. 25 da LPI e na Instrução Normativa nº 30/2013  Art. 4º (III).
+Um aparato deve ser adequadamente definido por especificações referentes aos aspectos
+construtivos dos elementos que o constituem e não por características referentes aos processos
+ou etapas destes eventualmente conduzidos no referido aparato, tampouco por matérias-primas
+ou insumos utilizados no processo.
+
+2) A reivindicação 1 contém trechos explicativos com relação às vantagens e ao simples uso da
+matéria reivindicada, particularmente as descrições compreendidas em  permite a adequação
+de até 03 (três) cavidades  bem como a produção simultânea até 03 (três) chapas de polietileno,
+sendo que tais chapas podem variar de espessura  bem como no comprimento  cuja definição
+do corte pode ser adequada conforme a necessidade exigida., contrariando o disposto no Art. 25
+da LPI e na Instrução Normativa nº 30/2013  Art. 4º (VIII).
+
+
+Além do mais:
+
+3) A reivindicação independente 1 contraria o disposto no Art. 25 da LPI e na Instrução Normativa
+nº 30/2013  Art. 5º (IV e V), pois não possui preâmbulo e define na parte caracterizante, i.e. após
+a expressão caracterizado por, características já compreendidas no estado da técnica, sem
+evidenciar as características técnicas essenciais e particulares, não compreendidas no estado da
+técnica.
+
+
+
+                                                                                           Página 2
+                                            PI1003760-8
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                                Documento                                 Data de publicação
+   D1           BRASKEM - Boletim Técnico nº 3.02 - Revisão 1 - ago/02                  08/2002
+   D2           REPORTRAVI - Informe Publicitário Ano 3 N.05 - 12/1997                  12/1997
+   D3               FOLDER - POLIETILENO - UTEC - POLIALDEN                             07/1999
+   D4                             FOLDER - AUTOTRAVI                                    07/2009
+   D5        Joseph S. Lubischer. Design, constrution, and testing of a ram            01/1973
+             extruder for high viscosity polymers, Massachusetts Institute of
+                        Technology, Tese de Mestrado, 74 páginas
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento                 Reivindicações
+                                                     Sim                           1
+            Aplicação Industrial
+                                                     Não                            -
+                                                     Sim                           1
+                 Novidade
+                                                     Não                            -
+
+                                                     Sim                            -
+            Atividade Inventiva
+                                                     Não                           1
+Comentários/Justificativas
+
+Por meio da petição n° 870200005510 de 13/01/2020, o depositante apresentou manifestação
+ao parecer técnico de 1º exame notificado na RPI n° 2552, de 03/12/2019, alegando que o
+pedido é dotado de novidade e atividade inventiva. Foram apresentadas novas vias para o
+quadro reivindicatório (1 reivindicação), o relatório descritivo, os desenhos e o resumo, com
+modificações parciais conforme comentários do examinador, as quais foram aceitas e utilizadas
+no exame.
+
+Em prosseguimento ao exame deste pedido, e de posse dos documentos do estado da técnica
+já referenciados no parecer anterior de 1º exame, se fez necessária uma nova avaliação. Tais
+documentos se encontram relacionados no Quadro 4 deste parecer, cujas descrições são aqui
+apenas replicadas. Uma análise de mérito para o novo quadro reivindicatório apresentado é
+efetuada.
+
+
+Descrição das anterioridades
+
+
+O documento D1 apresenta um processo de extrusão horizontal por pistão para moldagem de
+PE-UHMW, assim como os respectivos dispositivos envolvidos, gerando um produto com perfil
+contínuo e correspondendo a peças de longas dimensões.
+
+
+
+
+                                                                                             Página 3
+                                          PI1003760-8
+
+
+Especificamente, a matéria-prima, na forma de pó, é alimentada através de um funil e
+compactada por um cilindro hidráulico/êmbolo comandado por uma estrutura formada por
+tanque de óleo e sistema hidráulico de alta pressão e de ventilação. O cilindro hidráulico/êmbolo
+é montado em uma estrutura bastante rígida para resistir às grandes pressões geradas
+internamente. O material compactado é então empurrado ao longo de uma matriz aquecida por
+resistências elétricas que comandam a temperatura, cuja seção interna determina a forma final
+do perfil. O comprimento da matriz deve ser determinado em função da produtividade desejada.
+Na saída da respectiva cavidade, é destacada a presença de um sistema para a obtenção de
+um produto com um melhor acabamento superficial, produto o qual ainda pode ter diferentes
+espessuras, o que também é influenciado pelas condições de operação devidamente
+monitoradas e controladas. Em adição, é exposta, para tal fim, a não indicação do uso de
+extrusoras de rosca convencionais.
+[todo o documento de D1].
+
+
+D2 descreve a produção de PE-UHMW na forma de chapas retangulares. É exposta uma
+extrusora horizontal compreendendo um cilindro/êmbolo montado dentro de uma estrutura rígida
+[todo o documento de D2].
+
+
+O documento D3 discute a moldagem de PE-UHMW, na forma de chapas, por meio de um
+processo de extrusão por pistão [todo o documento de D3].
+
+
+D4 expõe a produção de chapas contínuas com especificações de espessura, largura e
+comprimento de acordo com a necessidade exigida [todo o documento de D4].
+
+
+O documento D5 descreve um processo de extrusão horizontal por pistão para moldagem de
+polímeros de alta viscosidade, particularmente PE-UHMW, bem como apresenta os respectivos
+dispositivos envolvidos. Especificamente, a matéria-prima, na forma de pó, é alimentada através
+de um funil e compactada por um cilindro comandado por uma estrutura formada por um sistema
+de alta pressão e de ventilação. O cilindro é montado em uma estrutura bastante rígida para
+resistir às grandes pressões geradas internamente. O material compactado é então empurrado
+ao longo de uma matriz aquecida por resistências elétricas que comandam a temperatura, cuja
+seção interna determina a forma final do perfil. É destacada a importância de ser respeitada uma
+determinada condição de saída máxima visando um acabamento superficial e uma precisão
+dimensional ambas de altíssima qualidade, podendo ser obtido um material com diferentes
+espessuras, sendo influenciado por condições de operação devidamente monitoradas e
+controladas. Ainda, para tal fim, é exposta a não indicação do uso de extrusoras de rosca
+convencionais [todo o documento de D5].
+
+
+
+
+                                                                                         Página 4
+                                             PI1003760-8
+
+
+Aplicação industrial
+
+
+A matéria pleiteada na reivindicação 1 possui aplicação industrial, já que os objetivos
+reivindicados podem ser reproduzidos ou usados industrialmente.
+
+
+Novidade e atividade inventiva
+
+
+A partir da análise das anterioridades, e com base no quadro reivindicatório ora apresentado,
+observa-se que - apesar da falta de clareza conforme exposição nos itens 1)-3) dos
+comentários/justificativas do Quadro 3 deste parecer - nenhum dos cinco documentos descritos
+revela, tal como reivindicada, uma disposição construtiva aplicada em extrusora horizontal para
+produção de chapas de PE-UHMW, utilizando matéria-prima em forma de pó, consistindo em um
+funil de alimentação (1), um pistão hidráulico (4) para prensagem contínua do material e
+comandado por uma estrutura formada por tanque de óleo, sistema hidráulico e de ventilação
+(5), uma base guia de sustentação do ferramental (2) e porcas de sustentação (3), freio
+integrado (7), base de sustentabilidade do ferramental (8), carro de guia das placas (9) e uma
+quantidade determinada de hastes, de acordo com a quantidade de chapas a serem produzidas,
+sendo que tal ferramental permite a adequação de até 03 (três) cavidades, com resistências (6)
+acopladas a cada uma delas, com um controlador de temperatura para cada placa, permitindo
+assim um controle integrado sobre todo o conjunto de placas com o ferramental, bem como a
+produção simultânea de até 03 (três) chapas de polietileno, sendo que tais chapas podem variar
+de espessura através da utilização de calços, bem como no comprimento por utilizar sistema
+contínuo, cuja definição de corte pode ser adequada conforme a necessidade exigida.
+Fundamentalmente, as principais diferenças - considerando os documentos D1 ou D5
+(anterioridades mais pertinentes) e tal como exposição nos Esclarecimentos presentes na
+respectiva manifestação ao parecer técnico de 1º exame (petição n° 870200005510, de
+13/01/2020) - decorrem da presença de um freio integrado e da particularidade de produção
+simultânea de até três chapas de polietileno.
+Portanto, os documentos D1-D5 não antecipam, isoladamente, todas as características
+pleiteadas na reivindicação 1, fazendo com que esta reivindicação atenda ao requisito novidade.
+
+
+No que se refere à atividade inventiva - com base no conhecimento padrão relativo aos temas
+abordados e em virtude de não se encontrar descrição na reivindicação 1 tal que proporcione
+distinção técnica da disposição construtiva reivindicada que seja resultante principalmente da
+presença de um freio integrado, o qual é exposto de forma generalizada (destaque
+suplementar    para    a   falta   de   clareza   conforme   exposição   nos   itens   1)-3)   dos
+comentários/justificativas do Quadro 3 deste parecer) - a matéria pleiteada na reivindicação 1
+não atende a tal requisito, pois decorre de maneira evidente ou óbvia para um técnico no
+assunto a partir dos documentos D1 ou D5 ou, adicionalmente, resultante da combinação dos
+ensinamentos dos documento D1 e/ou D5 com os ensinamentos de D2 e/ou D3 e/ou D4.
+
+
+
+                                                                                              Página 5
+                                           PI1003760-8
+
+
+Conclusão
+
+Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI);
+
+      -   as reivindicações estão indefinidas (Art. 25 da LPI).
+
+De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da data
+de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                   Publique-se o indeferimento (9.2).
+
+
+
+                                                                  Rio de Janeiro, 4 de junho de 2020.
+
+
+
+
+Nadson Murilo Nascimento Lima
+Pesquisador/ Mat. Nº 1355637
+DIRPA / CGPAT I/DIPOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+011/18
+
+
+
+
+                                                                                            Página 6
+

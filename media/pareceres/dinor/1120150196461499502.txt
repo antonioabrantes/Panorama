@@ -1,0 +1,183 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112015019646-2           N.° de Depósito PCT:US2014/014948
+ Data de Depósito:                   05/02/2014
+ Prioridade Unionista:               US 13/787,365 (06/03/2013)
+ Depositante:                        ECOLAB USA INC. (US)
+ Inventor:                           NICHOLAS S. ERGANG, RONALD V. DAVIS
+ Título:                             Adição de reagentes de alumínio a um fluxo de resíduos contendo
+                                     sulfato reduz a concentração de sulfato 
+
+                                                                PARECER
+
+
+
+          O requerente apresentou tempestivamente sua manifestação em relação à ciência de
+parecer (7.1) notificada na RPI 2632, de 15 de junho de 2021, por meio da petição de número
+870210081391, de 03 de setembro de 2021, juntamente com novas vias do quadro
+reivindicatório (14 reivindicações), relatório descritivo e resumo.
+
+          Nas razões apresentadas em sua manifestação, o requerente argumentou procurando
+mostrar que a matéria reivindicada difere do estado da técnica porque os processos mostrados
+em D1 e D8 seriam destinados a remoção de sulfato da água, D1 removeria o sulfato utilizando
+cal hidratada e hidroxicloreto de polialumínio na corrente de água e D8 removeria o sulfato
+utilizando trihidróxido de alumínio amorfo e cal na corrente de água, assim os documentos D1 e
+D8 divulgariam soluções alternativas para o problema e nao seria considerado óbvio combinar
+os documentos.
+
+          O re-exame do presente pedido foi conduzido com base nas vias emendadas (conforme
+apontado no Quadro 1 desse parecer) e considerando os argumentos apresentados pelo
+requerente em sua manifestação.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                    1 a 23               870210081391     03/09/2021
+Quadro Reivindicatório                                   1a4                 870210081391     03/09/2021
+Desenhos                                                 1a4                 860150178301     14/08/2015
+Resumo                                                      1                870210081391     03/09/2021
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                           BR112015019646-2
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                           Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   x
+O pedido está de acordo com disposto no art. 32 da LPI                    x
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                   x
+Comentários/Justificativas
+
+         A reivindicação 11 não atende ao disposto no Art. 25 da LPI e na Instrução Normativa nº
+30/2013  Art. 4º (III), pois a matéria pleiteada não está definida de maneira clara, precisa e
+positiva pelas seguintes razões: a reivindicação 11 define a mesma matéria definida na
+reivindicação 9.
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                               US20120031850 A1                              9/02/2012
+    D6                                   TW507069 B                                21/10/2002
+    D7                                 CN101407356 A                               15/04/2009
+    D8                                 US6280630 B1                                28/08/2001
+   D11                               US20150083669 A1                              26/03/2015
+   D12                                  GB2449996 A                                10/12/2006
+   D13                                JP2003154372 A                               27/05/2003
+
+
+
+
+                                                                                         Página 2
+                                      BR112015019646-2
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade           Cumprimento                Reivindicações
+                                                  Sim                        1 a 14
+          Aplicação Industrial
+                                                  Não                           --
+                                                  Sim                        1 a 14
+               Novidade
+                                                  Não                           --
+                                                  Sim                           --
+          Atividade Inventiva
+                                                  Não                        1 a 14
+Comentários/Justificativas
+
+      Considerando o novo quadro apresentado e as argumentações do manifesto, tem-se a
+fazer as observações que segue:
+
+   1. O pedido de patente de invenção se refere a um método para a remoção de sulfatos de um
+      líquido que compreende as etapas de: adicionar um agente de alumínio que gera um pH
+      ácido a neutro ao líquido, adicionar um agente de alumínio que gera um pH alcalino ao
+      líquido após ter adicionado o agente de alumínio que gera um pH ácido a neutro, e
+      adicionar um agente de cálcio alcalino ao líquido após ou durante adicionar o agente de
+      alumínio que gera um pH neutro, o método produzindo um precipitado contendo sulfato.
+      Observe na reivindicação 1 que o agente de cálcio alcalino é adicionado ao líquido após ou
+      durante adicionar o agente de alumínio que gera um pH neutro, portanto não é correta a
+      afirmação sobre a adição do mesmo após ou durante a adição do agente de alumínio que
+      gera um pH alcalino, conforme argumentado na manifestação.
+
+   2. Também, é importante ressaltar que a reivindicação 1 pode compreender outras etapas de
+      adição de reagentes, que não apenas as três etapas, efetivamente, descritas na
+      reivindicação 1, conforme colocado no parágrafo 54 do relatório descritivo do presente
+      pedido de patente.
+
+   3. De fato, o documento de anterioridade D1, considerado a anterioridade mais próxima,
+      difere da matéria da reivindicação 1 porque não mostra a etapa de adição de um agente de
+      alumínio que gera um pH alcalino ao líquido após ter adicionado o agente de alumínio que
+      gera um pH acido a neutro. No entanto, esse ajuste de pH durante o processo já é
+      antecipado pelo estado da técnica, como já colocado em D12.
+
+   4. Considerando o acima exposto, o documento D12 (ver Figura 1) mostra um método para
+      tratamento de efluentes, especialmente a remoção de sulfatos que compreende as etapas
+      de: adicionar um agente que gera um pH ácido ao líquido (o pH é ajustado para menor ou
+      igual a 2, ver reivindicação 1), adicionar um agente de alumínio (ver reivindicações 1, 13 e
+      14), posteriormente o pH é ajustado para maior ou igual a 10, e um agente de cálcio
+      alcalino é adicionado ao líquido após adicionar o agente de alumínio. Ainda, é adicionado
+      um segundo agente de alumínio como floculante (ver reivindicações 29 e 31).
+
+
+
+
+                                                                                         Página 3
+                                            BR112015019646-2
+
+
+   5. Assim, o quadro reivindicatório, como apresentado, não preenche os requisitos de
+           patenteabilidade, pois visa a proteção de matéria que não apresenta atividade inventiva.
+
+
+
+Conclusão
+
+       Conclui-se que os argumentos utilizados pelo requerente nesta manifestação não
+comprovam a atividade inventiva da matéria reivindicada frente à matéria definida nos
+documentos citados. Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez
+que:
+
+       -     não atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+       -     as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+             descritivo (Art. 25 da LPI).
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+                                                                    Publique-se o indeferimento (9.2).
+
+                                                            Rio de Janeiro, 05 de novembro de 2021.
+
+
+Gerlane Carla Honorato
+Pesquisador/ Mat. Nº 1569136
+DIRPA / CGPAT I/DINOR
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                             Página 4
+

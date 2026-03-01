@@ -1,0 +1,227 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122019007013-0         N.° de Depósito PCT: EP2009/053978
+ Data de Depósito:                   02/04/2009
+ Prioridade Unionista:               EP 08 154039.5 (03/04/2008); US 61/087,343 (08/08/2008)
+ Depositante:                        BOEHRINGER INGELHEIM INTERNATIONAL GMBH (DE)
+ Inventor:                           Thomas Friedl, Michael Braun, Kenji Egusa, Hikaru Fujita, Megumi
+                                     Maruyama, Takaaki Nishioka
+ Título:                             Inibidor de dpp-iv combinado com outro agente antidiabético,
+                                     comprimidos que compreendem tais formulações, seu uso e processo
+                                     para sua preparação 
+
+                                                                PARECER
+
+
+          Através da petição de n° 870190099212 de 03/10/2019, a requerente manifestou-se com
+relação ao parecer negativo notificado na RPI 2531 de 09/07/2019, apresentando um novo
+quadro reivindicatório (total de 21 reivindicações), uma nova via do relatório descritivo e uma
+nova via do resumo, assim como seus argumentos em favor do mérito do pedido.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-65               870190099212           03/10/2019
+Quadro Reivindicatório                                     1-5               870190099212           03/10/2019
+Resumo                                                      1                870190099212           03/10/2019
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR122019007013-0
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                            Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI        x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                      x
+Comentários/Justificativas
+
+
+Objeções superadas
+         Algumas objeções realizadas no parecer técnico anterior relativas aos artigos 24 e 25 da
+LPI foram superadas no novo quadro reivindicatório apresentado, a saber:
+- São definidos os compostos que estão dentro do escopo dos termos inibidor de DPP-4,
+fármaco parceiro e agente nucleofílico e/ou básico;
+- Foi retirada a reivindicação 30 que não pleiteava uma característica técnica da composição;
+
+
+Objeções mantidas
+         A reivindicação 18 (antiga reivindicação 26) está redigida de forma ampla e indefinida
+devido ao uso da expressão em que um ou mais dos seguintes podem ser aplicados, visto que
+não é possível definir quantos e quais componentes e parâmetros estão sendo englobados no
+escopo de proteção, contrariando o disposto no artigo 25 da LPI.
+         O termo cerca de ainda é encontrado na nova reivindicação 18 e não define de forma
+clara e precisa as quantidades dos componentes presentes na formulação pleiteada, o que
+contraria o artigo 25 da LPI.
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                Data de publicação
+    D1                                 WO2007078726                                   12/07/2007
+    D2                                 WO2007041053                                   12/04/2007
+    D3       Thomas                             et                          al.        04/2008
+             (R)-8-(3-amino-piperidin-1-yl)-7-but-2-ynyl-3-methyl-1-(4-methyl-
+             quinazolin-2-ylmethyl)-3,7-dihydro-purine-2,6-dione (BI 1356), a
+             novel xanthine-based dipeptidyl peptidase 4 inhibitor, has a
+             superior potency and longer duration of action compared with
+             other dipeptidyl peptidase-4 inhibitors. The Journal of
+             Pharmacology and Experimental Therapeutics, 325 (1), p.
+             175-182.
+    D4                                 US20030078269                                  24/04/2003
+    D5                                 US20040097510                                  20/05/2004
+
+
+
+
+                                                                                            Página 2
+                                     BR122019007013-0
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade          Cumprimento               Reivindicações
+                                                 Sim                        1-21
+           Aplicação Industrial
+                                                 Não                         -
+                                                 Sim                        1-21
+                Novidade
+                                                 Não                         -
+
+                                                 Sim                        1-21
+           Atividade Inventiva
+                                                 Não                         -
+
+
+
+Comentários/Justificativas
+
+       Em favor do mérito do pedido, a requerente argumenta, resumidamente, que um técnico
+no assunto não poderia facilmente chegar à presente invenção com base nos documentos
+citados, pois estes não fornecem qualquer sugestão nem motivação à presente invenção. Assim,
+aponta que é nítida a novidade e a atividade inventiva da matéria ora reivindicada frente aos
+ensinamentos de D1 a D5.
+       Os argumentos da requerente foram levados em consideração e os requisitos de
+patenteabilidade foram reavaliados para o novo quadro reivindicatório apresentado conforme
+discutido abaixo.
+
+
+
+Aplicação Industrial
+
+       A matéria do presente pedido possui aplicação industrial, estando de acordo com o
+disposto no artigo 15 da LPI.
+
+
+
+Novidade
+
+       No parecer técnico anterior, foi apontado que parte da matéria pleiteada no presente
+pedido era desprovida de Novidade. No entanto, no novo quadro reivindicatório apresentado, a
+requerente restringe a matéria mantendo somente aquela que possuía Novidade, estando esse
+novo quadro em conformidade com o disposto no artigo 11 da LPI.
+
+
+
+Atividade Inventiva
+
+       Conforme já foi apontado nos pareceres técnicos elaborados para o pedido original
+PI0911273-1 (publicados nas RPIs 2507 e 2522), é reconhecido que o uso da L-arginina para
+estabilização da linagliptina não é ensinado no estado da técnica e um técnico no assunto não
+seria motivado a combinar os ensinamentos de D1 a D5 para preparar as formulações como as
+pleiteadas no novo quadro reivindicatório apresentado. Assim, as composições pleiteadas no
+
+
+
+
+                                                                                       Página 3
+                                         BR122019007013-0
+
+
+presente pedido possuem atividade inventiva e estão em conformidade com o disposto no artigo
+13 da LPI.
+
+
+
+Outras considerações
+
+         Conforme detalhado no parecer técnico anterior, o presente pedido dividido apresenta
+conteúdo colidente com a matéria do pedido concedido PI0911273-1, que recebeu proteção para
+composições contendo linagliptina, cloridrato de metformina, L-arginina e outros excipientes. Pela
+análise do quadro reivindicatório já concedido para o PI0911273-1 e do quadro reivindicatório
+pleiteado no presente pedido dividido, observa-se que a matéria pleiteada no BR122019007013-0
+está contida naquela já concedida. O fato de o presente pedido incluir novas características
+técnicas na reivindicação (por exemplo, a composição farmacêutica ser um comprimido e serem
+delimitadas faixas de concentrações do inibidor de DPP-4 e metformina) se caracteriza como uma
+redução do escopo de proteção, mas o mesmo continua sendo englobado pelo escopo concedido
+para o PI0911273-1. Portanto, de modo a atender o disposto no Artigo 6° da Lei de Propriedade
+Industrial nº 9279 de 14/05/1996 (LPI) e, desta forma, evitar a dupla proteção para o mesmo
+objeto, não deverão ser concedidas mais de uma patente para matérias idênticas pleiteadas em
+mais de um pedido. Assim sendo, por infringir o disposto no artigo 6º da LPI, a matéria pleiteada
+no presente pedido não é considerada passível de proteção.
+
+
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -    as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+           descritivo (Art. 25 da LPI)
+
+     -     as reivindicações incidem na proibição estabelecida no Art. 6º inc. VII da Lei nº
+  11.105/05 e/ou no Art. 12 da Lei nº 10.814/03
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 3 de dezembro de 2019.
+
+
+
+
+                                                                                         Página 4
+                               BR122019007013-0
+
+
+
+
+Andre Prucoli Fragoso Carvalho
+Pesquisador/ Mat. Nº 2357376
+DIRPA / CGPAT I/DIFAR-I
+Deleg. Comp. - Port. INPI/DIRPA Nº
+014/18
+
+
+
+
+                                                  Página 5
+

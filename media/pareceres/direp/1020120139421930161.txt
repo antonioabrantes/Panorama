@@ -1,0 +1,304 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+
+
+
+N.° do Pedido:               BR102012013942-1           N.° de Depósito PCT: -
+Data de Depósito:            11/06/2012
+Prioridade Unionista:        -
+Depositante:                 Rede Nacional de Ensino e Pesquisa - Rnp (BRRJ), Universidade
+                             Estadual de Campinas - Unicamp (BRSP).
+Inventor:                    Yuzo Iano, Rangel Arthur, Diogo Gara Caetano, Vicente Idalberto
+                             Becerra Sabión
+Título:                      “MÉTODO E FERRAMENTA PARA COLETA DE SINAIS,
+                             ESTATÍSTICA DE ACESSO, AUXÍLIO À PREDIÇÃO DE COBERTURA
+                             DE SINAL DIGITAL TERRESTRE E DIAGNÓSTICO PARA
+                             INSTALAÇÕES DE TV DIGITAL”
+
+                                       SUBSÍDIOS TÉCNICOS
+
+
+      1)     Introdução:
+
+       Trata-se de Recurso interposto contra indeferimento de pedido de patente, cuja
+tempestividade, regularidade e recolhimento da retribuição correspondente do respectivo
+requerimento foram verificados nos moldes do art. 212 da Lei nº 9279/96 – Lei da Propriedade
+Industrial – (LPI).
+
+       O referido Recurso foi interposto por meio da petição No. 870210072284 de 09/08/2021,
+sendo a base legal motivadora de tal indeferimento o(s) artigo(s) 8o, 13 e 25 da LPI. Não foram
+apresentadas contrarrazões ao Recurso, de acordo com o disposto no artigo 213 da LPI.
+
+
+      2)     Alegações do Recurso:
+
+       Por intermédio da petição de Recurso No. 870210072284 de 09/08/2021, a Recorrente
+apresentou argumentação técnica e Quadro Reivindicatório modificado. A Recorrente alegou na
+manifestação que:
+
+      i.         “... No Relatório Descritivo … página 14/17 linha 2 … dados são disponibilizados em
+      diversos tipos de interface que incluem páginas web e Ginga; a interface permite … controle
+      das taxas de aquisição … na página 12/17 linha 5 … a partir das medidas obtidas …
+      obtém-se resposta em tempo real de modificações em antenas, troca de painéis, tilt elétrico,
+      tilt mecânico, variações de potência … questiona-se onde e de que forma … esse controle
+      pode ser estabelecido … de D1 …”;
+
+
+
+MODELO_SISCAP@                                                                             Página 1
+      ii.      “... Em relação ao documento D3, enfatiza-se que “perda de pacotes” não é uma
+      medida de qualidade em TV Digital aberta ...”;
+      iii.     “... Em relação ao documento D4 … a Requerente discorda … principalmente porque
+      levamos mais de 1 ano para otimizar o canal de retorno seguindo a recomendação ITU-T
+      H.761 e realizar a modificação do hardware …”;
+      iv.      “... a presente invenção alcançou sucesso comercial … sucesso ...diretamente
+      relacionado com as características técnicas da invenção, consequentemente, o pedido de
+      patente … apresenta atividade inventiva …”;
+      v.       “... Grandes players como Globo e Record têm utilizado o produto gerado … essa
+      ferramenta … otimiza(r) a distribuição de sinal com a correta configuração de transmissores
+      e repetidores em uma determinada área de serviço …”;
+      vi.      “... A Requerente apresenta nova versão do Quadro Reivindicatório especificando a
+      ferramenta …”.
+
+
+   3) Análise da decisão de indeferimento considerando as razões recursais:
+
+       Esta análise está fundamentada no parecer notificado na RPI No. 2632 de 15/06/2021, que
+motivou o indeferimento do presente pedido com base no quadro reivindicatório apresentado por
+meio da petição No. 870210015289, de 15/02/2021.
+
+
+      a)     Quanto à presença de vício formal:
+          Não foram verificados vícios formais capazes de prejudicar o prosseguimento do exame do
+Recurso.
+
+
+      b)     Quanto à presença de vício de julgamento:
+
+
+       Os documentos considerados nesta etapa de exame são os mesmos da 1a instância, a
+seguir:
+       D1 – US 2005 / 0183130 – “Cable diagnostic and monitoring system” - publicado em
+18/08/2005, sob titularidade de Sadja et al., descrevendo método de diagnóstico de TV por cabo,
+envolvendo o envio de mensagem de votação para modems formando um grupo de caixas de
+configuração (Set Top Boxes) de um Headend, por meio do cabo, em que a mensagem de
+votação instrui as caixas a obter um parâmetro, de cada caixa, e enviar para avaliar se algum dos
+parâmetros está fora de uma faixa específica de valor.
+       D2 – US7810127 – “System and method for evaluating the operational status of a STB in a
+cable network” - publicado em 05/10/2010, sob titularidade de Time Warner Cable, Inc,,
+descrevendo sistema de análise de STB (Set Top Box) compreendendo um cliente checador e um
+servidor STB, com comunicação de informação indicativa do estado operacional e apresentação
+da informação graficamente, utilizando endereço MAC.
+        D3 – US 2010 / 0287579 – “Media monitoring, management and information system” -
+publicado em 11/11/2010, sob titularidade de Petrovic et al., descrevendo sistema e método para
+monitoramento de transmissão de conteúdo de mídia, para obter dados objetivos e
+independentes, considerando o uso de um específico conteúdo de mídia, em que o
+processamento e relatório dessas informações podem servir como base para necessidades de
+negócios.
+        D4 – US 2010 / 0218229 – “Method for delivering non-anonymous user metadata using an
+soap operation in TV anytime metadata service” - publicado em 26/08/2010, sob titularidade de
+Korea Electronics Tech,, descrevendo método e operação para prover serviço de metadados não
+anônimo para um agente de serviço de TV usando operação SOAP (Simple Object Access
+Protocol).
+        D5 – US 2010 / 0333157 – “Methods, systems and computer program products for providing
+internet protocol television communication services” - publicado em 30/12/2010, sob titularidade de
+AT&T, descrevendo método de prover serviços de comunicação para assinante (CPE) acoplado à
+TV, em que um elemento de rede é operado como um servidor, em uma rede de comunicação, e
+recebe, do CPE, uma requisição para iniciar comunicação com um sistema de diagnóstico.
+
+
+        Analisando as razões do indeferimento, foi verificado que as características técnicas
+apresentadas no Quadro Reivindicatório, apresentado por meio da petição No. 870210015289, de
+15/02/2021, continham similaridade com as características técnicas descritas nos documentos D1
+e D2, devido a:
+
+        –       “... o documento D1 refere-se ao monitoramento de um conjunto de STBs em uma
+rede de distribuição de TV a Cabo. Porém, ao contrário do apontado pela requerente, a solução
+técnica apresentada no presente pedido, apesar de direcionada para um receptor de TV Digital,
+não possui aplicação específica na TV Digital aberta, sendo inclusive apontado na página 8, linhas
+24-26 do relatório descritivo que “O dispositivo de decodificação pode funcionar para diversos
+tipos de aplicação, além da recepção de sinal de TV Digital aberta, decodificador de TV a cabo ou
+via satélite” … ...”;
+
+        –       “... Não há nas reivindicações quaisquer características técnicas referentes à
+“calibração de redes de frequência única em processos de refinamento de cobertura e em
+processos de expansão de cobertura”. A função de “coleta de dados” nada mais é que a leitura de
+parâmetros do receptor (dados) em formato texto, característica essa revelada pelo documento D1
+...”;
+
+        –       “... D2 foi apontado como relevante para a avaliação da atividade inventiva das
+reivindicações independentes 2 e 3, as quais referem-se, respectivamente a uma ferramenta
+constituída de um tuner, um chipset e conectores para interfaceamento com dispositivos externos,
+e um sistema de monitoramento de audiência. Não há nas citadas reivindicações quaisquer
+características técnicas que condicionem a aplicação dos objetos de proteção à TV Digital
+terrestre. Não há também no presente pedido quaisquer menções às “camadas de comunicação”
+citadas pela requerente nos seus argumentos …”;
+
+       –        “... D4 refere-se a um método de se transmitir metadados de um cliente para o
+servidor de um serviço de TV-Anytime usando o protocolo SOAP. Dessa forma, conforme
+apresentado no parecer anterior, o documento D4 é relevante frente ao presente pedido pois
+apresenta um protocolo de transmissão de metadados do STB para o servidor através de um
+canal de retorno. É óbvio para um técnico no assunto usar os conhecimentos apresentados em D4
+para realizar a comunicação entre o STB e o Headend. Ao contrário do argumentado pela
+requerente, o presente pedido não apresenta quaisquer menções explícitas a aplicação,protocolos
+ou padrão de TV Digital no Brasil …”;
+
+       –        “... não há qualquer menção no presente pedido aos protocolos definidos pelo
+padrão do SBTVD. Conforme já mencionado anteriormente, o presente pedido, apesar de
+apresentar-se como uma solução para TV Digital aberta, não há nas características técnicas
+apresentadas quaisquer especificidades que diferencie a solução técnica apresentada para
+aplicação em TV Digital aberta ou broadcast, sendo inclusive apontado na página 8, linhas 24-26
+do relatório descritivo que “O dispositivo de decodificação pode funcionar para diversos tipos de
+aplicação, além da recepção de sinal de TV Digital aberta, decodificador de TV a cabo ou via
+satélite” …”.
+
+       Com base no acima exposto, é possível concordar com a decisão exarada no parecer de
+indeferimento, uma vez que a matéria reivindicada no quadro indeferido não atende ao disposto
+nos artigos 8o, 13 e 25 da LPI.
+
+
+
+       A Recorrente argumenta especificamente que “... No Relatório Descritivo … página 14/17
+linha 2 … dados são disponibilizados em diversos tipos de interface que incluem páginas web e
+Ginga; a interface permite … controle das taxas de aquisição … na página 12/17 linha 5 … a partir
+das medidas obtidas … obtém-se resposta em tempo real de modificações em antenas, troca de
+painéis, tilt elétrico, tilt mecânico, variações de potência … questiona-se onde e de que forma …
+esse controle pode ser estabelecido … de D1 …”; “... Em relação ao documento D3, enfatiza-se
+que “perda de pacotes” não é uma medida de qualidade em TV Digital aberta ...”; “... Em relação
+ao documento D4 … a Requerente discorda … principalmente porque levamos mais de 1 ano
+para otimizar o canal de retorno seguindo a recomendação ITU-T H.761 e realizar a modificação
+do hardware …”; “... a presente invenção alcançou sucesso comercial … sucesso ...diretamente
+relacionado com as características técnicas da invenção, consequentemente, o pedido de patente
+… apresenta atividade inventiva …”; “... Grandes players como Globo e Record têm utilizado o
+produto gerado … essa ferramenta … otimiza(r) a distribuição de sinal com a correta configuração
+de transmissores e repetidores em uma determinada área de serviço …”;
+      Discordamos. De acordo com a tabela a seguir, pode-se verificar que os passos pleiteados
+no método da Reivindicação Independente 1 do presente pedido encontra similaridade com o
+descrito nos documentos de anterioridade D1 e D4:
+
+
+
+
+      Note-se que, em D1, parágrafo [0049], encontra-se descrito que quaisquer outras
+informações especificadas podem ser monitoradas, o que significa que, para um técnico no
+assunto, toda a estrutura de programa e equipamento está pronta para obter os dados coletados
+como pleiteado na Reivindicação Independente 1, não exigindo esforço, do técnico no assunto,
+para alcançar esses dados.
+      Ressalte-se que a argumentação da Recorrente relativa a “... No Relatório Descritivo …
+página 14/17 linha 2 … dados são disponibilizados em diversos tipos de interface que incluem
+páginas web e Ginga; a interface permite … controle das taxas de aquisição … na página 12/17
+linha 5 … a partir das medidas obtidas … obtém-se resposta em tempo real de modificações em
+antenas, troca de painéis, tilt elétrico, tilt mecânico, variações de potência … questiona-se onde e
+de que forma … esse controle pode ser estabelecido … de D1 …”, falha por não existirem
+características técnicas no Quadro Reivindicatório que, inequivocamente, apresentem as
+modificações técnicas realizadas pela Recorrente para que se obtenha, em tempo real,
+modificações em antenas, troca de painéis, tilt elétrico, tilt mecânico e para que o uso seja no
+sistema GINGA, permitindo a um técnico no assunto reproduzir a invenção nesse sistema, de
+acordo com a Res. No. 169/2016, item 3.6:
+      “… Uma matéria só pode ser considerada acessível ao público … de acordo com o disposto
+no parágrafo 1o do artigo 11, se a informação disponibilizada for adequada para que um técnico no
+assunto coloque em prática a dita matéria …”.
+      Compreende-se que a Ferramenta (de acordo com o Relatório Descritivo do presente
+pedido, página 3, linhas 14 a 19, refere-se a um software embarcado em um STB (Set Top Box),
+embora, no Relatório Descritivo do presente pedido, página 13, linhas 13 a 22, a Ferramenta seja
+constituída de um STB contendo um banco de dados), um software embarcado que modificou um
+SBT padrão, tenha sucesso comercial, conforme argumentado pela Recorrente, no entanto, de
+acordo com a Res. 169/2016, item 5.59:
+      “… Quando uma invenção alcança sucesso comercial … se este sucesso está diretamente
+relacionado com as características técnicas da invenção, isto pode significar que a invenção
+apresenta atividade inventiva. Entretanto, se o sucesso é devido a outros fatores, tais como
+campanhas de venda ou propaganda, este critério não deve ser utilizado …”
+      Ou seja, embora o STB modificado por um software embarcado tenha sucesso comercial e
+demandado tempo e esforço no desenvolvimento do software embarcado, não foram
+apresentadas características técnicas no Quadro Reivindicatório que permitam diferenciar o objeto
+do presente pedido dos documentos D1 em conjunto com D4.
+
+
+      O mesmo pode ser dito para as Reivindicações Independentes 2 e 3, de acordo com as
+tabelas comparativas a seguir:
+       Não nos foi possível identificar diferenças entre o apresentado no presente pedido e as
+características técnicas obtidas pela união dos documentos de anterioridade D1 e D4.
+
+
+      Desta forma, considera-se o presente pedido destituído de atividade inventiva, sendo óbvio
+a um técnico no assunto, de posse dos documentos de anterioridade, alcançar o mesmo efeito
+técnico obtido no presente pedido, qual seja, Método e Ferramenta modificados para receber e
+transmitir parâmetros de monitoramento e diagnóstico de/para um servidor.
+
+
+       Com base no acima exposto, é possível concordar com a decisão exarada no parecer de
+indeferimento, uma vez que a matéria reivindicada no quadro indeferido não atende ao disposto
+nos artigos 8o, 13 e 25 da LPI.
+
+
+
+
+     4)       Análise sobre a possibilidade de modificações no pedido:
+       O quadro reivindicatório examinado no presente subsídio é aquele apresentado por meio
+da petição No. 870210015289, de 15/02/2021.
+       O Quadro Reivindicatório apresentado na petição de recurso No. 870210072284 de
+09/08/2021, apresenta as seguintes modificações: substituiu "Ferramenta" por "STB adaptado".
+No entanto, essas modificações não alteram o dito nesse parecer ou nos pareceres de 1a
+instância, devido ao documento D1 apresentar um STB adaptado, de modo similar ao
+apresentado no presente pedido e de forma contrária ao argumentado pela Recorrente.
+
+
+       Os argumentos apresentados em grau de Recurso não foram considerados suficientes
+para superar as objeções apontadas no indeferimento, uma vez que a matéria pleiteada não
+atende ao disposto nos artigos 8o, 13 e 25 da LPI.
+       Todavia, de acordo com as disposições transitórias constantes no item 7 das novas
+Diretrizes de Instrução de Recursos e Processos Administrativos de Nulidade (Portaria/INPI/Nº 10,
+de 08/03/2024), está sendo oportunizada a possibilidade da Recorrente apresentar as razões
+pelas quais entende que a decisão recorrida foi incorreta e que o quadro reivindicatório objeto do
+indeferimento é dotado dos requisitos e condições de patenteabilidade. Isso porque o foco desta
+instância recursal é o quadro reivindicatório examinado em primeira instância, avaliando eventuais
+vícios na decisão que indeferiu o pedido.
+       Também é possível, ainda que na ausência de vícios na decisão recorrida, que a
+Recorrente apresente emendas no quadro reivindicatório objeto do indeferimento, de modo a
+contornar as objeções apontadas no exame de primeira instância. Tais emendas serão analisadas
+de forma alternativa pela instância recursal, cabendo ressaltar que estas devem atender às
+condições dispostas no item 6.4 da referida Diretriz.
+
+
+
+
+     5)       Conclusão:
+
+
+       Tendo em vista as discussões exaradas acima, conclui-se que não procedem as alegações
+apresentadas e que a matéria reivindicada não atende ao disposto nos artigos 8o, 13 e 25 da LPI,
+pelas razões já alegadas em primeira instância e ratificadas neste parecer.
+
+
+       Pelo exposto, para dar prosseguimento ao exame do presente Recurso contra o
+indeferimento, a Recorrente deve complementar sua peça recursal, apresentando as razões pelas
+quais entende que o quadro reivindicatório indeferido apresenta as condições e os requisitos de
+patenteabilidade, atendendo ao item 6.4 constante nas Diretrizes de instrução de Recursos e
+Processos Administrativos de Nulidade.
+      A Recorrente deve responder à exigência ora formulada no prazo de 60 (sessenta) dias a
+partir da data de publicação na RPI, sob pena do não provimento do respectivo Recurso e da
+manutenção do indeferimento do pedido.
+                                                                                  Exigência [código 121].
+
+
+
+
+                                                      Rio de Janeiro, 26 de fevereiro de 2025.
+
+
+
+
+        Renato de Castro Dutra
+          Pesquisador/ Mat. Nº 1546896
+     Portaria INPI/PR Nº 045/21 de 12/07/2021
+                 CGREC/COREP
+
+
+
+       Rosana Marques Amorim                      Heleno José Costa Bezerra Netto
+     Coordenadora Substituta/ Mat. Nº 1548936        Coordenador Técnico/ Mat. Nº 1530931
+       Portaria INPI/PR nº 068 de 18/04/2024        Portaria ME INPI/PR nº 173 de 04/08/2022
+                 CGREC/COREP                                    CGREC/COREP
+

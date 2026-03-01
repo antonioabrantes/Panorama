@@ -1,0 +1,272 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR102013013975-0            N.° de Depósito PCT:
+ Data de Depósito:     06/06/2013
+ Prioridade Unionista: US 61/657,248 (08/06/2012); US 61/669,299 (09/07/2012); US
+                       61/712,930 (12/10/2012); US 13/747,780 (23/01/2013); US 13/747,732
+                       (23/01/2013); US 13/747,761 (23/01/2013)
+ Depositante:          THE BOEING COMPANY (US)
+ Inventor:             DAVID WILLIAM MINTEER, JAMES PATRICK IRWIN, BENJAMIN A.
+                       JOHNSON, JOHN THOMAS AXTELL
+ Título:               Sistema de transporte de fluidos para evitar descargas elétricas
+
+                                                                PARECER
+O presente pedido de patente de invenção sofreu parecer de ciência (7.1), conforme publicado
+na RPI nº 2605 de 08/12/2020. Através da petição nº 870210020733 de 04/03/2021, a
+Requerente apresentou manifestação e justificativas da referida ciência, além de novas páginas
+do Relatório descritivo, Quadro Reivindicatório e Resumo. Para fins de continuidade do exame
+estão sendo consideradas as vias abaixo:
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                 n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 48                 870210020733           04/03/2021
+Quadro Reivindicatório                                   1a5                   870210020733           04/03/2021
+Desenhos                                                1 a 13               860130000273/NPWB        06/06/2013
+Resumo                                                      1                  870210020733           04/03/2021
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                  Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                        X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                          X
+O pedido está de acordo com disposto no art. 32 da LPI                                           X
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                 Página 1
+                                           BR102013013975-0
+
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                    X
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                               WO2010044930 A2                               22/04/2010
+    D2                                  EP0297990 A1                               04/01/1989
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                    1-13
+            Aplicação Industrial
+                                                        Não                      ---
+                                                         Sim                    1-13
+                 Novidade
+                                                        Não                      ---
+                                                         Sim                     ---
+            Atividade Inventiva
+                                                        Não                     1-13
+Comentários/Justificativas
+
+         A matéria pleiteada nas reivindicações 1 a 13 possui aplicação industrial conforme o
+disposto no Art. 15 da Lei 9.279 de 14/05/1996.
+         A matéria pleiteada nas reivindicações 1 a 13 possui novidade perante os documentos
+citados no relatório de busca publicado na RPI n° 2554 de 17/12/2019, cumprindo o disposto no
+Art. 11 da Lei 9.279 de 14/05/1996.
+
+         A matéria pleiteada nas reivindicações 1 a 13 não possui atividade inventiva perante os
+documentos citados no relatório de busca publicado na RPI n° 2554 de 17/12/2019,
+descumprindo o disposto no Art. 13 da Lei 9.279 de 14/05/1996.
+
+
+
+
+                                                                                          Página 2
+                                      BR102013013975-0
+
+
+
+
+       A requerente apresentou um novo quadro reivindicatório onde foram realizadas
+alterações e também apresentou argumentos referentes aos requisitos de patenteabilidade.
+Após análise dos argumentos apresentados pela requerente na petição nº 870210020733 de
+04/03/2021, e a partir da analise realizada anteriormente no parecer publicado na RPI nº 2605
+de 08/12/2020, verificou-se que a matéria pleiteada no novo quadro reivindicatório apresentado
+continua sendo anteriorizada no estado da técnica de acordo com os documentos D1 e D2,
+conforme evidenciado a seguir:
+
+
+       Argumento 1:
+
+
+       O efeito técnico fornecido por esta faixa de valores de resistência reivindicada é
+estabelecido no relatório descritivo do pedido de patente. Conforme disposto na página 8,
+parágrafo [0033] do pedido, o valor mínimo de resistência de 100 kilohms por metro garante que
+a intensidade da descarga elétrica causada por descargas atmosféricas seja reduzida.
+Conforme disposto na página 17, parágrafo [0061], o valor máximo de resistência de 100
+megaohms por metro garante que o acúmulo de carga eletrostática seja reduzido, pois a
+estática pode ser dissipada.
+Ficará claro para um técnico no assunto que este efeito técnico deve estar presente sempre que
+o veículo aeroespacial estiver operando, ou seja, o material dos membros de transporte e
+conexões devem ter resistências elétricas que permanecem dentro da faixa reivindicada em
+todas as condições operacionais.
+
+
+
+       Argumento 2:
+
+
+       A intenção do sistema reivindicado não é fornecer isolamento dielétrico completo, mas,
+em vez disso, fornecer algum nível de condução elétrica, embora com uma alta resistência em
+comparação com um material "condutor". O sistema reivindicado cria uma baixa tensão por
+distância que muda o comportamento do sistema de um dielétrico que suporta alta tensão em
+distâncias curtas para um sistema que pode suportar alta tensão em uma distância
+relativamente longa (de frações de polegada a algo na ordem de um a três pés ou mais).
+
+
+
+
+                                                                                          Página 3
+                                        BR102013013975-0
+
+
+
+       Argumento 3:
+
+
+       Esses requisitos são refletidos nos valores de resistência reivindicados para o material
+no presente pedido. O material claramente não é um condutor, pois as reivindicações exigem
+uma resistência acima de 100 kilohms por metro. Conforme observado acima, este valor mínimo
+de resistência garante que a intensidade da descarga elétrica causada por descargas
+atmosféricas seja reduzida. No entanto, nem o material é um isolante. As reivindicações
+estabelecem um limite superior para a resistência de 100 megaohms por metro.
+Conforme observado acima, este valor de resistência máxima garante que o acúmulo de carga
+eletrostática seja reduzido, pois a estática pode ser dissipada. Portanto, o material é dissipativo
+em vez de isolante.
+
+
+       A partir de uma análise do documento D1, é possível determinar que D1 descreve um
+isolamento para um sistema de fornecimento de combustível de aeronave mas com uma faixa
+de valores de resistência que permite a redução da corrente eletrica que o atravessa para o
+caso de uma descarga atmosférica e também possibilita a redução e dissipação de descargas
+estáticas que podem surgir durante a operação do sistema pleiteado (Figuras 1A, 1B e 2,
+Resumo, relatório descritivo, parágrafos [0031], [0032], [0087] a [0089]). Tais características são
+mesmas descritas no argumento 3 e, mesmo com D1 referindo-se a um isolante usado em
+linhas de transmissão/fornecimento de combustível, as características de operação do sistema
+descrito em D1, antecipam as características descritas no material dissipativo dos
+componentes/conexões descritas na matéria pleiteada no presente pedido patente de invenção.
+Sendo assim, a referida análise descrita anteriormente contraria os argumentos 1 e 3,
+anteriorizando o efeito técnico do presente pedido de patente de invenção.
+       O sistema descrito em D1, contraria o argumento 2, visto que o técnico no assunto
+conseguiria obter os mesmos resultados em todo o sistema de transmissão de combustível uma
+vez que o circuito equivalente resultante da utilização de um material com maior resistividade,
+proposta descrita em D1 (resumo, relatório descritivo, parágrafos [0080] a [0089]) reduziria a
+corrente elétrica no sistema de transmissão de combustível uma vez que esta percorreria um
+trecho do sistema com componentes que possuem resistência em um valor específico para
+reduzir as correntes elétricas a níveis seguros e permitir a dissipação de cargas elétricas
+resultantes do fluxo de combustível no interior do sistema (relatório descritivo, parágrafos [0087]
+a [0089]).
+
+
+
+       Argumento 4:
+
+
+       Isso também decorre da divulgação de D1, em que o parágrafo [0038] e a Tabela 1
+descrevem materiais dissipativos como tendo uma resistividade de volume de cerca de 1 x 10 3
+cm a 1 x 10 10 cm, em comparação com isoladores que são descritos como tendo uma
+
+
+
+                                                                                           Página 4
+                                       BR102013013975-0
+
+
+resistividade de volume de pelo menos 1 x 10 10 cm. Os valores de resistividade de volume
+para o material reivindicado são fornecidos na página 25, parágrafo [0089] do presente pedido
+como entre 1 x 10 4 cm a 1 x 10 9 cm, ou seja, valores correspondentes a um material
+dissipativo e não aquele de um isolador de acordo com D1.
+
+
+       Além disso os parágrafos [0080], [0081] e [0089] do relatório descritivo de D1
+adicionamente às reivindicações 1 a 8 de D1, sugerem a um técnico no assunto a combinação
+de múltiplos materiais e combinação destes em valores dentro de faixas determinadas para a
+implementação do isolador e obtenção de uma resistência específica que, como descrito
+anteriormente, anterioriza as características do material selecionado descrito no presente pedido
+de patente de invenção. Tal análise contraria o argumento 4.
+       A combinação entre os documentos D1 e D2 torna-se possível por um técnico no
+assunto, visto que os sistemas e dispositivos descritos nos referidos documentos referem-se a
+um mesmo campo técnico com soluções que possuem efeitos técnicos similares e
+características complementares.
+       Sendo assim o novo quadro reivindicatório apresentado ainda possui características que
+não são essenciais e não possuem efeito técnico frente aos documentos D1 e D2, e a possível
+combinação destes por um técnico no assunto.
+
+
+       Reitera-se portanto, a partir das análises e argumentações apresentados no parecer
+publicado na RPI nº 2605 de 08/12/2020 e no presente parecer, que a matéria pleiteada no
+pedido de patente de invenção é anteriorizada por meio da combinação entre D1 e D2, que
+permite ao técnico no assunto reproduzir o sistema e método pleiteados e seus efeitos técnicos.
+Isto implica que as reivindicações 1 a 13 não possuem atividade inventiva.
+
+
+
+
+                                                                                         Página 5
+                                       BR102013013975-0
+
+
+
+
+Conclusão
+
+
+
+       Após a análise da documentação apresentada, reitera-se que a invenção decorre de
+maneira óbvia para o técnico no assunto a partir dos documentos D1 e D2 presentes no estado
+da técnica, sendo a matéria pleiteada no presente pedido patente de invenção desprovida de
+atividade inventiva.
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   as reivindicações estão indefinidas (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                    Publique-se o indeferimento (9.2).
+
+
+
+                                                                 Rio de Janeiro, 25 de março de 2021.
+
+
+
+
+Vitor Lemos Maia
+Pesquisador/ Mat. Nº 2390867
+DIRPA / CGPAT III/DIFEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+003/20
+
+
+
+
+                                                                                             Página 6
+

@@ -1,0 +1,205 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112014014731-0           N.° de Depósito PCT: US2012/069568
+ Data de Depósito:                   13/12/2012
+ Prioridade Unionista:               US 61/576,969 (16/12/2011); US 13/712,602 (12/12/2012)
+ Depositante:                        AMANA FUTURE, LLC (US)
+ Inventor:                           IBRAHIM N. AL-ZABEN
+ Título:                             Sistema de faturamento e rastreamento de comunicações
+
+                                                              PARECER
+O pedido de patente de invenção trata de sistema para comunicações de faturamento entre um
+assinante e um profissional verificado.
+
+Em 05/08/2021, por meio da petição 870210071194, o depositante apresentou modificações no
+pedido em resposta ao parecer emitido no âmbito da Resolução Nº 241/2019, notificado na RPI
+2552 de 03/12/2019 segundo a exigência preliminar (6.21). Não foram apresentadas
+argumentações quanto ao estado da técnica citado no Relatório de Busca.
+
+Em 13/03/2023, por meio da petição 870230021203, a requerente apresentou modificações no
+pedido em resposta ao parecer emitido, notificado na RPI 2710 de 13/12/2022 (despacho 7.1).
+Estas modificações estão consideradas no Quadro 1.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                               27/68 a 62/68
+                                                                             870230021203           13/03/2023
+Quadro Reivindicatório                             63/68 a 68/68
+Desenhos                                                 67/89
+                                                                             870210071194           05/08/2021
+Resumo                                             68/89 a 86/89
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                            x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                       BR112014014731-0
+
+
+Comentários/Justificativas
+
+A matéria das reivindicações 1 a 16 não é considerada invenção nem modelo de utilidade, pois
+se trata de esquemas, planos, princípios ou métodos comerciais, se enquadrando no disposto
+no Art. 10 (III) da LPI. De acordo com a Resolução N° 169/2016 (que institui as Diretrizes de
+Exame de Pedidos de Patente  Bloco II  Patenteabilidade), os itens contidos no inciso III do
+artigo 10 da LPI, mesmo quando utilizarem meios técnicos ou tenham utilidade prática não serão
+considerados invenção. O examinador deve identificar se a matéria reivindicada, considerada
+como um todo, soluciona problemas comerciais, contábeis, financeiros, educativos, publicitários,
+de sorteio e/ou de fiscalização, e não um problema técnico (1.9).
+
+Particularmente, a matéria pleiteada diz respeito a faturamento de comunicações entre um
+assinante e um profissional (o profissional sendo uma personalidade da mídia, um médico, um
+atleta), envolvendo etapas tais quais determinar uma taxa de faturamento aplicado usando um
+valor definido pelo profissional verificado, transmitir a taxa de faturamento aplicado para o
+dispositivo de comunicação do assinante, calcular um custo de comunicação, utilizando a taxa
+de faturamento aplicada e a duração faturável, pagar ao profissional verificado uma parte do
+custo de comunicação, contabilidade de comunicações anteriores e cobranças de comunicação
+etc; características estas sendo implementadas a partir de elementos computacionais (que
+formam o núcleo dos aspectos técnicos) corriqueiros e largamente conhecidos na data de
+prioridade do presente pedido de patente de invenção, tais quais sistema de computador,
+identificação de dispositivo registrado, sistema de rastreamento de ligação, geração de arquivo
+de dados de comunicação, dentre outros.
+
+Apesar de não comentar explicitamente acerca do enquadramento da matéria pleiteada no Art.
+10 da LPI em sua manifestação (petição 870230021203 de 13/03/2023), a requerente tece
+essencialmente os seguintes esclarecimentos: um assinante pode acessar um profissional por
+meio de um sistema de comunicação, por um período de tempo, sendo rastreada para gerar
+uma taxa de faturamento usando um valor definido pelo profissional, que é transmitida ao
+dispositivo de comunicação do assinante antes de ser iniciada a conexão entre o dispositivo de
+comunicação do assinante e o dispositivo de comunicação do profissional e rastrear a conexão
+para obter uma duração de conexão e um sinal de faturamento, encerrar a conexão entre o
+dispositivo de comunicação do assinante e o dispositivo de comunicação registrado para o
+profissional e gerar um arquivo de dados de comunicação que permite calcular a taxa a ser
+repassada ao profissional. Contudo, tal argumentação diz respeito fundamentalmente a
+aspectos e técnicas de faturamento e cobrança de valores relativos a serviços de
+telecomunicações; dessa forma, as alegações não são consideradas persuasivas e o
+enquadramento da matéria pleiteada no Art. 10 (III) da LPI é mantido.
+
+
+
+
+                                                                                         Página 2
+                                           BR112014014731-0
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+
+                                                     ---
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                               US20080147741 A1                              19/06/2008
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+      Requisito de Patenteabilidade                Cumprimento           Reivindicações
+                                                           Sim                   ---
+           Aplicação Industrial
+                                                           Não                   ---
+                                                           Sim                   ---
+                  Novidade
+                                                           Não                   ---
+
+                                                           Sim                   ---
+            Atividade Inventiva
+                                                           Não                   ---
+Comentários/Justificativas
+
+De acordo com o disposto na seção Comentários/Justificativas do Quadro 2, a matéria pleiteada
+está fundamentada na implementação de esquemas, planos, princípios ou métodos comerciais.
+Neste contexto, o Quadro Reivindicatório não é avaliado quanto aos requisitos de
+patenteabilidade (vide Resolução n° 169/2016  Diretrizes de Exame de Pedidos de Patente 
+Bloco II  1.1 e 1.2).
+
+No entanto, exclusivamente por economia processual, é comentado documento que descreve
+características da matéria pleiteada; por exemplo, o documento D1 menciona servidor
+(parágrafos [0008], [0021]), módulo de verificação [parágrafo 0023]), obter uma pluralidade de
+dados de verificação para o profissional verificado, verificar, com base na pluralidade de dados
+de verificação, pelo menos um selecionado do grupo que consiste em uma identidade do
+profissional verificado e uma credencial do profissional verificado para gerar um repositório
+profissional verificado que corresponde ao indivíduo e armazenar, no repositório de profissional
+verificado, a pluralidade de dados de verificação e uma identificação (ID) de dispositivo
+registrado associado com um dispositivo de comunicação usado pelo profissional verificado
+(parágrafos [0053], [0056], [0059], [0068]), sistema de rastreamento central (parágrafo [0045]),
+receber um pedido de comunicação visando a identificação do dispositivo registrado a partir de
+
+
+                                                                                          Página 3
+                                        BR112014014731-0
+
+
+um dispositivo de comunicação assinante associado a um ID de assinante, iniciar uma ligação
+entre o dispositivo de comunicação do assinante e o dispositivo de comunicação utilizado pelo
+profissional (parágrafo [0039]), rastrear ligação, iniciar um término da ligação entre o dispositivo
+de comunicação de assinante e o dispositivo de comunicação usado pelo profissional, gerar
+arquivo de dados de comunicação (parágrafo [0045]).
+
+Ressalta-se que em uma eventual discussão acerca de requisitos de patenteabilidade,
+características que não contribuem ao caráter técnico da invenção (como, por exemplo,
+características de cunho comercial) não são consideradas para avaliação de atividade inventiva.
+Tal situação pode ocorrer se uma característica contribui apenas para a solução de um problema
+não técnico, tal como um problema em um campo excluído pelo artigo 10 da LPI (observar o
+disposto na Resolução N° 169/2016 - institui as Diretrizes de Exame de Pedidos de Patente 
+Bloco II  Patenteabilidade  5.18).
+
+Nota: não foram apresentadas argumentações quanto aos ensinamentos da anterioridade
+mencionada em parecer de exame técnico notificado RPI 2710 de 13/12/2022.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+
+
+      -   não é considerado invenção, uma vez que incide no Art. 10 da LPI.
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                                 Rio de Janeiro, 1 de junho de 2023.
+
+
+
+
+Fábio Vieira Batista de Nazaré
+Pesquisador/ Mat. Nº 1958231
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 001/18
+
+
+
+
+                                                                                            Página 4
+

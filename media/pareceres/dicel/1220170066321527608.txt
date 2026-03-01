@@ -1,0 +1,187 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122017006632-3      N.° de Depósito PCT:
+ Data de Depósito:                   01/04/2014
+ Prioridade Unionista:               -
+ Depositante:                        DOLBY LABORATORIES LICENSING CORPORATION (US); DOLBY
+                                     INTERNATIONAL AB (NL)
+ Inventor:                           PER HEDELIN; ARIJIT BISWAS; MICHAEL SCHUG; VINAY
+                                     MELKOTE
+ Título:                             SISTEMA E MÉTODO DE COMPANSÃO PARA REDUZIR O RUÍDO
+                                     DE QUANTIZAÇÃO COM O USO DE EXTENSÃO DE ESPECTRO
+                                     AVANÇADA
+
+                                                                PARECER
+          Em 29/09/2021, por meio da petição 870210089668, a Requerente apresentou
+argumentação em resposta ao parecer emitido, notificado na RPI 2635 de 06/07/2021 (despacho
+7.1).
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                        1                870170023146     07/04/2017
+Relatório Descritivo                                    2 a 30               870170021178     30/03/2017
+Quadro Reivindicatório                                   1a5                 870170021178     30/03/2017
+Desenhos                                                 1a7                 870170021178     30/03/2017
+Resumo                                                      1                870170021178     30/03/2017
+
+
+Não concordamos com a manifestação da requerente feita na petição 870210089668, de
+29/09/2021.
+
+A seguir apresentamos o motivo com algumas equivalências:
+
+Trechos de texto que compõem a reivindicação 1 da petição 870170021178 de 30/03/2017 do
+pedido BR122017006632-3:
+    . Método de expansão de um sinal de áudio caracterizado pelo fato de que compreende:
+    receber um sinal de áudio; e
+    expandir o sinal de áudio a uma faixa dinâmica expandida através de um processo de
+      expansão que compreende: dividir o sinal de áudio recebido em uma pluralidade de
+      segmentos, calcular um ganho para cada segmento com o uso de uma média baseada
+      não energética de uma representação de domínio de frequência do sinal de áudio, e
+      aplicar o ganho a cada segmento respectivo para obter um sinal de áudio de faixa
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                           BR122017006632-3
+       dinâmica expandida, em que aplicar o ganho amplifica os segmentos de intensidade
+       relativamente alta e atenua os segmentos de intensidade relativamente baixa.
+
+Trechos de texto que compõem a reivindicação 1 da petição 870200106208 de 24/08/2020 do
+pedido BR112015019176-2:
+    Método de expansão de um sinal de áudio caracterizado pelo fato de que compreende:
+    receber um sinal de áudio; e
+    expandir o sinal de áudio a uma faixa dinâmica expandida através de um processo de
+      expansão que compreende: dividir o sinal de áudio recebido em uma pluralidade de
+      segmentos de tempo com o uso de um formato de janela definido, calcular um ganho de
+      banda larga para cada segmento de tempo no domínio de frequência usando uma norma p
+      de magnitudes espectrais de cada segmento de tempo de uma representação de domínio
+      de frequência do sinal de áudio, em que o valor da norma p é selecionado para enfatizar o
+      conteúdo espectral fraco do sinal de áudio versus conteúdo espectral forte do sinal de
+      áudio, e aplicar valores de ganho individuais a cada segmento de tempo para obter o sinal
+      de áudio de faixa dinâmica expandida, em que a aplicação dos valores de ganho
+      individuais amplifica os segmentos de intensidade relativamente alta e atenua os
+      segmentos de intensidade relativamente baixa.
+
+   Concluímos que o método e sistema de compreensão para reduzir o ruído de
+codificação em um codec de áudio são os mesmos em ambas as petições, levando a
+conclusão de que os objetos reivindicados são idênticos em ambas as reivindicações.
+
+    Não faremos a comparação das reivindicações independentes [6, 11, 16] da petição
+870170021178 de 30/03/2017 do presente pedido (BR122017006632-3) com as reivindicações [6,
+11, 16] da petição 870200106208 de 24/08/2020 do pedido BR112015019176-2 pois o objeto
+pleiteado possui o mesmo efeito técnico em ambas as petições e a comparação já foi feita acima.
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                           Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                   x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                           x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   x
+O pedido está de acordo com disposto no art. 32 da LPI                    x
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim         Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+
+                                                                                      Página 2
+                                                 BR122017006632-3
+
+       Comentários/Justificativas
+
+
+
+
+                                   Quadro 4  Documentos citados no parecer
+
+           Código                               Documento                               Data de publicação
+             --                                      --                                          --
+
+
+             Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+              Requisito de Patenteabilidade               Cumprimento              Reivindicações
+                                                              Sim                          --
+                      Aplicação Industrial
+                                                              Não                          --
+                                                              Sim                          --
+                           Novidade
+                                                              Não                          --
+
+                                                              Sim                          --
+                      Atividade Inventiva
+                                                              Não                          --
+
+
+
+       Comentários/Justificativas
+
+                 No pedido [BR122017006632-3], o qual consiste de um pedido dividido do pedido
+       [BR112015019176-2]; a matéria das reivindicações independentes [1, 6, 11, 16] do quadro
+       reivindicatório do presente pedido [BR122017006632-3] (petição nº [870170021178] de
+       30/03/2017) trata da mesma matéria das reivindicações independentes [1, 6, 11, 16] do quadro
+       reivindicatório do pedido [BR112015019176-2] (petição nº [870200106208] de 24/08/2020).
+       Assim, há uma evidente duplicidade das referidas matérias, que pode vir a infringir o disposto no
+       Art. 6º da LPI em caso de deferimento de ambos os pedidos.
+
+                 De acordo com a Resolução PR INPI nº 124/2013, o procedimento de divisão de um
+       pedido de patente não deve ter como consequência a replicação ou a multiplicação da matéria
+       reivindicada (item 3.138). Adicionalmente, para a mesma matéria reivindicada não devem ser
+       concedidas duas patentes (item 3.140). Na hipótese do pedido dividido não atender ao Art. 6º da
+       LPI, o pedido dividido é passível de indeferimento (itens 3.141 e 3.142).
+
+       Conclusão
+
+                  Assim sendo, de acordo com o Art. 37, opino pelo indeferimento do presente pedido, uma
+       vez que:
+
+      -           as reivindicações incidem na proibição estabelecida no Art. 6º inc. VII da Lei nº 11.105/05
+e/ou no Art. 12 da Lei nº 10.814/03
+
+
+
+
+                                                                                                      Página 3
+                                      BR122017006632-3
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                           Rio de Janeiro, 17 de janeiro de 2022.
+
+
+
+
+Rodrigo Cesar Almeida de Carvalho
+Pesquisador/ Mat. Nº 2390500
+DIRPA / CGPAT III/DICEL
+
+
+
+      De acordo com o parecer acima, indefiro o presente pedido como Patente de Invenção.
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+ __________________________________________
+ Cid da Silva Garcia Monteiro
+ Substituto de Chefia de Divisão/ Mat. Nº 2390298
+ DIRPA / CGPAT III/DICEL Portaria INPI/PR Nº 548/19
+ Del. Comp. - Port. INPI/DIRPA Nº 017/19
+
+
+
+
+                                                                                        Página 4
+

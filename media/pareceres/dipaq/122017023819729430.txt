@@ -1,0 +1,341 @@
+                                  SERVIÇO PÚBLICO FEDERAL
+                   MINISTÉRIO DA INDÚSTRIA, COMÉRCIO EXTERIOR E SERVIÇOS
+                       INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                   RELATÓRIO DE BUSCA
+
+ N.° do Pedido:                      BR122017023819-1         N.° de Depósito PCT: US2010/054248
+ Data de Depósito:                   27/10/10
+ Prioridade Unionista:               US 61/255,685 (28/10/2009)
+ Depositante:                        Dow Agrosciences LLC (US)
+ Inventor:                           Richard Mann, Monte Weimer, Ändrea Mcveigh-Nelson
+ Título:                             MISTURA      HERBICIDA       SINÉRGICA     COMPREENDENDO
+                                     FLUROXIPIR E CIALOFOP, COMPOSIÇÃO HERBICIDA, E MÉTODO
+                                     PARA CONTROLAR VEGETAÇÃO INDESEJÁVEL 
+
+
+                                     IPC
+                                                      A01N 43/40, A01N 39/02, A01P 13/00
+ 1  CLASSIFICAÇÃO                   2017.01
+                                     CPC              A01N 43/40, A01N 39/02, A01N 2300/00
+ 2 - FERRAMENTAS DE BUSCA
+    EPOQUE      X ESPACENET                                       PATENTSCOPE
+    DIALOG      X USPTO                                           SINPI
+    CAPES          SITE DO INPI                                   STN
+
+
+3 - REFERÊNCIAS PATENTÁRIAS
+
+                                Número                                       Tipo   Data de Publicação Relevância *
+
+                           CN101530104                                        A         16/09/2009            N
+
+
+4 - REFERÊNCIAS NÃO-PATENTÁRIAS
+
+                                Autor/Publicação                                    Data de publicação   Relevância *
+                                            --                                               -                -
+
+
+Observações:
+
+                                                                             Rio de Janeiro, 11 de dezembro de 2017.
+
+ Maria Lucia Abranches Silva de Souza
+ Pesquisador/ Mat. Nº 1358401
+ DIRPA / CGPAT II/DIPAQ
+ Deleg. Comp. - Port. INPI/DIRPA Nº
+ 002/11
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                    Página 1
+                                                  BR122017023819-1
+
+
+
+
+* Relevância dos documentos citados:
+A documento que define o estado geral da técnica, mas não é       Y documento de particular relevância; a invenção
+   considerado de particular relevância;                             reivindicada não pode ser considerada dotada de
+N documento de particular relevância; a invenção reivindicada        atividade inventiva quando o documento é combinado
+   não pode ser considerada nova quando o documento é                com um outro documento ou mais de um;
+   considerado isoladamente;                                      PN documento patentário, publicado após a data de depósito
+I documento de particular relevância; a invenção reivindicada        do pedido em exame, ou da prioridade requerida para o
+   não pode ser considerada dotada de atividade inventiva ou de      pedido em exame,         cuja data de depósito, ou da
+   ato inventivo quando o documento é considerado                    prioridade reivindicada, é anterior a data de depósito do
+   isoladamente;                                                     pedido em exame, ou da prioridade requerida para o
+                                                                     pedido em exame; esse documento patentário pertence
+                                                                     ao estado da técnica para fins de novidade, se houver
+                                                                     correspondente BR, conforme o Art. 11 §2.º e §3.º da LPI.
+
+
+
+
+                                                                                                                     Página 2
+                                   SERVIÇO PÚBLICO FEDERAL
+                    MINISTÉRIO DA INDÚSTRIA, COMÉRCIO EXTERIOR E SERVIÇOS
+                        INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR122017023819-1         N.° de Depósito PCT: US2010/054248
+ Data de Depósito:                     27/10/10
+ Prioridade Unionista:                 US 61/255,685 (28/10/2009)
+ Depositante:                          Dow Agrosciences LLC (US)
+ Inventor:                             Richard Mann, Monte Weimer, Ändrea Mcveigh-Nelson
+ Título:                               MISTURA      HERBICIDA       SINÉRGICA     COMPREENDENDO
+                                       FLUROXIPIR E CIALOFOP, COMPOSIÇÃO HERBICIDA, E MÉTODO
+                                       PARA CONTROLAR VEGETAÇÃO INDESEJÁVEL 
+
+                                                              PARECER
+
+
+           O presente pedido corresponde a uma divisão do pedido BR112012009795-4 (pedido
+original), encontrando-se na mesma fase de processamento deste (conforme Artigo 28 da
+Instrução Normativa/INPI no 31/2013).
+
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas Sim                            Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                      X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)       X
+
+O pedido refere-se a Sequências Biológicas                                                                X
+
+Comentários/Justificativas
+
+
+
+           A requerente apresentou para o pedido original (petição nº 870160050759, de
+12/09/2016)            declaração negativa de acesso ao patrimônio genético nacional (exigência
+constante no parágrafo 2º do artigo 3º da Resolução/INPI n° 207 de 24/04/2009, revogada e
+republicada como Resolução/INPI n° 69/2013, através da RPI nº 2202 de 19/03/2013). Uma vez
+que o presente pedido é um pedido dividido do BR112012009795-4, a matéria ora objeto de
+proteção está contida em tal pedido, e, portanto a declaração de negativa de acesso ao
+patrimônio genético apresentada para o pedido original será considerada válida também para o
+presente pedido.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                           Página 1
+                                                         BR122017023819-1
+
+                                     Quadro 1  Páginas do pedido examinadas
+             Elemento                                   Páginas                n.o da Petição               Data
+Relatório Descritivo                                     1 a 18                870170085171           6 de Nov de 2017
+Listagem de sequências em
+                                                              -                        -                      -
+formato impresso
+Listagem de sequências*                        Código de Controle                      -                      -
+Quadro Reivindicatório                                    1e2                  870170085171           6 de Nov de 2017
+Desenhos                                                      -                        -                      -
+Resumo                                                       1                 870170085171           6 de Nov de 2017
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                  Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                                X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                        X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                          X
+O pedido está de acordo com disposto no art. 32 da LPI                                                             X
+Comentários/Justificativas
+
+       O presente pedido foi apresentado por meio da petição no 870170085171 de 06/11/2017,
+pleiteando uma mistura herbicida sinérgica que compreende uma quantidade herbicidamente
+eficaz de: (a) fluroxipir, ou um éster ou sal agricolamente aceitável do mesmo; e (b) cialofop,
+ou um éster ou sal agricolamente aceitável do mesmo, uma composição compreendendo a
+referida mistura e um método para controlar vegetação indesejável.
+
+       Comparando a matéria pleiteada no presente pedido e a pleiteada no pedido original,
+observa-se       que      o     quadro        reivindicatório          do   presente   pedido    dividido   compreende
+essencialmente a mesma matéria do quadro reivindicatório do pedido original apresentado por
+meio da petição no 870160056556 de 03/10/2016, o qual foi considerado em desacordo com o
+disposto no Artigo 32 da LPI, pelas razões expostas a seguir.
+
+       O quadro reivindicatório válido1 do pedido original (petição no 860130005821 de
+29/10/2013) contempla uma mistura herbicida sinérgica, compreendendo (a) fluroxipir, ou um
+éster ou sal agricolamente aceitável do mesmo e (b) cialofop, ou um éster ou sal agricolamente
+aceitável do mesmo, em que a proporção do peso do fluroxipir (equivalente ácido) para cialofop
+(equivalente ácido) está na faixa de 4,4:1 a 2,2:1 ou de 1:1,4 a 1:3,6, composições e métodos
+empregando a referida mistura (reivindicações 1, 2, 6 (parte), 7 (parte), 8 a 11, 19 (parte), 20
+(parte), e 21 (parte)).
+
+       Em resposta ao primeiro exame técnico do pedido original (RPI 2374 de 05/07/2016), a
+requerente apresentou um novo quadro reivindicatório (petição no 870160056556 de
+
+
+1 Quadro reivindicatório apresentado até a data do requerimento do exame do pedido de patente.
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                               Página 2
+                                                          BR122017023819-1
+
+
+03/10/2016), pleiteando uma mistura                           herbicida sinérgica, caracterizada pelo fato de que
+consiste em uma quantidade herbicidamente eficaz de: (a)                                 fluroxipir, ou um éster ou sal
+agricolamente aceitável do mesmo; e (b) um herbicida inibidor da ACCase, sendo que o
+herbicida inibidor da ACCase é cialofop, ou um éster ou sal agricolamente aceitável do mesmo.
+
+         No segundo exame técnico do pedido original (RPI 2433 de 22/08/2017), foi constatado
+que houve ampliação da matéria reivindicada (petição no 870160056556 de 03/10/2016), uma
+vez que o quadro reivindicatório válido (petição no 860130005821, de 29/10/2013) previa
+somente composições com proporção do peso do fluroxipir (equivalente ácido) para cialofop
+(equivalente ácido) na faixa de 4,4:1 a 2,2:1 ou de 1:1,4 a 1:3,6. Assim, o quadro reivindicatório
+apresentado para o pedido original após o primeiro exame (petição no 870160056556 de
+03/10/2016) não foi aceito por infringir ao disposto no Artigo 32 da LPI.
+
+         A Tabela abaixo apresenta um comparativo entre a matéria pleiteada no presente
+pedido e a analisada no pedido original:
+
+           Pedido original                                 Pedido original                       Presente Pedido
+     Quadro reivindicatório válido                     Quadro reivindicatório               Quadro reivindicatório válido
+     (petição no 860130005821                       apresentado após 1o exame               (petição no 870170085171
+           de 29/10/2013)                            (petição no 870160056556                      de 06/11/2017
+                                                            de 03/10/2016)
+                                                 Considerado em desacordo com o
+                                                            Art. 32 da LPI
+                                                  (parecer notificado - 22/08/2017)
+
+Mistura herbicida sinérgica, que                 Mistura herbicida sinérgica que         Mistura herbicida sinérgica que
+compreende         uma       quantidade          consiste em uma quantidade              compreende em uma quantidade
+herbicidamente eficaz de:                        herbicidamente eficaz de:               herbicidamente eficaz de:
+
+ (a) fluroxipir, ou um éster ou sal                (a)    fluroxipir, ou um éster ou      (a)   fluroxipir, ou um éster ou
+agricolamente          aceitável         do      sal agricolamente aceitável        do   sal agricolamente aceitável    do
+mesmo; e                                         mesmo; e                                mesmo; e
+
+ (b) cialofop, ou um éster ou sal                 (b) cialofop, ou um éster ou sal        (b) cialofop, ou um éster ou sal
+agricolamente          aceitável         do      agricolamente          aceitável   do   agricolamente     aceitável    do
+mesmo,                                           mesmo.                                  mesmo.
+
+ em que a proporção do peso
+do      fluroxipir          (equivalente
+ácido)          para            cialofop
+(equivalente ácido) está na
+faixa de 4,4:1 a 2,2:1 ou de
+1:1,4 a 1:3,6.
+
+Composição              e         método         Composição             e      método    Composição        e      método
+empregando a referida mistura                    empregando a referida mistura           empregando a referida mistura
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                                Página 3
+                                                         BR122017023819-1
+
+
+         Considerando que:
+
+ O presente pedido encontra-se na mesma fase de processamento do pedido original;
+
+ O presente pedido dividido foi apresentado (06/11/2017) após o segundo exame técnico do
+pedido original (22/08/2017);
+
+ O quadro reivindicatório do presente pedido dividido contempla essencialmente a mesma
+matéria do quadro reivindicatório analisado no segundo exame técnico do pedido original
+(petição no 870160056556 de 03/10/2016);
+
+são válidas para o presente pedido todas as colocações e discussões feitas no segundo exame
+técnico realizado para o pedido original, quanto ao Artigo 32 da LPI. Deste modo, assim como
+concluído no segundo parecer técnico para o pedido original, o quadro reivindicatório
+apresentado para o presente pedido dividido infringe o disposto no artigo 32 da LPI, pois
+houve ampliação da matéria pleiteada (reivindicações 1, 2, 4 e reivindicações interligadas), em
+relação ao quadro reivindicatório válido para o pedido original.
+
+         Cabe ressaltar que de acordo com despacho no 08/2010 do Procurador-chefe, a
+aplicação do disposto no Artigo 26 da LPI não pode subverter a inteligência do artigo 32 da LPI,
+que fixa como marco temporal para alteração voluntária do quadro reivindicatório de uma
+patente, a data do correspondente pedido de exame. Assim, entende-se que a alteração
+voluntária do quadro reivindicatório somente poderá ocorrer se a referida divisão tenha se
+operado antes da solicitação de exame do pedido original.
+         Logo, com efeito, significa dizer que, na hipótese da divisão de patente ocorrida após o
+pedido de exame, a alteração voluntária do quadro reivindicatório estará vedada, em obediência
+à inteligência do artigo 32 da LPI. Admitir interpretação diferente, ou seja, de que as patentes
+divididas podem ter seus respectivos quadros reivindicatórios alterados quando produzidas após
+solicitação do exame do pedido original, implicaria em conferir a tais patentes, um tratamento
+diferenciado e privilegiado, se comparado aos demais pedidos, na medida em que resultaria na
+não submissão daquelas (divididas) à regra fixada do artigo 32 da referida Lei.
+
+
+                  Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI           -                 -
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI         -                 -
+Comentários/Justificativas
+
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                    Data de publicação
+     -                                                          -                           -
+
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                            Página 4
+                                                            BR122017023819-1
+
+
+       Quadro 5 - Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade                                      Cumprimento              Reivindicações
+                                                                              Sim                          -
+                Aplicação Industrial
+                                                                             Não                           -
+                                                                              Sim                          -
+                        Novidade
+                                                                             Não                           -
+
+                                                                              Sim                          -
+                Atividade Inventiva
+                                                                             Não                           -
+Comentários/Justificativas
+
+
+
+Conclusão
+
+            De acordo com o item 3.3 da Resolução INPI/PR no 093/2013, o pedido de patente
+dividido deve ser indeferido com base no disposto no Artigo 32 da LPI nos casos em que,
+durante o processamento do pedido original, já tenha sido constatado que a matéria pleiteada
+infringe ao Artigo 32 da LPI. Ainda, conforme o item 3.137 das Diretrizes de Exame de Pedidos
+de Patente (resolução INPI/PR no 124/2013 de 04/12/2013), Em caso de um pedido dividido ter
+sido gerado a partir da matéria já examinada e que não apresente mérito de patenteabilidade, o
+mesmo deverá ser indeferido, persistindo as mesmas objeções referentes a esse mérito.
+
+            Tendo em vista que a matéria reivindicada no presente pedido já havia sido causa de
+objeção relativa ao Artigo 32 da LPI durante o processamento do pedido original, permanece o
+fato que a matéria pleiteada no presente pedido dividido não atende ao disposto no Artigo 32 da
+LPI.
+            Assim, de acordo com o Art. 37, opino pelo indeferimento do presente pedido, uma vez
+que:
+        -     houve acréscimo de matéria do pedido ou do escopo das reivindicações (Art. 32 da LPI).
+
+
+
+        De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                                    Rio de Janeiro, 11 de dezembro de 2017.
+
+                                                                                           Publique-se o indeferimento (9.2).
+
+
+
+Maria Lucia Abranches Silva de Souza
+Pesquisador/ Mat. Nº 1358401
+DIRPA / CGPAT II/DIPAQ
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+            Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                             Página 5
+

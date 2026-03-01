@@ -1,0 +1,158 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122022017178-8         N.° de Depósito PCT:EP2013/059363
+ Data de Depósito:                   06/05/2013
+ Prioridade Unionista:               EP 12305537.8 (14/05/2012)
+ Depositante:                        DOLBY INTERNATIONAL AB (NL)
+ Inventor:                           ALEXANDER KRÜGER, SVEN KORDON, JOHANNES BOEHM,
+                                     JOHANN-MARKUS BATKE
+ Título:                             Método e aparelho para descomprimir um sinal ambissônico de
+                                     ordem superior (AOS) comprimido e meio legível por computador não
+                                     transitório
+
+                                                                PARECER
+         O presente pedido corresponde a uma divisão do pedido BR112014028439-3, solicitada
+pelo depositante por meio da petição 870220077290 em 26/08/2022.
+
+         Conforme Art.28 da IN 31/2013, considera-se que o pedido dividido está na mesma fase
+processual em que se encontra o pedido original.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1  41               870220077290           26/08/2022
+Quadro Reivindicatório                                   12                 870220077290           26/08/2022
+Desenhos                                                 12                 870220077290           26/08/2022
+Resumo                                                      1                870220077290           26/08/2022
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                                   x
+Comentários/Justificativas
+
+         Comparando o quadro apresentado com o quadro reivindicatório válido (QRv) quando do
+pedido de exame do pedido original (petição 020140034004, de 14/11/2014), vemos que a
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR122022017178-8
+
+
+reivindicação 1 do QR supostamente equivale à reivindicação 2 do QRv. Ao comparar as
+características técnicas das citadas reivindicações, verifica-se que a reivindicação 1 do QR
+deixou de compreender que o método reivindicado é especificado para descomprimir um sinal
+Ambisonics de Ordem Superior (AOS), o qual foi comprimido pelas etapas de:
+
+        estimar as direções dominantes;
+
+        decompor ou decodificar a representação do sinal de AOS em diversos sinais
+           direcionais dominantes no domínio do tempo e informações direcionais correlatas, e
+           um componente ambiental residual no domínio da AOS, em que o dito componente
+           ambiental residual representa a diferença entre a dita representação do sinal de AOS e
+           uma representação dos ditos sinais direcionais dominantes;
+
+        comprimir o dito componente ambiental residual reduzindo sua ordem em relação à
+           sua ordem original;
+
+        transformar o dito componente de AOS ambiental residual de ordem reduzida para o
+           domínio espacial;
+
+        codificar perceptivamente os ditos sinais direcionais dominantes e o dito componente
+           de AOS ambiental residual transformado.
+
+      Além disso, o método deixou de executar a etapa de submeter à transformada inversa o
+dito componente de AOS ambiental residual transformado decodificado perceptivamente de
+modo a obter uma representação do domínio da AOS.
+
+      Do exposto conclui-se que o escopo de proteção do método proposto na reivindicação 1
+do QR é mais amplo que o da reivindicação 2 do QRv.
+
+      O mesmo argumento aplica-se de maneira análoga à reivindicação 5 do QR em relação à
+reivindicação 9 do QRv.
+
+      De acordo com a Resolução INPI 93/2013 (seção 3.3), caso o quadro reivindicatório
+amplie o escopo da proteção inicialmente reivindicada no quadro reivindicatório válido do pedido
+original, a divisão ocorra após o exame técnico do pedido original, e no exame do pedido original
+anterior à divisão o quadro reivindicatório do pedido original não atenda ao disposto no Artigo 32
+da LPI, o pedido de patente deve ser indeferido, com base no Art. 32 da LPI (situação 3.ii
+apresentada na seção 3.3 da Res. 93/2013).
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI       -               -
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI     -               -
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+
+
+
+                                                                                          Página 2
+                                         BR122022017178-8
+
+
+ Código                                 Documento                              Data de publicação
+     -        -                                                                           -
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade              Cumprimento                Reivindicações
+                                                     Sim                          -
+             Aplicação Industrial
+                                                     Não                          -
+                                                     Sim                          -
+                  Novidade
+                                                     Não                          -
+
+                                                     Sim                          -
+             Atividade Inventiva
+                                                     Não                          -
+
+
+
+Conclusão
+
+         Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+     -     acréscimo de matéria do pedido ou do escopo das reivindicações (Art. 32 da LPI)
+
+
+
+         De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 29 de dezembro de 2022.
+
+
+
+
+Marcelo de Azevedo Miguel
+Pesquisador/ Mat. Nº 2041813
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+007/16
+
+
+
+
+                                                                                              Página 3
+

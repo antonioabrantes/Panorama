@@ -1,0 +1,317 @@
+                              SERVIÇO PÚBLICO FEDERAL
+                               MINISTÉRIO DA ECONOMIA
+                   INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+N.° do Pedido:              BR112015014726-7          N.° de Depósito PCT: EP2013/076995
+                                                      (17/12/2013)
+
+                        Publicação Nacional:     Publicação Internacional: WO 2014/095935
+                        11/07/2017 (RPI 2427) (A1  26/06/2014)
+Data de Depósito (PCT): 17/12/2013
+Prioridade Unionista:   EP 12198221.9 (19/12/2012); EP 13152626.1 (25/01/2013)
+Depositante:            PREMIUM ELECTRONIC CO. LTD. (HK) (RPI 2435)
+Inventor(es):           MARCEL PETER (NL), GERARD MAES (NL)
+Título:                 Aparelho de exibição..
+
+                                PARECER DE EXAME TÉCNICO
+
+
+
+       O presente pedido de Patente de Invenção (PI), refere-se a um aparelho de exibição
+que compreende um líquido condutor de calor (46) em um compartimento impermeável a
+líquidos (11) que tem uma janela transparente (13).
+
+
+
+       Para realização industrial do reivindicado como inventivo no presente pedido de PI, um
+painel de exibição de visualização direta (12) com uma área frontal para apresentar informações
+está disposta dentro do compartimento impermeável a líquidos (11) em uma posição com
+relação à janela transparente (13) de modo que as informações são vistas através da janela
+transparente (13). O painel de exibição de visualização direta (12) é submerso no líquido
+condutor de calor (46).
+
+
+
+       Em 14/12/2021, foi publicada através da RPI Nº 2658, notificação de emissão de parecer
+técnico relativo ao pedido de Patente de Invenção (PI), referente a Ciência de Parecer (7.1),
+decorrendo a partir daquela data o prazo de 90 (noventa) dias para manifestação da Requerente
+quanto ao contido no citado parecer técnico.
+
+
+
+       Em    19/06/2015    e   14/03/2022,     através   das   Petições    860150126214/SP     e
+870220021877/SP, a Requerente apresenta os documentos listados no Quadro 1, a seguir:
+
+                          Quadro 1  Páginas do pedido examinadas
+            Elemento                  Páginas             N.o da Petição              Data
+
+
+
+
+                                                                                                    1
+                                          BR112015014726-7
+
+
+Relatório Descritivo (RD): com        16/47  26/47           870220021877/SP    14/03/2022
+11 (Onze) folhas, numerada
+como 01/11  11/11.
+Quadro Reivindicatório (QR):          13/47  15/47           870220021877/SP    14/03/2022
+com      03    (Três) folhas,
+apresentando 15 (Quinte)
+reivindicações.
+Desenhos (D´s): com 02                79/90  80/90           860150126214/SP    19/06/2015
+(Duas) folhas, apresentando
+03 (Três) figuras, numeradas
+de: Fig. 01A  Fig. 01B; e Fig.
+02.
+Resumo (R): com 01 (Uma)                  78/90               860150126214/SP    19/06/2015
+folha.
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                             Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                   X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                           X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                     X
+O pedido está de acordo com disposto no art. 32 da LPI                      X
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                             Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI        X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI      X
+Comentários/Justificativas
+
+       Em 15/11/2021, a Justiça Federal, da 13a. Vara Federal do Rio de Janeiro (TRF-RJ), no
+âmbito do Mandado de Segurança nº 5051373-49.2019.4.02.5101, sentenciou:
+       Do exposto, concedo parcialmente a segurança (CPC/2015, art. 269, I), para
+       determinar a nulidade parcial da Resolução n.º 241 de 2019, apenas no que se refere
+       à impossibilidade de realização de buscas complementares, sendo assegurado aos
+       representados pelas associações impetrantes que, em cada caso concreto, possam
+       fazer tais buscas, quando o entenderem adequado e pertinente.
+       Em 14/12/2021, o INPI publicou a PORTARIA/INPI/PRNº052, que em seu Art. 6º. revoga a
+Resolução INPI/PR Nº 241, de 03/07/2019. No seu Art. 5º, estabelece:
+       Por ocasião do prosseguimento do exame do pedido, poderá ser realizada a
+complementação da busca a que se refere o art. 3º desta Portaria.
+
+
+
+                                                                                              2
+                                      BR112015014726-7
+
+        Face à decisão judicial supracitada e à publicação da Portaria 52/2021, em pesquisas
+realizadas em bases de dados de documentos de (e pedidos de) patentes e em literatura não
+patentaria, foram encontrados os seguintes documentos capazes de indicar arranjos técnicos
+funcionais semelhantes aos pleiteados no QR do presente pedido:
+                         Quadro 4  Documentos citados no parecer
+
+ Código                              Documento                              Data de publicação
+(Relevân
+  cia)
+    D1                 US6256083 (B1) (HITACHI LTD[JP/US])                     03/07/2001
+    D2                 US2008225188 (A1) (HITACHI LTD[US])                     18/09/2008
+Comentários/Justificativas
+
+         Muito embora o documento D2, proteja o mesmo objeto do documento D1, sendo
+identicamente relevante, utilizaremos, neste momento, a título ilustrativo para exame do objeto
+pleiteado como inventivo no presente pedido, apenas o documento D1.
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15, da LPI)
+     Requisito de Patenteabilidade           Cumprimento               Reivindicações
+                                                  Sim                       01  15
+            Aplicação Industrial
+                                                  Não                          
+
+                                                  Sim                       01  15
+                 Novidade
+                                                  Não                          
+
+                                                  Sim                          
+            Atividade Inventiva
+                                                  Não                       01  15
+
+Comentários/Justificativas
+
+
+
+         A análise do QR do presente pedido, apresentado em 23/09/2020, através da Petição
+870200117572/SP, e mais especificamente sua Reivindicação Independente do Presente
+Pedido (RI**pp´s), que é a RI01pp (Aparelho ), quando confrontadas com o documento D1,
+constatamos que tanto a parte não caracterizante do pedido sob exame, quanto a parte
+caracterizante, encontram-se contempladas naquele documento, como veremos a seguir, via
+Parecer Técnico de primeiro exame, publicado em 14/12/2021, através da RPI 2658, que tanto a
+parte não caracterizante do pedido sob exame, quanto a parte caracterizante, encontravam-se
+contempladas naquele documento, como vimos a seguir.
+
+         Através da Reivindicação Independente 01 (RI01pp), do presente pedido, a
+Requerente reivindicou, em 23/09/2020, através da Petição 870200117572/SP, o que segue:
+
+         RI01pp (Aparelho de exibição para visualização direta de informações no aparelho de
+exibição)
+
+
+
+                                                                                                  3
+                                                BR112015014726-7
+
+
+         caracterizado por compreender:
+         ETAPA01: um líquido condutor de calor (46),
+         ETAPA02: um compartimento impermeável a líquidos (11) sendo preenchido com o
+líquido condutor de calor (46) e compreendendo uma janela transparente (13),
+         ETAPA03: um painel de exibição de visualização direta (12) tendo uma área frontal
+para apresentação de informações e estando disposto dentro do compartimento impermeável
+a líquidos (11) em uma posição com relação à janela transparente (13) para permitir a um
+espectador visualizar diretamente as informações através da janela transparente (13),
+         ETAPA04:         uma      retroiluminação         estando     disposta      dentro   do   compartimento
+impermeável a líquidos (11), o painel de exibição de visualização direta (12) e a
+retroiluminação sendo submersas no líquido condutor de calor (46).
+
+
+       No que se refere a sua manifestação, de 14/03/2022, através da Petição
+870220021877/SP, a Requerente entende que o documento D1, não contempla o reivindicado no
+presente pedido, pois:
+          O documento D1 é considerado o documento da técnica anterior mais próximo do objeto da reivindicação
+1. D1 reivindica: Um aparelho de exibição (figuras 3 e 9) compreendendo um líquido termo condutor (5), um invólucro
+impermeável a líquidos (coluna 8, linhas 46-50; fig.6) sendo preenchido com o líquido termo condutor (5) e
+compreendendo uma janela transparente (1a), um painel de exibição (2) tendo uma área frontal para exibir informações
+(52) e sendo disposto dentro do revestimento hermético de líquido em uma posição em relação à janela transparente
+(1a) para permitir a visualização das informações através da janela transparente (1a), o painel de exibição sendo
+submerso no líquido condutor térmico (coluna 13, linhas 30-46; fig. 6, 12, 13 e 15)..
+         O objeto da reivindicação 1, portanto, difere deste aparelho de exibição conhecido em que o painel de exibição
+é um painel de exibição de visão direta que permite a um espectador ver diretamente as informações através da janela
+transparente e em que o aparelho de exibição compreende uma retroiluminação disposta dentro do compartimento
+impermeável a líquidos, a retroiluminação sendo submersa no líquido condutor térmico.
+         O objeto da reivindicação 1 é, portanto, novo.
+         Com relação ao requisito da atividade inventiva, o IPRP concluiu que:
+         O problema a ser resolvido pela presente invenção pode ser considerado como simplificar o sistema de
+resfriamento de um aparelho de exibição adequado para ser visto diretamente por um espectador enquanto torna o
+painel de exibição livre de sujeira.
+         A solução para este problema proposta na reivindicação 1 do presente pedido é considerada como envolvendo
+uma etapa inventiva (Artigo 33 (3) PCT) pelas seguintes razões: não há nenhuma sugestão nos documentos do estado
+da técnica sobre um aparelho de exibição para visualização direta de informações no aparelho de exibição de acordo
+com a reivindicação 1.
+         Os documentos D1 e D2 descrevem telas de projeção de cristal líquido. Embora em ambos os documentos os
+painéis de cristal líquido estejam submersos em um líquido termo condutor, as fontes de luz usadas como lâmpadas de
+projeção são resfriadas por ventiladores. Além disso, os painéis de exibição de cristal líquido não permitem a
+visualização direta por um espectador das informações exibidas em suas superfícies externas. Nada no documento D1
+ou D2, portanto, levaria um técnico no assunto a submergir a unidade de iluminação no líquido condutor térmico que
+preenche o compartimento impermeável a líquidos no qual estão localizados os painéis de cristal líquido.
+         O documento D3 é ainda mais distante no sentido de que em D3 o painel de exibição de visão direta não está
+imerso, mas em contato com uma cavidade estanque a líquidos preenchida com um líquido condutor térmico localizado
+diretamente em frente ao painel de exibição. Além disso, o documento D3 menciona uma unidade de ventilação
+opcional adicional para resfriar a parte traseira do painel da tela e, portanto, não sugere o uso de líquido condutor
+térmico para resfriar a unidade de iluminação de fundo da tela.
+
+
+
+
+                                                                                                                      4
+                                              BR112015014726-7
+
+        Quando da entrada na fase nacional brasileira, o Depositante já apresentou ao INPI o quadro reivindicatório
+ajustado que foi objeto de análise para a emissão do IPRP, com a inclusão da reivindicação 13. Desta forma, o
+Depositante entende que o quadro reivindicatório ajustado apresentado quando da entrada da fase nacional já atende
+aos requisitos de patenteabilidade, conforme concluiu o IPRP. Não obstante, o Depositante apresenta novamente o
+quadro reivindicatório unicamente com ajustes formais para adaptar sua redação às instruções normativas adotadas por
+este Instituto. São apresentadas duas vias do quadro reivindicatório uma com marcas de revisão e uma limpa.. 
+
+
+
+        Ainda na sua manifestação, de 14/03/2022, através da Petição 870220021877/SP, a
+Requerente REapresenta o QR, de 23/09/2020, da Petição 870200117572/SP, com a mesma
+RI01pp (Aparelho ), e com as mesmas ETAPA01 a ETAPA04.
+
+
+        Face ao disposto acima, e às argumentações da Requerente de 14/03/2022, através da
+Petição 870220021877/SP, voltamos a sustentar QUE o documento de anterioridade (D1)
+(US6256083 (B1) (HITACHI LTD[JP/US])), ensina tanto através da sua Reivindicação
+Independente (RI) 01 (Aparelho), aqui chamada de RI01_D1, quanto através do seu relatório
+descritivo, e mais especificamente à Página 20/30, entre a Coluna 07, Linha 45  Coluna 08,
+Linha 50, de D1, referentes à Fig. 01, de D1, incluindo na sua RI01_D1, um aparelho de exibição
+de cristal líquido, possuindo um meio de resfriamento liquido preenchendo todo o espaço
+definido entre o elemento de exibição de cristal líquido e o primeiro elemento óptico, de modo que
+o referido meio de resfriamento preenche toda uma superfície de transmissão de luz de pelo
+menos um dos referidos elementos de exibição de cristal líquido e o referido elemento de
+polarização do lado de saída, contemplando a ETAPA01, da RI01pp. O aparelho de exibição
+possui ainda um membro de retenção disposto para conter pelo menos o elemento de exibição
+de cristal líquido, contemplando a ETAPA02, da RI01pp. Por sua vez, o elemento de exibição de
+cristal líquido para gerar a imagem, possui uma porção de tela de cristal líquido, disposta para
+receber a luz de projeção do referido sistema de fonte óptica e para gerar uma imagem de
+projeção dependendo de um sinal de driver, contemplando a ETAPA03, da RI01pp, tendo por um
+lado, um elemento de polarização lateral incidente posicionado em um lado incidente do referido
+elemento de tela de cristal líquido, e por outro lado um elemento de polarização do lado de
+saída posicionado em um lado de saída do referido elemento de tela de cristal líquido, formando
+um sistema de projeção óptica, incluindo um primeiro elemento óptico que recebe uma luz emitida
+da referida parte da tela de cristal líquido, disposto para projetar a luz emitida da referida parte da
+tela de cristal líquido em direção a um objeto de projeção, contemplando a ETAPA04, da RI01pp.
+
+        Tal reafirmação se sustenta dado que o documento de anterioridade D1, à Página 20/30,
+entre a Coluna 07, Linha 45  Coluna 08, Linha 50, de D1, temos as descrições referentes à
+Fig. 01, de D1. Na Fig. 01, de D1, temos uma vista em seção transversal que mostra os
+elementos estruturais de uma porção de tela de cristal líquido de acordo com uma primeira
+modalidade da presente invenção. Na Fig. 01, de D1, temos de forma mais detalhada, uma vista
+em seção transversal mostrando elementos estruturais de uma porção de tela de cristal líquido,
+contemplando a ETAPA03, da RI01pp, na qual a porção de tela de cristal líquido (elemento 11),
+compreende um elemento de tela de cristal líquido (elemento 2), um elemento de polarização
+lateral de saída (elemento 3b), uma primeira lente de projeção (elemento 1a), um elemento de
+retenção (elemento 6), contemplando a ETAPA02, da RI01pp, para manter esses componentes,
+e um meio de resfriamento (elemento 5), contemplando a ETAPA01, da RI01pp, e um elemento
+de polarização lateral incidente (elemento 3a), contemplando a ETAPA04, da RI01pp.
+
+
+
+
+                                                                                                                   5
+                                     BR112015014726-7
+
+
+      Desta forma, a matéria reivindicada através da reivindicação independente RI01pp, do
+presente pedido, encontram-se totalmente absorvida por D1.
+
+
+
+      Quanto às demais reivindicações, as mesmas também não são válidas por serem
+dependentes das reivindicações independentes contestadas acima
+
+
+
+Conclusão
+       Sendo assim, face ao exposto, considerando o QR da forma apresentada, somos de
+opinião que o presente pedido carece de atividade inventiva por ser mera decorrência do estado
+da técnica, representado por D1, não possuindo, pois, condições de patenteabilidade.
+
+
+       Face às conclusões a que se chegou o Exame Técnico, de acordo com o Art. 37, baseado
+no Art. 8º, combinado com o Art. 13, da LPI, INDEFIRO o presente pedido como PATENTE DE
+INVENÇÃO.
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                              Publique-se o indeferimento (9.2)
+
+
+                                                         Rio de Janeiro, 23 de Março de 2022.
+
+
+                                  Edson Ferreira Suisso
+                   Pesquisador em Propriedade Industrial / Mat. Nº 1548985
+                         Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+                           DIRPA / CGPAT III / DIPAT XV (DIPEQ)
+
+
+
+
+                                                                                              6
+

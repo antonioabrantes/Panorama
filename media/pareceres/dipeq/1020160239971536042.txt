@@ -1,0 +1,354 @@
+                              SERVIÇO PÚBLICO FEDERAL
+                               MINISTÉRIO DA ECONOMIA
+                   INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+N.° do Pedido:              BR102016023997-4         N.° de Depósito PCT:
+
+                        Publicação Nacional:    Publicação Internacional: CA2941272 (A1 
+                        02/05/2017 (RPI 2417) 26/04/2017)
+Data de Depósito (PCT): 14/10/2016
+Prioridade Unionista:   US 14/922395 (26/10/2015)
+Depositante:            THE BOEING COMPANY (US)
+Inventor(es):           CHRISTOPHER M. HODGES (US), KEVIN S. BROWN (US)
+Título:                 Método implementado por computador para exibir informação de
+                        motor de aeronave, sistema, e, aeronave..
+
+                                PARECER DE EXAME TÉCNICO
+
+
+
+       O presente pedido de Patente de Invenção (PI), refere-se a sistemas e métodos para
+exibir a velocidade N1 em uma exibição na cabine do piloto de uma maneira que proveja
+resolução aumentada na extremidade superior da faixa de operação.
+
+
+
+       Para realização industrial do reivindicado como inventivo no presente pedido de PI, isto é
+realizado por uma escala(s) variável(is) que melhora(m) a funcionalidade do indicador de N1
+(servindo como uma indicação de empuxo) na região desejada. Também, existe indicação visual
+para prover aos pilotos a capacidade de discernir se o empuxo atual está dentro de uma
+tolerância específica para o valor desejado dentro da região de decolagem. Esta indicação
+adicional é com base em mudanças de cor associadas com a estrutura de exibição N1.
+
+
+
+       Em 16/11/2021, foi publicada através da RPI Nº 2654, notificação de emissão de parecer
+técnico relativo ao pedido de Patente de Invenção (PI), referente a Ciência de Parecer (7.1),
+decorrendo a partir daquela data o prazo de 90 (noventa) dias para manifestação da Requerente
+quanto ao contido no citado parecer técnico.
+
+
+
+       Em    14/10/2016    e   21/07/2020,     através   das   Petições   870160059821/RJ      e
+870200090734/RJ, a Requerente apresenta os documentos listados no Quadro 1, a seguir, e
+solicita alteração do título do presente pedido para: MÉTODO IMPLEMENTADO POR
+COMPUTADOR PARA EXIBIR INFORMAÇÃO DE MOTOR DE AERONAVE, E, SISTEMA
+PARA INDICAR INFORMAÇÃO DE MOTOR DE AERONAVE A BORDO DE UMA
+AERONAVE..
+
+
+                                                                                                    1
+                                          BR102016023997-4
+
+
+                            Quadro 1  Páginas do pedido examinadas
+            Elemento                     Páginas               N.o da Petição           Data
+
+Relatório Descritivo (RD): com        06/81  27/81           870200090734/RJ         21/07/2020
+22 (Vinte e duas) folhas,
+numerada como 01/22 
+22/22.
+Quadro Reivindicatório (QR):          28/81  31/81           870200090734/RJ         21/07/2020
+com 04 (Quatro) folhas,
+apresentando    13    (Vinte)
+reivindicações.
+Desenhos (D´s): com 08 (Oito)         82/90  89/90           870160059821/RJ         14/10/2016
+folhas,   apresentando     17
+(Dezessete)           figuras,
+numeradas de: Fig. 01A  Fig.
+01B; Fig. 02; Fig. 03A  Fig.
+03B; Fig. 04  Fig. 04A; Fig.
+05; Fig. 05A  Fig. 05C; Fig.
+06  Fig. 09; Fig. 10A  Fig.
+10B.
+Resumo (R): com 01 (Uma)                  32/81               870200090734/RJ         21/07/2020
+folha.
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                  Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                        X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                          X
+O pedido está de acordo com disposto no art. 32 da LPI                           X
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                  Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI             X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI           X
+Comentários/Justificativas
+
+        Em pesquisas realizadas em bases de dados de documentos de (e pedidos de) patentes e
+em literatura não patentaria, de acordo com os critérios publicados em 19/05/2020, através da
+
+
+
+
+                                                                                                   2
+                                     BR102016023997-4
+
+RPI 2576, foi encontrado o seguinte documento capaz de indicar arranjos técnicos funcionais
+semelhantes aos pleiteados no QR do presente pedido:
+                         Quadro 4  Documentos citados no parecer
+
+ Código                              Documento                           Data de publicação
+(Relevân
+  cia)
+   D5           US2004113816 (A1) (MARIVENT CORPORATION[CA])                 17/06/2004
+Comentários/Justificativas
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15, da LPI)
+     Requisito de Patenteabilidade          Cumprimento              Reivindicações
+                                                 Sim                      01  13
+            Aplicação Industrial
+                                                 Não                         
+
+                                                 Sim                      01  13
+                  Novidade
+                                                 Não                         
+
+                                                 Sim                         
+            Atividade Inventiva
+                                                 Não                      01  13
+
+Comentários/Justificativas
+
+
+
+         A análise do QR do presente pedido, apresentado em 21/07/2020, através da Petição
+870200090734/RJ, e mais especificamente suas Reivindicações Independentes do Presente
+Pedido (RI**pp´s), que são as RI01pp (Método ) e RI08pp (Sistema ), quando
+confrontadas com o documento D5, constatamos, via Parecer Técnico de primeiro exame,
+publicado em 16/11/2021, através da RPI 2654, que tanto a parte não caracterizante do pedido
+sob exame, quanto a parte caracterizante, encontravam-se contempladas naquele documento,
+como vimos a seguir.
+
+         Através das Reivindicações Independentes 01 e 08 (RI01pp e RI08pp), do presente
+pedido, a Requerente reivindicou, em 21/07/2020, através da Petição 870200090734/RJ , o que
+segue:
+
+         RI01pp (Método implementado por computador para exibir informação de motor de
+aeronave) e RI08pp (Sistema para indicar informação de motor de aeronave a bordo de
+uma aeronave)
+         o referido método caracterizado pelo fato de compreender:
+         ETAPA01: obter um valor de um parâmetro de controle de motor durante a operação
+de um motor de aeronave, em que o parâmetro de controle de motor tem uma relação não
+linear com o empuxo, e em que o parâmetro de controle de motor é uma velocidade de
+ventoinha (N1);
+
+
+
+                                                                                               3
+                                                BR102016023997-4
+
+
+         ETAPA02: exibir uma escala em uma unidade de exibição (20); e
+         ETAPA03: exibir primeira simbologia (8) tendo uma posição em relação à escala
+usando uma função de escala não linear na região de uma velocidade zero de ventoinha para
+uma velocidade nominal de ventoinha máxima (N1Max), em que a sensibilidade é reduzida
+na velocidade zero de ventoinha e a sensibilidade é aumentada na velocidade nominal de
+ventoinha máxima, a primeira simbologia (8) representando o valor obtido da velocidade de
+ventoinha; e
+         ETAPA04: exibir segunda simbologia (6) que representa uma velocidade de
+ventoinha alvo (N1Targ).
+
+
+       No que se refere a sua manifestação, de 30/12/2021, através da Petição
+870210122196/RJ, a Requerente entende que o documento D5, não contempla o reivindicado no
+presente pedido, pois:
+          a primeira simbologia (8) da presente invenção é igual ao indicador (36) do documento D5. No entanto,
+notamos que a primeira simbologia da presente invenção não é estática. Em D5, o ponteiro não se move, mas sim a
+escala e os valores mudam dinamicamente e se movem conforme o intervalo do parâmetro destacado pelo ponteiro
+muda (ver parágrafo [0116] de D5). Em todas as modalidades, o ponteiro está estaticamente localizado
+"substancialmente no meio da escala de parâmetro dinâmico não linear dinâmico" (ver os parágrafos [0055], [0064],
+[0076], [0097] e [0136] de D5).
+         Além disso, é importante notar que a escala de D5 mostra intervalos discretos de valores e não uma precisa
+escala contínua de um parâmetro e o ponteiro de D5 apenas destaca em qual parte da escala o parâmetro medido está,
+conforme mencionado, pelo menos, no parágrafo [0021] e reivindicação 1 de D5: [...] a unidade de exibição exibindo
+ainda um ponteiro apontando para a escala de acordo com a leitura do parâmetro dinâmico, enfatizando assim uma
+faixa de leitura do parâmetro dinâmico.
+         Em contraste, a presente invenção mostra o valor atual da velocidade da ventoinha nos visores 10a e 10b.
+Além disso, a primeira simbologia se move (ou gira) ao longo da escala na tela conforme o valor atual do parâmetro
+medido muda. O resultado alcançado é uma melhor indicação visual do comportamento dinâmico da velocidade de
+ventoinha e quão longe da velocidade de ventoinha alvo (6) o valor atual (10a, 10b) está (ver pelo menos os parágrafos
+[0035] e [0038] do relatório descritivo do presente pedido).
+         Portanto, D5 não poderia revelar "exibir primeira simbologia (8) tendo uma posição em relação à escala" e "a
+primeira simbologia (8) representando o valor obtido da velocidade de ventoinha", uma vez que o ponteiro de D5 não se
+move ao longo da escala . Devido à sua posição fixa, portanto, o ponteiro de D5 não pode representar o valor do
+parâmetro medido, mas apenas destaca uma faixa da escala e não um valor preciso. Em outras palavras, D5 não revela
+a ETAPA03 da reivindicação 1 do presente pedido.
+         Além disso, a Digna Perícia afirmou que: Ja nas Rdp´s) 03, 04, 05, 07 e 08, temos que a simbologia de
+exibição, representa a velocidade da aeronave, diretamente dependente da velocidade das ventoinhas dos motores,
+responsáveis pela geração do empuxo.
+         No entanto, essa equivalência não é correta. Primeiramente, é imperativo apontar que "uma velocidade da
+referida aeronave", conforme redação da reivindicação 3 de D5, não é "um parâmetro do motor", conforme redação da
+reivindicação 1. Em segundo lugar, embora haja uma relação entre a velocidade de ventoinha e a velocidade da
+aeronave, esta relação depende do empuxo gerado, que por sua vez depende de vários outros parâmetros externos.
+Considerando que nenhuma dessas relações é linear e o conhecimento de várias condições ambientais simultâneas é
+necessário para converter uma para a outra, não se pode esperar que um usuário execute tais cálculos em tempo real
+durante a operação. Assim, uma velocidade da aeronave não pode ser considerada uma anterioridade de velocidade
+de ventoinha.
+
+
+
+
+                                                                                                                     4
+                                               BR102016023997-4
+
+          Assim, D5 também não revela a ETAPA01 da reivindicação 1 do presente pedido, uma vez que não revela um
+parâmetro de controle do motor, muito menos um parâmetro de controle do motor tendo uma relação não linear com o
+empuxo, especialmente não uma velocidade de ventoinha (N1).
+          Por último, a Digna Perícia argumenta que a reivindicação dependente 7 de D5 revela exibição de uma
+segunda simbologia (6) representando uma velocidade de ventoinha alvo 'N1Targ'.. A Requerente discorda
+veementemente desta afirmação. A reivindicação dependente 7 revela: "uma extremidade variável correspondendo, na
+referida escala, a uma velocidade futura a ser alcançada pela referida aeronave se uma variação atual da referida
+velocidade for mantida durante um período de tempo predeterminado.".
+          Em outras palavras, a reivindicação 7 apenas revela uma previsão do valor da velocidade da aeronave em um
+cenário em que a aceleração atual da aeronave é mantida. Esta não é uma velocidade alvo de ventoinha no mesmo
+sentido que a presente invenção. Na presente invenção, uma velocidade alvo de ventoinha significa o valor ideal para
+o parâmetro de controle do motor (velocidade de ventoinha) durante a operação.
+          Neste sentido, o parágrafo [0063] do relatório descritivo do presente pedido diz que: [0063] As figuras 10A e
+10B são diagramas representando uma exibição de velocidade de ventoinha N1, na qual um símbolo muda de cor (por
+exemplo, de branco para verde) quando a velocidade atual de ventoinha N1 muda de ser menor do que uma velocidade
+de ventoinha alvo N1Targ por mais do que uma percentagem especificada para ser menor do que N1Targ por menos
+do que a percentagem especificada. No exemplo representado nas figuras 10A e 10B, o erro admissível é 0,5%
+N1Targ.
+          Claramente o documento D5 não revela a característica acima, especialmente não na reivindicação 7, uma vez
+que é direcionado a uma previsão de um valor futuro de velocidade da aeronave e não a uma velocidade de ventoinha
+ideal a ser mantida (ver pelo menos os parágrafos [0053]-[0065] do relatório do presente pedido). Portanto, D5 também
+não revela a ETAPA04 da reivindicação 1 do presente pedido. Portanto, a reivindicação independente 1 do presente
+pedido é nova em relação a D5. Da mesma forma, a reivindicação 8 também é nova em relação a D5, mutatis mutandis.
+          A unidade de exibição revelada na presente invenção fornece desempenho aumentado do parâmetro de
+exibição N1 e pode permitir uma redução no número de visores de motor necessários na cabine de comando (por
+exemplo, apenas N1 em vez de N1 e um parâmetro de configuração de empuxo dedicado diferente, como razão de
+pressão do motor (EPR)). A unidade de exibição aqui revelada também pode aumentar a capacidade do piloto para
+determinar qual é a configuração de empuxo (ver parágrafo [0005] do relatório descritivo do presente pedido).
+          Deste modo, o problema técnico a ser resolvido pode ser considerado como fornecer um visor/unidade de
+exibição capaz de auxiliar o usuário a melhor perceber e manter uma velocidade de ventoinha alvo a fim de atingir o
+empuxo necessário para uma dada operação da aeronave.
+          Um técnico no assunto com o objetivo de resolver o problema acima não teria razão para recorrer ao
+documento D5, principalmente porque o documento D5 carece de qualquer característica em relação a um valor de
+parâmetro alvo definido, como mencionado anteriormente. Além disso, o documento D5 tem como objetivo fornecer um
+visor de fita capaz de ajustar sua escala de forma a se adequar melhor a uma determinada faixa de valores de um
+parâmetro medido na tela. Embora D5 use uma escala não linear, esta escala não visa ser mais precisa em torno de um
+valor de parâmetro definido a ser alcançado, mas sim um melhor ajuste de uma faixa no visor, independentemente do
+valor atual, futuro ou alvo do parâmetro, este último nem mesmo sendo mencionado em D5.. 
+
+
+
+          Ainda na sua manifestação, de 30/12/2021, através da Petição 870210122196/RJ, a
+Requerente REapresenta o QR, de 21/07/2020, da Petição 870200090734/RJ, com as mesmas
+RI01pp (Método ) e RI08pp (Sistema ), e com as mesmas ETAPA01 a ETAPA04.
+
+
+       Face ao disposto acima, e às argumentações da Requerente de 30/12/2021, através da
+Petição 870210122196/RJ, voltamos a sustentar QUE o documento de anterioridade (D5)
+(US2004113816 (A1) (MARIVENT CORPORATION[CA])), ensina tanto através da sua
+Reivindicações Independentes (RI´s) 01 (Aparelho), aqui chamadas de RI01_D5, e das suas
+
+
+
+                                                                                                                      5
+                                      BR102016023997-4
+
+respectivas Reivindicações Dependentes (Rdp´s) 03, 04, 05, 07 e 08, quanto através do
+seu relatório descritivo, e mais especificamente nos seus Parágrafos [0071], e [0122] a [0127],
+referentes às Figs. 08, 13 e 14, de D5, incluindo na sua RI01_D5, um aparelho para exibir um
+parâmetro dinâmico de uma aeronave, caracterizado por compreender uma unidade de
+processamento recebendo um sinal de algoritmo de exibição selecionado e uma leitura do
+referido parâmetro dinâmico, a referida unidade de processamento determinando um sinal de
+exibição, sendo que a unidade de exibição recebe o referido sinal de exibição , contemplando
+a ETAPA02, da RI01pp, e o exibe em uma escala que muda dinamicamente e não linearmente
+de acordo com o algoritmo de exibição selecionado, contemplando a ETAPA01, da RI01pp. Ainda
+na RI01_D5, a unidade de exibição exibe um ponteiro apontando para a escala de acordo
+com a leitura do referido parâmetro dinâmico, enfatizando um intervalo da leitura do referido
+parâmetro dinâmico, contemplando a ETAPA03, da RI01pp. Já nas Rdp´s) 03, 04, 05, 07 e 08,
+temos que a simbologia de exibição, representa a velocidade da aeronave, diretamente
+dependente da velocidade das ventoinhas dos motores, responsáveis pela geração do
+empuxo. Destacamos que na RDp07_D5, temos que uma primeira extremidade da leitura a ser
+exibida corresponde à velocidade da aeronave e uma extremidade variável correspondendo,
+na referida escala, a uma velocidade futura, que deve ser alcançada (alvo) pela aeronave se
+uma variação atual da velocidade for mantida durante um período de tempo
+predeterminado, contemplando a ETAPA04, da RI01pp.
+
+       Tal reafirmação se sustenta dado que o documento de anterioridade D5, inclui nos
+Parágrafos [0071] e, [0122] a [0127], temos as descrições referentes às Fig. 08, 13 e 14, de D5.
+Na Fig. 08, de D5, constante do Parágrafo [0071] (Coluna 01, da página 20/24), de D5, temos a
+descrição de um diagrama que mostra um parâmetro dinâmico fornecida na exibição de
+parâmetro dinâmico eletrônico não linear da aeronave. Nas Figs. 13 e 14, de D5, constantes
+dos Parágrafos [0122]  [127] (Coluna 02, da página 22/24), de D5, temos que o parâmetro
+dinâmico é a velocidade da aeronave, contemplando as ETAPAS 01  04, da RI01pp, do
+presente pedido.
+
+       Devemos, por extensão, destacar mais uma vez que muito embora as RI01_D5, refira-se
+a um aparelho, contemplando a RI01pp (método), do presente pedido, sua RI18_D5, referente
+a método, possui as mesmas etapas caracterizantes da RI01_D5, contemplando, assim, por
+correspondência (ipsis litteris) a RI09pp, referente a sistema, do presente pedido.
+
+
+
+       Desta forma, a matéria reivindicada através das reivindicações independentes RI01pp e
+RI08pp, do presente pedido, encontram-se totalmente absorvida por D5.
+
+
+
+       Quanto às demais reivindicações, as mesmas também não são válidas por serem
+dependentes das reivindicações independentes contestadas acima
+
+
+
+Conclusão
+       Sendo assim, face ao exposto, considerando o QR da forma apresentada, somos de
+opinião que o presente pedido carece de atividade inventiva por ser mera decorrência do estado
+da técnica, representado por D5, não possuindo, pois, condições de patenteabilidade.
+
+
+                                                                                               6
+                                     BR102016023997-4
+
+
+
+       Face às conclusões a que se chegou o Exame Técnico, de acordo com o Art. 37, baseado
+no Art. 8º, combinado com o Art. 13, da LPI, INDEFIRO o presente pedido como PATENTE DE
+INVENÇÃO.
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                              Publique-se o indeferimento (9.2)
+
+
+                                                      Rio de Janeiro, 04 de Fevereiro de 2022.
+
+
+                                  Edson Ferreira Suisso
+                   Pesquisador em Propriedade Industrial / Mat. Nº 1548985
+                         Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+                           DIRPA / CGPAT III / DIPAT XV (DIPEQ)
+
+
+
+
+                                                                                              7
+

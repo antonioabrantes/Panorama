@@ -1,0 +1,169 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0924063-2              N.° de Depósito PCT:US2009/005281
+ Data de Depósito:                   23/09/2009
+ Prioridade Unionista:               US 12/321,256 (16/01/2009)
+ Depositante:                        Rhodia Operations (FR)
+ Inventor:                           Zhengang Zong, Yi-Zhong Li, Jose Ruiz
+ Título:                             Aglutinantes de látex, tintas e revestimentos aquosos tendo
+                                     estabilidade de congelamento e descongelamento e métodos para
+                                     usar mesmo 
+
+                                           PARECER
+         Em resposta ao parecer técnico de 27 de março de 2019, notificado pela publicação na
+RPI n°2518 de 09 de abril de 2019, a requerente apresentou manifestação na petição n°
+870190063725 de 08 de julho de 2019, onde apresentou novo quadro reivindicatório (total de 09
+reivindicações), em razão das falhas apontadas no referido parecer.
+         Desta forma, o exame do pedido teve continuidade com base nas vias apontadas no
+Quadro 1 desse parecer e considerando o conteúdo da manifestação apresentada.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                   1 a 105               020110096810           16/09/2011
+Quadro Reivindicatório                                   1a4                 870190063725           08/07/2019
+Desenhos                                                    1                020110096810           16/09/2011
+Resumo                                                      1                020110096810           16/09/2011
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                               PI0924063-2
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+
+
+       As objeções feitas no parecer técnico anterior, com respeito às irregularidades de que trata
+o artigo 25 da LPI, foram totalmente superadas com as emendas realizadas no novo quadro
+reivindicatório.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                               WO2009091592 A1                               23/07/2009
+    D2                                 US7238645 B1                                03/07/2007
+    D3                                  US4600516 A                                15/07/1986
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+      Requisito de Patenteabilidade                Cumprimento           Reivindicações
+                                                         Sim                     1-9
+           Aplicação Industrial
+                                                        Não
+                                                         Sim                     4-9
+                   Novidade
+                                                        Não                      1-3
+
+                                                         Sim
+            Atividade Inventiva
+                                                        Não                      1-9
+
+
+
+Comentários/Justificativas
+
+
+
+       Frente aos documentos mencionados, D1-D3, e às objeções apontadas no parecer
+anterior, a requerente apresenta um novo quadro reivindicatório, mais limitado, reformulado para
+definir de forma mais clara e precisa a matéria reivindicada e para destacar as características
+diferentes e inventivas da presente invenção em relação aos ensinamentos do estado da
+técnica.
+       A requerente esclarece que limitou os grupamentos R 1, R2, R3 e R5 de forma a proteger
+apenas os compostos de fórmula IIA-2, sendo R5 selecionado do grupo que consiste em -OH,
+-OCH3, -OC2H5, -OC3H7, -OC4H9, -OC5H11, -OC6H13, -Cl, -Br, -CN, sulfato (SO4 -M+), sulfonato
+
+
+
+
+                                                                                          Página 2
+                                              PI0924063-2
+
+
+(SO3 -M+), carboxilato (COO-M+), um grupo não iônico e um íon de amônio quaternário, em que
+M+ é um cátion.
+      Diante das modificações apresentadas no novo quadro reivindicatório, bem como dos
+comentários técnicos acima descritos, a requerente espera ter demonstrado que a matéria,
+objeto da nova reivindicação, é dotada de novidade e atividade inventiva frente aos documentos
+D1-D3, sendo, portanto, passível de receber o privilégio ora pleiteado.
+      Examinando as argumentações da requerente, bem como a matéria revelada no pedido
+em análise e nos documentos mencionados no parecer, não foi possível, entretanto, concordar
+com a requerente pelas razões a seguir:
+      Na modificação realizada, ocorre uma restrição da matéria, de fato, eliminando do novo
+escopo abordado o composto de fórmula IIA-1, como possível emulsificante e constituinte da
+composição de revestimento de acordo com a invenção. Também foram excluídos os
+grupamentos fosfatos e fosfonatos de dentro do grupo de radicais possíveis para R5.
+      No entanto, conforme exposto no parecer anterior, o documento D3 revela um
+emulsificante com as mesmas fórmulas IIA e IIA-2 do presente pedido, em que R 1, R2 e R3 são
+representados pelo radical tributil (isobutil e terc-butil), n é igual a 8, R 5 é um radical sulfonato e
+M+ e Na+ (colunas 11 e 12, Tabela 1). Dessa forma, as reivindicações 1-3 não atendem ao
+requisito de novidade, conforme disposto no Art. 8°, combinado com o artigo 11, da LPI.
+      D3 não revela uma composição de revestimento com baixo teor de VOC, porém,
+considera-se que seria óbvio para um técnico no assunto utilizar o emulsificante revelado em
+D3, como aditivo de congelamento-descongelamento em uma quantidade superior a 7,5%,
+conforme empregado em D1. Portanto a matéria das reivindicações 4-9, apesar de nova, não é
+dotada de atividade inventiva.
+      Assim, as reivindicações 1-9, como um todo, estão em desacordo com o disposto no Art.
+8°, combinado com o artigo 13, da LPI.
+
+
+Conclusão
+
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que, o mesmo
+não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI) e não atende ao
+requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                     Publique-se o indeferimento (9.2).
+
+
+
+                                                                Rio de Janeiro, 13 de agosto de 2019.
+
+
+
+
+                                                                                                Página 3
+                                     PI0924063-2
+
+
+
+
+Leticia Pedretti Ferreira
+Pesquisador/ Mat. Nº 1068512
+DIRPA / CGPAT I/DIPOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/18
+
+
+
+
+                                                   Página 4
+

@@ -1,0 +1,282 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        PI1011171-9                N.° de Depósito PCT: IB10/001332
+ Data de Depósito:                     21/05/2010
+ Prioridade Unionista:                 US 61/216,919 (21/05/2009)
+ Depositante:                          SEQIRUS UK LIMITED (GB)
+ Inventor:                             Philip Dormitzer, Michael Franti, Pirada Suphaphiphat, Peter Mason,
+                                       Bjoern Keiner, Stephania Crotta
+ Título:                               Genética reversa usando promotores poli i não-endógeno 
+
+                                            PARECER
+           O presente pedido refere-se a método e células para a produção de vírus recombinantes
+que compreendem a utilização de uma construção de expressão em que a expressão do
+transgene é dirigida pela célula hospedeira utilizando um promotor pol I que não é endógeno ao
+organismo da mesma ordem taxonômica da qual a célula hospedeira é derivada.
+
+
+          Quanto à exigência pré-exame (RPI nº 2489, de 18/09/2018)  Artigo 34 da LPI:
+           De acordo com o artigo 34 da LPI, o INPI emitiu parecer de Exigência Pré-Exame, com
+despacho 6.20, cuja notificação foi publicada pela RPI nº 2489, de 18/09/2018. A depositante
+apresentou por meio da petição 870180154579, de 23/11/2018, uma nova proposta de quadro
+reivindicatório adaptado às reivindicações tais como concedidas no correspondente EP2401384,
+novas páginas do relatório descritivo e resumo, uma nova cópia da listagem de sequências, assim
+como comentários no sentido de demonstrar inegável patenteabilidade da presente invenção
+frente ao estado da técnica citado.
+
+
+          Quanto aos exames técnicos anteriores:
+           No primeiro parecer técnico, foram formuladas exigências técnicas para que a matéria
+pleiteada ficasse de acordo com os artigos 8º, 11, 13, 18 (III), 24 e 25 da LPI.
+           Por meio da petição nº 870190083308, de 26/08/2019, a depositante apresentou uma nova
+proposta de quadro reivindicatório, novas vias do relatório descritivo, resumo e listagem de
+sequências assim como, esclarecimentos quanto ao não cumprimento de algumas exigências.
+
+           No parecer técnico anterior, para fins de atendimento dos artigos 24 e 25 da LPI foram
+formuladas exigências técnicas.
+
+           Por meio da petição nº 870200058308, de 11/05/2020, a depositante apresentou uma nova
+proposta de quadro reivindicatório assim como, esclarecimentos quanto as emendas realizadas.
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                        Página 1
+                                                               PI1011171-9
+
+
+  Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                                    Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                                 x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)          x
+
+O pedido refere-se a Sequências Biológicas                                                                   x
+
+Comentários/Justificativas
+
+       Quanto ao encaminhamento à ANVISA (art. 229-C da LPI, incluído pela Lei
+        10.196/2001):
+
+       O presente pedido não foi encaminhado à ANVISA na forma estabelecida pela Portaria
+Interministerial n° 1065 de 24/05/2012, que altera o fluxo de análise para pedidos de patente de
+produtos e processos farmacêuticos. Contudo, a tempo, cabe ressaltar que pra fins de
+atendimento do artigo 229-C da Lei n° 10196/2001, que modificou a Lei n° 9.279/96 (LPI), por
+ocasião de deferimento, o presente pedido será encaminhado à referida Agência para as
+providências cabíveis.
+
+
+       Quanto à declaração de acesso ao patrimônio genético nacional:
+
+       Para cumprimento do artigo 47 da Lei nº 13.123/2015, o INPI, na RPI nº 2466, de
+10/04/2018, emitiu uma exigência formal (6.6.1) para a comprovação do cadastramento e/ou
+autorização de acesso ao Patrimônio Genético Nacional e/ou Conhecimento Tradicional
+Associado, quando pertinente, no prazo de 60 dias a contar da publicação na Revista Eletrônica
+da Propriedade Industrial (RPI). Cabe ressaltar que a depositante não apresentou resposta à
+exigência supracitada.
+
+       A Procuradoria Federal Especializada junto ao INPI (PFE-INPI) no Parecer nº
+00001/2018/PROCGAB/PFE-INPI/PGF/AGU                                    (Processo   INPI   nº   52400.002142/2018-30),
+publicado nas RPIs nº 2465 (03/04/2018), 2466 (10/04/2018) e 2467 (17/04/2018), ao qual foi
+atribuído caráter normativo na RPI nº 2485, de 21/08/2018, concluiu que após a emissão do
+despacho 6.6.1 não tendo havido manifestação da depositante no prazo de 60 (sessenta) dias
+contados a partir da publicação na RPI, o exame técnico deve ser prosseguido com o
+entendimento de que não houve acesso ao patrimônio genético nacional e/ou conhecimento
+tradicional associado, conforme consta no texto do despacho de código 6.6.1 publicado na RPI.
+
+       O estabelecido no artigo 47 da Lei nº 13.123/2015 é um requisito da concessão da
+patente, mas não repercute e compromete, s.m.j., a avaliação dos requisitos técnicos
+necessários à concessão de patentes estabelecidos na LPI, objeto da presente análise. Neste
+sentido, frente à normatização publicada na RPI nº 2485, de 21/08/2018, resta ao presente
+exame dar andamento ao exame técnico. Contudo, cabe alertar que a Lei nº 13.123/2015,
+estabelece que nos termos desta Lei, o cadastramento é um instrumento declaratório obrigatório
+a concessão de direito de propriedade intelectual pelo órgão competente sobre produto acabado
+
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                             Página 2
+                                                               PI1011171-9
+
+
+ou sobre material reprodutivo obtido a partir de acesso a patrimônio genético ou a conhecimento
+tradicional associado.
+
+
+
+       Quanto à Listagem de Sequências e apresentação eletrônica  Resolução nº 187, de
+        27/04/2017.
+
+        A depositante apresentou voluntariamente por meio da petição n° 020120007109 , de
+27/01/2012, a listagem de sequências para cumprimento da Resolução INPI PR nº 228/09,
+substituída pela Resolução INPI PR nº 187/2017.
+
+        Por meio da petição nº 870180152482, de 19/11/2018, a depositante apresentou uma
+nova cópia da listagem de sequência.
+
+        Por meio da petição nº 870190083308, de 26/08/2019, a depositante apresentou uma
+nova cópia da listagem de sequência.
+
+
+
+                                     Quadro 1  Páginas do pedido examinadas
+             Elemento                                   Páginas              n.o da Petição         Data
+Relatório Descritivo                                       1-67              870190083308         26/08/2019
+Listagem de sequências em
+                                                            ----                   ----               ----
+formato impresso
+Listagem de sequências*                        Código de Controle            870190083308         26/08/2019
+Quadro Reivindicatório                                     1-2               870200058308         11/05/2020
+Desenhos                                                  1-13                20120007109         27/01/2012
+Resumo                                                       1               870190083308         26/08/2019
+
+       *Listagem de sequências em formato eletrônico referente ao código de controle
+       6139DA6D7E8DF6BC (Campo 1) e 6A9C36E53EA23FD6 (Campo 2).
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                            Sim          Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                     x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                             x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                       x
+O pedido está de acordo com disposto no art. 32 da LPI                                        x
+Comentários/Justificativas
+
+       Quanto ao artigo 32 da LPI:
+
+        Na nova proposta de quadro reivindicatório, a depositante definiu que o promotor pol I
+humano consiste em uma sequência com, pelo menos, 85% de identidade de sequência com a
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                    Página 3
+                                                              PI1011171-9
+
+
+SEQ ID NO: 1 ou SEQ ID NO: 2. A depositante sustenta que a inclusão da expressão 85% de
+identidade não contraria o disposto no artigo 32 da LPI, visto que restringe o número de
+sequências abrangidas pela reivindicação.
+
+       Conforme definido anteriormente qualquer sequência de promotor pol I humano estava
+inclusa no escopo pleiteado. Neste sentido, o presente exame concorda que, s.m.j, o escopo ora
+pleiteado é mais restrito, portanto, a matéria ora pleiteada não contraria o disposto no artigo 32 da
+LPI.
+
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                              Sim           Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                        x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                      x
+Comentários/Justificativas
+       No parecer técnico anterior, para fins de atendimento dos artigos 24 e 25 da LPI, foi
+exigido que termo compreende presente na antiga reivindicação 7 fosse substituído por
+consiste e a matéria da dita reivindicação fosse incluída na antiga reivindicação 1.
+
+       Na nova proposta de quadro reivindicatório, a reivindicação 1 foi emendada para definir
+que o promotor de pol I humano consiste em uma sequência com pelo menos 85% de
+identidade de sequência com a SEQ ID NO: 1 ou SEQ ID NO: 2.
+
+       Contudo, a nova proposta de quadro reivindicatório não atendeu satisfatoriamente as
+exigências formulada e continua descumprindo os artigos 24 e 25 da LPI. Primeiramente, a
+definição de sequências inclusas no escopo pleiteado por meio da definição de percentual de
+identidade não é permitido (item 6.2 da Resolução INPI PR nº 144/15). Adicionalmente,
+conforme repetidamente apontado, é amplamente conhecido no campo técnico do presente
+pedido que a ativação de um promotor específico depende de uma complexa rede de interações
+entre os ativadores e repressores que reconhecem sítios específicos na região reguladora dos
+genes. Conforme reconhecido no presente pedido, embora a organização geral dos promotores
+pol I seja comum, as sequências efetivas dos promotores variam amplamente. O presente
+pedido apenas demonstra a eficiência do promotor pol I humano de SEQ ID NO: 1 e de seu
+fragmento de SEQ ID NO: 2 em células derivadas de rim canino. A despeito do que foi
+concretizado, ao emendar a antiga reivindicação 1, a depositante incluiu no escopo de proteção
+sequências indefinidas com uma variação de 15% em relação as SEQ ID NO:1 e 2. No entanto,
+para fins de clareza, o escopo da proteção pleiteada deve ser claramente entendido apenas pela
+leitura da reivindicação. Além disto, não há no inicialmente apresentado dados que sustentem
+que sequências com a referida variação sejam capazes de exibir o efeito revelado. Conforme já
+apontado, a matéria revelada deve permitir que um técnico no assunto a reproduza a matéria
+pleiteada usando apenas os ensinamentos descritos. De acordo com as Diretrizes de exame de
+pedidos de patente  bloco I, publicada na RPI nº 2241 de 17/12/2013, item 2.15, o pedido deve
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                         Página 4
+                                                                  PI1011171-9
+
+conter informação técnica suficiente para permitir que um técnico no assunto coloque a invenção
+em prática, tal como reivindicada, sem experimentação adicional. Deste modo, visto que
+pequenas variações estruturais podem resultar em mudanças da função, ratifica-se que a atual
+reivindicação 1 não atende ao disposto no artigo 25 da LPI, pois define matéria que não está
+fundamentada no relatório descritivo do pedido, uma vez que tal matéria não se encontra
+suficientemente descrita no relatório descritivo, de modo a fundamentar o amplo escopo
+reivindicado, o que contraria também o disposto no artigo 24 da LPI
+
+
+
+
+                                      Quadro 4  Documentos citados no parecer
+
+ Código                                                   Documento                        Data de publicação
+     ---                                                          ---                               ---
+
+
+     Quadro 5 - Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+         Requisito de Patenteabilidade                                    Cumprimento   Reivindicações
+                                                                              Sim            1-11
+                  Aplicação Industrial
+                                                                             Não              ---
+                                                                              Sim            1-11
+                        Novidade
+                                                                             Não              ---
+
+                                                                              Sim            1-11
+                  Atividade Inventiva
+                                                                             Não              ---
+
+
+
+Comentários/Justificativas
+
+           ----
+
+Conclusão
+
+         Conforme exposto, as emendas realizadas e tampouco as argumentações trazidas
+superam as objeções formuladas com base nos artigos 24 e 25 da LPI.
+
+         Assim sendo, de acordo com o artigo 37, opino pelo indeferimento do presente pedido,
+uma vez que:
+
+         - não apresenta suficiência descritiva (Art. 24 da LPI);
+
+         - as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório descritivo
+(Art. 25 da LPI)
+
+         De acordo com o artigo 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a
+partir da data de publicação na RPI, para interposição de recurso. Publique-se o indeferimento
+(9.2).
+
+
+
+
+            Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                   Página 5
+                                                            PI1011171-9
+
+
+                                                                          Rio de Janeiro, 08 de junho de 2020.
+
+
+
+
+Vania Lucia Ferreira Linhares da Silva
+Pesquisador/ Mat. Nº 1473306
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+      Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                    Página 6
+

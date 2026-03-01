@@ -1,0 +1,221 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112021013435-2          N.° de Depósito PCT:US2020/012687
+ Data de Depósito:                   08/01/2020
+ Prioridade Unionista:               US 62/790,342 (09/01/2019)
+ Depositante:                        CELGENE CORPORATION (US)
+ Inventor:                           GERALD D. ARTMAN III; ANTONIO C. FERRETTI; LIANFENG
+                                     HUANG; UDAYKUMAR JAIN; HON-WAH MAN; PAULA A.
+                                     TAVARES-GRECO; WENJU WU; NANCY NIENHUA TSOU; ZHIWEI
+                                     YIN
+ Título:                             FORMAS          SÓLIDAS      QUE      COMPREENDEM        (S)-4-
+                                     (4-(4-(((2-(2,6-DIOXOPIPERIDIN-3-IL)-1-OXOISOINDOLIN-4-IL)OXI)
+                                     METIL)BENZIL)PIPERAZIN-1-IL)-3-          FLUOROBENZONITRILA,
+                                     COMPOSIÇÃO FARMACÊUTICA COMPREENDENDO AS MESMAS
+                                     E USO DAS REFERIDAS FORMAS SÓLIDAS.
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                   1 a 373               870210081528           03/09/2021
+Quadro Reivindicatório                                  1 a 20               870230088995           06/10/2023
+
+Desenhos                                                1 a 80               870210081528           03/09/2021
+Resumo                                                      1                870220120748           21/12/2022
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR112021013435-2
+
+
+
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                    x
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                 WO2011100380                                18/08/2011
+    D2                      WO2019014100 (BR112020000442)                          17/01/2019
+
+    D3                      WO2019226770 (BR112020023756)                          28/11/2019
+
+    D4                      WO2019226761 (BR112020023704)                          28/11/2019
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                   1 a 23
+            Aplicação Industrial
+                                                        Não                      ---
+                                                         Sim                   1 a 23
+                 Novidade
+                                                        Não                      ---
+
+                                                         Sim                   1 a 23
+            Atividade Inventiva
+                                                        Não                      ---
+Comentários/Justificativas
+
+         Por meio da petição nº 870230088995 de 06/10/2023, a Requerente apresentou
+manifestação ao parecer notificado na RPI2740 de 11/07/2023, na qual apresentou novas vias
+do relatório descritivo, resumo e um novo quadro reivindicatório
+
+         Quanto ao questionamento da falta de suficiência descritiva das formas cristalinas do
+composto 1, a Requerente apontou que o relatório descritivo do presente pedido de patente
+descreve suficientemente a obtenção das formas cristalinas pleiteadas. Por exemplo, além das
+modalidades para a preparação de cada forma cristalina fornecida na seção 5 (DESCRIÇÃO
+DETALHADA) do relatório descritivo, as seções 6.5 e 6.6 (Triagem De Polimorfismo De Base
+Livre Nº 1 e Triagem De Polimorfismo De Base Livre Nº 2) descrevem a preparação das
+formas cristalinas de base livre, incluindo condições experimentais detalhadas para cada um dos
+métodos de triagem utilizados. Além disso, a Tabela 7 resume a preparação de cada uma das 19
+formas cristalinas de base livre. O mesmo ocorre nas as seções 6.7 a 6.9, conforme apontado
+pela Requerente.
+
+
+
+                                                                                          Página 2
+                                            BR112021013435-2
+
+
+          Sobre a disposição do item 4.1 da a Resolução nº 208/2017, a Requerente destacou que
+que os parâmetros listados relacionados à taxa de aquecimento, taxa de resfriamento, taxa de
+agitação, taxa de adição de solvente, obtenção de semente e dessolvatação não são
+obrigatórios para atender ao requisito de suficiência descritiva de uma forma cristalina, mas
+meramente exemplificativos. Um técnico no assunto sabe que a essencialidade de um
+parâmetro irá depender do processo em questão. Não obstante, a padronização de condições
+rotineiras para um técnico no assunto à época do depósito não deve ser considerada
+experimentação indevida, consoante extrapolação do disposto na Instrução Normativa
+#118/2020.
+
+          Acerca das alegações da Requerente, salienta-se que as seções 6.5, 6.6 e 6.7 a 6.9 e a
+tabela 7 descrevem as preparações das formas cristalinas, nas quais os parâmetros dos
+processos estão descritos de modo geral, como se verifica, por exemplo, na seção 6.5
+reproduzida abaixo (página 350 do relatório descritivo):
+
+          6.5 Triagem De Polimorfismo De Base Livre Nº 1 [01222] Uma busca pelas formas
+          polimórficas de Composto 1 de base livre foi conduzida de quinze solventes e vinte e
+          uma misturas de solventes com o uso de métodos, como equilíbrio de suspensão (em
+          várias temperaturas), evaporação, cristalização de resfriamento, precipitação, difusão de
+          vapor,    e   difusão   externa   de   vapor. Além   disso,   muitos   experimentos     de
+          secagem/dessolvatação foram tentados, e tratamentos mecânicos e térmicos também
+          foram aplicados.
+
+          Entende-se que é tolerável a realização de experimentos de padronização para que o
+técnico no assunto reproduza a invenção, sem que isso necessariamente configure uma
+experimentação indevida, mas no caso da obtenção de polimorfos, o número de parâmetros
+envolvidos e que podem ser alterados para obtenção de um sólido específico são muitos, sendo
+exigido     de acordo com o disposto no item 4.1 da Resolução nº 208/2017, que os parâmetros
+considerados essenciais na preparação das formas cristalinas, por exemplo, a indicação do(s)
+solvente(s), e sua(s) concentração(ões), taxas de adição de solvente(s), taxas de aquecimento e
+resfriamento, descrição do processo de obtenção de eventuais sementes empregadas no
+processo de cristalização e demais parâmetros, devem estar descritos de modo a garantir sua
+reprodutibilidade por um técnico no assunto.
+
+           Partindo do relatório descritivo inicialmente depositado, o técnico no assunto precisará
+investigar os parâmetros do processo de obtenção das formas cristalinas pleiteadas a partir da
+descrição geral dos mesmos, o que caracteriza a necessidade de experimentação adicional para
+chegar ao objeto pleiteado. Portanto, os parâmetros considerados críticos para a obtenção de
+formas cristalinas devem estar descritos no relatório descritivo de modo a assegurar a sua
+reprodução por um técnico no assunto e, assim, são obrigatórios e não meramente
+exemplificativos como acredita a Requerente.
+
+                   O quadro reivindicatório apresentado pela Requerente por meio a petição n°
+870230088995 de 06/10/2023 não foi limitado aos polimorfos cujo processo de obtenção estão
+
+
+
+                                                                                                Página 3
+                                         BR112021013435-2
+
+
+descritos de modo a possibilitar a sua realização por um técnico no assunto como determina o
+art. 24 da LPI.
+
+             Em função do exposto, tendo em vista que a Requerente teve a oportunidade de
+restringir o quadro reivindicatório aos polimorfos que estão fundamentados no relatório
+descritivo, e ainda assim não cumpriu as exigências técnicas exaradas no parecer notificado na
+RPI 2740 de 11/07/2023, conclui-se que a preparação das formas cristalinas do composto 1 do
+presente pedido, bem como dos seus sais não atende o art. 24 da LPI, uma vez que não estão
+descritos alguns parâmetros críticos à obtenção dos mesmos, por exemplo: taxa de
+aquecimento (forma A , forma K , Forma J de um sal de bromidrato ), taxa de resfriamento
+(forma A ), taxa de agitação (forma K ), taxa de adição do solvente (forma A, forma B, forma C,
+forma L do sal de cloridrato, Forma H de hidrato e Forma A anidra, Forma J de um sal de
+bromidrato e todos os sais da tabela 11), obtenção de semente (forma K, forma B do sal de
+besilato, Forma H de hidrato), dessolvatação (forma G). Logo, as reivindicações do presente
+pedido não estão fundamentadas no relatório descritivo conforme dispõe o art. 25 da LPI.
+       No tocante ao questionamento da falta de novidade das antigas reivindicações 30 e 31, o
+mesmo foi sanado no quadro reivindicatório apresentado pela Requerente ( nº 870230088995 de
+06/10/2023), que exclui as referidas reivindicações.
+
+          O questionamento quanto a falta de clareza das antigas reivindicações 10 e 34 foram
+sanadas no quadro reivindicatório apresentado pela Requerente (nº 870230088995 de
+06/10/2023), uma vez que foi especificada a formas sólida do composto 1 (atual reivindicação
+10) e a antiga reivindicação 34 foi excluída do novo quadro reivindicatório.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não apresenta suficiência descritiva (Art. 24 da LPI); e
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI).
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                     Publique-se o indeferimento (9.2).
+
+                                                           Rio de Janeiro, 01 de dezembro de 2023.
+
+
+Jaqueline Mendes Soares
+Pesquisador/ Mat. Nº 1568553
+DIRPA / CGPAT I/DIFAR-II
+Deleg. Comp. - Port. INPI/DIRPA Nº
+
+
+
+                                                                                              Página 4
+         BR112021013435-2
+
+002/11
+
+
+
+
+                            Página 5
+

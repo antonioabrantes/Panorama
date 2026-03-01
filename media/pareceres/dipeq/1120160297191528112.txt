@@ -1,0 +1,199 @@
+                               SERVIÇO PÚBLICO FEDERAL
+                                MINISTÉRIO DA ECONOMIA
+                 INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+                              RELATÓRIO DE EXAME TÉCNICO
+ N.° do Pedido:        BR112016029719-9            N.° de Depósito PCT: US2015/036243
+ Data de Depósito:     17/06/2015
+ Prioridade Unionista: US 62/013,847 (18/06/2014); US 62/081,243 (18/11/2014); US 14/687,097
+                       (15/04/2015); US 14/741,754 (17/06/2015)
+ Depositante:          Basf Corporation (US)
+ Inventor:             Natalia Trukhan, Ulrich Mueller, Michael Breen, Barbara Slawski, Qi Fu,
+                       Jaya L. Mohanan, Martin W. Kraus, Ahmad Moini, Xiaofan Yang, John K.
+                       Hochmuth
+ Título:               Material de redução catalítica seletiva (SCR), método para reduzir
+                       seletivamente o óxido de nitrogênio e sistema para tratamento de gases
+                       de exaustão
+                                         PARECER
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição                Data
+
+Relatório Descritivo                                      1-83               870210068778                28/07/2021
+Quadro Reivindicatório                                     1-2               870210068778                28/07/2021
+Desenhos                                                  1-24               870170009862                14/02/2017
+Resumo                                                      1                870210068778                28/07/2021
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                           x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                   x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         x
+Comentários/Justificativas
+                                    Quadro 4  Documentos citados no parecer
+
+  Código                                               Documento                                    Data de publicação
+      D3                                          US2011076229A1                                        31/03/2011
+      D4                                          US2012244066A1                                        27/09/2012
+      D5                                          US2012258032A1                                        11/10/2012
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                    Página 1
+                                          BR112016029719-9
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade               Cumprimento                 Reivindicações
+                                                     Sim                          1-8
+           Aplicação Industrial
+                                                     Não
+                                                     Sim                          1-8
+                 Novidade
+                                                     Não
+                                                     Sim
+           Atividade Inventiva
+                                                     Não                          1-8
+Comentários/Justificativas
+
+       A documentação analisada neste exame técnico do pedido consiste em um novo quadro
+reivindicatório com um total de 8 reivindicações, adaptado às disposições da Instrução Normativa
+IN030/2013, novas vias do relatório descritivo e resumo, e ainda, das alegações feitas pela
+requerente em relação ao exame anterior, apresentadas através da petição nº870210068778 de
+28/07/2021 como resposta ao parecer técnico de ciência notificado na RPI nº2626 de 04/05/2021.
+       Baseado       nas    referências     do    estado      da   técnica    US2011076229A1(D3),
+US2012244066A1(D4) e US2012258032A1(D5), a requerente apresenta suas alegações em
+relação ao parecer de ciência, adequando o escopo reivindicado de forma a fundamentar que os
+documentos D3-D5 não podem antecipar, indicar ou sugerir uma solução técnica equivalente ao
+material catalisador de redução catalítica seletiva (SCR), conforme a descrição da matéria das
+reivindicações 1-8 do quadro reformulado.
+       A solução do problema da técnica visa os meios de obter um material catalisador que
+possa prover a conversão de óxidos de nitrogênio a baixas temperaturas, mantendo a retenção da
+atividade catalítica dos referidos catalisadores de redução seletiva (SCR), mesmo após a
+regeneração    sob    condições    hidrotermais   em       temperaturas   superiores    a   650oC,   e,
+concomitantemente, tenha excelentes propriedades catalítica e mecânica, que visem a conversão
+de NOx, e a baixa produção de N2O durante a reação de redução seletiva, em relação aos
+materiais da técnica anterior.
+       Nesse sentido, o escopo reivindicado é direcionado a um material de redução catalítica
+seletiva (SCR), compreendido por uma partícula esférica, que inclui uma aglomeração de cristais
+de uma peneira molecular (zeólitas), cuja partícula esférica possua tamanho médio de partícula
+entre 0,5 a 5µm, e que ainda apresente titânio como elemento dopante, a partir de substituição
+isomórfica na estrutura do material zeolítico.
+       No manifesto interposto, a requerente inicialmente destaca que efetuou as emendas em
+relação às objeções levantadas no parecer de ciência, ao corrigir os erros quanto a falta de
+clareza e precisão removendo a expressão cerca de nos objetos de todas reivindicações com a
+presença do referido termo, declara que as antigas reivindicações 3 a 7, e ainda, as antigas
+reivindicações 9 e 15-16 foram canceladas. A requerente também declara ter adicionado as
+referências numéricas na antiga reivindicação 14 (nova reivindicação 8), com suporte no relatório
+descritivo e desenhos.
+       Nesse sentido, a requerente mediante as emendas efetuadas, alega ter adequado
+devidamente o quadro o novo reivindicatório, justificando as correções em relação à matéria
+
+
+                                                                                              Página 2
+                                        BR112016029719-9
+
+
+reformulada, sustentando que o seu pedido de patente, conforme as emendas efetuadas,
+apresenta os critérios de patenteabilidade, de precisão e clareza, conforme estabelece a LPI.
+       Reexaminando o presente pedido, com base no quadro reformulado e a partir das
+alegações da requerente interpostas no manifesto, cabe aqui fazer algumas considerações acerca
+do escopo reivindicado.
+       O documento D5 é a referência mais próxima por divulgar uma composição
+catalisadora de SCR compreendida por cristais de peneira molecular promovidos por metal de
+transição, em que: (i) os cristais apresentam um tamanho médio de partícula entre de 0,5-15
+µm, e (ii) os cristais estão presentes na composição como cristais individuais, aglomerados tendo
+um tamanho médio de partícula inferior a 15 µm, ou uma combinação dos referidos cristais
+individuais e das referidas aglomerações; em que (iii) a referida peneira molecular é um
+aluminossilicato, ou um sílico-alumino-fosfato, que apresenta um tipo de estrutura tendo um
+tamanho de anel máximo de oito átomos tetraédricos(ver em D5, resumo e reivindicações 1-3).
+       D5 descreve dentre as modalidades de preparação, que o material zeolítico CHA
+apresenta entre 75-500g de (Cu e/ou Fe)/ft3 de zeólita, que proporciona a conversão em NOx de
+pelo menos 75%, a uma temperatura de 450oC, ou pelo menos de 650°C. De acordo com D5, o
+catalisador pode atingir 80% de conversão, com uma seletividade para N2 de pelo menos 85% em
+uma ou mais das faixas de temperatura (ver em D5, parágrafo 0024).
+       Em relação ao tratamento térmico, D5 traz a indicação da exposição do substrato de
+revestimento com a composição catalisadora envolvendo temperaturas na faixa entre 350-850°C,
+em um intervalo de tempo que varia entre 15-240 minutos, podendo o artigo catalisador ser
+submetido aos processos de tratamento térmico subsequentes, como calcinação, para remover a
+água do componente (ver em D5, parágrafo 0040).
+       O documento D4 descreve a preparação de zeólitas com estrutura CHA e uma
+composição compreendendo uma razão molar (nSiO2): X2O3, em que X é um elemento trivalente,
+em particular, alumínio (Al), e em que n é pelo menos 10, cuja etapa de cristalização hidrotérmica
+emprega uma solução aquosa contendo cobre em razão inferior a 0,005 de Cu:((nSiO 2) + X2O3)
+em que n é pelo menos 10 (ver em D4, resumo e reivindicação 1).
+       As concretizações citadas por D4, a saber, apresentadas a partir dos exemplos 2 e 3,
+descrevem a síntese da zeólita chabazita CHA, livre de metais alcalinos, em que um solução de
+cobre é usada na compensação por troca iônica e inserção na estrutura da zeólita, formando o
+material Cu-CHA, o qual é misturado em acetato de zircônio para formar uma pasta de Cu-CHA e
+ZrO2, a qual é estruturada e calcinada em um monólito, para subsequente teste em reações de
+redução seletiva de NOx (ver em D4, parágrafos, 0144-0148). Com base nas figura 5 e 6
+representativas das citadas reações,depreende-se que estas produziram quantidades residuais de
+N2O em valores tão inferiores quanto 3-14 ppm (ver em D5, parágrafos 0203-0204 e figuras 5 e 6).
+       As referências D4 e D5 diferem por não indicarem ou sugerirem a substituição ou dopagem
+da estrutura zeolítica a partir de um metal tetravalente, conforme o titânio.
+       Conduto, o documento D3 sugere a preparação de um material catalisador de com cobre
+inserido na estrutura zeolítica CHA, cuja composição compreende a razão molar (nYO2): (X2O3)
+em que X é um elemento trivalente, de preferência Al, Y é um elemento tetravalente de
+
+
+                                                                                         Página 3
+                                        BR112016029719-9
+
+
+preferência Si, e em que n é de preferência pelo menos 20 (ver em D3, resumo e reivindicação 1).
+       Em particular, D3 sugere e ensina que o elemento tetravalente Y na rede zeolítica é
+selecionado do grupo que consiste dentre Si, Sn, Ti, Zr, Ge, e uma mistura de dois, ou mais dos
+mesmos, sendo particularmente para o elemento Ti utilizadas todas fontes adequadas de TiO2, as
+quais podem ser empregadas na síntese, como exemplo, óxido de titânio ou alcoolatos de titânio,
+tais como, tetraetoxititanato ou tetrapropoxititanato na inserção do metal a estrutura da zeólita (ver
+em D3, parágrafos 0025-0026).
+       Sendo assim, pelas razões supracitadas neste parecer, e no parecer anteriormente
+exarado, ao considerar o documento D5, referência mais próxima, ou mesmo o documento D4,
+que também ensina catalisadores de Cu-CHA, cujo efeito de redução seletiva de emissões de
+NOx proporciona quantidades tão baixas de N2O, como aquelas observadas pelo objeto
+reivindicado, e ainda, em combinação com os ensinamentos de D3 que indicam a compensação
+da estrutura zeolítica com titânio, um técnico no assunto teria à época do depósito do presente
+pedido, os meios de alcançar de forma óbvia, a solução preconizada pela matéria das
+reivindicações 1-8 permanece sem apresentar ATIVIDADE INVENTIVA, por não atender os
+Artigos 8o e 13 da LPI.
+
+
+
+Conclusão
+
+       Portanto, com base no documento D5, mais próximo, em combinação com os documentos
+D4 e D3, a matéria das reivindicações 1-8 não apresenta ATIVIDADE INVENTIVA, por estar em
+desacordo com os Artigos 8o e 13 da LPI.
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido.
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+                                                              Rio de Janeiro, 18 de janeiro de 2022.
+
+
+Flávio dos Reis Gonçalves
+Pesquisador/ Mat. Nº 1550074
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº 022/12
+
+
+
+
+                                                                                            Página 4
+

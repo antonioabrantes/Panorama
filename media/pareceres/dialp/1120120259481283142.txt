@@ -1,0 +1,391 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR112012025948-2            N.° de Depósito PCT: IN2010/000511
+ Data de Depósito:                     02/08/2010
+ Prioridade Unionista:                 IN 1233/MUM/2010 (13/04/2010)
+ Depositante:                          Indian Institute Of Technology, Bombay (IN) , Embio Limited (IN)
+ Inventor:                             Santos H Noronha e Outros, Praveen Kumar Agrawal, P. Jayadeva
+                                       Bhat
+ Título:                               Um processo recombinante para a produção de r-aromático e
+                                       hidroxicetonas. 
+
+                                                              PARECER
+
+
+
+           Em 14/10/2019, por meio da petição 870190103383, o Depositante apresentou
+argumentações e modificações no pedido em resposta ao parecer de ciência emitido pelo INPI
+(notificação de despacho 7.1, publicado na RPI 2532 de 16/07/2019).
+
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                           X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)            X
+
+O pedido refere-se a Sequências Biológicas                                                             X
+
+Comentários/Justificativas
+
+ANVISA: O pedido não foi encaminhado à ANVISA para obtenção da anuência prévia prevista
+no art. 229-C da LPI por não conter matéria estipulada no referido dispositivo legal.
+PATRIMÔNIO GENÉTICO: Até o presente exame não houve manifestação voluntária da
+requerente sobre a ocorrência (ou não) de acesso ao patrimônio genético nacional para
+obtenção do objeto do presente pedido. Dessa forma, tendo em vista o cumprimento da
+legislação brasileira de acesso ao patrimônio genético (Lei nº 13.123/2015), cujo art. 47
+estabelece que "a concessão de direito de propriedade intelectual pelo órgão competente sobre
+produto acabado ou sobre material reprodutivo obtido a partir de acesso a patrimônio genético
+ou a conhecimento tradicional associado fica condicionada ao cadastramento ou autorização,
+nos termos desta Lei", e, com base no disposto no art. 220 da LPI, visando a acelerar o
+processamento do presente pedido, solicita-se à requerente que se manifeste quanto a esta
+questão, enquadrando o presente pedido em um dos casos discriminados abaixo.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                                Página 1
+                                                        BR112012025948-2
+
+   1. Caso o objeto do presente pedido NÃO tenha sido obtido em decorrência de acesso a
+      amostra de componente do patrimônio genético nacional, ou do conhecimento tradicional
+      associado, realizado a partir de 30 de junho de 2000, o depositante deverá: (i) declarar ao
+      INPI que o objeto do pedido não foi obtido em decorrência de acesso ao patrimônio
+      genético nacional, realizado a partir de 30 de junho de 2000.
+
+       Para tal, o depositante deverá gerar uma Guia de Recolhimento da União (GRU) código
+       273, relativa a Declaração Negativa de Acesso ao Patrimônio Genético, e protocolá-la
+       através do Sistema de Peticionamento Eletrônico do INPI, ou peticionar no INPI a GRU
+       código 273 junto do Formulário FQ012 - Declaração Negativa de Acesso ao Patrimônio
+       Genético.
+
+   2. Caso o objeto do presente pedido tenha sido obtido em decorrência de acesso a amostra
+      de componente do patrimônio genético nacional, ou conhecimento tradicional associado,
+      realizado a partir de 30 de junho de 2000, o depositante deverá: (i) informar ao INPI o
+      número e a data da Autorização/Cadastro de acesso correspondente; e (ii) informar ao
+      INPI a origem do material genético e do conhecimento tradicional associado, quando for o
+      caso.
+
+       Para tal, o depositante deverá gerar uma Guia de Recolhimento da União (GRU) código
+       264, relativa a Declaração Positiva de Acesso ao Patrimônio Genético, e protocolá-la
+       através do Sistema de Peticionamento Eletrônico do INPI, ou peticionar no INPI a GRU
+       código 264 junto do Formulário FQ011 - Declaração de Acesso ao Patrimônio Genético.
+
+LISTAGEM DE SEQUÊNCIAS: Em exame anterior, foram apontadas irregularidades na listagem
+de sequências apresentadas. Em 29/10/2019, por meio da petição 870190109936, o
+Depositante apresentou nova listagem de sequências onde as referidas irregularidades foram
+sanadas. A nova listagem de sequência sana as irregularidades anteriormente sanadas.
+Entretanto, as seguintes irregularidades foram observadas:
+
+- No campo 141 e 151 as datas não estão no formato dia/mês/ano.
+
+       Cabe ressaltar que para a apresentação de uma nova Listagem de Sequências
+incorporando as correções acima citadas, se faz necessária a apresentação de novo código de
+controle referente ao novo arquivo .txt da nova listagem e as devidas declarações conforme
+Resolução INPI/ nº 187/2017. Em caso da alteração do título a depositante deve estar ciente que
+o título na listagem de sequência deve ser o mesmo do título apresentado no relatório descritivo
+e resumo.
+
+
+
+                                    Quadro 1  Páginas do pedido examinadas
+            Elemento                                   Páginas         n.o da Petição     Data
+Relatório Descritivo                                    1 a 19         020120101663     29/10/2012
+Listagem de sequências em
+                                                         ----               ----          ----
+formato impresso
+Listagem de sequências*                       Código de Controle       870190109936     29/10/2019
+Quadro Reivindicatório                                   1a2           870190103383     14/10/2019
+Desenhos                                                 1a8           020120101663     29/10/2012
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                          Página 2
+                                                        BR112012025948-2
+
+Resumo                                                      1          020120101663       29/10/2012
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+     CB83847072155662 (Campo 1) e 1DC8C6A9A210EDE7 (Campo 2).
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                   Sim          Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                            X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                    X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                               X
+O pedido está de acordo com disposto no art. 32 da LPI                                X
+Comentários/Justificativas
+
+
+
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                   Sim          Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         X
+Comentários/Justificativas
+
+       Em parecer anterior, foram apontadas irregularidades no que diz respeito ao
+cumprimento do art. 24 da LPI. A emenda ao quadro reivindicatório e esclarecimentos prestados
+apresentados em manifestação não sanam as irregularidades apontadas. Persistem as
+seguintes irregularidades:
+
+- O presente pedido refere-se a um processo de produção de alfa-hidroxi cetonas (R)-aromáticas
+em uma cepa de levedura geneticamente modificada. Entretanto, apenas é identificada no
+relatório descritivo a informação acerca das modificações genéticas de tal levedura, as demais
+etapas estão vagamente descritas, de forma que condiciona o técnico no assunto a realizar
+experimentação indevida para reproduzir o dito método. Portanto, nos termos do item 2.15 das
+Diretrizes de Exame de Pedidos de Patente, Bloco I, o relatório descritivo do presente pedido
+não apresenta suficiência descritiva.
+
+- Alega a requerente que a característica técnica essencial do referido processo reside nas
+enzimas PDC1, PDC5 ou PDC6 mutantes e que o isolamento e mutagênese destas constituem
+técnica de rotina, não resultando em experimentação indevida. Cabe esclarecer que a objeção
+em relação à suficiência descritiva não diz respeito à enzima mutante, mas sim às condições de
+obtenção de alfa-hidroxi cetonas (R)-aromáticas que não R-PAC. A mutação revelada não é
+capaz de produzir alfa-hidroxi cetonas (R)-aromáticas per se, mas sim resulta em níveis
+alterados de piruvato que favorecem a biotransformação de reagentes adicionados à cultura no
+produto de interesse. Não há como se prever a correspondência entre toda sorte de reagentes e
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                            Página 3
+                                                       BR112012025948-2
+
+
+produtos esperados, tampouco pode se prever o sucesso da biotransformação desses
+reagentes pelos microrganismos mutantes, o que implicará em experimentação indevida. Os
+argumentos apresentados em manifestação apenas reforçam esse entendimento:
+
+                Como apresentado pela tabela da página 15 do relatório descritivo, foi observada
+                uma diminuição de 4 vezes na taxa de reação de descarboxilação, enquanto a
+                taxa de carboligação diminuiu apenas 2 vezes. Portanto, esta mutação favorece
+                seletivamente a carboligação sobre a descarboxilação. Algumas mutações afetam
+                a descarboxilação, enquanto outras podem alterar a reação de carboligação
+                C221E, quando estudadas in vitro, não favorece a carboligação, mas quando
+                expressas in vivo resultam em maior produção de R PAC. De acordo com os
+                inventores, isso pode ser devido ao aumento da acumulação de níveis
+                intracelulares de piruvato. Esta enzima diminuiu a atividade de descarboxilação in
+                vitro e isso provavelmente diminui a utilização de piruvato in vivo em direção ao
+                acetaldeído. Consequentemente, é provável que exista um nível elevado de
+                piruvato que beneficie o progresso da reação de carboligação (que, pelo menos in
+                vitro, é menos afetada pela mutação). Outro aspecto possível é que o piruvato
+                descarboxilado pode ser menos facilmente liberado pelo mutante, facilitando a
+                condensação com o benzaldeído adicionado exogenamente).
+
+                ()
+
+                De se observar ainda que a própria reação de bio-transformação envolve a
+                incorporação de piruvato em (R) -PAC, na adição de benzaldeído à levedura.
+                Portanto, a produção comercial de (R) -PAC é realizada pela adição de
+                benzaldeído a uma cultura de levedura cultivada com melaço.
+
+                ()
+
+                Afirma-se que um processo industrial típico requer várias adições de benzaldeído
+                para maximizar a produção em lotes. Um experimento típico na escala de 10 litros
+                envolveria um processo de duas etapas, como a seguir. Inicialmente, seriam
+                adicionados 0,85 kg de melaço de cana, para facilitar o crescimento de leveduras.
+                Após cerca de 18 horas ou fase estacionária inicial, são adicionados 0,6 kg
+                adicionais de melaço para garantir a rápida síntese do piruvato. Após uma hora, o
+                benzaldeído é adicionado a um nível final de 92 mM. O rendimento resultante de
+                (R) -PAC é de -57 mM, com uma eficiência de biotransformação de 61%.
+
+
+
+      Diante do exposto, as irregularidades apontadas em relação ao cumprimento do artigo 24
+não foram superadas.
+
+
+
+
+       Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                         Página 4
+                                                        BR112012025948-2
+
+
+       Em parecer anterior, foram apontadas irregularidades no que diz respeito à clareza das
+reivindicações conforme disposto pelo art. 25 da LPI. A emenda ao quadro reivindicatório e
+esclarecimentos prestados apresentados em manifestação não sanam as irregularidades
+apontadas. Persistem as seguintes irregularidades:
+
+- Reivindicações 1 a 10: As reivindicações mencionadas se referem a sequências biológicas, no
+caso polipeptídeos, pela atividade enzimática e/ou nome comum de gene codificante, o que não
+é suficiente para definir com clareza a matéria pleiteada, de acordo com o item 6.1 das Diretrizes
+de Exame de Pedidos de Patente na Área de Biotecnologia, instituídas pela resolução no
+144/2015. As reivindicações devem se referir a sequências biológicas de maneira inequívoca,
+através de SEQ ID apresentada na listagem de sequência.
+
+       Cabe esclarecer, como discutido anteriormente, que a indicação de resíduos cisteínas
+substituídos só é válida para uma determinada sequência de PDC1. Assim, a não indicação de
+uma SEQ ID de referência na qual se encontram os resíduos mencionados, incorrerá em falta de
+clareza, pois, como exemplificado em parecer anterior, não é possível assumir que as mesmas
+posições em distintas PDCs em distintas espécies tenham correspondência. Ressalta-se, ainda,
+que as PDC5 e PDC6 de Saccharomyces cerevisiae apresentadas possuem apenas a cisteína
+da posição 221 e são isoformas de PDC1 que não são identificadas em outras espécies.
+
+- Reivindicação 3: Apesar da reivindicação mencionada apresentar dependência em relação à
+reivindicação 1, sua redação gera incoerência no quadro reivindicatório, já que, enquanto a
+reivindicação 1 pleiteia processo o qual entende-se ser in vivo, a reivindicação 3 pleiteia o
+isolamento da enzima PDC, o que possibilita a compreensão de que se trata de processo in
+vitro. A redação e/ou a relação de dependência entre tais reivindicações deve ser reformulada.
+
+
+
+       Em parecer anterior, foram apontadas irregularidades no que diz respeito à
+fundamentação das reivindicações no relatório descritivo conforme disposto pelo art. 25 da LPI.
+A emenda ao quadro reivindicatório e esclarecimentos prestados apresentados em manifestação
+não sanam as irregularidades apontadas. Persistem as seguintes irregularidades:
+
+- Reivindicações 1 e 2: Os exemplos apresentados demonstram produção de R-PAC e, na
+ausência de informações adicionais sobre o processo de produção, considerada as
+particularidades dos processos enzimáticos in vitro ou in vivo, o técnico não pode esperar que
+outras alfa-hidroxi cetonas (R)-aromáticas sejam produzidas. Dessa forma, a matéria objeto de
+proteção das reivindicações mencionadas é demasiadamente ampla e não encontra
+fundamentação no relatório descritivo. Alega a requerente que a característica técnica essencial
+do referido processo reside nas enzimas PDC1, PDC5 ou PDC6 mutantes e que o isolamento e
+mutagênese destas constituem técnica de rotina, não resultando em experimentação indevida.
+Os argumentos apresentados não são considerados persuasivos.
+
+- Reivindicações originais 4 e 6: Cabe ressaltar que o parecer anterior se refere erroneamente
+às reivindicações originais 4 e 8, quando deveria se referir às reivindicações 4 e 6, o que não
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                       Página 5
+                                                         BR112012025948-2
+
+
+prejudica a compreensão, já que a objeção diz respeito à redação destas reivindicações e sua
+relação de dependência com a reivindicação 1. Conforme apontado, a redação indica que PDC5
+ou PDC6 selvagens devem ser expressas em conjunto com a PDC1 mutante mencionada na
+reivindicação 1, o que não parece ser a intenção da requerente de acordo com o relatório
+descritivo e o quadro reivindicatório em sua completude. Não existe evidência que permita ao
+técnico no assunto supor que a expressão adicional de PDC5 e/ou PDC6 não mutadas em
+cepas recombinantes de levedura leve ao resultado esperado. Os argumentos apresentados
+pela requerente dizem respeito às enzimas PDC5 e PDC6 mutantes e, portanto, não são
+persuasivos.
+
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                        Data de publicação
+    D1        US 312742 A                                                                   17/05/1994
+    D2        Baykal A, et al. Synthesis with good enantiomeric excess of                  02/11/2006
+              both enantiomers of alpha-ketols and acetolactates by two
+              thiamin diphosphate-dependent decarboxylases. Bioorg Chem.
+              2006 Dec;34(6):380-93. Epub 2006 Nov 2.
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                     Cumprimento   Reivindicações
+                                                                           Sim           1 a 10
+             Aplicação Industrial
+                                                                          Não            ----
+                                                                           Sim           1 a 10
+                     Novidade
+                                                                          Não            ----
+
+                                                                           Sim           ----
+             Atividade Inventiva
+                                                                          Não            1 a 10
+Comentários/Justificativas
+
+         O presente pedido se refere a processo de produção de alfa-hidroxicetonas
+(R)-aromáticas, mais especificamente, (R)-fenilacetilcarbinol (R-PAC), empregando leveduras
+recombinantes que expressam enzima piruvato descarboxilase mutada.
+
+         Conforme discutido anteriormente, ainda que seja do conhecimento do estado da técnica
+que mutações na sequência de PDC podem alterar a seletividade das atividades de
+carboligação contra a atividade de descarboxilação (exemplo revelado pelo documento D2,
+introdução, páginas 381 a 382), não é possível ao técnico no assunto prever quais resíduos
+devem ser mutados para atingir tal efeito, o que atenderia ao requisito de atividade inventiva.
+Entretanto, considerada a natureza de processos enzimáticos e de biotransformação, fica claro
+da leitura de D1 e D2 que o produto final do processo que empregue as leveduras mutantes
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 6
+                                                          BR112012025948-2
+
+
+como definido pela reivindicação 1 dependerá das condições de crescimento, mais
+especificamente, do substrato/reagente fornecido para a síntese de alfa-hidroxicetonas
+(R)-aromáticas. D1, por exemplo, revela processo in vivo de síntese de PAC a partir de
+benzaldeído e piruvato como substrato (resumo e coluna 6, linhas 62 a 68). Por fim, parecer
+anterior ressaltou a necessidade de reformulação do quadro reivindicatório de forma que a
+matéria de proteção fosse claramente definida e fundamentada no relatório descritivo,
+atendendo em sua totalidade ao requisito de atividade inventiva.
+
+       Diante do exposto, a alegação apresentada de que a característica técnica essencial da
+matéria pleiteada residiria nas mutações sítio dirigidas de PDC1 já havia sido considerada em
+parecer anterior. Entretanto, cabe observar que a matéria pleiteada não diz respeito a
+polipeptídeo PDC ou cepa mutante de microrganismo, mas sim a um processo de síntese de
+alfa-hidroxicetonas (R)-aromáticas. Nesse aspecto, ressalta-se que o relatório descritivo revela
+apenas informações quanto à síntese de (R)-fenilacetilcarbinol (R-PAC). Na ausência de
+informações adicionais, não há como o técnico no assunto assumir que toda e qualquer
+alfa-hidroxicetona (R)-aromática poderá ser obtida pelo processo revelado, ainda que limitadas
+àquelas mencionadas pela reivindicação 2.
+
+       Os argumentos apresentados pela requerente tratam das anterioridades D1 e D2,
+entretanto não abordam a questão da amplitude da matéria pleiteada, pelo contrário, reforçam o
+entendimento de que o presente pedido revela apenas a biostransformação de benzaldeído por
+leveduras recombinantes que expressam PDC1, PDC5 ou PDC6 mutantes gerando
+(R)-fenilacetilcarbinol (R-PAC). Portanto, os argumentos não são persuasivos.
+
+       Embora a matéria das reivindicações 1 a 10 apresente potencial aplicação industrial e
+satisfaça o requisito de novidade, não atende ao requisito de atividade inventiva em sua
+totalidade, já que não há como o técnico no assunto assumir que o resultado técnico esperado,
+a saber, produção de uma alfa-hidroxicetona (R)-aromática qualquer, será atingido pelo mero
+crescimento de cepas expressando PDC1, PDC5 ou PDC6 mutantes em uma fonte de carbono.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -      não apresenta suficiência descritiva (Art. 24 da LPI)
+
+      -      as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+             descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                       Página 7
+                                                      BR112012025948-2
+
+
+                                                                          Publique-se o indeferimento (9.2).
+
+
+
+                                                                    Rio de Janeiro, 25 de setembro de 2020.
+
+
+
+
+Bruno Leonardo Bozaquel Morais
+Pesquisador/ Mat. Nº 1322859
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+013/19
+
+
+
+
+      Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 8
+

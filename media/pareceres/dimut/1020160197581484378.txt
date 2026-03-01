@@ -1,0 +1,228 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102016019758-9       N.° de Depósito PCT:
+ Data de Depósito:                   25/08/2016
+ Prioridade Unionista:               -
+ Depositante:                        EMERSON CORDEIRO DE OLIVEIRA (BRMS)
+ Inventor:                           EMERSON CORDEIRO @FIG
+ Título:                             Sistema modular de placa fotovoltaica para galpão industrial e
+                                     comercial 
+
+                                           PARECER
+       Foram apresentados subsídios ao exame em epígrafe. Todos os documentos
+apresentados no subsídio através da petição 870200136366 de 29/10/2020, depositada por
+TEGULA SOLUÇÕES PARA TELHADOS LTDA, inscrita no CNPJ n° 02.014.622/0001-02, foram
+avaliados de acordo com o artigo 31 da lei 9279/96.
+       Conforme publicado na RPI n° 2600 de 03/11/2020, com o código de despacho 15.10, foi
+deferido o pedido de mudança de natureza de patente de modelo de utilidade para patente de
+invenção , onde o pedido foi renumerado de BR202016019758-4 para BR102016019758-9,
+prevalecendo a natureza de patente de invenção.
+       Em 14/06/2021, por meio da petição n° 870210052992, o Requerente apresentou
+modificações no pedido em resposta ao parecer emitido, notificado na RPI 2619 de 16/03/2021,
+com código de despacho 7.1. Estas modificações estão consideradas no Quadro 1.
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                     1a7                 870200038192           23/03/2020
+Quadro Reivindicatório                                   1a1                 870210052992           14/06/2021
+Desenhos                                                 1a5                 870200038192           23/03/2020
+Resumo                                                   1a1                 870200038192           23/03/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR102016019758-9
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                    x
+Comentários/Justificativas
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                               US20100131108A1                               27/05/2010
+    D2                                  GB2491091A                                 28/11/2012
+    D3                                 CN204266492U                                15/04/2015
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                     1,2
+            Aplicação Industrial
+                                                        Não                   Nenhuma
+                                                         Sim                     1,2
+                 Novidade
+                                                        Não                   Nenhuma
+                                                         Sim                  Nenhuma
+            Atividade Inventiva
+                                                        Não                     1,2
+Comentários/Justificativas
+I. Parecer do 1º exame:
+         No parecer de primeiro exame, constatou-se que:
+        O quadro reivindicatório contraria o disposto no art. 13, incisos V e VI, da Instrução
+Normativa n.º 30/2013, pois define partes caracterizantes já compreendidas no estado da técnica.
+Estas partes da reivindicação independente são citadas de forma resumida no item (i) dos
+comentários do Quadro 5.
+        Da forma como apresentado o quadro reivindicatório não atende ao disposto no Art. 25 da
+LPI.
+        Com base nos documentos D1, D2 e D3, as referências numéricas indicadas no quadro
+reivindicatório pleiteado neste pedido de patente, apresentadas abaixo, encontram-se
+antecipadas pelo estado da técnica supracitado:
+
+(i)    Matérias pleiteadas e conhecidas no estado da técnica, apresentadas nos documentos
+D1, D2 e D3:
+
+- D1  GB2491091A:
+        Em algumas modalidades, um módulo fotovoltaico inclui uma camada ativa, uma camada
+superior e uma camada inferior. e módulos fotovoltaicos integrados a uma telha convencional,
+mais especificamente, localizados nos espaços dos vales da telha corrugada. O módulo inclui
+uma camada ativa, uma camada superior, e uma camada inferior.
+        A camada ativa sendo composta por uma pluralidade de tiras de material fotovoltaico de
+filme fino que são dispostos espaçadamente e substancialmente paralelos entre si. A camada
+
+
+                                                                                          Página 2
+                                       BR102016019758-9
+
+superior é disposta acima da camada ativa e inclui um filme substancialmente transparente.A
+camada ativa inclui uma pluralidade de tiras de material PV de película fina que são dispostas
+espaçadas e substancialmente paralelas umas às outras. A camada superior está disposta
+acima da camada ativa e inclui um filme substancialmente transparente. A camada inferior está
+disposta abaixo da camada ativa, a camada inferior incluindo uma folha traseira condutora
+configurada para formar um caminho de retorno de corrente para as tiras de material PV de
+película fina. O módulo PV inclui ainda meios para interconectar em série e redundantemente as
+tiras de material PV de filme fino entre si.
+
+- D2  GB2491091A:
+        Uma célula fotovoltaica (FV) 10 para uso em um painel solar em forma de telha que
+compreende uma série de faixas de células fotovoltaicas C. Acima das faixas FV C estão as
+camadas A, D de material transparente, por exemplo, plástico ou vidro. A camada A tem uma
+forma ondulada e pode ser revestida com um material altamente reflexivo nos lados superiores
+dos canais B, de modo que a luz que entra é refletida e concentrada na superfície da tira PV
+11b. A camada superior D pode ser feita do mesmo material acrílico transparente e ambas
+fornecem estabilidade e mantém as tiras de PV livres de sujeira. As ondulações podem ter a
+forma de dente de serra, triângulo ou ter uma forma sinusoidal lisa. A luz é ampliada pelas
+ondulações, aumentando assim a eficiência de saída do painel PV. As tiras de PV podem ser
+tiras de PV amorfas. As camadas de material transparente podem ser fabricadas em uma matriz
+extrudada contínua ou em uma tira.
+
+- D3  CN204266492U:
+        A matéria apresentada utiliza as depressões pré-existentes dos telhados ondulados para
+assentar as células fotovoltaicas, evitando o uso de estruturas de fixação, portanto diminuindo
+os custos de instalação e manutenção. Além disso, as células fotovoltaicas são montadas
+diretamente nos vales da telha ondulada, onde os seguintes itens são depositados em
+sequência: elementos de circuitos, filmes EVA, células fotovoltaicas e painel de vidro externo. A
+telha possui também um rasgo passante destinado à passagem de cabos para o lado interno do
+telhado. Para garantir que o módulo fotovoltaico fique nivelado em consonância com o vale da
+telha, um suporte de plástico pode ser adicionado sob o módulo fotovoltaico e o conjunto é
+mantido em seu lugar com o auxílio de cola ou similar. Alternativamente, o conjunto pode ser
+encaixado à telha através de pinos e parafusos.
+
+        Estas características pleiteada no documento depositado são conhecidas no estado da
+técnica e apresentadas de forma detalhadas em D1, D2 e D3, conforme ilustra as figuras
+apresentadas nestes documentos, com diferentes vistas e disposições do dispositivo.
+        Com base nos documentos D1, D2 e D3, as referências numéricas indicadas no quadro
+reivindicatório pleiteado neste pedido de patente, apresentadas abaixo, encontram-se
+antecipadas pelo estado da técnica supracitado:
+     Módulo (1);
+     Placa fotovoltaica (3);
+     Vidro temperado (4);
+     Base plástica de polímero sustentável (2);
+     Faces inclinadas (8);
+     Encaixes (9) e (10);
+     Recortes (11);
+        Conforme a análise realizada das partes supracitadas, frente às informações
+apresentadas em D1, D2 e D3, constata-se que as partes caracterizantes reivindicadas e
+apresentadas no quadro reivindicatório do referido pedido de patente são conhecidas no estado
+da técnica.
+        Da forma como apresentada, a referida reivindicação independente encontra-se em
+desacordo com o disposto no artigo 13 da LPI, pois carece de atividade inventiva.
+        Conforme o Artigo 8º da Lei n.º 9.279/96 (LPI), é patenteável o objeto de uso prático que
+apresente nova forma ou disposição que resulte em melhoria funcional.
+        Assim, a matéria citada no item (i), pleiteada neste pedido, não atende ao requisito de
+atividade inventiva, pois decorre de maneira óbvia para um técnico no assunto com os
+
+
+
+                                                                                         Página 3
+                                       BR102016019758-9
+
+ensinamentos dos documentos D1, D2 e D3, não apresentando o requisito de atividade inventiva
+conforme disposto no art. 13 da LPI, não sendo o mesmo, portanto, patenteável, conforme o
+disposto no art. 8º da Lei n.º 9.279/96 (LPI).
+
+II. Manifestação sobre o 1º exame:
+        Com base nas informações e orientações contidas no parecer de primeiro exame, o
+requerente se manifestou apresentando novas partes do pedido, indicadas no Quadro 1 deste.
+No documento apresentado pelo requerente em manifestação ao parecer de primeiro exame,
+além das novas partes do pedido foram apresentados esclarecimentos sobre os elementos
+reivindicados e sobre os impedimentos de atendimento aos requisitos de patenteabilidade
+indicados no parecer de primeiro exame supracitado.
+
+
+III. Considerações:
+       Considerando o disposto no conjunto de documentos que compõe a manifestação do
+requerente e o conjunto de documentos inicialmente examinado, constatou-se que os novos
+documentos apresentados para exame não foram suficientes para atender aos requisitos de
+patenteabilidade indicados no parecer do 1º exame.
+        A matéria agora reivindicada não atende ao requisito ato inventivo, pois decorre de
+maneira comum ou vulgar para um técnico no assunto a partir dos documentos D1, D2 e D3
+apresentados no primeiro parecer, pois também revelam e compreendem de forma resumida um
+sistema modular de placa fotovoltaica para galpão industrial e comercial.
+        Observa-se que as matérias pleiteadas nas novas partes do referido pedido
+encontram-se antecipadas pelo estado da técnica, conforme detalhamento apresentado nos
+documentos D1, D2 e D3 e suas partes caracterizantes supracitadas.
+        Assim, o referido quadro reivindicatório encontra-se em desacordo com o disposto no
+artigo 13 da LPI, pois carece de atividade inventiva.
+
+
+Conclusão
+     Assim sendo, de acordo com o Art. 37, opinamos pelo indeferimento do presente pedido,
+uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                         Rio de Janeiro, 29 de setembro de 2021.
+
+
+
+
+Alex de Lima e Silva
+Pesquisador/ Mat. Nº 2316475
+DIRPA / CGPAT IV/DIMUT
+Deleg. Comp. - Port. INPI/DIRPA Nº
+006/18
+
+
+
+
+                                                                                         Página 4
+

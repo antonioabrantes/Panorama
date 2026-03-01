@@ -1,0 +1,154 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102013022839-7           N.° de Depósito PCT:
+ Data de Depósito:                   06/09/2013
+ Prioridade Unionista:               US 13/608,601 (10/09/2012)
+ Depositante:                        THE BOEING COMPANY (US)
+ Inventor:                           BRENT LOUIS HADLEY, PATRICK J. EAMES, STEPHEN P. MILLER,
+                                     JOSEPH F. FLOYD, CARRIE A. LAPONZA
+ Título:                             Visualização panóptica de um documento de acordo com a estrutura
+                                     do mesmo 
+
+                                          PARECER
+        A presente invenção refere-se a um sistema para visualização panóptica de um documento
+que tem uma estrutura definida de acordo com um esquema particular. O sistema inclui um
+analisador de documento, um coligador e mecanismo de layout.
+        Em 24/03/2020, por meio da petição 870200038898, o Depositante apresentou
+modificações no pedido em resposta ao parecer emitido no âmbito da Resolução Nº 241/2019,
+notificado na RPI 2556 de 31/12/2019 segundo a exigência preliminar (6.21).
+        Em 18/01/2021, por meio da petição 870210006062, a Requerente apresentou
+modificações no pedido em resposta ao parecer emitido, notificado na RPI 2599 de 27/10/2020
+(despacho 7.1). Estas modificações estão consideradas no Quadro 1.
+
+                                      Quadro 1  Páginas do pedido examinadas
+          Elemento                                   Páginas                 n.o da Petição     Data
+
+Relatório Descritivo                   1  66 (7  72 do arq. PDF)           870210006062     18/01/2021
+Quadro Reivindicatório                 1  6 (73  78 do arq. PDF)           870210006062     18/01/2021
+Desenhos                             1  18 (85  102 do arq. PDF) NPWB860130002279           06/09/2013
+Resumo                                       1 (79 do arq. PDF)              870210006062     18/01/2021
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                          Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                        X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                   X
+O pedido está de acordo com disposto no art. 32 da LPI                                    X
+Comentários/Justificativas:-----
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                       Página 1/3
+                                          BR102013022839-7
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                    X
+Comentários/Justificativas:
+        As novas reivindicações 1 e 2 ainda não atendem ao disposto no Art. 25 da LPI e na
+Instrução Normativa nº 30/2013  Art. 4º (III), pois a matéria pleiteada não está definida de
+maneira clara, precisa e positiva. Os trechos o documento tendo uma estrutura hierárquica
+definida de acordo com um esquema particular; e com algum esquema de metadados da
+reivindicação 1 e o trecho a estrutura do documento é refletida no conteúdo de mídia das uma ou
+mais páginas do documento, ou codificada no documento. da reivindicação 2 não deixam claro o
+que de fato é a estrutura do documento ou o dito esquema particular. Essa mesma falta de clareza
+pode ser apontada pelos mesmos motivos para as reivindicações 8 e 9.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1      US20120188248A1                                                        26/07/2012
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento            Reivindicações
+                                                        Sim                     1  14
+            Aplicação Industrial
+                                                        Não                    Nenhuma
+                                                        Sim                     1  14
+                 Novidade
+                                                        Não                    Nenhuma
+
+                                                        Sim                    Nenhuma
+            Atividade Inventiva
+                                                        Não                     1  14
+Comentários/Justificativas:
+
+         No parecer anterior, D1 foi citado como sendo impeditivo à patenteabilidade das
+reivindicações 1 e 8, especialmente pelo revelado na Fig. 6 e par. [0036], [0041], [0042], [0044],
+[0056] e [0085]. A mesma visualização panóptica como pleiteada (veja Figs. 18  20) pode ser
+vista na Fig. 6 de D1. Isso significa que D1 e as reivindicações 1 e 8 têm a mesma estrutura de
+documento para possibilitar tal visualização, especialmente pelo fato de que não existe nenhuma
+característica distintiva trazida pelas reivindicações 1 e 8.
+         Em sua manifestação, a requerente argumenta que não exitem nem o coligador nem o
+analisador de documentos em D1. Como mencionado no parecer anterior, considerou-se que tais
+características estão explicita ou implicitamente reveladas, uma vez que em D1 faz-se a reunião
+de vários documentos na estrutura pleiteada. Mas mesmo no caso de os ditos coligador e o
+analisador de documentos não estivessem revelados em D1, como argumenta a requerente, ter-
+
+
+
+                                                                                         Página 2/3
+                                       BR102013022839-7
+
+
+se-ia no pedido uma mera automação da forma de se obter a visualização panóptica como
+indicado em D1, Fig. 6. É importante relembrar que substituir etapas manuais (se fosse o caso)
+realizadas em D1 para se obter a visualização panóptica consistiria meramente em um processo
+de automação o que não é considerado inventivo (par. [034] da Portaria INPI/PR nº 411 de
+23/12/2020).
+       Além disso, deve-se notar que não está claro nas reivindicações nem na descrição como o
+coligador provê metadados associados para cada página. Se o analisador de documentos e o
+coligador fossem o que iria definir a invenção, como indicado pela requerente ao argumentar que
+eles são as características diferenciais, essas características diferenciais deveriam estar clara e
+suficientemente descritas. No entanto, a descrição não apresenta informação suficiente para se
+compreender como os metadados são obtidos.
+       Nas modificações apresentadas para reivindicação 1 (e de forma equivalente para a
+reivindicação 8) encontram-se algumas diferenças em relação ao quadro anteriormente analisado:
+      define-se que os documentos analisados e da saída do coligador têm uma estrutura
+hierárquica (o que está claramente revelado em D1, Fig. 6);
+      define-se a disposição panóptica sendo bidimensional, a relação hierárquica entre as
+respectivas páginas sendo expressa na disposição panóptica por uma diferença no tamanho de
+pelo menos algumas das imagens em relação à outras das imagens e a imagem de cada página
+do leiaute incluindo uma imagem do respectivo conteúdo de mídia da página (todas essas
+características também estão claramente reveladas em D1, Fig. 6, como já mencionado no
+parecer anterior).
+       Ressalta-se que o fato de se definir que o sistema contém um processador e uma
+memória não agrega ao pedido atividade inventiva.
+       Pelos motivos apresentados acima e considerando aqueles já mencionados no parecer
+anterior, considera-se que D1 antecipa a matéria das reivindicações 1 e 8 e de suas respectivas
+dependentes 2  7 e 9  14.
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI) e que as reivindicações
+estão indefinidas e/ou não estão fundamentadas no relatório descritivo (Art. 25 da LPI).
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+                                                                 Publique-se o indeferimento (9.2).
+                                                               Rio de Janeiro, 30 de abril de 2021.
+
+
+
+Fábio Pacheco Freeland
+Pesquisador/ Mat. Nº 1693846
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 008/13
+
+
+
+
+                                                                                           Página 3/3
+

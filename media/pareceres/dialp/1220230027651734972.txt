@@ -1,0 +1,231 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122023002765-5         N.° de Depósito PCT: RU2021/000182
+ Data de Depósito:                   30/04/2021
+ Prioridade Unionista:               RU 2021103101 (10/02/2021)
+ Depositante:                        FEDERAL        STATE   BUDGETARY     INSTITUTION     NATIONAL
+                                     RESEARCH CENTRE FOR EPIDEMIOLOGY AND MICROBIOLOGY
+                                     NAMED AFTER THE HONORARY ACADEMICIAN N.F. GAMALEYA
+                                     OF THE MINISTRY OF HEALTH OF THE RUSSIAN FEDERATIO
+                                     (RU)
+ Inventor:                           OLGA       VADIMOVNA      ZUBKOVA;     TATIANA    ANDREEVNA
+                                     OZHAROVSKAIA; INNA VADIMOVNA DOLZHIKOVA; OLGA
+                                     POPOVA; DMITRII VIKTOROVICH SHCHEBLIAKOV; DARIA
+                                     MIKHAILOVNA          GROUSOVA;       ALINA      SHAHMIROVNA
+                                     DZHARULLAEVA; AMIR ILDAROVICH TUKHVATULIN; NATALIA
+                                     MIKHAILOVNA         TUKHVATULINA;     DMITRII    NIKOLAEVICH
+                                     SHCHERBININ; ILIAS BULATOVICH ESMAGAMBETOV; ELIZAVETA
+                                     ALEXSANDROVNA TOKARSKAYA; ANDREI                GENNADEVICH
+                                     BOTIKOV;        ALINA    SERGEEVNA        EROXOVA;      FATIMA
+                                     MAGOMETOVNA IZHAEVA; NADEZHDA LEONIDOVNA LUBENETS;
+                                     NATALYA ANATOLEVNA NIKITENKO; SERGEY VLADIMIROVICH
+                                     BORISEVICH; ALEKSANDR SERGEEVICH SEMIKHIN; DENIS
+                                     YURYEVICH LOGUNOV; BORIS SAVELIEVICH NARODITSKY;
+                                     ALEKSANDR LEONIDOVICH GINTSBURG
+ Título:                             Agente para indução de imunidade específica contra o vírus da
+                                     síndrome respiratória aguda grave sarscov-2 em forma liofilizada
+                                     (variantes) e uso.
+
+                                                              PARECER
+
+          O presente pedido refere-se a vetores de expressão adenovirais para induzir imunidade
+contra o vírus SARS-CoV-2, composições liofilizadas contendo esses vetores e o uso destes.
+          O pedido BR122023002765 corresponde a divisão do pedido BR112022004778 (pedido
+original), requerida pela depositante através da petição nº 870230013104 de 14/02/2023. Confor-
+me o item 6.6 da Instrução Normativa n° 17/2013, um pedido dividido será considerado como es-
+tando na mesma fase processual em que se encontra o pedido original. Portanto, serão aproveita-
+dos todos os documentos, petições e despachos constantes no pedido original até 14/02/2023 -
+data de solicitação do pedido dividido além dos documentos apresentados no pedido original até
+essa data.
+         No pedido original, através da petição n° 870220054216 de 21/06/2022, foi solicitado
+exame prioritário estratégico, por envolver tecnologia para tratamento do Covid-19. A admissão do
+trâmite prioritário foi notificada através na RPI 2688 de 12/07/2022. Em parecer técnico inicial 
+referente ao pedido original -, publicado na RPI nº 2700 de 04/10/2022, foi emitido parecer de
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                     Página 1
+                                             BR122023002765-5
+ciência (7.1) com base nos arts. 8°, 10 (VIII), 13, 22, 24 e 25 da LPI e Bos R. et al. (NPJ Vaccines
+5:91, 2020). Na manifestação ora em análise, apresentada através da petição n° 870230013104
+de 14/02/2023, a requerente reapresentou o quadro reivindicatório examinado no primeiro exame
+técnico do pedido original, não propondo nenhuma modificação para adequar o pedido às
+observações realizadas no parecer técnico inicial. Assim, as objeções apontadas no parecer
+técnico inicial permanecem no pedido ora em análise.
+
+
+  Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                              Sim      Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                            X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)             X
+
+O pedido refere-se a Sequências Biológicas                                                             X
+
+Comentários/Justificativas
+
+- A declaração negativa de acesso de amostra de componente do patrimônio genético nacional
+foi apresentada na petição n° 870230013104 de 14/02/2023.
+
+
+                              Quadro 1  Páginas do pedido examinadas
+            Elemento                        Páginas                 n.o da Petição                    Data
+Relatório Descritivo                         1 a 51                 870230013104                  14/02/2023
+Listagem de sequências*               Código de Controle            870230013104                  14/02/2023
+Quadro Reivindicatório                        1a5                   870230013104                  14/02/2023
+Desenhos                                      1a4                   870230013104                  14/02/2023
+Resumo                                          1                   870230013104                  14/02/2023
+      *Listagem de sequências em formato eletrônico referente ao código de controle
+      123FD9C68EA333EA (Campo 1) e 87CD47A0C9094A66 (Campo 2).
+
+- Em relação à Listagem apresentada na petição n° 870230013104 de 14/02/2023, verifica-se que
+o campo <140> não apresenta o número do pedido em trâmite e há um caractere numérico no
+final da listagem.
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                       Sim                Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                   X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                                    X
+O pedido está de acordo com disposto no art. 32 da LPI                                X
+Comentários/Justificativas
+
+                                                                                                           Página 2
+                                           BR122023002765-5
+- Como apontado no parecer técnico inicial, foi detectado distintos grupos de invenções no
+presente pedido (de forma não-limitativa):
+GRUPO 1: refere-se a um vetor de expressão baseado no adenovírus humano sorotipo 26
+contendo em um cassete de expressão o gene Spike (espícula) do SARS-CoV-2.  referente às
+reivindicações 1; 4-11 (parcialmente).
+
+
+GRUPO 2: refere-se a um vetor de expressão baseado no adenovírus humano sorotipo 5
+contendo em um cassete de expressão o gene Spike (espícula) do SARS-CoV-2.  referente às
+reivindicações 2; 4-11 (parcialmente).
+
+
+GRUPO 3: refere-se a um vetor de expressão baseado no adenovírus simiano sorotipo 5
+contendo em um cassete de expressão o gene Spike (espícula) do SARS-CoV-2.  referente às
+reivindicações 3; 4-11 (parcialmente).
+
+
+       Os grupos 1 a 3 envolvem vetores baseados em subtipos adenovirais distintos.
+Considerando o estabelecido no art. 22 da LPI, que determina que o pedido de patente terá que
+se referir a uma única invenção ou a um grupo de invenções inter-relacionadas de maneira a
+compreenderem um único conceito inventivo, verifica-se que o presente pedido não está de
+acordo com as disposições do referido artigo.
+
+- As reivindicações 5-10 pleiteiam o uso dos agentes para a indução de resposta imune contra o
+SARS-CoV-2.
+       Métodos terapêuticos não são considerados invenções, de acordo com o disposto no
+art.10 (VIII) da LPI e, consequentemente, não são passíveis de patenteabilidade.
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim         Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                  X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                X
+Comentários/Justificativas
+- Como já apontado anteriormente, a reivindicação 11, que pleiteia uma Invenção, em qualquer
+forma de suas modalidades ou qualquer categoria aplicável de reivindicação [...]. Cada
+reivindicação deve referir-se a um único produto e categoria. Essa reivindicação é do tipo
+reach-through (vide as Diretrizes de Exame de Pedidos de Patente na Área de Biotecnologia,
+Resolução n° 118 de 12/11/2020, tópico 3.1), pois sequer define a categoria ou produto que está
+sendo pleiteado, e pleiteia proteção até para aplicações que não haviam sido identificadas pelo
+inventor até o momento de depósito do pedido de patentes. Assim, a matéria pleiteada nessa
+
+
+
+                                                                                      Página 3
+                                           BR122023002765-5
+reivindicação não apresenta suficiência descritiva, clareza, precisão ou fundamentação, estando
+em desacordo com os arts. 24 e 25 da LPI.
+
+                               Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                  Data de publicação
+   D1 *      Bos R. et al (NPJ Vaccines 5:91, 2020)                                         2020
+* Análise técnica referente à primeira unidade de invenção reivindicada, aqui denominada como Grupo 1,
+conforme indicado no Quadro 2.
+
+
+    Quadro 5 - Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+    Requisito de Patenteabilidade             Cumprimento                    Reivindicações
+                                                    Sim            1(integralmente); 4 e 11 (parcialmente)
+          Aplicação Industrial *, **
+                                                   Não                                -
+
+                                                    Sim            1(integralmente); 4 e 11 (parcialmente)
+                           ,
+               Novidade * **
+                                                   Não                                -
+
+                                                    Sim                               -
+          Atividade Inventiva *, **
+                                                   Não             1(integralmente); 4 e11 (parcialmente)
+* Análise técnica referente à primeira unidade de invenção reivindicada, aqui denominada como Grupo 1,
+conforme indicado no Quadro 2.
+** As matérias pleiteadas nas reivindicações 5 a 10 não são consideradas invenções, conforme discutido no
+Quadro 2 acima e, portanto, não foram avaliados pra fins de requisitos de patenteabilidade.
+
+Comentários/Justificativas
+       D1 foi considerado o mais representativo do estado da técnica. Esse documento revela o
+desenvolvimento de uma vacina contra Covid-19 baseada em vetores de expressão adenovirais
+baseados no adenovírus humano sorotipo 26 (Ad26) contendo cassetes de expressão
+compreendendo o gene Spike (espícula) do SARS-CoV-2. Foram desenhadas várias variantes da
+proteína Spike e as imunogenicidades dessas foram avaliadas (vide pág. 2, col. 1 SARS-CoV-2 S
+immunogen design; Figs. 1 e 2). Os vetores Ad26 analisados em D1 sofreram deleções das suas
+regiões E1/E3 - sendo incompetentes na replicação - e continham cassete de expressão que
+compreendia o gene spike com códon-otimizado sob controle do promotor do citomegalovírus
+humano (CMV) e uma sequência de poliadenilação do SV-40 (pág. 9, col. 1, Ad26 vectors).
+       Como já discutido no parecer técnico inicial, a matéria ora pleiteada não é considerada
+inventiva diante do revelado em D1 e, portanto, não atende ao disposto nos arts 8° e 13 da LPI.
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -    não atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI)
+
+      -    não apresenta suficiência descritiva (Art. 24 da LPI)
+
+                                                                                                 Página 4
+                                        BR122023002765-5
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+      -   não é considerado invenção, uma vez que incide no Art. 10 da LPI
+
+      -   não tem unidade de invenção (Art. 22 da LPI).
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+                                                            Rio de Janeiro, 29 de junho de 2023.
+
+
+
+
+Marcia Tie Kawamura
+Pesquisador/ Mat. Nº 1358397
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                        Página 5
+

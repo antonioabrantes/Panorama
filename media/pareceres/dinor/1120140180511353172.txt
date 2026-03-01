@@ -1,0 +1,186 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112014018051-2          N.° de Depósito PCT:EP2013/051237
+ Data de Depósito:                   23/01/2013
+ Prioridade Unionista:               FR 12 00213 (25/01/2012)
+ Depositante:                        RHODIA OPERATIONS (FR)
+ Inventor:                           EMMANUELLE ALLAIN, SYLVAINE NEVEU
+ Título:                             Processo para preparação de sílicas precipitadas 
+
+                                                                PARECER
+ A requerente apresentou novas vias do quadro reivindicatório e esclarecimentos resposta à
+ ciência (7.1) notificada na RPI de número 2589, de 18 de agosto de 2020, por meio da petição
+ eletrônica de número 870200138943, de 04 de novembro de 2020.
+
+
+ O reexame do pedido foi conduzido conforme apontado no Quadro 1 deste parecer, sob a
+ vigência das resoluções INPI/PR nº 241 de 03 de julho de 2019 publicada na RPI nº 2531 de 9
+ de julho de 2019, e considerando o conteúdo da manifestação apresentada.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 17               870200138943           04/11/2020
+Quadro Reivindicatório                                   1a3                 870190123593           26/11/2019
+Desenhos                                                    -                       -                   -
+Resumo                                                      1                860140140995           22/08/2014
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                         X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                 X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                  Página 1
+                                           BR112014018051-2
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                 WO2011/026893                                  10/03/2011
+    D2                                   US5871867                                    16/02/1999
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                   1 a 12
+            Aplicação Industrial
+                                                        Não                       -
+                                                         Sim                   1 a 12
+                 Novidade
+                                                        Não                       -
+                                                         Sim                      -
+            Atividade Inventiva
+                                                        Não                    1 a 12
+
+
+
+Comentários/Justificativas
+   1. As explicações apresentadas pela requerente não foram suficientes para superar as
+      objeções apontadas.
+         O documento D1 antecipa um processo em que ácido concentrado é usado. Um técnico no
+         assunto poderia facilmente escolher entre as soluções finitas de "diluído ou concentrado"
+         com uma expectativa razoável de sucesso.
+         Além disso, D1 antecipa uma faixa de concentração de ácido que se sobrepõe ao
+         processo reivindicado, uma vez que divulga concentrações de ácido sulfúrico até 98% e o
+         presente pedido não apresenta nenhum efeito técnico para uma concentração específica
+         de ácido sulfúrico.
+         A produtividade superior, consumo reduzido de água e energia em relação ao ácido diluído
+         alegadas pela requerente são esperadas a partir do processo de D1 ao usar um agente
+         acidificante concentrado, também sugerido pelo documento do estado da técnica.
+
+
+         O documento D1 (todo documento) antecipa um processo para a preparação de sílica
+         precipitada, compreendendo a reação de um silicato alcalino com, pelo menos, um ácido,
+         em que é obtida uma suspensão de sílica, seguida pela separação e secagem da referida
+
+
+                                                                                            Página 2
+                                BR112014018051-2
+
+suspensão de sílica, em que a reação do silicato com o pelo menos um ácido compreende
+as seguintes etapas:
+(i) formar um material aquoso inicial compreendendo um silicato de metal alcalino M, a
+concentração de silicato expressa como SiO2 no referido material inicial sendo inferior a 20
+g/L,
+(ii) adicionar um ácido ao referido estoque inicial para formar um meio de reação, até que
+pelo menos 50% da quantidade de M2O presente no referido estoque inicial seja
+neutralizada,
+(iii) adicionar simultaneamente um silicato de metal alcalino M e um ácido ao meio de
+reação, de modo que a razão entre a quantidade de silicato expressa como SiO 2
+adicionada na etapa (ii) e a quantidade de silicato expressa como SiO 2 presente no
+estoque inicial seja maior que 4 e no máximo 100, e
+(iv) interromper a adição do silicato usado na etapa (iii) enquanto continua a adição de um
+ácido ao meio de reação até que seja obtido um valor de pH no meio de reação entre 2,5 e
+5,3,
+(v) contatar (mistura) do meio de reação obtido no final da etapa (iv) com o agente
+acidificante e o silicato, de modo que o pH do meio de reação seja mantido entre 2,5 e 5,3;
+e
+(vi) separar e secar o precipitado, sendo que a secagem é realizada por atomização.
+Em que a razão entre a quantidade de sílica adicionada na etapa (iii) e o estoque inicial
+está entre 12 e 50. Na etapa (iii) a quantidade de ácido é tal que 80% a 99% de M 2O é
+neutralizado.
+D1 antecipa que, no referido processo, em, pelo menos, parte da etapa (iii) o ácido
+utilizado é um ácido selecionado do grupo que consiste em ácido sulfúrico, ácido nítrico,
+ácido clorídrico, ácido acético, ácido fórmico ou ácido carbônico. Sendo que o ácido é um
+ácido diluído ou concentrado e a concentração está entre 0,4 e 36N, em que o ácido é um
+ácido sulfúrico com concentração entre 40 e 180 g/L (ou seja, 1,84 mol/L, ~ 98% de ácido
+sulfúrico).
+Portanto, D1 ensina um método em que a concentração de agente acidificante se
+sobrepõe à faixa reivindicada de ácido. Seria evidente para um técnico no assunto utilizar
+o método de acordo com D1, em que uma solução de ácido concentrado é usada em
+qualquer faixa dentro da faixa da técnica anterior, incluindo 36N e obter uma sílica
+precipitada.
+Além disso, o ácido sulfúrico concentrado é normalmente conhecido como tendo
+concentração de 90 a 98% em peso, conforme mostrado no documento D2 (coluna 2,
+linhas 36-38).
+Ainda, D1 descreve a adição de um agente alcalino para aumentar o pH da reação a um
+valor entre 4,7 e 6,3.
+Além disso, teria sido óbvio usar o mesmo ácido para todo o processo para simplificar o
+equipamento necessário. D1 descreve ainda uma concentração de silicato do estoque
+base inicial não superior a 11 g/L.
+
+
+
+
+                                                                                   Página 3
+                                       BR112014018051-2
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                            Rio de Janeiro, 13 de janeiro de 2021.
+
+
+
+
+Nichele Cristina de Freitas Juchneski
+Pesquisador/ Mat. Nº 1976580
+DIRPA / CGPAT I/DINOR
+Deleg. Comp. - Port. INPI/DIRPA Nº
+008/18
+
+
+
+
+                                                                                         Página 4
+

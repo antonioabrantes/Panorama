@@ -1,0 +1,231 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112022022322-6           N.° de Depósito PCT:EP2021/061485
+ Data de Depósito:                   30/04/2021
+ Prioridade Unionista:               GB 2006659.3 (05/05/2020); GB 2016957.9 (26/10/2020)
+ Depositante:                        WISTA LABORATORIES LTD. (SG)
+ Inventor:                           CLAUDE MICHEL WISCHIK; MOHAMMAD ARASTOO; MICHAEL
+                                     PHILIP MAZANETZ
+ Título:                             Compostos de metiltionínio para uso no tratamento de hipoxemia 
+
+                                                                PARECER
+          O presente pedido de patente foi incluído no exame prioritário estratégico (RPI 2714 de
+10/01/2023) pois envolve tecnologia para tratamento do Covid-19, matéria descrita no art. 14 da
+Portaria INPI nº 54, de 15 de dezembro de 2021, publicada na RPI nº 2662 de 11/01/2022.
+
+
+          Em 20/09/2023, por meio da petição 870230083217, o Requerente apresentou
+argumentações quanto ao estado da técnica citado no relatório de busca e modificações no
+pedido em resposta ao parecer notificado na RPI 2738 de 27/06/2023 (despacho 7.1).
+
+
+          Verifica-se que, de modo a atender o disposto no Art. 6° da Lei de Propriedade Industrial
+nº 9279 de 14/05/1996 (LPI) e, desta forma, evitar a dupla proteção para o mesmo objeto, não
+deverão ser concedidas mais de uma patente para matérias idênticas pleiteadas em mais de um
+pedido. Foi observado que os usos reivindicados no pedido BR112022022322-6 foram também
+pleiteados nos pedidos BR112022022515-6 e BR112022022527-0. Desta forma, parte da
+matéria reivindicada no presente pedido é colidente com a matéria reivindicada nos pedido
+BR112022022515-6 e BR112022022527-0.
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                      1-38               870230083217     20/09/2023
+Quadro Reivindicatório                                     1-6               870230083217     20/09/2023
+Desenhos                                                   1-7               870220101505     03/11/2022
+Resumo                                                      1                870230083217     20/09/2023
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                           BR112022022322-6
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                           Sim             Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                       x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   x
+O pedido está de acordo com disposto no art. 32 da LPI                    x
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                    x
+Comentários/Justificativas
+       Os termos dose diária total, por dia, maior que, menor ou igual, uma dose dividida
+duas vezes ao dia ou três vezes ao dia, menor que, compreende a Etapa de selecionar o
+indivíduo de acordo com seu valor de SpO2, o indivíduo é selecionado dentre, um indivíduo
+hipotensocuja PA sistólica é inferior a 80 mmHg; um indivíduo em parada respiratória ou cardíaca;
+um paciente neonatal em sofrimento; um indivíduo com suspeita de crise falciforme; um indivíduo
+com envenenamento por monóxido de carbono, presentes no quadro reivindicatório, não são
+claros e não definem a matéria reivindicada. Trechos contidos nas reivindicações de novo uso
+médico relacionados ao esquema terapêutico não definem o uso de um composto para preparar
+um medicamento e, assim, não são aceitos por causarem indefinição à matéria. As reivindicações
+não estão claras e não definem a matéria reivindicada. Sendo assim, a matéria das reivindicações
+1-25 não está definida claramente, contrariando o disposto no Art. 25 da LPI.
+       De acordo com o Art. 24 da LPI, o relatório descritivo deve descrever de forma clara e
+suficientemente o objeto, de modo a possibilitar a sua realização por um técnico no assunto e
+indicar, quando for, o caso, a melhor forma de execução. Além disso, no que se refere à
+suficiência descritiva e suporte no relatório de reivindicações de uso médico, as Diretrizes de
+Exame de Pedidos de Patentes: Aspectos Relacionados ao Exame de Pedidos de Patente na
+Área de Química (Resolução/INPI/PR Nº 208, de 27/12/2017), item 9.1.3, orientam que o RD
+deve apresentar evidências que comprovem o novo uso pleiteado no ato do depósito do pedido de
+patente. Assim, o suporte para essa categoria de reivindicação está relacionado aos resultados
+obtidos a partir do uso reivindicado. E no caso da ausência de comprovação deste uso,
+considera-se que a característica técnica essencial da reivindicação não está suficientemente
+descrita e/ou suportada no relatório descritivo. As atuais reivindicações 1-25 se referem ao uso de
+diversas formas do composto LMTX para tratar hipoxemia, no entanto, tais usos não foram
+demonstrados. Considerando-se o escopo amplo abrangido pelas reivindicações do presente
+pedido, as reivindicações não foram descritas suficientemente, de modo que possam ser
+
+
+                                                                                          Página 2
+                                        BR112022022322-6
+
+reproduzidas por um técnico no assunto, pois há um grande número de possibilidades de acordo
+com as reivindicações que não são suportadas pelo relatório descritivo e pelos exemplos. Sendo
+assim, o relatório descritivo não descreve de forma clara e suficientemente a matéria objeto das
+reivindicações 1-25, o que contraria o disposto no Art. 24 da LPI.
+
+
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                              Data de publicação
+    D1       Alamdari, D.H. e col.                                                    2020
+    D2       WO02/04025                                                             17/01/2002
+    D3       WO2020/020751                                                          30/01/2020
+
+
+    Quadro 5 - Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento               Reivindicações
+                                                    Sim                       1-25
+            Aplicação Industrial
+                                                    Não                         -
+                                                    Sim                       1-25
+                 Novidade
+                                                    Não                         -
+                                                    Sim                         -
+            Atividade Inventiva
+                                                    Não                       1-25
+Comentários/Justificativas
+
+         O documento D1 (todo o documento) revela o uso de leucometiltionínio (LMT), a forma
+reduzida do azul de metileno, para diminuir a hipóxia através da redução da metemoglobina em
+paciente com COVID-19 (resumo). D1 ensina que o azul de metileno (a forma oxidada) não deve
+ser usado por causar aumento do estresse oxidativo e inflamação.
+         O documento D2 (resumo; página 1, linhas 1-27; página 8, linhas 1-23; reivindicações 1,
+13) revela o uso de LMT para o tratamento de metemoglobinemia, que pode levar à hipoxemia.
+D2 ensina que para que o tratamento de metemoglobinemia com azul de metileno seja efetivo,
+este deve primeiro ser reduzido à forma leuco in vivo e que a forma LMT é a forma ativa.
+         O documento D3 (resumo; página 4, páragrafos 3-4; página 12, parágrafo 1  página 16
+parágrafo 1; reivindicações 1, 43-47, 56, 57, 69) revela compostos de leucometiltionínio (LMT).
+D3 também ensina outras formas como oxidada Cloreto (MTC), ácidos mono e di-próticos
+(LMTX), metanossulfônico (LMTM) e outros.
+
+
+Novidade
+         O presente pedido se refere ao uso de compostos leucometiltionínio (LMT) para
+fabricação de um medicamento para aliviar hipoxemia, sendo que os compostos estão na forma
+de ácidos próticos (LMTX). O documento D1 revela o uso de leucometiltionínio (LMT), a forma
+
+
+
+                                                                                           Página 3
+                                       BR112022022322-6
+
+
+reduzida do azul de metileno, para diminuir a hipóxia através da redução da metemoglobina em
+paciente com COVID-19. O documentos D2 revela o uso de LMT para o tratamento de
+metemoglobinemia, que pode levar à hipoxemia. D3 revela o composto LMT na forma de
+diferentes ácidos próticos (LMTX). Considerando-se as modificações realizadas no quadro
+reivindicatório e os esclarecimentos da requerente, a matéria atualmente reivindicada não está
+especificamente descrita no estado da técnica e, portanto, é nova. Desta forma as
+reivindicações 1-25 atendem ao disposto nos Art. 8º e 11 da LPI.
+
+Atividade Inventiva
+       Conforme o item 9.1.2 das Diretrizes de Exame de Pedidos de Patentes: Aspectos
+Relacionados ao Exame de Pedidos de Patente na Área de Química (Resolução/INPI/PR Nº
+208, de 27/12/2017), em se tratando de matéria relacionada ao uso de moléculas já conhecidas,
+alguns aspectos devem ser considerados na análise da atividade inventiva, tais como: o
+mecanismo de ação do composto envolvido no novo uso não deve ser depreendido do seu
+mecanismo de ação para uso médico já revelado no estado da técnica; o novo uso médico deve
+se referir ao tratamento de uma doença cuja etiologia seja diferente da etiologia da doença
+relacionada ao uso revelado no estado da técnica; o novo uso não pode ser depreendido a partir
+da relação estrutura-atividade do fármaco em comparação com moléculas estruturalmente
+relacionadas, ou seja, a partir da analogia estrutural com outros compostos que apresentam a
+mesma atividade ora pleiteada, já revelada no estado da técnica; o novo uso não pode ser
+depreendido a partir do uso do composto para o tratamento de um sintoma de uma doença já
+revelado no estado da técnica, ainda que o uso pleiteado se refira a uma doença diferente.
+       D1 revela o uso de LMT para diminuir hipóxia, assim como reivindicado no presente
+pedido. D2 revela o uso de LMT para o tratamento de metemoglobinemia, que pode levar à
+hipoxemia. D3 revela o composto LMT na forma de ácidos próticos (LMTX). Com base nos
+documentos D1-D3, um técnico no assunto empregaria o composto LMT para preparar um
+medicamento para diminuir a hipóxia e usaria o composto na forma LMTX já revelada em D3. O
+fato de se utilizar a forma LMTX do LMT não torna inventivo o presente pedido, tendo em vista
+que o uso de LMT para o tratamento de hipóxia já é conhecido. Mesmo considerando-se os
+argumentos da requerente em sua manifestação, a matéria pleiteada nas reivindicações 1-25
+não apresenta nenhuma característica adicional relevante para que se considere inventivo o
+presente pedido de patente. Portanto, conclui-se que a matéria reivindicada no presente pedido
+(reivindicações 1-25) não envolve uma atividade inventiva segundo os Art. 8º e 13 da LPI.
+
+
+Conclusão
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   não apresenta suficiência descritiva (Art. 24 da LPI)
+
+
+
+
+                                                                                            Página 4
+                                        BR112022022322-6
+
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+     -    as reivindicações incidem na proibição estabelecida no Art. 6º inc. VII da Lei nº
+  11.105/05 e/ou no Art. 12 da Lei nº 10.814/03
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 19 de outubro de 2023.
+
+
+
+
+Priscila Mesquita de Sousa
+Pesquisador/ Mat. Nº 1740817
+DIRPA / CGPAT I/DIFAR-II
+Deleg. Comp. - Port. INPI/DIRPA Nº
+001/15
+
+
+
+
+                                                                                        Página 5
+

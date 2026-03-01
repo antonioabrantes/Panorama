@@ -1,0 +1,262 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112012026297-1          N.° de Depósito PCT:US2011/032072
+ Data de Depósito:                   12/04/2011
+ Prioridade Unionista:               US 61/324,984 (16/04/2010)
+ Depositante:                        E.I. DU PONT DE NEMOURS AND COMPANY (US)
+ Inventor:                           KONSTANTINOS KONTOMARIS, THOMAS J. LECK
+ Título:                             Aparelho resfriador, composição, método para produzir resfriamento
+                                     em um resfriador e método para substituir um refrigerante em um
+                                     resfriador 
+
+                                                                PARECER
+            Em resposta ao parecer técnico de ciência notificado em 29/10/2019, mais
+especificamente na Revista da Propriedade Industrial (RPI) número 2547, a requerente
+apresentou através da petição número 870200012262 de 27/01/2020, entre outros, os seguintes
+documentos:
+
+         nova cópia do relatório descritivo contendo 36 (trinta e seis) páginas;
+
+         nova cópia do quadro reivindicatório contendo 2 (duas) páginas e 7 (sete) reivindicações;
+
+         nova cópia do resumo contendo 1 (uma) página;
+
+         esclarecimentos.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-36               870200012262           27/01/2020
+Quadro Reivindicatório                                     1-2               870200012262           27/01/2020
+Desenhos                                                   1-3               018140006435           19/03/2014
+Resumo                                                      1                870200012262           27/01/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR112012026297-1
+
+
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   X
+O pedido está de acordo com disposto no art. 32 da LPI                    X
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D4                                US2008/0230738                               25/09/2008
+    D5                                WO2008/140809                                20/11/2008
+    D6                                WO2007/002625                                04/01/2007
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                     1-7
+           Aplicação Industrial
+                                                         Não                     ---
+                                                         Sim                     1-7
+                 Novidade
+                                                         Não                     ---
+                                                         Sim                     ---
+           Atividade Inventiva
+                                                         Não                     1-7
+
+
+
+Comentários/Justificativas
+
+         Considerando o conteúdo técnico, argumentos e os esclarecimentos submetidos pela
+requerente, tanto o presente pedido de patente quanto os documentos do estado da técnica
+foram revisados.
+
+         O documento D4 apresenta composições para uso em refrigeração, aparelhos de ar
+condicionado e sistemas de bomba de aquecimento que compreende uma fluorolefina e pelo
+menos um outro componente, em que tais composições são úteis para resfriamento ou
+produção de calor, fluidos de transferência de calor, agentes de geração de espuma, aerosóis,
+
+
+
+                                                                                          Página 2
+                                       BR112012026297-1
+
+
+supressão e extinção de fogo, entre outros, tal como o presente pedido de patente. O parágrafo
+[0007] revela propostas de substituição do refrigerante HFC-134a (1,1,1,2-tetrafluoroetano),
+conforme presente pedido de patente. O parágrafo [0010] revela que a composição pode ser de
+HFC-1234yf (2,3,3,3-tetrafluoropropeno) e outro componente como, por exemplo, HFC-134a, tal
+como o presente pedido de patente. A página 3 (três), tabela 2 (dois), mostra que a composição
+formada por HFC-1234yf e HFC-134a pode estar em uma proporção de 1% a 99% de
+HFC-1234yf combinada com 99% a 1% de HFC-134a, mais especificamente de 30% a 99% de
+HFC-1234yf combinada com 70% a 1% de HFC-134a, faixas estas que se sobrepõem às fixas
+apresentadas pelo presente pedido de patente. A página 6 (seis), tabela 3 (três), mostra um
+exemplo contendo 70,4% de HFC-1234yf e 29,6% de HFC-134a, valores muito próximos da
+faixa revelada pelo presente pedido de patente. Já a Tabela 9 (nove), na página 27 (vinte e
+sete), mostra o uso de uma composição de HFC-1234yf e HFC-134a para diversas
+percentagens específicas e, dentre elas: 70,4% e 29,6%, 80% e 20%, 90% e 10%, 99% e 1%,
+40% e 60%, 20% e 80%, 10% e 90% e 1% e 99%, com a apresentação dos respectivos
+resultados para cada composição, o que já demonstra a existência de uma diferença de
+comportamento de acordo com a percentagem de cada componente na composição, assim
+como mostra o gráfico da Figura 3 (três) do presente pedido de patente. A tabela 10 (dez),
+páginas 33 (trinta e três) e 34 (trinta e quatro), revela novamente a diferença de desempenho
+considerando diferenças percentuais de HFC-1234yf e HFC-134a.              Complementando o
+observado na tabela 10 (dez), o parágrafo [0138] descreve que diversas composições podem ter
+mais eficiência do que HFC-134a, tal como o presente pedido de patente. O parágrafo [0098]
+revela o uso de tais composições em diversos equipamentos, incluindo um compressor.
+
+        Deste documento D4 depreende-se que uma composição contendo HFC-1234yf e
+HFC-134a para fins de refrigeração já é conhecida do estado da técnica, assim como que, a
+depender do percentual de cada um dos componentes, as propriedades da composição varia,
+tanto de um percentual baixo de HFC-1234yf e consequentemente um percentual alto de
+HFC-134a, até um percentual alto de HFC-1234yf e consequentemente um percentual baixo de
+HFC-134a. Também se entende do documento D4 que fluidos de refrigeração estão sendo
+utilizados para a substituição de HFC-134a e uma composição de HFC-1234yf e HFC-134a
+pode ser utilizado para refrigeração, em especial em um compressor.
+
+        Comparando o documento D4 com o presente pedido de patente, só não se observa
+neste, o documento D4, a indicação de que o compressor é um compressor centrífugo.
+
+        O documento D5 apresenta um método de troca de calor em um sistema de
+compressão, tal como o presente pedido de patente. A página 8 (oito) descreve que o sistema
+de compressão pode ser, entre outros, um sistema de compressão centrífugo, tal como o
+presente pedido de patente. A página 9 (nove) descreve que uma variedade de fluorolefinas
+pode ser utilizada para estes sistemas como fluidos refrigerantes, tal como o presente pedido de
+patente. As páginas 27 (vinte e sete) e 28 (vinte e oito) revela diversas composições que podem
+ser utilizadas para o sistema centrífugo de compressão e, entre elas, uma composição de
+HFC-134a e HFC-1234yf. A página 4 (quatro), linha 30 (trinta), até a página 5 (cinco), linha 5
+
+
+                                                                                         Página 3
+                                          BR112012026297-1
+
+
+(cinco), revelam que o sistema inclui um evaporador, um compressor, um condensador e um
+dispositivo de expansão.       Mais especificamente ainda, a página 5 (cinco), linha 6 (seis), até a
+página 6 (seis), linha 22 (vinte e dois), assim como a Figura 1 (um), revelam um sistema que
+dispõe de um condensador 41, um dispositivo de expansão 52 entre o evaporador 42 e o
+condensador 41, e um compressor 12, sistema este similar ao do presente pedido de patente. A
+página 8 (oito), linhas 19 (dezenove) a 24 (vinte e quatro) revelam que o compressor pode ser
+de diversos tipo, incluindo um compressor centrífugo, assim como o presente pedido de patente.
+A página 6 (seis), linhas 10 (dez) a 22 (vinte e dois), ainda complementa que o sistema pode
+operar tanto com uma composição não-azeotrópica quanto com uma composição próxima do
+pontoaeotrópico.
+
+           Assim o documento D5 contribui para o estado da técnica com a revelação de uma
+composição de HFC-134a e HFC-1234yf em um compressor centrífugo.
+
+           Por fim, o documento D6 apresenta vários usos de tetrafluoropropanos, em particular
+HFC-1234, em várias aplicações, incluindo equipamentos de refrigeração, tal como o presente
+pedido de patente. A página 5 (cinco) revela que, por HFC-1234, entende-se o uso de todos os
+isômeros, inclusive, o HFC-1234yf. As páginas 11 (onze) e 12 (doze) revelam que podem ser
+utilizadas composições de HFC-1234yf e HFC-134a, por exemplo, e que tais composições estão
+sendo utilizadas para substituir CFCs como CFC-12 e HFCs como HFC-134a, tal como o
+presente pedido de patente. As páginas 17 (dezessete) e 18 (dezoito) revelam o uso de tais
+composições em sistemas que originalmente utilizam CFCs e HFC, tal como compressores
+centrífugos, assim como o presente pedido de patente. A página 19 (dezenove) complementa
+informando que composições que incluam HFC1234,em especial HFC-1234yf em compressores
+possuem uma eficiência energética maior do que o simples uso de HFC-134a. As páginas 16
+(dezesseis) e 17 (dezessete) descrevem que a utilização de composições como as descritas
+pelo documento D6 podem exibir as características do HFC-134a tendo um GWP mais baixo, tal
+como prevê o presente pedido de patente, sendo o GWP abaixo de 100, mais especificamente
+abaixo de 500, mais especificamente ainda abaixo de 100, similar ao presente pedido de
+patente.
+
+           Deste modo, o documento D6 complementa os documentos D4 e D5 pela apresentação
+de que tal composição de HFC-1234yf e HFC-134a pode substituir CFC-12 e HFC-134aem
+compressores centrífugos, como também ilustra que a composição pode reduzir o potencial de
+aquecimento global do fluido em comparação com o HFC-134a.
+
+           Do documento D4 já é sabido do uso de composições contendo                  HFC-1234yf e
+HFC-134a para operações de troca de calor, em que a quantidade de HFC-1234yf e HFC-134a
+podem variar de 1% / 99% a 99% / 1%. Mais que isto, o documento D4 revela o uso de outras
+percentagens tais como 70,4% e 29,6%, 80% e 20%, 90% e 10%, 99% e 1%, 40% e 60%, 20%
+e 80%, 10%. Dentre as percentagens, está a percentagem 40% / 60% que se aproxima em
+termos     percentuais   das    percentagens    descritas   pelo   presente   pedido    de   patente.
+Complementando o documento D4, está o documento D5 que descreve um sistema similar ao
+
+
+
+                                                                                              Página 4
+                                        BR112012026297-1
+
+
+sistema do presente pedido de patente, sistema este que pode utilizar uma composição não
+azeotrópica ou próximo do ponto azeotrópico, em que a composição pode ser uma composição
+de HFC-134a e HFC-1234yf. O documento D6 então complementa o estado da técnica ao
+revelar a substituição de CFC-12 por composições de                  HFC-1234yf e HFC-134a.
+Complementando, os esclarecimentos mostram na Figura (I) variação muito pequena da faixa
+explícita revelada pelo presente pedido de patente e a combinação explicitada no documento D4
+de 40%/60% da combinação HFC-1234yf/ HFC-134a, o que não se depreende com um
+resultado inesperado revelado pelo presente pedido de patente.
+
+          Sendo assim, pela combinação dos documentos D4, D5 e D6 entende-se que um
+técnico do assunto depreenderia de modo evidente a matéria pleiteada através do presente
+pedido de patente.
+
+          Considerando então a combinação dos documentos D4, D5 e D6 depreende-se que a
+matéria reivindicada não apresenta atividade inventiva em relação ao estado da técnica para as
+reivindicações 1 (um) a 7 (sete), contrariando o disposto nos artigos 8º e 13 da LPI 9279/96.
+
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -    não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 2 de dezembro de 2020.
+
+
+
+
+João Gilberto Sampaio Ferreira da Silva
+Pesquisador/ Mat. Nº 1547093
+DIRPA / CGPAT I/DITEX
+Deleg. Comp. - Port. INPI/DIRPA Nº
+005/15
+
+
+
+
+                                                                                          Página 5
+

@@ -1,0 +1,136 @@
+                                         SERVIÇO PÚBLICO FEDERAL
+                                          MINISTÉRIO DA ECONOMIA
+                              INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.º do Pedido:                       BR102015020512-0           N.º de Depósito PCT: ----
+ Data de Depósito:                    25/08/2015
+ Prioridade Unionista:                ----
+ Depositante:                         FMC Technologies do Brasil Ltda (BRRJ)
+ Inventor:                            Arthur Eugênio de Almeida Filho, Rodrigo Silva Cappato, Alexandre
+                                      Carvalhar Marins, Ricardo Vianna Ramos
+ Título:                              Ferramenta Submarina Geradora de Potência Elétrica
+                                                                      PARECER
+
+      A Requerente recebeu notificação de Ciência de Parecer (7.1) publicada na RPI nº 2666 de
+08/02/2022. Através da petição nº 870220025232 de 24/03/2022, a mesma apresentou
+Manifestação sobre o Parecer Técnico. Para fins de continuidade do exame estão sendo
+consideradas as vias abaixo:
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas              Nº da Petição         Data
+                                                                                NPWB 860150189079
+ Relatório Descritivo                                           1-6                                    25/08/2015
+                                                                                   Págs. 10 a 15
+                                                                                  870200108929
+ Quadro Reivindicatório                                         1-2                                    28/08/2020
+                                                                                  Págs. 16 a 17
+                                                                                NPWB 860150189079
+ Desenhos                                                       1-3                                    25/08/2015
+                                                                                   Págs. 19 a 21
+                                                                                NPWB 860150189079
+ Resumo                                                         1                                      25/08/2015
+                                                                                     Pág. 18
+
+                  Quadro 2 - Considerações referentes aos Artigos 10, 18, 22 e 32 da LPI
+ Artigos da LPI                                                                                Sim         Não
+ A matéria enquadra-se no Art. 10 da LPI (não se considera invenção)                                        X
+ A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                                                X
+ O pedido apresenta Unidade de Invenção (Art. 22 da LPI)                                           X
+ O pedido está de acordo com disposto no Art. 32 da LPI                                            X
+Comentários/Justificativas: ----
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                                  Página 1
+                                            BR102015020512-0
+
+                 Quadro 3 - Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                            Sim                     Não
+O relatório descritivo está de acordo com disposto no Art. 24 da LPI                        X
+O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI                      X
+Comentários/Justificativas: ----
+                            Quadro 4 - Documentos citados no parecer
+ Código                                  Documento                                                Data de publicação
+           WO2009129560A1
+    D1     Título: Wave Energy System                                                                  2009-10-29
+           Depositante: Halcyon Resources PTY Ltd
+
+      Quadro 5 - Análise dos Requisitos de Patenteabilidade (Art. 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento                              Reivindicações
+                                                         Sim                                         1-9
+           Aplicação Industrial
+                                                        Não                                          ----
+                                                         Sim                                         1-9
+                 Novidade
+                                                        Não                                          ----
+                                                         Sim                                         ----
+           Atividade Inventiva
+                                                        Não                                          1-9
+Comentários/Justificativas:
+    Na manifestação a Requerente alega que D1 não pode ser considerado como antecipação
+das características do presente pedido de privilégio de patente de invenção. De fato, as linhas de
+energia ligadas ao módulo gerador não são fornecidas com conectores elétricos submarinos do
+tipo wet-mate, uma vez que são de fato utilizadas para fornecer a energia elétrica criada pelo
+gerador a um local em terra e, portanto, não requerem tais conectores, que são dedicados ao
+acoplamento de energia eléctrica submarina.
+
+    A Requerente alega que D1 também não revela a utilização de um sistema de leitura de
+amperagem no módulo gerador. Tal sistema também não é necessário no gerador de D1, devido
+ao fato de não haver fornecimento submarino de energia elétrica, mas sim produção submarina de
+energia elétrica, que é depois entregue em terra, como mencionado acima.
+
+    A Requerente alega que também não existe qualquer indicação de uma caixa de distribuição
+elétrica hidrostaticamente equilibrada, de um compensador de pressão interligado ao gerador
+elétrico ou do fato de que as linhas de energia estariam hidrostaticamente equilibradas.
+
+    A Requerente alega que de fato, a caixa elétrica de D1 é apenas uma caixa selada na qual se
+encontram o gerador elétrico e o motor hidráulico. Em outras palavras, o gerador elétrico não é
+sequenciado pelo alojamento selado.
+
+    Apesar das alegações da Requerente, o documento D1 divulga uma ferramenta submarina
+geradora de energia elétrica compreendendo um motor hidráulico provido de um acoplamento
+
+
+
+                                                    Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12     Página 2
+                                                  BR102015020512-0
+
+mecânico, em uso, interligando-o a um gerador de energia elétrica que, por sua vez, é
+sequenciado por uma caixa elétrica de distribuição hidrostaticamente balanceada, que é dotado
+de um cabo elétrico submarino hidrostaticamente balanceado que se estende para fora da referida
+caixa e é dotado em sua extremidade de um conector elétrico submarino tipo wet-mate [Página
+11, Linhas 3 a 10], em além dos cabos seriais e um plugue fictício, em que o referido acoplamento
+mecânico também é dotado de mangueiras hidráulicas interligando-o ao sistema hidráulico do
+ROV, também em que o referido gerador de energia possui um compensador de pressão
+interligado a ele adjacentemente, e um sistema de leitura de amperes [Página 11 Linha 30 a
+Página 12, Linha 4), em uso, interligado a uma interface elétrica do ROV.
+
+    Apesar do documento utilizado para se delimitar o estado da técnica não descrever
+explicitamente a utilização de um sistema de leitura de corrente elétrica no módulo gerador e não
+fazer menção de uma caixa de distribuição elétrica hidrostaticamente equilibrada, tais
+características são inerentes à matéria pleiteada e, portanto óbvias para um técnico no assunto.
+
+Conclusão
+    Face ao exposto, conclui-se que a invenção ora pleiteada decorre de maneira evidente ou
+óbvia, para um técnico no assunto, a partir do estado da técnica, sendo desprovida de atividade
+inventiva, conforme Art. 13 da LPI.
+
+    Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que o mesmo não
+atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+    Rio de Janeiro, 30 de março de 2022.
+
+    Publique-se o indeferimento (9.2).
+
+    CAMILO BRAGA GOMES
+    Pesquisador / Mat. Nº 1547071
+    DIRPA / CGPAT III / DIFEL
+    Deleg. Comp. - Port. INPI / DIRPA Nº 022/12
+
+
+
+
+                                                        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 3
+

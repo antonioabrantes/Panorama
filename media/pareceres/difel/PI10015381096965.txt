@@ -1,0 +1,212 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI1001538-8                N.° de Depósito PCT:
+ Data de Depósito:                   11/05/2010
+ Prioridade Unionista:               -
+ Depositante:                        Companhia Paulista de Força e Luz - CPFL (BRSP) , Playmusic
+                                     Comércio e Serviços Ltda. (BRSP) , Matrix Engenharia em Energia
+                                     Ltda. (BRSP)
+ Inventor:                           Sergio Francisco de Ângelo Filho, Walter Pinheiro
+ Título:                             Processo de manutenção corretiva de sistemas de iluminação pública
+                                     capaz de verificar e localizar defeitos típicos apresentados por
+                                     componentes elétricos e/ou circuito da rede de iluminação pública em
+                                     redes de distribuição de energia elétrica
+
+                                                                PARECER
+
+
+     Foi publicada na RPI 2534 de 30/07/2019 um despacho 7.1 referente ao pedido PI1001538-8.
+Através da petição 870190110091 de 29/10/2019 a Requerente apresentou esclarecimentos,
+onde foram inseridas novas vias do Relatório Descritivo e do Quadro Reivindicatório.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                1/15 a 15/15             870190110091           29/10/2019
+Quadro Reivindicatório                                 1/4 a 4/4             870190110091           29/10/2019
+Desenhos                                                   1/1               020100041594           11/05/2010
+Resumo                                                      1                020100041594           11/05/2010
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                       x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                               PI1001538-8
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                  Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI             x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI           x
+Comentários/Justificativas
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                    Data de publicação
+    D1      EP0576098A2                                                                   29/12/1993
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento                   Reivindicações
+                                                         Sim                           1-16
+           Aplicação Industrial
+                                                        Não                              --
+                                                         Sim                           1-16
+                 Novidade
+                                                        Não                              --
+
+                                                         Sim                             --
+           Atividade Inventiva
+                                                        Não                            1-16
+Comentários/Justificativas
+
+   A seguir acha-se transcrita a reivindicação independente 1 do pedido PI1001538-8 contida
+na petição 870190110091 e a reivindicação correspondente contida na petição 020100041594.
+
+                   PI1001538-8                                             PI1001538-8
+             petição 020100041594                                      petição 870190110091
+1. Processo para manutenção corretiva de               1. Processo de manutenção corretiva de sistemas
+sistemas de iluminação pública capaz de verificar      de iluminação pública capaz de verificar e
+e localizar defeitos típicos apresentados por          localizar defeitos típicos apresentados por
+componentes elétricos e/o circuito da rede de
+                                                       componentes elétricos e/ou circuito da rede de
+iluminação pública em redes de distribuição de
+                                                       iluminação pública em redes de distribuição de
+energia elétrica caracterizado pelo fato
+                                                       energia elétrica caracterizado pelo fato de que
+1A. de que as verificações são feitas por meio de as verificações são feitas por meio de um
+um dispositivo primário e um dispositivo dispositivo primário e um dispositivo secundário
+secundário que são acoplados em três pontos de que são acoplados em três pontos de conexão
+conexão sinalizando qual a ação a ser tomada.
+                                                  sinalizando qual a ação a ser tomada, em que:
+
+2. Processo de manutenção corretiva de             os três pontos de conexão estão localizados na
+sistemas de iluminação pública, de acordo com a base do relé fotoelétrico(3); no soquete da
+reivindicação 1, caracterizado pelo fato de que os lâmpada (12) e na saída do reator (11); e
+três pontos de conexão estão localizados na base
+do relé (3); no soquete da lâmpada (12) e na
+
+
+
+                                                                                                  Página 2
+                                              PI1001538-8
+
+
+saída do reator (11).
+
+3. Processo de manutenção corretiva de sistemas         as verificações são feitas no nível de tensão de
+de iluminação pública, de acordo com a                  entrada; interrupções (circuito aberto) ou curtos
+reivindicação 1, caraterizado pelo fato de que as       circuitos nas fiações; defeito no relé fotoelétrico e
+verificações são feitas no nível de tensão de           sua base; defeito no reator; defeito no soquete e
+entrada; interrupções (circuito aberto) ou curtos       defeito na lâmpada.
+circuitos nas fiações; defeito no relé fotoelétrico e
+sua base; defeito no reator; defeito no soquete e
+defeito na lâmpada.
+
+
+   Segundo manifestação (pág. 1/3): O presente pedido se refere a um processo de manutenção
+corretiva de sistemas de iluminação pública (IP) em redes de distribuição de energia elétrica
+capaz de detectar e localizar defeitos típicos apresentados por componentes elétricos e/ou circuito
+da rede de iluminação pública que, de acordo com suas características define uma série de
+verificações em três pontos de conexão dos componentes elétricos, quais sejam, a base do relé
+(3), o soquete da lâmpada (12) e a saída do reator (11), compreendendo dois dispositivos que,
+acoplados nos pontos de conexão, realizam uma série de avaliações e sinalizam qual é a ação a
+ser tomada.
+
+   Ainda segundo manifestação (págs. 1/3 e 2/3) A Requerente alega que o documento D1 falha
+em descrever um dispositivo ou processo que seja capaz de realizar a verificação em três pontos
+de conexão dos componentes elétricos (base do relé, soquete da lâmpada e saída do reator), se
+limitando apenas à base. A presente invenção é, então inventiva perante D1, pois apresenta, além
+dos três pontos de verificação supracitados, a capacidade de realizar uma série de verificações,
+tais como: o nível de tensão de entrada, interrupções (circuito aberto) ou curtos circuitos nas
+fiações, defeito no relé fotoelétrico e sua base, defeito no reator, defeito no soquete e na lâmpada.
+Além disso, a presente invenção menciona que a utilização do dispositivo primário tem efeito
+preventivo sobre a segurança do eletricista, pois limita eventuais correntes de curto circuito ao
+sinalizar algumas situações, por exemplo, - a ocorrência de eventual existência de curto circuito
+entre a base do relé e o reator e entre o reator e a lâmpada - o que não é descrito no documento
+D1. Adicionalmente, o documento D1 não contempla um segundo dispositivo para avaliação da
+existência de tensão senoidal e tensão impulsiva no soquete da lâmpada, para casos em que
+após um primeiro diagnóstico e conserto neste sentido a lâmpada continue sem acender
+
+   Conforme já relatado no primeiro relatório técnico:
+   - o documento D1, possui uma unidade central de controle que é conectada a uma pluralidade
+de unidades de controle setoriais que, por sua vez, cada uma delas é conectada, por meio da
+linha de alimentação elétrica (1) da carga (12), a uma pluralidade de controle de unidades de
+carga, cada uma das quais está ligada a uma única lâmpada (12). Detecta e armazena as
+possíveis falhas na operação de carga; falhas que são transmitidas através da própria linha de
+alimentação elétrica (1), para a correspondente unidade de controle do setor. Possui um meio de
+detecção de descargas da tensão aplicada à carga (12), no que diz respeito à intensidade
+consumida, efetuando uma detecção correta do estado da dita lâmpada (12). A unidade de
+
+
+
+                                                                                                    Página 3
+                                           PI1001538-8
+
+
+controle de carga possui meios de isolamento através dos quais a conexão à linha de alimentação
+elétrica (1) é feita na base do suporte. A unidade de controle de carga é capaz de ter meios de
+detecção da temperatura da lâmpada ou da sua radiação luminosa, determinando o
+funcionamento correto da lâmpada em termos do valor dos referidos parâmetros. A unidade de
+controle de carga é capaz de compreender meios de detecção do funcionamento de cada
+um dos elementos que compõem a luminária (condensador, reator, lâmpada ou arranque);
+determinação qual dos elementos tem uma falha. O sistema é automatizado, para ser
+instalado diretamente na luminária desejada compreendendo uma unidade de controle de
+carga capaz de detectar o funcionamento de cada um dos elementos que compõem uma
+luminária (capacitor, reator, lâmpada e ignitor), identificando quando um deles apresenta
+alguma falha no funcionamento. Apesar de o documento ser um sistema de monitoração via
+cabo para verificação se a luminária está ou não ligada, um técnico no assunto, com a matéria do
+documento D1, chegaria facilmente a matéria reivindicada no documento PI1001538-8. Portanto,
+não apresenta o pedido atividade inventiva. Para um técnico no assunto, a adição de mais pontos
+de conexão localizados no soquete da lâmpada (12) e na saída do reator (11) é óbvio.
+
+   Quanto as reivindicações dependentes suas matérias não definem detalhamentos de
+características adicionais que sejam consideradas essenciais à invenção.
+
+
+
+Conclusão
+
+
+   Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+   - não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+   De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+                                                           Rio de Janeiro, 17 de novembro de 2019.
+
+
+
+
+Neide de Oliveira Gomes
+Pesquisador/ Mat. Nº 1203806
+DIRPA / CGPAT III/DIPAT XII
+Deleg. Comp. - Port. INPI/DIRPA Nº 010/17
+
+
+
+
+                                                                                           Página 4
+

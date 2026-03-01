@@ -1,0 +1,175 @@
+                                       SERVIÇO PÚBLICO FEDERAL
+                                        MINISTÉRIO DA ECONOMIA
+                            INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+No do Pedido:                         PI0914277-0
+Data de Depósito:                     11/12/2009
+Prioridade Unionista:                 
+Depositante:                          Petroleo Brasileiro S.A. - Petrobras (BRRJ)
+Inventor:                             Ronaldo Gonçalves Cruz, Patrick Lira Arpelau, Carlos Henrique de
+                                      Jesus Puppim
+Título:                               Simulador de operação de guindastes
+
+                                                                 PARECER
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               no da Petição           Data
+
+ Relatório Descritivo                                    1 a 11              020090116015          11/Dez/2009
+ Quadro Reivindicatório                                   1a4
+ Desenhos                                                 1a3
+ Resumo                                                      1
+1. Comentários/Justificativas:
+
+1.i) Em 12/Fev/2021, por meio da petição 870210014885,                                 o Depositante apresentou
+argumentações em resposta ao parecer notificado na RPI 2608 de 29/Dez/2020 segundo a
+exigência preliminar (6.22). Não foram apresentadas modificações no pedido.
+
+   Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei no 9.279 de 14 de
+                                   maio de 1996  LPI
+ Artigos da LPI                                                                              Sim       Não
+ A matéria enquadra-se no Art. 10 da LPI (não se considera invenção)                                    
+ A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                                            
+ O pedido apresenta Unidade de Invenção (Art. 22 da LPI)                                                
+ O pedido está de acordo com disposto no Art. 32 da LPI                                                 
+2. Comentários/Justificativas:
+
+2.i) Sem comentários/justificativas neste quadro.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                          Página 1 de 4
+                                               PI0914277-0
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+ Artigos da LPI                                                           Sim            Não
+ O relatório descritivo está de acordo com disposto no Art. 24 da LPI                     
+ O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI                   
+3. Comentários/Justificativas:
+
+3.i) Sem comentários/justificativas neste quadro.
+
+                           Quadro 4  Documentos citados no parecer
+
+  Código                                 Documento                                Data de
+                                                                                 publicação
+    D1       Cooper, Stephen J. Development of a training simulator for          31/Dez/2003
+             offshore crane operators. Research report 043. HSE Health &
+             Safety Executive. 2003. Disponível em
+             <https://www.hse.gov.uk/research/rrhtm/rr043.htm>. Acesso em
+             17/Jul/2020.
+   D2a       Drilling Systems. KraneSim. Online. Disponível em                   28/Fev/2007
+             <https://web.archive.org/web/20070228003232/http://www.drillin
+             gsystems.com/products/06_Hardware_Options>. Acesso em
+             17/Jul/2020.
+   D2b       Drilling Systems. KraneSim. Online. Disponível em                   12/Jan/2007
+             <https://web.archive.org/web/20070112141904/http://www.drillin
+             gsystems.com/products/121_Mobile>. Acesso em 20/Dez/2020.
+4. Comentários/Justificativas:
+
+4.i) Sem comentários/justificativas neste quadro.
+
+     Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8o, 11, 13 e 15 da LPI)
+      Requisito de Patenteabilidade                Cumprimento            Reivindicações
+                                                         Sim                    1a6
+            Aplicação Industrial
+                                                         Não                     
+                                                         Sim                    1a6
+                  Novidade
+                                                         Não                     
+
+                                                         Sim                     
+            Atividade Inventiva
+                                                         Não                    1a6
+5. Comentários/Justificativas:
+
+5.i) Os argumentos apresentados pela Requerente com vistas a evidenciar a atividade inventiva
+da matéria reivindicada, em verdade, corroboram o entendimento expresso no parecer anterior
+pela falta de atividade inventiva da matéria pleiteada. Especificamente, a Requerente cita trecho
+do documento D1, cujo parágrafo completo é transcrito a seguir:
+
+
+
+
+                                                                                      Página 2 de 4
+                                              PI0914277-0
+
+
+                 This report concludes that there is great scope for expansion of the simulation facilities so
+                 far developed. In particular, it is recognised that training and competency testing of teams
+                 of personnel such as the banksman and supply ships master could be integrated into
+                 crane simulator training scenarios and that this approach offers great potential for
+                 reducing the number of crane related accidents. On launching the simulator at the 7th
+                 Offshore Crane Conference, an introduction to this possibility was offered by
+                 demonstration of the banksmans view of crane operation being seen through a VR
+                 (Virtual Reality) headset. It was apparent from the response of conference delegates that
+                 this level of interaction would mark a real step forward in raising offshore crane training
+                 standards [D1: seção 'Executive summary', pág. iii].
+
+O trecho citado evidencia que D1 sugere que o simulador incorpore, adicionalmente, o
+treinamento de equipes de pessoal tal como o banksman e o mestre de suprimento do navio. D1
+relata apresentação de um simulador de guindastes em que foi demonstrada também visão de um
+operador banksman por um headset de realidade virtual. Portanto, decorre de forma óbvia para
+um técnico no assunto, instruído por D1, implementar tais características.
+
+5.ii) Face ao exposto no item 5.i, persiste o entendimento de que a reivindicação independente 1
+não atende ao requisito atividade inventiva, pois decorre de maneira evidente ou óbvia para um
+técnico no assunto a partir do documento D1, conforme a seguir: sistemas de simulação, a
+princípio, visam replicar as condições que seriam encontradas pelo operador humano ao
+desempenhar determinada atividade. Tais sistemas de simulação replicam um sistema conhecido.
+A mera replicação item por item de um sistema conhecido não evidencia atividade inventiva, pois
+o próprio sistema original sugere ao técnico no assunto os elementos a serem implementados. O
+documento D1 revela um sistema de simulação de guindastes offshore em que um aluno opera
+virtualmente um guindaste, sendo avaliado por um instrutor. A matéria pleiteada difere dos
+ensinamentos de D1 por apresentar uma terceira estação dotada de comunicação com o instrutor
+e demais participantes da simulação, caixa de controle e posicionamento de atitude, a terceira
+estação sendo interligada ao computador da estação do instrutor. Entende-se que tais elementos
+correspondem às funções correspondentes presentes em um guindaste offshore real específico, e
+portanto os elementos de tal guindaste offshore integram a especificação do projeto de simulador
+passado ao técnico no assunto. D1 sugere a incorporação de treinamento equipes de pessoal tal
+como o banksman e o mestre de suprimento do navio. Desta forma, decorre de forma óbvia para
+um técnico no assunto adaptar os ensinamentos do documento D1 para simular também um
+guindaste offshore dotado de uma terceira estação. Cita-se, a título ilustrativo, o documento D2b
+que revela um simulador de guindaste offshore com diversas estações [D2b: "On the larger
+versions, a multi-desk classroom environment can also be provided"].
+
+5.iii) Não se identificam dentre as reivindicações dependentes 2-6 características que, caso
+deslocadas para a parte caracterizante de suas respectivas reivindicações independentes,
+dotariam-nas de atividade inventiva.
+
+
+
+
+                                                                                              Página 3 de 4
+                                          PI0914277-0
+
+
+6. Conclusão:
+
+6.i) Desta forma, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+        não atende ao requisito de atividade inventiva (Art. 8o combinado com Art. 13 da LPI).
+
+6.ii) De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                Publique-se o indeferimento (9.2).
+
+                                                             Rio de Janeiro, 24 de junho de 2021.
+
+
+       Ricardo Affonso Grings Herbert
+        Pesquisador/ Mat. Nº 1749578
+         DIRPA  CGPAT III  DICEL
+  Deleg. Comp. - Port. INPI/DIRPA Nº 008/13
+
+
+
+
+                                                                                      Página 4 de 4
+

@@ -1,0 +1,188 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112015006662-3            N.° de Depósito PCT:US2013/061493
+ Data de Depósito:                   24/09/2013
+ Prioridade Unionista:               US 13/633.702 (02/10/2012)
+ Depositante:                        REARDEN, LLC (US)
+ Inventor:                           ANTONIO FORENZA, STEPHEN G. PERLMAN
+ Título:                             Sistemas e métodos para backhaul sem fio em sistemas sem fio de
+                                     entrada distribuída e saída distribuída utilizando múltiplas antenas
+                                     (mas) e múltiplos usuários (um) 
+
+                                                                PARECER
+          Em 31/08/2020, por meio da petição 870200109670, o Depositante apresentou
+manifestação em resposta ao parecer emitido no âmbito da Resolução Nº 241/2019, notificado
+na RPI 2578 de 02/06/2020 segundo a exigência preliminar (6.21).
+
+          Em 31/08/2021 foi publicada, através da RPI nº 2643, uma notificação de Ciência de
+Parecer conforme parecer de exame, que concluiu que o presente pedido apresentava
+irregularidades formais, falta de clareza das reivindicações (Art. 25 da LPI) e carecia de
+atividade inventiva (arts. 8 e 13 da LPI) frente ao documento D1 (US 2012/0002743 A1).
+
+          Em 28/11/2021, através da petição nº 870210110153 e portanto tempestivamente, a
+requerente apresentou manifestação a respeito de parecer técnico, apresentando novas vias do
+relatório descritivo, quadro reivindicatório e resumo. Nesta petição fora proposta a alteração do
+título do presente pedido para SISTEMAS PARA BACKHAUL SEM FIO EM SISTEMAS SEM
+FIO DE ENTRADA E SAÍDA DISTRIBUÍDAS UTILIZANDO MÚLTIPLAS ANTENAS (MAS) E
+MÚLTIPLOS USUÁRIOS (MU). Para fins de continuidade estão sendo consideradas as
+seguintes petições:
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                      1-22               870210110153     28/11/2021
+Quadro Reivindicatório                                     1-3               870210110153     28/11/2021
+Desenhos                                                  1-14               018150006136     22/05/2015
+Resumo                                                      1                870210110153     28/11/2021
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                           BR112015006662-3
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                            X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                    X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                       X
+O pedido está de acordo com disposto no art. 32 da LPI                        X
+Comentários/Justificativas
+
+Não há.
+
+                Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI          X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         X
+Comentários/Justificativas
+         Em análise da petição nº 870210110153, de 28/11/2021, constatou-se que as exigências
+feitas no parecer de exame exarado na RPI 2643, de 31/08/2021, foram satisfatoriamente
+sanadas. Contudo, novas irregularidades foram detectadas, a saber:
+   1. A reivindicação independente 1 apresenta diversos trechos confusos e pouco
+         compreensíveis como ...via rede de estação base, a estação base, a rede e ...quando
+         recebido sem fio como setas dentadas indicaram, transmissões sem fio entre (103 e 104)
+         e demodulado, dificultando a compreensão da matéria reivindicada por um técnico no
+         assunto, estando em desacordo com o Art. 25 da LPI.
+   2. A reivindicação independente 1 define parcialmente o objeto em termos do resultado
+         alcançado e não pelas características técnicas do objeto, em desacordo ao disposto no
+         Art. 25 da LPI, devido ao trecho ...nenhuma segunda pluralidade de fluxos modulados (M)
+         por banda base sem fio pode ser desmodulado ou decodificado como um fluxo autônomo
+         para recuperar o conteúdo da rede enquanto enviado pela rede de estação base (102) ou
+         enquanto transmitido sem fio (103 e 104) entre a pluralidade de estações transceptoras
+         distribuídas (103) e a pluralidade de clientes dispositivos (UE).
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                  Data de publicação
+    D1                              US 2012/0002743 A1                                  05/01/2012
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento                Reivindicações
+            Aplicação Industrial                         Sim                         1-17
+
+
+
+                                                                                               Página 2
+                                     BR112015006662-3
+
+
+                                                  Não                        ------
+                                                  Sim                        1-17
+               Novidade
+                                                  Não                        ------
+                                                  Sim                        ------
+          Atividade Inventiva
+                                                  Não                        1-17
+
+
+
+Comentários/Justificativas
+
+   1. Em sua argumentação a Requerente, em síntese, limita-se a ressaltar os resultados
+      esperados pela presente invenção sem, no entanto, apontar e detalhar textualmente as
+      diferenças entre o documento de anterioridade elencado, D1, e o quadro reivindicatório
+      apresentado. Não obstante, convém destacar que as semelhanças entre os trechos do
+      documento de anterioridade D1 e as características reivindicadas na reivindicação
+      independente 1 anterior, não foram refutadas, reforçando assim os argumentos pela não-
+      patenteabilidade do presente pedido, apresentados no parecer de exame técnico anterior.
+      Isso posto, reiteramos então os argumentos apresentados naquele parecer.
+
+   2. Quanto a característica adicionada a nova reivindicação independente 1 de ...nenhuma
+      segunda pluralidade de fluxos modulados (M) por banda base sem fio pode ser
+      desmodulado ou decodificado como um fluxo autônomo para recuperar o conteúdo da
+      rede enquanto enviado pela rede de estação base (102) ou enquanto transmitido sem fio
+      (103 e 104) entre a pluralidade de estações transceptoras distribuídas (103) e a
+      pluralidade de clientes dispositivos (UE)., esta é uma consequência direta da
+      característica de ...as estações transceptores distribuídas, as estações transceptoras
+      distribuídas simultaneamente enviando uma segunda pluralidade de fluxos modulados
+      sem fio (M) através de ligações para uma pluralidade de dispositivos de clientes (Fig. 1 UE
+      1-4, [0045]) de modo que a combinação da pluralidade de segundos fluxos modulados
+      transmitidos sem fio (M) quando recebido sem fio como setas dentadas indicaram
+      transmissões sem fio entre (103 e 104) e demodulado na localização de cada dispositivo
+      do cliente (104) resulte em um fluxo modulado (M) por banda-base sem fio conduzindo os
+      dados completos pelo menos da primeira pluralidade de fluxos de dados não modulados
+      (N), presente na própria reivindicação e já refutada no parecer anterior, onde apontou-
+      se que o documento D1 (ver parágrafo [0003]), de forma semelhante, descreve que
+      estações base enviam diferentes fluxos de dados codificados, simultaneamente, para
+      diferentes terminais móveis, sendo considerado óbvio que um destes fluxos transmitidos
+      seja um fluxo assim definido como completo. Sendo assim, considera-se que a nova
+      reivindicação independente 1, da forma como fora reivindicada, decorra de maneira óbvia
+      para um técnico no assunto, frente aos conhecimentos obtidos em D1.
+
+   3. Com relação às reivindicações dependentes, suas características técnicas constituem-se
+      em mero detalhamento das características técnicas essenciais contidas na reivindicação
+      independente 1, podendo ser consideradas de implementação óbvia frente aos
+
+
+                                                                                        Página 3
+                                       BR112015006662-3
+
+
+        conhecimentos de um técnico no assunto à época, não apresentando atividade inventiva, e
+        estando em desacordo com os artigos 8º e 13 da lei nº 9.279/96 (LPI).
+
+Conclusão
+        Assim, pelo exposto, as alegações, argumentações e modificações apresentadas pela
+Requerente não foram suficientes para sustentar que o pedido BR112015006662-3 apresente
+atividade inventiva e, desta forma, é mantido o exarado em parecer anterior, ou seja, que o
+presente pedido carece de atividade inventiva, estando em desacordo com os artigos 8º e 13 da
+lei nº 9.279/96 (LPI) e, adicionalmente, apresenta falta de clareza nas reivindicações (Art. 25 da
+LPI).
+        Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não
+atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI) e as
+reivindicações estão indefinidas e/ou não estão fundamentadas no relatório descritivo (Art. 25 da
+LPI).
+        De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                              Rio de Janeiro, 21 de janeiro de 2022.
+
+
+
+
+Pedro Paulo Suzano Xavier
+Pesquisador/ Mat. Nº 1460497
+DIRPA / CGPAT III/DIPAT XIV
+Deleg. Comp. - Port. INPI/DIRPA Nº
+001/18
+
+
+
+
+                                                                                           Página 4
+

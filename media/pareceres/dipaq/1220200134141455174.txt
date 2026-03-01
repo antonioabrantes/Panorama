@@ -1,0 +1,515 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122020013414-3           N.° de Depósito PCT:
+ Pedido dividido de:                 BR112015013260-0
+ Data de Depósito:                   15/11/2013
+ Prioridade Unionista:               US 61/734,941 (07/12/2012); US 61/799,069 (15/03/2013); US
+                                     13/841,711 (15/03/2013); US 61/900,347 (05/11/2013)
+ Depositante:                        GERON CORPORATION (US)
+ Inventor:                           MONIC J. STUART, STEPHEN KELSEY
+ Título:                             Uso de um inibidor de telomerase
+
+                                                              PARECER
+
+
+          O presente pedido se refere ao uso de imetelstat como inibidor de telomerase para alivar
+pelo menos um sintoma resultante de síndrome mielodisplásica em um indíviduo.
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas Sim                                      Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                        X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)                 X
+
+O pedido refere-se a Sequências Biológicas                                                                  X
+
+Comentários/Justificativas
+
+             1)      Quanto ao art. 229-C da LPI:
+
+          De acordo com o artigo 229-C da Lei nº 10196/2001, que modificou a Lei nº 9279/1996
+(LPI), a concessão da patente está condicionada à anuência prévia da ANVISA. Tendo em vista a
+Portaria Interministerial nº 1065, de 24/05/2012, que altera o fluxo de análise para pedidos de
+patentes de produtos e processos farmacêuticos, o pedido original BR112015013260-0 foi
+encaminhado à ANVISA para as providências cabíveis (despacho 7.4, RPI nº 2467, de
+17/04/2018). Conforme parecer técnico Nº 053/20/COOPI/GGMED/ANVISA, de 17/02/2020 o
+pedido obteve anuência referente ao disposto no art. 229-C da LPI (despacho 7.5, RPI nº 2566, de
+10/03/2020). Desta forma, será dado prosseguimento ao exame.
+
+
+             2)      Quanto ao acesso ao patrimônio genético nacional:
+
+          De forma a cumprir o disposto no artigo 2º da Resolução/INPI n° 134 de 13/12/2006,
+revogada          pela    Resolução/INPI            n°     207/09,       novamente   revogada   e   republicada    como
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                      Página 1
+                                       BR122020013414-3
+
+
+Resolução/INPI n° 69/2013 através da RPI nº 2202 de 19/03/2013 (relativa ao acesso ao
+patrimônio genético), a requerente apresentou, por meio da petição WBRJ nº 870200081337 (de
+30/06/2020), a seguinte declaração:
+
+       Declaro que o objeto do presente pedido de patente de invenção NÃO foi obtido em
+decorrência de acesso à amostra de componente do Patrimônio Genético Brasileiro, o acesso foi
+realizado antes de 30 de junho de 2000, ou não se aplica.
+
+
+                             Quadro 1  Páginas do pedido examinadas
+           Elemento                    Páginas           n.o da Petição             Data
+Relatório Descritivo                    1-94                 870200081337         30/06/2019
+Listagem de sequências em
+                                          -                       -                    -
+formato impresso
+Listagem de sequências*           Código de Controle              -                    -
+Quadro Reivindicatório                   1-4                 870210026808         22/03/2021
+Desenhos                                 1-9                 870200081337         30/06/2019
+Resumo                                    1                  870200081337         30/06/2019
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+     ADDFBC10FEB85EAB (Campo 1) e F56B2B5909637143 (Campo 2).
+
+       O pedido ora em exame é um pedido de divisão do BR112015013260-0, depositado em
+15/11/2013. O presente pedido dividido foi apresentado em 30/06/2020, junto à petição WBRJ nº
+870200081337, compreendendo relatório descritivo (pgs. 1-94, quadro composto por 28
+reivindicação (pgs. 1-4), desenhos (pgs. 1-9) e resumo (pg. 1), assim como alguns
+esclarecimentos. A notificação de depósito do pedido dividido foi publicada em 29/09/2020, RPI nº
+2595 (despacho 2.4).
+
+       Dessa forma, o presente pedido BR122020013414-3 deverá ser considerado como
+estando na mesma fase processual em que se encontra o pedido original (BR112015013260-0),
+cabendo o INPI reduzir a termo a referência aos documentos e petições que se encontram no
+pedido original, conforme o disposto no Art. 28 da Instrução Normativa nº 31/2013 (publicada na
+RPI nº 2241, de 17/12/2013).
+
+       Em resposta ao primeiro parecer técnico (RPI nº 2607, de 22/12/2020), a Requerente, por
+meio da petição WBRJ nº 870210026808 de 22/03/2021, apresentou sua manifestação contendo
+argumentos técnicos, assim como novas vias do quadro reivindicatório composto por 28
+reivindicações (pgs. 1-4).
+
+
+
+
+                                                                                           Página 2
+                                          BR122020013414-3
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                           Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   X
+O pedido está de acordo com disposto no art. 32 da LPI                    X
+Comentários/Justificativas
+
+         Não foram encontradas objeções referentes aos Arts. 10, 18, 22 e 32 da LPI.
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+Comentários/Justificativas
+
+         No primeiro parecer técnico (RPI nº 2607, de 22/12/2020) foi colocado que a reivindicação
+1 estava muito ampla, assim concluiu-se que tal reivindicação não estava de acordo com o disposto
+no Artigo 25 da LPI.
+
+         Em resposta ao primeiro parecer técnico (RPI nº 2607, de 22/12/2020), a Requerente, por
+meio da petição WBRJ nº 870210026808 de 22/03/2021, apresentou sua manifestação contendo
+argumentos técnicos, assim como novas vias do quadro reivindicatório composto por 28
+reivindicações (pgs. 1-4).
+
+         Observou-se que as modificações no quadro reivindicatório foram capazes de contornar as
+objeções colocadas no primeiro parecer técnico quanto ao Art. 25.
+
+
+                             Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1       CN101220044                                                           16/07/2008
+    D2       US2005282893                                                          22/12/2005
+    D3       WO2006113426                                                          26/10/2006
+             YASUTAKA, K. ET AL, "Inhibition of Human Tumor Cell
+             Proliferation by the Telomerase Inhibitor TELIN", CYTOLOGIA,
+             vol. 75, no. 2, páginas 177-183.
+    D4                                                                             Jun/2010
+             Documento acessado através do link:
+             https://www.jstage.jst.go.jp/article/cytologia/75/2/75_2_17
+             7/_pdf
+             TETSUZO, T. ET AL, "Activity of a novel G-quadruplex-
+    D5                                                                             14/08/2003
+             interactive telomerase inhibitor, SOT-095, against human
+
+
+
+                                                                                         Página 3
+                                BR122020013414-3
+
+
+      leukemia cells: Involvement of ATM-dependent DNA damage
+      response pathways", ONCOGENE, vol. 22, no. (34), páginas
+      5338-5347.
+      Documento acessado através do link:
+      https://www.nature.com/articles/1206833.pdf
+      BAERLOCHER, G. M ET AL, "Imetelstat Rapidly Induces and
+      Maintains Substantial Hematologic and Molecular Responses in
+      Patients with Essential Thrombocythemia (ET) Who Are
+      Refractory or Intolerant to Prior Therapy: Preliminary Phase II
+D6    Results", BLOOD, vol. 120, no. 21, página 179 (resumo)            16/11/2012
+      Resumo acessado através do link:
+      https://www.semanticscholar.org/paper/Imetelstat-Rapidly-
+      Induces-and-Maintains-and-in-Who-Baerlocher-Leibundgu
+      t/fae95669394f8faab8a4adebb51c8688744d60df
+      BRUNOLD, C. ET AL, "3843: Imetelstat, A Potent Telomerase
+      Inhibitor, Inhibits the Spontaneous Growth of CFU-Meg In Vitro
+      From Essential Thrombocythemia Patients but Not From Healthy
+      Individuals", BLOOD, vol. 118, no. 21, página 3843.
+      Documento acessado através do link:
+      https://www.semanticscholar.org/paper/Imetelstat
+      %2C-A-Potent-Telomerase-Inhibitor
+D7                                                                      18/11/2011
+      %2C-Inhibits-Brunold-Braschler/fe548ecbf4bf5e4f1f0ac57
+      12624b34465eaaf84
+      ou
+      https://pdfs.semanticscholar.org/fe54/8ecbf4bf5e4f1f0ac5
+      712624b34465eaaf84.pdf?
+      _ga=2.9508789.1057509763.1584646995-1070857165.1
+      584646995
+      CATENACCI, D. V. T. & SCHILLER, G. J. ET AL,
+D8    "Myelodysplasic syndromes: A comprehensive review", BLOOD         Nov/2005
+      REVIEWS, vol. 19, no. 6, páginas 301-319.
+      MARITZ, M. .F. ET AL., "Targeting telomerase in hematologic       Mai/2010
+      malignancy", FUTURE ONCOLOGY, vol. 6, no. 5, páginas 769-
+D9    789.
+      Resumo acessado através do link:
+      https://www.ncbi.nlm.nih.gov/pubmed/20465390
+      EL-DALY, H. ET AL., "Selective cytotoxicity and telomere
+      damage in leukemia cells using the telomerase inhibitor
+      BIBR1532", BLOOD, vol. 105, no. 4, páginas 1742-1749.
+D10                                                                     15/02/2005
+      Documento acessado através do link:
+      https://ashpublications.org/blood/article/105/4/1742/20363
+      /Selective-cytotoxicity-and-telomere-damage-in
+D11   BRASSAT, U. ET AL., "Functional p53 is required for effective     Jan/2011
+      execution of telomerase inhibition in BCR-ABL-positive CML
+      cells", EXPERIMENTAL HEMATOLOGY, vol. 39, no. 1, páginas
+      66-76.
+
+
+
+                                                                              Página 4
+                                      BR122020013414-3
+
+
+           Documento acessado através do link:
+           https://www.exphem.org/article/S0301-472X(10)00495-9/p
+           df
+           KELLER, G. ET AL., "Telomeres and telomerase in chronic
+           myeloid leukemia: impact for pathogenesis, disease progression
+           and targeted therapy", HEMATOLOGICAL ONCOLOGY, vol. 27,
+   D12                                                                             Set/2009
+           no. 3, páginas 123-129.
+           Documento acessado através do link:
+           https://onlinelibrary.wiley.com/doi/pdf/10.1002/hon.901
+           SUMI, M. ET AL., "A G-quadruplex-interactive agent,
+           telomestatin (SOT-095), induces telomere shortening with
+           apoptosis and enhances chemosensitivity in acute myeloid
+   D13     leukemia", INTERNATIONAL JOURNAL OF ONCOLOGY, vol.                      Jun/2004
+           24, no. 6, páginas 1481-1487.
+           Resumo acessado através do link:
+           https://www.spandidos-publications.com/ijo/24/6/1481
+           ROTH, A. ET AL., "Telomerase is limiting the growth of acute            Dez/2003
+           myeloid leukemia cells", LEUKEMIA, vol. 17, no. 12, páginas
+   D14     2410-2417.
+           Documento acessado através do link:
+           https://www.nature.com/articles/2403177
+           ROTH, A. ET AL., "Imetelstat (GRN163L)-telomerase-based                   2010
+           cancer therapy", RECENT RESULTS IN CANCER RESEARCH,
+   D15     vol. 184, páginas 221-234.
+           Resumo acessado através do link:
+           https://www.ncbi.nlm.nih.gov/pubmed/20072842
+
+       Os documentos D1-D15 foram apresentados como anterioridades em outros escritórios de
+patentes e apresentados no parecer emitido no âmbito da Resolução INPI/PR Nº 241/2019,
+notificado na RPI 2568 de 24/03/2020 segundo a exigência preliminar (6.21) para o pedido original
+BR112015013260-0.
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade           Cumprimento                Reivindicações
+                                                  Sim                         1-28
+          Aplicação Industrial
+                                                  Não                          -
+                                                  Sim                         1-28
+                Novidade
+                                                  Não                          -
+                                                  Sim                          -
+           Atividade Inventiva
+                                                  Não                         1-28
+Comentários/Justificativas
+
+      No primeiro parecer técnico (RPI nº 2607, de 22/12/2020, despacho 7.1) foi colocado que
+um técnico no assunto seria motivado, com base nos conhecimentos do estado da técnica (D1-
+
+
+                                                                                         Página 5
+                                           BR122020013414-3
+
+
+D15), a testar o imetelstat para tratar a mileofibrose, conforme ora reivindicado, e que os usos
+para preparação de um medicamento não apresentaram algum efeito técnico inesperado, portanto
+não foi possível reconhecer a atividade inventiva (artigos 8º e 13 da LPI) para a matéria das
+reivindicações 1 a 28. Isto porque, já era conhecido que a inibição da telomerase é um mecanismo
+eficaz no controle de neoplasias mieloproliferativas; assim, um técnico no assunto seria motivado
+a testar o imetelstat, um conhecido inibidor de telomerase, para tratar especificamente a
+mileofibrose, uma doença neoplásica mieloproliferativa.
+
+       Em resposta ao primeiro parecer técnico (RPI nº 2607, de 22/12/2020), a Requerente, por
+meio da petição WBRJ nº 870210026808 de 22/03/2021, apresentou sua manifestação contendo
+argumentos técnicos, assim como novas vias do quadro reivindicatório composto por 28
+reivindicações (pgs. 1-4). Tais argumentos encontram-se a seguir:
+
+       IV. Quanto à Atividade Inventiva do presente pedido de patente
+
+              O INPI alega no parecer, ora sob manifestação, que a matéria das reivindicações
+       1 a 28 do quadro reivindicatório apresentado em 30/06/2020, sob protocolo n°
+       870200081337, seria supostamente destituída de atividade inventiva frente aos
+       ensinamentos dos documentos D8 (CATENACCI, D. V. T. & SCHILLER, G. J. ET AL;
+       2005), D9 (MARITZ, M. F. ET AL.; 2010) e D15 (ROTH, A. ET AL.; 2010).
+
+              Nesse sentido, a Requerente, respeitosamente, discorda das afirmações do
+       Examinador e afirma que a presente invenção é dotada de atividade inventiva sobre os
+       documentos citados, pelos seguintes motivos:
+
+              O documento D8 é um artigo de revisão intitulado Myelodysplastic syndromes: A
+       comprehensive review relacionado à telomestatina, um inibidor de telomerase, e discute
+       que:
+
+              Inibidores de telomerase
+
+                       Vários estudos sugerem um papel diagnóstico e terapêutico
+              potencial da telomerase em muitas neoplasias.164-167 A inibição da
+              telomerase resulta em efeitos anti-tumorais e pró-apoptóticos significativos,
+                                                    165-167
+              incluindo linhas celulares de AML.              A telomestatina (SOT-095), um
+              inibidor natural da telomerase de pequenas moléculas, embora em um
+              estágio inicial de desenvolvimento, tem encorajado estudos in vitro em
+                     166-169
+              LMA.             Pode haver um papel na SMD de alto risco que progrediu
+              citogeneticamente e tem alta expressão de telomerase. Mais estudos são
+              necessários para avaliar a função da biológica do telômero/telomerase em
+              neoplasias como MDS/AML.
+
+                                                     (Ver a página 309 do documento D8).
+
+              Assim, a Requerente esclarece que a telomestatina é um composto macrocíclico
+       isolado de Streptomyces anulatus que possui uma estrutura química muito diferente em
+       comparação com o imetelstat, que é um lipídio conjugado sintético, uma molécula de
+
+
+                                                                                              Página 6
+                                      BR122020013414-3
+
+
+oligonucleotídeo 13-mer N3'P5'-tio-fosforamidato.Consequentemente, um técnico versado
+no assunto não teria sido motivado, a partir dos ensinamentos de D8 - que estão
+relacionada à telomestatina-, a alcançar a presente invenção, a qual é direcionada ao uso
+de imetelstat.
+
+        Além disso, os ensinamentos de D8 indicam que não há um consenso de que tal
+abordagem do uso da telomestatina no tratamento de neoplasias como SMD realmente
+funcione. Os únicos estudos reais mencionados neste contexto são estudos in vitro do
+tratamento da LMA.
+
+        A Requerente esclarece ainda que, os autores de D8 tiveram o cuidado de afirmar
+que:
+
+                 Mais estudos são necessários para avaliar o papel função biológica
+       do telômero/telomerase em neoplasias como MDS/AML.
+
+        Em outras palavras, a adequação da telomestatina para uso no tratamento de
+neoplasias não foi estabelecida, de acordo com os autores de D8, e que mais pesquisas
+básicas seriam necessárias para entender o papel da telomerase. Com relação à
+telomestatina os autores de D8 afirmaram ainda que:
+
+                 Pode haver um papel na SMD de alto risco que progrediu
+       citogeneticamente e apresenta alta expressão de telomerase.
+
+        No entanto, a Requerente esclarece que esta declaração de forma alguma ensina
+ou sugere que qualquer inibidor da telomerase poderia ser útil no tratamento de SMD.
+
+        Portanto, um técnico versado no assunto, não teria sido motivado a usar
+telomestatina, muito menos o composto químico completamente diferente imetelstat, no
+tratamento de MDS. Em vez disso, D8 sugere que mais estudos são necessários para
+compreender o papel da biologia do telômero/telomerase em neoplasias como
+MDS/AML.
+
+        Na verdade, a seção em D8 que se refere aos inibidores da telomerase é
+simplesmente sobre uma das várias opções terapêuticas discutidas, que incluem:
+
+                 Terapia   padrão:   como       cuidados   de   suporte:    transfusões,
+       antibióticos e fatores de crescimento hematopoiéticos (ver a página 306 de
+       D8)
+
+                 Terapia curativa, como transplante de células-tronco (página 307)
+       e quimioterapia intensiva (ver a página 307 de D8)
+
+                 Terapia   investigatória:     como     abordagens     de     remissão,
+       imunomodulação       e   agentes       antiapoptóticos/inflamatórios/angiogênicos
+       (talidomida e análogos da talidomida (página 307), trióxido de arsênio
+       (página 308), outros agentes imunomoduladores (página 308), outros
+       agentes anti- TNF (página 309), outros agentes antiangiogênicos (página
+
+
+
+                                                                                            Página 7
+                                           BR122020013414-3
+
+
+             309), inibidores de telomerase (página 309), modulação epigenética
+             (inibidores de DNA metiltransferase (DNMTi) (página 309), inibidores de
+             histona    desacetilase   (HDACi)     (página   310),   inibidores   de   farnesil
+             transferase (página 311), outras terapias (página 311), estratégias de
+             combinação (ver a página 311 de D8).
+
+                Portanto, a Requerente esclarece que não há qualquer ensinamento ou sugestão
+      em D8 para considerar um inibidor de telomerase como uma molécula candidata clínica
+      real para o tratamento de SMD. Assim, nenhuma motivação é fornecida que pudesse levar
+      um técnico versado no assunto a selecionar um inibidor de telomerase para os fins de
+      tratamento de MDS. Contrariamente, várias opções alternativas são apresentadas e D8
+      aponta a necessidade de mais pesquisas sobre a compreensão da biologia básica do
+      sistema telômero, sem um resultado previsível claro de tais estudos.
+
+                Portanto, com base nos ensinamentos de D8, um técnico versado no assunto não
+      poderia concluir razoavelmente que o MDS é tratável com o inibidor de telomerase
+      imetelstat. Na verdade, D8 não mostra qualquer ensinamento ou sugestão sobre o uso de
+      um inibidor da telomerase no tratamento da SMD, com a possível exceção da
+      telomestatina (e somente, então, no contexto de alguns estudos in vitro de atividade da
+      telomestatina contra AML). Como tal, D8 não ensina ou sugere o uso de imetelstat para o
+      tratamento de MDS, tal como reivindicado pelo presente pedido.
+
+                Com relação à D9, a Requerente esclarece o referido documento é um artigo de
+      revisão que discute o papel da telomerase na hematopoiese, além de discutir diferentes
+      abordagens para direcionar a telomerase em doenças malignas hematológicas.
+
+                Da mesma forma, o documento D15 é um artigo de revisão que discute o inibidor
+      da telomerase imetelstat para uso como terapia contra o câncer baseada na telomerase.
+      Assim, a Requerente esclarece que não há qualquer ensinamento ou sugestão em D9 ou
+      D15 sobre o uso de imetelstat no tratamento de MDS, tal como reivindicado pelo presente
+      pedido.
+
+                Portanto,   pelo   menos   pelas    razões    discutidas   acima,      a   Requerente
+      respeitosamente esclarece que todas as reivindicações do presente pedido apresentam
+      atividade inventiva frente aos ensinamentos de D8, D9 e D15.
+
+                Tendo em vista as evidências apresentadas, fica claro que a presente invenção
+      apresenta características distintas, não é óbvia, apresenta efeitos imprevisíveis e,
+      portanto, apresenta novidade, atividade inventiva e aplicação industrial frente aos
+      documentos D1 a D15, atendendo plenamente aos requisitos de patenteabilidade
+      previstos nos Artigos 8º, 11 e 13 da LPI.
+
+
+
+     Dando continuidade ao exame, e considerando os argumentos ora trazidos pela
+Requerente, as observações abaixo são feitas sobre a matéria ora objeto de proteção
+
+
+
+                                                                                                    Página 8
+                                          BR122020013414-3
+
+
+apresentada no quadro reivindicatório trazido na petição WBRJ nº 870210026808 de 22/03/2021,
+(pgs. 1-4):
+
+        De acordo com a Requerente, as neoplasias mieloproliferativas, ou MPNs, são neoplasias
+hematológicas que surgem das células progenitoras mieloides hematopoiéticas neoplásicas na
+medula óssea, tal como as células precursoras das células vermelhas, plaquetas e granulócitos. A
+proliferação de células progenitoras neoplásicas leva a uma superprodução de qualquer
+combinação de células brancas, células vermelhas e/ou plaquetas, dependendo da doença. Essas
+células superproduzidas também podem ser anormais, levando a complicações clínicas
+adicionais. Existem vários tipos de distúrbios mieloproliferativos crônicos. Incluídas no espectro de
+doenças MPN estão Trombocitemia Essencial (ET), Policitemia vera (PV), Leucemia Mieloide
+Crônica (CML), mielofibrose (MF), leucemia neutrofílica crônica, leucemia eosinofílica crônica e
+leucemia mieloide aguda (AML) (Vide relatório descritivo, parágrafo 4). Ademais, no parágrafo 96,
+a Requerente destacou que a mielofibrose ou MF é uma neoplasia mieloproliferativa no mesmo
+espectro de doenças como a ET. Pacientes com MF muitas vezes carregam a mutação JAK2
+V617F em sua medula óssea. Ocasionalmente, a ET evolui para MF.
+
+        Ainda considerando o disposto nos Arts. 4.18 e 5.44 da Resolução nº 169/2016 (acerca da
+Revisão das Diretrizes de Exame e Pedidos de Patentes Módulo 2 publicada na RPI 2377 de
+26/07/2016), temos que:
+               Em reivindicações do tipo fórmula suíça (Uso de um composto de fórmula X,
+        caracterizado por ser para preparar um medicamento para tratar a doença Y), a novidade é
+        avaliada em função da doença a ser tratada.
+
+               Em reivindicações do tipo fórmula suíça (Uso de um composto de fórmula X,
+        caracterizado por ser para preparar um medicamento para tratar a doença Y), a atividade
+        inventiva é avaliada em função da doença a ser tratada.
+
+        Novamente, os documentos D3, D6, D7, D9 e D15 descreveram o imetelstat como inibidor
+de telomerase e seu uso no tratamento de doenças associadas a distúrbios mieloproliferativos ou
+neoplasias, tais como trombocitopenia. Em nenhum dos documentos o uso de imetelstat para o
+tratamento específico de mielofibrose foi especificamente revelado, como ora reivindicado na
+reivindicação 1, portanto a matéria das reivindicações 1-28 possui novidade (artigos 8º e 11 da
+LPI).
+
+        No entanto, já era conhecido que a inibição da telomerase é um mecanismo eficaz no
+controle de neoplasias mieloproliferativas. Diante deste conhecimento, um técnico no assunto
+seria motivado a testar o imetelstat, um conhecido inibidor de telomerase, para tratar
+especificamente a mileofibrose, uma doença neoplásica mieloproliferativa, uma vez que o
+imetelstat se mostrou eficaz para o tratamento de trombocitopenia essencial (ET) (D6, D7).
+
+        Muito embora, a Requerente tenha argumentado em suas manifestação que Trombocitemia
+Essencial (ET) e mielofibrose (MF) sejam doenças distintas, no próprio relatório descritivo do
+presente pedido, a Requerente alega que ambas são classificadas como neoplasias
+mieloproliferativas, ou MPNs.
+
+
+                                                                                              Página 9
+                                       BR122020013414-3
+
+
+       Uma vez que um técnico no assunto seria motivado, com base nos conhecimentos do
+estado da técnica (D1-D15), a testar o imetelstat para tratar a mileofibrose, conforme ora
+reivindicado, e que os usos para preparação de um medicamento não apresentaram algum efeito
+técnico inesperado, não é possível reconhecer a atividade inventiva (artigos 8º e 13 da LPI) para a
+matéria das reivindicações 1 a 28.
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+                                                              Rio de Janeiro, 2 de agosto de 2021.
+
+
+
+
+Renata de Melo Aguiar
+Pesquisador/ Mat. Nº 1743190
+DIRPA / CGPAT II/DIPAQ
+Deleg. Comp. - Port. INPI/DIRPA Nº 023/12
+
+
+
+
+                                                                                        Página 10
+

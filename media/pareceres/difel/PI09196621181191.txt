@@ -1,0 +1,136 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0919662-5               N.° de Depósito PCT:US2009/005511
+ Data de Depósito:                   08/10/2009
+ Prioridade Unionista:               US 12/248,106 (09/10/2008)
+ Depositante:                        The Aes Corporation (US)
+ Inventor:                           John C.Shelton, Praveen H.Kathpal
+ Título:                             Controle de sustentação de carga responsiva à frequência de
+                                     sistemas de armazenamento de eletricidade para serviços
+                                     subordinados em uma rede de energia elétrica. 
+
+                                                                PARECER
+
+
+          O presente pedido recebeu Parecer de Exigência de Pré-exame (7.1), publicado na RPI
+nº 2544 de 08/10/2019. A Requerente, por meio da petição nº 870190141683 de 30/12/2019,
+novos Relatório Descritivo, Quadro Reivindicatório, Desenhos e Resumo.
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-16               870190141683           30/12/2019
+Quadro Reivindicatório                                     1-4               870190141683           30/12/2019
+Desenhos                                                   1-5               870190141683           30/12/2019
+Resumo                                                      1                870190141683           30/12/2019
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                               PI0919662-5
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim                 Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento            Reivindicações
+                                                        Sim                     1-23
+           Aplicação Industrial
+                                                        Não              ----------------------
+                                                        Sim                     1-23
+                 Novidade
+                                                        Não              ----------------------
+                                                        Sim              ----------------------
+           Atividade Inventiva
+                                                        Não                     1-23
+Comentários/Justificativas
+
+
+
+Considerando a redação das reivindicações, tendo sido mantida a mesma redação das
+reivindicações independentes, conforme descrito em parecer anterior, o Documento D1 prevê
+um método de resposta às mudanças na frequência de operação de uma rede de eletricidade
+por meio de dispositivos de armazenamento de energia (BESS) que são acoplados
+energeticamente com a rede de eletricidade, que inclui: determinar se a frequência de operação
+da rede de eletricidade está dentro de uma faixa predeterminada de uma frequência de
+operação nominal, sendo que se a frequência de operação for determinada estar fora da dita
+faixa, regular a frequência da rede transferindo a energia entre o dispositivo de armazenamento
+de energia e a rede de eletricidade com auxílio de um conversor (14); (página 2, linhas 13-27;
+Figura 4; página 7, linhas 13-26) e determinar se um estado da carga (SOC) do dispositivo de
+armazenamento de energia está dentro dos limites predeterminados (SoC1 e SoC2) e realizar a
+transferência da energia entre o dispositivo de armazenamento de energia e a rede de
+eletricidade para trazer o SOC para dentro dos ditos limites predeterminados (página 3, linhas
+18-28; Figuras 1 e 2).
+
+
+
+
+                                                                                                  Página 2
+                                           PI0919662-5
+
+
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 27 de março de 2020.
+
+
+
+
+Mariana Dias da Silva
+Pesquisador/ Mat. Nº 1807618
+DIRPA / CGPAT III/DIFEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+006/16
+
+
+
+
+                                                                                          Página 3
+

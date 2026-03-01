@@ -1,0 +1,194 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI1007214-4              N.° de Depósito PCT: GB2010/000160
+ Data de Depósito:                   29/01/2010
+ Prioridade Unionista:               US 61/148737 (30/01/2009)
+ Depositante:                        Oxford Nanopore Technologies Limited (GB)
+ Inventor:                           Brian Mckeown
+ Título:                             Método de sequenciamento de um molde de ácido nucleico fita
+                                     dupla
+
+                                                                 PARECER
+          O presente pedido se refere a método para sequenciamento de ácidos nucleicos.
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim      Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                            X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    X
+
+O pedido refere-se a Sequências Biológicas                                                             X
+
+Comentários/Justificativas
+
+          A referência ao acesso ao patrimônio genético nacional foi declarada em 24/08/2011
+(petição no. 020110088733).
+
+          A listagem de sequências foi apresentada pelo Requerente na petição no. 870190089731
+de 10/09/2019.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+Relatório Descritivo                                        1                870190089731        10/09/2019
+Relatório Descritivo                                     2 a 82              020110080010         29/07/2011
+Listagem de sequências em
+                                                             -                      -                   -
+formato impresso
+Listagem de sequências*                        Código de Controle            870190089731        10/09/2019
+Quadro Reivindicatório                                    1a3                870190089731        10/09/2019
+Desenhos                                                  1a4                020110080010         29/07/2011
+Resumo                                                      1                870190089731        10/09/2019
+        *Listagem de sequências em formato eletrônico referente ao código de controle
+        A74C3B5693C0EDA6 (Campo 1) e F5E993AA3A438192 (Campo 2).
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                  Página 1
+                                               PI1007214-4
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                           Sim               Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                         X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                 X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   X
+O pedido está de acordo com disposto no art. 32 da LPI                    X
+Comentários/Justificativas
+
+-----
+
+
+
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                        X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+Comentários/Justificativas
+        Como mencionado no parecer anterior, o Requerente acerta ao justificar que os
+adaptadores, poros e condições de reação eram bem conhecidos antes da data de depósito do
+presente pedido. Ainda, o Requerente alega que os métodos da invenção estão associados a
+efeitos técnicos vantajosos.
+        Logo, o relatório descritivo do presente pedido não descreve suficientemente a invenção
+visto que não demonstra os efeitos técnicos vantajosos frente ao estado da técnica, contrariando o
+disposto no Art. 24 da LPI.
+        O Requerente falha ao demonstrar os efeitos técnicos vantajosos na sua alegação e,
+portanto, a objeção está mantida.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+  Código                                 Documento                             Data de publicação
+        D1    WO2005/056750                                                           23/06/2005
+        D2    Branton et al. Nature Biotechnol. 26: 1146-1153                         09/10/2008
+        D3    Corner et al. Biophys. J. 96:593-608                                    21/01/2009
+
+
+        Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+         Requisito de Patenteabilidade            Cumprimento            Reivindicações
+                                                         Sim                    1-10
+              Aplicação Industrial
+                                                         Não                      -
+                                                         Sim                    1-10
+                   Novidade
+                                                         Não                      -
+
+
+
+                                                                                            Página 2
+                                           PI1007214-4
+
+
+                                                   Sim                          -
+           Atividade Inventiva
+                                                   Não                        1-10
+Comentários/Justificativas
+
+       O Requerente não apresentou novo quadro, porém trouxe algumas alegações:
+
+       as características distintivas da invenção referem-se ao uso de um adaptador para ligar
+covalentemente as duas fitas de um molde de ácido nucleico de fita dupla para permitir que cada
+fita do polinucleotídeo molde de filta dupla seja investigada por sequenciamento nanoporo. Ao
+coletar informações com relação a ambas as fitas, o potencial para denominar bases
+identificadas de maneira errada ou bases completamente erradas é reduzido e a qualidade da
+sequência gerada é melhorada. A presente invenção (isto é, o uso de um adaptador para ligar as
+duas fitas de um molde de ácido nucleico de fita dupla para permitir que ambas as fitas de um
+polinucleotídeo molde sejam investigadas) é aplicável a todos os adaptadores, poros e
+condições de reação adequados.
+
+       Deamer et al. (fornecido anteriormente) é um artigo de revisão publicado em 6 de maio
+de 2016 que fornece uma perspectiva histórica do seqüenciamento nanoporo. Este documento
+afirma que o seqüenciamento nanoporo remonta à década de 1980 e que o primeiro pedido de
+patente de seqüenciamento nanoporo foi depositado em meados da década de 1990 (ver
+Deamer et al., Página 518, Petição 870200000794, de 03/01/2020, pág. 10/14 7 coluna 1 e
+página 519, Figura 2). Assim, Deamer et al. confirma que os adaptadores, poros e condições de
+reação adequados eram bem conhecidos antes da data de depósito do presente pedido.
+
+       Além disso, como mencionado no parecer anterior, o Requerente afirma que o
+sequenciamento por nanoporo não é novo (inclusive fornecendo revisão que comprova tal
+afirmação) e concorda com a falta de novidade do adaptador em formato de grampo ao eliminar
+as antigas reivindicações 11-15 (diante de D1).
+
+       Sendo assim, apesar das justificativas de que a presente invenção é distinta do
+sequenciamento de Sanger (o que nunca foi alegado em pareceres anteriores e sim só a
+justificativa que o sequenciamento das duas fitas na tentativa de aumentar a acurácia é óbvia e,
+como exemplo, foi dado a técnica de Sanger), o Requerente admite que: o adaptador em
+formato de grampo não é novo, que o sequenciamento por nanoporo tampouco e que o
+diferencial da presente invenção é o aumento da qualidade da sequência gerada, o que, como
+já alegado no parecer anterior, não foi demonstrado, visto que a presente invenção não foi
+concretizada. O Requerente supõe que a ideia aqui apresentada levará ao resultado pretendido,
+mas ele não demonstrou isso.
+
+       Portanto, na ausência de elementos novos e sem a demonstração de um ganho técnico,
+não é possível reconhecer a atividade inventiva do presente pedido e, logo, a objeção está
+mantida. Sendo assim, as reivindicações 1-10 estão em desacordo com os Artigos 8 o e 13 da
+LPI.
+
+
+
+
+                                                                                        Página 3
+                                           PI1007214-4
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   não apresenta suficiência descritiva (Art. 24 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 16 de janeiro de 2020.
+
+
+
+
+Amanda Mangeon Vieira Ferreira
+Pesquisador/ Mat. Nº 1711587
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+009/18
+
+
+
+
+                                                                                           Página 4
+

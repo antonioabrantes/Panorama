@@ -1,0 +1,204 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0914799-3                  N.° de Depósito PCT:FR2009/051567
+ Data de Depósito:                   06/08/2009
+ Prioridade Unionista:               FR 08 55502 (08/08/2008); FR 08 56706 (03/10/2008)
+ Depositante:                        Arkema France (FR)
+ Inventor:                           Thierry Briffaud, Philippe Blondel, Thierry Lefebvre
+ Título:                             Copoliamida semiaromática e seu processo de preparação 
+
+                                                                PARECER
+Em resposta ao parecer técnico (despacho 7.1) publicado na RPI nº 2508 de 29 de janeiro de
+2019, o depositante se manifestou por meio da petição n. 870190039955 de 29 de abril de 2019
+alegando que o pedido atende aos requisitos de novidade e atividade inventiva frente aos
+ensinamentos das referências citadas. O depositante apresentou ainda novas vias de relatório
+descritivo, quadro reivindicatório e resumo.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      2-30               020100114203           07/12/2010
+Relatório Descritivo                                        1                870190039955           29/04/2019
+Quadro Reivindicatório                                     1-2               870190039955           29/04/2019
+Desenhos                                                                     Não se aplica
+Resumo                                                      1                870190039955           29/04/2019
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+Não se aplica
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                               PI0914799-3
+
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI       x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI     x
+Comentários/Justificativas
+
+Não se aplica
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1       JPH07330163                                                           19/12/1995
+    D2       JP2002293927A                                                         09/10/2002
+    D3       EP1505099A2                                                           09/02/2005
+    D4       US4760129A                                                            26/07/1988
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento            Reivindicações
+                                                         Sim                    1-11
+            Aplicação Industrial
+                                                        Não                      ----
+                                                         Sim                    2-11
+                   Novidade
+                                                        Não                       1
+
+                                                         Sim                     ----
+             Atividade Inventiva
+                                                        Não                     1-11
+
+
+
+Comentários/Justificativas
+
+         Os esclarecimentos prestados pelo requerente na manifestação ao parecer técnico, bem
+como as modificações realizadas no quadro reivindicatório, não superaram às objeções
+oferecidas no parecer técnico de 21 de novembro de 2018 publicada na RPI 2508, de 29 de
+janeiro de 2019.
+
+         A Requerente alega que D1 não pode ser considerada anterioridade prejudicial ao pedido
+em análise porque descreve um processo em única etapa (parágrafos 0033 a 0037), enquanto o
+processo utilizado pela Requerente existem várias subetapas, sendo             que uma delas, a
+subetapa de expansão de pressão, não é revelada em D1. A Requerente afirma que a
+polidispersividade da copoliamida produzida segundo o pedido em análise não é equivalente a
+de D1 em função desta diferença de produção.
+
+         Em seu relatório descritivo, a partir da página 13, linha 16 em diante, são dados mais de
+um modo de processo de produção. Entende-se que, em todos os casos, o processo leva à
+poliamida descrita na reivindicação 1. Especificamente em sua página 13, linha 21, a
+
+
+                                                                                           Página 2
+                                            PI0914799-3
+
+
+Requerente descreve uma etapa única que é efetuada numa pressão compreendida entre 0,01 e
+50 bars (linhas 23 a 24, página 13), e, na linha 23, refere a uma pressão autógena de 10 a 50
+bars. Em sua linha 29, a Requerente afirma que a pressão é progressivamente levada a pressão
+atmosférica.
+
+          Já no parágrafo 0033 de D1, é citado que a pressão de polimerização é ajustada em 17
+kg/cm , sendo, posteriormente, ajustada para 12 g/cm2 (equivalente a cerca de 12 bar, e portanto
+      2
+
+
+dentro da faixa especificada pela requerente). A volta a pressão atmosférica, no processo de D1,
+é passo implícito e óbvio a um técnico no assunto. Ou seja, quando comparado ao que é
+mostrado no exemplo 1 de D1 (parágrafo 0033), não há diferença significativa que justifique
+resultarem os processos em produtos diferentes.
+
+           A requerente alega que o passo de expansão de pressão é responsável pelo efeito
+técnico, a saber, melhorar propriedades mecânicas (página 2, linhas 1-2 do relatório descritivo).
+Ocorre que, se ambas as reações ocorrem na faixa de pressão definida pelo pedido em análise,
+o Requerente informa que é justamente a expansão de pressão a responsável pelo efeito
+técnico, e o retorno a pressão atmosférica é fato implícito em D1, então não há porque os
+produtos finais não serem equivalentes. A favor deste argumento está o fato de o Requerente
+indicar que o índice de polidispersividade alvo resulta em boas propriedades mecânicas, e a
+tabela da página 23 de D1 mostra boas propriedades mecânicas na resina produzida.
+
+          Ainda, a Requerente traz tabelas comparativas que indicam que o efeito desejado pode
+ser obtido através do manejo do Ip (manifestação, tabelas da página 4 e relatório descritvo,
+págias 3 a 4), mas falha em trazer comprovação técnica que indique que outros produtos do
+estado da técnica não sejam equivalentes. Não existem dados comparativos que corroborem tal
+alegação de que o produto da reivindicação 1 possua efeito melhorado em relação ao estado da
+técnica consultado. Por essa razão, fica mantido o documento D1 como anterioridade relevante
+para o pedido em análise.
+
+          Sobre D2, o requerente afirma que a sua diferença principal com a matéria ora analisada
+reside no fato de que o pré-polímero é removido do reator com grau de progresso de 0,4 a 0,99.
+E, como não existem tais informações em D2, o conhecimento de D2 é genérico em relação ao
+pedido em análise. Ocorre que nada na literatura, no estado da técnica ou no relatório descritivo
+do pedido em análise corrobora a informação que o Ip ótimo é encontrado na faixa informada.
+Além disso, a faixa aceita vai de menos da metade da reação concluída a quase 100% dos
+reagentes consumidos, não existe informação técnica que corrobore o fato de que Ip obtido com
+um grau de progresso de 0,35 seja inadequado, enquanto o grau de progresso 0,40 ou 0,99 o
+sejam, de forma que não como se comprovar o efeito técnico alegado. D2 fica, portanto, mantido
+como anterioridade relevante.
+
+          Com relação às anterioridades D3 e D4, salienta-se que são anterioridades que suportam
+a tese do Requerente: o Ip relaciona-se com a alta qualidade dos artigos (ver linha 40 em diante
+da coluna 4 de D4). Este ponto é pacificado no estado da técnica, e portanto, não é novidade. E
+isso só corrobora o fato de que, se D1 e D2 apresentam boas propriedades mecânicas e se são
+
+
+
+                                                                                          Página 3
+                                          PI0914799-3
+
+
+produzidos de modo equivalente ao pedido em análise, então não há que se falar em efeito
+técnico inesperado.
+
+       O problema técnico que se quer solucionar no pedido em análise (a saber: obtenção de
+uma poliamida com notáveis propriedades mecânicas, facilidade de emprego e resistência ao
+envelhecimento, sem o inconveniente da queda da resistência termomecânica (relatório
+descritivo, página 1, linhas 13 a 17) está, portanto, descrito nas anterioridades analisadas. E
+nenhum efeito técnico inesperado ou melhoria foi verificada no pedido em análise, quando
+comparado às referidas anterioridades.
+
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                              Rio de Janeiro, 15 de maio de 2019.
+
+
+
+
+Flavia Alice Praca Nogueira
+Pesquisador/ Mat. Nº 1281939
+DIRPA / CGPAT I/DIPOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/19
+
+
+
+
+                                                                                         Página 4
+

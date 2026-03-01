@@ -1,0 +1,348 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112013024608-1           N.° de Depósito PCT: US2012/028949
+ Data de Depósito:                   13/03/2012
+ Prioridade Unionista:               US 61/469,118 (30/03/2011)
+ Depositante:                        MONSANTO TECHNOLOGY LLC (US)
+ Inventor:                           RONALD J. BRINKER, WEN C. BURNS, PAUL C.C. FENG, JOHN A.
+                                     KENDIG, SHERRY LECLERE, JENNIFER LYNN LUTKE, MARIANNE
+                                     MALVEN
+ Título:                             "moléculas de dna compreendendo evento transgênico, produto de
+                                     base, kit de detecção de dna, bem como métodos de detecção de dna
+                                     de planta de algodão, de controle de ervas 5 daninhas, de produção
+                                     de semente ou fibra de algodão e de planta de algodão que tolera a
+                                     aplicação de herbicidas dicamba e glufosinato, e de determinação da
+                                     zigosidade de semente e planta de algodão".
+
+                                                              PARECER
+          O presente pedido revela as sequências genéticas relacionadas ao evento transgênico de
+algodão MON8701, bem como os métodos de detecção do evento em uma planta, obtenção de
+plantas que tolera aplicação de herbicidas, controle de ervas daninhas e a determinação da
+zigosidade em uma planta.
+
+          No parecer técnico publicado na RPI nº 2588, de 11/08/2020, a Requerente tomou
+conhecimento de que o pedido estava em desacordo com as disposições dos artigos 8º, 13, 18
+(III), 24 e 25 da LPI.
+
+          Por meio da petição 870200141161 de 09/11/2020 a Requerente manifestou-se em relação
+ao dito parecer e apresentou nova proposta de quadro reivindicatório emendado.
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                           x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    x
+
+O pedido refere-se a Sequências Biológicas                                                             x
+
+Comentários/Justificativas
+
+
+         Quanto ao encaminhamento para ANVISA
+O presente pedido não se enquadra no estabelecido no art. 229-C da LPI, incluído pela Lei
+10.196/2001, portanto não foi necessário realizar encaminhamento prévio à ANVISA.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                 Página 1
+                                        BR112013024608-1
+
+
+         Quanto à exigência referente ao acesso ao patrimônio genético nacional
+
+
+          O INPI emitiu a exigência de código 6.6.1 na RPI nº 2465 de 03/04/2018, para fins de
+manifestação do depositante quanto à ocorrência de acesso ao Patrimônio Genético nacional
+e/ou Conhecimento Tradicional Associado para obtenção do objeto do presente pedido. Não
+tendo havido manifestação do depositante no prazo de 60 (sessenta) dias contados a partir da
+publicação na RPI, o INPI deu prosseguimento ao exame técnico com o entendimento de que
+não houve acesso ao patrimônio genético nacional e/ou conhecimento tradicional associado,
+conforme consta no texto do despacho de código 6.6.1 publicado na RPI, de acordo com
+entendimento firmado pela Procuradoria Federal Especializada junto ao INPI (PFE-INPI) no
+Parecer        nº      00001/2018/PROCGAB/PFE-INPI/PGF/AGU            (Processo        INPI       nº
+52400.002142/2018-30), publicado nas RPIs nº 2465 (03/04/2018), 2466 (10/04/2018) e 2467
+(17/04/2018), ao qual foi atribuído caráter normativo na RPI nº 2485 de 21/08/2018.
+
+          Destaca-se que a depositante não se manifestou em relação a exigência 6.6.1 emitida.
+
+         Quanto às Sequências Biológicas
+
+          Destaca-se que a depositante apresentou a listagem de sequências em formato digital
+por meio da petição 870190106573, de 21/10/2019.
+
+          Na análise foram encontradas irregularidades que devem ser corrigidas por meio de uma
+nova listagem de sequências, a saber: ausência do título inicial "Listagem de Sequências"; e no
+campo <141> a data de depósito está incorreta.
+
+
+                            Quadro 1  Páginas do pedido examinadas
+             Elemento                   Páginas            n.o da Petição              Data
+Relatório Descritivo                    1 a 57             870190106573            21/10/2019
+Listagem de sequências em
+                                            -                     -                       -
+formato impresso
+Listagem de sequências*                                    870190106573            21/10/2019
+                                  Código de Controle
+
+Quadro Reivindicatório                   1a8               870200141161            09/11/2020
+Desenhos                                 1a7                20130078477            25/09/2013
+Resumo                                      1              870190106573            21/10/2019
+
+         *Listagem de sequências em formato eletrônico referente ao código de controle
+         D199B5713E502C91 (Campo 1) e 411C36C6E0CF7999 (Campo 2).
+
+
+
+
+    Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+
+
+
+                                                                                              Página 2
+                                         BR112013024608-1
+
+
+                                         maio de 1996  LPI
+Artigos da LPI                                                           Sim             Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                        x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                    x
+O pedido está de acordo com disposto no art. 32 da LPI                     x
+Comentários/Justificativas
+
+       Em sua manifestação a requerente alega que as disposições do artigo 18 (III) não se
+aplicam às reivindicações apensadas. Adicionalmente a requerente esclarece que as novas
+reivindicações 11 e 12 especificam que o material vegetal e produto de base reivindicados não
+são vivos. Para a requerente o artigo 18 (III) menciona apenas o todo ou parte dos seres vivos
+sem mencionar material biológico e a LPI reconhece, portanto, uma diferença entre partes de
+seres vivos e material biológico que não é vivo. Por este motivo, as disposições relativas ao
+artigo 18 (III) da LPI da Resolução PR Nº 144/2015 são limitadas apenas a células, unidade
+mínima da vida, mas não a materiais biológicos não vivos, que nada mais são do que
+compostos ou composições químicas.
+
+       Para a requerente o material biológico difere do todo ou parte de seres vivos pelo
+simples fato de não ser vivo. Contudo este entendimento está equivocado. De acordo com as
+definições dispostas no item 4.1 das Diretrizes de Biotecnologia, todo ou parte de seres vivos
+refere-se a qualquer porção dos seres vivos como órgãos, tecidos e células, independentemente
+de estarem vivos ou não.
+
+       De acordo como relatório descritivo (ver página 25 [00059 e 00060]) do presente pedido
+parte de vegetal refere-se a qualquer parte de uma planta que é compreendida do material
+derivado de uma planta de algodão compreendendo o evento MON 88701. As partes vegetais
+incluem mas não são limitadas a pólen, óvulo, vagem, flor, raiz ou tecido de tronco, fibras e
+folhas. As partes vegetais podem ser viáveis, não viáveis, regeneráveis, e/ou não regeneráveis.
+Assim como produto de base refere-se a qualquer composição ou produto que é compreendido
+do material derivado de um evento de algodão MON 88701 contendo planta, semente, célula
+vegetal ou parte vegetal. Os produtos de base podem ser vendidos a consumidores e podem ser
+viáveis ou não viáveis. Os produtos de base não viáveis incluem mas não são limitados a
+sementes não viáveis; sementes processadas, partes de semente e partes vegetais; fibra de
+algodão; sementes e partes vegetais processadas para ração ou alimento, óleo, fibra, papel,
+biomassas e produtos de combustível. Produtos de base viáveis incluem mas não são limitados
+a sementes, plantas e células vegetais.
+
+       Tendo em vista que as atuais reivindicações 11 e 12 definem somente que o material
+vegetal não vivo e o produto de base compreende a molécula de DNA recombinante da
+invenção, resta claro que as reivindicações podem vir a proteger qualquer porção dos seres
+vivos como órgãos, tecidos e células. Portanto, considera-se que os argumentos apresentados
+
+
+
+                                                                                          Página 3
+                                           BR112013024608-1
+
+
+não foram suficientes para superar as objeções apontadas e as matérias das reivindicações
+mencionadas permanecem incidindo nas disposições do artigo 18 (III) da LPI.
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                     x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                   x
+Comentários/Justificativas
+       A requerente alega discordar do entendimento de que o termo compreende englobaria
+matéria além do escopo da invenção. Para a requerente o referido termo pode ser aceito, desde
+que os elementos essenciais para a realização da invenção sejam definidos na reivindicação.
+Considerando que os elementos essenciais para a realização da invenção, que representam a
+contribuição trazida com relação ao estado da técnica são claramente definidos nas reivindicações
+apensas, as disposições das diretrizes de exame do INPI e da LPI são integralmente atendidas.
+       Ocorre que as novas reivindicações 1, 2 e 4 solicitam proteção para uma molécula de DNA
+recombinante definida apenas pelo fato de compreender uma sequência nucleotídica selecionada
+a partir das SEQ ID NOs 1-8 e 10 ou complemento das mesmas. Como já discutido no parecer
+anterior, o termo compreender é considerado aberto de definição da invenção, ou seja, não se
+limita a apenas aos elementos mencionados e inclui a possibilidade de haver qualquer extensão
+nas regiões 5 ou 3 da molécula recombinante. Portanto, ainda que o elemento essencial para a
+realização da invenção esteja definido nas reivindicações, a utilização do termo compreende não
+pode ser aceita quando implicar em ampliação de modo vago e indefinido do escopo da proteção
+reivindicada. Nesse sentido, o presente exame ratifica seu posicionamento de que o termo
+compreende utilizado nas referidas reivindicações não pode ser aceito porque amplia o escopo
+de proteção permitindo a inclusão de matéria não fundamenta no relatório descritivo apresentado
+e portanto, não atende os artigos 24 e 25 da LPI.
+       A nova reivindicação nº 7 solicita proteção para um par de moléculas de DNA, mas não
+especifica as SEQ ID NOS das referidas moléculas. Como tal irregularidade já foi apontada no
+parecer anterior e persiste no quadro ora proposto, conclui-se que a matéria permanece em
+desacordo com o artigo 25 da LPI e item 6.1 das Diretrizes de Biotecnologia.
+       No parecer técnico anterior discutiu-se que a falta de definição das sequências das sondas
+e iniciadores utilizados e dos amplicons de diagnóstico empregadas no método de determinação
+da zigosidade de uma planta de algodão ou semente compreendendo o evento MON8870, objeto
+da antiga reivindicação 28, acarretava em falta de clareza e precisão na matéria a ser protegida.
+Em sua manifestação a requerente alega discordar da objeção por entender que não é necessária
+restrição a sequências específicas exemplificadas. Além disso, não foi apontado qual seria o ônus
+indevido que um técnico no assunto enfrentaria ao reproduzir a invenção reivindicada.
+       Inicialmente cabe lembrar que o artigo 25 da LPI estabelece que as reivindicações deverão
+ser fundamentadas no relatório descritivo, caracterizando as particularidades do pedido e
+
+
+                                                                                        Página 4
+                                       BR112013024608-1
+
+definindo, de modo claro e preciso a matéria objeto da proteção (nossos grifos). Ocorre que a
+definição das sequências é fundamental para estabelecer com clareza e precisão o escopo de
+proteção, e para se alcançar o objetivo a que se propõe a metodologia solicitada. Portanto, a nova
+reivindicação 23 permanece em desacordo com o artigo 25 da LPI.
+       A falta de clareza e precisão (artigo 25 da LPI) também foi a base da objeção envolvendo o
+produto de base solicitado pela antiga reivindicação 17. Em resposta a tal objeção a requerente
+alega que as características técnicas que representam a contribuição da invenção com relação ao
+estado da técnica são definidas de forma muito específica na reivindicação. Ou seja, a presença
+das moléculas de DNA definidas na reivindicação no produto básico reivindicado resolve um
+problema técnico importante Por exemplo, a única maneira de determinar se um produto ou
+material, como o citado nas reivindicações apensas, é derivado de uma fonte transgênica, é pela
+detecção dos ácidos nucleicos transgênicos no próprio produto ou material. A detecção e
+identificação de produtos e materiais originários de plantas transgênicas é de crescente
+importância não apenas para os consumidores, mas também para os reguladores. Para este
+efeito, o isolamento de ácidos nucléicos de produtos básicos, como aqueles ora reivindicados, é a
+primeira etapa na detecção de organismos geneticamente modificados. Gryson et al., Detecção
+de DNA durante o refino de óleo de soja, JAOCS 79 (2): 171-174, 2002; cópia apensa com o
+Anexo 1). A este respeito, na ausência da molécula de DNA definida nas reivindicações, os
+produtos de base da reivindicação 17 não poderiam ser rastreados até a planta transgênica de
+origem. Como tal, para cumprir com a nova legislação em muitos países onde a rastreabilidade e
+rotulagem de organismos geneticamente modificados comercializados é necessária, a presença
+de ácidos nucleicos recombinantes e a detecção dessa presença nos produtos e materiais
+reivindicados é benéfica para resolver um problema técnico emergente.
+       A objeção que se coloca frente a matéria da nova reivindicação nº 12 (antiga 17) refere-se
+ao fato de que não foi estabelecido do que se trata o dito produto de base. Desta maneira a
+matéria protege qualquer produto que compreenda a molécula de DNA recombinante selecionada
+a partir do grupo consistindo nas SEQ ID NOs: 1-8 e 10 e complementos completos das mesmas,
+abarcando inclusive produtos que não foram descritos nem previstos no presente pedido.
+Portanto, entende-se que os argumentos apresentados não foram suficientes para superar a
+objeção apontada e, por isso, a matéria permanece em desacordo com o artigo 25 a LPI.
+       No parecer técnico anterior também discutiu-se que o método para o controle de ervas
+daninhas em um campo, objeto das antigas reivindicações 18 a 24 (novas reivindicações 13 a 19),
+também incidia nas disposições do artigo 25, uma vez que o controle das ervas daninhas depende
+da interação entre o herbicida que será usado e as ervas daninhas presentes no campo de
+plantio. E o fato de haver ou não outras plantas no mesmo campo em nada influencia no referido
+controle das ervas daninhas. A requerente argumenta que o propósito do método é o controle de
+ervas daninhas em um campo de algodão sem causar danos às plantas de algodão. O aspecto
+inventivo da reivindicação não se refere à aplicação do herbicida em si, mas ao novo evento MON
+88701 e às plantas de algodão que contém o evento. Quando o método reivindicado é praticado, é
+
+
+                                                                                         Página 5
+                                       BR112013024608-1
+
+apenas a presença do evento MON 88701 que permite que ervas daninhas sejam controladas
+com herbicida dicamba e glufosinato sem causar danos às plantas de algodão. Além disso, o
+evento MON88701 fornece flexibilidade com relação ao tempo de aplicação de dicamba e
+glufosinato; permitindo o pré-plantio, pré-emergência e aplicação pós-emergência sem induzir
+danos à cultura (vide parágrafos [00062]-[00064]). A presença do evento MON 88701 é, portanto,
+parte integrante do método reivindicado.
+       A análise dos argumentos apresentados indica que eles não são suficientes para superar
+as objeções apontadas anteriormente. Pois, a simples menção de que o controle de ervas
+daninhas em um campo de algodão ocorre sem causar danos às plantas de algodão não supera o
+fato de que o método é eficaz inclusive na ausência das plantas do evento MON 88701. Ou seja,
+as ervas daninhas mediante a aplicação do herbicida morrem independentemente de outras
+plantas. O herbicida aplicado à planta de algodão é irrelevante para controlar as ervas. Sendo
+assim, qualquer herbicida que seja capaz de tal efeito pode ser utilizado. Portanto, o método
+depende apenas da interação entre o herbicida que será usado e as ervas daninhas presentes em
+um campo de plantio. Sendo assim, a objeção está mantida para as novas reivindicações 13 a 19.
+
+
+
+                        Quadro 4  Documentos citados no parecer
+
+ Código                              Documento                             Data de publicação
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade          Cumprimento                Reivindicações
+                                                  Sim                      1 a 25
+          Aplicação Industrial
+                                                  Não                         -
+                                                  Sim                      1 a 25
+                Novidade
+                                                  Não                         -
+
+                                                  Sim          1 a 17 e 21 a 25 (parcialmente)
+           Atividade Inventiva
+                                                  Não                      18 a 20
+Comentários/Justificativas
+
+       Conforme discutido no parecer técnico anterior considera-se que o método de controle de
+ervas daninhas em um campo, objeto das reivindicações 18 e 19, é desprovido de atividade
+inventiva, uma vez que a aplicação de herbicidas para controlar ervas daninhas é uma prática
+comum, que não se e torna inventiva somente por compreender no mesmo campo uma planta
+do evento ora descrito. Por isso, as matérias das referidas reivindicações decorrerem de
+maneira óbvia do estado da técnica e não atendem as disposições do artigo 13 da LPI.
+
+       Mesma objeção se aplica ao método para produção da semente de algodão ou fibra
+essencialmente sem sementes de ervas daninhas (reivindicação 20) que se baseia em semear,
+
+
+                                                                                        Página 6
+                                         BR112013024608-1
+
+
+aplicar herbicida e coletar as sementes. Novamente trata-se de uma prática comum da técnica,
+que não se torna inventiva somente por envolver planta transgênica do evento MON88701
+depositado sob o No de Acesso ATCC PTA-11754. Portanto, a matéria da dita reivindicação
+também não atende as disposições do artigo 13 da LPI.
+
+Conclusão
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI);
+
+      -   não apresenta suficiência descritiva (Art. 24 da LPI);
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI);
+
+      -   não é considerado patenteável, uma vez que incide no Art. 18 (III) da LPI.
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                   Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 23 de fevereiro de 2021.
+
+
+
+
+Nathaly Nunes Uchoa
+Pesquisador/ Mat. Nº 1358886
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                            Página 7
+

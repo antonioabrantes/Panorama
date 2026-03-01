@@ -1,0 +1,245 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112018010230-0         N.° de Depósito PCT:EP2016/078079
+ Data de Depósito:                   17/11/2016
+ Prioridade Unionista:               EP 15195497.1 (19/11/2015)
+ Depositante:                        SHELL INTERNATIONALE RESEARCH MAATSCHAPPIJ B.V. (NL)
+ Inventor:                           REINHARD GEYER; HENRI PREISING; DIONYSIUS JACOBUS
+                                     MARIA DE VLIEGER; SMITA EDULJI; EVERT VAN DER HEIDE;
+                                     JEAN PAUL ANDRE MARIE JOSEPH GHISLAIN LANGE
+ Título:                             SISTEMA CATALISADOR E PROCESSO PARA A PRODUÇÃO DE
+                                     GLICÓIS
+
+                                                                PARECER
+
+
+         Em 25/03/2021, por meio da petição 870210028368, a Requerente apresentou
+manifestação em resposta ao parecer emitido, notificado na RPI 2610, de 12/01/2021 (despacho
+7.1) e, em anexo, novas vias do quadro reivindicatório (total de 08 reivindicações), as quais
+foram aceitas e analisadas, conforme solicitação. Estas modificações estão consideradas no
+Quadro 1.
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               No da Petição           Data
+
+Relatório Descritivo                                    1 a 15               870190113380          05/11/2019
+Quadro Reivindicatório                                   1a2                 870210028368          25/03/2021
+Desenhos                                                    1                870180042003          18/05/2018
+Resumo                                                      1                870190113380          05/11/2019
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                               Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                     X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                             X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                       X
+O pedido está de acordo com disposto no art. 32 da LPI                                        X
+Comentários/Justificativas ______________________________
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1 de 5
+                                           BR112018010230-0
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+Comentários/Justificativas ______________________________
+
+
+                           Quadro 4  Documentos citados no parecer
+ Código                                  Documento                             Data de publicação
+    D1                                 US2013289311                                31/10/2013
+    D2                                 WO2014159484                                02/10/2014
+    D3                                 WO2013015955                                31/01/2013
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                    1a8
+            Aplicação Industrial
+                                                        Não                     -----
+                                                         Sim                    1a8
+                 Novidade
+                                                        Não                     -----
+                                                         Sim                    -----
+            Atividade Inventiva
+                                                        Não                     1a8
+
+Comentários/Justificativas
+
+      Em 25/03/2021, por meio da petição 870210028368, a Requerente apresentou
+manifestação em resposta ao parecer emitido, notificado na RPI 2610, de 12/01/2021 (despacho
+7.1) e, em anexo, novas vias do quadro reivindicatório (total de 08 reivindicações), as quais
+foram aceitas e analisadas, conforme solicitação. Estas modificações estão consideradas no
+Quadro 1.
+      O novo quadro reivindicatório modificado submetido para exame foi aceito, uma vez que
+as alterações efetuadas limitam-se à matéria inicialmente revelada e atendem ao objetivo de
+melhor esclarecer ou definir a matéria objeto de proteção, atendendo, portanto, ao disposto no
+Artigo 32 da Lei nº 9.279/96 (LPI).
+      Em sua manifestação a requerente esclareceu que nenhum dos componentes metálicos
+descritos na Tabela 2 de D1 compreende uma espécie catalítica adequada para hidrogenação,
+em que uma ou mais espécies catalíticas adequadas para hidrogenação são espécies sólidas,
+sem suporte, selecionadas de um ou mais metais de transição dos Grupos 8, 9 ou 10 da Tabela
+Periódica. Além disso, como reconhecido pelo INPI, D1 não revela fosfotungstato de sódio.
+
+
+
+
+                                                                                        Página 2 de 5
+                                       BR112018010230-0
+
+
+      As alegações da requerente com relação ao documento D1 foram consideradas
+procedentes em parte, tendo em vista que D1 (resumo e reivindicação 1) ensina processos para
+a preparação de um ,-Cn-diol, a partir de uma matéria-prima compreendendo um C n-
+oxigenado, em que o processo compreende o contato da matéria-prima com gás hidrogênio, na
+presença de um catalisador que compreende Cu, um óxido de Cu ou suas misturas; um
+componente de heteropoliácido compreendendo H3[P(W3O10)4], H4[Si(W3O10)4], H4[P(Mo3O10)4],
+H4[Si(Mo3O10)4], Cs2,5H0,5[P(W3O10)4], CS2,5H0,5[Si (W3O10)4], ou suas misturas; opcionalmente, um
+segundo componente de metal compreendendo Cr, um óxido de Cr; Ni, um óxido de Ni (Grupo
+10 da Tabela Periódica); Mn, um óxido de Mn; Fe, um óxido de Fe (Grupo 8), Co, um óxido de
+Co (Grupo 9); Mo, um óxido de Mo; W, um óxido de W; Re, um óxido de Re; Zn ou um óxido de
+Zn; Ag, um óxido de Ag, SiO2 ou Al2O3; opcionalmente, pelo menos um promotor compreendendo
+Na, K, Mg. Rh, Cs, Ca, Sr, Ba, Ce ou suas misturas; e opcionalmente um suporte.
+      Assim sendo, do mesmo modo como ocorre no presente pedido, os ensinamentos de D1
+já indicam a utilização de uma ou mais espécies catalíticas adequadas para hidrogenação,
+selecionadas de um ou mais metais de transição do Grupo 8 (Fe, Ru, Os, Hs), do Grupo 9 (Co,
+Rh, Ir, Mt) e do Grupo 10 (Ni, Pd, Pt, Ds) da Tabela Periódica dos Elementos. Ademais, D1
+menciona que o uso de um suporte catalítico é opcional, ou seja, as espécies catalíticas podem
+ser mássicas (sem suporte).
+      Com relação às alegações da requerente, de que o documento D1 não ensina uma ou
+mais espécies contendo fosfotungstato de sódio, conforme pleiteado no presente pedido, cabe
+ressaltar que sódio e césio são elementos do Grupo I da Tabela Periódica dos Elementos e os
+elementos em um grupo têm configurações semelhantes, na camada de elétrons mais externa
+dos seus átomos. Visto que a maioria das propriedades químicas estão relacionadas com as
+interações dos elétrons exteriores, isto tende a dar aos elementos do mesmo grupo
+propriedades físicas e químicas semelhantes. Portanto, decorreria de uma maneira óbvia ou
+evidente para um técnico no assunto substituir césio por sódio com real expectativa de êxito.
+      No tocante ao documento D2, são acatadas as argumentações da requerente de que,
+diferentemente do processo pleiteado no presente pedido, o catalisador de D2 é utilizado em um
+processo de hidrodeoxigenação, o qual produz alcanos lineares de cadeia longa e D2 não
+fornece um sistema catalítico compreendendo uma ou mais espécies contendo fosfotungstato de
+sódio. Contudo, o documento D2 ensina um sistema catalítico constituído de um sal de césio do
+ácido fosfotungstíco, compreendendo platina ligada ao mesmo, numa quantidade de 0,25 a 20%
+p/p e de acordo com as alegações da própria requerente, D2 (página 21) fornece exemplos de
+metais do Grupo IB, VIB ou VIII da Tabela Periódica, o que significa que o componente (i) de D2,
+portanto, pode ser um catalisador compreendendo cerca de 0,1% a cerca de 10% em peso de
+um metal selecionado do Grupo 6, 8, 9, 10 ou 11 da nova Tabela Periódica IUPAC.
+      Relativamente ao documento D3, reitera-se que D3 descreve um processo para a
+preparação de polióis, como etileno e propilenoglicol, a partir de sacarídeos, usando um
+catalisador que compreende ácido fosfotúngstico e níquel suportado por Norit.
+
+
+
+
+                                                                                     Página 3 de 5
+                                       BR112018010230-0
+
+
+      Mais especificamente, o sistema catalisador de D3 é constituído de um componente não
+suportado que compreende um composto selecionado do grupo de compostos de tungstênio e
+de molibdênio, e de qualquer combinação dos mesmos, e um componente suportado que
+compreende um componente de metal ativo, selecionado do grupo que consiste em Pt, Pd, Ru,
+Rh, Ni, Ir, e combinações dos mesmos, em um suporte de catalisador sólido.
+      A quantidade de catalisador usado em relação ao peso total da matéria-prima, conforme
+divulgado em D3, está dentro da faixa reivindicada no presente pedido. Os intervalos de
+temperatura e pressão divulgados em D3 (parágrafo [0031]), de 100°C a 350°C e pressão
+superior a 1 MPa, também estão dentro dos intervalos pleiteados no presente pedido.
+      Todavia, cabe destacar que, embora o documento D3 não sugira, explicitamente, a
+necessidade de um sistema catalisador compreendendo fosfotungstato de sódio no mesmo, o
+referido documento ensina (reivindicação 9) que os compostos de tungstênio podem ser
+selecionados de tungstatos, compreendendo pelo menos um elemento do Grupo I ou do Grupo
+II, e heteropoli-compostos de tungstênio. Cabe ressaltar que fosfotungstatos são heteropoli-
+compostos de tungstênio e que o documento D3 também já indica o uso de elementos do Grupo
+I da Tabela Periódica dos Elementos.
+      Os catalisadores divulgados em D1 são usados em um processo para a preparação de
+(alfa, ômega)-dióis com, pelo menos, cinco átomos de carbono. D1, então, pode ser visto como
+relacionado a um processo análogo em relação ao processo divulgado em D3.
+      Os catalisadores divulgados em D1 e D3 são ambos fosfotungstatos usados em
+combinação com um componente de metal. Os catalisadores de D1 e D3 são, portanto,
+considerados catalisadores que são usados no mesmo tipo de processo, que é a preparação de
+álcoois de sacarídeos. Portanto, um técnico no assunto teria um incentivo para consultar D1
+para resolver o problema técnico relacionado ao fornecimento de catalisadores alternativos, que
+podem ser usados na preparação de MEG, a partir de sacarídeos. D1 ensina que o componente
+de metal usado no catalisador pode ser combinado com uma variedade de heteropoliácidos. D1
+divulga uma lista de tais possíveis heteropoliácidos no parágrafo [0069]. Neste parágrafo são
+divulgados heteropoliácidos trocados com césio. Um heteropoliácido permutado com césio
+também é divulgado em exemplos de trabalho específicos (ver Tabelas). Portanto, considera-se
+que um técnico no assunto seria incentivado a aplicar os catalisadores ensinados em D1 ou em
+D2 ao processo de D3, com real expectativa de sucesso.
+      Em sua manifestação a requerente declarou que com o uso de um sistema catalisador
+compreendendo uma ou mais espécies contendo fosfotungstato de sódio, o processo para
+produzir monoetilenoglicol, a partir de uma alimentação de carboidratos, alcança melhores
+rendimentos totais do produto MEG desejável, mas também reduz a produção de subprodutos
+para uma variedade de diferentes fontes de carboidratos. O sistema catalisador compreendendo
+uma ou mais espécies contendo fosfotungstato de sódio também produz menos subprodutos do
+que os sistemas catalisadores de uma ou mais espécies contendo fosfotungstato de césio (vide
+Tabela 2).
+
+
+
+
+                                                                                   Página 4 de 5
+                                         BR112018010230-0
+
+
+      A partir dos resultados apresentados na Tabela 2 do presente pedido de patente, é
+evidente que sistemas catalisadores E a H, de acordo com a presente invenção, não somente
+geram os maiores valores de monoetilenoglicol, mas também o maior rendimento total de
+monoetilenoglicol, monopropilenoglicol e hidroxiacetona (vide parágrafos [063], [064] e [065] do
+presente pedido de patente).
+         De modo surpreendente, o uso dos sistemas catalisadores E e G resulta em uma razão
+de C2:C3 muito alta (MEG:(MPG+HA)).
+      Além disso, sistemas catalisadores G e H (Fosfotungstato de césio e Ni Raney), de
+acordo    com    a   presente   invenção,    geram     rendimentos   marginalmente     maiores   de
+monoetilenoglicol em relação aos sistemas catalisadores E e F (Fosfotungstato de sódio e 1%
+de Ru em SiO2), também de acordo com a presente invenção.
+      Assim sendo, os resultados obtidos corroboram com o fato de que não há diferença entre
+o uso de césio ou de sódio, sendo a melhoria nos resultados obtidos atribuída apenas ao fato de
+usar-se um metal do Grupo I da Tabela Periódica dos Elementos, independentemente de qual
+seja o metal escolhido dentro do referido grupo.
+      Desta forma, as argumentações da requerente não foram consideradas suficientes para
+contornar as objeções efetuadas com relação a falta de atividade inventiva do presente pedido
+de patente, em relação ao estado da técnica citado (D1-D3).
+
+
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º e Art. 13 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                                  Rio de Janeiro, 16 de abril de 2021.
+
+
+
+
+Carla Maria Salerno Polato
+Pesquisador/ Mat. Nº 1485559
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                        Página 5 de 5
+

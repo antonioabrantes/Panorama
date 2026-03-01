@@ -1,0 +1,504 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0917716-7              N.° de Depósito PCT: IB2009/006825
+ Data de Depósito:                   28/08/2009
+ Prioridade Unionista:               US 61/190,486 (28/08/2008)
+ Depositante:                        Novartis AG (CH)
+ Inventor:                           Michael Broeker
+ Título:                             Produção de esqualeno a partir de leveduras hiperprodutoras 
+
+                                                              PARECER
+
+
+Em 20/12/2019, por meio da petição 870190137773, o Depositante apresentou modificações no
+pedido em resposta ao parecer emitido no âmbito da Resolução Nº 241/2019, notificado na RPI
+2542 de 24/09/2019 segundo a exigência preliminar (6.21).
+
+
+
+Por meio da RPI 2569 de 31/03/2020, foi notificado o parecer técnico de ciência de parecer (7.1),
+no qual a patenteabilidade foi contestada mediante os documentos SPANOVA et al., 2008 (D1),
+WO0168129A2 (2001, D2), CHANG et al., 2008 (D3) e KAMIMURA et al., 1994 (D4) e em
+decorrência do descumprimento às disposições dos Art. e 25 da LPI balizados nas Diretrizes de
+Exame de Pedidos de Patente na Área de Biotecnologia (Resol. INPI/PR nº 144/2015) e Inst.
+Normativa nº 30/2013.
+
+
+Através da petição nº 870200080692 de 29/06/2020, a requerente apresenta manifestação em defesa
+da novidade e atividade inventiva sem apresentar novo quadro reivindicatório.
+
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim   Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                         X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)          X
+
+O pedido refere-se a Sequências Biológicas                                                                   X
+
+Comentários/Justificativas
+Anvisa
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                              Página 1
+                                          PI0917716-7
+O pedido não foi encaminhado à ANVISA, pois foi considerado que a matéria pleiteada não
+necessita da prévia anuência, com base no disposto no art. 229-C da LPI, incluído pela Lei
+10.196/2001.
+
+
+Acesso ao patrimônio genético nacional
+
+Patrimônio Genético: Até o presente exame não houve manifestação voluntária da requerente
+sobre a ocorrência (ou não) de acesso ao patrimônio genético nacional para obtenção do objeto
+do presente pedido. Dessa forma, tendo em vista o cumprimento da legislação brasileira de
+acesso ao patrimônio genético (Lei nº 13.123/2015), cujo art. 47 estabelece que "a concessão
+de direito de propriedade intelectual pelo órgão competente sobre produto acabado ou sobre
+material reprodutivo obtido a partir de acesso a patrimônio genético ou a conhecimento
+tradicional associado fica condicionada ao cadastramento ou autorização, nos termos desta Lei",
+e, com base no disposto no art. 220 da LPI, visando a acelerar o processamento do presente
+pedido, solicita-se à requerente que se manifeste quanto a esta questão, enquadrando o
+presente pedido em um dos casos discriminados abaixo:
+
+   1. Caso o objeto do presente pedido NÃO tenha sido obtido em decorrência de acesso à
+       amostra de componente do patrimônio genético nacional, ou do conhecimento tradicional
+       associado, realizado a partir de 30 de junho de 2000, o depositante deverá: (i) declarar ao
+       INPI que o objeto do pedido não foi obtido em decorrência de acesso ao patrimônio
+       genético nacional, realizado a partir de 30 de junho de 2000.
+       Para tal, o depositante deverá gerar uma Guia de Recolhimento da União (GRU) código
+       273, relativa à Declaração Negativa de Acesso ao Patrimônio Genético, e protocolá-la
+       através do Sistema de Peticionamento Eletrônico do INPI, ou peticionar no INPI a GRU
+       código 273 junto do Formulário FQ012 - Declaração Negativa de Acesso ao Patrimônio
+       Genético.
+   2. Caso o objeto do presente pedido tenha sido obtido em decorrência de acesso à amostra
+       de componente do patrimônio genético nacional, ou conhecimento tradicional associado,
+       realizado a partir de 30 de junho de 2000, o depositante deverá: (i) informar ao INPI o
+       número e a data da Autorização/Cadastro de acesso correspondente; e (ii) informar ao
+       INPI a origem do material genético e do conhecimento tradicional associado, quando for o
+       caso.
+       Para tal, o depositante deverá gerar uma Guia de Recolhimento da União (GRU) código
+       264, relativa à Declaração Positiva de Acesso ao Patrimônio Genético, e protocolá-la
+       através do Sistema de Peticionamento Eletrônico do INPI, ou peticionar no INPI a GRU
+       código 264 junto do Formulário FQ011 - Declaração de Acesso ao Patrimônio Genético.
+
+
+Observação: De acordo com a Portaria CGEN nº 1 de 03/10/2017, o Sistema Nacional de
+Gestão do Patrimônio Genético e do Conhecimento Tradicional Associado (SisGen) será
+disponibilizado a partir de 06/11/2017. Assim sendo, com base no art. 38 (I) da Lei nº
+13.123/2015, o usuário que realizou acesso ao PG e/ou CTA entre 30/06/2000 e a data de
+entrada em vigor da Lei nº 13.123/2015, em desacordo com a legislação vigente à época, deverá
+
+                                                                                         Página 2
+                                               PI0917716-7
+
+regularizar-se no prazo de um ano contado a partir de 06/11/2017. Nos casos de pedidos de
+patente em tramitação no INPI sem a devida Autorização/Cadastro, o depositante deverá
+apresentar uma Declaração Positiva de Acesso ao Patrimônio Genético - código 264, porém
+deverá deixar em branco os campos de número e data de autorização. Devendo, nestes casos,
+proceder com a sua regularização e apresentar voluntariamente ao INPI nova Declaração
+Positiva de Acesso ao Patrimônio Genético - código 264, com as informações totalmente
+preenchidas.
+
+
+                            Quadro 1  Páginas do pedido examinadas*
+           Elemento                       Páginas               n.o da Petição           Data
+Relatório Descritivo                        1-20                020110046992           09/05/2011
+Listagem de sequências em
+                                              -                          -                 -
+formato impresso
+Listagem de sequências             Código de Controle                    -                 -
+Quadro Reivindicatório                      1-3                 870190137773           20/12/2019
+Desenhos                                      -                          -                 -
+Resumo                                       1                  020110046992           09/05/2011
+      *Como não foram apresentadas modificações no pedido por meio da petição nº
+      870200080692 de 29/06/2020 em resposta ao parecer técnico (7.1, RPI 2569 de
+      31/03/2020), permanece como válido o material apresentado por meio da petição
+      870190137773 de 20/12/2019 (resposta à exigência preliminar 6.21).
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                   Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                            X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                    X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                          X
+O pedido está de acordo com disposto no art. 32 da LPI                           X
+Comentários/Justificativas
+
+Não há comentários em relação ao quadro acima.
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                   Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         X
+Comentários/Justificativas
+Através da petição nº 870200080692 de 29/06/2020, a requerente apresenta manifestação em defesa
+da novidade e atividade inventiva sem apresentar novo quadro reivindicatório.
+                                                                                               Página 3
+                                                PI0917716-7
+
+
+Na manifestação, a requerente alega que as reivindicações referem-se especificamente a um processo
+para produzir uma emulsão de óleo em água (não a um processo de diluição de esqualeno). A emulsão
+é para uso parenteral em humanos, o que a sujeita a requisitos de qualidade altamente rigorosos. As
+reivindicações descrevem as características essenciais desse processo não óbvio, especificamente: (a)
+que o esqualeno é obtido a partir de uma cepa de levedura que produz um alto rendimento de
+esqualeno; e (b) que o meio de cultura é um meio controlado e isento de produtos de origem animal.
+A presente análise ressalta que um processo deve ser definido por suas etapas, e no quadro
+reivindicatório o componente aquoso para formar a emulsão óleo-em-água para uso parenteral em
+humanos, indispensável à definição da emulsão, não foi descrito com clareza e precisão. E da forma
+como foi apresentada, as reivindicações sugerem que se trata somente de um mero processo de
+diluição de esqualeno.
+
+
+A requerente também alega que Cepas de leveduras mutantes não são necessárias e não há
+necessidade de se referir ao número de depósitos de cepas de leveduras específicas para demonstrar
+suficiência descritiva.
+A presente análise discorda de tal colocação, principalmente pelo fato das reivindicações (dependentes),
+mesmo que de forma difusa e sem clareza, informarem que o processo utiliza o esqualeno produzido
+por cepas S. cerevisiae com alterações genéticas específicas que superexpressam HMGR.
+Além disso, o entendimento sobre a necessidade de descrever com precisão os OGM mencionados nas
+reivindicações são embasados nas questões abaixo, abordadas pela própria requerente na
+manifestação, cujos textos pertinentes são, à oportunidade, trazidos à discussão:
+
+
+Conforme ensinado nos vários documentos mencionados no pedido como depositado, uma variedade
+de diferentes cepas de levedura que produzem um alto rendimento de esqualeno estavam disponíveis
+para o técnico no assunto, incluindo cepas do tipo selvagem, e todas essas cepas são adequadas para
+uso no processo pleiteado.
+Vários fatores que aumentam o rendimento de esqualeno também eram bem conhecidos no estado da
+técnica na data do depósito.
+O         documento        Performance         of           the        Third      50         Completed       ATP
+Projects           (2006)           descreve             a             modificação            da          levedura
+oleaginosa     Yarrowia     lipolytica   para   inibir   a         acetil-CoA   carboxilase    e   hiperexpressar
+HMGR, de modo que as cepas produzam esqualeno a 2% cdw. Isso demonstra que leveduras não
+Saccharomyces também podem ser manipuladas para produzir um alto rendimentode esqualeno.
+
+
+O exame ora exposto, baseando-se nas mesmas informações abordadas pela própria requerente,
+considera que é importante ponderar que o fato do processo de produção de emulsão poder empregar
+quaisquer cepas produtoras de alta quantidade de esqualeno não seria a característica técnica
+
+                                                                                                          Página 4
+                                            PI0917716-7
+diferencial do mesmo, e tampouco conferiria novidade e atividade inventiva em relação ao estado da
+técnica, a não ser que a invenção estivesse restrita ao organismo geneticamente modificado
+especialmente desenvolvido e que fosse descrito com clareza o processo de produção da emulsão à
+qual se refere.
+Tendo sido feitas essas considerações em resposta à manifestação da requerente ao parecer técnico de
+ciência de parecer anteriormente notificado (7.1, RPI 2569 de 31/03/2020), e uma vez que não foram
+apresentadas modificações no pedido em resposta ao mesmo, entende-se aqui como mantidas as
+considerações feitas sobre a séria falta de suficiência descritiva do relatório e do descumprimento às
+disposições do Art 25 da LPI, as quais seguem abaixo reapresentadas:
+
+
+Sobre o relatório descritivo
+O relatório não descreve suficientemente a invenção de forma a possibilitar sua realização por um
+técnico no assunto, contrariando o disposto no Art. 24 da LPI, com base nas Diretrizes de Exame
+de Pedidos de Patente na Área de Biotecnologia (Resol. INPI/PR nº 144/2015, item 6.0), pelos
+seguintes motivos:
+- O relatório descritivo apresenta sérios problemas de falta de suficiência descritiva que não
+podem ser sanados visto que as informações não foram fornecidas no ato de depósito.
+- O relatório não define a levedura que produz um alto rendimento de esqualeno durante a cultura
+a que se refere.
+- O relatório não descreve a Saccharomyces cerevisiae geneticamente modificada que possuiria a
+enzima     HMGR      truncada,     a    subexpressão      da    simosterol-24-metiltransferase     ou
+ergosta-5-7,24(28)-trienol-22-desidrogenase,     uma    oxidoesqualeno     ciclase   mutante,    uma
+epoxidase rompida. O microrganismo indispensável à realização do método, por ser informação
+essencial à reprodução do mesmo, deveria ter sido descrito de forma clara e precisa no relatório,
+por meio do número de depósito ou por meio das SEQ ID n° que correspondessem às
+construções necessárias ou às sequências biológicas geneticamente modificadas que
+equivalessem às características técnicas do microrganismo necessário ao processo.
+O relatório não possui exemplos de concretização da invenção nem descreve com clareza as
+formas de realização da invenção, além de, inadequadamente, incorporar por referência
+informações que seriam indispensáveis para a reprodução da invenção e deveriam constar no
+relatório, como qual seria de fato o microrganismo a ser utilizado para a realização do processo
+pleiteado, os protocolos para a obtenção dos microrganismos e da composição imunogênica. O
+relatório não traz a definição clara e precisa dos microrganismos geneticamente modificados (seja
+via número de depósito, seja por meio das sequências biológicas), a descrição da composição
+imunogênica a que se refere, como seria o kit pleiteado, seus componentes de forma clara e o
+processo de preparo do mesmo.
+Como não constam no pedido depositado, a inserção das sequências biológicas, seja no relatório,
+seja na forma de listagem de sequências, e os resultados que comprovem a concretização da
+
+                                                                                            Página 5
+                                          PI0917716-7
+invenção acarretaria descumprimento às disposições do art. 32 da LPI, de acordo com a
+Resolução 93/2013, publicada na RPI nº 2215 de 18/06/2013.
+Caso haja número de depósito do microrganismo empregado na realização do processo que
+tenha sido efetuado antes da data do depósito do pedido, conforme disposições da LPI balizadas
+nas Diretrizes de Exame de Pedidos de Patente Bloco lI (Resol. INPI/PR nº 169/2016), a inserção
+de tais informações não teria acarretado descumprimento às disposições do art. 32 da LPI, de
+acordo com a Resolução 93/2013, publicada na RPI nº 2215 de 18/06/2013.
+
+
+Sobre o relatório descritivo
+O relatório não descreve suficientemente a invenção de forma a possibilitar sua realização por um
+técnico no assunto, contrariando o disposto no Art. 24 da LPI, com base nas Diretrizes de Exame
+de Pedidos de Patente na Área de Biotecnologia (Resol. INPI/PR nº 144/2015, item 6.0), pelos
+seguintes motivos:
+- O relatório descritivo apresenta sérios problemas de falta de suficiência descritiva que não
+podem ser sanados visto que as informações não foram fornecidas no ato de depósito.
+- O relatório não define a levedura que produz um alto rendimento de esqualeno durante a cultura
+a que se refere.
+- O relatório não descreve a Saccharomyces cerevisiae geneticamente modificada que possuiria a
+enzima    HMGR       truncada,   a    subexpressão      da   simosterol-24-metiltransferase    ou
+ergosta-5-7,24(28)-trienol-22-desidrogenase,   uma   oxidoesqualeno     ciclase   mutante,    uma
+epoxidase rompida. O microrganismo indispensável à realização do método, por ser informação
+essencial à reprodução do mesmo, deveria ter sido descrito de forma clara e precisa no relatório,
+por meio do número de depósito ou por meio das SEQ ID n° que correspondessem às
+construções necessárias ou às sequências biológicas geneticamente modificadas que
+equivalessem às características técnicas do microrganismo necessário ao processo.
+O relatório não possui exemplos de concretização da invenção nem descreve com clareza as
+formas de realização da invenção, além de, inadequadamente, incorporar por referência
+informações que seriam indispensáveis para a reprodução da invenção e deveriam constar no
+relatório, como qual seria de fato o microrganismo a ser utilizado para a realização do processo
+pleiteado, os protocolos para a obtenção dos microrganismos e da composição imunogênica. O
+relatório não traz a definição clara e precisa dos microrganismos geneticamente modificados (seja
+via número de depósito, seja por meio das sequências biológicas), a descrição da composição
+imunogência a que se refere, como seria o kit pleiteado, seus componentes de forma clara e o
+processo de preparo do mesmo.
+Como não constam no pedido depositado, a inserção das sequências biológicas, seja no relatório,
+seja na forma de listagem de sequências, e os resultados que comprovem a concretização da
+invenção acarretaria descumprimento às disposições do art. 32 da LPI, de acordo com a
+Resolução 93/2013, publicada na RPI nº 2215 de 18/06/2013.
+
+                                                                                        Página 6
+                                             PI0917716-7
+Caso haja número de depósito do microrganismo empregado na realização do processo que
+tenha sido efetuado antes da data do depósito do pedido, conforme disposições da LPI balizadas
+nas Diretrizes de Exame de Pedidos de Patente Bloco lI (Resol. INPI/PR nº 169/2016), a inserção
+de tais informações não acarretaria descumprimento às disposições do art. 32 da LPI, de acordo
+com a Resolução 93/2013, publicada na RPI nº 2215 de 18/06/2013.
+
+
+Sobre o quadro reivindicatório
+O quadro reivindicatório não atende ao disposto no Art. 25 da LPI, Inst. Normativa nº 30/2013 e
+Diretrizes de Exame de Pedidos de Patente na Área de Biotecnologia (Resol. INPI/PR nº 144/2015,
+itens 5.0 e 6.0), visto que a matéria pleiteada não está definida de maneira clara, precisa e positiva,
+pois:
+
+
+Falta de fundamentação no relatório descritivo (reivindicações 1-19)
+Devido à forma ampla, sem clareza e imprecisa com a qual estão pleiteados o processo de preparo de
+emulsão óleo em água para uso parenteral e a levedura empregada para produção de esqualeno, as
+reivindicações que abordam tais matérias não possuem fundamentação no relatório descritivo.
+
+
+Falta de clareza e precisão na definição do alvo de proteção (reivindicações 1-19)
+- Não são descritas as características técnicas essenciais do processo de preparo da emulsão óleo em
+água para uso parenteral reivindicado. Não são informadas as etapas essenciais básicas. Informar que
+há a apenas a combinação de esqualeno com um componente aquoso (sem descrever quais seriam
+tais componentes) não é suficientes para descrever o objeto de proteção. Não descreve os
+componentes que teriam papel no resultado final a que se propõem a emulsão e que representem algo
+além de uma mera diluição do esqualeno (ainda mais considerando que é para a aplicação e
+funcionamento parenteral em humanos), tanto em aspecto qualitativo quanto quantitativo.
+- Não define com clareza o microrganismo indispensável à realização do processo. Cabe sinalizar que a
+definição clara e precisa do microrganismo é importante, considerando-se que, segundo o estado da
+técnica (e o próprio pedido), dependendo da procedência do esqualeno, este pode apresentar diferentes
+propriedades citotóxicas, diferenças de qualidade e funcionamento que interferem na possibilidade de
+aplicação parenteral em humanos. Nesse ínterim, maiores informações sobre o cultivo e etapa de
+estímulo da produção do esqualeno são também necessárias. Importante apontar que, dependendo das
+peculiaridades e características técnicas (mutações, genes alvo) dos microrganismos geneticamente
+modificados, pode ser gerada falta de unidade de invenção, visto que a característica técnica inventiva
+do processo estaria no microrganismo desenvolvido em si e no perfil de produção e qualidade do
+esqualeno produzido, e não apenas na simples adição de um esqualeno cuja proveniência seria
+irrelevante, contanto que advenha de uma levedura qualquer.
+Da forma como está descrito na reivindicação principal, o microrganismo em si não faria diferença,
+contanto que apresente um alto rendimento de produção de esqualeno em cultura. Entretanto, isso gera
+
+                                                                                              Página 7
+                                             PI0917716-7
+falta de clareza em relação ao processo de preparo alvo de proteção e falta de coerência em relação
+aos vários microrganismos geneticamente modificados (Saccharomyces cerevisiae) que são descritos
+nas reivindicações dependentes como especificações ou alternativas para a realização e caracterização
+técnica do processo pleiteado.
+
+
+Portanto, o relatório descritivo permanece por não cumprir as disposições do Art. 24 da LPI e o relatório
+descritivo continua inadequado às disposições do Art. 25 da LPI balizados nas Diretrizes de Exame de
+Pedidos de Patente na Área de Biotecnologia (Resol. INPI/PR nº 144/2015).
+
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                                 Documento                                 Data de publicação
+    D1      SPANOVA, M. et al. Squalene storage and subcellular                            07/2008
+            distribution in the yeast           Saccharomyces cerevisiae.
+            CHEMISTRY AND PHYSICS OF LIPIDS, (aug 2008), vol. 154S,
+            page S35, See Abstract (from the 49th International
+            Conference on the Bioscience of Lipids); early online
+            publication (Available online 8 July 2008).
+            DOI: http://dx.doi.org/10.1016/j.chemphyslip.2008.05.096
+    D2       WO0168129A2                                                                  20/09/2001
+    D3      CHANG, M-H. et al. The isolation and characterization of                       04/2008
+            Pseudozyma sp. JCC207, a novel producer of squalene,
+            APPLIED      MICROBIOLOGY      AND   BIOTECHNOLOGY,
+            (20080226), vol. 78: 963  972
+            DOI: 10.1007/s00253-008-1395-4
+    D4      KAMIMURA, N. et al. Construction of squalene-accumulating                       1994
+            Saccharomyces cerevisiae mutants by gene disruption through
+            homologous recombination. APPLIED MICROBIOLOGY AND
+            BIOTECHNOLOGY, (1994), vol. 42, pages 353  357
+            URL:https://link.springer.com/content/pdf/10.1007%2FBF009027
+            41.pdf
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade               Cumprimento                  Reivindicações
+                                                       Sim                            -
+           Aplicação Industrial
+                                                       Não                          1-19
+
+                                                       Sim                          1-19
+                 Novidade
+                                                       Não                            -
+
+                                                       Sim                            -
+            Atividade Inventiva
+                                                       Não                          1-19
+
+                                                                                                Página 8
+                                               PI0917716-7
+
+Comentários/Justificativas
+Através da petição nº 870200080692 de 29/06/2020, a requerente apresenta manifestação em defesa
+da novidade e atividade inventiva sem apresentar novo quadro reivindicatório.
+
+
+Em relação à manifestação da requerente em defesa do cumprimento dos Requisitos de
+Patenteabilidade novidade e atividade inventiva apresentada pela requerente, como já discutido nos
+comentários sobre o Quadro 3, a análise ora exposta reitera que discorda dos argumentos
+apresentados, pois os mesmos não estão fundamentados em um relatório que possua informações
+suficientes para suportar as alegações tampouco na descrição clara, precisa, fundamentada e positiva
+da matéria alvo de proteção.
+
+
+Como já comentado no presente parecer, considera-se aqui que o pleito poderia possuir potencial de
+novidade e atividade inventiva em relação ao estado da técnica, caso fosse restrito ao organismo
+geneticamente modificado especialmente desenvolvido, tivesse apresentado descrição clara do
+processo de produção da emulsão à qual se refere e revelasse de forma suficiente a matéria pleiteada, o
+que não ocorreu.
+
+
+Uma vez que não foram apresentadas modificações no pedido em resposta ao parecer técnico de
+ciência de parecer anteriormente notificado (7.1, RPI 2569 de 31/03/2020), permanecem válidas as
+considerações feitas sobre a falta de atividade inventiva, as quais seguem abaixo reapresentadas:
+
+
+À oportunidade, cabe ressaltar que a LPI, balizada nas Diretrizes de Exame de Pedidos de
+Patente na Área de Biotecnologia (Resol. INPI/PR nº 144/2015), possui peculiaridades em
+relação às normas e às regras aplicáveis para exame e concessão de patentes, com base no
+princípio da soberania nacional, o qual rege que as patentes obtidas em um país-membro são
+independentes entre si, segundo as determinações da Convenção da União de Paris, da qual o
+Brasil é parte, na qual foi definido que, no Art. 4 bis: ("1) As patentes requeridas nos diferentes
+países da União por nacionais de países da União serão independentes das patentes obtidas
+para a mesma invenção nos outros países, membros ou não da União".
+
+
+
+Foi considerado que a matéria, conforme reivindicada, recai sobre o estado da técnica.
+
+D1 revela o acúmulo e a distribuição subcelular de esqualeno em leveduras Saccharomyces
+cerevisiae, discutindo as dificuldades envolvidas no isolamento e obtenção do óleo de outras
+fontes costumeiramente empregadas, além de discutir aspectos sobre tais óleos serem
+inapropriados para o uso cosmético e farmacêutico. O documento demonstra a importância e a
+perspectiva de uso do esqualeno (não lipotóxico e não citotóxico) obtido por meio de leveduras
+Saccharomyces cerevisiae cultivadas sob condições anaeróbicas ou com a deleção do gene
+hem1    e   detecta    um      conjunto   de    mutações     que   (quatro   alterações   específicas
+                                                                                              Página 9
+                                            PI0917716-7
+
+dga1lro1are1are2) que conferem aos mutantes um perfil diferenciado de acúmulo do
+esqualeno em microssomos e membrana plasmática, o que facilita a purificação (resumo).
+
+D2 revela o uso de esqualeno como adjuvantes em vacinas (resumo, reivindicações).
+
+D3 revela o isolamento e caracterização de uma levedura Pseudozyma sp. produtora eficiente
+de esqualeno, o qual apresenta características que possibilitam o uso comercial (resumo) como
+componente em emulsões, além de uso terapêutico e farmacêutico (introdução), descrevendo as
+características do meio de cultura e o processo de cultivo que são apropriados para a produção
+do esqualeno, além de otimização das condições de cultivo, isolamento e purificação do óleo
+(material e métodos e resultados).
+
+D4 revela que Saccharomyces cerevisiae geneticamente modificados, por meio de construções
+genéticas para transformação e recombinação homólogas que levam à interrupção do gene
+leu2, e alta produção e acúmulo de esqualeno (resumo, material e métodos, resultados), já eram
+obtidos.
+
+Mediante os ensinamentos de D1-D4, aliados, a invenção proposta é entendida, por um técnico
+no assunto, como algo já em realização pelo estado da técnica, sem apresentar diferenciais
+técnicos consideráveis, de maneira que o presente pedido não possui atividade inventiva
+(reivindicações 1-19). A emulsão óleo em água do esqualeno para uso terapêutico poderia ser
+também compreendida como um conhecimento intrínseco, já subentendido pelas práticas
+realizadas no estado da arte.
+
+Além disso, a ausência de exemplos de concretização, de resultados e de testes comparativos, a
+não apresentação de contribuições positivas inesperadas ao estado da técnica (como melhora
+na produtividade, eficiência, qualidade, redução de tempo, custos dentre outros aspectos)
+impactam fortemente a atividade inventiva, acarretam falta de aplicação industrial (em
+descumprimento ao Art 15 da LPI) e impossibilitam identificar diferenciais técnicos em relação
+aos processos similares realizados pelo estado da técnica.
+
+
+
+Portanto, a análise ora exposta, pautando-se nos argumentos acima, considera que o presente pedido
+não cumpre os demais Requisitos de Patenteabilidade estipulados pela LPI.
+
+
+Conclusão
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -    não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -    não atende ao requisito de aplicação industrial (Art .8º combinado com Art. 15 da LPI)
+
+      -    não apresenta suficiência descritiva (Art. 24 da LPI)
+
+
+                                                                                         Página 10
+                                          PI0917716-7
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 02 de agosto de 2020.
+
+
+
+
+Andre Luiz Jeovanio da Silva
+Pesquisador/ Mat. Nº 2315191
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+009/18
+
+
+
+
+                                                                                       Página 11
+

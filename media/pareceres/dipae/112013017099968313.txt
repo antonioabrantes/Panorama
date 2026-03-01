@@ -1,0 +1,512 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR112013017099-9           N.° de Depósito PCT: JP2011/078802
+ Data de Depósito:     13/12/2011
+ Prioridade Unionista: JP 2011-002466 (07/01/2011); JP 2011-202308 (15/09/2011); JP
+                       2011-270545 (09/12/2011)
+ Depositante:          NIHON SHOKUHIN KAKO CO., LTD. (JP)
+ Inventor:             NORIHISA HAMAGUCHI, HITOSHI TAKAGUCHI, YOSHINORI
+                       FUJIMOTO, YUTAKA KIMOTO, HIROKAZU HIRAI, MASAYASU
+                       TAKADA
+ Título:               Método para produzir um policondensado de sacarídeo ou um
+                       produto reduzido do mesmo, policondensado de sacarídeo ou um
+                       produto reduzido do mesmo, ou uma composição de policondesado
+                       de sacarídeo, produto de alimento ou de bebida, método para produzir
+                       uma bebida alcoólica aromatizada de cerveja, e; ração para animais
+                       domésticos 
+
+                                                              PARECER
+
+
+          Este pedido de Patente de Invenção entrou em Fase Nacional via petição NPRJ
+020130058703 de 02/07/2013 e trata de um método para produzir um policondensado de
+sacarídeo, utilizando carvão ativado como catalisador e do método para produzir uma bebida
+alcoólica aromatizada de cerveja que consiste da adição do policondensado de sacarídeo.
+
+          O pedido foi submetido a Exame Técnico e recebeu parecer de Ciência, notificado pela
+RPI 2474 de 05/06/2018. Onde se lê no 2º item do 1º parágrafo da página 6/9 do parecer anterior:
+O resumo detalha a matéria pleiteada, não podendo ser considerado (...) (grifo nosso), leia-se O
+resumo não detalha a matéria pleiteada, não podendo ser considerado (...) (grifo nosso).
+
+          Através da petição 870180125458 de 03/09/2018, o requerente se manifestou ao parecer
+desfavorável, apresentando RAZÕES, juntamente com novas vias do relatório descritivo, do
+quadro reivindicatório e do resumo.
+
+          O 2º exame resultou em parecer de Ciência, notificado pela RPI 2503 de 26/12/2018.
+
+          O requerente se manifestou ao parecer desfavorável, mediante petição 870190027624 de
+22/03/2019, em que apresentou MANIFESTAÇÃO SOBRE O PARECER TÉCNICO NEGATIVO
+NO PEDIDO BR112013017099-9 DE 13/12/2011, juntamente com novas vias do relatório
+descritivo, do quadro reivindicatório e do resumo.
+
+          Os comentários a seguir estão baseados:
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@         Página 1 de 10
+                                             BR112013017099-9
+
+    na Lei da Propriedade Industrial (LPI) - Lei nº 9.279, de 14 de maio de 1996;
+
+    na Instrução Normativa PR nº 030/2013 de 04/12/2013 (IN 30/2013), publicada na RPI
+         2241 de 17/12/2013, que dispõe sobre estabelecimento de normas gerais de
+         procedimentos para explicitar e cumprir dispositivos da Lei de Propriedade Industrial - Lei
+         n° 9279, de 14 de maio de 1996, no que se refere às especificações dos pedidos de
+         patente;
+
+    na Instrução Normativa PR nº 031/2013 de 04/12/2013 (IN 31/2013), publicada na RPI
+         2241 de 17/12/2013, que dispõe sobre estabelecer normas gerais de procedimentos para
+         explicitar e cumprir dispositivos da Lei de Propriedade Industrial - Lei n° 9279, de 14 de
+         maio de 1996, no que se refere às especificações formais dos pedidos de patente;
+
+    na Resolução nº 93/2013 de 10/06/2013 (Resol. 93/2013), publicada na RPI 2215 de
+         18/06/2013, que institui as diretrizes sobre a aplicabilidade do disposto no artigo 32 da Lei
+         9279/96 nos pedidos de patentes, no âmbito do INPI;
+
+    na Resolução nº 124/2013 de 04/12/2013 (Resol. 124/2013), publicada na RPI 2241 de
+         17/12/2013, que institui as diretrizes de exame de pedidos de patente  Conteúdo do
+         Pedido de Patente
+
+
+
+  Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas Sim                                 Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                          x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)     x
+
+O pedido refere-se a Sequências Biológicas                                                                    x
+
+Comentários/Justificativas
+
+         Em resposta ao parecer de exigência 6.6, notificado pela RPI nº 2449 de 12/12/2017, o
+requerente se manifestou através da petição 870180003915 de 16/01/2018, declarando que o
+objeto do presente pedido de patente de invenção não foi obtido em decorrência de acesso a
+amostra de componente do patrimônio genético nacional, realizado a partir de 30 de junho de
+2000.
+
+
+
+                              Quadro 1  Páginas do pedido examinadas
+             Elemento                       Páginas                 n.o da Petição                    Data
+Relatório Descritivo                        1 a 111                 870190027624                 22/03/2019
+Listagem de sequências em
+                                                ---                         ---                        ---
+formato impresso
+Listagem de sequências                          ---                         ---                        ---
+
+
+
+
+                                                                                                 Página 2 de 10
+                                         BR112013017099-9
+
+Quadro Reivindicatório                    1e2                   870190027624                 22/03/2019
+Desenhos                                  1a4                 NPRJ 020130058703              02/07/2013
+Resumo                                      1                   870190027624                 22/03/2019
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                             Sim                   Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                               x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                       x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                        x
+O pedido está de acordo com disposto no art. 32 da LPI                         x
+Comentários/Justificativas
+
+         As novas vias do relatório descritivo e do resumo, apresentadas na petição
+870190027624 de 22/03/2019, não excedem a matéria inicialmente revelada, estando de acordo
+com o art. 32 da LPI, que diz:
+
+       Para melhor esclarecer ou definir o pedido de patente, o depositante poderá efetuar
+       alterações até o requerimento do exame, desde que estas se limitem à matéria
+       inicialmente revelada no pedido..
+
+       Quanto à matéria, o novo quadro reivindicatório (petição 870190027624 de 22/03/2019)
+apresenta a equivalência de matéria pleiteada com o quadro reivindicatório examinado nos
+pareceres anteriores (petição NPRJ 020130058703 de 02/07/2013 conforme descrito na Tabela
+1.
+
+       Tabela 1. Relação de equivalência entre a matéria pleiteada no novo quadro
+reivindicatório (petição 870190027624 de 22/03/2019) e a matéria pleiteada no quadro
+reivindicatório examinado nos pareceres anteriores (petição NPRJ 020130058703 de
+02/07/2013).
+
+                 Novo Quadro Reivindicatório                          Quadro Reivindicatório
+                                                                   Examinado no Parecer Anterior
+  Reiv. independente 1 (R1)  Método para produzir um                       Reiv. 1 e 2
+ policondensado de sacarídeo ou um produto reduzido do
+                        mesmo
+                  Reiv. 2 (dependente de R1)                                       Reiv. 3
+            Reiv. 3 (dependente da reiv. 1 ou 2)                                   Reiv. 4
+           Reiv. 4 (dependente da reiv. 1, 2 ou 3)                                 Reiv. 5
+                 Reiv. 5 (dependente da reiv. 4)                                   Reiv. 6
+Reiv. 6 (dependente da reiv. 1, 2, 3, 4 ou 5)  Método para                Reiv. 17 e 18
+  produzir uma bebida alcoólica aromatizada de cerveja
+
+
+                                                                                             Página 3 de 10
+                                           BR112013017099-9
+
+       Como pode ser observado na Tabela 1, o novo quadro reivindicatório (petição
+870190027624 de 22/03/2019) não excede a matéria inicialmente revelada e não amplia o
+escopo de proteção, corroborando com o art. 32 da LPI e com a Resol. 93/2013, que diz:
+
+        (iv) Após a solicitação do exame do pedido de patente serão, ainda, aceitas as
+        modificações no QR, voluntárias ou resultantes de exame técnico (despachos 6.1 ou
+        7.1), desde que estas sirvam, exclusivamente para restringir a matéria reivindicada e não
+        alterem o objeto pleiteado. Exemplos não exaustivos de formas de restrição a serem
+        aceitas, incluem:
+
+              - inserção de informações de uma reivindicação dependente a uma reivindicação
+              independente;
+
+              - restrição de faixas de parâmetros;
+
+              - retirada de um elemento inicialmente apresentado de forma alternativa
+              (inicialmente, previa-se que determinado produto compreende os itens A ou B, e o
+              novo quadro prevê apenas o item A);
+
+              adequação da natureza do pedido de patente (grifo nosso).
+
+
+
+                Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                               Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI          x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                        x
+Comentários/Justificativas
+
+       O novo resumo está de acordo com o item I do art. 7º da IN 30/2013, corrigindo a
+irregularidade mencionada no último item do penúltimo parágrafo da página 7/11 do parecer
+anterior.
+
+       O novo quadro reivindicatório, assim como as novas vias do relatório descritivo e do
+resumo, apresentam numeração de página de acordo com o padrão de numeração
+convencionado pelo item I do art. 39 da IN 31/2013, que diz que as folhas relativas ao relatório
+descritivo,   às   reivindicações,   aos    desenhos     e   ao    resumo   deverão   ser   numeradas
+consecutivamente, com algarismos arábicos, indicando o número da página e o número total de
+páginas de cada uma destas partes, como por exemplo, 1/3, 1 de 3, 1-3, etc, corrigindo a
+irregularidade apontada no penúltimo item do penúltimo parágrafo da página 7/11 do parecer
+anterior.
+
+       No parágrafo 207 do novo relatório descritivo, o requerente alterou o trecho o material de
+teste suportado pelo menos número de voluntários foi classificado como B por o material de
+teste suportado pelo mesmo número de voluntários foi classificado como B, tal como alegado no
+
+
+
+                                                                                       Página 4 de 10
+                                          BR112013017099-9
+
+último parágrafo da página 6/122 de sua manifestação, corrigindo a irregularidade mencionada no
+penúltimo parágrafo da página 6/11 do parecer anterior, frente ao art. 24 da LPI.
+
+       Permanecem no novo quadro reivindicatório os seguintes trechos e/ou palavras,
+consideradas imprecisas no parecer anterior, que não atendem ao disposto no art. 25 da LPI:
+compreende (reiv. 1, 6); um ou mais sacarídeos ou derivados dos mesmos (reiv. 1); pressão
+reduzida (reiv. 2); produto reduzido do mesmo (reiv. 1, 4 e 6); ou mais (reiv. 1, 5). A respeito
+de tais termos, é possível afirmar que:
+
+      É pertinente a afirmação do requerente de que:
+
+            O trecho "um ou mais sacarídeos ou derivados dos mesmos" na reivindicação 1 foi
+            alterado para um ou mais sacarídeos selecionados a partir de um monossacarídeo,
+            um oligossacarídeo, e um polissacarídeo, ou derivados dos mesmos. Suporte para
+            esta emenda pode ser encontrado na reivindicação original 2 [do quadro
+            reivindicatório presente na petição NPRJ 020130058703 de 02/07/2013], a qual foi
+            incorporada à reivindicação 1 (1º item da página 6/122 da manifestação do
+            requerente),
+
+       alterando-se opinião sobre a imprecisão do termo um ou mais sacarídeos ou derivados
+       dos mesmos (reiv. 1) e o não atendimento ao art. 25 da LPI.
+
+      Também é pertinente a alegação do requerente de que O termo produto reduzido foi
+       mantido nas novas reivindicações 1 e 6 porque o produto reduzido ou redução é um
+       termo       químico      bem       conhecido     no      estado      da      técnica    (vide
+       https://en.wikipedia.org/wiki/Redox e os parágrafos [0062] e [0066] do relatório descritivo
+       como ora apresentado), alterando-se opinião sobre a imprecisão do termo produto
+       reduzido do mesmo (reiv. 1, 4 e 6) e o não atendimento ao art. 25 da LPI.
+
+      Sobre o termo compreende, o requerente alega 1º item do último parágrafo da página
+       5/122 de sua manifestação que:
+
+               A palavra compreende foi mantida nas novas reivindicações 1 e 6. Se esta fosse
+               substituída por "consiste, por exemplo, a condução da etapa de condensação de
+               sacarídeo em combinação com qualquer etapa adicional estaria fora do escopo da
+               reivindicação. Tal etapa adicional consiste em reduzir o policondensado de
+               sacarídeo obtido em um produto reduzido tal como um álcool de açúcar (vide
+               parágrafos [0062] a [0066] do relatório descritivo do presente pedido como ora
+               apresentado) (grifo nosso).
+
+       Considerando que o art. 41 da LPI determina que a extensão da proteção conferida pela
+       patente será determinada pelo teor das reivindicações, interpretado com base no relatório
+       descritivo e nos desenhos e que o parágrafo 64 do relatório descritivo prevê etapas
+       adicionais de descoloração e deionização, que não são etapas essenciais para a
+
+
+
+                                                                                     Página 5 de 10
+                                     BR112013017099-9
+
+      realização do método pleiteado, altera-se opinião sobre a imprecisão do termo
+      compreende (reiv. 1, 6) e o não atendimento ao art. 25 da LPI, conforme o disposto no
+      item 3.49 da Resol. 124/2013, que dispõe que:
+
+           3.49 Os termos "compreender", "conter", "englobar" e "incluir", bem como seus
+           derivados, são considerados termos abertos de definição da invenção, ou seja, no
+           exemplo acima, a forma "caracterizada por compreender os componentes A, B e C"
+           não se limita a apenas estes elementos, e pode ser aceita, desde que tais elementos
+           sejam os essenciais para a realização da invenção. (grifo nosso).
+
+     Em relação ao trecho 30%, em peso, ou mais, o requerente alega que (...) os exemplos
+      concretizados no relatório descritivo do presente pedido mostram claramente que os
+      produtos de policondensados de sacarídeo obtidos contêm fibra dietética a uma
+      concentração de mais de 30% em peso (vide Figuras 3 e 4, que mostram que o conteúdo
+      de fibra alimentar no produto atinge cerca de 90%) (2º item da página 6/122 da
+      manifestação do requerente). Porém, o termo 30%, em peso, ou mais não define que a
+      faixa do teor de fibra alimentar é de 30 a 90% em peso, o que não elimina a imprecisão do
+      termo ou mais e o não atendimento ao art. 25 da LPI.
+
+     Apesar de fundamentado no relatório descritivo, tal como alegado no 4º item da página
+      6/122 da manifestação do requerente, ao manter a utilização do termo pressão reduzida
+      (reiv. 2), sem especificar as faixas de pressão que concretizariam o método pleiteado,
+      mantém-se a imprecisão da matéria pleiteada, o que contraria o art. 25 da LPI.
+
+
+
+      Quanto à patenteabilidade do pedido, faz-se menção aos Quadros 4 e 5 deste documento.
+
+                       Quadro 4  Documentos citados no parecer
+
+Código                               Documento                             Data de publicação
+ D1       JP2003231694                                                           19/08/2003
+ D2       JPH1156336                                                             02/03/1999
+ D3       JP2009072077                                                           09/04/2009
+
+
+
+
+  Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade          Cumprimento                Reivindicações
+                                                  Sim                           1a6
+         Aplicação Industrial
+                                                  Não                     Nenhuma
+                                                  Sim                           1a6
+               Novidade
+                                                  Não                     Nenhuma
+
+
+
+
+                                                                                  Página 6 de 10
+                                      BR112013017099-9
+
+
+                                                  Sim                     Nenhuma
+            Atividade Inventiva
+                                                  Não                       1a6
+Comentários/Justificativas
+
+        A nova reivindicação independente 1 (R1), relacionada ao método para produzir um
+policondensado de sacarídeo ou um produto reduzido do mesmo, tem a seguinte redação:
+
+        1. Método para produzir um policondensado de sacarídeo ou um produto reduzido do
+        mesmo, caracterizado pelo fato de que compreende a policondensação de um ou mais
+        sacarídeos selecionados a partir de um monossacarídeo, um oligossacarídeo, e um
+        polissacarídeo ou derivados dos mesmos usando carvão ativado como catalisador.
+
+        A nova reivindicação 6 (R6), relacionada ao método para produzir uma bebida alcóolica
+aromatizada de cerveja, tem a seguinte redação:
+
+       6. Método para produzir uma bebida alcóolica aromatizada de cerveja, caracterizado
+       pelo fato de que compreende produzir um policondensado de sacarídeo ou um produto
+       reduzido do mesmo pelo método como definido em qualquer uma das reivindicações 1 a
+       3, ou uma composição de policondensado de sacarídeo ou uma composição de
+       sacarídeo reduzida do mesmo pelo método de acordo com a reivindicação 4 ou 5, e
+       adicionar o policondensado de sacarídeo produzido ou o produto reduzido do mesmo, ou
+       a composição de policondensado de sacarídeo produzida ou a composição de sacarídeo
+       reduzida do mesmo a um a mosto ou a um líquido não fermentado para executar
+       fermentação, ou adicionar o policondensado de sacarídeo produzido ou o produto
+       reduzido do mesmo, ou a composição de policondensado de sacarídeo produzida ou a
+       composição de sacarídeo reduzida do mesmo a um líquido fermentado.
+
+        Nos pareceres anteriores, foram citados como documentos impeditivos os documentos
+listados no Quadro 4 deste documento.
+
+        Conforme pode ser observado na Tabela 1 deste documento, foram excluídas do novo
+quadro reivindicatório as matérias relacionadas ao policondensado de sacarídeo ou um produto
+reduzido do mesmo, ou uma composição de policondensado de sacarídeo (antiga reiv. 7), ao
+produto de alimento ou de bebida (antigas reiv. 8 a 16) e à ração para animais domésticos
+(antiga reiv. 19).
+
+        No caso, o parecer anterior opinou sobre a falta de atividade inventiva do método para
+produzir um policondensado de sacarídeo ou um produto reduzido do mesmo, frente a D1, e
+sobre a falta de atividade inventiva do método para produzir uma bebida alcoólica aromatizada
+de cerveja, frente a D2.
+
+        Como D3 foi considerado documento impeditivo apenas para a atividade inventiva da
+ração pleiteada, matéria excluída do novo quadro reivindicatório, não serão feitos comentários
+sobre D3 neste documento.
+
+
+
+                                                                                 Página 7 de 10
+                                           BR112013017099-9
+
+          Porém, o requerente alega em sua manifestação que:
+
+          A reivindicação 1 da patente européia [o que seria equivalente à nova reivindicação 1 e
+          está relacionado ao método para produzir um policondensado de sacarídeo ou um
+          produto reduzido do mesmo] cita que o carvão ativado é usado como catalisador. D1, D2
+          ou D3 em nenhum lugar sugerem ou revelam que o carvão ativado é usado como um
+          catalisador para a reação de policondensação de sacarídeo. (grifo nosso)
+
+          Ao discordar da opinião dos pareceres anteriores de que o carvão ativado proporcionaria
+um efeito similar, ao ser utilizado como catalizador, aos demais catalizadores minerais, tais
+como a argila ativada e a terra de diatomácea, o requerente alega no último parágrafo da página
+7/122 de sua manifestação que o carvão ativado é completamente e claramente diferente dos
+catalisadores minerais, como argila ativada e terra de diatomácea, sem mencionar o efeito
+técnico surpreendente, que seria proveniente do uso de carvão ativado como catalisador. Sendo
+assim, a ausência de um efeito técnico surpreendente é a dita evidência que suporta a
+observação de que o método pleiteado em R1 é desprovido de atividade inventiva, frente a D1.
+
+          Há também que se considerar que o Brasil é signatário da Convenção de Paris que em
+seu artigo 4 bis declara que as patentes requeridas nos diferentes países da União de Paris por
+nacionais de países da União serão independentes das patentes obtidas para a mesma
+invenção nos outros países, membros ou não da União. Desta forma para efeito de análise do
+presente pedido, são irrelevantes as decisões tomadas pelo examinador do escritório norte-
+americano, europeu ou demais escritórios de patentes, cabendo ser feitas as devidas exigências
+e restrições soberanamente.
+
+          Não foram apresentados argumentos em defesa das reivindicações dependentes de R1
+(novas reiv. 2 a 5) e do método para produzir uma bebida alcoólica aromatizada de cerveja (reiv.
+6).
+
+          Portanto, é mantida a seguinte opinião dos pareceres anteriores:
+
+         D1 se refere a um método para produzir sacarídeos poliméricos ou glicosídeo,
+          caracterizado pela condensação ou policondensação de um álcool monohídrico com uma
+          unidade de açúcar ou uma ou mais unidades de açúcar, selecionados do grupo consistindo
+          de D-glicose, D-galactose, D-manose, D-altrose, D-allose, D-gulose, D-talose, D-idose, D-
+          ribose, entre outros, na presença de um mineral como catalisador, tal como argilita, kaolina
+          produzida naturalmente, pirofilita, saponita, zeolita, bentonita, terra ácida, argila ativada e
+          terra de diatomácea, entre outros, a um nível de 5% em peso em relação à quantidade da
+          unidade de açúcar, sendo que a reação ocorre na faixa de 80 a 180ºC (resumo, parágrafos
+          15, 39 e 40 do relatório descritivo e reivindicação 1 de D1). Dessa forma, R1 não pode ser
+          considerada inventiva, frente a D1, visto que a utilização de carvão ativado em R1 não
+          agrega efeito técnico surpreendente, pois D1 já prevê a utilização de catalisadores
+          minerais, tais como a argila ativada e a terra de diatomácea, que podem ser consideradas
+
+
+
+                                                                                         Página 8 de 10
+                                          BR112013017099-9
+
+    de efeito técnico similar à utilização de carvão ativado no método de R1. Aliado a isso, o
+    resumo e a reivindicação 1 de D1 também prevem o uso de monossacarídeos,
+    antecipando outra parte da matéria pleiteada em R1 (correspondente à antiga
+    reivindicação 2);
+
+   sobre o fato de a reação de policondensação ser executada sob pressão normal ou sob
+    pressão reduzida, tal como pleiteado na nova reivindicação 2, entende-se com a leitura do
+    parágrafo 39 do relatório descritivo de D1 que a pressão não é um parâmetro importante
+    para esse tipo de reação e um técnico no assunto consideraria que a reação pode ocorrer
+    à pressão ambiente;
+
+   a faixa de temperatura de 100 a 300º C da reação de policondensação (nova reiv. 3) já faz
+    parte do estado da técnica, visto que o parágrafo 39 do relatório descritivo de D1 revela
+    temperatura de policondensação entre 80-180ºC, conforme já mencionado neste
+    documento;
+
+   a matéria pleiteada na nova reivindicação 4 (o policondensado de sacarídeo ou um
+    produto reduzido do mesmo é produzido como uma composição de policondensado de
+    sacarídeo) é inerente à matéria revelada em D1, considerando que a reação de
+    policondensação não tem rendimento 100% em policondensado de sacarídeo;
+
+   o conteúdo de uma fibra dietética na composição de policondensado de sacarídeo ser de
+    30%, em peso, ou mais (nova reiv. 5) é um resultado experimental que não requer
+    experimentação excessiva para se chegar a esses valores.
+
+   Dessa forma, o método pleiteado para produzir um policondensado de sacarídeo ou um
+    produto reduzido do mesmo decorre de maneira óbvia do método revelado por D1, sendo
+    desprovido de atividade inventiva e, por isso, não atende ao requisito de patenteabilidade
+    previsto no art. 8º combinado com o art. 13 da LPI.
+
+   D2 já prevê um método de fermentação de cerveja, utilizando 2-30% em peso de
+    oligossacarídeos      não   fermentáveis,    tais   como   isomaltose,   nigerose,   cordbiose,
+    gentiobiose,        isomaltotriose,      panose,     isomaltotetraose,     isomaltosylmaltose,
+    isomaltopentaose, isomaltohexaose e similares para obter um sabor simples e leve e um
+    bom encorpamento da bebida (resumo, parágrafo 13 do relatório descritivo de D2).
+
+   Daí, o método para produzir uma bebida alcoólica aromatizada de cerveja, tal como
+    pleiteado em R6, que consiste na adição do policondensado de sacarídeo ou do produto
+    reduzido do mesmo ou da composição de policondensado de sacarídeo e na adição deste
+    a um mosto ou a um líquido não fermentado para que a fermentação seja executada é
+    óbvio frente a D2 e não atende ao requisito de patenteabilidade previsto no art. 8º
+    combinado com o art. 13 da LPI.
+
+
+
+
+                                                                                   Página 9 de 10
+                                           BR112013017099-9
+
+Conclusão
+
+       Os argumentos apresentados pelo requerente foram considerados improcedentes. Daí,
+mantém-se a seguinte opinião:
+
+          o método pleiteado para produzir um policondensado de sacarídeo ou um produto reduzido
+           do mesmo decorre de maneira óbvia do método revelado por D1, sendo desprovido de
+           atividade inventiva e, por isso, não atende ao requisito de patenteabilidade previsto no art.
+           8º combinado com o art. 13 da LPI;
+
+          o método para produzir uma bebida alcoólica aromatizada de cerveja é óbvio frente a D2 e
+           não atende ao requisito de patenteabilidade previsto no art. 8º combinado com o art. 13 da
+           LPI; e,
+
+          o quadro reivindicatório não define clara e precisamente a matéria pleiteada a ser
+           protegida, contrariando o art. 25 da LPI.
+
+
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido de Patente de Invenção,
+uma vez que:
+
+       -      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+       -      as reivindicações estão indefinidas (Art. 25 da LPI)
+
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                      Publique-se o indeferimento (9.2).
+
+
+
+                                                                     Rio de Janeiro, 22 de abril de 2019.
+
+
+
+
+Cibele Cristina Osawa
+Pesquisador/ Mat. Nº 1741228
+DIRPA / CGPAT II/DIPAE
+Deleg. Comp. - Port. INPI/DIRPA Nº 006/13
+
+
+
+
+                                                                                        Página 10 de 10
+

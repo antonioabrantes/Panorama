@@ -1,0 +1,190 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122020001708-2          N.° de Depósito PCT: US2014/051355
+ Data de Depósito:                   15/08/2014
+ Prioridade Unionista:               US 61/866,338 (15/08/2013)
+ Depositante:                        LALLEMAND HUNGARY LIQUIDITY MANAGEMENT LLC (HU)
+ Inventor:                           AARON ARGYROS, WILLIAM R. KENEALY, EMILY STONEHOUSE
+ Título:                             "Micro-organismos recombinates e métodos para diminuir o glicerol
+                                     celular produzido, e para a conversão de biomassa em etanol e
+                                     isopropanol".
+
+                                                              PARECER
+          O presente pedido se refere a micro-organismos utilizados na produção de álcool.
+Métodos e processos também são reivindicados.
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                           X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    X
+
+O pedido refere-se a Sequências Biológicas                                                             X
+
+Comentários/Justificativas
+
+          A referência ao acesso ao patrimônio genético nacional foi declarada no ato do depósito
+em 27/01/2020 (petição no. 870200012572).
+
+          A listagem de sequências foi apresentada voluntariamente pelo Requerente na petição
+no. 870200012572 de 27/01/2020.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+Relatório Descritivo                                    1 a 141              870200012572        27/01/2020
+Listagem de sequências em
+                                                        1 a 517              870200012572        27/01/2020
+formato impresso
+Listagem de sequências*                        Código de Controle            870200012572        27/01/2020
+Quadro Reivindicatório                                   1 a 20              870200012572        27/01/2020
+Desenhos                                                 1 a 18              870200012572        27/01/2020
+Resumo                                                      1                870200012572        27/01/2020
+        *Listagem de sequências em formato eletrônico referente ao código de controle
+        2253F230EE3D9F55 (Campo 1) e 1A5E2B44D2A80EC9 (Campo 2).
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                 Página 1
+                                          BR122020001708-2
+
+       O presente pedido foi dividido após a solicitação do pedido de exame do pedido original
+(petição no. 800170257977 de 10/08/2017) e após a notificação na RPI do despacho 6.21 do
+pedido original (RPI 2547 de 29/10/2019).
+       Considerando-se que um pedido dividido encontra-se na mesma fase processual do
+pedido original (conforme o Artigo 28 da Instrução Normativa PR no. 31 de 04/12/2013), são
+válidas para o presente pedido dividido todas as colocações e discussões feitas no exame
+técnico realizado para o pedido original.
+
+       O presente pedido foi analisado frente ao pedido original BR112016002359-6 e foi
+observado que o quadro apresentado não é uma divisão do pedido original e sim uma replicação
+do quadro do pedido original, estando em desacordo com o item 3.138 da Resolução no.
+124/2013 de 04/12/2013.
+       Desde que a matéria reivindicada no presente pedido já havia sido causa de objeção
+relativa aos Artigos 8o, 11 e 13 da LPI no pedido do exame original e o Requerente não
+apresentou nenhum argumento quanto a essa objeção, permanece o fato que a matéria das
+reivindicações 1-25 não atendem ao disposto nos Artigos 8o, 11 e 13 da LPI.
+       Finalmente, conforme o item 3.137 das Diretrizes de Exame de Pedidos de Patente
+(resolução PR no. 124/2013 de 04/12/2013 publicada na RPI 2241 de 17/12/2013), Em caso de
+um pedido dividido ter sido gerado a partir da matéria já examinada e que não apresente mérito de
+patenteabilidade, o mesmo deverá ser indeferido, persistindo as mesmas objeções referentes a
+esse mérito.
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                           Sim           Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)       -             -
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)               -             -
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   -             -
+O pedido está de acordo com disposto no art. 32 da LPI                    -             -
+Comentários/Justificativas
+
+       ----
+
+
+
+                Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim           Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      -             -
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    -             -
+
+
+
+
+                                                                                        Página 2
+                                            BR122020001708-2
+
+
+Comentários/Justificativas
+
+         ----
+
+
+                             Quadro 4  Documentos citados no parecer
+
+ Código                                   Documento                             Data de publicação
+    D1          WO2011153516                                                           08/12/2011
+    D2          WO2012138942                                                           11/10/2012
+    D3          WO2008006037                                                           10/01/2008
+    D4          CN101970641                                                            09/02/2011
+    D5          Kayingo, G et al. A permease encoded by STL1 is                       21/04/2009
+                required for active glycerol uptake by Candida albicans.
+                Microbiology. 2009 May;155(Pt 5):1547-57. Epub 2009
+                Apr 21.
+    D6          Ferreira, C et al. A member of the sugar transporter                  09/02/2005
+                family, Stl1p is the glycerol/H+ symporter in
+                Saccharomyces cerevisiae. Mol Biol Cell. 2005
+                Apr;16(4):2068-76. Epub 2005 Feb 9.
+    D7          Yu, KO et al. Reduction of glycerol production to improve             17/09/2010
+                ethanol yield in an engineered Saccharomyces cerevisiae
+                using glycerol as a substrate. J Biotechnol. 2010 Oct
+                15;150(2):209-14. Epub 2010 Sep 17.
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento               Reivindicações
+                                                        Sim                       1-25
+                Aplicação Industrial
+                                                        Não                        -
+                                                        Sim                        -
+                     Novidade
+                                                        Não                       1-25
+
+                                                        Sim                        -
+                Atividade Inventiva
+                                                        Não                       1-25
+Comentários/Justificativas
+
+          Esse pedido teve um despacho 6.21 expedido (RPI 2547 de 29/10/2019). O requerente
+não argumentou em relação aos requisitos de patenteabilidade frente aos documentos citados.
+
+         Sendo assim, as objeções estão mantidas e o presente quadro não atende aos requisitos
+de patenteabilidade e está em desacordo com os Artigos 8o, 11 e 13 da LPI.
+
+
+
+
+                                                                                              Página 3
+                                       BR122020001708-2
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                            Rio de Janeiro, 14 de janeiro de 2023.
+
+
+
+
+Amanda Mangeon Vieira Ferreira
+Pesquisador/ Mat. Nº 1711587
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+009/18
+
+
+
+
+                                                                                         Página 4
+

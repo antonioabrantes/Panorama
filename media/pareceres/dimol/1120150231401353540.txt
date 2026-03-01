@@ -1,0 +1,216 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR112015023140-3           N.° de Depósito PCT: US2014/029652
+ Data de Depósito:     14/03/2014
+ Prioridade Unionista: US 61/800,795 (15/03/2013); US 61/800,148 (15/03/2013); US
+                       61/801,144 (15/03/2013); US 61/821,062 (08/05/2013); US 61/860,176
+                       (30/07/2013)
+ Depositante:          GENENTECH, INC. (US)
+ Inventor:             JUSTIN SCHEER, WENJUN OUYANG, ERIC GARY STEFANICH,
+                       RICHARD VANDLEN, PHILIP E. HAAS, GANESH A. KOLUMAM,
+                       XIAOTING WANG, JED ROSS, NICHOLAS VAN BRUGGEN, WYNE
+                       P. LEE
+ Título:               Proteínas de fusão, método para a fabricação da proteína de fusão,
+                       composições, ácido nucleico,vetor, célula hospedeira, métodos de
+                       produção de uma proteína de fusão, de tratamento da doença
+                       inflamatória intestinal, de inibição da infecção microbiana, de
+                       tratamento da lesão renal, para acelerar ou melhorar a cicatrização,
+                       para a prevenção ou tratamento de uma condição cardiovascular, para
+                       tratamento da síndrome metabólica e para tratamento da
+                       endotoxemia. 
+
+                                                              PARECER
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                   X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    X
+
+O pedido refere-se a Sequências Biológicas                                                             X
+
+Comentários/Justificativas
+
+ANVISA
+
+          O pedido foi enviado à ANVISA, cumprindo-se o disposto no artigo 229-C da LPI 9276-96
+e na Portaria Interministerial Nº 1065 de 24/05/2012, uma vez que a matéria revelada no
+presente pedido poderia ser enquadrada como relacionada a produto ou processo farmacêutico.
+O despacho referente a esta ação (7.4) foi publicado na RPI nº 2455, de 23/01/2018.
+          Através do Ofício nº 501/19/COOPI/GGMED/ANVISA, de 03/09/2019, a ANVISA notificou
+o INPI sobre a decisão que concede a prévia anuência, a qual fora publicada no DOU nº 169, de
+02/09/2019. A notificação de anuência foi publicada pelo INPI, sob o código de despacho 7.5, na
+RPI nº 2545, de 15/10/2019.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                 Página 1
+                                           BR112015023140-3
+
+
+Patrimônio Genético
+       Por intermédio da petição nº 860150207870, de 14/09/2015, a requerente declarou não ter
+acessado o patrimônio genético nacional ou conhecimento tradicional associado para a realização
+presente pedido.
+
+
+
+                            Quadro 1  Páginas do pedido examinadas
+           Elemento                       Páginas               n.o da Petição         Data
+Relatório Descritivo                      1 a 205               870200152666         04/12/2020
+Listagem de sequências em
+formato impresso
+Listagem de sequências*            Código de Controle           870200012993         27/01/2020
+Quadro Reivindicatório                     1 a 10               870200152666         04/12/2020
+Desenhos                                   1 a 69               870170016737         14/03/2017
+Resumo                                       1                  870200152666         04/12/2020
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+     113BED8AAACDAA72 (Campo 1) e 476FA72910FED436 (Campo 2).
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                               Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                       X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                               X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                          X
+O pedido está de acordo com disposto no art. 32 da LPI                           X
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                               Sim         Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI             X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                    X
+Comentários/Justificativas
+       No exame técnico anterior, foi apontado que a reivindicação 1, a qual se referia a proteína
+de fusão de interleucina (IL)-22 Fc estaria em desacordo com as disposições do item 6.2 da
+Resolução INPI PR nº 144/15, já que se referia a percentuais de identidade, o que era
+considerado muito abrangente e impreciso, contrariando o disposto no artigo 25 da LPI 9279/96.
+       No novo Quadro Reivindicatório apresentado pela petição nº 870200152666, de
+04/12/2020, a nova reivindicação 1 deixou de fazer menção direta a perfis de identidade mas
+agora procura definir a proteína de fusão adicionalmente com base em substituições de ácidos
+
+
+
+                                                                                          Página 2
+                                             BR112015023140-3
+
+aminados em relação à SEQ ID Nº 8, sem indicar as posições que seriam alvo dessas
+substituições. Ora, sabendo-se que um percentual de identidade entre duas proteínas significa
+exatamente a presença de 1 ou mais ácidos aminados substituídos, a nova redação apresentada
+pela Requerente equivale exatamente ao pleito de percentuais de identidade, sendo, inclusive,
+mais abrangente e imprecisa. Como esta questão já foi objetada no exame técnico anterior, a
+presente reivindicação 1 não poderá ser aceita por contrariar as disposições do artigo 25 da LPI
+9279/96.
+
+        Uma vez que as reivindicações 2, 17, 18, 25, 29, 31, 36, 38, 42, 45 e 49 e suas
+dependentes referem-se à proteína de fusão conforme definida na reivindicação 1, essas também
+se referem a uma matéria que está definida de forma abrangente e imprecisa e, por isso, também
+contrariam as disposições do artigo 25 da LPI 9279/96.
+
+
+                             Quadro 4  Documentos citados no parecer
+
+  Código                                    Documento                                     Data de publicação
+
+
+
+
+     Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+      Requisito de Patenteabilidade                   Cumprimento                    Reivindicações
+                                                            Sim                               -
+            Aplicação Industrial
+                                                            Não                               -
+                                                            Sim                               -
+                   Novidade
+                                                            Não                               -
+
+                                                            Sim                               -
+             Atividade Inventiva
+                                                            Não                               -
+*De acordo com a Norma de Execução Nº 2/15, reivindicações que incidam nos artigos 10 e 18 (item 5.1.5), 24 (item
+5.1.6) e 25 (item 5.1.7) não serão alvo de análise dos requisitos de patenteabilidade. Por isso, o Quadro 5 não
+
+menciona as reivindicações 1 a 56.
+
+Comentários/Justificativas
+
+
+
+        No exame técnico anterior, realizado em 24/08/2020 e publicado na RPI nº 2592, de
+08/09/2020, apontou-se a não privilegiabilidade do pedido por este apresentar falta de novidade
+e atividade inventiva frente aos documentos D1 a D4 citados como anterioridades impeditivas,
+além de pleitear produto não patenteável e carecer de clareza e precisão. Por tais razões o
+pedido sofreu objeções com fulcro nos artigos 8º c/c (11 e 13), 18 e 25 da LPI 9279/96.
+
+
+
+        Através da petição nº 870200152666, de 04/12/2020, a Requerente apresentou a sua
+Manifestação, bem como um novo Quadro Reivindicatório composto por 56 reivindicações.
+
+
+
+
+                                                                                                        Página 3
+                                        BR112015023140-3
+
+
+       Na sua Manifestação, a Requerente alega ter efetuado modificações que resultariam na
+privilegiabilidade do pedido, afastando-o dos óbices anteriormente levantados. Ainda, a
+Requerente contesta a falta de novidade e atividade inventiva frente aos documentos D1 a D4
+argumentando que as proteínas de fusão IL-22 Fc citadas nas atuais reivindicações referem-se
+a proteínas de fusão Fc baseadas em IL-22 IgG4, nas quais a região Fc não está glicosilada.
+
+
+
+       Iniciando-se o segundo exame técnico do pedido, informa-se que todos os documentos
+apresentados pela Requerente foram examinados. Em que pesem as modificações efetuadas no
+Quadro Reivindicatório, estas não foram consideradas satisfatórias pelas razões apontadas sob
+o Quadro 3 acima. Uma vez que a atual reivindicação 1 e suas dependentes e relacionadas
+estão definidas de forma muito abrangente e imprecisa, o presente pedido será indeferido.
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 20 de janeiro de 2021.
+
+
+
+
+Marcus Livio Varella Coelho
+Pesquisador/ Mat. Nº 1740751
+DIRPA / CGPAT II/DIMOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+023/12
+
+
+
+
+                                                                                        Página 4
+

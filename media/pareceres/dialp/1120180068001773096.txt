@@ -1,0 +1,351 @@
+                              SERVIÇO PÚBLICO FEDERAL
+          MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                   INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112018006800-4         N.° de Depósito PCT: US2016/055429
+ Data de Depósito:                   05/10/2016
+ Prioridade Unionista:               US 62/237,426 (05/10/2015)
+ Depositante:                        MASSACHUSETTS INSTITUTE OF TECHNOLOGY (US)
+ Inventor:                           CHRISTOPHER VOIGT; MIN-HYUNG RYU; MI RYOUNG SONG
+ Título:                             Fixação de nitrogênio usando agrupamento (cluster)s nif
+                                     reestruturados 
+
+                                    PARECER
+        Em 08/06/2020, por meio da petição 870200070986, a Depositante apresentou
+argumentações e modificações no pedido em resposta a exigência preliminar (6.21), notificada
+na RPI 2566 de 10/03/2020.
+
+          Do trâmite prioritário: Cabe informar que, que em 02/01/2023, por meio da petição n°
+870230000113, foi apresentado no pedido divisional BR122022025322-9 o requerimento de
+trâmite prioritário de PPH, que foi admitido haja vista que atende ao disposto nos artigos 3º, 4º
+e 5º da Portaria INPI PR nº 78, de 16/12/21, publicada na RPI 2712, de 27/12/22, e portanto, o
+presente pedido terá o exame antecipado por força do art. 21 da Instrução Normativa n°
+30/2013.
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                           x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    x
+
+O pedido refere-se a Sequências Biológicas                                                             x
+
+Comentários/Justificativas
+
+          O presente pedido refere-se ao o método para fornecer nitrogênio fixado a partir de
+nitrogênio atmosférico a uma planta cereal ou ao solo onde a planta cereal ou semente está
+crescendo ou deve ser plantada através de uma bactéria modificada com o agrupamento nif
+exógeno reestruturado que compreende pelo menos um dentre: genes do agrupamento
+otimizados para códons; operons sob o controle de partes sintéticas; operons separados por
+partes espaçadoras; e um controlador. Refere-se também, a uma composição compreendendo a
+dita bactéria modificada, a semente, plântula e planta de cereal.
+          Do acesso ao patrimônio genético nacional - A depositante apresentou voluntariamente na
+petição de depósito a seguinte Declaração: Declaração Negativa de Acesso - Declaro que o objeto do
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                 Página 1
+                                          BR112018006800-4
+
+
+presente pedido de patente de invenção não foi obtido em decorrência de acesso à amostra de
+componente do Patrimônio Genético Brasileiro, o acesso foi realizado antes de 30 de junho de 2000,
+ou não se aplica..
+       Das sequências biológicas - Através da petição 870230086182 de 27/09/2023 a depositante
+apresentou a Listagem de sequências em formato eletrônico.
+         Em resposta a exigência 6.21, cuja notificação foi publicada na RPI 2566 de 10/03/2020
+para fins de manifestação da depositante quanto as anterioridades citadas em análises em
+escritório de patentes de outros países, a depositante apresentou, através da petição
+870200070986 de 08/06/2020, nova via da pág. 1 do relatório descritivo, do resumo, e nova
+proposta de quadro reivindicatório contendo 37 reivindicações e esclarecimentos.
+      No primeiro exame técnico foi concluído que a matéria reivindicada no presente pedido não
+é passível de proteção de acordo com o art. 10(IX), art. 25, art. 8º combinado com o art. 11§2º e
+art. 8º combinado com o art. 13 da LPI, sendo formulada a ciência de parecer com despacho 7.1
+cuja notificação foi publicada pela RPI 2720 de 23/02/2023. A depositante apresentou através da
+petição 870230043454 de 24/05/2023 novas vias do relatório descritivo, do resumo e nova versão da
+listagem de sequências em formato eletrônico com alteração do título da invenção, nova proposta de
+quadro reivindicatório contendo 23 reivindicações e esclarecimentos.
+         No segundo exame técnico foram observadas matérias em desacordo com o art. 25, o art.
+11§2º, o art. 11 e o art. 13 da LPI, sendo formuladas exigências técnicas cuja notificação foi publicada
+na RPI 2739 de 04/07/2023.
+         A depositante apresentou através da petição 870230086182 de 27/09/2023 novas vias do
+relatório descritivo, do resumo e nova versão da listagem de sequências em formato eletrônico, 3
+propostas de quadro reivindicatório, um quadro reivindicatório principal contendo 11 reivindicações e
+dois quadros reivindicatórios alternativos denominados como QRS-1 e QRS-2, com 11 e 10
+reivindicações, respectivamente, e esclarecimentos.
+
+      Em observância ao item 5.1.2.1 da Portaria INPI PR nº 01, de 07/01/2021, quando apresentado
+mais de um quadro reivindicatório, o exame deve prosseguir com o quadro que tiver o escopo de
+proteção mais restrito. Dessa forma, para a análise do presente pedido foi considerado o quadro com
+escopo de proteção mais restrito, de acordo com o item 6.1.2.1, CPATETPPP0005 (rev. 1.0), da
+Portaria/INPI/DIRPA N° 02/2022. Portanto, o quadro analisado no presente exame técnico é o quadro
+reivindicatório alternativo QRS-2 (total de 10 reivindicações  02 páginas).
+
+
+                            Quadro 1  Páginas do pedido examinadas
+            Elemento                      Páginas               n.o da Petição            Data
+Relatório Descritivo                      1 a 118               870230086182           27/09/2023
+Listagem de sequências em
+                                              -                         -                    -
+formato impresso
+Listagem de sequências*            Código de Controle           870230086182           27/09/2023
+Quadro Reivindicatório                     1a2                  870230086182           27/09/2023
+
+
+
+                                                                                                 Página 2
+                                          BR112018006800-4
+
+                                   (págs 146 e 147 de
+                                          pdf)
+Desenhos                                   1a3                  870180027034        04/04/2018
+Resumo                                       1                   870230086182       27/09/2023
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+     8A190B9955AE78B8 (Campo 1) e A9A6D9E70B5292DB (Campo 2).
+
+       Em sua manifestação a depositante alega que apresenta um novo quadro reivindicatório
+principal (total de 11 reivindicações) em que:
+       - As antigas reivindicações 1 a 15, 17, 18 e 23 foram canceladas;
+       - Novas reivindicações dependentes 2, 3, 6, 8, 10 e 11 foram adicionadas;
+       - As reivindicações remanescentes foram renumeradas, bem como suas relações de
+dependência e interligações;
+       - O escopo da antiga reivindicação 16 (nova 1) foi restrito para definir que a composição
+reivindicada compreende (b) uma bactéria geneticamente modificada apresentando um
+agrupamento cluster) nif heterólogo reestruturado presente sobre o ou no veículo agricolamente
+adequado, em que as bactérias geneticamente modificadas são endófitas, em que as bactérias
+geneticamente modificadas compreendem bactérias de uma espécie que não contém nativamente
+um agrupamento nif, em que as bactérias geneticamente modificadas são capazes de se
+estabelecer em uma planta de cereal e fornecer nitrogênio fixo à planta de cereal, em que o
+agrupamento nif heterólogo reestruturado compreende pelo menos um dentre: genes de
+agrupamento nif otimizados por códon; operons sob controle de peças.
+       - No QRS-1, o escopo da reivindicação 1, em relação ao QR principal, foi adicionalmente
+limitado para definir uma limitação negativa que excluiria cepas específicas de Salmonella.
+       - No QRS-2, o escopo da reivindicação 1, em relação a QRS-1, foi adicionalmente limitado
+para definir que o agrupamento nif heterólogo reestruturado compreende um sistema de
+particionamento.
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n. o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                              Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                       x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                         x
+O pedido está de acordo com disposto no art. 32 da LPI                          x
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                              Sim         Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                      x
+
+
+
+                                                                                          Página 3
+                                          BR112018006800-4
+
+
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                     x
+Comentários/Justificativas
+
+       Analisando a nova proposta de quadro reivindicatório e os argumentos apresentados
+temos que:
+       As reivindicações 1, 2, 3, 6, 7, 8, 9 e 10 não atendem ao disposto no Art. 25 da LPI e na
+Instrução Normativa nº 30/2013  Art. 4º (III) e (IV), pois as matérias pleiteadas não estão
+definidas de maneira clara e precisa e não estão fundamentadas no relatório descritivo do pedido
+pelas seguintes razões:
+        Conforme exaustivamente discutido anteriormente, a bactéria, propriamente dita, que se
+estabelece na planta de cereais e o agrupamento nif heterólogo reestruturado, que são
+características essenciais a matéria reivindicada, não foram definidos de acordo com
+fundamentação dada pelo relatório descritivo.
+      O relatório descritivo apresenta 3 sequências do agrupamento nif nativas (SEQs 3 a 5) e 3
+sequências artificiais (SEQs 1, 2 e 6) das quais foi apresentada apenas as sequências de
+nucleotídeos, porém não foi observado nenhuma informação quanto aos elementos que as
+compõe. Ocorre que tais sequências não podem ser consideradas como representantes de
+todos os agrupamentos nif reestruturados incluídos no escopo da matéria conforme reivindicada.
+Isso porque, conforme discutido anteriormente, o efeito biológico de cada agrupamento nif
+reestruturado não é previsível. Nesse sentido, temos o sistema de particionamento, assim como
+as peças de controle sintéticas, as partes espaçadoras e o controlador, bem como, o
+agrupamento nif heterólogo reestruturado propriamente dito não foram devidamente definidos de
+acordo com o item 6.1 das Diretrizes Biotecnologia, para garantir a clareza e precisão da matéria
+pleiteada. Da forma ampla como foi redigida, a reivindicação 1 engloba uma grande
+possibilidade de bactérias e sequências, de forma que um técnico no assunto teria que testar
+várias combinações para alcançar o agrupamento hif heterólogo reestruturado.
+      Ainda, a definição das bactérias geneticamente modificadas da reivindicação 1 por serem
+endófitas e não serem uma cepa de Salmonella selecionada dentre: Arizona; Dublin;
+Montevidéu; Cubana; Novo Porto; e Pomona, diferentemente do que alega a depositante, amplia
+o número de bactérias incluídas no escopo da dita reivindicação pois a antiga revindicação 16
+definia uma gama-proteobactéria e a reivindicação 17 definia - Proteobactérias Salmonella e
+Escherichia coli. Cabe ressaltar que o relatório descritivo relata que os endófitos bacterianos
+podem pertencer a uma ampla gama de taxonomia, inclusive -Proteobactérias, -
+Proteobactérias, - Proteobactérias, Firmicutes, e Actinobactérias (§[0043]).
+       Conforme discutido anteriormente, o relatório descritivo relata as bactérias endofíticas -
+Proteobactérias Salmonella e Escherichia coli e a Figura 1 mostra a atividade da nitrogenase em
+cepas de Salmonella. Verifica-se que a atividade da nitrogenase não foi observada em todas as
+cepas de Salmonella testadas (vide asteriscos) e em algumas cepas, a atividade do
+agrupamento nif nativo foi maior que a do agrupamento nif reestruturado (vide cepas SL1344,
+ATCC51812, ATCC14028, Dublin, Newport, Pomona).
+      Cabe lembrar novamente que as Diretrizes de exame de pedidos de patente  bloco I,
+publicada na RPI nº 2241 de 17/12/2013, item 2.15, estabelecem que o pedido deve conter
+informação técnica suficiente para permitir que um técnico no assunto coloque a invenção em
+
+
+
+                                                                                          Página 4
+                                        BR112018006800-4
+
+
+prática, tal como reivindicada, sem experimentação indevida, ou seja, sem a necessidade de
+experimentação adicional para realizar a invenção, a partir do que foi revelado no pedido.
+        Diferentemente da matéria reivindicada, observa-se que o relatório relata as bactérias
+endofíticas - Proteobactérias Salmonella e Escherichia coli e apresenta apenas 3 sequências
+artificiais.
+        Portanto, é possível concluir que não há descrição suficiente no relatório descritivo, de
+acordo com o art. 24 da LPI, para que um técnico no assunto possa alcançar tal escopo em toda
+sua extensão, sem experimentação indevida.
+        Portanto, permanece o fato de que a matéria da reivindicação 1 não é clara, precisa e não
+está devidamente fundamentada no relatório descritivo, em desacordo com o art. 25 da LPI.
+        As reivindicações 2, 3, 6, 7, 8, 9 e 10 não corrigem as deficiências apontadas para a
+reivindicação 1 pois também não definem a bactéria e o agrupamento nif heterólogo
+reestruturado, uma vez que incluem no escopo de proteção uma grande variedade de bactérias
+e possíveis sequências que não foram de fato previstas ou testadas no presente pedido.
+
+
+                            Quadro 4  Documentos citados no parecer
+
+  Código                               Documento                              Data de publicação
+     D3        US2014336050                                                       13/11/2014
+     D4        US2014329326                                                       06/11/2014
+
+
+     Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade           Cumprimento               Reivindicações
+                                                    Sim                       1 a 10
+               Aplicação Industrial
+                                                    Não                      nenhuma
+                                                    Sim                       1 a 10
+                    Novidade
+                                                    Não                      nenhuma
+                                                    Sim                      nenhuma
+               Atividade Inventiva
+                                                    Não                        1 a 10
+Comentários/Justificativas
+          Analisando a nova reivindicação 1 de composição, temos que essa foi definida por
+compreender: (a) um veículo agricolamente adequado; e (b) uma bactéria geneticamente
+modificada apresentando um agrupamento (cluster) nif heterólogo reestruturado presente sobre o
+ou no veículo agricolamente adequado, em que as bactérias geneticamente modificadas são
+endófitas, em que as bactérias geneticamente modificadas compreendem bactérias de uma
+espécie que não contém nativamente um agrupamento nif, em que as bactérias geneticamente
+modificadas são capazes de se estabelecer em uma planta de cereal e fornecer nitrogênio fixo à
+planta de cereal, em que o agrupamento nif heterólogo reestruturado compreende pelo menos um
+dentre: genes de agrupamento nif otimizados por códon; operons sob controle de peças sintéticas;
+operons separados por partes espaçadoras; e um controlador.
+
+
+                                                                                             Página 5
+                                       BR112018006800-4
+
+     Observa-se que na composição reivindicada, a bactéria foi definida por ser geneticamente
+modificada apresentando um agrupamento (cluster) nif heterólogo reestruturado sendo que tais
+bactérias são endófitas que não contém nativamente um agrupamento nif e não são uma cepa de
+Salmonella selecionada dentre: Arizona; Dublin; Montevidéu; Cubana; Novo Porto; e Pomona e
+que o agrupamento nif heterólogo restruturado foi definido por compreender um sistema de
+particionamento e pelo menos um dentre: genes de agrupamento nif otimizados por códon;
+operons sob controle de peças sintéticas; operons separados por partes espaçadoras; e um
+controlador. Conforme discutido no quadro 3 do presente parecer, a bactéria, propriamente dita,
+que se estabelece na planta de cereais e o agrupamento nif heterólogo reestruturado, que são
+características essenciais a matéria reivindicada, não foram definidos de acordo com clareza e
+fundamentação dada pelo relatório descritivo.
+
+     Conforme discutido anteriormente, D4 já relatava agrupamentos nif reestruturados (vide
+exemplo 4) e também sugeria a utilização de Escherichia coli como célula hospedeira (§[0046]).
+     D3 relata o método para aumentar a fixação de nitrogênio de uma planta pela aplicação no
+solo de uma bactéria recombinante (reivindicações). Relata uma bactéria recombinante
+Pseudomonas fluorescens compreendendo genes nif heterólogos em seu genoma e que é capaz
+de fixação de nitrogênio e o inóculo em plantas, particularmente em Schedonorus arundinaceus
+(festuca Alta Gentos) uma espécie de gramínea (parág. [0024]).
+     Conforme discutido anteriormente, a composição reivindicada foi definida de modo amplo e
+não se restringe ao agrupamento reestruturado que conferiu o benefício inesperado de uma
+expressão do agrupamento nif mais consistente. Não há como generalizar os resultados obtidos
+no exemplo 1 para qualquer agrupamento nif reestruturado e em qualquer bactéria dada a
+imprevisibilidade alegada pela própria depositante.
+     Da maneira ampla como formulada, a reivindicação 1 engloba bactérias e agrupamentos
+reestruturados, cuja combinação podem não exibir o benefício inesperado de uma expressão do
+agrupamento nif mais consistente, ou mesmo, qualquer efeito na fixação de nitrogênio.
+     Nesse sentido, sem se preocupar com o efeito biológico, o técnico no assunto poderia
+utilizar a bactéria E. coli sugerida por D4 como célula hospedeira para introdução do
+agrupamento nif reestruturado descrita em D4 nas plantas descritas no método para fixação de
+nitrogênio de D3 como uma alternativa de célula hospedeira recombinante para o método
+proposto por D3.
+     Acresce lembrar que em sua manifestação ao parecer 6.21, a depositante alegou que à
+época do depósito do presente pedido, a técnica era imprevisível e o técnico no assunto não teria
+combinado os elementos reivindicados para produzir um método ou composição funcional como
+reivindicado. Alega que os resultados da requerente são inesperados. Por exemplo, o Exemplo 1
+explica que "[o] agrupamento (cluster) nif reestruturado em comparação com o agrupamento
+(cluster) nif nativo resultou em menos variação na redução de acetileno nas plantas. Isto sugere
+que a expressão do agrupamento (cluster) nif reestruturado é mais consistente em nossa
+configuração..." (parágrafo [00101] do relatório descritivo do presente pedido de patente). Assim, o
+uso de um agrupamento reestruturado conferiu o benefício inesperado de uma expressão do
+agrupamento nif mais consistente. Alega que a presente invenção aplicou o processo de
+
+
+
+                                                                                           Página 6
+                                        BR112018006800-4
+
+
+reestruturação para gerar modificações específicas do agrupamento de genes nif bacteriano.. No
+entanto, conforme discutido no quadro 3, a reivindicação 1 é ampla pois não define as
+modificações específicas realizadas no agrupamento de genes nif que são, juntamente com a
+definição da bactéria, característica essencial da matéria reivindicada.
+      Dessa forma, como a depositante não identificou a bactéria geneticamente modificada de
+acordo com o relatório descritivo e as modificações específicas do agrupamento nif bacteriano
+não é possível reconhecer atividade inventiva da matéria da reivindicação 1 em relação a D3
+combinado com D4.
+     As reivindicações dependentes 2 a 10 não apresentam nenhuma peculiaridade capaz de
+conferir atividade inventiva a matéria reivindicada.
+     Deste modo, as reivindicações 1 a 10 não são passíveis de proteção de acordo com o art.
+8º combinado com o art. 13 da LPI.
+
+
+Conclusão
+
+     Tendo em vista que a depositante não cumpriu satisfatoriamente as exigências formuladas
+no parecer anterior e ainda não apresentou argumentos técnicos considerados pertinentes para
+não cumprimento das exigências, permanece o fato de que as objeções baseadas no art. 25 e
+no art. 8º combinado com o art. 13 da LPI permanecem.
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+                                                             Rio de Janeiro, 23 de outubro de 2023.
+
+
+
+
+Sandra Toshico Tahara
+Pesquisador/ Mat. Nº 1359981
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                           Página 7
+

@@ -1,0 +1,140 @@
+                                       SERVIÇO PÚBLICO FEDERAL
+                                        MINISTÉRIO DA ECONOMIA
+                            INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+No do Pedido:                         BR112013028263-0          N.° de Depósito PCT: BR2012/000127
+Data de Depósito:                     02/05/2012
+Prioridade Unionista:                 US 61/481,473 (02/05/2011)
+Depositante:                          B3 S.A. - BRASIL, BOLSA, BALCÃO (BRSP)
+Inventor:                             LUIS ANTÔNIO BARRON GUERRA VICENTE
+Título:                               Processos para a avaliação de risco para o encerramento de uma
+                                      carteira
+
+                                                                 PARECER
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               no da Petição            Data
+
+ Relatório Descritivo                                    1 a 34              870210031224          05/Abr/2021
+ Quadro Reivindicatório                                   1a5                870210031224          05/Abr/2021
+ Desenhos                                                 1a3                860150082300          04/Maio/2015
+ Resumo                                                      1               870210031224          05/Abr/2021
+1. Comentários/Justificativas:
+
+1.i) Em 05/Abr/2021, por meio da petição 870210031224, o Depositante apresentou modificações
+no pedido em resposta ao parecer notificado na RPI 2609 de 05/Jan/2021  ciência de
+parecer (7.1).
+
+   Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei no 9.279 de 14 de
+                                   maio de 1996  LPI
+ Artigos da LPI                                                                              Sim        Não
+ A matéria enquadra-se no Art. 10 da LPI (não se considera invenção)                                    
+ A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                                            
+ O pedido apresenta Unidade de Invenção (Art. 22 da LPI)                                                
+ O pedido está de acordo com disposto no Art. 32 da LPI                                                 
+2. Comentários/Justificativas:
+
+2.i) A matéria das reivindicações 1 a 10 não é considerada invenção nem modelo de utilidade,
+pois se trata de esquemas, planos, princípios ou métodos comerciais, contábeis, financeiros,
+educativos, publicitários, de sorteio e de fiscalização, se enquadrando no disposto no Art. 10-III da
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                          Página 1 de 3
+                                           BR112013028263-0
+
+
+LPI. As reivindicações 1 a 10 pleiteiam sistema e meio de armazenamento que abrangem
+processo de avaliação de risco de encerramento de uma carteira financeira, os quais são
+enquadrados como um método financeiro conforme estabelece o item 2.4, exemplo (6) das
+"Diretrizes sobre a aplicabilidade do disposto no artigo 32 da Lei 9279/96 nos pedidos de
+patentes, no âmbito do INPI", publicadas na RPI no 2215 de 18/Jun/2013 (Res. no 093/2013).
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+ Artigos da LPI                                                           Sim                Não
+ O relatório descritivo está de acordo com disposto no Art. 24 da LPI                        
+ O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI                      
+3. Comentários/Justificativas:
+
+3.i) Sem comentários/justificativas neste quadro.
+
+                           Quadro 4  Documentos citados no parecer
+
+  Código                                 Documento                                  Data de
+                                                                                   publicação
+                                                                                       
+4. Comentários/Justificativas:
+
+4.i) Sem comentários/justificativas neste quadro.
+
+     Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8o, 11, 13 e 15 da LPI)
+      Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                      
+            Aplicação Industrial
+                                                         Não                      
+                                                         Sim                    1 a 10
+                  Novidade
+                                                         Não                      
+
+                                                         Sim                      
+            Atividade Inventiva
+                                                         Não                    1 a 10
+5. Comentários/Justificativas:
+
+5.i) As reivindicações 1 a 9 não evidenciam atividade inventiva face ao estado da técnica. As
+reivindicações 1 a 9 pleiteiam um sistema, o qual implementa em meios técnicos determinadas
+características não-técnicas que visam a resolver um problema financeiro. Uma vez que para
+evidenciar atividade inventiva os efeitos técnicos devem obrigatoriamente estar situados no campo
+técnico, constata-se que os elementos técnicos necessários  processadores em rede e bancos
+de dados  eram amplamente conhecidos ao técnico no assunto à época do depósito do pedido.
+Portanto, o problema técnico consiste em implementar as características não técnicas em meios
+técnicos. Tais características não técnicas são fornecidas ao técnico no assunto sob a forma de
+especificação do problema técnico. Um técnico no assunto, apresentado à especificação do
+
+
+
+                                                                                      Página 2 de 3
+                                       BR112013028263-0
+
+
+problema técnico que inclui as características não técnicas a serem implementadas, prontamente
+as implementaria sem que seja necessário o exercício de atividade inventiva.
+
+5.ii) A reivindicação independente 10 não evidencia atividade inventiva face ao estado da técnica.
+A matéria objeto da reivindicação 10, relativa a meio de armazenamento legível por computador,
+essencialmente pleiteia a expressão de um método financeiro quando armazenado em um meio
+físico. Entretanto, tal método incide no Art.10 da LPI, sendo direcionado a um problema financeiro,
+o qual é considerado não-técnico. Os argumentos apresentados para destituir a atividade
+inventiva das reivindicações 1 a 9 aplicam-se mutatis mutandis.
+
+5.iii) Não foi avaliado o quesito de aplicação industrial para as reivindicações 1 a 10, uma vez que
+a matéria pleiteada incide no Art.10 da LPI.
+
+6. Conclusão:
+
+6.i) Desta forma, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+        não atende ao requisito de atividade inventiva (Art. 8o combinado com Art. 13 da LPI); e
+        não é considerado invenção, uma vez que incide no Art. 10 da LPI.
+
+6.ii) De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                  Publique-se o indeferimento (9.2).
+
+                                                               Rio de Janeiro, 14 de maio de 2021.
+
+
+       Ricardo Affonso Grings Herbert
+        Pesquisador/ Mat. Nº 1749578
+         DIRPA  CGPAT III  DICEL
+  Deleg. Comp. - Port. INPI/DIRPA Nº 008/13
+
+
+
+
+                                                                                      Página 3 de 3
+

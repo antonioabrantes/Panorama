@@ -1,0 +1,409 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112019018544-5          N.° de Depósito PCT:EP2018/055846
+ Data de Depósito:                   08/03/2018
+ Prioridade Unionista:               EP 17160170.1 (09/03/2017)
+ Depositante:                        MAGNUS SKRAASTAD GULBRANDSEN (NO)
+ Inventor:                           MAGNUS SKRAASTAD GULBRANDSEN
+ Título:                             Provedor de acesso a rede principal 
+
+                                                              PARECER
+          O presente pedido refere-se a um método implementado por computador para fornecer
+nós, tais como estruturas e dispositivos de dados, com acesso a uma rede, e a uma
+arquitetura de rede correspondente. Pelo menos um provedor de acesso a rede principal
+controla o acesso em tempo real à rede através das camadas de uma pilha de protocolos para a
+rede e atribui sequencialmente um endereço de comunicação de rede ao ou a cada nó que
+solicita o acesso. O endereço de rede atribuído é codificado com um parâmetro exclusivo do nó
+e um parâmetro exclusivo do usuário do nó, em uma razão de identificador sequencial que é
+distribuída em tempo real a todos os nós conectados à rede. Cada nó processa a razão
+para verificar          sua       integridade sequencial e, ao determinar uma perda de integridade
+sequencial, o registro de razão que causa a perda é identificado e um alerta que compreende o
+registro identificado é transmitido para os nós através da rede. O provedor de acesso à rede
+principal cancela o acesso à rede para o nó ao qual o endereço de comunicação de
+rede correspondente ao registro de razão identificado foi atribuído, ao identificar o registro
+de razão na etapa de verificação ou ao receber um alerta.
+
+          Em 29/06/2021 foi concedido o exame colaborativo prioritário PPH - EPO do pedido em
+questão, solicitado por meio da petição 870210046109 de 21/05/2021.
+
+          Em 27/12/2021, por meio da petição 870210120968, a Requerente apresentou
+modificações no pedido em resposta ao parecer emitido, notificado na RPI 2647 de 28/09/2021
+(despacho 7.1). Estas modificações estão consideradas no Quadro 1.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                    1 a 47               870210120968     27/12/2021
+Quadro Reivindicatório                                   1a5                 870210120968     27/12/2021
+Desenhos                                                1 a 10               870190100952     08/10/2019
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                           BR112019018544-5
+
+
+Resumo                                       1                  870190087982          06/09/2019
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                             Sim             Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                          X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                  X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                        X
+O pedido está de acordo com disposto no art. 32 da LPI                         X
+Comentários/Justificativas: --
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                             Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI           X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                       X
+Comentários/Justificativas:
+
+   1. No exame anterior foram apontadas irregularidades referentes ao art. 25. A requente se
+       limitou a corrigir a tradução de termos no pedido, deslocar o termo caracterizante e, além
+       disso, apresentou argumentos referentes às outras irregularidades. A seguir serão
+       apresentados os argumentos e a análise da argumentação referente ao art. 25 da LPI:
+
+       1. As seguintes características usadas na definição da matéria pleiteada nas
+           reivindicações 1 e 10 são genéricas, impossibilitando a definição clara e precisa da
+           matéria objeto da proteção, o que contraria o disposto no Art. 25 da LPI e na Instrução
+           Normativa nº 30/2013  Art. 4º (III):
+
+       2. O termo controlar o acesso em tempo real e a atividade na rede não define de forma
+           clara e precisa como controlar o acesso a rede e, principalmente, como será controlada
+           a atividade na rede. A falta de precisão deixa em dúvida em qual local/ equipamento da
+           rede é realizado esse controle.
+
+           1. Argumentação da requerente: A esse respeito A Requerente esclarece que o
+                 controle é realizado pelo provedor de acesso à rede principal.
+
+           2. Análise da argumentação: De fato a entidade responsável pelo controle é
+                 identificada no trecho da reivindicação. O trecho é bastante genérico, entretanto foi
+                 considerado que com é relativo estado da técnica, já que o termo caracterizante foi
+                 deslocado, o trecho não influencia na compreensão da reivindicação.
+
+       3. O termo atribuir sequencialmente um endereço de comunicação de rede não fica
+           claro qual é o endereço de comunicação, como ele é atribuído e se ele já difere de
+           outros endereços utilizados, como por exemplo um servidor DHCP atribuindo
+           endereços IP.
+
+
+                                                                                             Página 2
+                                    BR112019018544-5
+
+
+   1. Argumentação da requerente: A Requerente esclarece que os endereços IP
+       são exemplos de endereços de comunicação de rede, mas o termo inclui
+       todos       os      tipos         de      identificadores        usados    para   distinguir
+       locais/destinos/terminais em uma rede. O provedor de acesso à rede central atribui
+       sequencialmente os endereços de comunicação da rede.
+
+   2. Análise da argumentação: O endereçamento proposto é bastante genérico,
+       entretanto, com é relativo ao estado da técnica já que o termo caracterizante foi
+       deslocado, o termo passa a ser claro. Dessa forma o trecho não influencia na
+       compreensão da reivindicação.
+
+4. O termo codificar o endereço de comunicação de rede atribuído... nesse trecho não é
+   claro quais são os endereços utilizados e principalmente quais operações e
+   codificações são realizadas nesse endereço. Não fica claro qual é o resultado
+   esperado do processamento de endereço.
+
+   1. Argumentação da requerente: A                  Requerente    esclarece    que,    conforme
+       mencionado       acima,      os    endereços       IP   são exemplos de endereços de
+       comunicação de rede. A finalidade do processamento de endereço é fazer hash
+       de componentes de endpoint/identidade em um ledger de integridade de
+       identidade distribuída. Ao usar uma tecnologia de ledger distribuída combinada
+       com o sistema de endereço de comunicação da rede, permite uma gravação à
+       prova de violação e publicação de nós conectados a todos os nós a serem
+       fornecidos, pelo qual quaisquer alterações em um identificador de nó são
+       imediatamente aparentes e notificadas a todos nós conectados.
+
+   2. Análise da argumentação: A codificação, independente do tipo de endereçamento
+       utilizado, é parte essencial para o funcionamento do presente pedido. Conforme
+       citado na resposta da requerente, a codificação é parte integrante do ledger, além
+       da codificação ser realizada de uma forma bastante específica. Entretanto a
+       reivindicação não define a codificação dessa mesma forma ao utilizar somente o
+       trecho codificar o endereço de comunicação de rede atribuído no provedor de
+       acesso à rede principal com um parâmetro exclusivo do nó e um parâmetro
+       exclusivo do usuário de nó, em um ledger de identificador de integridade;
+
+5. Os termos  verificar seus atributos de identidade sequencial e a integridade de
+   processo e determinar uma perda de integridade na razão não informam como o é
+   realizado   o   teste   de      integridade    e    principalmente    quais são   os atributos
+   necessários para um objeto ser íntegro.
+
+   1. Argumentação da requerente: A Requerente esclarece que, por exemplo, os
+       parágrafos [077] e [0078] do pedido internacional            PCT      (correspondente   aos
+       parágrafos [078] e [0079] do presente pedido de patente), oferece mais
+       detalhes sobre essa funcionalidade.
+
+
+
+
+                                                                                         Página 3
+                                   BR112019018544-5
+
+
+   2. Análise da argumentação: Os parágrafos citados identificam o uso de um algoritmo
+       de prova de trabalho conhecido, ou Blockchain, para determinar a integridade do
+       processo. O conteúdo reivindicado é genérico, não relacionado diretamente ao
+       Blockchain, permitindo quaisquer interpretações de verificação de identidade e
+       integridade, incluindo a simples verificação de um bit em um dado/mensagem, por
+       exemplo. Dessa forma o trecho é claro, porém genérico.
+
+6. O termo transmitir um alerta não define de forma clara como que é identificado o
+   alerta, de que forma é transmitido o alerta, quais equipamentos recebem esse alerta.
+
+   1. Argumentação da requerente: A Requerente esclarece que o alerta é transmitido
+       pela rede e recebido por todos os nós da rede e/ou pelos provedores de
+       acesso à     rede      principal   certificados.      A   Requerente esclarece           que,   por
+       exemplo,     os    parágrafos      [0078]   e    [0082]     do    pedido     internacional      PCT
+       correspondente         (correspondendo          aos       parágrafos       [0079]    e     [0083],
+       respectivamente, do presente pedido de patente), oferece mais detalhes sobre
+       esta funcionalidade.
+
+   2. Análise da argumentação: Os parágrafos citados somente identificam as
+       consequências de enviar/receber um alerta. Além disso, é indicado que a
+       mensagem deve ser enviada para todos os nós e quem é responsável por
+       processar o alerta (CNAP). Dessa forma o conteúdo reivindicado é genérico,
+       permitindo quaisquer interpretações de transmissão de alertas, incluindo a simples
+       verificação de um bit em um dado/mensagem, por exemplo. Dessa forma o trecho é
+       claro, porém genérico.
+
+7. O termo cancelar ou controlar o acesso à rede de forma semelhante ao termo do item
+   1, não define de forma clara e precisa como controlar o acesso a rede e,
+   principalmente, como será controlada a atividade na rede. A falta de precisão deixa em
+   dúvida    em    qual    local/equipamento       da     rede     é    realizado    esse   controle     e
+   cancelamento de acesso à rede.
+
+   1. Argumentação da requerente: A Requerente esclarece que o provedor de acesso
+       à rede principal cancela ou controla o acesso à rede.
+
+   2. Análise da argumentação: De fato o provedor de acesso é o responsável por
+       controlar o acesso à rede, entretanto a reivindicação não está redigida de forma a
+       identificar quem controla o acesso à rede.
+
+8. Dessa forma, os trechos citados são genéricos porém claros, com a exceção dos
+   termos codificar o endereço de comunicação de rede atribuído... e cancelar ou
+   controlar o acesso à rede. Dessa forma, a matéria pleiteada nas reivindicações 1 e 10
+   são genéricas, impossibilitando a definição clara e precisa da matéria objeto da
+   proteção, o que contraria o disposto no Art. 25 da LPI e na Instrução Normativa nº
+   30/2013  Art. 4º (III).
+
+
+
+                                                                                                 Página 4
+                                       BR112019018544-5
+
+
+        9. Concordamos com os argumentos da requerente que as reivindicações 1 e 10 não
+           possuem irregularidades relativas a objeto em termos do resultado alcançado e
+           método de utilização do aparelho. Dessa forma, as reivindicações são válidas frente a
+           essas irregularidades.
+
+
+                         Quadro 4  Documentos citados no parecer
+
+ Código                              Documento                               Data de publicação
+   D1       US9143392                                                        22/09/2015
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento               Reivindicações
+                                                   Sim                       1 a 14
+           Aplicação Industrial
+                                                   Não                          --
+                                                   Sim                       1 a 14
+                Novidade
+                                                   Não                          --
+
+                                                   Sim                          --
+           Atividade Inventiva
+                                                   Não                       1 a 14
+Comentários/Justificativas
+
+   1. Argumentação da requerente:
+
+        1. Em primeiro lugar, o Examinador alega que o documento D1 revela a característica da
+           reivindicação 1 de controlar o acesso em tempo real e a atividade na rede de cada
+           camada da pilha de protocolo por pelo menos um provedor de acesso à rede principal,
+           em que o provedor de acesso à rede principal compreende pelo menos uma entidade
+           digital e/ou física. As seções do documento D1 citadas pelo Examinador em apoio
+           a esta afirmação simplesmente descrevem como FlameRouter fornece um gateway
+           para o sistema SHADOWS virtual, com os roteadores interconectando os nós
+           SHADOW entre si. Assim, o documento D1 não divulga acesso em tempo real e
+           atividade em uma rede, como por exemplo a rede de acesso real de um provedor de
+           acesso, mas sim divulga um gateway para um sistema virtual que está
+           localizado no topo de uma rede real.
+
+        2. A Requerente esclarece que o documento D1 também não revela as características
+           da Reivindicação 1 de atribuir sequencialmente um endereço de comunicação de rede
+           para o ou a cada nó solicitante de acesso no provedor de acesso à rede principal e
+           codificar o endereço de comunicação de rede atribuído ao provedor de acesso à rede
+           central com um parâmetro exclusivo do nó e um parâmetro exclusivo do usuário do nó
+           em um ledger de identificador de integridade, conforme alegado pelo Examinador. Em
+           vez disso, as seções do documento D1 citadas pelo Examinador como sendo
+
+
+
+                                                                                          Página 5
+                                    BR112019018544-5
+
+
+      equivalentes a esses recursos simplesmente descrevem o DSSA, que é um protocolo
+      para iniciar o "salto" (hopping around) dos nós entre os canais de comunicação
+      virtuais com base em uma chave criptográfica, com o objetivo de detectar dados não
+      validados de acesso do nó ao sistema SHADOWS. Este protocolo torna o
+      acesso/categorização do tráfego para a rede virtual de fontes externas dependente de
+      uma determinada ordem em que as várias comunicações devem fluir nos vários canais
+      para serem validadas. Além disso, não há claramente nenhum ensinamento ou
+      sugestão no documento D1 do hashing de um parâmetro exclusivo de um nó e um
+      parâmetro exclusivo do usuário do nó em um ledger identificador de integridade
+
+   3. A Requerente esclarece, ainda, que o documento D1 também não divulga as
+      características da Reivindicação 1 de distribuição do ledger de identificadores de
+      integridade em tempo real para cada nó conectado à rede; receber o ledger de
+      identificador distribuído e processar o mesmo em cada nó conectado à rede ou um ou
+      mais nós certificados para verificar sua identidade sequencial e integridade do
+      processo; ao determinar uma perda de integridade do ledger, identificar o registro do
+      ledger que causa a perda e transmitir um alerta compreendendo o registro do
+      ledger identificado para cada nó conectado à rede ou um ou mais nós certificados. Na
+      verdade, o próprio Examinador reconhece no Parecer de Exame Técnico que o
+      documento D1 não especifica o uso específico do blockchain e do recurso de registro
+      de ledger para implementar as suas funcionalidades.
+
+   4. Finalmente, a Requerente esclarece que o documento D1 também não divulga
+      as características da Reivindicação 1 de ao identificar um registro ledger que causa
+      uma perda de integridade ou ao receber um alerta do provedor de acesso à rede
+      principal, cancelando ou controlando o acesso à rede, sistema ou ledger para o nó que
+      possui os identificadores que correspondem          ao    registro   ledger   identificado. A
+      Requerente esclarece que a seção do documento D1 referida pelo Examinador em
+      apoio a esta afirmação simplesmente se refere a como o protocolo DSSA procura
+      comunicação    nos   vários    canais   e     até   que     ponto    certas mensagens são
+      compatíveis com o algoritmo criptográfico.
+
+2. Análise da argumentação da requerente:
+
+   1. De fato os trechos citados indicam equipamentos de firewall, gateway e roteadores. É
+      de conhecimento de um técnico no assunto que tais equipamentos lidam com tráfego
+      de dados em redes, possuindo funções capazes de processar esses fluxos de dados
+      em tempo real. Não é indicado em D1 atividades envolvendo redes que não sejam em
+      tempo real (Cache de dados ou DTNs). O FlameRouter é um equipamento de rede
+      físico, capaz de interligar diversas interfaces de rede, como descrito no documento D1
+      na seção de glossário (coluna 18, linhas 28 a 35). O trecho In a preferred embodiment
+      of the SHADOWS infrastructure, there are signicant strong defenses against DDoS
+      attacks, implemented primarily in the SHADOWS FLAMERouter technology (the
+
+
+
+                                                                                          Página 6
+                                 BR112019018544-5
+
+
+   essence of which is also in common with the SHADOWS RUSHrouter technology, and
+   by inclusion, in the SHADOWS MARSHALs). The most important defenses include the
+   ability to efciently and accurately distinguish self (bona de trafc) from non-self, the
+   ability to impose adaptive ow control, the ability to provide hidden services and
+   stealthy interfaces, the ability to present a continually moving multipoint target (thus
+   dividing and effectively decimating the attack resources), and signicant means for
+   load-shedding and adaptive redistribution of defensive resources. (coluna 14, linhas 30
+   a 43) descreve em detalhes que o FLAMERouter é capaz de manipular o tráfego, com
+   destaque a habilidade de controlar fluxos de dados (flow control).
+
+2. Como descrito no quadro 3, a reivindicação 1 trata o endereçamento de forma
+   genérica, então quaisquer formas de endereçamento podem ser utilizadas para
+   contestar o trecho indicado. Em D1 é descrito que o DSSA contém, pelo menos, os
+   seguintes parâmetros: Nonce; RUSHrouter group number; Source MAC; Source IP;
+   Source Port; Destination MAC; Destination IP; Destination Port; Operation Requested
+   (ver D1, coluna 130, linhas 59 a 67). Assim, é possível identificar diversas fomas de
+   endereçamento no DSSA. O trecho The ability to merge Bloom filters enables the set
+   ofconcurrently active DSSA configuration parameters to be both maintained individually
+   (so that obsolete ones can be deleted and new ones can be added), and also combined
+   into a merged filterthat can be used for rapid traffic validation..) (Ver D1, coluna 131,
+   linha 26 a coluna 132, linha 62), cita especificamente uma forma de categorizar a partir
+   de filtros, validando o tráfego de dados.
+
+3. Como dito no parecer anterior, de fato o documento D1 não menciona o uso de
+   Bloackchain em si, entretanto, como apontado no quadro 3 deste parecer, a forma
+   reivindicada não se refere ao uso de blockchain e das características inerentes a essa
+   tecnologia. Ainda, mesmo que tais características fossem explicitamente reivindicadas,
+   um técnico no assunto ao combinar os ensinamentos do documento D1 com os seus
+   conhecimentos, observando que a tecnologia blockchain já fazia parte do estado da
+   técnica na data do depósito do presente pedido, é capaz de chegar ao mesmo
+   resultado. Dessa forma os mesmo argumentos e trechos utilizados anteriormente são
+   capazes de antecipar o trecho destacado.
+
+4. O documento D1 explicita que controla o fluxo ao perceber alguma irregularidade, não
+   deixando os dados maliciosos propagar. Another key role ofthe SHADOWS
+   FLAMERouters is to safeguard the SHADOWS communications channels, not only to
+   prevent denial of service (which includes resisting DDOS attacks), but also to prevent
+   trafc analysis, so as to render the SHADOWS network opaque. FLAMERouters use
+   active techniques, in conjunction with the SELF subsystem, to classify both inbound
+   and outbound trafc as friendly, benign, or malicious. Friendly trafc (as determined by
+   SELF) is granted the highest priorities. Benign and malicious trafc are both allowed,
+   depending on the properties of the trafc itself, but are closely managed by the
+   FLAMERouters so as to meet the specic needs of SHADOWS (non-self trafc is
+
+
+                                                                                       Página 7
+                                          BR112019018544-5
+
+
+             desirable for mixing purposes, as part of defending against trafc analysis by attackers,
+             but must be limited to exactly the desired bandwidths, while ensuring that no malicious
+             trafc is allowed to propagate). O documento, como citado anteriormente, é capaz de
+             detectar e sinalizar um trafego anormal (bogus) When checking for a bogus message,
+             ifany of the Bloom filter bits are zero (FALSE), the message is guaranteed to be bogus,
+             so validation processing can cease as soon as zero bits are detected. If all of the bits
+             are set (TRUE), the message is likely legitimate, but fiirther processing is required
+             before validation can be confinned. (Ver D1, coluna 132, linhas 57 a 62).
+
+          5. Dessa forma, as características da reivindicação 1 Detecção e controle de acesso à
+             rede em nós, sendo o controle baseado em parâmetros de integridade de cada nó é
+             antecipada integralmente por D1 e os conhecimentos de um técnico no assunto.
+
+   3. Sendo assim, constatamos que a matéria pleiteada nas reivindicações 1 a 14 é mera
+          decorrência do estado da técnica de D1, não apresentando atividade inventiva, e estando
+          em desacordo com os artigos 8º, 11 e 13 da LPI.
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -     não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -     as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+            descritivo (Art. 25 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                   Publique-se o indeferimento (9.2).
+
+
+
+                                                              Rio de Janeiro, 5 de fevereiro de 2022.
+
+
+
+
+Daniel de Souza Dias
+Pesquisador/ Mat. Nº 2041265
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+007/16
+
+
+
+
+                                                                                             Página 8
+

@@ -1,0 +1,463 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122020007545-7             N.° de Depósito PCT:JP2010/004099
+ Data de Depósito:                   18/06/2010
+ Prioridade Unionista:               JP 2009-146592 (19/06/2009); JP 2009-252051 (02/11/2009)
+ Depositante:                        GODO KAISHA IP BRIDGE 1 (JP)
+ Inventor:                           SEIGO NAKAO; DAICHI IMAMURA
+ Título:                             Estação base, método para receber um sinal de resposta transmitida
+                                     a partir de um terminal e circuito integrado para controlar um processo
+                                     em uma estação base
+
+                                                                PARECER
+       O presente pedido corresponde a uma divisão do pedido original PI1014497-8, solicitada
+pelo Depositante por meio da petição 870200047745 de 16/04/2020.
+      Conforme Art.28 da IN 31/2013, o pedido original e o pedido dividido estão na mesma fase
+processual.
+      Em 08/06/2021 foi publicado, através da RPI nº 2631, notificação de ciência (7.1) conforme
+parecer de exame técnico do presente pedido datado de 26/05/2021.
+      O Depositante, através da petição nº 870210076856 de 20/08/2021, apresentou
+manifestação a respeito do parecer técnico, com novas vias do pedido.
+
+                                      Quadro 1  Páginas do pedido examinadas
+
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 76               870210076856           20/08/2021
+Quadro Reivindicatório                                   1a7                 870210076856           20/08/2021
+Desenhos                                                1 a 13               870200047745           16/04/2020
+Resumo                                                      1                870210076856           20/08/2021
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                          BR122020007545-7
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI       x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                     x
+Comentários/Justificativas
+        Conforme Art.28 da IN 31/2013, o pedido original e o pedido dividido estão na mesma fase
+processual. O Depositante apresentou um novo quadro reivindicatório para o pedido original em
+23/08/2021 através da petição 870210077496. Verificamos que o Depositante pleiteia no pedido
+original um terminal móvel, bem como o método e circuito integrado associados. No presente
+pedido dividido, o Depositante pleiteia a estação base, mais o método e circuito integrado
+associados. Constatamos que o pedido original e o dividido possuem o mesmo conceito inventivo,
+onde o terminal móvel do pedido original é pleiteado de tal forma a comunicar-se com a estação
+base do pedido dividido, e vice-versa.
+       1) Reivindicações Independentes:
+        1.1) O parecer de exame técnico anterior apresentou argumentação de que havia nas
+antigas reivindicações independentes 1, 15 e 16 ausência de características técnicas essenciais e
+específicas para a realização da invenção, contrariando o Art. 25 da LPI e Instrução Normativa nº
+30/2013  Art. 5º (I). Além disso, foi constatado que tal ausência fazia com que estas
+reivindicações pleiteassem modalidade não fundamentada no relatório descritivo, contrariando o
+disposto no Art. 25 da LPI e Instrução Normativa nº 30/2013  Art. 4º (IV).
+       Em sua manifestação, o Depositante emendou as reivindicações independentes 1. 13 e 14
+(antigas reivindicações 1, 15 e 16), com as seguintes características técnicas grifadas: ...o sinal
+de resposta dependendo de um resultado de detecção de informação de controle e um resultado
+de detecção de erro... e o sinal resposta é recebido....
+      Consideramos que estas emendas atendem parcialmente as não conformidades
+apontadas no parecer anterior. Contudo, a seguir apresentaremos argumentação que faz com que
+mantenhamos opinião de que o pedido não atende ao Art. 25 da LPI.
+
+
+       1.2) O parecer de exame técnico anterior também considerou que as reivindicações
+independentes não apresentam clareza e precisão, contrariando o Art. 25 da
+LPI, uma vez que informa que o recurso usado pra receber o sinal resposta é determinado com
+base no resultado da detecção de erro (ACK/NACK), mas a seguir, nas duas últimas etapas,
+informa que o recurso é determinado com base na detecção ou não do sinal (DTX), apresentando
+portanto informações conflitantes. Também foi manifestado que tal fato acarreta na ausência de
+características técnicas essenciais e específicas para a invenção, pois não determina como o
+recurso será escolhido de acordo com a detecção de erro (ACK/NACK), tornando esta etapa sem
+nenhum efeito técnico pois, conforme dito acima, o recurso nesta reivindicação está sendo
+escolhido efetivamente com base na detecção ou não do sinal (DTX).
+       O Depositante apresentou discordância, argumentando que o foco da reivindicação
+independente 1 seria no resultado da detecção das informações de controle, o recurso 1 do
+PUCCH (isto é, o primeiro recurso de canal de controle de enlace ascendente) e o recurso 2 do
+PUCCH (isto é, o segundo recurso de canal de controle de enlace ascendente) são usados de
+forma diferente dependendo de um padrão do resultado de detecção de sinal (grifos nossos).
+
+
+
+                                                                                          Página 2
+                                         BR122020007545-7
+
+       Mais a frente, o Depositante ilustra tal fato a partir de:
+       Reivindicação 1: */D  recurso 1 do PUCCH
+                          D/*  recurso 2 do PUCCH
+       onde, * mostra um caso onde o sinal é detectado (por exemplo, ACK ou NACK).
+        Ou seja, o Depositante está reafirmando o constatado no parecer anterior, de que nas
+reivindicações independentes o recurso utilizado é escolhido mediante a detecção do sinal,
+independente do resultado da detecção de erro (ACK/NACK).
+        Respeitosamente, a argumentação apresentada pelo Depositante somente corrobora a
+argumentação apresentada pelo examinador. As reivindicações independentes devem ser
+realizáveis independentemente das reivindicações dependentes, e devem conter em seu escopo
+todas as características consideradas essenciais e específicas para a realização da mesma. Se as
+reivindicações independentes estão determinando como essencial que o sinal resposta sendo
+transmitido  usando pontos de constelação e um recurso de canal de controle de enlace
+ascendente dependendo de um resultado de detecção da informação de controle e um resultado
+de detecção de erro (grifos nossos), é necessário que seja informado nestas reivindicações como
+o resultado da detecção de erro (ACK/NACK) determinará a escolha do recurso. Mantemos
+entendimento exarado no parecer de exame anterior, e corroborado pela argumentação do
+Depositante, de que as reivindicações independentes contrariam o Art. 25 da LPI por apresentar
+características conflitantes, pois analisando individualmente estas reivindicações, as mesmas
+estão efetuando em suas últimas duas etapas a escolha do recurso somente com base na
+detecção do sinal (DTX), sem levar em consideração a detecção do resultado de erro, que é
+considerado pela mesma reivindicação como sendo essencial para a determinação do recurso.
+
+
+       2) Reivindicações Dependentes:
+       2.1) Reivindicações Dependentes 3-7:
+        O parecer de exame técnico anterior considerou que as reivindicações dependentes 3-7
+(antigas reivindicações dependentes 4-8) contrariam o disposto no Art. 25 da LPI e Instrução
+Normativa nº 30/2013  Art. 4º (III)(IV), Art. 5º (I) e Art. 6º (I) ao serem combinadas com a
+reivindicação independente 1.
+       Em discordância, o Depositante apresentou a seguinte argumentação:
+       A nova reivindicação 1 do presente pedido define que o recurso de canal de controle de
+enlace ascendente é usado de forma diferente com base na presença ou ausência da detecção
+da informação de controle, enquanto as novas reivindicações 3-7 identificam o conteúdo do sinal
+de resposta e identificam que o recurso de canal de controle de enlace ascendente é determinado
+com base no conteúdo do sinal de resposta.
+      Por exemplo, em oito padrões do sinal de resposta mostrado na Figura 12B,
+em que a cláusula da reivindicação 1 se concentra apenas no DTX, enquanto
+as novas reivindicações 3-7 se concentram no padrão específico a seguir.
+       Reivindicação 1: */D  recurso 1 do PUCCH
+                          D/*  recurso 2 do PUCCH
+                  onde, * mostra um caso onde o sinal é detectado (por exemplo, ACK ou NACK).
+       Reivindicação 4: A/D, N/D  recurso 1 do PUCCH
+
+
+
+                                                                                       Página 3
+                                       BR122020007545-7
+
+       Reivindicação 5: D/A, D/N  recurso 2 do PUCCH
+       Reivindicação 6: A/N, A/D, N/N, N/D  recurso 1 do PUCCH
+       Reivindicação 7: D/A, D/N  recurso 2 do PUCCH
+       Reivindicação 8: D/A, N/A  recurso 2 do PUCCH. (grifos nossos)
+        Conforme Instrução Normativa nº 30/2013 - Art. 6º (I), as reivindicações dependentes são
+aquelas que, mantida a unidade de invenção, incluem todas as características de outra(s)
+reivindicação(ões) anterior(es) e definem detalhamentos dessas características e/ou
+características adicionais que não sejam consideradas características essenciais da invenção
+(grifos nossos).
+        Com isso, respeitosamente consideramos a argumentação apresentada pelo Depositante
+não pertinente. Segundo o Depositante, em cada combinação das reivindicações dependentes 3-7
+com a reivindicação independente 1 seria recebido um diferente padrão de sinal resposta.
+Contudo, pela exemplificação apresentada pelo Depositante, para tal resultado é evidente que em
+cada combinação as duas últimas etapas da reivindicação 1 teriam que ser substituídas pelo
+definido nas reivindicações dependentes. A substituição das duas últimas etapas da reivindicação
+1 não é permitida, uma vez que estas foram definidas como essenciais e específicas para a
+realização da invenção. Além disso, conforme a supracitada definição de reivindicação
+dependente, a combinação é aditiva, ou seja, as características da reivindicação independente
+são mantidas na combinação, com as características da reivindicação dependente servindo tão
+somente para adicionar e/ou definir detalhamentos.
+        Apenas para exemplificar a falta de clareza e precisão da referida combinação entre
+reivindicações, suponha uma estação base que combine aditivamente as características das
+reivindicações 1 e 3. Suponha uma situação (ACK ou NACK)/DTX. Teremos as seguintes duas
+situações:
+       (i) Devido as duas últimas etapas da reivindicação 1: o sinal de resposta é recebido
+usando um primeiro recurso de canal de controle de enlace ascendente, um índice do qual está
+associado com um menor índice do CCE no qual a informação de controle é transmitida (grifos
+nossos).
+       (ii) Devido a reivindicação 3: o sinal de resposta é recebido usando o primeiro recurso de
+canal de controle de enlace ascendente. Nada é mencionado sobre o índice.
+        As características técnicas grifadas demonstram que o resultado final é diferente para a
+mesma situação (ACK ou NACK)/DTX. Portanto, na combinação destas duas reivindicações, o
+sinal recebido corresponderá ao modo de geração (i) ou (ii)? Existe alguma ordem de prioridade
+entre estes dois modos de geração de sinal? Estes são questionamentos que demonstram que a
+combinação das reivindicações não permitem definir de forma clara e precisa o modo de operação
+da estação base para a qual deseja-se obter proteção patentária.
+        Evidentemente, conflitos similares são observados da combinação das demais
+reivindicações dependentes 4 a 7 com a reivindicação 1.
+        Portanto, mantemos entendimento de que as reivindicações dependentes 3-7 (antigas
+reivindicações dependentes 4-8) contrariam o disposto no Art. 25 da LPI e Instrução Normativa nº
+30/2013  Art. 4º (III)(IV), Art. 5º (I) e Art. 6º (I) ao serem combinadas com a reivindicação
+independente 1, para tal bastando observar que na combinação aditiva de cada uma destas
+reivindicações dependentes com a reivindicação independente 1 haverá conflito entre o modo de
+geração de sinal resposta das últimas duas etapas da reivindicação 1 com o modo de recebimento
+
+
+
+                                                                                         Página 4
+                                       BR122020007545-7
+
+do sinal resposta de cada uma das reivindicações dependentes, não tornando claro e preciso em
+cada combinação qual modo seria utilizado para receber o padrão de sinal resposta.
+
+
+       2.2) Reivindicação Dependente 2.
+        O parecer de exame técnico anterior considerou que a reivindicação dependente 2 (antiga
+reivindicação dependente 3) contraria o disposto no Art. 25 da LPI e Instrução Normativa nº
+30/2013  Art. 4º (III)(IV) ao ser combinada com a reivindicação independente 1.
+        O Depositante contra-argumenta da seguinte forma: em que a cláusula da reivindicação 1
+afirma que os recursos do canal de controle de enlace ascendente usados para o sinal de
+resposta são diferentes de acordo com os diferentes casos do resultado de detecção de sinal (ou
+seja, o padrão), mas não limita a possibilidade de sinal de resposta para um dentre ACK, NACK e
+DTX.
+        Respeitosamente, não consideramos suficiente a argumentação apresentada pelo
+Depositante, pois a falta de clareza e precisão apontadas no parecer de exame anterior não está
+na questão do que o sinal resposta representa.
+        Conforme o próprio Depositante apresenta em sua argumentação, o resultado gerado pela
+reivindicação 1 é a seguinte:
+       Reivindicação 1: */D  recurso 1 do PUCCH
+                        D/*  recurso 2 do PUCCH
+                 onde, * mostra um caso onde o sinal é detectado (por exemplo, ACK ou NACK).
+
+
+       Conforme exposto no parecer de exame anterior, A diferença conceitual entre detecção
+de erro e detecção de sinal é reiteradamente reforçada ao longo do relatório descritivo e ambos
+não se confundem. Conforme descrito no parágrafo [0189] que justifica a modalidade 3 da
+invenção, se o terminal não puder receber as informações de controle sobre a locação do enlace
+descendente (situação DTX), o terminal 440 não poderá receber os dados (não será capaz de
+gerar ACK ou NACK).
+        Portanto, se o próprio Depositante reconhece que o resultado gerado pela reivindicação
+independente 1 está prevendo que o sinal não será detectado em uma das portadoras (D/* ou
+*/D), e sabendo-se que quando a portadora não é detectada não é possível gerar ACK ou NACK,
+então mantemos entendimento de que ao efetuar a combinação da reivindicação dependente 2
+com a reivindicação 1 não é possível definir de forma clara e precisa como o sinal de resposta
+denota um resultado da decodificação dos dados de enlace descendente em cada uma das
+portadoras de componente de enlace descendente, pois a combinação destas reivindicações não
+estabelece como seria gerado as seguintes situações: ACK/ACK, ACK/NACK, NACK/ACK,
+NACK/NACK, uma vez que o resultado da reivindicação 1 estabelece que pelo menos uma das
+portadoras não será detectada, e por conseguinte não será possível gerar ACK ou NACK para
+esta.
+       Além disso, mantemos entendimento de que Também não existe como a resposta denotar
+resultado não transmitido, pois a reivindicação 1 presume sempre detectar ao menos uma
+portadora. A situação de sinal não transmitido nas duas portadoras seria representado por uma
+resposta DTX/DTX, a qual não é vislumbrada pela descrição do pedido, conforme pode ser visto
+nos parágrafos [0188-0197] e Figura 12B).
+
+
+
+
+                                                                                         Página 5
+                                       BR122020007545-7
+
+
+                           Quadro 4  Documentos citados no parecer
+
+Código                               Documento                               Data de publicação
+          R1-081566 - Ericsson, Details of ACK/NAK bundling for TDD,
+   D1                                                                               30/03/2008
+          TSG-RAN WG1 #52bis
+          R1-091744 - Panasonic, UL ACK/NACK transmission on PUCCH
+   D2                                                                               28/04/2009
+          for carrier aggregation, 3GPP TSG-RAN WG1 Meeting #57
+   D3     WO 2009/022849 A1                                                         19/02/2009
+   D4     CN 101267253 A                                                            17/09/2008
+          R1-091702 - ZTE, Uplink Control Channel Design for LTE-
+   D5                                                                                05/2009
+          Advanced, TSG-RAN WG1 #57
+Comentários/Justificativas
+       Os documentos D3 e D4 encontram-se citados como relevantes no relatório de busca
+emitido em exigência preliminar (despacho 6.21).para o pedido original.
+       O documento D5 é citado no relatório descritivo (parágrafos [029,030]) como literatura não-
+patentária (NPL), portanto não é decorrente de novas buscas, em conformidade com o item
+5.2.15.1 do procedimento P029, da Portaria/INPI/DIRPA N° 1/2021.
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento                Reivindicações
+                                                   Sim                       1 a 14
+           Aplicação Industrial
+                                                   Não                          -
+                                                   Sim                       1 a 14
+                Novidade
+                                                   Não                          -
+                                                   Sim                          -
+           Atividade Inventiva
+                                                   Não                       1 a 14
+Comentários/Justificativas
+
+        1) Antecedentes:
+        Em 15/12/2020, através da RPI 2606, foi publicado parecer de exame técnico que
+considerou que o quadro reivindicatório não atendia ao requisito atividade inventiva quando
+comparado ao estado da técnica de D1 ou D2 (D1: Parágrafos 2.2 e 2.3; D2: Parágrafo 2),
+utilizando como subsídio o exame realizado pelo EPO para o pedido de patente EP 3,293,999 A1,
+conforme preconiza a Resolução INPI/PR n° 241/2019  Art. 5° (§1°).
+        Como resposta, o Depositante apresentou um novo quadro reivindicatório através da
+petição n° 870210020160 de 02/03/2021 com emendas nas reivindicações independentes.
+Segundo o Depositante, D1 e D2 não antecipariam as seguintes emendas realizadas na
+reivindicação independente 1:
+             (a) uma seção de recepção (113) configurada para receber um sinal de resposta
+para os dados de enlace descendente, o sinal de resposta sendo transmitido a partir do terminal
+(200) usando pontos de constelação e um recurso de canal de controle dependendo de um
+
+
+                                                                                          Página 6
+                                       BR122020007545-7
+
+resultado de detecção de erro no terminal (200) que diz respeito aos dados de enlace
+descendente em uma primeira portadora de componente de enlace descendente e uma segunda
+portadora de componente de enlace descendente incluídas nas portadoras de componente de
+enlace descendente configuradas;
+       (b) quando informação de controle na primeira portadora de componente de enlace
+descendente é detectada e informação de controle na segunda portadora de componente de
+enlace descendente não é detectada no terminal (200), o sinal de resposta é transmitido usando
+um primeiro recurso de canal de controle de enlace ascendente, um índice do qual está associado
+com um menor índice do(s) CCE(s) no(s) qual(is) a informação de controle é transmitida; e
+quando informação de controle na segunda portadora de componente de enlace descendente é
+detectada e informação de controle na primeira portadora de componente de enlace descendente
+não é detectada no terminal (200), o sinal de resposta é transmitido usando um segundo recurso
+de canal de controle de enlace ascendente, um índice que é notificado ao terminal (200) .
+      Em 08/06/2021, através da RPI 2631, foi publicado parecer técnico dando ciência ao
+Depositante de que:
+       - As características técnicas que o Depositante aponta como inventivas com relação a D1 e
+D2 são realizadas pelo terminal, e não pela estação base, que é o objeto que se deseja proteção.
+A estação base praticamente realiza duas ações: (i) transmite informações de controle para alocar
+duas portadoras de enlace descendente para transmissão de dados; (ii) tem capacidade para
+receber um sinal resposta que indica detecção de erro (ACK/NACK) ou ausência de sinal (DTX)
+nas duas portadoras.
+        - Por conseguinte, foi mantido entendimento exarado no primeiro exame técnico de que a
+reivindicação independente 1 não atende ao requisito atividade inventiva com relação a D1 ou D2,
+uma vez que essas anterioridades já estabelecem que uma estação base do estado da técnica
+tem capacidade de alocar canais para transmissão de dados no enlace descendente e determinar,
+através do recebimento de um sinal resposta do terminal, se o sinal foi recebido com ou sem erro
+(ACK/NACK) ou se não foi recebido (DTX) (D1: Parágrafos 2.2 e 2.3; D2: Parágrafo 2).
+        - Além disso, a própria descrição do pedido coloca como estado da técnica a capacidade
+de uma estação base alocar canais para transmissão de dados no enlace descendente e
+determinar, através do recebimento de um sinal resposta do terminal, se o sinal foi recebido com
+ou sem erro (ACK/NACK) ou se não foi recebido (DTX) (Parágrafos [002-020] do Relatório
+Descritivo).
+       - Ademais, verificou-se ainda que a característica técnica (a) seria evidente para um
+técnico no assunto a partir de D3 (D3: Parágrafos [0035-36, 0048-50, 0067-71, 0092, 0105-109,
+0120-123]), e a característica (b) seria evidente a partir de D4 (D4: Parágrafos [032-34, 050, 066,
+082, 097, 0102, 0116-17], Reivindicações 1 a 5) ou a partir da própria descrição do estado da
+técnica realizada na seção Antecedentes da Técnica do relatório descritivo, observando-se que
+esta característica encontra-se na anterioridade D5 citada pelo pedido como Literatura Não
+Patentária 5 (NPL 5) nos Parágrafos [029, 030] do relatório descritivo (D5: item 2.2, Alternativa
+#2).
+       Evidentemente, da análise prévia consideramos que a reivindicação independente 1 seria
+antecipada por (D1 ou D2), bem como por (D1 ou D2) combinado a D3 com (D4 ou D5), onde
+qualquer uma destas combinações respeita o limite de três documentos de anterioridade
+estabelecido no item 5.10 da Resolução INPI/PR n° 169/2016 (Diretrizes de Exame de Pedidos de
+Patente  Bloco II).
+
+
+
+
+                                                                                          Página 7
+                                      BR122020007545-7
+
+       2) Manifestação do Depositante:
+       Em sua manifestação, o Depositante somente apresenta argumentação com relação a
+anterioridade D4.
+       Após análise, consideramos pertinentes as argumentações apresentadas pelo Depositante
+de que D4 não antecipa a característica técnica (b).
+        Contudo, o Depositante em sua manifestação não apresentou argumentação com relação
+aos seguintes apontamentos realizados no parecer de exame anterior com relação à falta de
+atividade inventiva da reivindicação 1, para os quais mantemos o entendimento previamente
+exarado:
+        - Em sua manifestação, o Depositante informa que o suporte para as alterações
+realizadas nas reivindicações 1, 15 e 16 encontra-se nos parágrafos [0188] a [0196] do relatório
+descritivo. Observamos que esta passagem refere-se a ações realizadas pelo terminal móvel, e
+não pela estação base;
+       - Com isso, toda argumentação apresentada pelo Depositante tem como fundamentação
+ações realizadas pelo terminal, e não pela estação base, que é o objeto que se deseja proteção.
+       - A estação base praticamente realiza duas ações: (i) transmite informações de controle
+para alocar duas portadoras de enlace descendente para transmissão de dados; (ii) tem
+capacidade para receber um sinal resposta que indica detecção de erro (ACK/NACK) ou ausência
+de sinal (DTX) nas duas portadoras.
+       - As demais ações são realizadas pelo terminal, ou seja: (iii) o terminal é quem determina
+quais pontos de constelação e recurso para transmitir o sinal resposta são usados de acordo com
+a detecção de erro; e (iv) o terminal é quem determina qual o recurso será utilizado (primeiro ou
+segundo) de acordo com a ausência de sinal (DTX) em uma das portadoras.
+       - Portanto, mantemos o entendimento exarado no parecer de exame técnico anterior de
+que a reivindicação independente 1 não atende ao requisito atividade inventiva com relação a D1
+ou D2, uma vez que essas anterioridades já estabelecem que uma estação base do estado da
+técnica tem capacidade de alocar canais para transmissão de dados no enlace descendente e
+determinar, através do recebimento de um sinal resposta do terminal, se o sinal foi recebido com
+ou sem erro (ACK/NACK) ou se não foi recebido (DTX) (D1: Parágrafos 2.2 e 2.3; D2: Parágrafo
+2).
+        - Além disso, a própria descrição do pedido coloca como estado da técnica a capacidade
+de uma estação base alocar canais para transmissão de dados no enlace descendente e
+determinar, através do recebimento de um sinal resposta do terminal, se o sinal foi recebido com
+ou sem erro (ACK/NACK) ou se não foi recebido (DTX) (Parágrafos [002-020] do Relatório
+Descritivo).
+       a característica (a) é antecipada por D3, que revela um transceptor OFDM que executa a
+recepção de múltiplas bandas, e transmite um sinal ACK/NACK combinado, variando os pontos de
+constelação e os recursos de transmissão de acordo com o resultado da detecção de erro (D3:
+Parágrafos [0035-36, 0048-50, 0067-71, 0092, 0105-109, 0120-123]);.
+       Além disso, segundo a descrição do pedido a característica técnica (b) já estaria
+contemplada no estado da técnica, pois o parágrafo [020] descreve que a variação dos pontos de
+constelação e recursos para envio do sinal resposta de acordo com a detecção do sinal em uma
+de duas portadoras de enlace descendente faz parte dos Antecedentes da Técnica. E de fato,
+
+
+
+
+                                                                                        Página 8
+                                        BR122020007545-7
+
+constatamos que esta encontra-se descrita em D5, a qual é uma Literatura Não Patentária 5 (NPL
+5) citada nos Parágrafos [029, 030] pelo Depositante (D5: item 2.2, Alternativa #2)..
+       Do exposto, consideramos que a reivindicação independente 1 é antecipada por (D1 ou
+D2), bem como (D1 ou D2) combinado a D3 e D5, onde qualquer uma destas combinações
+respeita o limite de três documentos de anterioridade estabelecido no item 5.10 da Resolução
+INPI/PR n° 169/2016 (Diretrizes de Exame de Pedidos de Patente  Bloco II).
+
+
+       3) Análise das demais reivindicações:
+        As reivindicações independentes 13 e 14 correspondem a método de transmissão e
+circuito integrado definidos por características técnicas similares a estação base da reivindicação
+independente 1. Por similaridade, consideramos que estas reivindicações independentes também
+seriam evidentes para um técnico no assunto a partir de (D1 ou D2), bem como (D1 ou D2)
+combinado a D3 e D5, tal como a reivindicação 1.
+       Nas reivindicações dependentes 2 a 12 não foram identificadas características que,
+mesmo quando combinadas com as características de qualquer reivindicação independente a que
+se referem, venham a prover atividade inventiva à matéria.
+       Sendo assim, mantemos entendimento de que a matéria pleiteada é mera decorrência do
+estado da técnica, não apresentando atividade inventiva, e estando em desacordo com os artigos
+8º e 13 da LPI.
+
+
+
+Conclusão
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 5 de outubro de 2021.
+
+
+
+
+Leonardo Cavalcanti de Sá Neto
+Pesquisador/ Mat. Nº 1738842
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 007/16
+
+
+
+
+                                                                                          Página 9
+

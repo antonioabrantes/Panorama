@@ -1,0 +1,400 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112012020483-1            N.° de Depósito PCT:JP2011/053175
+ Data de Depósito:                   15/02/2011
+ Prioridade Unionista:               JP 2010-030754 (15/02/2010)
+ Depositante:                        NTT DOCOMO, INC. (JP)
+ Inventor:                           Hiroyuki Ishii, Mikio Iwamura
+ Título:                             Estação móvel, estação de base de rádio, e método de controle de
+                                     comunicação
+
+                                                                PARECER
+
+
+      Em 03/08/2021 foi publicado, através da RPI nº 2639, notificação de ciência (7.1) conforme
+parecer de exame técnico do presente pedido datado de 07/07/2021.
+      O Depositante, através da petição nº 870210096393 de 19/10/2021, apresentou
+manifestação a respeito do parecer técnico, com novas vias do pedido.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 50               870210096393           19/10/2021
+Quadro Reivindicatório                                   1a5                 870210096393           19/10/2021
+Desenhos                                                1 a 11               020120096518           11/10/2012
+Resumo                                                      1                870210096393           19/10/2021
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                          BR112012020483-1
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                    x
+Comentários/Justificativas
+        Considera-se que a matéria do pedido atende ao disposto no Artigo 24 da LPI, visto que a
+suficiência descritiva não foi questionada nos Escritórios/Autoridades consultados para elaboração
+da exigência preliminar (6.21), conforme a Portaria/INPI/DIRPA N° 1/2021, procedimento P029,
+item 5.2.11.
+       Conforme parecer de exame técnico anterior, os exames realizados pelo EPO para os
+pedidos de patente EP 2,538,724 A1 e seu dividido EP 3,166,355 A1 estão sendo usados como
+subsídio, em conformidade com a Resolução INPI/PR no 241/2019  Art. 5o (§1o). Os documentos
+emitidos pelo EPO e considerados pertinentes foram anexados ao parecer de exame anterior.
+       O exame anterior considerou pertinente as considerações emitidas pelo EPO na seção 2
+do parecer emitido em 10/09/2018 para o pedido EP 3,166,355 A1 quanto a falta de clareza e
+precisão da matéria pleiteada, o que faz com que o presente pedido não atenda aos requisitos
+estabelecidos no Art. 25 da LPI e Instrução Normativa nº 30/2013  Art. 4º (III).
+      Em sua manifestação, o Depositante não apresentou argumentação com relação a estes
+apontamentos.
+      Segundo o EPO, o termo técnico qualidade de rádio ótima presente nas reivindicações
+independentes não é claro e preciso.
+        Mantemos concordância com a análise do EPO, uma vez que após leitura do relatório
+descritivo, não foi possível determinar de forma clara e precisa de que modo para o contexto do
+pedido a qualidade de rádio de uma célula é considerada ótima (grifos nossos).
+       Primeiramente, da análise do relatório descritivo não foi encontrado o termo qualidade de
+rádio ótima. A descrição do pedido sempre se refere a boa qualidade de rádio (ver parágrafo
+[0138] do relatório descritivo, por exemplo). Não foi possível definir da leitura do pedido o que
+seria considerado uma qualidade de rádio boa ou ótima, impossibilitando assim determinar de
+maneira clara e precisa o escopo de proteção pleiteado nas reivindicações independentes.
+        Mais especificamente, apesar do relatório descritivo enumerar que a unidade de medição
+tem a capacidade de efetuar diversas medidas de qualidade de rádio (parágrafos [089-093] do
+relatório descritivo), não foi possível depreender do relatório descritivo como ou de que forma tal
+medida pode ser considerada boa e/ou ótima para que, desta forma, seja incluída no relatório de
+medição.
+       A mesma notificação quanto a falta de clareza e precisão da expressão qualidade de
+rádio ótima foi reiterada pelo EPO no item 3.1 do parecer emitido em 09/05/2019, e verificamos
+que a expressão não consta nas reivindicações independentes dos quadros reivindicatórios
+posteriormente apresentados.
+
+
+
+
+                                                                                          Página 2
+                                       BR112012020483-1
+
+
+                         Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                           Data de publicação
+            R2-100063, CATT, Measurements in CA, 3GPP TSG RAN
+   D1       WG2 meeting #68bis                                                   01/2010
+            https://www.3gpp.org/ftp/tsg_ran/WG2_RL2/TSGR2_68bis/Docs
+            R2-097017, LG Electronics Inc., Measurement configuration
+   D2       structure for carrier agregation, 3GPP TSG-RAN Meeting #68          11/2009
+            https://www.3gpp.org/ftp/tsg_ran/WG2_RL2/TSGR2_68/docs/
+            R2-101096, ZTE, Candidate cell set for CC management and
+   D3       handover, 3GPP TSG RAN WG2 #69                                      02/2010
+            https://www.3gpp.org/ftp/tsg_ran/WG2_RL2/TSGR2_69/Docs
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade              Cumprimento          Reivindicações
+                                                    Sim                    1a7
+           Aplicação Industrial
+                                                   Não                       -
+                                                    Sim                    1a7
+                 Novidade
+                                                   Não                       -
+
+                                                    Sim                      -
+            Atividade Inventiva
+                                                   Não                     1a7
+Comentários/Justificativas
+        1) Análise do Quadro Reivindicatório:
+       Em sua manifestação, o Depositante informa que o quadro reivindicatório corresponde ao
+da patente chinesa CN 102771159 B.
+        Verificamos que todas as características técnicas que compõem a estação móvel da
+reivindicação independente 1 estão presentes na reivindicação 1 do quadro reivindicatório
+apresentado ao EPO em 03/11/2017 durante análise do pedido de patente EP 3,166,355 A1, que
+considerou D1 a D3 como anterioridades relevantes. Verificamos ainda que durante análise do
+EPO, o quadro reivindicatório sofreu diversas modificações, mas foi reiteradamente mantido o
+entendimento de que as características técnicas que ora compõem a reivindicação independente
+1 do presente pedido são antecipadas por D1, conforme pareceres emitidos pelo EPO em
+10/09/2018, 09/05/2019, 16/04/2020, 08/05/2020 e 09/09/2020.
+        A seguir, procedemos com a análise das reivindicações 1 a 7 do presente pedido,
+utilizando como subsídio o exame realizado pelo EPO para o pedido de patente EP 3,166,355 A1.
+        1.1) A reivindicação independente 1 não atende ao requisito atividade inventiva, pois
+decorre de maneira evidente ou óbvia para um técnico no assunto a partir do documento D1,
+conforme a seguir:
+      - Estação móvel capaz de comunicar com uma estação de base de rádio usando uma
+agregação de portadoras: é antecipada por D1, que revela uma estação móvel (UE) que
+comunica-se com eNB's utilizando agregação de portadoras (D1: Figura 2).
+
+
+
+                                                                                      Página 3
+                                      BR112012020483-1
+
+       - uma unidade de medição configurada para medir a qualidade de rádio de uma célula
+durante comunicação ou de uma célula vizinha, referente a uma portadora a ser medida: é
+antecipada por D1, que revela que o UE tem capacidade de efetuar medições de qualidade das
+portadoras f1 a f3 tanto na célula em comunicação quanto da célula vizinha (D1: Seções 2.2 e
+2.3).
+       - uma unidade de determinação configurada para determinar um evento predeterminado,
+com base no resultado de medição na unidade de medição: em D1 o UE tem capacidade de
+determinar a ocorrência de qualquer um dos eventos A1 a A8. Como esta característica técnica é
+genérica, pois não especifica qual seria o evento e/ou qual seria a medição que dispara o evento,
+consideramos que é antecipada por D1 (D1: Seção 2.3).
+       - uma unidade de transmissão configurada para transmitir o resultado de medição
+referente a uma célula de disparo de evento determinada pela unidade de determinação que o
+evento o predeterminado foi disparado, para a estação de base de rádio: em D1, a célula CC4
+tem a capacidade de disparar um evento que faz com que o relatório de medição seja enviado
+pelo UE. Como esta característica técnica não especifica qual seria a célula de disparo de evento,
+consideramos que é antecipada por D1 (D1: Seção 2.4, item Alt 1).
+        - a unidade de transmissão é configurada para transmitir, em adição ao resultado de
+medição referente à célula de disparo de evento, o resultado de medição referente a uma célula
+vizinha em uma portadora outra que uma portadora da célula de disparo de evento e a célula
+tendo a qualidade de rádio ótima: é antecipado por D1, onde o relatório de medição oriundo do
+evento disparado por CC4 também contém as medições das células vizinhas CC1 a CC3 (D1:
+Seção 2.4, item Alt 1). Qualquer uma das medições das portadoras CC1-CC3, CC5 e CC6 pode
+ser transmitida junto com a medição de CC4, ainda que essas portadoras não tenham disparado
+nenhum evento. Além disso, pode-se considerar que se houve decisão de transmitir estas
+medições, é implícito que estas portadoras são consideradas de boa qualidade (measurement
+reporting can take multiple aggregated or aggregated capable carrier's results...). Ademais,
+conforme seção comentários/justificativas do Quadro 2, não é possível depreender de forma clara
+e precisa do pedido o que seria uma qualidade de rádio ótima, portanto não consideramos que
+esta característica seja suficiente para dotar a reivindicação de inventividade com relação a D1.
+        - a unidade de transmissão é configurada para transmitir IDs e qualidade de rádio de um
+número predeterminado de células em uma ordem ascendente da qualidade de rádio como o
+resultado de medição referente à célula vizinha em uma portadora outra que a portadora da célula
+de disparo de evento: conforme dito acima, a mensagem que contém o relatório de medição
+também inclui as medições das portadoras CC2(f2) e CC3(f3) que são células vizinhas e estão em
+portadoras distintas à CC4(f1) que disparou o evento (D1: Seção 2.4, item Alt 1). Como trata-se
+de um relatório de medição, é evidente que conterá a qualidade de rádio das portadoras medidas,
+e também seria evidente para um técnico no assunto a inclusão dos IDs das células para que seja
+feita a distinção das medições dentro de relatório. Consideramos que o fato de serem colocados
+em ordem ascendente é uma mera opção de projeto que seria evidente para um técnico no
+assunto a partir dos conhecimentos de D1.
+
+
+        1.2) A reivindicação independente 6 pleiteia o método realizado pela estação móvel da
+reivindicação 1. As reivindicações independentes 4 e 7 pleiteiam a estação base e seu respectivo
+método para comunicação com a estação móvel da reivindicação 1. Por serem definidas por
+características técnicas similares, consideramos que as reivindicações independentes 4, 6 e 7
+também são antecipadas por D1, pelos mesmos argumentos expostos na análise da reivindicação
+1.
+
+
+                                                                                         Página 4
+                                        BR112012020483-1
+
+       1.3) Nas reivindicações dependentes não foram identificadas características que, mesmo
+quando combinadas com as características de qualquer reivindicação independente a que se
+referem, venham a prover atividade inventiva à matéria, pois:
+      - A reivindicação dependente 2 pleiteia que as medições de qualidade rádio sejam pelo
+menos uma de um conjunto de métricas que são amplamente conhecidas por um técnico no
+assunto da área de telecomunicações.
+        - As reivindicações dependentes 3 e 5 pleiteiam as possíveis condições para o evento ser
+disparado, todos estes sendo baseados na comparação da qualidade de rádio com um valor limiar
+ou quando estabelecido por um temporizador. O disparo de um evento com base na comparação
+com valores limiares ou baseado em um temporizador é antecipado por D1 (D1: Seção 2.1, Seção
+2.4, item Alt1).
+
+
+       2) Análise dos Argumentos Apresentados pelo Depositante.
+      A seguir, procedemos com a análise das argumentações apresentadas pelo Depositante
+em sua manifestação.
+       2.1) A requerente respeitosamente argumenta que D1 (R2-100063, CATT,
+Measurements in CA) não descreve transmitir IDs e qualidade de rádio de um número
+predeterminado de células em uma ordem ascendente da qualidade de rádio. Uma vez que o
+presente pedido tem a configuração acima exposta, tem o efeito de reduzir a sobrecarga de sinais
+de controlo devido ao fato de que a informação de células desnecessárias é reduzida..
+       Argumentação similar foi analisada no parecer de exame anterior, não tendo sido
+considerada pertinente, conforme contra-argumentação presente nos itens 3 a 5 do parecer
+emitido pelo EPO em 08/05/2020, e reiterado no parecer de 09/09/2020. A seguir, utilizamos
+contra-argumentação similar a constante no item 4.1 do parecer de 09/09/2020.
+        No caso, não consideramos que estas características sejam capazes de dotar o pedido de
+atividade inventiva com relação a D1, uma vez que:
+        - D1 estabelece que o relatório de medição agrega diversas medições de outras portadoras
+junto com a medição da célula CC4 que dispara o evento (D1: Seção 2.4, item Alt1). O objetivo é
+reduzir latência e sobrecarga de sinais (D1: Seção 2.4, item Alt1, This can reduce the latency and
+reporting overhead for multi-carriers handover). Sendo direcionado ao handover, é evidente que
+as medições sejam referentes a qualidade de rádio.
+       - Uma vez que D1 estabelece que o relatório de medição contém múltiplas medições de
+diversas células, é evidente que o relatório de medição necessita associar cada medição a célula
+correspondente, e tal fato seria realizado de maneira óbvia utilizando o ID de cada célula medida.
+        - O fato de conter um número predeterminado de células é evidente devido ao fato de que
+é de conhecimento comum para um técnico no assunto que a estação móvel monitora um número
+de células vizinhas predeterminado pela célula servidora. Além disso, esta característica é
+implícita de D1, uma vez que este determina que o monitoramento é realizado para um conjunto
+de células alvo (D1: Seção 2.4, item Alt1, target CCs), o que evidencia que a quantidade de
+células monitoradas é limitado a uma quantidade predeterminada. Além disso, D1 também
+antecipa um modo de limitar o número de medições a um valor predeterminado ao estabelecer
+que a mensagem de medição limita-se somente às portadoras que podem ser agregadas a CC4
+(D1: Seção 2.4, item Alt1, ...another optimized way is to report the results of carriers that can be
+aggregated with CC4 togheter in one message. This can reduce the latency and reporting
+overhead...).
+
+
+                                                                                           Página 5
+                                      BR112012020483-1
+
+        - Por fim, a única diferença constatada seria o fato de ordenar as medições em ordem
+ascendente de qualidade. Contudo, como D1 antecipa a capacidade do eNB escolher o CC de
+maior qualidade dentro do relatório de medição (D1: Seção 2.2, Then if eNB wants to add CC, it
+can choose the CC with hih quality.), consideramos que a ordenação ascendente seria uma mera
+opção de projeto que seria plenamente evidente de ser derivada por um técnico no assunto a
+partir de D1.
+
+
+       2.2) Em contraste, a requerente respeitosamente argumenta que o presente pedido visa
+executar eficientemente a transferência quando o ponto de transferência é diferente para cada
+portadora, como mostra a Figura 4 do presente pedido. Uma vez que o presente pedido está
+equipado com uma configuração para "transmitir, em adição ao resultado de medição referente à
+célula de disparo de evento, o resultado de medição referente a uma célula vizinha em uma
+portadora outra que uma portadora da célula de disparo de evento", é possível efetuar a
+transferência de forma eficiente quando os pontos de transferência são diferentes para cada
+portadora.
+        - O Depositante argumenta com relação a características e efeitos técnicos não presentes
+no quadro reivindicatório. Mais especificamente, o Depositante argumenta com relação a
+vantagem de se utilizar o relatório de medição do presente pedido para transferência de forma
+eficiente quando os pontos de transferência são diferentes para cada portadora. Contudo, o
+quadro reivindicatório não possui nenhuma característica técnica que informe que o relatório de
+medição é utilizado para transferência de célula (handover). O escopo de proteção pleiteado pelo
+presente quadro reivindicatório limita-se ao fato da estação móvel realizar as medições e reportá-
+las à estação base.
+        - Ademais, mesmo que o quadro reivindicatório contivesse a informação da aplicação aos
+casos de handover, não consideramos que seria suficiente para dotar o pedido de atividade
+inventiva com relação a D1, uma vez que o método de envio de relatórios de medição desta
+anterioridade também é direcionado para handover (D1: Seção 2.4, item Alt1, This can reduce
+the latency and reporting overhead for multi-carriers handover).
+
+
+        2.3) Além disso, Alt 1) de 2.4 de D1 descreve que relatórios de medição podem ter
+múltiplos resultados de portadoras agregadas ou capazes de agregação em uma única
+mensagem de relatório. Em outras palavras, D1 deve enviar os resultados de medição dos
+eventos disparados em conjunto. D1 aborda a questão de múltiplos resultados de medição sendo
+enviados quando múltiplos eventos são disparados na borda de uma célula quando a área de
+cobertura de CC4, CC5, e CC6 são a mesma, como mostrado na Figura 2 de D1.
+        - Respeitosamente, não consideramos pertinente o argumento, pois conforme análise
+realizada no argumento 2.2, o escopo de proteção das reivindicações independentes não limita-se
+a casos de handover. Além disto, também não constatamos nenhuma característica técnica que
+limite a aplicação das reivindicações independentes à cenários que possuam uma determinada
+configuração espacial ou em frequência.
+       - Além disso, consideramos também não pertinente devido ao fato do Depositante estar
+argumentando em cima de uma exemplificação específica de aplicação da presente invenção,
+sendo que o Relatório Descritivo não limita-se a tal, ao evidenciar que a primeira modalidade da
+invenção utiliza a mesma configuração de células espacialmente superpostas descrita em D1.
+(Figura 5 do Quadro de Desenhos).
+
+
+
+                                                                                         Página 6
+                                      BR112012020483-1
+
+        2.4) Por exemplo, no ponto 10 da Figura 4 do presente pedido, a Célula #1-B ou Célula
+#1-C dispara um evento, mas a Célula #2-B e a Célula #2-C não disparam um evento. O presente
+pedido define transmitir os resultados de medição da Célula #1-B ou Célula #1-C que dispararam
+o evento e a qualidade de rádio da Célula #2-C, que é uma célula vizinha, à estação de base de
+rádio, para que a estação de base de rádio possa decidir se efetua ou não uma transmissão com
+base na qualidade de rádio da Célula #2-C. Em contraste, em D1, no ponto 10, são transmitidos
+os resultados de medição da Célula #1-B (análoga a CC1 em D1) ou Célula #1-C (análoga a CC4
+em D1), mas os resultados de medição da Célula #2-B (análoga a CC4 em D1) e Célula #2-C
+(análoga a CC5 em D1) não são transmitidos porque não dispararam quaisquer eventos.
+         Também não consideramos pertinente, uma vez que as reivindicações independentes não
+especificam qual a célula é responsável por disparar o evento. Mais uma vez o Depositante utiliza
+em sua argumentação uma passagem exemplificativa do relatório descritivo, sendo que o escopo
+de proteção almejado pelas reivindicações independentes é mais amplo, pois pleiteia ...transmitir
+o resultado de medição referente a uma célula de disparo de evento..., constatando-se que a
+proteção almejada é para qualquer célula que possa disparar o evento, não observando-se que
+limita-se a células de disparo específicas.
+       Da leitura do relatório descritivo depreende-se que a célula de disparo seria a célula
+servidora, ou seja, a célula na qual a estação móvel encontra-se em comunicação. Mesmo que
+fosse especificado nas reivindicações independentes, consideramos que não seria suficiente para
+dotar o pedido de inventividade com relação a D1 pelas seguintes razões:
+        - D1 é uma proposta de normatização, onde a seção 2.4 (Alt.1) tem por objetivo propor que
+o relatório de medição de uma célula contenha também a medição de outras células, assim como
+ocorre no presente pedido. A descrição de D1 é exemplificativa (D1: Seção 2.4, item Alt1, For
+example, if CC4 in Figure 2 triggers a measuremt report...), e consideramos que seria evidente
+para um técnico no assunto estender a exemplificação descrita em D1 utilizando CC4 para que
+seja empregada outras células como célula de disparo, inclusive a célula servidora, conforme o
+relatório descritivo do presente pedido.
+
+
+       2.5) A requerente respeitosamente argumenta que a configuração para "transmitir,
+em adição ao resultado de medição referente à célula de disparo de evento, o
+resultado de medição referente a uma célula vizinha em uma portadora outra que uma portadora
+da célula de disparo de evento" é diferente da configuração descrita em D1, onde os resultados
+da medição para eventos suscetíveis de serem disparados simultaneamente são colocados no
+mesmo relatório de medição.
+       D1 informa que ...if CC4 in Figure 2 triggers a measurement reporting, the reporrting
+message can carry all serving Ccs' measurement results, i.e. the results of CC1, CC2 and CC3 are
+reported in one message (D1: Seção 2.4, item Alt1).
+       Conforme análise dos itens anteriores, a reivindicação 1 não limita qual é a célula de
+disparo de evento. Portanto, CC4 usando portadora f1 antecipa esta característica. O relatório de
+medição de CC4 inclui as medições das células vizinhas CC2 e CC3, que estão nas portadoras f2
+e f3, que são portadoras diferentes da portadora f1 da célula CC4 de disparo de evento. Não
+evidenciamos em D1 o argumento do Depositante de que são eventos suscetíveis de serem
+disparados simultaneamente. E mesmo que fosse evidenciado, não constatamos característica
+técnica nas reivindicações independentes que informe que a matéria pleiteada direciona-se a
+eventos que não são suscetíveis de serem disparados simultaneamente em contraponto a D1.
+       Portanto, consideramos a argumentação não pertinente.
+
+
+                                                                                         Página 7
+                                        BR112012020483-1
+
+
+
+       Do exposto, mantemos entendimento de que a matéria pleiteada não atende ao requisito
+de atividade inventiva estabelecido nos artigos 8º e 13 da LPI, não tendo sido considerado
+pertinente a argumentação apresentada pelo Depositante em sua manifestação.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 21 de dezembro de 2021.
+
+
+
+
+Leonardo Cavalcanti de Sá Neto
+Pesquisador/ Mat. Nº 1738842
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 007/16
+
+
+
+
+                                                                                           Página 8
+

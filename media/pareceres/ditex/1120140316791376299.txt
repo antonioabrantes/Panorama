@@ -1,0 +1,313 @@
+                               SERVIÇO PÚBLICO FEDERAL
+                                MINISTÉRIO DA ECONOMIA
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                  RELATÓRIO DE EXAME TÉCNICO
+
+N.° do Pedido:             BR112014031679-1      N.° de Depósito PCT:CN2012/077072
+Data de Depósito:          18/06/2012
+Prioridade Unionista:      -
+Depositante:               RHODIA OPERATIONS (FR)
+Inventor:                  DAWEI JIN
+Título:                    Composição amaciante, composição de lavagem, utilização
+                           de uma composição de lavagem e método para aumentar o
+                           processo de secagem de um tecido
+
+
+                                                 PARECER
+
+
+                            Quadro 1  Páginas do pedido examinadas
+            Elemento                     Páginas                n.o da Petição           Data
+
+Relatório Descritivo                      1 a 24                870210010192           29/01/2021
+Quadro Reivindicatório                     1a2                  870210010192           29/01/2021
+Desenhos                                     ---                         ---               ---
+Resumo                                       1                  870210010192           29/01/2021
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                   Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                          x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                  x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                           x
+O pedido está de acordo com disposto no art. 32 da LPI                            x
+Comentários/Justificativas
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                   Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI              x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI            x
+Comentários/Justificativas
+
+
+
+                                                                                        Página 1 de 7
+                                        BR112014031679-1
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                Documento                            Data de publicação
+    D1                             US 20030220217 A1                             27/11/2003
+    D2                             US 20090118399 A1                             07/05/2009
+    D3                               EP 1479755 A1                               24/11/2004
+    D4                             US 2012/142579 A1                             07/06/2012
+
+
+       Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade          Cumprimento               Reivindicações
+                                                    Sim                       1-12
+            Aplicação Industrial
+                                                   Não                      Nenhuma
+                                                    Sim                       1-12
+                  Novidade
+                                                   Não                      Nenhuma
+                                                    Sim                     Nenhuma
+             Atividade Inventiva
+                                                   Não                        1-12
+Comentários/Justificativas
+
+         Através da petição n° 870210010192 de 29/01/2021, a requerente apresentou
+manifestação ao parecer técnico publicado na RPI n° 2600 de 03/11/2020, reformulando o quadro
+reivindicatório (total de 12 reivindicações) em face às objeções apresentadas no referido parecer
+técnico. O relatório descritivo e o resumo foram apresentados na petição Nº 870190116533 de
+12/11/2019. Em tal manifestação, a requerente argumentou, em relação as anterioridades, que:
+
+
+
+        D1 revela uma composição de condicionamento de tecido que compreende um agente de
+         amaciamento catiônico e um silicone com uma viscosidade de 1 a menos de 10000 cSt.
+         D1 não revela o componente (a) conforme descrito na reivindicação 1 do presente pedido -
+         um guar anfotérico ou catiônico ou potencialmente anfotérico ou catiônico com uma massa
+         molar média ponderada de pelo menos 2000 g/mol.
+
+        Além disso, D1 não revela a viscosidade do silicone (componente (c)), conforme descrito
+         na reivindicação 1.
+
+        Particularmente, a Depositante revelou que os tecidos tratados pelas composições do
+         presente pedido, que compreendem guar (Jaguar C17), um agente de amaciamento
+         catiônico (TEP) e um silicone com uma viscosidade entre 10 e 10.000 mPa.s a 25 °C,
+         reduziu teor de água residual (RWC) em comparação com aqueles tratados por uma
+
+
+                                                                                     Página 2 de 7
+                                   BR112014031679-1
+
+    composição que não contém guar (ver Tabela 4 do presente relatório descritivo). É
+    revelado que o RWC reduzido pode melhorar o processo de secagem dos tecidos e
+    diminuir o tempo de secagem (ver parágrafo [081] abaixo da Tabela 4).
+
+   O problema técnico objetivo do presente pedido é, portanto, fornecer uma composição
+    amaciante que pode reduzir o RWC nos tecidos tratados. Então, a questão principal em
+    relação à atividade inventiva é determinar se um técnico no assunto teria usado uma
+    composição compreendendo os componentes a), b) e c) a fim de reduzir seu teor de água
+    residual.
+
+   D1 não revela ou sugere a adição do componente (a) em composições amaciantes.
+    Assim, D1 não promoveria um técnico no assunto a chegar a uma composição amaciante
+    compreendendo os componentes (a) a (c), conforme descrito na reivindicação 1 do
+    presente pedido. Além disso, a retenção de água conforme expressa no Exemplo 1,
+    tabelas 2-6 de D1 não parece muito diferente entre as composições de acordo com as
+    referências do estado da técnica e as composições comparativas A, B e enxágue com
+    água. D1 não pode levar então um técnico no assunto a considerar uma composição como
+    reivindicada na presente invenção para reduzir RWC, melhorar o processo de secagem
+    dos tecidos e diminuir o tempo de secagem.
+
+   D2 ensina composições amaciantes que compreendem um polímero catiônico e um
+    ingrediente ativo de silicone. De acordo com os ensinamentos de D2, o polímero catiônico
+    funciona como um agente protetor para controlar a liberação do silicone ativo ou para
+    melhorar a maciez dos tecidos (ver parágrafo [0017] de D2). É apreciado que D2 não
+    revela a adição do polímero catiônico para reduzir o RWC, nem revela guar catiônico como
+    um possível polímero catiônico a ser usado na composição amaciante.
+
+   Em vista disso, D2 não forneceria qualquer incentivo para um técnico no assunto, que
+    enfrenta o problema técnico do presente pedido, chegar a uma composição amaciante
+    compreendendo um guar anfotérico ou catiônico, um composto de amônio quaternário e
+    um silicone que reduz o RWC de tecidos tratados e diminui o tempo de secagem.
+
+   D3 refere-se a composições de limpeza e divulga que a composição de limpeza pode
+    compreender um composto de amônio quaternário e meios de controle de liberação,
+    notadamnte um polissacarídeo aminoacetilado. É apreciado que o polissacarídeo ensinado
+    em D3 funciona para proteger uma composição da dissolução antes do ponto de tempo
+    desejado durante a operação de limpeza (ver parágrafo [0046] e parágrafo [0049] de D3).
+
+   D3 não revela ou sugere o uso do polissacarídeo para reduzir o RWC, nem revela guar
+    como um possível polissacarídeo. Assim, D3 não promoveria um técnico no assunto que
+    enfrenta o problema técnico do presente pedido para chegar ao objeto da reivindicação 1.
+
+
+
+                                                                                Página 3 de 7
+                                    BR112014031679-1
+
+   D4 revela um método para fazer uma composição de tecido que compreende as etapas
+    de misturar um amaciante de tecido fundido ativo com uma mistura fundida de ésteres de
+    glicerol, subsequentemente combinando-os com água e um material selecionado de uma
+    lista extremamente genérica.
+
+   A Examinadora se baseia nos exemplos de D4 para exarar a objeção de atividade
+    inventiva. No entanto, nenhum dos exemplos de D4 usa guar, conforme exigido pela
+    reivindicação 1 do presente pedido. Portanto, a comparação feita pela Examinadora não é
+    apropriada.
+
+   A Examinadora também se refere às divulgações de peso molecular do parágrafo [0130]
+    de D4. É importante notar que tal divulgação está relacionada aos polímeros catiônicos
+    sintéticos dos parágrafos [0098] - [00129], em que o guar catiônico não é mencionado.
+    Portanto, não é válido associar os ensinamentos do parágrafo [00130] e o componente (a)
+    da presente invenção.
+
+   Na verdade, a única seção em que guar é mencionado em D4 é como um agente de
+    melhoramento da entrega opcional entre uma lista virtualmente infinita de outros
+    compostos possíveis. D4 não revela ou sugere o uso do guar para redução do RWC.
+    Assim, D4 não promoveria técnico no assunto que enfrenta o problema técnico do
+    presente pedido para chegar ao objeto da reivindicação 1.
+
+   Como discutido acima, nenhum dos documentos do estado da técnica citados pela
+    Examinadora menciona ou aborda o problema técnico de fornecer uma composição
+    amaciante que pode reduzir o RWC nos tecidos tratados. Muito menos que tais
+    documentos do estado da técnica sugerem o uso de guar a fim de resolver este problema
+    técnico.
+
+   Nesse sentido, não há combinação possível de D1-D3 que pudesse chegar à presente
+    invenção, uma vez que todos eles são deficientes em revelar ou sugerir o uso de um guar
+    anfotérico ou catiônico ou potencialmente anfotérico ou catiônico para redução do RWC
+    nos tecidos tratados.
+
+   Além disso, deve-se notar que a análise da atividade inventiva não deve ser baseada na
+    simples justaposição de características descritas em diferentes documentos do estado da
+    técnica. Em particular, deve haver uma motivação para que esses documentos sejam
+    combinados, tendo em consideração o problema técnico subjacente à aplicação em
+    análise. Tais disposições estão claramente estabelecidas nas Diretrizes de Exame de
+    Pedidos de Patente - Bloco II  Patenteabilidade (Resolução 169/2016)...
+
+
+
+
+                                                                                Página 4 de 7
+                                         BR112014031679-1
+
+      Como mencionado anteriormente, D1-D3 são silentes sobre a redução do RWC nos
+       tecidos tratados. Portanto, um técnico no assunto visando obter RWC reduzido em tecidos
+       nunca seria incitado a combinar o ensino de D1-D3 para resolver este problema técnico.
+       Assim, o critério (i) não é atendido.
+
+      Além disso, considerando que D1-D3 são silentes quanto à redução do RWC nos tecidos
+       tratados, estes documentos não pertencem a um problema particular ao qual a presente
+       invenção está relacionada. Portanto, o critério (ii) não é atendido.
+
+      Em relação ao critério (iii), não há nenhuma maneira possível em que partes de D1-D3
+       sejam combinadas de forma a sugerir o uso de um guar anfotérico ou catiônico ou
+       potencialmente anfotérico ou catiônico para redução do RWC nos tecidos tratados, uma
+       vez que todos eles são silentes sobre isso. Portanto, o critério (iii) não é atendido.
+
+
+
+
+       Em resumo, a requerente conclui dizendo que Isto posto, em vista das emendas
+efetuadas e dos argumentos apresentados, a Depositante acredita ter adequado devidamente seu
+pedido de patente conforme as justificativas acima aduzidas e as disposições legais sobre o
+assunto.
+
+       Tal conclusão não pode ser aceita pelos argumentos expostos a seguir:
+
+       A presente invenção se refere a (1) uma composição amaciante, caracterizada por
+compreender pelo menos: 1a) 0,005 a 5% em peso da composição de um guar anfotérico ou
+catiônico ou potencialmente anfotérico ou catiônico com uma massa molar média ponderada de
+pelo menos 2000 g/mol, preferivelmente 10.000 a 10.000.000 g/mol, mais preferivelmente
+1.000.000 a 5.000.000 g/mol; 1b) 0,005 a 30% em peso da composição de um agente de
+amaciamento catiônico; e 1c) 0,005 a 50% em peso da composição de silicone com uma
+viscosidade entre 10 e 10.000 mPa.s a 25 °C. Ainda se refere ao (2) uso de uma composição
+de lavagem e a um (3) método para aumentar o processo de secagem de um tecido.
+
+       Em relação às características técnicas da composição amaciante, do uso                de   uma
+composição de lavagem e do método para aumentar o processo de secagem de um tecido,
+todos os itens descritos acima, 1a) a 1c), (2) e (3) são antecipados nos documentos D1-D4, como
+já descrito no parecer técnico anterior, a saber: D1 descreve uma composição de
+condicionamento de tecido e ao uso de uma composição para reduzir o tempo de secagem de
+tecidos lavados (vide parágrafo [0001]). D1 divulga uma composição aquosa de condicionamento
+de tecido (vide parágrafos [0024]-[0026], [0052] e [0069]) compreendendo (a) um agente
+amaciante catiônico; e (b) um silício com uma viscosidade de 1 a menos de 10000 cSt em que o
+silicone compreende um polidi-(C1-6) alquil siloxano cíclico a 25°C. O material de amolecimento
+está preferencialmente presente em uma quantidade de 3-30% por peso. O silicone está
+
+
+                                                                                        Página 5 de 7
+                                      BR112014031679-1
+
+preferencialmente presente em um nível de 1-8% em peso do ingrediente ativo, com base no peso
+total da composição; D2 divulga uma composição de liberação de silicone sólida que usado
+como um amaciante contendo um polímero catiônico e um ingrediente ativo de silicone (vide
+parágrafos [0002], [0013], [0017] e [0027]). O polímero catiônico funciona como um protetor
+agente para controlar a liberação do silicone ativo. Os ingredientes ativos de silicone mais
+preferidos são aqueles que fornecem suavidade para tecidos têxteis e são preferencialmente
+selecionados a partir dos materiais de polidiorganossiloxano substancialmente linear. Além disso,
+D2 também divulga que o agente de controle de liberação que é um polissacarídeo de
+aminoacetilação com um certo grau de acetilação (vide parágrafo [0004]); D3 se refere a uma
+composição de limpeza para uso em uma máquina de lavar roupas com maciez aprimorada do
+tecido (vide reivindicações e resumo). Além disso, D3 divulga que a polissacarídeo aminoacetilado
+altamente preferido é selecionado para ser quitosana (vide parágrafo [0063]) e o uso de quitosana
+tem foi descrito para fornecer benefícios, como benefícios aprimorados de maciez do tecido (vide
+parágrafo [0014]). O peso molecular médio (MW) do referido polissacarídeo aminoacetilado pode
+ser vantajosamente selecionado de 10.000 Da a 500.000 Da (vide parágrafo [0061]) e D4 se
+refere a um método de fabricação de uma composição para tratamento de tecido, caracterizado
+pelo fato de que compreende as etapas de: misturar um amaciante de tecido fundido ativo com
+uma mistura fundida de ésteres de glicerol para formar uma primeira mistura, em que cada éster
+de glicerol na mistura de ésteres de glicerol tem a estrutura da Fórmula I em que cada R é
+independentemente selecionado a partir do grupo que consiste em porções de éster de ácido
+graxo compreendendo cadeias de carbono com um comprimento de cadeia de carbono de cerca
+de 10 a 22 átomos de carbono; OH; e suas combinações; b. combinar a primeira mistura com
+água para formar uma segunda mistura; c. combinar a segunda mistura com um material
+selecionado a partir de um auxiliar de deposição, um agente antiespuma, um quelante, um
+conservante, um estruturante, um silicone, um polímero de estabilização de fase, um perfume,
+uma microcápsula de perfume, um dispersante ou uma combinação dos mesmos para formar a
+composição de cuidado do tecido (vide reivindicações). Os polímeros catiônicos nos exemplos de
+D4 são polímeros catiônicos com uma massa molar média ponderal de pelo menos 2000 g/moI,
+como reivindicado na Reivindicação 1 do presente pedido. Os dois polímeros usados no exemplo
+são polímeros catiônicos sintéticos. Em relação aos polímeros catiônicos sintéticos, a descrição
+ensina: O peso molecular médio em peso do polímero será geralmente entre 10.000 a 5.000.000
+(vide [0130]).
+
+
+       Portanto, mantém-se a opinião do parecer técnico anterior, em relação aos documentos
+citados como anterioridades, de que um técnico no assunto em busca de uma composição
+amaciante, composição de lavagem, utilização de uma composição de lavagem e
+método para aumentar o processo de secagem de um tecido, a partir de D1-D4, chegaria
+à composição amaciante e método pleiteados de maneira evidente ou óbvia.
+
+
+
+
+                                                                                   Página 6 de 7
+                                            BR112014031679-1
+
+       Desta forma, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (artigos 8º e 13 da Lei nº 9279 de 14/05/1996.)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                               Rio de Janeiro, 09 de março de 2021.
+
+
+
+
+Genizia Islabão de Islabão
+Pesquisador/ Mat. Nº 1219459
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                      Página 7 de 7
+

@@ -1,0 +1,538 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI1014277-0              N.° de Depósito PCT:AU2010/000465
+ Data de Depósito:                   23/04/2010
+ Prioridade Unionista:               US 61/172,301 (24/04/2009); AU 2009901741 (24/04/2009)
+ Depositante:                        Iceutica Pty Ltd (AU)
+ Inventor:                           Aaron Dodd, Felix Meiser, Marck Norret, Adrian Russell, William H.
+                                     Bosch, MATT CALLAHAN
+ Título:                             Método para melhorar o perfil de dissolução de um material
+                                     biologicamente ativo 
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-83               020110134681           23/12/2011
+Quadro Reivindicatório                                    1-18               020120071094           31/07/2012
+Desenhos                                                   1-6               020110134681           23/12/2011
+Resumo                                                      1                020110109547           24/10/2011
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                                   x
+Comentários/Justificativas
+
+
+
+          Art. 32 da LPI
+
+
+
+          Por meio da petição INPI 870200123622, de 30/09/2020, a Requerente apresentou nova
+via do quadro reivindicatório, relatório descritivo e resumo.
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                            Página 1/11
+                                              PI1014277-0
+
+
+       Analisando-se o quadro para o qual se pediu o exame (petição 020120071094, de
+31/07/2012), temos as seguintes reivindicações independentes (grifos do examinador):
+
+       1. Método para melhorar o perfil de dissolução de um material biologicamente ativo,
+caracterizado ();
+
+       32. Composição, caracterizada () compreende um material biologicamente ativo
+produzido pelo método () das reivindicações anteriores 1-31;
+
+       47.    Composição      farmacêutica,    caracterizada   ()   compreende   um    material
+biologicamente ativo produzido pelo método () das reivindicações anteriores 1-31, em
+conjunto com um carreador farmaceuticamente aceitável;
+
+       48. Uso da composição como definida na reivindicação 47, caracterizado (...);
+
+       49. Método de fabricação de composição farmacêutica, de acordo com a reivindicação
+47, caracterizado (...);
+
+       50. Método de fabricação um produto veterinário () combinar uma quantidade
+terapeuticamente eficaz do material biologicamente ativo preparado por um método, de acordo
+com qualquer uma das reivindicações 1 a 31, juntamente com um excipiente aceitável (...);
+
+       51. Método de fabricação de um produto agrícola, caracterizado () combinar uma
+quantidade terapeuticamente eficaz do material biologicamente ativo preparado por um método,
+de acordo com qualquer uma das reivindicações 1 a 31, juntamente com um excipiente
+aceitável;
+
+
+
+       Por sua vez, no quadro da petição INPI 870200123622, de 30/09/2020, temos as
+seguintes reivindicações independentes (grifos do examinador):
+
+       1.    Método    para   produzir   uma     composição       compreendendo   um    material
+biologicamente ativo com um perfil de dissolução melhorado caracterizado (...);
+
+       4.    Método    para   produzir   uma     composição       compreendendo   um    material
+biologicamente ativo com um perfil de dissolução melhorado caracterizado (...);
+
+       28. Composição caracterizada () produzida pelo método conforme definido em com
+qualquer uma das reivindicações anteriores 1 a 27;
+
+       30.   Composição       farmacêutica    caracterizada ()   compreender   uma composição
+produzida pelo método, conforme definido em qualquer uma das reivindicações 1 a 27, e
+um veículo farmaceuticamente aceitável.;
+
+       31. Uso de uma composição produzida pelo método, conforme definido em qualquer
+uma das reivindicações 1 a 27, caracterizado ();
+
+       32. Método de fabricação de uma composição farmaceuticamente aceitável
+caracterizado () combinar uma quantidade terapeuticamente eficaz de uma composição
+
+
+
+
+                                                                                       Página 2/11
+                                          PI1014277-0
+
+
+preparada pelo método, conforme definido em qualquer uma das reivindicações 1 a 27,
+em conjunto com um veículo farmaceuticamente aceitável (...);
+
+        33. Método de fabricação de um produto veterinário caracterizado () combinar uma
+quantidade terapeuticamente eficaz da composição preparada pelo método, conforme
+definido em qualquer uma das reivindicações de 1 a 27, em conjunto com um excipiente
+aceitável (...);
+
+        34.        Método de fabricação de um produto agrícola caracterizado () combinar
+uma quantidade terapeuticamente eficaz da composição preparada pelo método, conforme
+definido em qualquer uma das reivindicações de 1 a 27, em conjunto com um excipiente
+aceitável (...);
+
+
+
+
+        Como observado acima, no quadro para o qual se pediu o exame, havia apenas uma
+reivindicação (49) de método de fabricação de composição, sendo especificado que a
+composição era farmacêutica. No entanto, no quadro apresentado na petição INPI
+870200123622, de 30/09/2020, reivindica-se um      método para produzir uma composição
+(reivindicação 1 ou 4), sem especificar que se trata de uma composição farmacêutica, ampliando
+a matéria pleiteada inicialmente, tendo em vista que a composição pode ser para qualquer área
+tecnológica. Ressalta-se ainda que um Método para melhorar o perfil de dissolução de um
+material biologicamente ativo, como inicialmente pleiteado (reivindicação 1, petição
+020120071094, de 31/07/2012), é diferente de um Método para produzir uma composição
+compreendendo um material biologicamente ativo, como apresentado na petição INPI
+870200123622, de 30/09/2020.
+
+        Adicionalmente, na reivindicação 32 da      petição 020120071094, de 31/07/2012,
+pleiteava-se uma composição caracterizada por compreender um material biologicamente ativo.
+De forma diferente, na petição INPI 870200123622, de 30/09/2020, reivindicação 28, pleiteia-se
+uma composição caracterizada por ser produzida por um método, e não por conter um material
+biologicamente ativo, também alterando/modificando a matéria inicialmente reivindicada. O
+mesmo raciocínio se aplica para as reivindicações 30, 32 a 34 (petição 020120071094, de
+31/07/2012), respectivamente em relação ás reivindicações 47, 49 a 51.
+
+        Na petição 020120071094, de 31/07/2012, também havia uma reivindicação de Uso da
+composição como definida na reivindicação 47 [material biologicamente ativo + um carreador
+farmaceuticamente aceitável] (veja reiv. 48). Já na petição INPI 870200123622, de 30/09/2020,
+pleiteia-se o Uso de uma composição produzida pelo método, conforme definido em
+qualquer uma das reivindicações 1 a 27, que é um uso de uma composição diferente da
+inicialmente pleiteada, já que na composição não se menciona a presença de carreador
+farmaceuticamente aceitável.
+
+
+
+
+                                                                                    Página 3/11
+                                               PI1014277-0
+
+       Mais uma vez, de acordo com a interpretação sobre o Art. 32 da LPI contida na Resolução
+INPI/PR 93/2013, que institui as diretrizes sobre a aplicabilidade do disposto no artigo 32 da Lei
+9279/96 nos pedidos de patentes, no âmbito do INPI, após o pedido de exame não poderão ser
+aceitas modificações voluntárias ou decorrentes de exigência técnica/ciência de parecer que
+resultem em alteração da proteção reivindicada ou aumento da proteção reivindicada. No caso
+específico do presente pedido de patente, o quadro reivindicatório apresentado através da petição
+INPI 870200123622, de 30/09/2020, resulta em alteração e/ou aumento da proteção reivindicada.
+Portanto, o quadro reivindicatório com 51 reivindicações do pedido sub examen, apresentado por
+meio da petição 020120071094, de 31/07/2012, é o quadro válido e será analisado novamente no
+presente parecer técnico. O resumo e relatório descritivo apresentados na petição INPI
+870200123622, de 30/09/2020, também incidem no artigo 32 da LPI, tendo em vista que seus
+títulos apresentam matéria que se enquadra nos argumentos anteriores, também representando
+alteração/modificação em relação às peças inicialmente apresentadas. Portanto, as peças
+analisadas são as apresentadas no Quadro 1, acima.
+
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                    x
+Comentários/Justificativas
+
+
+       Como o quadro válido para exame é o apresentado por meio da petição 020120071094, de
+31/07/2012, apesar das argumentações da Requerente, mantém-se as mesmas objeções já
+apontadas no parecer anterior, como segue:
+
+
+       No relatório descritivo, há uma infinidade de possibilidades de métodos, composições e
+usos. Assim, entende-se que o relatório descritivo não descreve clara e suficientemente todas as
+possibilidades, de modo a permitir a sua realização por técnico no assunto (Art. 24 da LPI). O
+referido técnico necessitaria realizar várias experimentações para encontrar quais os constituintes
+adequados das composições, suas concentrações e as condições favoráveis ao métodos e usos.
+Além disso, a princípio não há caracterização suficiente das formas de cristal. Desta forma, como
+a matéria das reivindicações principais do presente pedido de patente também está descrita de
+modo amplo e genérico, considera-se que as reivindicações não estão fundamentadas no relatório
+descritivo (Art. 25 da LPI).
+
+
+
+
+                                                                                      Página 4/11
+                                             PI1014277-0
+
+        Ademais, as reivindicações de composições, de formulações e/ou de formas de
+apresentação devem definir esses objetos a partir de suas características técnicas e não pelo seu
+uso e/ou aplicação e/ou processo de preparação e/ou efeito. Assim, as composições devem ser
+definidas pelos seus constituintes. Cabe ressaltar que as formulações e as formas de
+apresentação devem ter seus constituintes definidos quantitativamente e, especificamente, as
+formas de apresentação devem ser especificadas quanto à forma física das mesmas. Já as
+reivindicações de processo/método (incluindo reivindicações de uso) devem defini-lo pelas etapas
+a partir do material de partida até o produto final. Por sua vez, nas reivindicações de substância
+química, a mesma deve ser caracterizada em termos de sua estrutura química e, da mesma
+forma, parâmetros como descrito para composição, não são características técnicas suficientes
+para diferenciar a substância química da revelada no estado da técnica. Por fim, ressalta-se que
+as reivindicações na fórmula suíça, de segundo uso, tem o seguinte formato (exemplo): Uso de
+um composto de fórmula X, caracterizado por ser para preparar um medicamento para tratar a
+doença Y. De acordo com a Resolução nº 169, de 15/07/2016, que institui as Diretrizes de
+Exame de Pedidos de Patente  Bloco II  Patenteabilidade, em reivindicações do tipo fórmula
+suíça, a novidade é avaliada em função da doença a ser tratada. No caso de novos arranjos e/ou
+conformação das moléculas quando a substância química está no estado sólido (forma cristalina,
+amorfa, hidrato, solvato, etc), as mesmas podem apresentar propriedades físico-químicas
+diferentes, tais como ponto de fusão, reatividade química, solubilidade aparente, taxa de
+dissolução, propriedades mecânicas e óticas, pressão de vapor, entre outras. No caso de novas
+formas sólidas, as características distintivas reivindicadas são baseadas nos parâmetros físico-
+químicos. Em sua grande maioria, as substâncias do estado da técnica não estão caracterizadas
+quanto à sua estrutura cristalina e a simples descrição da substância em questão, sem a sua
+caracterização cristalográfica, não permite a comparação das estruturas cristalinas. Assim, para a
+comprovação da novidade de uma forma polimórfica deverá ser demonstrado que a estrutura
+cristalina apresentada no documento em análise é diferente daquela revelada no estado da
+técnica. Nos casos em que não há a caracterização da substância do estado da técnica, tais
+dados deverão ser apresentados.
+        Para a caracterização da nova forma polimórfica reivindicada, é imprescindível que o
+relatório descritivo contenha, na data de depósito do pedido, as características necessárias à sua
+completa descrição, de acordo com as tecnologias inerentes à sua perfeita caracterização, tais
+como as exemplificadas a seguir:
+        a) difração de raios X de cristal único (DRX de monocristal);
+        b) difração de raios X pelo método de pó (DRX pelo método de pó);
+        c) espectroscopia de ressonância magnética nuclear de carbono no estado sólido (RMN-
+13C);
+        d) espectrometria na região do infravermelho;
+        e) espectroscopia Raman;
+        f) microscopia eletrônica (hot stage);
+
+
+                                                                                      Página 5/11
+                                               PI1014277-0
+
+       g) análise térmica: calorimetria diferencial exploratória (DSC), termogravimetria (ATG) e
+análise térmica diferencial (ATD).
+       Destas técnicas, no caso de monocristal da substância química, a técnica de DRX de
+cristal único é suficiente para a perfeita caracterização da estrutura cristalina. Não havendo
+monocristal da substância química, deve-se utilizar a técnica de DRX pelo método do pó com
+indexação, ou seja, devem ser apresentados os índices de Miller das distâncias interplanares, os
+ângulos de Bragg e as intensidades relativas de pelo menos 20 reflexões, além dos parâmetros de
+cela unitária. Além dos dados indexados de DRX pelo método de pó, faz-se necessária a
+apresentação de pelo menos 02 (dois) métodos de análise, dentre os acima citados ou outras
+técnicas alternativas validadas. As mesmas técnicas apresentadas para caracterizar a forma
+polimórfica reivindicada devem ser apresentadas para caracterizar as formas polimórficas
+descritas no estado da técnica.
+
+
+
+
+       Nesse contexto, seguem as seguintes considerações:
+
+
+       1) no quadro reivindicatório, os termos a seguir não estão definindo, de modo claro e
+preciso, a matéria ora reivindicada (Art. 25 da LPI): material biologicamente ativo, material
+sólido biologicamente ativo, matriz de moagem, pluralidade, corpos de moagem, período de
+tempo suficiente para produzir partículas do material biologicamente ativo disperso em um
+material de moagem pelo menos parcialmente moído, pelo menos, parcialmente, moído, ou
+maior, determinado em termo s de número de partículas, o tamanho médio de partícula do
+material biologicamente ativo foi reduzido por um fator (...), menos que, a partir, maior que,
+determinado em termos do volume de partículas, o tamanho médio de partícula foi reduzido por
+um   fator   (...),   qualquer    reivindicação   anterior,   perfil   de   cristalinidade,   cristalino,
+substancialmente, o perfil de cristalinidade do material biologicamente ativo (...), qualquer
+uma das reivindicações anteriores, amorfo, conteúdo de [ou teor] amorfo do material (...), não
+tem [ou teve] aumento significativo no conteúdo amorfo (...), attritor, moinho attritor
+mecanicamente agitado,            superior, todos os termos da reivindicação 17, derivado dos
+mesmos, matrizes, qualquer proporção, HPMC ou CMC ou HPC ou CTAB ou CTAC ou
+PEG ou Brij(...) ou POE ou R972 (Siglas não são claras e precisas), materiais, material
+único, principal componente,         segundo material ou subsequente, surfactante, polímero
+solúvel em água, ramificados, ésteres de fosfato, alquil, sebo,            outros surfactantes de
+sulfato (...), surfactante sólido, surfactante semissólido, surfactante líquido, um surfactante
+que pode ser fabricado (...), surfactantes baseados em sarcosina, outros surfactantes de
+sulfato, polivinilpirrolidonas, surfactantes baseados em (...),            outros fosfolipídeos, sais
+biliares, todos os nomes comerciais da reivindicação 25, agente facilitador, todos os termos da
+reivindicação 27,       é adicionado durante a moagem a seco em um momento (...), PVP
+(crospovidona) reticulada (PVP é conhecido como polivinilpirrolidona; crospovidona é a PVP
+
+
+                                                                                                   Página 6/11
+                                              PI1014277-0
+
+reticulada; a posição do parênteses causa falta de clareza; mesma observação vale para os
+outros termos da reivindicação 29), o perfil de dissolução da amostra de mediação (; reivs. 30-
+31), produzido pelo método de acordo com qualquer (...), todos os termos da reivindicação 45,
+derivado dos mesmos, produzido pelo método de acordo com qualquer (...), para o tratamento
+de um ser humano em necessidade do dito tratamento (a doença não foi claramente definida),
+quantidade terapeuticamente eficaz, material biologicamente ativo preparado por um método
+(...), carreador farmaceuticamente ativo, forma de dosagem farmaceuticamente aceitável,
+produto veterinário, excipiente aceitável, forma de dosagem aceitável para uso veterinário,
+produto agrícola, excipiente aceitável;
+       2)       no quadro reivindicatório há vários valores numéricos em que ao invés de se utilizar
+vírgula, utiliza-se ponto (exemplo: 7.5µm, etc.);
+       3)       o termo correto para reivindicações independentes interligadas é conforme
+definido, o que não é observado no presente pedido;
+       4)       no quadro reivindicatório, os trechos explicativos relacionados ao efeito, aplicação,
+método de preparo ou mecanismo de ação não são suficientes para diferenciar a matéria ora
+reivindicada do estado da técnica. Ressalta-se que esses trechos não devem ser excluídos, sendo
+a objeção relacionada à falta de clareza (Art. 25 da LPI) quanto aos elementos técnicos
+caracterizantes da matéria pleiteada;
+       5)       adicionalmente, o relatório descritivo não está de acordo com as disposições da
+Instrução Normativa (IN) do INPI nº 31/2013, que estabelece as                normas    gerais    de
+procedimentos para explicitar e cumprir dispositivos da Lei de Propriedade Industrial - Lei nº
+9279, de 14 de maio de 1996, no que se refere às especificações formais dos pedidos de patente,
+especificamente quanto ao artigo abaixo:
+Art. 40 Cada parágrafo do relatório descritivo deverá ser iniciado com uma numeração
+sequencial, em algarismos arábicos, localizada à esquerda do referido texto, como por exemplo
+[003], 015, etc..
+
+
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                                 Documento                              Data de publicação
+    D1      WO2008000042                                                            03/01/2008
+    D2      WO2006069419                                                           06/07/2006
+    D3      WO2010121327 (PI1014272)-P,N                                            28/10/2010
+    D4      WO2010121328 (PI1014275)-P,N                                            28/10/2010
+    D5      WO2007070851                                                            21/06/2007
+    D6      WO2007070852                                                            21/06/2007
+    D7      EP0600528                                                               07/06/2000
+
+
+
+
+                                                                                        Página 7/11
+                                           PI1014277-0
+
+
+   D8      US2002047058                                                            25/04/2002
+   D9       Barzegar-JaIaIi et al. (Evaluation of in vitro-in vivo correlation          2006
+           and anticonvulsive effect of carbamazepine after cogrinding with
+           microcrystalline cellulose, J. Pharm Pharmaceut Sci, 2006, Vol.
+           9 (3), pages 307-316).
+      D9 foi citado no exame do pedido US2018169018A1 correspondente.
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento                 Reivindicações
+                                                    Sim                          1-51
+          Aplicação Industrial
+                                                    Não
+                                                    Sim
+               Novidade
+                                                    Não                          1-51
+
+                                                    Sim
+          Atividade Inventiva
+                                                    Não                          1-51
+
+
+
+Comentários/Justificativas
+
+
+      Como o quadro válido para exame é o apresentado por meio da petição 020120071094, de
+31/07/2012, apesar das argumentações da Requerente, mantém-se as mesmas objeções já
+apontadas no parecer anterior, como segue:
+
+
+      D1 revela um método para produzir uma composição compreendendo nanopartículas de
+um composto biologicamente ativo, compreendendo a etapa de: moagem a seco de um
+composto biologicamente ativo sólido e um composto de moagem moível em um moinho
+compreendendo uma pluralidade de corpos de moagem, por um período de tempo suficiente
+para produzir um dispersão sólida compreendendo nanopartículas do composto biologicamente
+ativo disperso em um composto de moagem pelo menos parcialmente moído (coluna 6,
+parágrafo 1 -4). D1 ensina que a fração volumétrica das nanopartículas é de cerca de 15%, mas
+de preferência inferior a cerca de 25% em volume do composto ativo (coluna 22, parágrafo 4).
+As partículas têm um tamanho médio menor que 1000 nm, em que pelo menos 50% das
+partículas estão dentro desse intervalo médio (página 10). O período de moagem varia de 5
+minutos a 8 horas e os ingredientes ativos incluem drogas, proteínas, peptídeos e aminoácidos
+(página 11). A moagem a seco é realizada com moinhos de atrito, moinhos de nutação e
+moinhos vibratórios (página 25). Os corpos de fresagem têm, de preferência, um tamanho de 0,1
+a 30 mm (página 23). As formulações compreendem ainda tensoativos (surfactantes), incluindo
+lauril sulfato de sódio (página 33). Porções significativas do composto de moagem moído
+compreendem partículas com tamanho semelhante ou menor que o composto biologicamente
+
+
+
+                                                                                         Página 8/11
+                                            PI1014277-0
+
+
+ativo (página 32). Os veículos aceitáveis podem incluir agentes de enchimento, como, por
+exemplo, lactose monohidratada (página 41).
+
+       D8 revela um processo para moer um substrato sólido em uma câmara de moagem de
+dispersão ou moinho na presença de duas ou mais composições de corpos de moagem que
+retêm as partículas de substrato sólido moídas para formar uma mistura (resumo).
+
+       D9 descreve à avaliação da carbamazepina após co-trituração com celulose
+microcristalina. São exemplificadas a co-moagem de carbamazepina (ingrediente sólido ativo
+biologicamente) e celulose microcristalina (matriz de moagem moída) com um moinho de bolas.
+Bolas de diâmetros diferentes (isto é, uma pluralidade de corpos de moagem) foram utilizadas.
+Foi utilizado um tempo de moagem de 3 horas (página 308, materiais e métodos). A celulose
+microcristalina é utilizada como veículo hidrofílico para melhorar a dissolução (página 308,
+coluna da esquerda, primeiro parágrafo). A proporção de princípio ativo para celulose é de 1: 1
+(50% v / v).
+
+       Como observado nas descrições de D1, D8 e D9, acima, diferente do entendimento da
+Requerente em suas argumentações, a matéria reivindicada no presente pedido (reivs. 1-51)
+não apresenta novidade (Art. 11 da LPI), tendo em vista que todas as características técnicas
+descritas nas reivindicações foram antecipadas pelo estado da técnica. Os outros documentos
+D2 a D7        (veja resumo, exemplos, reivindicações e desenhos, quando houver) também
+antecipam a matéria ora pleiteada (reivs. 1-51), retirando a novidade do presente pedido (Art. 11
+da LPI).
+
+
+       Em relação à atividade inventiva, considera-se que mesmo se as objeções quanto a falta
+de novidade fossem superadas com restrições nas reivindicações principais de características
+quali ou quantitativas dos constituintes das composições e/ou etapas dos métodos/usos, entende-
+se que tais restrições não conferem atividade inventiva à matéria do presente pedido de patente,
+pois as mesmas decorrem de maneira evidente ou óbvia do estado da técnica, combinando dois
+ou três dos documentos do Quadro 4 (com exceção dos documentos D3 e D4), acima, e não
+estão de acordo com o Art. 13 da LPI.
+
+
+       Nesse sentido, no presente pedido de patente não foram apresentadas nenhuma
+comparação das partículas do presente pedido e partículas descritas em qualquer um de D1, D8
+ou D9, por exemplo, suficientes para demonstrar um efeito que não fosse óbvio ou esperado por
+um técnico no assunto, e capaz de conferir atividade inventiva à matéria pleiteada. Considera-se
+que ajustes de qualidade e quantidade de constituintes, tamanhos de partículas, perfil de
+dissolução, dentre outros parâmetros, sem a demonstração de um efeito técnico não óbvio em
+relação ao estado da técnica, fazem parte da rotina de laboratório de um técnico no assunto e não
+são suficientes para conferir atividade inventiva à matéria pleiteada.
+
+
+
+
+                                                                                      Página 9/11
+                                          PI1014277-0
+
+
+      Em um dos argumentos apresentados pela Requerente, petição INPI 870200123622, de
+30/09/2020, a mesma alega que o estado da técnica não menciona que as composições
+apresentam um perfil de dissolução melhorado. No entanto, esse parâmetro é um efeito técnico
+da composição, e não uma característica técnica suficiente para diferenciar suas composições
+do estado da técnica. Além disso, a Requerente também não apresentou, como já colocado
+anteriormente, comparações com o estado da técnica mencionado, mostrando vantagens
+técnicas em termos de perfil de dissolução, suficientes para conferir atividade inventiva ao
+presente pedido.
+
+      Em outro argumento, a Requerente esclarece que o objetivo da presente invenção é
+direcionado à constatação inesperada de que o perfil de dissolução de um material
+biologicamente ativo pode ser melhorado sem a necessidade de moer as partículas para o
+menor tamanho possível (ou seja, para um tamanho abaixo de 1 m). O resultado é
+surpreendente porque o estado da técnica ensina que a dissolução deve continuar a melhorar à
+medida que o tamanho das partículas continua a diminuir. No entanto, diferentemente do que a
+Requerente acredita, é de conhecimento de um técnico no assunto que ao se realizar um
+processo de moagem, pode-se chegar a um determinado tamanho de partícula em que não se
+tem um aumento na dissolução, ou pode-se ter até diminuição da dissolução, tendo em vista que
+as partículas ficam tão pequenas que a dissolução sofre o efeito da tensão superficial do meio
+de dissolução, como a água, permanecendo na superfície desse, sem que ocorra a solubilização
+do princípio ativo. Assim, mais uma vez, considera-se que os ajustes no tamanho de partículas
+para otimização do perfil de dissolução dos princípios ativos faz parte da rotina de
+experimentação de um técnico no assunto, não representando uma atividade inventiva.
+
+
+
+
+      Portanto, diferente do entendimento da Requerente em sua manifestação, considera-se
+que a matéria reivindicada não apresenta novidade e atividade inventiva.
+
+
+
+Conclusão
+
+
+      Tendo em vista o exposto, a matéria reivindicada não apresenta novidade (Arts. 8º e 11 da
+LPI: reivindicações 1-51) em relação a qualquer um de D1 a D9 e também não apresenta
+atividade inventiva (Arts. 8º e 13 da LPI: reivindicações 1-51) em relação à combinação de dois ou
+três dos documentos do Quadro 4 (com exceção de D3 e D4), acima. Ademais, o presente pedido
+de patente também não está de acordo com os Arts. 24, 25 e 32 da LPI.
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI);
+
+
+
+                                                                                    Página 10/11
+                                           PI1014277-0
+
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI);
+
+      -   não apresenta suficiência descritiva (Art. 24 da LPI);
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI);
+
+     -    acréscimo de matéria do pedido ou do escopo das reivindicações (Art. 32 da LPI).
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                   Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 19 de novembro de 2020.
+
+
+
+
+Rodinelli Borges de Oliveira
+Pesquisador/ Mat. Nº 1561216
+DIRPA / CGPAT I/DIFAR-I
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                       Página 11/11
+

@@ -1,0 +1,246 @@
+                              SERVIÇO PÚBLICO FEDERAL
+          MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                   INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122022009448-1         N.° de Depósito PCT: JP2019/034725
+ Data de Depósito:                   04/09/2019
+ Prioridade Unionista:               JP 2018-165318 (04/09/2018); JP PCT/JP2019/019915 (20/05/2019)
+ Depositante:                        JSP CORPORATION (JP)
+ Inventor:                           TATSUYA HAYASHI; AKINOBU HIRA
+ Título:                             Partículas espumosas de resina de poliamida e método para
+                                     produção das mesmas
+
+                                                                PARECER
+
+
+          Em resposta ao parecer técnico de 29/06/2022, notificado pela publicação na RPI n° 2688
+de 12/07/2022, a requerente apresentou na petição 870220093037, de 10/10/2022, manifestação
+onde anexou um novo quadro reivindicatório (08 reivindicações) e novas páginas do relatório
+descritivo, além de argumentações a respeito da patenteabilidade do pedido em exame.
+
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 104              870220093037           10/10/2022
+Quadro Reivindicatório                                   1a3                 870220093037           10/10/2022
+Desenhos                                                    1                870220042114           16/05/2022
+Resumo                                                      1                870220042114           16/05/2022
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                          BR122022009448-1
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                   x
+Comentários/Justificativas
+
+       O quadro reivindicatório não é claro e preciso e/ou não encontra-se fundamentado no
+relatório descritivo. Logo, o mesmo contraria o Art. 25 da Lei 9279/96 de acordo com o seguinte:
+
+
+
+          a reivindicação 1 principal refere-se a Conta expandida de resina à base de poliamida
+           compreendendo uma camada de espuma formada por expansão de uma resina à base
+           de poliamida, caracterizada pelo fato de que a conta expandida de resina à base de
+           poliamida tem uma densidade aparente de 10 a 150 kg/m3, a conta expandida de
+           resina à base de poliamida tem um tamanho médio de célula de espuma de 20 a 200
+           µm, a resina à base de poliamida tem um ponto de fusão de 185°C ou mais e 280°C ou
+           menos, e a conta expandida de resina à base de poliamida tem uma espessura de
+           filme da camada superficial de 5 a 50 µm, sendo que o tamanho médio de célula de
+           espuma é determinado por meio de um método...sendo que o ponto de fusão é
+           determinado por calorimetria diferencial de varredura do fluxo de calor de acordo com a
+           norma JIS K7121-1987. Entretanto, tal reivindicação é definida por propriedades a
+           serem obtidas sem, no entanto, evidenciar como as mesmas são obtidas.
+
+          a reivindicação 7 refere-se a Método para a produção de uma conta expandida de
+           resina à base de poliamida, como definida na reivindicação 1, o método caracterizado
+           pelo fato de que compreende: uma etapa de dispersão de uma conta de resina à base
+           de poliamida compreendendo uma resina à base de poliamida tendo um ponto de
+           fusão de 185°C ou mais e 280°C ou menos em água em um vaso fechado para obter
+           uma dispersão; uma etapa de impregnação da conta de resina à base de poliamida na
+           dispersão com um agente de sopro; uma etapa de manutenção da dispersão a uma
+           temperatura maior ou igual a 90°C mais baixa (Tm - 90°C) e menor que 50°C mais
+           baixa (Tm - 50°C) que um ponto de fusão (Tm) da resina à base de poliamida para um
+           tempo de retenção de 1 minuto ou mais e 60 minutos ou menos; e uma etapa de
+           controle de uma temperatura (Te) da dispersão imediatamente antes de uma etapa de
+           expansão, compreendendo expansão até uma temperatura maior ou igual a 90°C mais
+           baixa (Tm - 90°C) e menor que 50°C mais baixa (Tm - 50°C) que um ponto de fusão
+           (Tm) da resina à base de poliamida e aplicação de uma pressão de expansão
+           imediatamente antes da descarga de 2,5 MPa (G) ou mais, e então descarregar a
+           conta de resina à base de poliamida compreendendo o agente de sopro junto com
+           água de dentro do vaso fechado a uma pressão mais baixa que a pressão no vaso
+           fechado para causar a expansão. Entretanto, o relatório descritivo, páginas 11 e 12,
+           parágrafos [0059 a 0065] revela que o [24] O método para a produção de uma conta
+           expandida de resina à base de poliamida...em que a resina à base de poliamida é uma
+           resina à base de poliamida capeada na extremidade que é capeada na extremidade
+           com um composto de carbodiimida.
+
+
+
+
+                                                                                         Página 2
+                                      BR122022009448-1
+
+
+                        Quadro 4  Documentos citados no parecer
+
+ Código                              Documento                              Data de publicação
+    D1                              JPS61268737                                     28/11/1986
+    D2                             US 2018/044497                                   15/02/2018
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento               Reivindicações
+                                                   Sim                        1a8
+          Aplicação Industrial
+                                                   Não                          -
+                                                   Sim                        1a8
+                Novidade
+                                                   Não                          -
+
+                                                   Sim                          -
+           Atividade Inventiva
+                                                   Não                        1a8
+Comentários/Justificativas
+
+
+       Observa-se que quanto as anterioridades citadas (D1 e D2) a requerente afirma que
+Existem pelo menos quatro (04) condições diferentes no processo de produção das contas
+expandidas revelado na presente invenção e os descritos pelos documentos D1 e D2...Exemplos
+das diferenças são: o agente de sopro (presente invenção: dióxido de carbono, D1: álcool metílico,
+D2: butano), a temperatura de expansão (presente invenção: 136,0°C a 158,4°C, D1: 210°C a
+290°C, D2: 110°C), a etapa de retenção (D1, D2: sem etapa de retenção), e o condicionador de
+espuma (D1, D2: sem condicionador de espuma)...Pois bem. Diferentes condições no processo de
+produção fornecem diferentes contas expandidas. Entretanto, questiona-se se tais condições
+diferenciadas são essenciais visto que não é evidenciado no método proposto (reivindicação 7)
+os específicos agente de sopro e condicionador de espuma. Ressalta-se a falta de evidências nos
+exemplos apresentados do efeito associado a essas condições diferentes (agente de sopro,
+temperatura de expansão, a etapa de retenção e o condicionador de espuma) no processo de
+produção das contas expandidas. Cabe ressaltar ainda que no relatório descritivo, página 59,
+parágrafo [00211] é revelado que ...é preferível obter uma conta expandida de resina à base de
+poliamida de acordo com a quarta modalidade da presente invenção (conta expandida de resina à
+base de poliamida que tem uma espessura de filme da camada superficial de preferência de 5 a
+50 µm (relatório descritivo, página 58, parágrafo [00208])) pelo método de produção de acordo
+com a segunda modalidade da presente invenção; sendo que o método de produção de acordo
+com a segunda modalidade da presente invenção (relatório descritivo, página 12, parágrafo
+[0066]/itens [22] a [24]) não está de acordo com o método pleiteado na reivindicação 7 visto que
+no relatório descritivo, páginas 11 e 12, parágrafos [0059 a 0065] revela que o [24] O método
+para a produção de uma conta expandida de resina à base de poliamida...em que a resina à base
+de poliamida é uma resina à base de poliamida capeada na extremidade que é capeada na
+extremidade com um composto de carbodiimida.
+
+      A requerente destaca ainda em sua manifestação que a expansibilidade secundária dos
+Exemplos 411 a 413 (espessura da película de superfície: 6 a 20 µm) é superior aos Exemplos
+413/suponho ser Exemplo 414 (espessura da película de superfície: 3 µm). Este resultado
+
+
+
+                                                                                          Página 3
+                                      BR122022009448-1
+
+evidencia que as contas expandidas que reivindicaram uma faixa de espessura de filme de
+camada superficial proporcionam uma excelente capacidade de expansibilidade secundána.
+Entretanto, a afirmação de que as contas expandidas que reivindicaram uma faixa de espessura
+de filme de camada superficial proporcionam uma excelente capacidade de expansibilidade
+secundána é questionável visto que a reivindicação 1 principal reivindica uma faixa de espessura
+de filme de camada superficial de 5 a 50µm e os exemplos 411-413 citados variam
+especificamente de 6-20µm. É questionável ainda, o destaque dado, na manifestação, a
+propriedade de expansibilidade secundária em detrimento das outras propriedades físicas
+(resiliência e propriedade de união por fusão) visto que no relatório descritivo, página 104,
+parágrafo [00316] afirma-se que A partir dos resultados apresentados na Tabela 6, pode-se
+observar que a contas expandidas de resina à base de poliamida obtidas nos Exemplos 411 a
+414 apresentaram uma densidade aparente baixa e excelentes propriedades físicas do corpo
+moldado, particularmente a resiliência e as propriedades de união por fusão. Portanto, de acordo
+com a quarta modalidade da presente invenção, é possível apresentar uma conta expandida de
+resina à base de poliamida tendo uma propriedade de leveza excelente e excelente
+conformabilidade. Logo, tal afirmação ratifica as boas condições de obtenção da conta expandida
+no exemplo 414.
+
+       Observa-se que de acordo com a requerente, a presente invenção é nova e inventiva
+frente aos documentos do estado da técnica. Entretanto, não é possível concordar com a
+requreente visto que os mesmos, semelhantemente ao pedido em exame, revelam conta
+expandida de resina à base de poliamida de acordo com o seguinte:
+
+      D1 revela grânulos expandidos à base de poliamida em que os grânulos de poliamida
+têm um ponto de fusão de 215ºC ou 280°C, densidade de 20 kg/cm3 a 100 kg/cm3 e um
+tamanho de célula de espuma de 100 a 200 mícrons. Revela ainda método para produzir
+grânulos de poliamida expandida compreendendo a dispersão de grânulos de poliamida em
+água em uma autoclave, impregnação dos grânulos com um agente de sopro, mantendo a
+temperatura da dispersão dentro donrecipiente a 100°C a 350°C, e liberando o grânulos à
+pressão atmosférica para obter grânulos de espuma. Revela ainda artigo moldado obtido por
+moldagem dos grânulos. (atenção aos exemplos 2, 4 e 5).
+
+       D2 refere-se a produto em forma de espuma de resina de poliamida contendo uma
+resina de poliamida e tendo uma cristalinidade X de 10% a 50% e um tamanho de cristalito D de
+10 nm ou mais, calculado com base em um pico com a menor largura de pico em uma difração de
+raios X do perfil do produto em forma de espuma e um método de produção deste produto em
+forma de espuma de resina de poliamida. É revelado o uso de copolímeros de poliamida
+como um equivalente a homopolímeros de poliamida.
+
+
+
+       Assim, considerando a discussão acima, conclui-se que o mesmo não ressalta com clareza
+o aperfeiçoamento pretendido e, portanto, não é possível conferir atividade inventiva ao pedido
+analisado.
+
+Conclusão
+
+
+
+       Consequentemente, indefiro o pedido com base nos artigos 8º,         13 e 25 da Lei da
+Propriedade Industrial, Lei 9279 de 14 de maio de 1996.
+
+
+
+                                                                                        Página 4
+                                     BR122022009448-1
+
+
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+
+                                                              Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 3 de abril de 2023.
+
+
+
+
+Sandra Regina Gomes Fraga
+Pesquisador/ Mat. Nº 1375692
+DIRPA / CGPAT I/DIPOL
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                       Página 5
+

@@ -1,0 +1,223 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        PI0920722-8               N.° de Depósito PCT:US2009/058839
+ Data de Depósito:     29/09/2009
+ Prioridade Unionista: US 61/102,787 (03/10/2008); US 61/144,357 (13/01/2009); US
+                       61/166,631 (03/04/2009); US 61/562,438 (18/09/2009)
+ Depositante:          VELOS MEDIA INTERNATIONAL LIMITED (IE)
+ Inventor:             Chen Peisong, Yan Ye, Marta Karczewicz
+ Título:               Codificação de vídeo com macroblocos grandes 
+
+                                            PARECER
+          Em 27/10/2020 foi publicada através da RPI nº 2599, notificação de Ciência de Parecer
+conforme parecer técnico de primeiro exame do presente pedido. Tal parecer indicou
+irregularidades quanto ao disposto nos Arts. 8º, 13 e 25 da LPI.
+
+          O depositante, através da petição 870210007522 de 22/01/2021, e portanto
+tempestivamente, apresentou manifestação a respeito do parecer técnico propondo nova via do
+quadro reivindicatório com 30 (trinta) reivindicações e argumentação quanto aos requisitos de
+patenteabilidade da matéria pleiteada.
+
+          Para fins de continuidade do exame, estão sendo consideradas as vias abaixo:
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 84               870210007522           22/01/2021
+Quadro Reivindicatório                                   1a8                 870210007522           22/01/2021
+Desenhos                                                1 a 18               870200021846           14/02/2020
+Resumo                                                      1                870210007522           22/01/2021
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                               PI0920722-8
+
+
+Comentários/Justificativas ---
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+         No novo quadro reivindicatório apresentado, a Requerente sanou as irregularidades
+apontadas em primeiro exame. Por melhor definir a matéria pleiteada e estarem de acordo com o
+disposto nos Arts. 24 e 25 da LPI, as modificações foram aceitas.
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                              Data de publicação
+    D1      US2006153297 A1                                                         13/07/2006
+            "Efficient coding scheme for super high definition video based on
+    D2                                                                              18/01/2006
+            extending H.264 high profile"
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento            Reivindicações
+                                                         Sim                    1 a 30
+            Aplicação Industrial
+                                                        Não                       ---
+                                                         Sim                    1 a 30
+                 Novidade
+                                                        Não                       ---
+
+                                                         Sim                    1 a 30
+            Atividade Inventiva
+                                                        Não                       ---
+Comentários/Justificativas
+
+      O depositante apresentou novo quadro reivindicatório e argumentações buscando suprir a
+falta de atividade inventiva apontada em primeiro exame. A única alteração do quadro
+reivindicatório diz respeito à inserção da indicação de que os blocos de vídeo são particionados
+hierarquicamente em partições quadradas.
+
+      Das argumentações trazidas pela Requerente, entende-se que o problema técnico a ser
+resolvido diz respeito à gerar/receber informações de sintaxe de tipo de bloco para o bloco de
+vídeo que indiquem o tamanho do bloco de vídeo e identifiquem as partições do bloco de vídeo e
+os modos de codificações utilizados para codificar as partições. Não foram apresentadas
+argumentações quanto às demais características pleiteadas, de modo que são mantidas as
+objeções apresentadas em primeiro exame.
+
+      Para análise das argumentações da Requerente, destacam-se aqui alguns trechos:
+
+
+                                                                                           Página 2
+                                        PI0920722-8
+
+
+                   O parágrafo [0053] de D1 apenas descreve como um macrobloco sendo codificado
+                   será codificado como partição codificada intramodo não preditiva ou como uma
+                   partição codificada intermodo. Para as partições de macroblocos que são
+                   codificadas usando um intramodo não preditivo, um modo de intercodificação é
+                   usado no mb_tipo (mb_type) para essa partição, com índices de imagem de
+                   referência usados que são associados a um fator de ponderação zero. Não há
+                   divulgação explícita de informações de sintaxe que indiquem o tamanho do bloco
+                   de vídeo e identifiquem as partições do bloco de vídeo e os modos de codificação
+                   usados para codificar as partições.
+
+                   D2 revela a extensão da limitação de um tamanho de macrobloco, mas não revela
+                   a decodificação de dados de vídeo usando macroblocos grandes conforme
+                   definido no presente pedido. Ademais, D2 introduz uma abordagem para estender
+                   a limitação de tamanho de macrobloco disponível (vide resumo), mas não revela
+                   um método de decodificação de dados de vídeo usando macroblocos grandes,
+                   muito menos descreve ou sugere os detalhes dos elementos de sintaxe conforme
+                   definido na nova reivindicação independente 1. D2 não revela que os sub-blocos
+                   têm modos de predição diferentes e seria inconsistente fundir os ensinamentos de
+                   D2 com D1. A figura 2 de D2 revela Intra-MB e Inter-MB, porém D2 não revela
+                   "informações de sintaxe de tipo de bloco para o bloco de vídeo que
+                   [...]identifiquem as partições do bloco de vídeo e os modos de codificações
+                   utilizados para codificar as partições" do presente pedido, logo, a requerente alega
+                   que não seria óbvio para um técnico no assunto fazer isso.
+
+
+
+    Respeitosamente, discorda-se das alegações da Requerente tendo em vista que:
+
+   Os parágrafos [0006] e [0013] de D1 divulgam o recebimento, em um codificador de vídeo
+    no padrão H.264/MPEG-AVC, de um bloco de vídeo com um tamanho de 16x16 pixels,
+    com a indicação sobre o particionamento dos blocos de vídeo em partições que podem
+    possuir tamanhos diferentes, inclusive quadrados. Além disso, como o documento
+    baseia-se no H.264/MPEG-AVC (ver D1, parágrafo [0006]) é implícito e de amplo
+    conhecimento do estado da técnica o uso de particionamento hierárquico dos
+    macroblocos.
+
+    Nos parágrafos [0015], [0016], [0043] a [0047], [0053] e figura 4 de D1 é explanado sobre
+    a codificação de uma das partições de um macrobloco usando um primeiro modo de
+    codificação, em que o primeiro modo de codificação compreende o modo de codificação
+    intra-predição I; e em que codificar a partição usando o primeiro modo de codificação
+    compreende prever a partição a partir de um ou mais pixels vizinhos de acordo com o
+    modo I. D1 divulga ainda a codificação de outra das partições do mesmo macrobloco
+    utilizando um segundo modo de codificação, em que o segundo modo de codificação
+    compreende um dentre o modo P e o modo B, sendo o segundo modo de codificação
+
+
+
+                                                                                             Página 3
+                                           PI0920722-8
+
+
+       diferente do primeiro modo de codificação utilizado. Ainda no parágrafo [0053] de D1, mais
+       especificamente as linhas de 8 a 13, é exposta a técnica de geração de informações de
+       sintaxe sobre o bloco de vídeo que identifica as partições do bloco de vídeo e os modos de
+       codificação usados para codificar estas partições.
+
+       Ou seja, entendemos que o objeto da reivindicação independente 1 do pedido em tela
+       difere de D1 em dois aspectos, a saber, a indicação do uso de blocos de vídeo maiores
+       que 16x16 e sobre a geração de informações de sintaxe que indicam o tamanho do bloco
+       de vídeo.
+
+      O aumento do tamanho do bloco de vídeo, o macrobloco a ser codificado/decodificado, é
+       uma técnica abordada no documento D2, que divulga a utilização de macroblocos de
+       tamanho 16x16 ou mais (ver em D2 a tabela 1) a fim de melhorar o desempenho dos
+       esquemas de codificação do padrão H.264 em vídeos de alta resolução (D2, resumo,
+       Seções 1, 2 e Figura 2). Além disso, sobre a geração de informações de sintaxe sobre o
+       tamanho do bloco de vídeo, o documento D2 revela a sinalização do tamanho do
+       macrobloco como informação de sintaxe com a incorporação de um campo que indique o
+       valor N, sendo este justamente a indicação do valor máximo de tamanho NxN do
+       macrobloco tratado (ver em D2 a Seção 2).
+
+       Diante disto e considerando que os documentos D1 e D2 se situam no mesmo campo
+técnico do pedido em tela, abordando questões relacionadas a partição de blocos e modos de
+codificação, é razoável considerar que um técnico no assunto utilizaria os conhecimentos
+revelados por D1 e D2 para derivar os objetos pleiteados nas reivindicações independentes 1,
+8, 14, 20, 24 e 28.
+
+       Sendo assim, mantemos a opinião de que a matéria pleiteada nas reivindicações de 1 a 30
+não atende ao requisito de atividade inventiva, descumprindo o disposto nos Arts. 8.º e 13 da LPI,
+pois decorre de maneira óbvia para um técnico no assunto a partir da combinação dos
+ensinamentos do documento D1 com os ensinamentos de D2.
+
+
+
+Conclusão
+
+
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                 Publique-se o indeferimento (9.2).
+
+                                                                 Rio de Janeiro, 5 de abril de 2021.
+
+
+
+
+                                                                                          Página 4
+                                     PI0920722-8
+
+
+
+
+Camila Duarte Rodrigues Lopes
+Pesquisador/ Mat. Nº 2357468
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+015/18
+
+
+
+
+                                                   Página 5
+

@@ -1,0 +1,132 @@
+                                         SERVIÇO PÚBLICO FEDERAL
+                                          MINISTÉRIO DA ECONOMIA
+                              INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.º do Pedido:                       BR112014009646-5          N.º de Depósito PCT: EP2012/070867
+ Data de Depósito:                    22/10/2012
+ Prioridade Unionista:                DE 10 2011 054 750.9 (24/10/2011)
+ Depositante:                         STEGO-Holding GmbH (DE)
+ Inventor:                            Elmar Mangold
+ Título:                              Corpo de Arrefecimento e Detenção para Elementos de Aquecimento;
+                                      Aquecedor que Tem um Corpo de Arrefecimento e Detenção; e Método
+                                      para a Fabricação de um Corpo de Arrefecimento e Detenção
+                                                                      PARECER
+
+      A Requerente recebeu notificação de Ciência de Parecer (7.1) publicada na RPI nº 2596 de
+06/10/2020. Através da petição nº 870200163037 de 30/12/2020, a mesma apresentou
+Manifestação sobre o Parecer Técnico. Para fins de continuidade do exame estão sendo
+consideradas as vias abaixo:
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas              Nº da Petição         Data
+                                                                                NPWB 860140056231
+ Relatório Descritivo                                          1-26                                    22/04/2014
+                                                                                   Págs. 9 a 34
+                                                                                  870200001040
+ Quadro Reivindicatório                                         1-4                                    03/01/2020
+                                                                                   Págs. 5 a 8
+                                                                                NPWB 860140056231
+ Desenhos                                                       1-8                                    22/04/2014
+                                                                                   Págs. 40 a 47
+                                                                                NPWB 860140056231
+ Resumo                                                         1                                      22/04/2014
+                                                                                     Pág. 39
+
+                  Quadro 2 - Considerações referentes aos Artigos 10, 18, 22 e 32 da LPI
+ Artigos da LPI                                                                                Sim         Não
+ A matéria enquadra-se no Art. 10 da LPI (não se considera invenção)                                        X
+ A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                                                X
+ O pedido apresenta Unidade de Invenção (Art. 22 da LPI)                                           X
+ O pedido está de acordo com disposto no Art. 32 da LPI                                            X
+Comentários/Justificativas: ----
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                                  Página 1
+                                            BR112014009646-5
+
+                 Quadro 3 - Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                            Sim                     Não
+O relatório descritivo está de acordo com disposto no Art. 24 da LPI                        X
+O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI                      X
+Comentários/Justificativas: ----
+
+
+
+                            Quadro 4 - Documentos citados no parecer
+ Código                                  Documento                                                Data de publicação
+           US2005034306
+           Título: Method for Producing a Sectionally-Reinforced Tubular
+    D1     Member of Metal, in Particular for Supporting Structures in Motor                             2005-02-17
+           Vehicles
+           Depositante: Kneiphoff Uwe; Patberg Lothar
+
+     Quadro 5 - Análise dos Requisitos de Patenteabilidade (Art. 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento                              Reivindicações
+                                                         Sim                                        1-12
+           Aplicação Industrial
+                                                        Não                                          ----
+                                                         Sim                                        1-12
+                 Novidade
+                                                        Não                                          ----
+                                                         Sim                                         ----
+           Atividade Inventiva
+                                                        Não                                         1-12
+Comentários/Justificativas:
+   Na manifestação a Requerente alega que o documento D1 descreve um processo de
+fabricação de peças de metal tubulares reforçadas seccionalmente, especialmente para escoras
+de suporte de veículos automotivos. No processo, uma seção de tubo é aquecida e empurrada
+para outro tubo. Durante o arrefecimento, o diâmetro da seção do tubo é reduzido e pressionado
+contra o outro tubo. A presente invenção, por sua vez, refere-se a um corpo de refrigeração e
+retenção para elementos de aquecimento, em particular elementos de aquecimento PTC, tendo
+um suporte de elemento de aquecimento no qual os elementos de aquecimento são fixados.
+
+   Ainda de acordo com a Requerente há uma diferença substancial entre um corpo de
+arrefecimento e retenção para elementos de aquecimento (de acordo com a presente invenção) e
+uma peça de metal tubular seccionalmente reforçada para uma estrutura de suporte de veículos
+automotivos. A parte de metal tubular não está configurada ou adaptada para conter quaisquer
+elementos de aquecimento, mas para fornecer uma estrutura (ou pelo menos uma parte dela)
+para um veículo. O perfil tubular oco 1 de D1 não é adequado para resfriar e manter elementos de
+aquecimento, uma vez que o processo de D1 serve para reforçar o perfil oco e, portanto, aplicará
+uma força muito alta que não é adequada para montar ou manter um elemento de aquecimento
+no lugar. D1 não fornece elementos de aquecimento, mas agentes de ligação a fim de ajudar a
+
+
+                                                    Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12     Página 2
+                                                  BR112014009646-5
+
+manga 3 a ficar no lugar com o perfil tubular oco 1. Aqui não é óbvio o motivo de um técnico no
+assunto substituir o ligante por elementos de aquecimento ou introduzir adicionalmente elementos
+de aquecimento (uma vez que a função de ligação do agente de ligação seria gravemente
+impedida, até mesmo inibida). Nenhuma deformação elástica é antecipada ou sugerida por D1,
+que é configurado para fornecer uma força de grampeamento. Em vez disso, a manga de D1 deve
+ser fixada à seção oca.
+
+    Entretanto, apesar o método descrito na Reivindicação são apenas as etapas geralmente
+conhecidas de um método para unir dois elementos tubulares, sendo tais características são
+inerentes à matéria pleiteada e, portanto óbvias para um técnico no assunto.
+
+Conclusão
+    Face ao exposto, conclui-se que a invenção ora pleiteada decorre de maneira evidente ou
+óbvia, para um técnico no assunto, a partir do estado da técnica, sendo desprovida de atividade
+inventiva, conforme Art. 13 da LPI.
+
+    Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que o mesmo não
+atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+    Rio de Janeiro, 29 de janeiro de 2021.
+
+    Publique-se o indeferimento (9.2).
+
+    CAMILO BRAGA GOMES
+    Pesquisador / Mat. Nº 1547071
+    DIRPA / CGPAT III / DIFEL
+    Deleg. Comp. - Port. INPI / DIRPA Nº 022/12
+
+
+
+
+                                                        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 3
+

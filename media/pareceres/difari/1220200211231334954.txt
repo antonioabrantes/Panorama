@@ -1,0 +1,193 @@
+                                       SERVIÇO PÚBLICO FEDERAL
+                                        MINISTÉRIO DA ECONOMIA
+                            INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR122020021123-7         N.° de Depósito PCT: US2009/068888
+ Data de Depósito:     21/12/2009
+ Prioridade Unionista: US 61/139,672 (22/12/2008); US 61/218,530 (19/06/2009); US
+                       61/246,715 (29/09/2009)
+ Depositante:          Novartis Ag (CH)
+ Inventor:             Robert Schmouder, Thomas Dumortier, Olivier David, Michael Looby
+ Título:               "USO DE AGONISTA OU MODULADOR DO RECEPTOR S1P PARA
+                       FABRICAR MEDICAMENTO PARA TRATAR DOENÇA AUTOIMUNE".
+
+                                                                PARECER
+
+
+          O presente pedido corresponde a uma divisão do pedido PI0923500-0, solicitada pelo
+Depositante por meio da petição n° 870200130108 de 15/10/2020 e notificada na RPI n° 2602, de
+17/11/2020.
+
+          Conforme Art.28 da IN 31/2013, o pedido original e o pedido dividido estão na mesma fase
+processual.
+
+          Tendo em vista que as anterioridades contidas no relatório de busca emitido para o pedido
+original (despacho 6.20, notificado na RPI 2494 de 23/10/2018) são pertinentes para esse pedido,
+elas foram também consideradas na elaboração deste parecer.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 36               870200130108           15/10/2020
+Quadro Reivindicatório                                   1a2                 870200130108           15/10/2020
+Desenhos                                                    1                870200130108           15/10/2020
+Resumo                                                      1                870200130108           15/10/2020
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR122020021123-7
+
+
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                   X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                      X
+O pedido está de acordo com disposto no art. 32 da LPI                       X
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                          X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                        X
+Comentários/Justificativas
+         Conforme discutido no exame do pedido original, o relatório descritivo do pedido apenas
+mostra que a administração de certas dosagens de FTY720 a indivíduos, cuja patologia não é
+identificada, mantém o ritmo cardíaco, não é comprovado o efeito de todos os agonistas ou
+moduladores S1P no tratamento de qualquer uma das doenças autoimunes elencadas nas
+reivindicações. Portanto, o uso pleiteado está insuficientemente descrito, contrariando o artigo 24
+da LPI e não pode ser pleiteado por falta de fundamentação (artigo 25 da LPI).
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                               Data de publicação
+    D1                              WO2006058316 A1                                  01/06/2006
+                https://worldwide.espacenet.com/publicationDetails/biblio?
+             II=0&ND=3&adjacent=true&locale=en_EP&FT=D&date=200606
+                        01&CC=WO&NR=2006058316A1&KC=A1
+    D4           KOYRAKH L. et al. Am. J. Transpl. v. 5, pp. n. 3, 529-536              2005
+    D6       KAPPOS L. et al. Ora fingolimod (FTY720) for relapsing multiple         14/09/2006
+                  sclerosis. N. Engl. J. Med., v. 355, pp. 1124-1140
+    D7       BROWN B. A. et al. Fingolimod: a novel immunosuppressant for             10/2007
+              multiple sclerosis. Ann. Pharmacother., v. 41, pp. 1660-1668
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento               Reivindicações
+                                                         Sim                      1a8
+            Aplicação Industrial
+                                                         Não
+                                                         Sim
+                  Novidade
+                                                         Não                      1a8
+
+
+
+
+                                                                                              Página 2
+                                      BR122020021123-7
+
+
+                                                   Sim
+           Atividade Inventiva
+                                                  Não                        1a8
+Comentários/Justificativas
+
+Aplicação Industrial
+       A matéria das reivindicações 1 a 8 é passível de produção e/ou utilização industrial,
+atendendo ao artigo 15 da LPI.
+
+
+
+Novidade e Atividade Inventiva
+
+       Conforme discutido no primeiro exame do pedido original (notificado na RPI 2585 de
+21/07/2020), o uso de uma agonista ou modulador do receptor S1P, especialmente do FTY720,
+em medicamentos para tratar doenças autoimunes, incluindo todas as listadas na reivindicação 1
+do presente pedido e particularmente a esclerose múltipla, já era conhecido no estado da técnica,
+como visto por exemplo em D1, D4 a D7 e inclusive mencionado no relatório descritivo do
+presente pedido. Portanto, o uso ora pleiteado não é novo, desatendendo ao artigo 11 da LPI.
+
+       Vale ainda lembrar, conforme igualmente discutido no exame do pedido original, que um
+novo uso médico é definido pelo uso de uma substância já conhecida na preparação de um
+medicamento para tratar e/ou prevenir uma doença para a qual esta substância não havia sido
+usada antes, características relacionadas à dosagem, esquema posológico, grupo de pacientes,
+etc, são características relacionadas a método terapêutico, não características técnicas próprias
+de reivindicações de segundo uso médico e, portanto, não conferem novidade ao uso pleiteado.
+Portanto, o regime de dosagem ou grupo de pacientes definidos nas reivindicações do presente
+pedido não torna o uso pleiteado novo, haja vista que as patologias tratadas são as mesmas.
+
+       Não sendo novo, o uso carece de atividade inventiva, desatendendo ao artigo 13 da LPI.
+
+
+
+
+Conclusão
+
+       O presente pedido dividido BR122020021123-7 pleiteia matéria que já foi analisada
+durante o primeiro exame do pedido original PI0923500-0 e para a qual já foi emitida uma opinião
+(RPI 2585 de 21/07/2020).
+       Neste sentido, vale lembrar que, de acordo com o artigo 28 da Instrução Normativa
+031/2013, o pedido dividido será considerado como estando na mesma fase processual em que
+se encontra o pedido original, cabendo ao INPI reduzir a termo a referência aos documentos e
+petições que se encontram no pedido original.
+       Assim, estando o presente pedido dividido na mesma fase processual do PI0923500-0, e
+não tendo sido apresentado qualquer argumento que supere as objeções feitas durante o primeiro
+exame do pedido original, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+      -   não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+
+
+                                                                                        Página 3
+                                        BR122020021123-7
+
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   não apresenta suficiência descritiva (Art. 24 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 8 de dezembro de 2020.
+
+
+
+
+Camila Valentim de Souza Lopes
+Pesquisador/ Mat. Nº 1569130
+DIRPA / CGPAT I/DIFAR-I
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                           Página 4
+

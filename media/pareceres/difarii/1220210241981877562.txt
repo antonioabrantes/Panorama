@@ -1,0 +1,348 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122021024198-8         N.° de Depósito PCT: US2017/031360
+ Data de Depósito:                   05/05/2017
+ Prioridade Unionista:               US 62/332,278 (05/05/2016)
+ Depositante:                        CALICO LIFE SCIENCES LLC (US) ; ABBVIE INC. (US)
+ Inventor:                           CARMELA SIDRAUSKI; MARINA PLIUSHCHEV; JENNIFER M.
+                                     FROST; LAWRENCE A. BLACK; XIANGDONG XU; RAMZI FARATH
+                                     SWEIS; LEI SHI; QINWEI I. ZHANG; YUNSONG TONG; CHARLES
+                                     W. HUTCHINS; SEUNGWON CHUNG; MICHAEL J. DART
+ Título:                             Compostos moduladores da via integrada ao estresse
+
+                                                              PARECER
+
+
+          O presente pedido de patente é voltado para compostos moduladores da proteína eIF2
+(por exemplo, ativação de eIF2) e a atenuação da via de sinalização ISR (parágrafo 0005).
+Segundo o relatório descritivo (RD), os compostos do presente pedido podem ser úteis no
+tratamento de doença ou desordem como, por exemplo, uma doença neurodegenerativa, uma
+leucodistrofia, câncer, uma doença inflamatória, uma doença músculo esquelético, uma doença
+metabólica ou uma doença ou distúrbio associado a função prejudicada de eIF2B ou componentes
+na via ISR (parágrafo 005).
+
+          Os derivados pleiteados, definidos na reivindicação 1 sob exame, estão representados na
+Figura 1 abaixo.
+
+
+
+
+                                          Figura 1: Compostos da reivindicação 1
+
+
+
+          Conforme mencionado no exame anterior, na data de 30/11/2021 foi apresentada divisão
+do pedido original BR112018072663-0, na qual consta um quadro reivindicatório (QR) com 30
+reivindicações. Este quadro foi o objeto do primeiro exame de mérito.
+
+          Ressalta-se ainda que 31/08/2021, foi publicado na RPI 2643 um parecer de exigência
+6.23, relativo ao pedido original BR112018072663-0, onde foram mencionadas anterioridades
+que feriam a novidade e a atividade inventiva do objeto inicialmente reivindicado. Os
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@            Página 1 de 7
+                                           BR122021024198-8
+
+
+documentos mencionados no referido despacho foram considerados para a análise do presente
+pedido dividido, tendo em vista que ambos estão na mesma fase processual.
+
+       Assim, em 30/01/2024, foi publicada na RPI 2769 uma ciência de parecer técnico
+(despacho 7.1), onde foi pontuado que o QR apresentado em 30/11/2021 contemplava matéria
+destituída de novidade e atividade inventiva, em desacordo com os Artigos 11 e 13 da Lei de
+Propriedade Industrial nº 9279 de 14/05/1996 (LPI), respectivamente. Adicionalmente, foram
+observadas inconsistências relacionadas aos Artigos 24 e 25 da LPI, razão pela qual foi
+concluído que a matéria reivindicada não era passível de proteção patentária, uma vez que não
+atendia aos ditames do Artigo 8º da LPI.
+
+       Assim, por meio da petição nº 870240036309 de 29/04/2024, a Requerente se
+manifestou em relação ao parecer supracitado, apresentando ao INPI 09 páginas de
+MANIFESTAÇÃO SOBRE PARECER DESFAVORÁVEL, assim como novas vias do RD e do
+resumo e também um novo QR, este com um total de 16 reivindicações. Este quadro será,
+portanto, o objeto deste segundo exame de mérito.
+
+
+
+                            Quadro 1  Páginas do pedido examinadas
+            Elemento                     Páginas                n.o da Petição           Data
+
+Relatório Descritivo                       1-572                870240036309           29/04/2024
+Quadro Reivindicatório                     1-70                 870240036309           29/04/2024
+Desenhos                                     -                           -                 -
+Resumo                                       1                  870240036309           29/04/2024
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                   Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                            X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                    X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                           X
+O pedido está de acordo com disposto no art. 32 da LPI                            X
+Comentários/Justificativas
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                   Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI              X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI            X
+Comentários/Justificativas
+
+
+
+
+                                                                                       Página 2 de 7
+                                        BR122021024198-8
+
+
+         De acordo com o primeiro exame de mérito, foi verificado que a antiga Fórmula (I)
+solicitava proteção para compostos que apresentavam uma grande variedade de grupos
+substituintes, muitos dos quais não apresentavam suporte do RD e que por isso não poderiam ser
+reivindicados, em desacordo com os Artigos 24 e 25 da LPI.
+
+         No que se refere aos derivados em tela, foram exemplificados radicais que não estavam
+suficientemente descritos no pedido inicialmente depositado, como R1 e R2 sendo sililoxi-C1-C6
+alquil; L1 e L2 sendo S(O)2CH-, S(O)2CH2CH2-, S(O)2CH2CH2O-; RY sendo ciano, -ORA, -NRBRC,
+-C(O)RD e -C(O)ORD e os grupos A e W sendo opcionalmente substituídos por G 1, um cicloalquil,
+um aril ou heteroaril opcionalmente substituído por 1 a 3 RZ.
+
+         Além disso, verificou-se que o QR analisado apresentava um grupo de reivindicações que
+empregava termos amplos e genéricos na definição de certos grupos substituintes, como por
+exemplo, aril, aril fundido e heterocicloalquil. No entendimento deste INPI, as indefinições
+aqui mencionadas ampliavam o escopo de proteção da reivindicação para além do que é de fato
+está concretizado no presente pedido, em desacordo com o Artigo o 25 da LPI.
+
+         Por meio da petição nº 870240036309 de 29/04/2024, a Requerente se manifestou em
+relação ao exame técnico supracitado, informando ao INPI sobre a apresentação de um QR
+reformulado, com o intuito de definir de forma mais clara e precisa o objeto reivindicado. Informa
+ainda a correção de alguns erros materiais de digitação observados ao longo do RD, sem
+acréscimo de matéria, de acordo com a Resolução nº 093/2013. No que se refere aos compostos
+não concretizados, tal como mencionados no exame publicado em 30/01/2024, a manifestação
+em tela apresenta uma tabela (página 4/9) que traz a correspondência entre os exemplos de
+concretização, compostos exemplificados e substituintes mencionados pelo INPI no parecer ora
+sob manifestação. Desta forma, a Requerente acredita que a matéria ora reivindicada pode ser
+plenamente reproduzida por um técnico no assunto, tendo superado assim as objeções
+relacionadas aos Artigos 24 e 25 da LPI, como pontuado no exame anterior.
+
+         Analisando a manifestação apresentada ao INPI em 29/04/2024, assim como as
+modificações no QR apresentadas nesta mesma data, é possível reverter o posicionamento
+anterior acerca da falta de suporte da matéria reivindicada, tal como publicado em 30/01/2024.
+Logo, é possível considerar que os compostos pleiteados apresentam suporte nas descrições do
+pedido, de acordo com o Artigo 24 da LPI, e estão definidos de forma clara e precisa, segundo o
+Artigo 25 da LPI vigente.
+
+
+                            Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                              Data de publicação
+    D1                               US2016096800                                07/04/2016
+    D2                      PubChem Compound no. 91663862                        23/03/2015
+Comentários/Justificativas
+
+
+
+
+                                                                                    Página 3 de 7
+                                       BR122021024198-8
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento               Reivindicações
+                                                     Sim                      1-16
+           Aplicação Industrial
+                                                     Não                       -
+                                                     Sim                      1-16
+                Novidade
+                                                     Não                       -
+                                                     Sim                       -
+           Atividade Inventiva
+                                                     Não                      1-16
+Comentários/Justificativas
+
+       Aplicação Industrial
+
+       O objeto das reivindicações 1-16 atende aos ditames do Artigo da 15 da LPI.
+
+
+       Novidade
+
+       De acordo com o exame publicado em 29/04/2024, o QR analisado solicitava proteção
+para matéria destituída de novidade frente ao documento D2 (PubChem), que revela o composto
+no. 91663862, o qual teria sua estrutura química abarcada pela Fórmula (I), tal como definida na
+antiga reivindicação 1. Este mesmo composto também estaria definido nas reivindicações 4-6, 10,
+12, 13, e compreendido na composição definida pela reivindicação 21.
+
+       Analisando o QR apresentado ao INPI em 29/04/2024, a Requerente defende a novidade
+da matéria reivindicada frente ao documento da técnica em questão. É informado que no
+composto de D2, as fenilas (que seriam equivalentes a A e W) estão ligadas a um metileno ligado
+a um oxigênio que, por sua vez, está ligado à carbonila. Esta possibilidade não está contemplada
+na reivindicação 1, como se observa acima, visto que, quando L 1 é CH2O-*, o anel A está
+diretamente ligado a um oxigênio.
+
+       Assim, considerando que no composto da técnica o anel fenila está ligado ao grupo
+*CH2O- pelo átomo de carbono e não pelo átomo de oxigênio, e que nos compostos reivindicados
+o anel correspondente A é ligado ao grupo L 1 (ou W com L2) através do átomo de oxigênio,
+verifica-se que não há de fato sobreposição entre as estruturas da Fórmula (I) da reivindicação 1
+com aquela revelada em D2. Logo, é possível considerar os derivados da reivindicação 1 como
+sendo novos frente a arte anterior mencionada no Quadro 4 deste parecer, de acordo com o
+Artigo 11 da LPI.
+
+
+
+       Atividade Inventiva
+
+       Conforme já exposto, o presente pedido é voltado para compostos moduladores da
+resposta integrada ao estresse (ISR), sendo estes considerados úteis no tratamento de doenças,
+distúrbios e/ou condições relacionados a esta via.
+
+
+
+                                                                                     Página 4 de 7
+                                       BR122021024198-8
+
+
+
+
+       De acordo com o exame anterior, o documento D1 (US2016096800) foi considerado o
+estado da técnica mais próximo do objeto reivindicado, uma vez que ensina compostos
+moduladores da resposta integrada ao estresse (ISR), tal como aqueles apresentados no presente
+pedido. As estruturas químicas da técnica foram consideradas como sendo muito próximas
+daquelas que são definidas na reivindicação 1 sob exame.
+
+       Conforme mencionado do exame anterior, verificou-se que a principal diferença entre os
+compostos reivindicados e aqueles ensinados ou sugeridos em D1 consistia no ciclo alifático
+presente na região central de ambos os grupos de moléculas. Nos compostos da reivindicação 1,
+esse ciclo é o substituinte D, ao passo que nas estruturas da técnica, trata-se do grupo A.
+Concluiu-se, assim, que um versado na arte, de posse dos ensinamentos a técnica, seria capaz
+de propor a substituição dos cicloalcanos especificamente revelados (como por exemplo, o anel
+ciclohexila) por outros cicloalcanos de forma a obter novos compostos ativos, com razoável
+expectativa de sucesso. Foi mencionado ainda que não havia informação em D1 que afastasse o
+técnico do assunto desta tentativa. Finalmente, foi mencionado que as definições dos anéis A e W,
+quando combinados entre si, resultaria numa gama de compostos para os quais não seria
+possível predizer o efeito técnico reivindicado. Assim, concluiu-se que não poderia ser atribuída
+atividade inventiva para todos os compostos abarcados pela Fórmula (I) da reivindicação 1, e que
+por isso a matéria reivindicada não atendia ao disposto no Artigo 13 da LPI.
+
+       Por meio da manifestação apresentada ao INPI em 29/04/2024, a Requerente apresenta
+argumentos em defesa da inventividade do objeto reivindicado, de modo a superar o
+posicionamento anterior do INPI sobre a não patenteabilidade do presente pedido.
+
+       Inicialmente, é informado que o QR sob exame apresenta um escopo de proteção mais
+restrito do que aquele anteriormente reivindicado, e que essa limitação foi realizada com base na
+matéria exemplificada no presente pedido de patente. Logo, os substituintes ora descritos na
+Fórmula (I) não são seleções arbitrárias, mas refletem generalizações razoáveis dos compostos
+desenvolvidos e descritos no presente pedido de patente. Ainda, de acordo com a referida
+manifestação, nada em D1 sugere selecionar a combinação de variáveis como nos compostos da
+presente invenção, e por isso um técnico no assunto não teria qualquer orientação para fazer
+seleções de variáveis na fórmula (I) de modo a chegar aos compostos reivindicados. Assim, a
+Requerente entende que a matéria ora reivindicada apresenta características distintivas e efeitos
+imprevisíveis, não sendo óbvia para um versado na arte frente ao estado da técnica, e que por
+isso apresenta atividade inventiva, de acordo com o Artigo 13 da LPI.
+
+       A partir da análise do QR modificado que foi apresentado ao INPI em 29/04/2024, assim
+como das argumentações em defesa da patenteabilidade dos compostos de Fórmula (I) que foram
+apresentadas na manifestação em tela, fica mantido o posicionamento anterior acerca da falta de
+inventividade da matéria reivindicada, tal como publicado no primeiro exame de mérito. Explica-se:
+
+       O documento D1, como já mencionado, apresenta pequenas moléculas moduladoras da
+via integrada ao estresse, as quais podem ser empregadas no tratamento de doenças como
+
+
+                                                                                    Página 5 de 7
+                                       BR122021024198-8
+
+
+câncer, por exemplo. Analisando as estruturas descritas na reivindicação 1 e concretizadas no RD,
+é possível concluir que estas tratam de uma seleção de compostos definidos apresentados no
+documento da técnica, sobretudo quando os grupos A e W são, ao mesmo tempo, uma fenila. O
+ciclo alifático central (grupo D) dos compostos reivindicados está igualmente presente nos
+compostos da técnica (grupo A), sendo este definido como sendo um anel cicloalquileno
+(cicloalquil). A reivindicação 1 de D1 não estabelece de forma pontual o número de átomos de
+carbono para este ciclo ou, ainda, se este é ou não um grupo cicloalquileno em ponte. Contudo, é
+possível afirmar que um técnico no assunto, levando em conta os ensinamentos de D1,
+consideraria substituir os cicloalquilenos ensinados na técnica por outros anéis de mesma
+natureza química de modo a alcançar um resultado positivo com uma razoável expectativa de
+sucesso. É possível ainda concluir que o pedido em tela falha em demonstrar que os compostos
+concretizados e testados apresentam um efeito diferenciado para o alvo farmacológico
+mencionado nas descrições do pedido, ou seja, para a proteína eIF2 frente a compostos
+semelhantes ensinados em D1.
+
+       Adicionalmente, e como já mencionado no exame anterior, verifica-se que a reivindicação 1
+define os grupos A e W com uma vasta gama de substituintes cíclicos, para os quais não é
+possível prever o efeito técnico alegado nas descrições no RD do presente pedido. E ainda que a
+Requerente tenha testado um grande número de compostos, as descrições falham em demonstrar
+que estruturas contendo os grupos A ou W substituídos por outros ciclos possam de fato resolver
+o problema técnico apresentado no pedido em tela (ou seja, se de fato apresentam o efeito
+biológico alegado).
+
+       Pelo exposto, corrobora-se a conclusão anterior sobre a falta de inventividade dos
+compostos pleiteados frente ao documento D1, em desacordo com o Artigo 13 da LPI, não sendo
+estes passíveis de proteção patentária, segundo o Artigo 8º da LPI vigente.
+
+
+
+Outras Observações
+
+       I  Declaração Negativa de Acesso
+
+       O INPI emitiu a exigência de código 6.6.1 na RPI 2680 de 17/05/2022, para fins de
+manifestação do depositante quanto à ocorrência de acesso ao Patrimônio Genético Nacional
+e/ou Conhecimento Tradicional Associado para obtenção do objeto do presente pedido. Não
+tendo havido manifestação do depositante no prazo de 60 (sessenta) dias contados a partir da
+publicação na RPI, o INPI deu prosseguimento ao exame técnico com o entendimento de que
+não houve acesso ao patrimônio genético nacional e/ou conhecimento tradicional associado.
+
+       II  O artigo 229-C da Lei nº 10196/2001, que modificou a Lei nº 9279/1996 (LPI), foi
+revogado pela Lei 14.195/2021. Em momento anterior à publicação da Lei de 2021, a concessão
+da patente estava condicionada à anuência prévia da ANVISA. Tendo em vista a Portaria
+Interministerial nº 1065, de 24/05/2012, que alterava o fluxo de análise para pedidos de patentes
+de produtos e processos farmacêuticos, o pedido original BR112018072663-0 foi encaminhado à
+
+
+
+                                                                                   Página 6 de 7
+                                       BR122021024198-8
+
+
+ANVISA para as providências cabíveis (despacho 7.4, RPI 2630 de 01/06/2021). Conforme
+parecer técnico Nº 274/21/COOPI/GGMED/ANVISA, de 05 de julho de 2021, o pedido obteve
+anuência referente ao disposto no art. 229-C da LPI (despacho 7.5, RPI 2637 de 20/07/2021).
+
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 10 de setembro de 2024.
+
+
+
+Verônica Pinto Rodrigues
+Pesquisadora/ Mat. Nº 1742828
+DIRPA / CGPAT I/DIFAR-II
+Deleg. Comp. - Port. INPI/DIRPA Nº 001/15
+
+
+
+
+                                                                                     Página 7 de 7
+

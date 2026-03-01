@@ -1,0 +1,146 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR102018014006-0         N.° de Depósito PCT:
+ Data de Depósito:     10/07/2018
+ Prioridade Unionista: US 62/531,019 (11/07/2017); US 62/621,754 (25/01/2018); US
+                       16/025,230 (02/07/2018)
+ Depositante:          AIR PRODUCTS AND CHEMICALS, INC (US)
+ Inventor:             GREGORY J. BURAGINO; ANUP VASANT SANE; SHAILESH
+                       PRADEEP GANGOLI; XIAOYI HE; LARRY SAUL ZELSON @FIG
+ Título:               Sistemas e métodos para preaquecimento de péletes contendo metal
+                       
+
+                                                                PARECER
+
+
+A requerente apresentou manifestação em resposta a ciência de parecer de 1º exame lavrada
+no parecer técnico do pedido BR102018014006-0 publicado na RPI Nº 2716 de 24/01/2023 por
+meio da petição Nº 870230020448 de 09/03/2023.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 30               870220082118           09/09/2022
+Quadro Reivindicatório                                   1a5                 870220082118           09/09/2022
+Desenhos                                                1 a 11               870180059343           10/07/2018
+Resumo                                                      1                870220082118           09/09/2022
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR102018014006-0
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim                    Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+Comentários/Justificativas
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                              Data de publicação
+    D1                                 US2015218666                                   06/08/2015
+    D2                                  CN104593537                                   06/05/2015
+    D3                                   CN1942594                                    04/04/2007
+    D4                                 US2005077658                                   14/04/2005
+    D5                                 US2003061909                                   03/04/2003
+    D6                                   US4609400                                    02/09/1986
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                   R1 a R14
+           Aplicação Industrial
+                                                        Não                   ---------------
+                                                         Sim                   R1 a R14
+                 Novidade
+                                                        Não                   ---------------
+                                                         Sim                  ---------------
+           Atividade Inventiva
+                                                        Não                    R1 a R14
+Comentários/Justificativas
+Na manifestação supra o requerente apresenta argumentos acerca da matéria pleiteada no
+primeiro exame, contudo entende-se que estes não trazem fato novo ao exposto no
+primeiro exame.
+Considerando plenamente os argumentos apresentados pelo requerente na manifestação,
+entende-se que os mesmos não são suficientes e ou conclusivos para aferir atividade
+inventiva a matéria pleiteada. As características citadas como distintivas da nova
+reivindicação independente R1 são ensinadas no estado da técnica pelo documento D6 como já
+demonstrado no 1º exame, que poderia guiar um técnico no assunto a propor a matéria
+pleiteada adicionando a este seu conhecimento técnico de rotina sem o exercício de atividade
+inventiva e/ou experimentações excessivas, quer este seja combinado com os ensinamentos
+de mais dois documentos dentre D1  D5 ou não.
+A respeito dos argumentos da requerente destaca-se ainda que, D6 revela a razão
+combustível  ar requerida pelo queimador (60) para a combustão completa do gás residual;
+C4:39  40, o que significa que uma quantidade abundante de O 2 é fornecida para a combustão
+completa do gás residual. Além disso, a Fig. 3 de D6 mostra seção rica em combustível dentro
+
+
+
+                                                                                                Página 2
+                                      BR102018014006-0
+
+de uma vedação de gás dinâmica (48) e abertura de descarga (74) que é rica em oxigênio e
+através de (74) o ar ambiente flui para dentro e descarrega para fora da passagem de gás (62)
+Fig. 3.
+O requerente argumenta que D6 não contém nenhum ensinamento de que qualquer um dos
+queimadores deva ser operado de maneira rica em oxigênio, ou que quaisquer outros
+queimadores no sistema devam ser operados com oxigênio rico. Contudo, A Fig. 3 de D6
+descreve que a abertura (74) é rica em oxigênio do ar ambiente.
+Portanto, conforme descrito no 1º exame entende-se que a reivindicação independente R1 não
+apresenta atividade inventiva.
+Acerca de R11 e R12, entende-se que são uma função direta de R1 a R10, por isso a matéria
+pleiteada não possui mérito e como apresentado nos parágrafos acima não cumprem o
+requisito de patenteabilidade de atividade inventiva.
+As reivindicações dependentes R2  R10 e R13  R14 não parecem conter quaisquer
+características adicionais que, em combinação com as características de qualquer
+reivindicação a que se referem, atendam aos requisitos com relação à etapa inventiva.
+
+
+
+Conclusão
+O pedido, portanto, infringe os arts. 8º c/c 13 da LPI 9279/1996, que versam sobre atividade
+inventiva, pois a matéria pleiteada não acresce efeito técnico novo ou inesperado ao estado
+da técnica e são evidentes para um técnico versado no assunto.
+De acordo com o art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da data
+de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                              Rio de Janeiro, 4 de abril de 2023.
+
+
+
+Anderson Willian de Souza Baltazar
+Pesquisador/ Mat. Nº 2322474
+DIRPA / CGPAT IV/DIMAT
+Deleg. Comp. - Port. INPI/DIRPA Nº 012/18
+
+
+
+
+                                                                                        Página 3
+

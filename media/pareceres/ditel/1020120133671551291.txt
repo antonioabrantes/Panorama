@@ -1,0 +1,147 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR102012013367-9           N.° de Depósito PCT:
+ Data de Depósito:     01/06/2012
+ Prioridade Unionista: US 61/497281 (15/06/2011); US 61/503430 (30/06/2011); US
+                       13/345320 (06/01/2012)
+ Depositante:          Sony Corporation. (JP)
+ Inventor:             Jun Xu
+ Título:               Aparelho e método para efetuar codificação de vídeo, e, meio legível
+                       por computador não transitório 
+
+                                                                PARECER
+
+          Em 07/02/2022, por meio da petição 870220010742, a Requerente apresentou
+modificações no pedido em resposta ao parecer emitido, notificado na RPI 2653 de 09/11/2021
+(despacho 6.1). Estas modificações estão consideradas no Quadro 1.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 14               870220010742           07/02/2022
+Quadro Reivindicatório                                   1a4                 870220010742           07/02/2022
+Desenhos                                                 1a3                 020120050313           01/06/2012
+Resumo                                                      1                870220010742           07/02/2022
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                                   X
+Comentários/Justificativas
+        No parecer anterior foi apontado que o quadro reivindicatório modificado apresentado na
+petição 870200110852 de 31/08/2020 e submetido para exame não pode ser aceito, pois as
+alterações foram efetuadas após o requerimento de exame e modificam substancialmente o
+escopo de proteção, não tendo sido motivadas para satisfazer a necessidade de melhor
+esclarecer ou definir a matéria objeto de proteção, configurando acréscimo de matéria
+reivindicada, contrariando o disposto no Art. 32 da LPI segundo o entendimento da Resolução PR
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR102012013367-9
+
+nº 093/2013 (Diretrizes sobre a aplicabilidade do disposto no Art. 32 da LPI nos pedidos de
+patentes, no âmbito do INPI).
+       O depositante substituiu /removeu/retirou as seguintes características das reivindicações
+independentes do quadro reivindicatório válido na época do pedido de exame (submetido através
+da petição 020120050313 de 01/06/2012):
+      um computador configurado para codificação e/ou decodificação de vídeo; e
+      programação configurada para execução no citado computador para:
+      executar interpredição e/ou intrapredição para reduzir redundâncias temporais e/ou
+       espaciais;
+      executar uma transformada e quantização durante a codificação e/ou transformada inversa
+       e quantização inversa durante a decodificação;
+      executar codificação aritmética binária adaptiva baseada em contexto (CABAC) durante a
+       codificação e/ou decodificação; e
+        Em sua manifestação a requerente submeteu novas vias do quadro reivindicatório, em que
+as irregularidades supracitadas não se encontram superadas, visto que a característica técnicas
+citadas foram removidas do quadro reivindicatório, ampliando, indevidamente, o escopo de
+proteção da matéria pleiteada na época do pedido de exame. Desta forma, o presente pedido não
+se encontra de acordo com o disposto no art. 32 da LPI.
+        Adicionalmente, na época do pedido de exame, o presente pedido possuía pleiteado no
+quadro reivindicatório apenas as seguintes categorias (ver petição 020120050313 de 01/06/2012):
+aparelho para efetuar codificação de vídeo, método para efetuar codificação de vídeo e meio
+legível por computador (cabe ressaltar que, neste momento não está sendo realizada se a referida
+reivindicação de meio legível está de acordo com o disposto no art. 10 da LPI). Contudo, no
+quadro reivindicatório submetido através do da petição 870220010742 de 07/02/2022, encontra-se
+pleiteado apenas reivindicações das categorias de aparelho de decodificação e método de
+codificação. A referida alteração de categoria contraria o disposto no art. 32, visto que, conforme
+dispõe a resolução Nº 093/2013.
+                         2.4. Mudanças de categoria
+                         Somente serão admitidas mudanças de categorias de reivindicação realizadas
+                         após o pedido de exame, nos seguintes casos:
+                         i) quando o QR original contiver reivindicações de produto caracterizado pelo
+                         processo e o Requerente modificar as reivindicações para processo
+                         caracterizado pelo processo;
+                         ii) quando o QR original contiver processo caracterizado pelo produto e o
+                         Requerente modificar as reivindicações para produto caracterizado pelo produto;
+                         e
+                         iii) quando por erro grosseiro, caso o Requerente tenha solicitado originalmente
+                         uma reivindicação na categoria incorreta. Por exemplo, um produto definido por
+                         etapas de um processo, quando o processo seria uma reivindicação de método.
+       Uma vez que a referida mudança de categoria não atende a nenhuma das condições
+expostas no item 2.4 da resolução Nº 093/2013, o presente pedido não encontra-se de acordo
+com o art. 32 LPI.
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                               Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI           ---              ---
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI         ---              ---
+
+
+
+
+                                                                                                Página 2
+                                      BR102012013367-9
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                              Documento                            Data de publicação
+   ----     -----                                                                   -----
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade          Cumprimento               Reivindicações
+                                                 Sim                         ----
+          Aplicação Industrial
+                                                 Não                         ----
+                                                 Sim                         ----
+                    Novidade
+                                                 Não                         ----
+
+                                                 Sim                         ----
+          Atividade Inventiva
+                                                 Não                         ----
+Conclusão
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que há
+acréscimo de matéria do pedido ou do escopo das reivindicações (Art. 32 da LPI)
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+                                                              Publique-se o indeferimento (9.2).
+                                                          Rio de Janeiro, 14 de março de 2022.
+
+
+
+
+Marcos Patricio dos Santos Júnior
+Pesquisador/ Mat. Nº 1707127
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 007/16
+
+
+
+
+                                                                                            Página 3
+

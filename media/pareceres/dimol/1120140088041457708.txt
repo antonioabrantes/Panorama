@@ -1,0 +1,200 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112014008804-7          N.° de Depósito PCT: US2012/059477
+ Data de Depósito:                   10/10/2012
+ Prioridade Unionista:               US 61/546,028 (11/10/2011)
+ Depositante:                        MEDIMMUNE, LLC (US)
+ Inventor:                           ANTHONY COYLE, MANUEL BACA, THOMAS THISTED, STACEY
+                                     DRABIC, LUBA GRINBERG, SHABAZZ NOVARRA, VAHEH
+                                     OGANESYAN, RONALD HERBST, DAVID KENNETH SPENCER
+ Título:                             Suportes derivados de tn3 específicos para cd40l e métodos de uso
+                                     dos mesmos 
+
+                                                              PARECER
+          Por meio da RPI número 2609 de 05 de janeiro de 2021, o INPI notificou parecer técnico
+de exigências técnicas (6.1), no qual o seguinte foi exigido:
+
+          A reivindicação 10 pleiteia método que envolve o contato de célula com o suporte Tn3
+pleiteado. Como redigida, a referida reivindicação não define inequivocamente que o método seja
+in vitro ou ex vivo  ou seja, não está afastada a possibilidade de manipulação do corpo humano e
+animal do método ora pleiteado. Assim, é evidente que o mesmo incide sobre as proibições do
+Artigo 10 (VIII) da LPI.
+
+          A reivindicação 15 pleiteia composição para uso em método de tratamento. Assim, essa
+reivindicação é considerada como reivindicação de método terapêutico e não é aceita nos
+termos do item 1.29 da resolução 169 de 15 de julho de 2016 e do Artigo 10 (VIII) da LPI.
+
+          Portanto, exige-se:
+
+          Que a reivindicação 10 ou seja removida ou que defina inequivocamente que o método
+em questão não envolve manipulação do corpo humano/animal.
+
+          Que a reivindicação 15 seja removida.
+          De acordo com a IN 118 de 12 de novembro de 2020, item 6.1:
+          Ressalta-se que um DNA ou RNA deve ser definido por sua sequência de nucleotídeos,
+enquanto uma proteína, por sua sequência de aminoácidos, de forma a definir com clareza a
+matéria objeto de proteção.
+          Além disso, sequências degeneradas de um DNA ou RNA definido por uma SEQ ID de
+nucleotídeos podem ser aceitas, desde que gerem a mesma proteína e que tal proteína seja
+definida com precisão (vide tipos de redação aceitáveis abaixo). Nessa situação, a SEQ ID de
+nucleotídeos de referência deve estar revelada no pedido conforme depositado
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                  Página 1 de 4
+                                         BR112014008804-7
+
+       Ainda, de acordo com o item 2.31. da IN supracitada:
+       A matéria objeto da proteção deve estar devidamente fundamentada no relatório
+descritivo. Para tanto, é necessário que a descrição realizada através do relatório descritivo
+forneça informações técnicas capazes de fundamentar toda a matéria pleiteada.
+
+
+       Assim, exige-se em atendimento ao Artigo 25 da LPI:
+
+       Reivindicação 1  Deverá definir as SEQ ID NO X específicas das sete cadeias beta.
+Deverá definir que as subunidades monoméricas estão ligadas em tandem, uma vez que a
+reivindicação principal deve definir as características técnicas essenciais da matéria pleiteada e
+toda reivindicação deve estar suportada em informações técnicas do relatório descritivo.
+       Reivindicação 7  Deverá ser eliminada, pois não define de maneira precisa as
+características técnicas da matéria pleiteada, pois fragmento é amplo e as substituições não
+estão definidas especificamente.
+       Reivindicação 12  Deverá ou definir o DNA por sua SEQ ID NO X específica de
+nucleotídeos ou deverá ser removida.
+       Reivindicação 13 - Deverá ou definir o DNA por sua SEQ ID NO X específica de
+nucleotídeos ou deverá ser removida.
+
+
+       Este parecer técnico considerou os argumentos da requerente e acredita que seja
+suficiente afirmar que concorda com a requerente. Assim, reconhece-se que a matéria pleiteada
+pelas reivindicações 1-9, 11-14 e 16 apresentam aplicação industrial, novidade e atividade
+inventiva, atendendo ao disposto no Artigo 8° da LPI.
+
+       A requerente respondeu o mesmo por meio da petição número 870210030611 de 01 de
+abril de 2021.
+
+
+
+                          Quadro 1  Páginas do pedido examinadas
+           Elemento                     Páginas           n.o da Petição             Data
+Relatório Descritivo                                      870210030611
+                                         1-192                                     01/04/2021
+
+Listagem de sequências em                                 870210030611
+                                         1-50                                      01/04/2021
+formato impresso
+Listagem de sequências*                                   870210030611
+                                   Código de Controle                              01/04/2021
+
+Quadro Reivindicatório                                    870210030611
+                                          1-5                                      01/04/2021
+
+Desenhos                                 1-52             860140049862             11/04/2014
+Resumo                                                    870210030611
+                                           1                                       01/04/2021
+
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+     649CB3865C904178 (Campo 1) e 31C1D00C32D9F1A2 (Campo 2).
+
+
+
+
+                                                                                    Página 2 de 4
+                                           BR112014008804-7
+
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                           Sim                 Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)       ---                X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)               ---                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   X                  ---
+O pedido está de acordo com disposto no art. 32 da LPI                    X                  ---
+Comentários/Justificativas
+
+          O novo quadro reivindicatório apresentado por meio da petição número 870210030611
+de 01 de abril de 2021 foi considerado suficiente para fins de atendimento às exigências
+relativas ao quadro 2 formuladas em parecer técnico anterior.
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X                  ---
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI   ---                 X
+Comentários/Justificativas
+          A reivindicação 14 do novo quadro reivindicatório apresentado por meio da petição número
+870210030611 de 01 de abril de 2021 continua a definir ácido nucleico pela molécula que este
+codifica, o que já foi apontado como impróprio por força do Item 6.1 da IN 118/2020 e do Artigo 25
+da LPI.
+
+
+                             Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                              Data de publicação
+    ---       ---                                                                       --
+
+
+
+
+                                                                                      Página 3 de 4
+                                        BR112014008804-7
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento              Reivindicações
+                                                   Sim                        1-17
+          Aplicação Industrial
+                                                  Não                          ---
+                                                   Sim                        1-17
+                Novidade
+                                                  Não                          ---
+                                                   Sim                        1-17
+           Atividade Inventiva
+                                                  Não                          ---
+Comentários/Justificativas
+
+       Não cabem comentários/justificativas.
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 3 de agosto de 2021.
+
+
+
+
+Eduardo Garcia Necco Peixoto Regis
+Pesquisador/ Mat. Nº 1880420
+DIRPA / CGPAT II/DIMOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+003/14
+
+
+
+
+                                                                                     Página 4 de 4
+

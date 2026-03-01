@@ -1,0 +1,259 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122021015578-0           N.° de Depósito PCT:
+ Data de Depósito:                   25/07/2012
+ Prioridade Unionista:               US 61511664 (26/07/2011); US 61521798 (10/08/2011)
+ Depositante:                        DOW AGROSCIENCES LLC (US)
+ Inventor:                           Nathan Bard, Greg Bradfisch, Yunxing Cory Cui, James E. Dripps,
+                                     Thomas Hoffmann, Dayakar Pareddy, Dawn M. Parkhurst, Sandra G.
+                                     Toledo, Barry Wiggins, Ning Zhou
+ Título:                             Métodos de ervas-daninhas, de reprodução de uma planta de soja e
+                                     sequência de DNA diagnóstica para o evento de soja 9582.814.19.1
+
+                                                              PARECER
+
+
+          O presente exame técnico foi realizado à luz da LPI nº 9.279/96 e em observação a IN/INPI/PR Nº
+118 de 12/11/2020, publicada em 01/12/2020, que institui a nova versão das Diretrizes de Exame de
+Pedidos de Patente na área de Biotecnologia; a Resolução Nº 124/2013, de 17/12/2013, que institui as
+Diretrizes de Exame e Pedidos de Patentes Módulo 1, a Resolução Nº 169/2016, de 15/07/2016, que institui
+as Diretrizes de exame de pedidos de patentes  Bloco II  Patenteabilidade e a Resolução nº 093/2013 que
+instituiu as Diretrizes sobre a aplicabilidade do disposto no artigo 32 da Lei 9279/96 nos pedidos de
+patentes, no âmbito do INPI.
+
+          O presente pedido corresponde a uma divisão do pedido BR102012019434-1, solicitada por meio
+da petição nº 870210071981 em 06/08/2021. A notificação de depósito do pedido dividido foi publicada na
+RPI nº 2642 de 24/08/2021. Considerando o disposto no Art. 28 da IN PR nº 031/2013 (publicada na RPI nº
+2241 de 17/12/2013), o pedido dividido entra na mesma fase processual em que se encontra o pedido
+original, de forma que são aproveitados todos os documentos, pareceres, petições e despachos constantes
+no pedido original até a data de depósito do pedido dividido, cabendo ao INPI reduzir a termo a referência
+aos documentos e petições que se encontram no pedido original. Assim, são válidas para o presente pedido
+dividido as publicações e manifestações trazidas aos autos pela requerente para o pedido original, tais
+como o despacho 6.21 (notificado na RPI nº 2537 de 20/08/2019) e o despacho 6.1 (notificado na RPI nº
+2627 de 11/05/2021).
+
+
+
+  Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao Conselho
+         de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                              Sim     Não
+
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                           x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    x
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                 Página 1
+                                           BR122021015578-0
+
+
+O pedido refere-se a Sequências Biológicas                                                           x
+
+Comentários/Justificativas
+
+        O presente pedido não foi encaminhado à ANVISA uma vez que não se enquadra no art. 229-C da
+LPI, incluído pela Lei 10.196/2001.
+
+        A declaração negativa de acesso referente a Resol. INPI PR n.º 69/2013 foi apresentada no depósito
+do pedido dividido, por meio da petição nº 870210071981 em 06/08/202.
+
+        Por meio da petição nº 870210071981 em 06/08/202 foi apresentada a Listagem Eletrônica de
+Sequências (Códigos de controle campos 1 e 2, 27A22550BD68CABC e EBA4090DEB579B6F,
+respectivamente), que está em conformidade com a Portaria INPI/PR Nº 405/2020 publicada na RPI nº 2608 de
+29/12/2020.
+
+
+                               Quadro 1  Páginas do pedido examinadas
+              Elemento                     Páginas                n.o da Petição                   Data
+Relatório Descritivo                        1 a 67                870210071981                   06/08/2021
+Listagem de sequências em
+                                            1 a 26                870210071981                   06/08/2021
+formato impresso
+Listagem de sequências*               Código de Controle          870210071981                   06/08/2021
+Quadro Reivindicatório                      1e2                   870210071981                   06/08/2021
+Desenhos                                    1e2                   870210071981                   06/08/2021
+Resumo                                        1                   870210071981                   06/08/2021
+      *Listagem de sequências em formato eletrônico referente ao                   código   de    controle
+      27A22550BD68CABC (Campo 1) e EBA4090DEB579B6F (Campo 2).
+
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n. o 9.279 de 14 de maio de
+                                           1996  LPI
+
+Artigos da LPI                                                                     Sim               Não
+
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                             x
+
+O pedido está de acordo com disposto no art. 32 da LPI                              x
+
+Comentários/Justificativas
+
+
+
+
+                   Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                     Sim               Não
+
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                                     x
+
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                                   x
+
+
+
+
+                                                                                                         Página 2
+                                           BR122021015578-0
+
+
+Comentários/Justificativas
+        As reivindicações 1 a 6 propostas no presente pedido dividido já foram apresentadas no pedido
+original, por meio da petição nº 870190118480 de 14/11/2019 e já foram analisadas no parecer técnico
+notificado na RPI nº 2627 de 11/05/2021. Portanto, já era de conhecimento da Requerente, antes do
+depósito do presente pedido dividido em 06/08/2021, as objeções quanto aos critérios estabelecidos nos
+arts. 24 e 25 da LPI para a matéria pleiteada nas reivindicações 1 a 6 reapresentadas no presente pedido
+dividido. No entanto, não foram apresentadas argumentações técnicas em resposta as questões discutidas
+no parecer notificado na RPI nº 2627 de 11/05/2021, para embasar a reapresentação das reivindicações já
+anteriormente analisadas. Dessa forma, mantém-se no presente exame técnico as objeções quanto ao
+disposto nos arts. 24 e 25 da LPI para a matéria ora reivindicada, devido as razões abaixo discutidas.
+
+
+        O método de controle de ervas daninhas de uma colheita de soja pleiteado nas reivindicações 1 e 2
+dependem de parâmetros técnicos que não podem ser definidos, visto que sua eficiência depende das
+ervas daninhas que podem estar presentes no ambiente a ser tratado com herbicida de glufosinato. O
+método pleiteado depende da atuação do herbicida sobre as ervas daninhas e não será afetado pela
+presença da colheita de soja transformada da invenção. Não é possível definir um processo com base em
+um parâmetro técnico que não participa de forma efetiva do resultado a ser obtido, portanto, não há
+suficiência descritiva no relatório descritivo para tais reivindicações, que estão em desacordo com os artigos
+24 e 25 da LPI.
+
+
+        Nas reivindicações 3 e 6, a utilização do termo compreende na definição das sequências de DNA
+pleiteadas amplia indevidamente o escopo da reivindicação, estendendo a proteção para sequências que,
+além da presença das sequências especificadas, podem incluir outros elementos não identificados no
+presente pedido. Deve ser considerado que a invenção trata de um evento único que compreende um
+transgene inserido em um local específico do genoma da planta transgênica, que pode ser identificado pelas
+sequências definidas nas reivindicações 3 e 6. Contudo, a inclusão de moléculas definidas por
+compreender tais sequências, amplia o escopo da proteção reivindicada para uma infinidade de moléculas
+de DNA, representando proteção de matéria decorrente do evento 9582.814.19.1 e não mais limitada ao
+evento único obtido, que caracteriza a presente invenção e para o qual foi atribuído um efeito técnico
+vantajoso. Portanto, tais reivindicações não atendem aos artigos 24 e 25 da LPI.
+
+
+        A reivindicação 4 não define de forma clara e precisa a primeira planta parental envolvida no
+método de reprodução de planta de soja pleiteado. A invenção ora em análise refere-se a um evento único
+de transformação de soja, denominado evento 9582.814.19.1, que apresenta os transgenes cry1F, cry1Ac e
+pat inseridos em um local específico do genoma de soja e que foi selecionado com base em características
+genotípicas e fenotípicas próprias. A proteção devida no presente pedido limita-se a matéria que envolve
+plantas dotadas do evento 9582.814.19.1, com a sua totalidade de características específicas, que só
+podem ser apropriadamente definidas com referência ao depósito do material biológico no ATCC
+PTA-12006, conforme descrito no relatório descritivo (par. 27). Portanto, a definição da planta envolvida no
+método pleiteado sem referência ao depósito ATCC PTA-12006, amplia indevidamente o escopo da
+proteção pleiteada, em desacordo com o art. 24 da LPI e não define a matéria pleiteada de forma clara e
+precisa, em desacordo com o Art. 25 da LPI.
+
+
+
+
+                                                                                                    Página 3
+                                               BR122021015578-0
+
+
+
+                                  Quadro 4  Documentos citados no parecer
+
+  Código                                      Documento                                   Data de publicação
+
+      -                                             -                                              -
+
+
+              Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+
+          Requisito de Patenteabilidade                 Cumprimento                   Reivindicações
+
+                                                              Sim                          1a6
+                 Aplicação Industrial
+                                                              Não                        nenhuma
+
+                                                              Sim                          1a6
+                      Novidade
+                                                              Não                        nenhuma
+
+                                                              Sim                          1a6
+                 Atividade Inventiva
+                                                              Não                        nenhuma
+
+Comentários/Justificativas
+
+          As reivindicações 1 a 6 apresentadas por meio da             petição nº 870210071981 em 06/08/2021
+atendem aos requisitos de patenteabilidade estabelecidos no art. 8º da LPI.
+
+
+
+Conclusão
+
+
+          Considerando o disposto no art. 28 da IN nº 031/2013, de 04/12/2013, um pedido dividido
+encontra-se na mesma fase processual do pedido original. Desta forma, já era de conhecimento da
+Requerente, antes da apresentação do presente pedido dividido, as objeções quanto aos arts. 24 e 25 da
+LPI, para a matéria ora reivindicada, que já foi analisada no pedido original, no parecer técnico notificado na
+RPI nº 2627 de 11/05/2021. A Requerente optou por reapresentar no presente pedido dividido as mesmas
+reivindicações, já analisadas no pedido original, sem apresentar qualquer arrazoado visando contrapor o
+que já era de seu conhecimento acerca da incorrência da matéria pleiteada no disposto nos art. 24 e 25 da
+LPI. Na ausência de argumentos para provocar uma revisão ou reanálise dos fatos, conclui-se que são
+válidas também para o objeto do presente pedido dividido as mesmas objeções já apresentadas para o
+pedido original.
+
+
+
+          Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+
+
+          -    não apresenta suficiência descritiva (Art. 24 da LPI)
+
+          -    as reivindicações estão indefinidas e não estão fundamentadas no relatório descritivo (Art. 25 da
+               LPI)
+
+
+
+
+                                                                                                       Página 4
+                                          BR122021015578-0
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da data de
+publicação na RPI, para interposição de recurso.
+
+
+
+                                                                        Publique-se o indeferimento (9.2).
+
+
+
+                                                                   Rio de Janeiro, 1 de setembro de 2021.
+
+
+
+
+Erika Tarré Borges Antonelli
+Pesquisador/ Mat. Nº 1472698
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                                Página 5
+

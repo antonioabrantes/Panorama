@@ -1,0 +1,144 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112012024332-2           N.° de Depósito PCT:EP11/054035
+ Data de Depósito:                   17/03/2011
+ Prioridade Unionista:               GB 1005126.6 (26/03/2010)
+ Depositante:                        GLOBAL BLUE S.A. (CH)
+ Inventor:                           Puay Hiang Tan
+ Título:                             Sistema de terminal de transação, hospedeiro, de conversão de
+                                     moeda dinâmica, de computador, computador do sistema hospedeiro,
+                                     métodos para operar um sistema de terminal de transação, para
+                                     operar o sistema hospedeiro, para controlar um sistema de
+                                     computador, e, produto de programa de computador 
+
+                                                              PARECER
+          O presente pedido refere-se a um sistema de terminal de transação para um suporte de
+pagamento (por exemplo, cartão de pagamento), sistema tal que se comunica com um sistema
+hospedeiro para fornecer conversão de moeda dinâmica. Uso eficiente da largura de banda da
+rede e utilização de armazenamento é provido consolidando-se intervalos de números do
+suporte de pagamento para formar os intervalos de números do suporte de pagamento
+consolidados definidos por um mais baixo número do suporte de pagamento de um primeiro, o
+mais baixo, intervalo de números do suporte de pagamento consecutivos para um mais alto
+número do suporte de pagamento de um segundo, o mais alto, intervalo de números do suporte
+de pagamento consecutivos.
+
+          Em 09/10/2020, por meio da petição 870200127737, a requerente apresentou
+manifestação em relação ao parecer de ciência publicado na RPI Nº 2584 de 14/07/2020. Foram
+apresentados argumentos a favor da patenteabilidade do pedido.
+
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                             37 Págs. (Págs.             870190132776     13/12/2019
+                                                 12 a 48 do PDF)
+Quadro Reivindicatório                           12 Págs. (Págs.             870190132776     13/12/2019
+                                                 49 a 60 do PDF)
+Desenhos                                        7 Págs. (Págs. 76            020120090439     25/09/2012
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                           BR112012024332-2
+
+
+                                      a 82 do PDF)
+Resumo                             1 Pág. (Pág. 61 do           870190132776               13/12/2019
+                                         PDF)
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                            Sim                  Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                             X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                     X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                        X
+O pedido está de acordo com disposto no art. 32 da LPI                         X
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                            Sim                  Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI           X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI         X
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                 Data de publicação
+    D1                                 US2008249908                                       09/10/2008
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento             Reivindicações
+                                                         Sim                       1 a 20
+           Aplicação Industrial
+                                                         Não                          -
+                                                         Sim                       1 a 20
+                 Novidade
+                                                         Não                          -
+
+                                                         Sim                          -
+           Atividade Inventiva
+                                                         Não                       1 a 20
+Comentários/Justificativas: De acordo com a requerente, no pedido, a determinação da
+moeda envolve poucas comparações com um pequeno conjunto de intervalos de números ao
+invés de diversas comparações com um grande número de números individuais.
+
+
+
+
+                                                                                                Página 2
+                                        BR112012024332-2
+
+
+       Consideramos que o procedimento adotado é equivalente àquele de (D1: resumo e
+reivindicação 1), e o fato se se utilizar poucas comparações com um pequeno conjunto de
+intervalos de números eleva a possibilidade de erros.
+
+       O pedido é desprovido de atividade inventiva.
+
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 12 de novembro de 2020.
+
+
+
+
+Paulo Roberto Dutra Magalhaes
+Pesquisador/ Mat. Nº 1287310
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+008/13
+
+
+
+
+                                                                                           Página 3
+

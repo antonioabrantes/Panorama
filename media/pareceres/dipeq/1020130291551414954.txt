@@ -1,0 +1,213 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102013029155-2            N.° de Depósito PCT:
+ Data de Depósito:                   12/11/2013
+ Prioridade Unionista:               -
+ Depositante:                        UNIVERSIDADE DE SÃO PAULO - USP (BRSP)
+ Inventor:                           DIONE MARI MORITA, PODALYRO AMARAL DE SOUZA, MANOEL
+                                     PAULO DE TOLEDO, MURILO ZUBIOLI MIELLI, MARCELO NELSON
+                                     PÁEZ CARREÑO
+ Título:                             Processo de fabricação de um dispositivo para análise de fluxo de
+                                     fluídos no solo, dispositivo para análise de fluxo de fluídos no solo,
+                                     método e sistema para análise de fluxo de fluídos no solo 
+
+                                                                PARECER
+
+
+          O presente pedido de patente de invenção sofreu ciência de parecer (7.1) conforme
+publicação na RPI n° 2597 de 13 de outubro de 2020, tendo se manifestado acerca do conteúdo
+do parecer via petição nº 870210001516 de 06/01/2021. Em sua manifestação, a requerente
+apresentou novas páginas do relatório descritivo, quadro reivindicatório e resumo, assim como,
+contra-argumentos relativos ao parecer denegatório de privilégio. Para fins de continuidade do
+exame estão sendo consideradas as vias abaixo.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-14               870210001516           06/01/2021
+Quadro Reivindicatório                                     1-2               870210001516           06/01/2021
+Desenhos                                                   1-3               018130037366           12/11/2013
+Resumo                                                      1                870210001516           06/01/2021
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                          BR102013029155-2
+
+
+O pedido está de acordo com disposto no art. 32 da LPI                    x
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D2                                   US6645432                                    11/11/2003
+    D5       MIELLI, Murilo Z. et al. Microfluidic systems in PDMS for study            2010
+             of foraging abilities of marine microorganisms. ECS
+             Transactions, v. 31, n. 1, p. 449, 2010.
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento            Reivindicações
+                                                         Sim                     1-5
+            Aplicação Industrial
+                                                         Não                     --
+                                                         Sim                     1-5
+                 Novidade
+                                                         Não                     --
+
+                                                         Sim                     --
+            Atividade Inventiva
+                                                         Não                     1-5
+
+
+
+Comentários/Justificativas
+
+
+         Com relação à análise dos requisitos de patenteabilidade, o depositante se manifestou
+defendendo que a matéria reivindicada cumpre os requisitos de patenteabilidade. Dentre os
+principais argumentos trazidos pelo depositante, destacam-se:
+         A requerente alega que o documento D2 se refere a uma conformação dos microcanais
+em 3D, uma melhoria em relação aos 2D, que são construídos com técnicas de fotolitografia. D2
+tem como objetivo a técnica de fabricação e não a análise do fluxo de fluidos no solo. Apenas a
+observação da passagem de um fluido por microcanais 3D, como proposto por D2, não
+
+
+
+
+                                                                                            Página 2
+                                         BR102013029155-2
+
+
+representaria nenhuma contribuição significativa ao melhor entendimento do escoamento de
+fluidos no solo, pois os microcanais propostos em D2 possuem seções transversais constantes.
+          Por outro lado, todas as etapas do processo que está sendo reivindicado está antecipado
+pelo documento D2, com exceção ao fato de utilizar imagens de microcanais do solo. E
+conforme dito anteriormente, a simples substituição das imagens do estado da técnica por
+imagens de microcanais do solo, não caracterizam a atividade inventiva.
+Não há nenhuma etapa do processo reivindicado que seja específica para microcanais do solo,
+de forma a diferenciar dos processos já existentes. Inclusive, a próprio requerente confirma que
+o documento D5 também utiliza o mesmo processo:
+
+
+
+
+          A requerente alega que no documento D5 é necessário manter o escoamento laminar,
+exatamente ao contrário da presente invenção, cujo interesse é o estudo dos diferentes regimes
+de escoamento de diversos fluidos ou combinações dos mesmos no solo.
+          Concorda-se com a requerente. Por outro lado, a nova reivindicação 5 do presente
+pedido refere-se a um método de análise de fluxo de fluídos no solo através de microscopia
+ótica. O documento D5 antecipa o uso de imagens para verificar o comportamento do fluido,
+conforme pode ser observado na seção Results and discussion e nas figura 1.
+
+
+          Reavaliando o     novo quadro reivindicatório a partir das alegações trazidas pelo
+depositante, entendo que tais alegações não são suficientes para superar as objeções
+referentes à falta de atividade inventiva da matéria reivindicada.
+
+
+          A reivindicação independente 1 não atende ao requisito de atividade inventiva, pois todas
+as características pleiteadas decorrem de modo óbvio e evidente para um técnico no assunto a
+partir dos ensinamentos presente no documento D2.
+O documento D2 antecipa as etapas: (a) Aplicação de uma camada de material fotorresiste de
+um polímero baseado em epóxi sobre uma lâmina de silício por meio de spin coating; (b)
+Transferência de um padrão desejado para o material fotorresiste por fotolitografia, onde é
+obtido um canal em alto relevo; (c) Formação de canais em baixo relevo, com a mesma
+geometria do padrão no molde de material fotorresiste, em um material de formação dos canais
+por litografia macia; (d) Fabricação de furos no material de formação dos canais e
+encapsulamento dos canais. Conforme pode ser observado na coluna 16 linhas 3-65 e nas
+figura.
+          Cabe ressaltar, que a simples substituição das imagens do estado da técnica por
+imagens de microcanais do solo, não caracterizam a atividade inventiva.
+
+
+          A reivindicação independente 5 não atende ao requisito de atividade inventiva, pois todas
+
+
+
+
+                                                                                            Página 3
+                                      BR102013029155-2
+
+
+as características pleiteadas decorrem de modo óbvio e evidente para um técnico no assunto a
+partir dos ensinamentos presente no documento D5.
+       O documento D5 antecipa a etapa de inserir um fluido de microcanal a ser analisado,
+assim como, verificar o comportamento do fluido por observações das imagens e vídeos
+obtidos durante a injeção do fluido no dispositivo, através de microscopia ótica, conforme
+pode ser observado na seção Results and discussion e na figura 1.
+
+
+       Com relação as reivindicações dependentes, as mesmas não apresentam características
+técnicas relevantes, mesmo quando combinadas com as características de qualquer
+reivindicação independente a que se referem, que sugiram a presença de atividade inventiva.
+
+
+       Portanto, a partir da análise dos documentos D2 e D5 prossigo com o entendimento que
+a matéria pleiteada na reivindicação não atende ao requisito atividade inventiva e não atende ao
+disposto no artigo 13 da Lei nº 9.279/96 (LPI) e não é patenteável por infringir o artigo 8º do
+mesmo dispositivo legal.
+       A requerente não apresenta consistência em suas argumentações, a matéria pleiteada
+não contempla efeitos técnicos que não tenham sido previstos pelo estado da técnica, e
+consequentemente descumprindo o disposto nos artigos 8º e 13 da LPI.
+
+Conclusão
+
+
+       Portanto, analisando a contestação da requerente e face ao exposto acima, conclui-se
+que a matéria reivindicada no presente pedido de invenção decorre de forma óbvia do estado da
+técnica a partir dos documentos D2 e D5.
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      - não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                              Rio de Janeiro, 03 de maio de 2021.
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+
+Reginaldo Rocha da Silva
+Pesquisador/ Mat. Nº 1690865
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº
+008/13
+
+
+
+
+                                                                                         Página 4
+

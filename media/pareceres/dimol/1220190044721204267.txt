@@ -1,0 +1,343 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR122019004472-4          N.° de Depósito PCT:
+ Data de Depósito:                     26/09/2007
+ Prioridade Unionista:                 -
+ Depositante:                          INFECTIOUS DISEASE RESEARCH INSTITUTE (US)
+ Inventor:                             Steven G. Reed, Darrick Carter
+ Título:                               COMPOSIÇÃO DE VACINA CONTENDO ADJUVANTE
+                                       SINTÉTICO, COMPOSIÇÃO     FARMACÊUTICA,                   USOS
+                                       TERAPÊUTICOS DOS MESMOS E KIT
+
+                                                              PARECER
+
+
+                       O pedido de patente de invenção BR122019004472-4 é oriundo da divisão do
+PI0716959-0 (aqui referenciado como pedido original). O pedido original obteve decisão pelo
+indeferimento (notificação de despacho de código 9.2 publicada na RPI nº 2605 de 08/12/2020),
+após a realização de um 2º exame da matéria. Em 04/12/2018 foi publicado na RPI nº 2500 o
+primeiro parecer técnico com notificação de despacho de código 7.1 para o referido pedido.
+                       A divisão do pedido original foi feita através da petição nº 870190021971 de
+07/03/2019, ou seja, entre o primeiro parecer técnico (notificação de despacho de código 7.1
+publicada na RPI nº 2500 de 004/12/2018) e a decisão pelo indeferimento da solicitação (RPI nº
+2605 de 08/12/2020). A notificação de publicação do pedido dividido (código de despacho 2.4) foi
+publicada na RPI nº 2519 de 16/04/2019.
+
+                       De acordo com o art. 28 da Instrução Normativa INPI nº 31/2013, que reproduziu a
+redação do item 6.6 do Ato Normativo 127/1997, o pedido dividido será considerado como
+estando na mesma fase processual em que se encontra o pedido original, cabendo ao INPI
+reduzir a termo a referência aos documentos e petições que se encontram no pedido original.
+Logo, quando o presente pedido teve a sua tramitação iniciada, ele se encontrava na mesma fase
+processual do pedido original, para o qual já havia sido emitido um parecer técnico.
+
+                       Assim, entende-se que todo o conteúdo que já havia sido discutido até a solicitação
+de divisão, isto é, no primeiro parecer técnico emitido para o exame do pedido original, era de
+pleno conhecimento da requerente.
+
+
+
+     Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                      Página 1
+                                                        BR122019004472-4
+
+
+Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                              Sim      Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                   X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    X
+
+O pedido refere-se a Sequências Biológicas                                                                      X
+
+Comentários/Justificativas
+
+ANVISA
+
+                  Por sua aplicação no setor farmacêutico, o pedido foi encaminhado à ANVISA
+para o provimento das condições estabelecidas no Art. 229-C da Lei Nº 10.196/01 que alterou a
+Lei Nº 9.279/96 (LPI) (cf. despacho 7.4 publicado na RPI nº 2336 de 13/10/2015). Por meio do
+Ofício nº. 310/17/COOPI/GGMED/ANVISA, de 15/12/2017, a referida Agência concedeu a prévia
+anuência através do parecer técnico de anuência (758/17/COOPI/GGMED/ANVISA). Tendo em
+vista que o pedido foi anuído pela agência, publicou-se na RPI nº 2463 a notificação 7.5 em
+20/03/2018.
+
+
+
+Acesso ao patrimônio genético nacional
+
+                  O INPI emitiu a exigência de código 6.6.1 na RPI 2468 de 24/04/2018, para fins
+de manifestação do depositante quanto à ocorrência de acesso ao Patrimônio Genético nacional
+e/ou Conhecimento Tradicional Associado para obtenção do objeto do presente pedido. Não
+tendo havido manifestação do depositante no prazo de 60 (sessenta) dias contados a partir da
+publicação na RPI, o INPI deu prosseguimento ao exame técnico com o entendimento de que
+não houve acesso ao patrimônio genético nacional e/ou conhecimento tradicional associado,
+conforme consta no texto do despacho de código 6.6.1 publicado na RPI, de acordo com
+entendimento firmado pela Procuradoria Federal Especializada junto ao INPI (PFE-INPI) no
+Parecer nº 00001/2018/PROCGAB/PFE-INPI/PGF/AGU (Processo INPI nº 52400.002142/2018-
+30), publicado na RPI 2465 de 03/04/2018.
+
+
+
+                                    Quadro 1  Páginas do pedido examinadas
+            Elemento                                   Páginas         n.o da Petição                 Data
+Relatório Descritivo                                   1  110         870190021971              07/03/2019
+Listagem de sequências em
+                                                             -                -                         -
+formato impresso
+Listagem de sequências*                       Código de Controle              -                         -
+Quadro Reivindicatório                                   19           870190021971              07/03/2019
+Desenhos                                                 18           870190021971              07/03/2019
+Resumo                                                      1          870190021971              07/03/2019
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                         Página 2
+                                                          BR122019004472-4
+
+                    O Quadro Reivindicatório para o qual foi requerido o presente exame técnico
+possui um Quadro Reivindicatório exatamente igual ao Quadro Reivindicatório analisado em
+ocasião do primeiro exame técnico do pedido original, que resultou na emissão do parecer
+técnico cuja notificação de despacho (código 7.1) foi publicada na RPI nº 2500 de 004/12/2018.
+                    O presente             quadro reivindicatório       apresentado   para exame possui   25
+reivindicações e no primeiro parecer técnico emitido no exame do pedido original, foram
+levantadas diversas objeções às matérias pleiteadas, com infrações nos Arts. 25, 8º, 11 e 13 da
+LPI. Em resposta ao primeiro parecer técnico do pedido original (petição nº 870190021971 de
+07/03/2019), a requerente apresentou sua manifestação ao referido parecer com um novo
+Quadro Reivindicatório para o segundo exame técnico no intuito de superar as respectivas
+irregularidades apontadas. No entanto, as objeções apontadas não foram sanadas e o pedido
+original obteve decisão pelo indeferimento (notificação de despacho de código 9.2 publicada na
+(RPI nº 2605 de 08/12/2020).
+
+
+    Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                     maio de 1996  LPI
+Artigos da LPI                                                                         Sim          Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                  X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                          X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                  X
+O pedido está de acordo com disposto no art. 32 da LPI                                   X
+Comentários/Justificativas
+
+-
+
+
+
+                   Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                         Sim          Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                     X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                               X
+Comentários/Justificativas
+Art. 25
+                    As reivindicações 1  25 não atendem ao disposto no Art. 25 da LPI e na Instrução
+Normativa nº 30/2013  Art. 4º (IV), pois a matéria pleiteada não está fundamentada no relatório
+descritivo do pedido pelas seguintes razões: as reivindicações referem-se à atividade adjuvante
+de um composto designado adjuvante de lipídeo glicopiranosil (GLA) que, segundo o relatório
+descritivo, abrange uma família de compostos onde R1, R3, R5 e R6 são alquil-C11,-C20; e R2 e
+R4 são alquil-C12-C20. Entretanto, o referido relatório descritivo proporciona apenas exemplos de
+formulação e uso no qual o GLA utilizado é obtido da Avanti Polar Lipids, Inc, Alabastro, a
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                Página 3
+                                                        BR122019004472-4
+
+Alabama;     produto         número          699800.          Segundo   consta   no   site   da   referida   empresa
+(https://avantilipids.com/product/699800), este lipídeo é um Hexacetil Dissacarídeo Fosforilado
+(PHAD®), um monofosforil lipídeo A totalmente sintético, onde todas as ramificações alquil são
+C14.
+                  As reivindicações independentes 1, 10, 19 e 25 contrariam o disposto no Art. 25 LPI
+e na Instrução Normativa nº 30/2013  Art. 4º (III) e Art. 5º (I), pois omite a definição do adjuvante
+de lipídio glicopiranosil (GLA), descrita nas reivindicações 7, 16 e 23), essencial e específica do
+objeto descrito, já que a nomenclatura lipídio glicopiranosil (GLA) não é clara para um técnico no
+assunto. Entretanto, como mencionado no parágrafo anterior, as reivindicações 7, 16 e 23
+apresentam um composto de fórmula geral que engloba diversos análogos que não estão
+fundamentados no relatório descritivo.
+                  As reivindicações 4 e 13 não atendem ao disposto no Art. 25 da LPI e na Instrução
+Normativa nº 30/2013  Art. 4º (III), pois a matéria pleiteada não está definida de maneira clara,
+precisa e positiva, já que caracterizam as mesmas com a expressão negativa não é 3'-deO-
+acilado.
+                  As reivindicações 8 e 17 não atendem ao disposto no Art. 25 da LPI e na Instrução
+Normativa nº 30/2013  Art. 4º (IV), pois a matéria pleiteada não está fundamentada no relatório
+descritivo do pedido. Não é apresentada a sequência de ácidos nucleicos e do polipeptídeo
+necessárias para a expressão do antígeno. Além disso, as referidas reivindicações estão em
+desacordo com a Resolução nº 144/2015 (Diretrizes de Exame de Pedidos de Patente na Área de
+Biotecnologia), onde, em seu item 6.1, se lê: um DNA deve ser definido por sua sequência de
+nucleotídeos, enquanto uma proteína, por sua sequência de aminoácidos, de forma a definir com
+clareza a matéria objeto de proteção.
+                  As reivindicações 9, 10 e 18 não atendem ao disposto no Art. 25 da LPI e na
+Instrução Normativa nº 30/2013  Art. 4º (III), pois a matéria pleiteada não está definida de
+maneira clara, precisa e positiva, pois a frase agente patogênico infectocontagioso que esteja
+associado com uma doença infecto-contagiosa não define essa associação.
+                  As reivindicações 10  18 e 24 não estão claras e precisas, em desacordo com o
+Art. 25 da LPI. Segundo item 9.1.4 da Resolução/INPI/PR Nº 208, DE 27/12/2017 que institui as
+Diretrizes de Exame de Pedidos de Patente da Área de Química, as mesmas não definem uma
+doença de forma clara e precisa.
+                  Segundo artigo 5º, inciso II, da Instrução Normativa nº 30/2013 e item 3.24 da
+Resolução nº 124/2013, reivindicações independentes da mesma categoria com o mesmo
+conjunto de características não são permitidas. As reivindicações 1 e 19 são ambas reivindicações
+independentes de produto (composição de vacina ou composição farmacêutica) e as
+reivindicações 10 e 24 são reivindicações independentes de uso de uma composição.
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                           Página 4
+                                                         BR122019004472-4
+
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                                 Data de publicação
+    D1        J. Terry Ulrich e Kent R. Myers. Monophosphoryl Lipid A as an                                1995
+              Adjuvant. Past Experiences and New Directions. Pharn
+              Biotechnol. 1995;6:495-524.
+    D2        Kanegasaki S, Kojima Y, Matsuura M, Homma JY, Yamamoto A,                                    1984
+              Kumazawa Y, Tanamoto K, Yasuda T, Tsumita T, Imoto M, et al.
+              Biological activities of analogues of lipid A based chemically on
+              the revised structural model. Comparison of mediator-inducing,
+              immunomodulating and endotoxic activities. Eur J Biochem.
+              1984 Sep 3;143(2):237-42.
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                     Cumprimento           Reivindicações
+                                                                           Sim                    1  25
+             Aplicação Industrial
+                                                                          Não                        -
+                                                                           Sim        5, 6, 7, 14, 15, 16, 22, 23 e 25
+                     Novidade
+                                                                          Não        1  4, 8  13, 17  21 e 24
+
+                                                                           Sim                       -
+             Atividade Inventiva
+                                                                          Não                     1  25
+Comentários/Justificativas
+                   Para o presente exame foram considerados os conteúdos do Relatório Descritivo,
+Resumo desenhos e Quadro Reivindicatório contendo 25 reivindicações, apresentados na
+petição em que foi solicitada a divisão do pedido original (petição nº 870190021971 de
+07/03/2019).
+                   Da mesma forma que o pedido original, o pedido de patente de invenção
+BR122019004472-4 refere-se a composições farmacêuticas e de vacinas, bem como seu uso, em
+que as composições compreendem um adjuvante de glicopiranosil lipídio sintético (GLA).
+                   Como informado nos comentários do quadro 3 deste parecer, as buscas por
+anterioridades foram feitas com monofosforil lipídeo A como sendo o adjuvante.
+                   O documento D1 é um artigo de revisão publicado em 1995 intitulado
+monofosforil lipídeo A (MPL) como um adjuvante e informa que o referido composto obtido
+de lipopolissacarídeos (LPS) surgiu como um adjuvante promissor para vacinas humanas em
+1956, potencializando a resposta imune (página 495, item 1.1., linhas 1  5). O referido lipídeo
+induz a produção de citocinas que promovem a geração de uma resposta imune específica
+(página 502, item 3., linhas 4 e 5). O documento revela ainda que soluções aquosas de MPL em
+solução salina (veículo) podem proporcionar um forte efeito adjuvante quando combinadas
+com antígenos proteicos solúveis, sendo isso uma vantagem dessas preparações de vacina
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                          Página 5
+                                                        BR122019004472-4
+
+simples, compreendendo apenas MPL e o antígeno em solução aquosa, já que tendem a ser
+bem toleradas e induzem pouca ou nenhuma reação tecidual local no local da injeção (página
+503, item 3.1., 2º parágrafo). É descrito também que a formulação pode ser feita em forma de
+emulsão, onde o óleo é o veículo para o antígeno ou ainda o MPL é emulsificado junto ao óleo
+com Tween 80 (Polissorbato 80) como surfactante (página 504, item 3.2.1.). O documento
+ainda afirma que as vacinas contendo MPL em combinação com alúmen podem ser mais fáceis
+de desenvolver e introduzir no mercado do que outras formulações de vacina contendo MPL
+(página 504, item 3.2.2., 1º parágrafo). Os autores sugerem ainda que os resultados implicam
+que as formulações de vacinas são aceitáveis para uso humano (página 510, linhas 3 e 4).
+Exemplos de agentes patogênicos candidatos a antígenos já utilizados associados ao MPL é a
+glicoproteína de superfície do vírus da hepatite B, o parasito da Malária Plasmodium
+falciparum, herpesvirus tipo 2 e influenza A (item 4.1.3.).
+                  Pelo exposto em D1, as reivindicações 1  4, 8  13, 17  21 e 24 não são novas,
+em desacordo com os Arts. 8º e 11 da LPI.
+                  O documento D2 descreve um lipídeo A sintético com ramificações de ácido 3-
+hydroxitetradecanóico cujo análogos são mais eficientes que os análogos já revelados em
+relação a muitas atividades biológicas (último parágrafo da introdução). Os referidos análogos
+tiveram sua atividade imune mensurada por diversos ensaios e atividade adjuvante (Materials
+and methods e 2º parágrafo introdução).
+                  Tendo em vista o exposto em D1 e D2, a atividade adjuvante do Monofosforil
+lipídeo A naturalmente obtido já foi amplamente descrita no estado da técnica, sendo inclusive
+assunto de uma ampla revisão bibliográfica (D1). Análogos sintéticos do monofosforil lipídeo A
+com atividade adjuvante também já foram descritos (D2). O objetivo do presente pedido de
+patente é proporcionar novos antígenos de MLA com atividade adjuvante. Contudo, a descrição
+exemplifica apenas um composto tendo as propriedades adjuvantes desejadas, representada
+pelo produto 699800 fabricado por Avanti Polar Lipids, Inc. Este produto é um Hexacetil
+Dissacarídeo Fosforilado (PHAD®), um monofosforil lipídeo A totalmente sintético. Não se pode
+presumir que qualquer um dos compostos reivindicados teria as propriedades adjuvantes do
+PHAD apresentadas nos exemplos. Assim, o objeto das reivindicações 1  25 não envolve uma
+atividade inventiva, em desacordo com Arts. 8º e 13 da LPI.
+
+
+
+Conclusão
+                  Constatou-se que o Quadro Reivindicatório para as quais foi requerido o presente
+exame técnico consiste exatamente da mesma matéria pleiteada no Quadro Reivindicatório
+analisado em ocasião do primeiro exame técnico do pedido original, que resultou na emissão do
+parecer técnico cuja notificação de despacho (código 7.1) foi publicada na RPI nº 2500 de
+04/12/2018.
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                        Página 6
+                                                          BR122019004472-4
+
+                    No referido primeiro parecer técnico emitido no exame do pedido original, foram
+levantadas diversas objeções às matérias pleiteadas, com infrações nos Arts. 25, 8º, 11 e 13 da
+LPI. As mesmas objeções são repetidas neste parecer.
+                    Em decorrência das objeções acima mencionadas, a requerente, em sua resposta
+ao primeiro parecer técnico do pedido original (petição nº 870190021971 de 07/03/2019),
+reformulou o Quadro Reivindicatório submetido para o segundo exame técnico no intuito de
+superar as respectivas infrações apontadas. No entanto, as objeções não foram sanadas e o
+pedido original obteve decisão pelo indeferimento (notificação de despacho de código 9.2
+publicada na RPI nº 2605 de 08/12/2020).
+                    Assim sendo, de acordo com o Art. 37, opino pelo indeferimento do presente
+pedido, uma vez que:
+
+      -      não atende ao requisito de novidade (Art. 8º combinado com Art. 11 da LPI)
+
+      -      não atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI)
+
+      -      as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+             descritivo (Art. 25 da LPI)
+
+                    De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a
+partir da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                             Rio de Janeiro, 04 de Maio de 2020.
+
+
+
+
+Renata Stiebler
+Pesquisador/ Mat. Nº 2390357
+DIRPA / CGPAT II/DIMOL
+
+
+
+      De acordo com o parecer acima, indefiro o presente pedido.
+
+                                                                               Publique-se o indeferimento (9.2).
+
+
+
+
+Daniel Marques Golodne
+Chefe de Divisão/ Mat. Nº 1358388
+DIRPA / CGPAT II/DIMOL
+Portaria INPI/PR Nº672/17
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                   Página 7
+

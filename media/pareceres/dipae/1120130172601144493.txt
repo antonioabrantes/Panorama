@@ -1,0 +1,293 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                              RELATÓRIO DE EXAME TÉCNICO
+
+N.° do Pedido:                      BR112013017260-6         N.° de Depósito PCT: US2012/020202
+Data de Depósito:                   04/01/2012
+Prioridade Unionista:               US 12/984,263 (04/01/2011)
+Depositante:                        PRECISION PLANTING LLC (US)
+Inventor:                           GREEG A. SAUDER, LOUIS G. PLANTAMURA
+Título:                             Sensor de sementes montado na saída do tubo de sementes
+
+                                                                PARECER
+       O referido pedido, depositado na natureza de Invenção, tratando-se de um sensor de
+sementes montado na saída do tubo de sementes de uma semeadora/plantadora agrícola foi
+submetido a Exame Técnico, que resultou em parecer de Ciência (7.1), notificado por meio de
+publicação na RPI 2518 de 09/04/2019.
+      A depositante manifestou-se tempestivamente por meio de petição eletrônica 870190063112
+em 05/07/2019.
+       Por meio de petição eletrônica foi apresentado quarto Subsídio ao Exame Técnico, pelo
+interessado Dilermar Ribeiro Schaewer, por meio de petição eletrônica 870190067998 no dia
+18/07/2019.
+       Conforme já abordado, a matéria trata de um sensor de sementes para uma plantadeira
+agrícola adaptado para ser disposto próximo a uma extremidade de saída de um tubo de sementes
+através do qual as sementes passam durante as operações de plantio. O sensor de sementes é
+capaz de gerar um sinal de saída que corresponde à passagem da semente através deste.
+
+    Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+  Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                              Sim    Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                           X
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)            X
+O pedido refere-se a Sequências Biológicas                                                                     X
+Comentários/Justificativas: - - - - -
+                                       Quadro 1  Páginas do pedido examinadas
+           Elemento                       Páginas                             n.o da Petição            Data
+Relatório Descritivo                       1 a 13                     870180058910 (eletrônica)       06/07/2018
+Listagem de sequências                     -----                                 -----                 -----
+Quadro Reivindicatório                      1a3                       870190063112 (eletrônica)       05/07/2019
+Desenhos                                    1a9             NPRJ 020130059390 (depósito original)     04/07/2013
+Resumo                                         1                      870180058910 (eletrônica)       06/07/2018
+
+
+
+
+ Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                            Página 1/7
+                                            BR112013017260-6
+
+   Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                    maio de 1996  LPI
+Artigos da LPI                                                            Sim             Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                         X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                 X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                    X
+O pedido está de acordo com disposto no art. 32 da LPI                     X
+Comentários/Justificativas: - - - -
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                            Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI       X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI     X
+Comentários/Justificativas: - - - - - -
+                            Quadro 4  Documentos citados no parecer
+
+  Código                                  Documento                             Data de publicação
+    D1                                    US6208255B1                               27/03/2001
+    D2                                    US6346888B1                               12/02/2002
+
+
+      Quadro 5 - Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+      Requisito de Patenteabilidade                 Cumprimento            Reivindicações
+                                                          Sim                    1-9
+             Aplicação Industrial
+                                                          Não                    ---
+                                                          Sim                    1-9
+                  Novidade
+                                                          Não                    ---
+                                                          Sim                   ----
+             Atividade Inventiva
+                                                          Não                    1-9
+Comentários/Justificativas:
+         Em face das objeções anteriormente exaradas em relação à falta de atendimento ao requisito
+essencial de atividade inventiva, exaradas em Parecer anterior, a depositante apresentou
+Manifestação por meio de sua petição eletrônica 870190063112.
+         É dito, na Manifestação da depositante, que, após tomar conhecimento do parecer técnico
+que fundamentou o despacho de Ciência anterior, apresentou: novo quadro reivindicatório (total de 9
+reivindicações), em que as reivindicações independentes 1, 4 e 8 foram reformuladas, sendo
+restringidas de modo a melhor definir o escopo de proteção da invenção.
+         A requerente esclarece que a a reivindicação independente 1 foi modificada para recitar, em
+uma parte relevantes: ...um sensor eletromagnético (100) é disposto para gerar o dito campo
+eletromagnético na ou abaixo a dita extremidade de sápida (43) do dito tubo de sementes (46) de
+modo que as sementes passem através do dito campo eletromagnético gerado....
+
+
+
+
+                                                                                         Página 2/6
+                                          BR112013017260-6
+
+
+         Diz ainda que as reivindicações independentes 4 e 8 foram modificadas para recitar: ...o dito
+campo eletromagnético é gerado na ou abaixo da extremidade de saída (43) do tubo de sementes
+46...
+         Alega que suporte para essas modificações pode ser encontrado nas reivindicações originais
+8 e 16 do pedido PCT, na página 6, linhas 21 a 29 e na página 7, linhas 13 a 26 do relatório
+descritivo tal como depositado e nas Figuras 3 e 6.
+         A depositante diz também que a limitação relacionada a extremidade de saída (43) do dito
+tubo de sementes (46) sendo disposto entre discos de abertura de sulco (22, 24) dispostos para
+divergir para fora e para cima longe de uma superfície de solo e em uma direção de deslocamento da
+plantadeira, foi movida da porção caracterizante, de modo que agora está no preâmbulo da
+reivindicação.
+         Afirma a depositante que as limitações anteriores foram adicionadas às reivindicações
+independentes 1, 4 e 8 em resposta ao parecer de ciência anterior, depois que o examinador notou
+que as reivindicações dependentes originais (3-5, 9-12 e 16-17) continham aquelas limitações que
+eram consideradas novas e inventivas. Essas reivindicações originais dependentes (3-5, 9-12 e 16-
+17) foram canceladas após serem, respectivamente, incorporadas nas reivindicações independentes
+1, 4 e 8.
+         Segundo a ótica da depositante, ao modificar as reivindicações para recitar que o campo
+magnético é gerado na ou abaixo da extremidade de saída do tubo de sementes, as reivindicações
+correspondem às reivindicações concedidas nas patentes relacionadas nos Estados Unidos, Europa,
+Canadá, Austrália, Ucrânia, e África do Sul.
+         Sobre o aspecto de atividade inventiva, a depositante alega em sua Manifestação que a
+Figura 3 marcada de D1 (US6208255) e D2 (US6346888) mostrando o sensor (10) disposto no meio
+do tubo de sementes (19). Enquanto o sensor (10) em D1 e D2 pode ser um sensor de energia
+eletromagnética, mantém-se o fato de que D1 e D2 mostram o sensor de energia eletromagnética
+(10) disposto no meio do tubo de sementes (19).
+         Em seu arrazoado, a depositante afirma que nem o subsídio apresentado (por Dilermar
+Ribeiro Schaewer) ou o Exame Técnico identificaram qualquer documento do estado da técnica que
+mostram qualquer tipo de sensor de semente que em qualquer momento foi colocado na ou abaixo
+da extremidade de saída do tubo de semente.
+         Segundo perspectiva da depositante, a razão para isso é simples - porque colocar um sensor
+de semente na ou abaixo da extremidade de saída nunca foi feito antes da presente invenção 
+conforme reconhecido pelo USPTO, EPO, Escritório de Patente do Canadá, Escritório de Patentes
+da Austrália, Escritório de Patentes da Ucrânia e Escritório de Patentes da África do Sul  cada um
+dos quais considerou D1 e D2 como estado da técnica para conceder as respectivas patentes
+nesses países/regiões. Sensores de sementes usados para detectar sementes que passam através
+dos tubos de sementes de plantadoras estão em uso desde a década de 70, mas pelas razões
+explicadas na seção de Antecedentes do presente pedido, todos os sensores de sementes dos
+documentos do estado da técnica eram montados próximos ao ponto central do tubo de sementes
+para proteger o sensor de danos durante as operações de plantação, assim como para minimizar a
+
+
+
+
+                                                                                            Página 3/6
+                                         BR112013017260-6
+
+
+luz ambiente, poeira e matéria particulada de interferirem com o feixe de luz (ver página 1, linhas 4 a
+27).
+       Diz a depositante que foi a primeira a reconhecer que a colocação do sensor de semente na
+ou abaixo da extremidade de saída do tubo de sementes iria fornecer vantagens para detecção da
+semente conforme essa sai do tubo de semente, de modo a detectar de forma mais precisa o
+espaçamento de sementes individuais.
+       Segundo explicação, as sementes muitas vezes ricocheteiam ou batem nas paredes laterais
+conforme se deslocam através do tubo de sementes fazendo com que diferentes sementes tenham
+velocidades diferentes à medida que passam pelo tubo de sementes, o que, significativamente, afeta
+o espaçamento dessas sementes que saem do tubo de sementes (ver página 1, linhas 28 a 32 a
+página 2, linhas 1 a 9).
+       De acordo com o entendimento da depositante, uma vez conhecidas as vantagens da
+colocação do sensor de sementes na ou abaixo da extremidade de saída do tubo de sementes, a
+requerente teve que identificar que um sensor de sementes que iria funcionar nessa localização.
+Conforme explicado acima, sensores de sementes ópticos convencionais não iriam funcionar em
+referida localização por causa da poeira e a luz ambiente iria impedir os sensores ópticos de
+detectarem as sementes (motivo pelo qual os sensores ópticos devem ser montados no centro do
+tubo de sementes).
+       Após a depositante identificar que um sensor de energia eletromagnética iria funcionar nesse
+ambiente, a requerente teve que superar os problemas associados com o posicionamento de
+sensores de energia eletromagnética entre dois discos de abertura de metal posicionados muito
+próximos incluindo o espaço limitado entre os discos nessa localização e superar o problema com
+correntes de Foucault criadas pela energia eletromagnética na localização de confinamento entre os
+dois discos de abertura.
+       A depositante alega que mesmo que D1 e D2 descrevessem um sensor óptico
+eletromagnético, ambos mostram o sensor óptico 10 disposto no centro do tubo de sementes 19.
+Não há ensinamentos ou sugestão em D1 e D2 que sugerem o posicionamento do sensor na ou
+abaixo da extremidade de saída do tubo de sementes.
+       Alega que isto não existia o desenvolvimento apresentado pela depositante, ou seja: alguém
+posicionou um sensor de sementes na ou abaixo da extremidade de saída de um tubo de sementes,
+provavelmente devido a problemas e dificuldade de colocar um sensor de sementes em tal
+localização que a requerente teve que identificar e superar  porque nunca havia sido feito
+anteriormente. Fica fácil para o solicitante do subsídio sugerir que a invenção da requerente não é
+nova ou inventiva baseado em uma retrospectiva (hindsight) depois de ter a invenção exposta diante
+dele pelo requerente, mas se o solicitante pretende ser um especialista no campo agrícola, e o fato
+de que sensores de sementes têm sido usados há mais de 50 anos em plantadores, se a invenção
+da requerente fosse tão óbvia, a solicitante teria apresentado um pedido de patente ou outro
+documento do estado da técnica sobre a invenção muito anteriormente.
+       Diz ainda que esta razão seria evidente  é porque o solicitante nunca pensou na ideia, ou
+qualquer outra pessoa antes da requerente.
+
+
+
+
+                                                                                             Página 4/6
+                                        BR112013017260-6
+
+
+       A depositante conclui que os fatos apresentados, portanto, demonstram novidade e
+inventividade da invenção da requerente, alegando que o Exame Técnico não deve ser persuadido
+pelas declarações de interesse próprio do solicitante baseados em retrospectivas a menos e até que
+o solicitante possa identificar um sensor de sementes montado na ou abaixo da extremidade de
+saída de um tubo de sementes  especialmente quando a novidade e a atividade inventiva da
+invenção da requerente foram reconhecidas por todos os outros escritórios de patentes em todo o
+mundo em que a requerente depositou um pedido de patente, incluindo os demais Escritórios de
+Patente onde os pedidos correspondentes foram depositados.
+       A depositante conclui seu arrazoado técnico dizendo que entende que as reivindicações
+independentes 1, 4 e 8 (e as reivindicações delas dependentes) são novas e inventivas frente D1 e
+D2 e, por conseguinte, preenchem as condições de patenteabilidade dispostas nos artigos 8, 10 e 13
+da LPI, e as provisões da IN 30/2013.
+        Em relação aos Subsídios Técnicos apresentados na petição 870190067998, temos a
+informar que o Subsidiante alegou que sob sua perspectiva, o pedido em tela seguiria desprovido de
+novidade e de atividade inventiva frente aos documentos já analisados.
+       No ponto 9 dos novos Subsídios, as razões do impetrante dos Subsídios são no sentido de
+que as patentes americanas US 6.208.255 e US 6.346.888, antecipam as características
+reivindicadas no pedido original, conforme tabela da página 29 da referida medida administrativa
+realizada.
+       Segundo o Subsidiante, pela comparação          entre   a   penúltima e a última alteração
+apresentada no pedido, em lide, carece razão ao depositante, ao fundamentar suas modificações
+na frase na ou abaixo da dita extremidade de saída (43) do dito tubo de sementes (46),
+haja vista que esta frase já constava da parte preambular das reivindicações objeto da
+penúltima alteração apresentada (em ou adjacente a uma extremidade de saída (43) de um tubo
+de sementes (46)), bastando ler e fazer uma comparação visual entre esta e a última alteração
+apresentada.
+       O subsidiante apresentou um quadro comparativo entre os quadros reivindicatórios do
+pedido, em lide  o penúltimo objeto da alteração de 01/02/2019 e o último objeto da
+alteração de 05/07/2019  no intento de comprovar o afirmado no parágrafo anterior, de que o
+depositante não tem razão em fundamentar suas modificações naquela frase grifada acima, e a
+partir dela entender que o objeto do pedido de patente, em lide, apresenta atividade inventiva, por
+causa da mesma.
+       Alega o Subsidiante, que cairia por terra toda a argumentação da depositante proferida ao
+longo de sua manifestação, haja vista que a última alteração do quadro reivindicatório do pedido,
+em lide, não traz em seu bojo qualquer fato que possa ter o condão de alterar o parecer técnico
+exarado pelo INPI, e diz que pedido não apresenta atividade inventiva frente as anterioridades D1 e
+D2.
+       Da mesma forma, o fato de que um sensor de sementes montado na ou                abaixo   da
+extremidade de saída de um tubo de sementes  especialmente quando a novidade e a
+atividade inventiva da invenção da requerente foram reconhecidas por todos os outros
+escritórios de patentes em todo o mundo em que a requerente depositou um pedido de
+
+
+
+                                                                                          Página 5/6
+                                           BR112013017260-6
+
+
+patente, incluindo USPTO, EPO, Escritório de Patente do Canadá, Escritório de Patentes da
+Austrália, Escritório de Patentes da Ucrânia e Escritório de Patentes da África do Sul,...., não
+invalida o teor do parecer técnico anteriormente exarado, frente à D1 e D2.
+       Pela perspectiva do Subsidiante, a matéria objeto do pedido em lide não está revestido da
+característica essencial de atividade inventiva.
+       O Subsidiante conclui seu arrazoado alegando que matéria objeto do pedido brasileiro
+BR112013017260-6 teria falta de atividade inventiva, haja vista que suas características são
+antecipadas pelo estado da técnica (D1 e D2) e são óbvias e evidentes para um técnico ou expert
+no assunto.
+       Diz ainda que não haveria como se considerar que a matéria objeto do processo
+brasileiro BR112013017260-6 apresente ato inventivo e melhoria funcional em relação ao
+estado da técnica conhecido, D1 e D2, inviabilizando seu enquadramento na natureza de
+Modelo de Utilidade.
+       Em face das modificações de escopo introduzidas pela depositante do pedido em tela, e de
+suas Razões, verificou-se que não foram suficientes para prover a matéria pleiteada na nova redação
+das reivindicações 1 a 9 de atividade inventiva frente aos documentos D1 e D2 já elencados.
+       As novas reivindicações 1 a 9 propostas no quadro alternativo, por meio da petição eletrônica
+870190063112, apesar de reformuladas em sua redação, seguem afetadas pelos ensinamentos de
+D1 e D2 e portanto são consideradas óbvias para um técnico no assunto.
+       A aplicação industrial da matéria contida nas novas revindicações 1 a 9 é aparente segundo o
+Artigo 15 da LPI.
+                                              Conclusão:
+       Pelo exposto, e conforme o Artigo 37 da LPI, indefiro o presente pedido, uma vez que:
+      -   a argumentação dada pelo depositante por meio da petição eletrônica 870190052714, não
+          alterou as condições do pedido quanto aos critérios de patenteabilidade e as razões
+          apresentadas não superaram as objeções apresentadas em ocasião anterior;
+
+      -   a reformulação das reivindicações 1 a 9 do pedido em tela não superaram as objeções
+          levantadas em parecer anterior, e portanto seguem não atendendo ao requisito essencial
+          de atividade inventiva em relação aos documentos D1 e D2, frente aos Artigos 8° e 13 da
+          LPI.
+      De acordo com o Artigo 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                               Rio de Janeiro, 27 de janeiro de 2020.
+
+      Publique-se o indeferimento (9.2).
+
+
+            Átila Bento Beleti Cardinal
+          Pesquisador/ Mat. Nº 1546899
+           DIRPA / CGPAT II / DIPAT VI
+    Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                          Página 6/6
+

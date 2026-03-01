@@ -1,0 +1,254 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112012000598-7           N.° de Depósito PCT:US10/041452
+ Data de Depósito:                   09/07/2010
+ Prioridade Unionista:               US 12/500,644 (10/07/2009)
+ Depositante:                        Nalco Company (US)
+ Inventor:                           Marcus D. Faust Jr., Austen K. Flatt, Thomas M. Weathers Jr., Duy T.
+                                     Nguyen
+ Título:                             Método para reduzir a viscosidade de fluidos de hidrocarboneto 
+
+                                                                PARECER
+            Em resposta ao parecer técnico de exigência notificado em 20/10/2020, mais
+especificamente na Revista da Propriedade Industrial (RPI) número 2598, a requerente
+apresentou através da petição número 870210005395 de 15/01/2021, entre outros, os seguintes
+documentos:
+
+         nova cópia do quadro reivindicatório contendo 3 (três) páginas e 7 (sete) reivindicações;
+
+         esclarecimentos.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                      1-24               020120030828           10/04/2012
+Quadro Reivindicatório                                     1-3               870210005395           15/01/2021
+Desenhos                                                   1-4               020120030828           10/04/2012
+Resumo                                                      1                020120030828           10/04/2012
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+Comentários/Justificativas
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR112012000598-7
+
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                WO2005/100517                                 27/10/2005
+
+    D2                                   GB2091320                                  28/07/1982
+
+    D3                                   US5362827                                  08/11/1994
+
+    D4                                US2005/0049327                                03/03/2005
+
+    D5                                   CA2698785                                  09/04/2009
+
+    D6                                US2009/0170730                                02/07/2009
+
+    D7                                 JP2005133075                                 26/05/2006
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                     1-7
+           Aplicação Industrial
+                                                        Não                       ---
+                                                         Sim                     1-7
+                 Novidade
+                                                        Não                       ---
+                                                         Sim                     4,5
+           Atividade Inventiva
+                                                        Não                    1,2,3,6,7
+
+
+
+Comentários/Justificativas
+
+         Considerando o conteúdo técnico, argumentos e os esclarecimentos submetidos pela
+requerente, tanto o presente pedido de patente quanto os documentos do estado da técnica
+foram revisados.
+
+         O documento D3 apresenta um processo para preparo de polímeros hidrofóbicos para
+tratamento de poços de petróleo em que os monômeros são catiônicos e não-iônicos, podendo
+formar um terpolímero, conforme resumo, assim como o presente pedido de patente. A coluna 2
+
+
+
+                                                                                           Página 2
+                                        BR112012000598-7
+
+
+(dois), linhas 50 (cinquenta) a 52 (cinquenta e dois), revela que tais polímeros podem ser
+utilizados para aprimorar as propriedades reológicas em fluidos de base aquosa, como indica o
+presente pedido de patente. A mesma coluna 2 (dois), linhas 33 (trinta e três) a 49 (quarenta e
+nove), revela o uso de sais de dimetilaminoetilacrilato como monômero catiônico assim como o
+emprego de sais de amônia quaternária, conforme também presente pedido de patente, e que
+tais polímeros podem ser encontrados em emulsões, contrariando o que afirma a requerente. A
+coluna 8 (oito), linhas 28 (vinte e oito) a 55 (cinquenta e cinco), revela que o monômero catiônico
+está em uma percentagem de 5% a 99,9%, mais precisamente de 5% a 70%, o que sobrepõe a
+faixa do presente pedido de patente de mais de 25%.
+
+        Assim, depreende-se do documento D3 um método de preparo de polímeros
+hidrofóbicos para tratamento de poços de petróleo, em que os polímeros possuem monômeros
+não-iônicos e catiônicos, podendo formar um terpolímero, tal como o presente pedido de
+patente, em que o polímero pode fazer parte de uma emulsão.              Também se entende do
+documento D3 assim como o presente pedido de patente o uso de um monômero catiônico
+incluindo um composto amônio quaternário. Tanto o documento D3 quanto o presente pedido de
+patente revelam o uso de sais de dimetilaminoetilacrilato de alquila e um percentual similar do
+monômero catiônico no polímero.
+
+        O documento D4 apresenta um processo que utiliza polímeros hidrofílicos de alto peso
+molecular para facilitar o fluxo em tubulações com escoamento multifásico, em que o peso
+molecular do polímero é maior que 1.000.000 Da, assim como o presente pedido de patente. O
+parágrafo [0021] revela o uso de monômeros catiônicos, conforme também revela o presente
+pedido de patente. O parágrafo [0023] indica o uso de monômeros não-iônicos, assim como o
+presente pedido de patente. O parágrafo [0027] descreve o uso de monômeros não-iônicos e
+catiônicos, assim como o presente pedido de patente.         O parágrafo [0030] determina mais
+precisamente a faixa de peso molecular, de 1.000.000 Da a 30.000.000 Da, faixa que se
+sobrepõe parcialmente à faixa do presente pedido de patente. O parágrafo [0033] revela que
+polímero está em uma quantidade de 1 a 2000 ppm, assim como no presente pedido de patente,
+que revela uma quantidade de polímero de 1 a 5000 ppm. O parágrafo [0038] indica o uso de
+mais de 25% de um monômero catiônico no polímero, conforme presente pedido de patente. O
+parágrafo [0007] apresenta o uso de uma amônia quaternária, assim como o presente pedido de
+patente. O parágrafo [0016] descreve que o hidrocarboneto fluido utilizado no método pode ser
+óleo ou gás, tal como o presente pedido de patente. O parágrafo [0029] indica que o polímero
+pode ser resultado de uma reticulação, tal como o presente pedido de patente.
+
+        Do documento D4, depreende-se que o mesmo apresenta polímeros hidrofílicos de alto
+peso molecular para facilitar o fluxo em tubulações com escoamento multifásico, em que o peso
+molecular do polímero é maior que 1.000.000 Da, e que tais polímeros podem conter
+monômeros não-iônicos e catiônicos. Mais especificamente e tal como o presente pedido de
+patente, o documento D4 revela uma faixa de peso molecular de 1.000.000 Da a 30.000.000 Da,
+o que sobrepõe parcialmente a faixa do presente pedido de patente. Contrariamente do que
+indica a requerente, o documento D4 revela que o polímero pode conter mais que 25% do
+
+
+                                                                                           Página 3
+                                       BR112012000598-7
+
+
+monômero catiônico, assim como o uso de uma amônia quaternária. Tanto o documento D4
+quanto o presente pedido de patente revelam quantidades eficazes similares de polímero. Por
+fim, tanto o presente pedido de patente e o documento D4 indicam que o polímero pode se feito
+por reticulação, o uso de uma amônia quaternária e que o fluido hidrocarboneto é óleo.
+
+         Como a requerente revela, o documento D4 não revela o uso de um terpolímero mas,
+complementado pelo documento D3, a questão do uso de terpolímero pode ser superada.
+
+         Por fim, o documento D5 apresenta um processo para recuperação otimizada de óleo
+que utiliza pelo menos um polímero e um tensoativo em que o polímero contém pelo menos um
+monômero catiônico hidrofóbico, conforme reivindicação 1 (um), assim como o presente pedido
+de patente. A página 1 (um), linhas 35 (trinta e cinco) e 36 (trinta e seis), revela que o uso de
+polímeros com grupos funcionais hidrofóbicos aperfeiçoam a viscosidade em operações em
+poços, assim como no presente pedido de patente. A reivindicação 6 (seis) revela que os
+monômeros catônicos são copolimerizados com monômeros não-iônicos, assim como mostra o
+presente pedido de patente. A reivindicação 5 (cinco) ilustra que o monômero catiônico pode ser
+um derivado de alila que tem como fórmula geral quatro átomos de carbono ligados a um único
+nitrogênio para formar um íons amônio quaternário, podendo conter radicais alquila ou aril
+alquila, assim como o presente pedido de patente.
+
+         De comum entre o documento D5 e o presente pedido de patente depreende-se que
+ambos revelam um polímero que contém pelo menos um monômero catiônico hidrofóbico e que
+este polímero pode ser utilizado com grupos funcionais hidrofóbicos que aperfeiçoam a
+viscosidade em operações em poços. Tanto o documento D5 quanto o presente pedido de
+patente revelam que o polímero pode conter monômeros não-iônicos e que o monômero
+catiônico pode ser um derivado de alila que tem como fórmula geral quatro átomos de carbono
+ligados a um único nitrogênio para formar um íons amônio quaternário, podendo conter radicais
+alquila ou aril alquila. Particularmente, o documento D5 revela que o derivado catiônico pode ter
+a estrutura:
+
+
+
+
+         onde A pode ser um átomo de oxigênio, N-R4, onde R1, R2, R3, R4, R5, e R6 são
+independentemente hidrogênio ou uma cadeia alquil, Q é uma cadeia alquil, R 7 um alquil ou
+
+
+
+                                                                                          Página 4
+                                        BR112012000598-7
+
+
+arilalquil e X um haleto ou um contraíon, sendo esta fórmula similar a uma fórmula revelada pelo
+presente pedido de patente.
+
+          Apesar de se depreender que as atuais reivindicações 4 (quatro) e 5 (cinco) poderiam
+ser consideradas como contendo matéria passível de proteção, uma vez que a requerente não
+restringiu a matéria conforme exigido no parecer técnico de exigência notificado em 20/10/2020,
+mais especificamente na Revista da Propriedade Industrial (RPI) número 2598, parte das
+reivindicações carece de atividade inventiva.
+
+          Deste modo, pela combinação dos documentos D3, D4 e D5, um técnico do assunto
+depreenderia a matéria revelada pelas reivindicações 1 (um), 2 (dois), 3 (três), 6 (seis) e 7
+(sete), o que contraria o disposto nos artigos 8o e 13 da LPI.
+
+
+
+Conclusão
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -    não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                    Publique-se o indeferimento (9.2).
+
+
+
+                                                                 Rio de Janeiro, 26 de março de 2021.
+
+
+
+
+João Gilberto Sampaio Ferreira da Silva
+Pesquisador/ Mat. Nº 1547093
+DIRPA / CGPAT I/DITEX
+Deleg. Comp. - Port. INPI/DIRPA Nº
+005/15
+
+
+
+
+                                                                                             Página 5
+

@@ -1,0 +1,128 @@
+                                         SERVIÇO PÚBLICO FEDERAL
+                                          MINISTÉRIO DA ECONOMIA
+                              INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.º do Pedido:                       BR112013017911-2             N.º de Depósito PCT: JP12/000273
+ Data de Depósito:                    18/01/2012
+ Prioridade Unionista:                JP 2011-007818 (18/01/2011)
+ Depositante:                         Daikin Industries, LTD. (JP)
+ Inventor:                            Morimitsu Sekimoto, Tomoisa Taniguchi, Hiroshi Hibino, Toshiyuki Maeda
+ Título:                              Aparelho de Conversão de Energia 
+                                                                      PARECER
+
+      A Requerente recebeu notificação de Ciência de Parecer (7.1) publicada na RPI nº 2559 de
+21/01/2020. Através da petição nº 870200047604 de 15/04/2020, a mesma apresentou
+Manifestação sobre o Parecer Técnico. Para fins de continuidade do exame estão sendo
+consideradas as vias abaixo:
+
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas              Nº da Petição         Data
+                                                                                DESP 018130023767
+ Relatório Descritivo                                          1-20                                    12/07/2013
+                                                                                   Págs. 8 a 27
+                                                                                  870190104593
+ Quadro Reivindicatório                                         1-2                                    16/10/2019
+                                                                                   Págs. 6 a 7
+                                                                                DESP 018130023767
+ Desenhos                                                       1-3                                    12/07/2013
+                                                                                   Págs. 30 a 32
+                                                                                DESP 018130023767
+ Resumo                                                         1                                      12/07/2013
+                                                                                     Pág. 33
+
+
+
+                  Quadro 2 - Considerações referentes aos Artigos 10, 18, 22 e 32 da LPI
+ Artigos da LPI                                                                                Sim         Não
+ A matéria enquadra-se no Art. 10 da LPI (não se considera invenção)                                        X
+ A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                                                X
+ O pedido apresenta Unidade de Invenção (Art. 22 da LPI)                                           X
+ O pedido está de acordo com disposto no Art. 32 da LPI                                            X
+Comentários/Justificativas: ----
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                                  Página 1
+                                            BR112013017911-2
+
+                 Quadro 3 - Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                            Sim                     Não
+O relatório descritivo está de acordo com disposto no Art. 24 da LPI                        X
+O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI                      X
+Comentários/Justificativas: ----
+                            Quadro 4 - Documentos citados no parecer
+ Código                                  Documento                                                Data de publicação
+    D1                                   Haga H et al                                                    10/11/2008
+    D2                                   US7746024                                                       29/06/2010
+
+
+
+
+     Quadro 5 - Análise dos Requisitos de Patenteabilidade (Art. 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento                              Reivindicações
+                                                         Sim                                         1-6
+           Aplicação Industrial
+                                                        Não                                          ----
+                                                         Sim                                         1-6
+                 Novidade
+                                                        Não                                          ----
+                                                         Sim                                         ----
+           Atividade Inventiva
+                                                        Não                                          1-6
+Comentários/Justificativas:
+
+   Na manifestação a Requerente alega que a redução na pulsação da corrente da fonte de
+acordo com o documento D1 ocorre devido a um aumento no fator de potência e uma queda no
+pico da corrente da fonte. Isso não teria nada a ver com tuna redução na amplitude de pulsação
+das correntes do motor em sincronização com a tensão da fonte de alimentação.
+
+   Ainda de acordo com a Requerente, o documento D1 falha em antecipar ou motivar as
+características da presente invenção, visando uma diminuição da amplitude da pulsação através
+de um controle para reduzir a amplitude da pulsação das correntes do motor em sincronização
+com a tensão da fonte de alimentação, de acordo com a diminuição em uma carga do motor. Além
+disso, enquanto a comunicação acima mencionada expressa o ponto de vista de que é natural
+que a amplitude da corrente do motor mude quando o torque da carga muda é respeitosamente
+apresentado que o documento D1 não divulgaria reduzir a amplitude de pulsação das correntes
+do motor em sincronia com tensão de alimentação, de acordo com a diminuição da carga do
+motor.
+
+   Apesar das alegações da Requerente tanto o documento D1 (Figura 3 e Página 770) quanto o
+documento D2 (Parágrafos [0002] e [0005]) um sistema de controle para controlar a comutação de
+acordo com a variação da carga do motor e reduzindo a pulsação das correntes. Portanto, com
+
+
+
+                                                    Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12     Página 2
+                                                  BR112013017911-2
+
+base nos documentos incluídos para se delimitar o estado da técnica prover um sistema de
+controle para controlar a comutação de acordo a variação da carga do motor e reduzir a amplitude
+de pulsação das correntes são características inerentes à matéria pleiteada e, portanto óbvias
+para um técnico no assunto.
+
+Conclusão
+
+    Face ao exposto, conclui-se que a invenção ora pleiteada decorre de maneira evidente ou
+óbvia, para um técnico no assunto, a partir do estado da técnica, sendo desprovida de atividade
+inventiva, conforme Art. 13 da LPI.
+
+    Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que o mesmo não
+atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+    Rio de Janeiro, 31 de agosto de 2020.
+
+    Publique-se o indeferimento (9.2).
+
+    CAMILO BRAGA GOMES
+    Pesquisador / Mat. Nº 1547071
+    DIRPA / CGPAT III / DIFEL
+    Deleg. Comp. - Port. INPI / DIRPA Nº 022/12
+
+
+
+
+                                                        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 3
+

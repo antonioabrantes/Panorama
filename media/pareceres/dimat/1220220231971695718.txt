@@ -1,0 +1,221 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                   RELATÓRIO DE BUSCA
+
+ N.° do Pedido:                      BR122022023197-7                        N.° de Depósito PCT:
+ Data de Depósito:                   07/04/2017
+ Prioridade Unionista:               -
+ Depositante:
+ Inventor:                           JOACHIM GALK; THOMAS MINGERS; MARC GIERSEMEHL
+ Título:                             Separador
+
+                                   IPC                 B07B 7/083
+ 1  CLASSIFICAÇÃO
+                                   CPC
+ 2 - FERRAMENTAS DE BUSCA
+    EPOQUE      X ESPACENET                                       PATENTSCOPE        X     Derwent Innovation
+    DIALOG         USPTO                                          SINPI              X     Google Patents
+    CAPES          SITE DO INPI                                   STN
+3  REFERÊNCIAS PATENTÁRIAS
+
+                               Número                                        Tipo   Data de publicação   Relevância *
+
+                            FR2597766                                        A1          30/10/1987             N/I
+                            US6276534                                        B1          21/08/2001         N/I/A/Y
+                            EP2204240                                        A1          07/07/2010             N/I
+                            EP0442788                                        A2          21/08/1991             N/I
+                            DE3808022                                        A1          21/09/1989             N/I
+                            EP2659988                                        A1          06/11/2013             Y
+                            EP1184090                                        A1          06/03/2002             Y
+                            EP0645196                                        A1          29/03/1995             Y
+                             CH363879                                         A          15/08/1962              I
+
+4  REFERÊNCIAS NÃO-PATENTÁRIAS
+
+                               Autor/Publicação                                     Data de publicação   Relevância *
+
+
+
+ Observações:
+
+
+
+                                                                                    Rio de Janeiro, 3 de março de 2023.
+
+ Anderson Willian de Souza Baltazar
+ Pesquisador/ Mat. Nº 2322474
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                            Página 1
+                                                  BR122022023197-7
+
+DIRPA / CGPAT IV/DIMAT
+Deleg. Comp. - Port. INPI/DIRPA Nº 012/18
+* Relevância dos documentos citados:                              Y documento de particular relevância; a invenção
+A documento que define o estado geral da técnica, mas não é          reivindicada não pode ser considerada dotada de
+   considerado de particular relevância;                             atividade inventiva quando o documento é combinado
+                                                                     com um outro documento ou mais de um;
+N documento de particular relevância; a invenção reivindicada
+   não pode ser considerada nova quando o documento é             PN documento patentário, publicado após a data de depósito
+   considerado isoladamente;                                         do pedido em exame, ou da prioridade requerida para o
+                                                                     pedido em exame, cuja data de depósito, ou da prioridade
+I documento de particular relevância; a invenção reivindicada        reivindicada, é anterior a data de depósito do pedido em
+   não pode ser considerada dotada de atividade inventiva ou de      exame, ou da prioridade requerida para o pedido em
+   ato inventivo quando o documento é considerado                    exame; esse documento patentário pertence ao estado da
+   isoladamente                                                      técnica para fins de novidade, se houver correspondente
+                                                                     BR, conforme o Art. 11 §2.º e §3.º da LPI.
+
+
+
+
+                                                                                                                    Página 2
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR122022023197-7   N.° de Depósito PCT:
+ Data de Depósito:                     07/04/2017
+ Prioridade Unionista:                 -
+ Depositante:                          NEUMAN & ESSER PROCESS TECHNOLOGY GMBH (DE)
+ Inventor:
+ Título:                               
+
+                                                                    PARECER
+
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas         n.o da Petição           Data
+
+Relatório Descritivo                                          1 a 25          870220105658           14/11/2022
+Quadro Reivindicatório                                         1a4            870220105658           14/11/2022
+Desenhos                                                      1 a 16          870220105658           14/11/2022
+Resumo                                                          1             870220105658           14/11/2022
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                                 Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                       X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                               X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                         X
+O pedido está de acordo com disposto no art. 32 da LPI                                          X
+Comentários/Justificativas
+
+
+
+                      Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                 Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                            X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                          X
+Comentários/Justificativas
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                               Página 1
+                                                         BR122022023197-7
+
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                         Data de publicação
+    D1                                                 FR2597766                               30/10/1987
+    D2                                                 US6276534                               21/08/2001
+    D3                                                 EP2204240                               07/07/2010
+    D4                                                 EP0442788                               21/08/1991
+    D5                                                 DE3808022                               21/09/1989
+    D6                                                 EP2659988                               06/11/2013
+    D7                                                 EP1184090                               06/03/2002
+    D8                                                 EP0645196                               29/03/1995
+    D9                                                  CH363879                               15/08/1962
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                     Cumprimento   Reivindicações
+                                                                           Sim          R1 a R17
+             Aplicação Industrial
+                                                                          Não          ---------------
+                                                                           Sim          R1 a R17
+                     Novidade
+                                                                          Não          ---------------
+                                                                           Sim         ---------------
+             Atividade Inventiva
+                                                                          Não           R1 a R17
+Comentários/Justificativas
+
+A requerente apresenta na petição Nº 870220105658 de 14/11/2022 o pedido de divisão do
+pedido de patente BR112018071011  3 apresentando novo relatório descritivo, novo quadro
+reivindicatório (total 17 reivindicações), desenhos e resumo aditivo a petição de divisão do
+pedido. O qual se refere a um separador (1), que compreende: uma roda do separador (60)
+que apresenta lâminas da roda do separador (62).
+A reivindicação independente R1 pleiteia separador de acordo com o preâmbulo da
+reivindicação e caracterizado pelas lâminas guia (73), são defletores (76, 77a, b) que se
+projetam no espaço do separador (18) e se estendem no sentido vertical. As reivindicações
+dependentes R2 a R17 pleiteiam detalhes de R1.
+Contudo conforme publicado na RPI Nº 2693 de 16/08/2022, a ciência de parecer 7.1 em 1º
+exame e na RPI Nº 2711 de 20/12/2021 o parecer de indeferimento 9.2 em 2º exame do pedido
+BR112018071011  3, o pedido BR122022023197  7 se enquadra na Resolução INPI Nº
+124/2013 (§ 3.137).
+Sobre a reivindicação independente R1, o documento DE3808022 (D5) ensina um separador
+compreendendo  uma roda separadora (6; fig. 1) tendo lâminas de roda separadora (6a; fig.
+1), e um sistema de guia de ar (3; fig. 1) tendo palhetas de guia (3a; fig. 1) para fornecer ar de
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                     Página 2
+                                                        BR122022023197-7
+
+
+separação, em que um espaço de separação anular (5; fig. 1) é disposto entre a roda
+separadora (6; fig. 1) e o sistema de guia de ar (3; fig. 3), em que as palhetas de guia (3a; fig.
+1) são guias (3a; fig. 2) que se projetam no espaço de separação (5; fig. 1) e se estendem na
+direção vertical. Portanto entende-se que não há exercício de atividade inventiva perante D5
+do estado da técnica e, sendo assim R1 não apresenta atividade inventiva. Demais
+características do preâmbulo de R1 são conhecidas de D5; características adicionais
+apresentadas nas reivindicações dependentes são conhecidas de [D6  (130, 131 e 140; Fig. 2,
+3 e 4); reivindicação 2]; [D8  (pág. 10, l. 12  20).
+
+Mediante o exposto entende-se que a matéria pleiteada na reivindicação independente R1 não
+apresenta mérito de patenteabilidade de atividade inventiva, pois a matéria objeto de
+proteção são óbvias para um técnico no assunto e não acrescem efeito técnico novo ou
+inesperado ao estado da técnica quando os ensinamentos de D1  D9.
+
+Nas reivindicações dependentes R2 a R17 não foram identificadas características que, mesmo
+quando combinadas com as características de qualquer reivindicação independente a que
+se referem, venham a prover a atividade inventiva à matéria.
+
+
+Conclusão
+
+Assim sendo, de acordo com o art. 37, opino pelo indeferimento do presente pedido, uma vez
+que não atende ao requisito de atividade inventiva (art. 8º c/c art. 13 da LPI).
+
+
+De acordo com o art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da data
+de publicação na RPI, para interposição de recurso.
+
+
+
+
+                                                                             Publique-se o indeferimento (9.2).
+
+
+
+                                                                           Rio de Janeiro, 3 de março de 2023.
+
+
+
+Anderson Willian de Souza Baltazar
+Pesquisador/ Mat. Nº 2322474
+DIRPA / CGPAT IV/DIMAT
+Deleg. Comp. - Port. INPI/DIRPA Nº 012/18
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                   Página 3
+

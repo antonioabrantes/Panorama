@@ -1,0 +1,301 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR112012027022-2          N.° de Depósito PCT: EP11/056232
+ Data de Depósito:     19/04/2011
+ Prioridade Unionista: EP 10160647.3 (21/04/2010); US 61/326,358 (21/04/2010); EP
+                       10106622.6 (21/04/2010); US 61/326,351 (21/04/2010)
+ Depositante:          DSM Ip Assets B.V. (NL)
+ Inventor:             Paul Klaassen, Bianca Elisabeth Maria Gielesen, Gijsberdina
+                       Pieternella Van Suylekom, Wilbert Herman Marie Heijne
+ Título:               Célula adequada para a fermentação de uma composição de açúcar
+                       misto 
+
+                                                              PARECER
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas              Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)            x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida                          x
+
+O pedido refere-se a Sequências Biológicas                                              x
+
+Comentários/Justificativas
+
+           O presente pedido refere-se a uma célula para a produção de um ou mais produtos de
+fermentação a partir de uma composição de açúcar que compreende glicose, galactose, xilose,
+arabinose e manose, em que a célula compreende de 2 a 15 cópias de um ou mais genes de
+xilose isomerase ou de 2 a 15 cópias de uma ou mais xilose redutases e xilitol desidrogenase, e
+de 2 a 10 cópias dos genes araA, araB e araD, em que estes genes são integrados ao genoma
+da célula. Refere-se também ao processo para produção de um ou mais produtos de
+fermentação a partir de uma composição de açúcar que compreende glicose, arabinose e xilose
+e, galactose.
+           - Do encaminhado à ANVISA -Tendo em vista a matéria tratada, o presente pedido não
+foi enviado à ANVISA.
+
+         - Do acesso ao patrimônio genético nacional - O INPI emitiu a exigência de código 6.6.1
+na RPI nº 2466 de 10/04/18, para fins de manifestação do depositante quanto à
+ocorrência de acesso ao Patrimônio Genético nacional e/ou Conhecimento Tradicional
+Associado para obtenção do objeto do presente pedido. Não tendo havido manifestação
+do depositante no prazo de 60 (sessenta) dias contados a partir da publicação na RPI, o
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                 Página 1
+                                                        BR112012027022-2
+
+INPI deu prosseguimento ao exame técnico com o entendimento de que não houve
+acesso ao patrimônio genético nacional e/ou conhecimento tradicional associado,
+conforme consta no texto do despacho de código 6.6.1 publicado na RPI, de acordo com
+entendimento firmado pela Procuradoria Federal Especializada junto ao INPI (PFE-INPI)
+no   Parecer          nº      00001/2018/PROCGAB/PFE-INPI/PGF/AGU                        (Processo    INPI      nº
+52400.002142/2018-30), publicado nas RPIs nº 2465 (03/04/2018), 2466 (10/04/2018) e
+2467 (17/04/2018), ao qual foi atribuído caráter normativo na RPI nº 2485 de 21/08/2018.
+      - Das Sequências Biológicas - Através da petição                        870190028584 de 25/03/2019 a
+depositante apresentou nova versão da Listagem de sequências em formato eletrônico conforme
+a resol. nº 187/201.
+      O presente pedido teve seu primeiro exame técnico que concluiu que a matéria reivindicada
+no presente pedido não era passível de proteção de acordo com o art. 24, o art. 25, o art. 18 (III),
+e o art. 8º combinado com o art. 13 da LPI, sendo formulada a ciência de parecer com despacho
+7.1 cuja notificação foi publicada pela RPI 2503 de 26/12/2018.
+      A depositante através da petição 870190028584 de 25/03/2019 apresenta novas págs 1 do
+relatório descritivo e do resumo e listagem de sequências em formato eletrônico, nova proposta de
+quadro reivindicatório contendo 12 reivindicações e esclarecimentos.
+
+
+                                    Quadro 1  Páginas do pedido examinadas
+
+            Elemento                                   Páginas         n.o da Petição                Data
+Relatório Descritivo                                    1 a 98         870190028584             25/03/2019
+
+Listagem de sequências em
+                                                             -                  -                      -
+formato impresso
+Listagem de sequências*                       Código de Controle       870190028584             25/03/2019
+
+Quadro Reivindicatório                                   1a3           870190028584             25/03/2019
+
+Desenhos                                                1 a 25             20120099210          22/10/2012
+
+Resumo                                                      1          870190028584             25/03/2019
+
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+     A9DA4B235E6F03F4 (Campo 1) e EA8D6778ECC58A17 (Campo 2).
+
+        Em sua manifestação a depositante apresenta um novo quadro reivindicatório (QR) com 12
+reivindicações, mais limitado que o quadro reivindicatório original, em que foram efetuadas as
+seguintes modificações:
+        - A reivindicação 1 foi alterada de forma que a célula foi limitada à uma célula de
+Saccharomyces cerevisiaea, adição do nome completo dos genes araA (L-arabinose isomerase),
+araB (L-ribuloquinase) e araD (L-ribulose-5-P4-epimerase) e a inclusão da palavra recombinante
+e dos termos cada um dos genes.
+        - As antigas reivindicações 2, 4, 9, 10, 11 e 15 foram removidas sendo apresentadas as
+novas reivindicações dependentes 2, 3 e 9.
+        - A nova reivindicação 4 (antiga reivindicação 3) foi alterada para introduzir termo
+repressor transcricional, que define qual é o tipo de gene GAL80, e
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                        Página 2
+                                                         BR112012027022-2
+
+      - A nova reivindicação 10 (antiga reivindicação 12) foi limitada para se referir apenas à
+produção de etanol.
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                            x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                    x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                        x
+O pedido está de acordo com disposto no art. 32 da LPI                         x
+Comentários/Justificativas
+
+         Em sua manifestação, a depositante esclarece que alterou a reivindicação 1 para
+esclarecer que a referida célula é uma célula recombinante de Saccharomyces cerevisiae,
+superando a objeção quanto ao art. 18 (III).
+
+
+
+                  Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI         x
+Comentários/Justificativas
+        Em relação as objeções quanto aos arts. 24 e 25 da LPI, a depositante alega que limitou a
+reivindicação 1 a uma célula de Saccharomyces cerevisiae pois o presente pedido revela de forma
+suficientemente clara que a invenção pode ser executada em células de Saccharomyces
+cerevisiae diferentes de CEN.PK113-7D.
+        Entende não ser necessário mencionar os locais de inserção específicos pois a integração
+pode ser feita aleatoriamente ou por recombinação homóloga, como bem conhecido por um
+técnico no assunto e que não há necessidade de limitar a reivindicação 1 a sequências
+específicas, o que seria uma limitação excessiva.
+        Esclarece que especificou na antiga reivindicação 12 (atual reivindicação 10) que o produto
+produzido é o etanol e removeu as antigas reivindicações 9 e 10 do quadro reivindicatório.
+        As abreviações araA, araB, araD, GAL80, PPP, TAL1, TKL1, RPE1, RKI1, XKS1 foram
+devidamente definidas nas novas reivindicações 1, 3 5 e 6.
+
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                    Data de publicação
+    D1        Wisselink, HW et al. "Novel Evolutionary Engineering Approach              01/02/09
+              for Accelerated Utilization of Glucose, Xylose, and Arabinose
+              Mixtures by Engineered Saccharomyces cerevisiae Strains",
+              Applied and Environmental Microbiology, volume 75, número 4,
+              páginas 907 - 914.
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                          Página 3
+                                                         BR112012027022-2
+
+
+    D2        WO2009109633                                                                    11/09/09
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                     Cumprimento   Reivindicações
+                                                                           Sim           1 a 12
+             Aplicação Industrial
+                                                                          Não          nenhuma
+                                                                           Sim           1 a 12
+                     Novidade
+                                                                          Não          nenhuma
+                                                                           Sim         nenhuma
+             Atividade Inventiva
+                                                                          Não            1 a 12
+Comentários/Justificativas
+
+         Em relação as objeções quanto a atividade inventiva, a depositante alega que:
+
+         - Considera D2 como o documento do estado da técnica mais próxima da presente
+invenção.
+
+         - A característica distintiva entre a matéria das reivindicações do presente pedido e D2 é
+a presença de cada um de araA, araB e araD em duas a dez cópias e, adicionalmente, a
+presença de dois a quinze cópias de um ou mais genes da xilose isomerase, ou duas a quinze
+cópias de uma ou mais xilose redutase e xilitol desidrogenase.
+
+         - O efeito da primeira característica é o melhor consumo de arabinose, levando à
+produção de etanol e CO2.
+
+         - D1 não revela nem sugere integrar os genes ara no genoma, quanto mais integrar entre
+2 e 10 cópias dos genes araABD no genoma.
+
+
+     Em análise feita, com base na matéria ora reivindicada, parecer técnico anterior e petição de
+esclarecimentos, constatou-se que:
+        D1 relata uma linhagem de Saccharomyces cerevisiae metabolicamente engenheirada
+para utilizar xilose e arabinose de um estudo prévio em que os genes xyl A, xks1, araA, araB e ara
+D, bem como os genes da via da pentose fosfato (RPE1, RKI1, TKL1 E TAL1) foram super-
+expressos. Essa linhagem foi cultivada sequencialmente em condições com arabinose como fonte
+de carbono e foi selecionado a linhagem IMS0002 que é capaz de fermentar arabinose para
+etanol em condições anaeróbicas (págs. 907 e 908). Relatam que a linhagem IMS0002 foi
+cultivada em meio com xilose para restaurar a capacidade de utilização da xilose e foi
+denominada ISM0003. Essa linhagem foi testada em meio contendo glicose, xilose, arabinose e
+todos os açúcares foram consumidos em aproximadamente 60h (Fig. 1A e pág. 909).
+      D2 relata que uma linhagem de S. cerevisiae BIE104A2P1 (MATa URA3 HIS3 LEU2 TRP1
+MAL2-8 SUC2 SIT2::[TDH3-araA, ENO1-araB, PGI1-araD] DGRE::[TPI1p-TAL1, ADH1P-TKL1,
+PGI1p-RPE1, ENO1P-RPI1]) foi transformada com o plasmídeo contendo os genes que codificam
+xks1 (xiloquinase) e xylA (xilose isomerase) (ver exemplo 4). Relata misturas de glicose, xilose
+
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 4
+                                                          BR112012027022-2
+
+e/ou galacotose para a produção de etanol (pág. 32). A linhagem descrita tem a capacidade de
+utilizar xilose e arabinose (pág. 46).
+
+          Conforme discutido em parecer técnico anterior, a diferença entre D1 e o presente pedido
+é o número de cópias dos genes introduzidos na célula e a integração no genoma da célula. No
+entanto, a integração de genes exógenos no genoma de S. cerevisiae e mudanças no número
+de cópias já era conhecido de D2 e D1, respectivamente. Dessa forma, seria óbvio para um
+técnico no assunto, na tentativa de melhorar a cepa S. cerevisiae que é capaz de utilizar
+misturas de açúcares em fermentação para produção de álcool, introduzir aos genes exógenos
+no genoma da célula e aumentar o número desses genes como trabalho de rotina já que essas
+técnicas já eram conhecidas por D1 e D2.
+
+          A depositante alega que a arabinose é quase totalmente consumida e convertida em
+etanol em 72 horas pela linhagem BIE252 que tem 3 a 5 cópias de araA, araB e araD. No
+entanto, o exemplo citado não deixa claro quantas cópias de cada gene ara estão presentes e
+ainda se o número de cópias é o responsável pelo resultado observado. Adicionalmente, a
+linhagem ISM0003 descrita em D1 foi testada em meio contendo glicose, xilose e arabinose e
+consumiu todos os açúcares em aproximadamente 60h (Fig. 1A e pág. 909).
+
+          A célula descrita no presente pedido é nova porém as modificações efetuadas não são
+consideradas inventivas. Não foram observados resultados surpreendentes ou inesperados com
+as células descritas no presente pedido tendo em vista que D1 já relatava uma linhagem que
+consumiu todos os açúcares da mistura em aproximadamente 60 h (Fig. 1A e pág. 909). Dessa
+forma, a matéria da reivindicação 1 não pode ser considerada inventiva de acordo com o art. 13
+da LPI.
+
+          Tendo em vista que a célula recombinante de Saccharomyces cerevisiae não foi
+considerada inventiva, a matéria da reivindicação 10 de processo para produção de etanol a
+partir de uma composição de açúcar utilizando a dita célula não pode ser considera inventiva.
+
+          As reivindicações dependentes 2 a 9, 11 e 12 não apresentam nenhuma peculiaridade
+capaz de conferir atividade inventiva a matéria reivindicada. Deste modo, as reivindicações 2 a
+9, 11 e 12 não são passíveis de proteção de acordo com o art. 8º combinado com o art. 13 da
+LPI.
+
+           Portanto, permanece o fato de que as matérias das reivindicações 1 a 12 não são
+passíveis de proteção de acordo com o art. 8º combinado com o art. 13 da LPI.
+
+Conclusão
+
+          A depositante não apresentou argumentos considerados pertinentes e as modificações
+na nova proposta de quadro reivindicatório não foram suficientes para conferir atividade
+inventiva para a matéria reivindicada, permanece o fato de que o presente pedido não é passível
+de proteção de acordo com o art. 8º combinado com o art. 13 da LPI.
+
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                      Página 5
+                                                          BR112012027022-2
+
+      -      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+      O exame formal da listagem de sequências apresentada na petição 870190028584 de
+25/03/2019 não constatou irregularidades. No entanto, caso seja solicitada a segunda instância
+e a depositante decida alterar o título do pedido, esta deve estar ciente que o título na listagem
+de sequência deve ser o mesmo do título apresentado no relatório descritivo e resumo. Caso a
+depositante apresente nova listagem de sequências, se faz necessária a apresentação de novo
+código de controle referente ao novo arquivo .txt da nova listagem e as devidas declarações
+conforme ao disposto nos artigos 6º, 7º e/ou 12 da Resolução PR nº 187/2017, conforme o caso.
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+                                                                               Publique-se o indeferimento (9.2).
+
+                                                                             Rio de Janeiro, 01 de junho de 2020.
+
+
+
+
+Sandra Toshico Tahara
+Pesquisador/ Mat. Nº 1359981
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                   Página 6
+

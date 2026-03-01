@@ -1,0 +1,182 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR122020018737-9         N.° de Depósito PCT:
+ Data de Depósito:                   16/08/2012
+ Prioridade Unionista:               EP 11177633.2 (16/08/2011); US 61/524,353 (17/08/2011)
+ Depositante:                        PURAC BIOCHEM B.V. (NL)
+ Inventor:                           ANDRÉ BANIER DE HAAN, JAN VAN BREUGEL, PAULUS
+                                     LODUVICUS JOHANNES VAN DER WEIDE, PETER PAUL JANSEN,
+                                     JOSÉ MARÍA VIDAL LANCIS, AGUSTÍN CERD BARÓ
+ Título:                             MÉTODO PARA A RECUPERAÇÃO DE ÁCIDO CARBOXÍLICO
+
+                                                                PARECER
+
+
+          Em resposta ao parecer de ciência publicado na RPI n 0 2615 de 17/02/2021 foi
+apresentada a petição n0 870210044387 de 17/05/2021 trazendo as manifestações e as novas
+vias do relatório descritivo, do quadro reivindicatório e do resumo.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 23
+Quadro Reivindicatório                                   1a6                 870210044387           17/05/2021
+Resumo                                                      1
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas: ---
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR122020018737-9
+
+
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                   Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI              x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI            x
+Comentários/Justificativas: ---
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                   Documento                                    Data de publicação
+    D1                                   KR20100122773                                     23/11/2010
+    D2         QiongzhuHuang e colaboradores. Thermal decomposition                       Maio de 2011
+               mechanisms of MgCl2·6H2O and MgCl2·H2O. Journal of
+               Analytical and Applied Pyrolysis, v.91, n.1, p.159-164.
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento                   Reivindicações
+                                                         Sim                           1 a 35
+            Aplicação Industrial
+                                                        Não                              ---
+                                                         Sim                           1 a 35
+                   Novidade
+                                                        Não                              ---
+                                                         Sim                             ---
+               Atividade Inventiva
+                                                        Não                            1 a 35
+Comentários/Justificativas:
+
+         Em parecer técnico anterior foi observado que a matéria pleiteada neste pedido dividido
+está incluída no quadro reivindicatório do pedido original trazido na petição nº 860140015052 de
+10/02/2014 e no quadro reivindicatório trazido na petição nº 870190110143 de 29/10/2019 (em
+resposta ao despacho 6.21), já que podem ser estabelecidas correspondências entre as
+reivindicações dos dois pedidos.
+         Nas     manifestações,      a   requerente   argumenta        que   a    reivindicação    1    do
+BR112014003067-7 define que sua etapa de acidificação b) é realizada com um excesso de HCl
+para produzir uma solução com um pH de 1 a 4, sendo que tais condições de acidificação estão
+ausentes nas reivindicações independentes e dependentes do presente pedido de patente
+dividido. Entretanto, se nas reivindicações do presente pedido de patente não há delimitações
+quanto ao excesso de HCl e ao valor de pH da solução, significa que estas delimitações estão
+incluídas no escopo pleiteado no pedido de patente em questão, e portanto há colidência de
+matéria pleiteada entre os dois pedidos.
+
+
+
+                                                                                                  Página 2
+                                        BR122020018737-9
+
+
+       Nas manifestações, a requerente ainda argumenta que as reivindicações dependentes
+do BR112014003067-7 não incluem uma faixa de temperatura de termo-hidrólise equivalente
+àquela definida na reivindicação 1 do presente pedido de patente.
+       Do mesmo modo, se no pedido BR112014003067-7 não há delimitação de faixa de
+temperatura, significa que esta delimitação está incluída no escopo pleiteado do pedido
+BR112014003067-7, e portanto, há colidência de matéria pleiteada entre os dois pedidos.
+       Assim, há uma evidente duplicidade das matérias do pedido original BR112014003067-7
+e do presente pedido, que poderia vir a infringir o disposto no Artigo 6º da LPI em caso de
+deferimento de ambos os pedidos.
+
+
+       Em parecer técnico anterior foi concluído que a matéria pleiteada no presente pedido de
+patente não atendia o requisito de atividade inventiva diante do documento D1 ou da
+combinação dos documentos D1 e D2.
+       Com relação a D1, nas manifestações, foram extraídas as argumentações da requerente:
+O autor não de D1 sugere nem mesmo dá a entender a aplicação de sua metodologia para a
+recuperação de outro ácido, D1 não fornece uma solução ou suspensão conforme definido
+pela reivindicação 1 ora em apenso e Todos os exemplos de suporte de D1 proporcionam a
+acidificação do succinato de cálcio.
+       No que diz respeito a primeira alegação, a requerente não mostrou nas manifestações
+que, a partir de D1, um técnico no assunto não teria motivação para substituir o ácido succínico
+por outros ácidos dicarboxílicos. No que diz respeito a segunda alegação, o documento D1
+ensina a recuperação de um ácido carboxílico a partir de fermentados, não sendo necessária a
+semelhança da solução ou suspensão conforme definida na reivindicação 1, uma vez que não
+está se avaliando o requisito novidade. No que diz respeito aos exemplos apresentados no
+relatório descritivo do documento citado, estes representam apenas algumas modalidades da
+invenção, não são forma alguma limitativos.
+       Procede a alegação da requerente que D1 não descreve a etapa final da reivindicação 1
+do pedido de patente. Contudo, D2 havia sido também citado em parecer técnico anterior com o
+intuito de mostrar que é conhecida a decomposição térmica do cloreto de magnésio a
+temperaturas de pelo menos 350ºC para geração de óxido de magnésio e ácido clorídrico.
+       Com relação a D2, nas manifestações a requerente argumenta: D2 não descreve
+realmente a submissão de uma solução aquosa de MgCl 2 a uma etapa de decomposição
+térmica: em vez disso, D2 é direcionado à decomposição térmica de sais de cloreto de
+magnésio sólidos definidos por sua água de cristalização.
+       Não faz sentido esta alegação, pois o estado físico do cloreto de magnésio  dissolvido
+em solução ou sólido - antes da decomposição térmica não altera o resultado obtido a
+temperaturas superiores a evaporação do solvente da solução, ou seja, a 350ºC: geração de
+óxido de magnésio e ácido clorídrico.
+       Em resumo, as alegações trazidas pela requerente nas manifestações não foram
+consideradas satisfatórias. Portanto, a matéria das reivindicações 1 a 35 do pedido de patente
+em questão não possui atividade inventiva diante da combinação de D1 e D2.
+
+
+                                                                                          Página 3
+                                       BR122020018737-9
+
+
+Conclusão:
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                              Rio de Janeiro, 10 de junho de 2021.
+
+
+
+
+Aline Marta Vasconcelos Loureiro
+Pesquisador/ Mat. Nº 1549150
+DIRPA / CGPAT I/DINOR
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                          Página 4
+

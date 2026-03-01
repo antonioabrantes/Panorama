@@ -1,0 +1,188 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112019014377-7         N.° de Depósito PCT:NO2018/050013
+ Data de Depósito:                   17/01/2018
+ Prioridade Unionista:               GB 1700740.2 (17/01/2017)
+ Depositante:                        EQUINOR ENERGY AS (NO)
+ Inventor:                           LARS BRENNE; SVEND TARALD KIBSGAARD; TOR BJØRGE;
+                                     HARALD UNDERBAKKE
+ Título:                             Limpeza de compressor de gás 
+
+                                                                PARECER
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1  26               870220095420           17/10/2022
+Quadro Reivindicatório                                   13                 870230019474           07/03/2023
+Desenhos                                                 12                 870220095420           17/10/2022
+Resumo                                                      1                870220095420           17/10/2022
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         x
+Comentários/Justificativas
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                                        BR112019014377-7
+
+
+
+
+                                  Quadro 4  Documentos citados no parecer
+
+  Código                                            Documento                   Data de publicação
+     D1                                           US2017211594                       27/07/2017
+     D2                                           US2014305539                       16/10/2014
+     D3                                           US2016290366                       06/10/2016
+     D4                                          WO2010080040                        15/07/2010
+
+
+
+
+      Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade                         Cumprimento     Reivindicações
+                                                                 Sim             1  10
+               Aplicação Industrial
+                                                                 Não               ---
+                                                                 Sim             1  10
+                       Novidade
+                                                                 Não               ---
+                                                                 Sim             16
+               Atividade Inventiva
+                                                                 Não             7  10
+
+
+
+Comentários/Justificativas
+Neste parecer serão utilizados os seguintes símbolos:
+LPI  Lei da Propriedade Industrial (Lei N° 9.279/96)
+IN  Instrução Normativa
+RD  relatório descritivo
+QR  quadro reivindicatório
+R  reivindicação
+
+
+
+
+          No que tange à matéria pleiteada na reivindicação 7 (sistema de processamento de gás
+natural), a requerente alega que:
+
+
+          [...] a reivindicação independente 7 foi interligada as reivindicações 1 a 6, cuja a
+patenteabilidade foi reconhecida no referido parecer. Sendo assim, pelo menos por essa razão, a
+patenteabiliadade do sistema interligado ao método, novo e inventivo, também deveria ser
+reconhecida.
+
+
+          Esta alegação não pode ser considerada persuasiva, uma vez que o fato de o método ser
+considerado inventivo não torna inventivo um sistema (considerado óbvio para um técnico no
+                                                                                              Página 2
+                                      BR112019014377-7
+assunto), simplesmente por esse estar adaptado para executar o referido método. Considera-se
+que um técnico no assunto que pretende executar o método proposto na R1 seria capaz de
+chegar ao sistema pleiteado na R7 a partir do estado da técnica, conforme demonstrado abaixo e
+já descrito no exame anteiror.
+
+
+        D1 ensina um sistema de processamento de gás natural (vide resumo e figuras de D1),
+compreendendo: um primeiro separador configurado para receber um fluido de hidrocarboneto
+multifásico e para produzir uma saída em fase gasosa e uma saída em fase líquida (3); um
+compressor de gás incluindo uma entrada de gás e uma saída de gás, em que o compressor de
+gás está disposto para receber a saída da fase gasosa do primeiro separador na entrada de gás
+(50); uma linha de abastecimento de agente de limpeza líquido configurada para fornecer um
+agente de limpeza líquido à entrada de gás do compressor de gás (AR, 541).
+
+
+        D1 não divulga expressamente uma linha anti-surge capaz de recircular substancialmente
+toda a saída de fluido do compressor de gás para o primeiro separador a montante do compressor
+de gás, em que o sistema de processamento de gás é configurado para, durante uma operação
+de limpeza, fornecer substancialmente toda a saída de fluido do compressor de gás para uma
+entrada do primeiro separador, sendo assim operável para recuperar uma saída de fluido do
+compressor de gás, de modo a evitar que o material sólido depositado removido contido no fluido
+alcance um ou mais estágios de processamento de gás do sistema de processamento de gás
+natural a jusante do compressor de gás.
+
+
+        D2 (vide Quadro 4) ensina um tubo de entrada (1) para um separador de fluido (2), um
+compressor (5) a jusante do separador, um tubo de saída (6), um circuito de recirculação (10) e
+uma válvula (11) conectada entre o tubo de saída (6) e tubo de entrada (1). O circuito de
+recirculação (10) é um circuito anti-surge (vide §[0012] de D2) e pode ser usado em um método de
+drenagem de emergência em que a válvula (8) é fechada de modo que o gás seja recirculado no
+circuito de recirculação (10).
+
+
+        Cabe observar que a solução anti-surge é um recurso tecnológico conhecido no
+processamento de fluxo de poço, usado para gerenciar flutuações de fluxo e variações de gás de
+processo. Esta solução é descrita também em D4, onde a saída de fluido do compressor é
+retornada via linha antissurto para o separador. O líquido processado de acordo com D4 também
+pode ser fornecido através de um ponto de mistura ao compressor para lavar os depósitos nele
+contidos.
+
+
+        Desta forma, o sistema pleiteado nas reivindicações 7 a 10 decorre de maneira óbvia do
+estado da técnica.
+
+                                                                                       Página 3
+                                       BR112019014377-7
+
+
+
+
+Conclusão
+
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                            Rio de Janeiro, 27 de março de 2023.
+
+
+
+
+Rafael Vieira Camerini
+Pesquisador/ Mat. Nº 2317410
+DIRPA / CGPAT IV/DIMAT
+Deleg. Comp. - Port. INPI/DIRPA Nº
+012/18
+
+
+
+
+                                                                                         Página 4
+

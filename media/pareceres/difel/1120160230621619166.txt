@@ -1,0 +1,130 @@
+                                         SERVIÇO PÚBLICO FEDERAL
+                                          MINISTÉRIO DA ECONOMIA
+                              INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.º do Pedido:                       BR112016023062-0         N.º de Depósito PCT: US2015/019951
+ Data de Depósito:                    11/03/2015
+ Prioridade Unionista:                US 14/244,321 (03/04/2014)
+ Depositante:                         Qualcomm Incorporated (US)
+ Inventor:                            Mohammad Bagher Vahid Far; Abbas Komijani; Chan Hong Park
+ Título:                              Regulador Eficaz em Potência, de Baixo Ruído e Insensível a
+                                      Processamento/Tensão/Temperatura (PVT) para Oscilador Controlado
+                                      por Tensão (VCO)
+                                                                      PARECER
+
+      A Requerente recebeu notificação de Ciência de Parecer (7.1) publicada na RPI nº 2679 de
+10/5/2022. Através da petição nº 870220069470 de 04/08/2022, a mesma apresentou
+Manifestação sobre o Parecer Técnico. Para fins de continuidade do exame estão sendo
+consideradas as vias abaixo:
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas           Nº da Petição         Data
+                                                                                870160058391
+ Relatório Descritivo                                          1-29                                 07/10/2016
+                                                                                Págs. 19 a 47
+                                                                                870200089659
+ Quadro Reivindicatório                                         1-3                                 20/07/2020
+                                                                                 Págs. 5 a 7
+                                                                                870160058391
+ Desenhos                                                       1-9                                 07/10/2016
+                                                                                Págs. 55 a 63
+                                                                                870160058391
+ Resumo                                                         1                                   07/10/2016
+                                                                                   Pág. 64
+
+                  Quadro 2 - Considerações referentes aos Artigos 10, 18, 22 e 32 da LPI
+ Artigos da LPI                                                                             Sim         Não
+ A matéria enquadra-se no Art. 10 da LPI (não se considera invenção)                                     X
+ A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                                             X
+ O pedido apresenta Unidade de Invenção (Art. 22 da LPI)                                        X
+ O pedido está de acordo com disposto no Art. 32 da LPI                                         X
+Comentários/Justificativas: ----
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                               Página 1
+                                            BR112016023062-0
+
+                 Quadro 3 - Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                            Sim                     Não
+O relatório descritivo está de acordo com disposto no Art. 24 da LPI                        X
+O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI                      X
+Comentários/Justificativas: ----
+                            Quadro 4 - Documentos citados no parecer
+ Código                                  Documento                                                Data de publicação
+           EP0518714A1
+           Título: Current Source Adapted to Rapid Variations in the
+    D1                                                                                                   1992-12-16
+           Output Voltage
+           Depositante: Homson Composants Militaires
+
+     Quadro 5 - Análise dos Requisitos de Patenteabilidade (Art. 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento                              Reivindicações
+                                                         Sim                                        1-12
+           Aplicação Industrial
+                                                        Não                                          ----
+                                                         Sim                                        1-12
+                 Novidade
+                                                        Não                                          ----
+                                                         Sim                                         ----
+           Atividade Inventiva
+                                                        Não                                         1-12
+Comentários/Justificativas:
+    Na manifestação a Requerente alega que, D1 falha em descrever o recurso em que a fonte de
+corrente é fornecida com uma primeira tensão de fonte de alimentação e a ramificação principal
+do espelho de corrente é fornecida com uma segunda tensão de fonte de alimentação, em que a
+primeira tensão de fonte de alimentação tem uma tensão maior do que a segunda tensão de fonte
+de alimentação. D1 descreve um espelho de corrente com uma ramificação principal e uma
+ramificação de polarização, sendo que ambas são conectadas à mesma tensão de fonte de
+alimentação Vcc. Desta forma, D1 falha em ensinar, ou mesmo sugerir, que a fonte de corrente é
+fornecida com uma primeira tensão de fonte de alimentação e a ramificação principal do espelho
+de corrente é fornecida com uma segunda tensão de fonte de alimentação, em que a primeira
+tensão de fonte de alimentação tem uma tensão maior do que a segunda tensão de fonte de
+alimentação.
+
+    Apesar das alegações da Requerente o documento D1 descreve um circuito para saída de
+uma tensão regulada, compreendendo uma fonte de corrente configurada para fornecer ou
+dissipar uma corrente de referência; e um espelho de corrente tendo uma ramificação de
+polarização e uma ramificação principal, em que a ramificação de polarização está conectada com
+a fonte de corrente, em que a ramificação principal inclui uma fonte para fornecer a tensão
+regulada e em que a corrente de referência está disponível em um nó para a tensão regulada
+[Coluna 1, Linhas 29 a 36].
+
+
+                                                    Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12     Página 2
+                                                  BR112016023062-0
+
+    Portanto, D1 antecipa todas as características técnicas do presente pedido de privilégio de
+patente de invenção de modo que o espelho de corrente é ainda definido para ser implementado
+em tecnologia MOS, usando uma topologia cascode. O problema técnico objetivo a ser resolvido
+pode ser visto na redução das variações na corrente de saída devido às variações na tensão de
+alimentação devido as variações da corrente de saída devido às variações no coletor de tensão
+do emissor. O circuito compreende um seguidor de fonte (sem espelho de corrente), um circuito
+sensor de corrente medindo a corrente de saída e um comparador de modo de corrente
+comparando a saída do circuito sensor de corrente com a corrente de referência e controlando a
+polarização do seguidor de fonte.
+
+Conclusão
+    Face ao exposto, conclui-se que a invenção ora pleiteada decorre de maneira evidente ou
+óbvia, para um técnico no assunto, a partir do estado da técnica, sendo desprovida de atividade
+inventiva, conforme Art. 13 da LPI.
+
+    Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que o mesmo não
+atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+    Rio de Janeiro, 30 de agosto de 2022.
+
+    Publique-se o indeferimento (9.2).
+
+    CAMILO BRAGA GOMES
+    Pesquisador / Mat. Nº 1547071
+    DIRPA / CGPAT III / DIFEL
+    Deleg. Comp. - Port. INPI / DIRPA Nº 022/12
+
+
+
+
+                                                        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 3
+

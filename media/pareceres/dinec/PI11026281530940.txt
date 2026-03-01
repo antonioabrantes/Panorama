@@ -1,0 +1,193 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI1102628-6               N.° de Depósito PCT:
+ Data de Depósito:                   30/06/2011
+ Prioridade Unionista:               -
+ Depositante:                        Universidade Federal de Minas Gerais (BRMG)
+ Inventor:                           Eduardo de Campos Valadares, Pedro Souza Campos, Marcelo
+                                     Gonçalves Costa Munhoz
+ Título:                             Dispositivo articulado 
+
+                                          PARECER
+       Trata o presente parecer técnico do 2º exame do pedido de patente, de natureza Invenção,
+referente a um dispositivo articulado.
+       Em 15/10/2021, por meio da petição nº 870210095675, a depositante apresentou
+argumentações no pedido, em resposta ao parecer técnico emitido, notificado na RPI (Revista
+Eletrônica da Propriedade Industrial) nº 2637, de 20/07/2021 (despacho 7.1), onde apontou-se
+que o pedido não atendia às disposições dos Artigos 8º e 13 da LPI. Não foram apresentadas
+modificações no pedido. As páginas consideradas no exame estão indicadas no Quadro 1.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                   1/5 a 5/5             014110001532           30/06/2011
+Quadro Reivindicatório                                     1/1               870210057928           28/06/2021
+Desenhos                                               1/3 a 3/3             014110001532           30/06/2011
+Resumo                                                     1/1               014110001532           30/06/2011
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+Comentários/Justificativas
+
+*******************************
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                               PI1102628-6
+
+
+                Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+Comentários/Justificativas
+
+*******************************
+
+                            Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1       PI8200476                                                                30/11/1982
+    D2       CA2783395                                                                24/06/2010
+    D3       US4510957                                                                16/04/1985
+    D4       US2011005559                                                             13/01/2011
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+      Requisito de Patenteabilidade                Cumprimento           Reivindicações
+                                                         Sim                    1a4
+            Aplicação Industrial
+                                                        Não                       -
+                                                         Sim                    1a4
+                  Novidade
+                                                        Não                       -
+                                                         Sim                      -
+            Atividade Inventiva
+                                                        Não                     1a4
+Comentários/Justificativas
+        Por meio da petição 870210095675, de 15/10/2021, a depositante apresenta sua
+discordância do parecer de 1º exame técnico, onde se concluiu que as características técnicas do
+objeto reivindicado tratam de variações construtivas triviais para um técnico no assunto, em vista
+do estado da técnica à época da invenção em tela e, portanto, a matéria reivindicada não
+envolveria atividade inventiva.
+        A depositante não apresentou novo quadro reivindicatório e alega que as características
+técnicas da invenção, conforme definidas na reivindicação 1 (petição nº 870210057928, de
+28/06/2021), são exclusivas () e decorrem da interação sinérgica de seus elementos
+constituintes.
+        Em sua manifestação, a depositante argumenta que a semiesfera (4) pode girar e fazer
+movimentos amplos dentro da cavidade substancialmente esférica (5), possibilitando que o
+parafuso seja posicionado em diferentes orientações e que essa mobilidade de giro permite que
+a base do dispositivo (8) esteja perpendicular à superfície de contato, de modo a proporcionar
+melhor contato com essa superfície (sinais de referência do pedido em tela). A depositante ainda
+argumenta que a base do dispositivo (8) pode ser encaixada e desencaixada, permitindo sua
+substituição em caso de desgaste () e que se tire proveito da possibilidade de modificar a peça
+
+
+
+
+                                                                                            Página 2
+                                            PI1102628-6
+
+(8) de modo a alterar aspectos relacionados à absorção de impactos, à velocidade de desgaste e
+à aderência à superfície de contato com o solo.
+        Em resposta à manifestação apresentada, os argumentos da depositante foram
+analisados e considerados não persuasivos quanto a existência de etapa inventiva na invenção
+pleiteada, uma vez que, conforme discutido no parecer de 1º exame técnico, características
+equivalentes às reivindicadas no presente pedido são descritas nos documentos D1, D2, D3 e
+D4.
+        Considerando que o documento D1, por exemplo, divulga a técnica anterior mais próxima
+da invenção reivindicada, observa-se que D1 descreve (sinais de referência a seguir, entre
+parênteses, relacionam-se a D1) um dispositivo articulado (figs. 1-4) que compreende: uma
+estrutura rígida (11, 111), em que na parte superior acopla-se uma esfera (6, 106) ligada a um
+pino (5, 105), que pode ser conectado através de uma cavidade (4, 104) de uma haste (1, 2, 101,
+102); e, na parte inferior, acopla-se uma base (19, 130) para o contato com a superfície (figs. 1-
+4).
+        A matéria da reivindicação 1 difere do dispositivo articulado divulgado em D1 pelo fato de
+que, na parte superior da estrutura rígida, acopla-se uma semiesfera ligada a um parafuso
+(figura 6 do presente pedido), enquanto que no dispositivo de D1 tem-se uma esfera ligada a um
+pino cilíndrico (figs. 2, 4 de D1).
+        Assim como a semiesfera da presente invenção, a esfera do dispositivo de D1 pode girar
+e fazer movimentos amplos dentro da cavidade substancialmente esférica (ver figs. 2, 4 de D1),
+possibilitando que o pino cilíndrico e, consequentemente, a haste/bengala a ele conectado sejam
+posicionados em diferentes orientações (resultado obtido com ligações do tipo esfera-soquete) e
+permitindo que a base do dispositivo esteja perpendicular à superfície de contato. Além disso, a
+base do dispositivo de D1 pode ser encaixada e desencaixada, facilitando a troca quando houver
+desgaste do material (ver página 8, linhas 6-13 e página 16, linhas 3-9 de D1).
+       O documento D2, similarmente a D1, descreve (sinais de referência a seguir, entre
+parênteses, relacionam-se a D2) um dispositivo articulado (98; figs. 7a-7b; par. [071]) que
+compreende: uma estrutura rígida (108), em que na parte superior acopla-se uma esfera (102)
+ligada a um parafuso (106), que pode ser conectado através de uma cavidade (fig. 7a) de uma
+haste (100); e, na parte inferior, acopla-se uma base (76, 78, 110, 112) para o contato com a
+superfície (figs. 7a-7b). No dispositivo de D2, a esfera também pode girar dentro da cavidade
+substancialmente esférica (fig. 7a de D2).
+       Discussões semelhantes podem ser feitas a partir dos ensinamentos prestados por D3 e
+D4 que divulgam dispositivos articulados, para serem acoplados na extremidade de uma haste de
+dispositivos auxiliares de marcha, com características equivalentes às da invenção em exame
+(ver D3: elastic bellows 9; fig. 7; coluna 10, linhas 26-43; coluna 11, linhas 21-25 e linhas 33-52;
+D4: walking aid assembly 10; fig. 1-4; parágrafos [0013]-[0022]).
+        Assim, pelos ensinamentos divulgados em qualquer um dos documentos D1 a D4,
+considera-se que a matéria da reivindicação independente 1 decorreria de maneira óbvia ou
+evidente para um técnico versado no assunto. Portanto, mantém-se o entendimento do parecer de
+1º exame técnico onde apontou-se que a reivindicação independente 1 não envolvia atividade
+inventiva.
+       As reivindicações dependentes 2 a 4 estão relacionadas a detalhamentos e/ou
+características adicionais que são, por definição, não essenciais e limitadas pela independente a
+qual se referem e, por isso, não podem ser protegidas isoladamente. Ademais, não foi identificada
+característica técnica adicional capaz de conferir atividade inventiva à matéria pleiteada, pois
+entende-se que as características definidas em ditas reivindicações estão compreendidas pelo
+estado da técnica ou são escolhas construtivas dentre um número de possibilidades conhecidas
+
+
+                                                                                            Página 3
+                                           PI1102628-6
+
+ou de alternativas igualmente possíveis, em que a solução selecionada não resolve nenhum
+problema técnico objetivo de maneira não óbvia para um técnico versado no assunto, tendo em
+vista os ensinamentos prestados pelos documentos citados do estado da técnica, considerados
+isoladamente ou em combinação (vide referências em D1, D2, D3 e D4 indicadas acima).
+       Em resposta à solicitação de avaliação da mudança de natureza do pedido, entende-se
+que as características técnico-estruturais do objeto do presente pedido não representam uma
+nova forma ou disposição, que envolva ato inventivo e resulte em melhoria funcional no seu uso
+ou fabricação, uma vez que as possíveis diferenças de forma ou disposição observadas entre a
+matéria ora reivindicada e o estado da técnica discutido neste parecer são consideradas triviais ou
+vulgares para um técnico no assunto. Portanto, não pode ser acolhida a solicitação de mudança
+de natureza do pedido de patente de invenção para modelo de utilidade.
+
+
+
+Conclusão
+       Pelo exposto neste parecer, o presente pedido de patente de invenção não está apto a
+obter a proteção requerida.
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não
+atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+       De acordo com o Art. 212 da LPI, a depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+                                                                Publique-se o indeferimento (9.2).
+                                                               Rio de Janeiro, 26 janeiro de 2022.
+
+
+Fernanda da Rocha de Carvalho Lopes
+Pesquisador/ Mat. Nº 2343908
+DIRPA / CGPAT IV/DINEC
+Deleg. Comp. - Port. INPI/DIRPA Nº 006/18
+
+
+
+
+                                                                                          Página 4
+

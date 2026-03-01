@@ -1,0 +1,126 @@
+                                         SERVIÇO PÚBLICO FEDERAL
+                                          MINISTÉRIO DA ECONOMIA
+                              INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.º do Pedido:                       BR112014002387-5           N.º de Depósito PCT: JP2012/069661
+ Data de Depósito:                    02/08/2012
+ Prioridade Unionista:                JP 2011-168965 (02/08/2011)
+ Depositante:                         Sony Computer Entertaiment INC (JP)
+ Inventor:                            Daiki Yanagidaira, Tsuyoshi Ohasi, Tsukasa Takahashi
+ Título:                              Aparelho Elétrico, e, Circuito de Controle para uso em um Aparelho
+                                      Elétrico
+                                                                      PARECER
+
+      A Requerente recebeu notificação de Ciência de Parecer (7.1) publicada na RPI nº 2601 de
+10/11/2020. Através da petição nº 870210011101 de 02/02/2021, a mesma apresentou
+Manifestação sobre o Parecer Técnico. Para fins de continuidade do exame estão sendo
+consideradas as vias abaixo:
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas              Nº da Petição         Data
+                                                                                NPRJ 020140004314
+ Relatório Descritivo                                          1-16                                    30/01/2014
+                                                                                  Págs. 16 a 32
+                                                                                  870190138459
+ Quadro Reivindicatório                                         1-3                                    23/12/2019
+                                                                                   Págs. 7 a 9
+                                                                                NPRJ 020140004314
+ Desenhos                                                       1-3                                    30/01/2014
+                                                                                   Págs. 36 a 38
+                                                                                NPRJ 020140004314
+ Resumo                                                         1                                      30/01/2014
+                                                                                     Pág. 39
+
+                  Quadro 2 - Considerações referentes aos Artigos 10, 18, 22 e 32 da LPI
+ Artigos da LPI                                                                                Sim         Não
+ A matéria enquadra-se no Art. 10 da LPI (não se considera invenção)                                        X
+ A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                                                X
+ O pedido apresenta Unidade de Invenção (Art. 22 da LPI)                                           X
+ O pedido está de acordo com disposto no Art. 32 da LPI                                            X
+Comentários/Justificativas: ----
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                                  Página 1
+                                            BR112014002387-5
+
+                 Quadro 3 - Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                            Sim                     Não
+O relatório descritivo está de acordo com disposto no Art. 24 da LPI                        X
+O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI                      X
+Comentários/Justificativas: ----
+                            Quadro 4 - Documentos citados no parecer
+ Código                                  Documento                                                Data de publicação
+           EP2317598A1
+           Título: Battery Pack Comprising a Charge and Discharge
+    D1                                                                                                   2011-05-04
+           Switch
+           Depositante: Samsung SDI CO LTD
+
+     Quadro 5 - Análise dos Requisitos de Patenteabilidade (Art. 8º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento                              Reivindicações
+                                                         Sim                                         1-6
+           Aplicação Industrial
+                                                        Não                                          ----
+                                                         Sim                                         1-6
+                 Novidade
+                                                        Não                                          ----
+                                                         Sim                                         ----
+           Atividade Inventiva
+                                                        Não                                          1-6
+Comentários/Justificativas:
+   Na manifestação a Requerente alega que D1 não revelaria que todos os componentes
+eletrônicos da caixa de distribuição, incluindo o visor, são isolados em um módulo removível da
+caixa de distribuição, tal arranjo permitindo que a caixa de distribuição seja emersa em água ou
+lavada em uma máquina de lavar louças ou similares.
+
+   A Requerente alega ainda que, quando a bateria secundária é removida do aparelho elétrico,
+o circuito de detecção da quantidade restante da bateria emite um sinal de controle para
+notificação de ausência da bateria secundária para o circuito de controle de carga. Além disso, o
+circuito de detecção de quantidade restante da bateria, que recebe um sinal de controle para
+causar a transição para um modo de envio em resposta a uma instrução de fora, emite o sinal de
+controle para a notificação da ausência da bateria secundária (este sinal de controle é o mesmo
+mencionado anteriormente) para o circuito de controle de carregamento. Assim, o sinal de controle
+para notificação de ausência da bateria secundária também é usado como um sinal de controle
+para controlar durante a transição para o modo de envio para reduzir o consumo de energia de
+todo o aparelho elétrico no modo de envio. Portanto, na presente invenção, não é necessário
+preparar outro sinal de controle para controlar durante a transição para o modo de envio para
+reduzir o consumo de energia de todo o aparelho elétrico no modo de envio.
+
+   Entretanto, apesar das alegações da Requerente, o documento D1 descreve um sistema de
+bateria que inclui um interruptor conectado eletricamente ao microcomputador, em que o sistema
+
+
+                                                    Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12     Página 2
+                                                  BR112014002387-5
+
+de bateria é configurado para entrar no modo de envio através da operação do interruptor de
+modo (Parágrafo [0009]). O documento D1 descreve ainda que a capacidade restante das células
+da bateria pode ser verificada operando o interruptor de modo (Parágrafo [0010]). Além disso, o
+interruptor de carga e o interruptor de descarga podem ser configurados para serem desligados
+quando a bateria estiver no modo de envio (Parágrafo [0011]).
+
+Conclusão
+    Face ao exposto, conclui-se que a invenção ora pleiteada decorre de maneira evidente ou
+óbvia, para um técnico no assunto, a partir do estado da técnica, sendo desprovida de atividade
+inventiva, conforme Art. 13 da LPI.
+
+    Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que o mesmo não
+atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+    Rio de Janeiro, 28 de fevereiro de 2021.
+
+    Publique-se o indeferimento (9.2).
+
+    CAMILO BRAGA GOMES
+    Pesquisador / Mat. Nº 1547071
+    DIRPA / CGPAT III / DIFEL
+    Deleg. Comp. - Port. INPI / DIRPA Nº 022/12
+
+
+
+
+                                                        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12   Página 3
+

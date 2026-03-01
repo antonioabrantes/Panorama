@@ -1,0 +1,461 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0819828-4                N.° de Depósito PCT:US2008/012804
+ Data de Depósito:                   14/11/2008
+ Prioridade Unionista:               US 60/988.200 (15/11/2007); US 60/988.192 (15/11/2007)
+ Depositante:                        Avi Biopharma, Inc. (US)
+ Inventor:                           Christina Mary Josephine Fox, Matthew Dale Reeves, Dwight D.
+                                     Weller, Yongfu Li.
+ Título:                             Processo de síntese de oligômeros de morfolino. 
+
+                                                              PARECER
+
+
+
+          Através da petição de n° 870190100497 de 07/10/2019, a requerente apresentou
+manifestação sobre o parecer técnico negativo notificado na RPI 2531, onde discorda das
+decisões referente à clareza, unidade de invenção e atividade inventiva da matéria pleiteada.
+          Os argumentos ora apresentados pela requerente não superam os questionamentos
+feitos anteriormente com relação à clareza e atividade inventiva das reivindicações da matéria
+pleiteada no parecer (RPI 2531 de 09/07/2019), e reitera-se a opinião de que o presente pedido
+não atende aos artigos 8°, 13, 24 e 25 da LPI.
+
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+Relatório Descritivo                                     1 a 27              020110117062     16/11/2011
+Listagem de sequências em
+                                                          1a2                020100043242     14/05/2010
+formato impresso
+Listagem de sequências*                        Código de Controle            020100043242     14/05/2010
+Quadro Reivindicatório                                    1a5                020110117062     16/11/2011
+Desenhos                                                  1a2                020110117062     16/11/2011
+Resumo                                                       1               020110117062     16/11/2011
+        *Listagem de sequências em formato eletrônico referente ao código de controle
+        AC236BFF232ABE90 (Campo 1) e 0A7814B7CEAD5F78(Campo 2).
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                               PI0819828-4
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                               Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                           X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                   X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                       X
+O pedido está de acordo com disposto no art. 32 da LPI                        X
+
+
+
+
+                   Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                               Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                          X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                        X
+
+
+
+Comentários/Justificativas
+
+
+
+            As reivindicações 1 e 5 estão redigidas de maneira ampla e indefinida, haja vista que
+desejam proteger os compostos de fórmula geral (I) com uma grande variedade de substituintes
+pertencentes a diversas classes químicas, alguns dos quais não foram suficientemente descritos
+pela requerente no relatório descritivo (Artigos 24 e 25 da lei 9279/1996).
+            Alguns dos compostos que se deseja proteger são tão diferentes dos compostos
+concretizados e testados no presente pedido que não há sequer como inferir que eles tenham as
+mesmas propriedades físico-químicas.
+
+            Desta forma, somente a matéria revelada pelo requerente nos exemplos descritos nas
+páginas 17 a 27 do relatório descritivo será considerada para análise. A saber: compostos de
+fórmula geral (I) e seu processo de obtenção onde R 1 =CH(CH3)3 ; R2= CH2Ar; Y= OH, OTMS; R3
+= tritil.
+            Os termos alquila inferior usados na definição da matéria pleiteada nas reivindicações 1,
+6, 9 e 12 são genéricos, impossibilitando a definição clara e precisa da matéria objeto da proteção,
+o que contraria o disposto no artigo 25 da Lei nº 9.279/96 (LPI) e na Instrução Normativa
+030/2013, 13(III).
+
+
+
+
+                                                                                              Página 2
+                                                     PI0819828-4
+
+
+       A requerente em sua manifestação declara:
+
+
+.De acordo com o INPI, as reivindicações 1 e 5 estariam redigidas de maneira ampla e indefinida, com uma grande
+
+                variedade de substituintes pertencentes a diversas classes químicas, alguns dos quais não teriam sido
+
+           suficientemente descritos no relatório descritivo, em desacordo com os Artigos 24 e 25 da LPI. A Requerente
+
+respeitosamente discorda. As variáveis R1 e R2 especificam diferentes substituintes ligados ao grupo acila adjacente.
+
+     O exemplo 1 do relatório descritivo descreve o método para ligar sinteticamente esses grupos acila às diferentes
+
+ posições do par de bases de guanina. Portanto, a ampla variedade de substituintes alegada pelo INPI nada mais é
+
+    do que a seleção de diferentes cloretos ácidos, que estão disponíveis comercial e facilmente. Do mesmo modo, o
+
+          Exemplo 1 e os Exemplos 2 a 5 do relatório descritivo revelam um método de preparação de compostos com
+
+       diferentes substituintes R3 e Y, respectivamente. Mais uma vez, a ampla variedade é baseada na seleção de
+
+       materiais de partida prontamente disponíveis. Além disso, um técnico no assunto entenderia que esses grupos
+
+          compartilham polaridade e propriedades eletroquímicas semelhantes. Portanto, a Requerente entende que as
+
+reivindicações não são excessivamente amplas, pelo que é respeitosamente solicitado que o INPI reconsidere e retire
+
+                                                                                                      essa objeção...
+
+
+
+
+          O relatório deverá descrever clara e suficientemente o objeto, de modo a possibilitar sua
+realização por técnico no assunto e indicar, quando for o caso, a melhor forma de execução.
+
+          Processos de síntese são regidos por mecanismos termodinâmicos e cinético, que são
+regidos por temperatura, estrutura conformacional, energias, forma cristalina, solvente entre
+outros.
+
+          Desta forma, as reivindicações deverão ser fundamentadas no relatório descritivo,
+caracterizando as particularidades do pedido e definindo, de modo claro e preciso, a matéria
+objeto da proteção.
+
+          O requisito da suficiência descritiva, consolidado no Direito Internacional pelo art. 29 de
+TRIPs, é de fundamental importância para o sistema patentário, dado que é por meio da
+descrição suficiente que o inventor prova possuir a informação técnica que alega ser inventiva.
+
+          É a suficiência descritiva, aliada ao requisito de ser divulgada a melhor forma de
+execução, que justifica o direito de exclusividade, vez que torna acessível ao público a
+informação que se alega ser inventiva.
+
+
+
+
+                                                                                                             Página 3
+                                                PI0819828-4
+
+
+                            Quadro 4  Documentos citados no parecer
+
+ Código                                   Documento                                     Data de publicação
+    D1                                    US 5185444                                        09/02/1993
+    D2                               US2007/0135333 A1                                      14/06/2007
+    D3         T. V. Abranova, et all, Tetrahedron Letters, 2004 (45), 4361-4364.             2004
+    D4       S. S. Jones, et all, Tetrahedron Letters, 1981 (22): 47, 4755-4.                 1981
+    D5       F. Himmelsbachh, Tetrahedron, 1981 (40): 1, 59-72.                               1981
+    D6       B.L. Gaffney, R.A. Jones,Tetrahedron Letters, 1982 (23): 22, 2253-               1982
+             2256.
+
+    D7       B.L. Gaffney, R.A. Jones, Tetrahedron Letters, 1982 (23): 22, 2257-              1982
+             2260.
+
+    D8       T. Kamimura, M. Tsuchiya, K. Koura, M.Sekine, T.Hata. Tetrahedron                1983
+             Letters, 1983 (24): 27, 2775-2778.
+
+             B. L. Geller, J. D. Deere,D. A. Stein, A. D. Kroeker,H. M. Moulton,P. L.         2003
+    D9       Iversen . Antimicrobial Agents and Chemotherapy Sep 2003, 47
+             (10) 3233-323.
+
+
+
+
+         O documento D1 descreve polímeros morfolínicos.
+
+
+
+         O documento D2 descreve um método para o aumento da cadeia de oligonucleotídeo para
+a antisense, modificações estruturais e sua atividade antibacteriana.
+
+
+
+         O documento D3 descreve a síntese de blocos monoméricos para a síntese de
+oligonucleotídeos.
+
+
+         O documento D4 descreve a proteção dos resíduos guanidínicos durante a síntese
+oligomérica.
+
+
+         O documento D5 descreve a síntese de blocos monoméricos para a síntese de
+oligonucleotídeos.
+
+
+         O documento D6 descreve a síntese de derivados nucleosídicos deoxi-guanosínicos.
+
+
+
+         O documento D7 descreve a proteção de deoxiguanosina durante a síntese
+oligonuleotídeos.
+
+
+
+                                                                                                  Página 4
+                                             PI0819828-4
+
+
+       O documento D8 descreve a proteção de resíduos de guanina por grupos de proteção
+difenilcarbonílicos e propionílicos
+
+
+
+       O documento D9 descreve a inibição de gene expressão in Escherichia coli por antisense
+oligomeros morfolínicos fosforodiamidatos.
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade              Cumprimento             Reivindicações
+                                                    Sim                     1 a 30
+           Aplicação Industrial
+                                                    Não                            -
+                                                    Sim                     1 a 30
+                 Novidade
+                                                    Não                        -
+                                                    Sim                            -
+           Atividade Inventiva
+                                                    Não                     1 a 30
+
+
+
+
+Comentários/Justificativas
+
+
+
+
+       A requerente nas reivindicações 1 a 30, pleiteia composto morfolínico de fórmula geral I,
+e o processo de sintetizar um oligômero de morfolina, ao reagir a subunidade de morfolina
+suportada em fase sólida com uma outra unidade morfolinica N-triatil e um grupo
+fosforodiamidato. Seguido da N-desproteção com uma amina heterocíclica. E repetir as etapas 1
+ou mais vezes.
+
+       Conforme descrito no quadro 3 em decorrência da falta de suficiência descritiva e
+clareza, somente a matéria revelada pelo requerente no relatório descritivo será considerada
+para análise neste parecer. A saber: composto morfolínico de fórmula 1 onde R 1 =CH(CH3)3 ; R2=
+CH2Ar; Y= OH, OTMS; R3 = tritil. E o processo de síntese de um oligômero de morfolinico a partir
+de compostos de fórmula 1.
+
+
+
+
+                                                                                         Página 5
+                                             PI0819828-4
+
+
+       Na manifestação apresentada pela requerente na petição 870190100497 de 07/10/2019,
+a requerente declara que:
+
+
+
+         Em contraste, D1 e D2 revelam subunidades morfolino em que as posições N2 e O6 da guanina
+ estão completamente desprotegidas. Nem D1 nem D2 sugerem proteger a guanina em qualquer posição,
+ muito menos nas posições N2 e O6, e muito menos proteger essas posições com os grupos de proteção
+                                                           específicos especificados na reivindicação 1.
+
+
+
+
+ .Dito de outra forma, a combinação de referências da técnica anterior motivaria um técnico no assunto
+     a produzir uma subunidade morfolino compreendendo uma guanina duplamente protegida, em que a
+   posição O6 é protegida por uma alquil benzeno substituído por um grupo nitro, e não pela alquilbenzila
+                                                                        das reivindicações sob exame...
+
+
+
+
+       O estado da técnica já revela o uso em biologia molecular, bioquímica e outras áreas
+devido ao baixo custo dos compostos parentais entre eles derivados O-6 aril, alquil e N-2 acil,
+alquil de guanidina e uma ampla variedade de análogos de nucleosídeos e oligonucleotídeos
+derivados da morfolina obtidos a partir de ribonucleosídeos e oligômeros naturais.
+
+       Os documentos D1a D9 já revelava que um dos problemas maiores na síntese de
+oligonucleotídeos são as reações secundárias dos resíduos guanidinicos, que aumentam com o
+aumento da cadeia oligonucleotídica, pelo aumento da possibilidade da exposição dos resíduos
+às reações de sulfonilação e fosforilação favorecendo assim a um processo degradativo.
+
+       Segundo o estado da técnica, uma vez que as extremidades O-6 e N-2 são passíveis de
+sulfonilação por condensação, e fosforilação (ataque eletrofílico), a proteção dessas
+extremidades durante uma síntese oligonucleotítica para suprimir as reações colaterais que são
+presumivelmente iniciadas por ataque eletrofílico durante a fosforilação seria óbvia a um técnico
+no assunto.
+
+       No entanto, para ser útil, o novo sistema de proteção grupos devem ser capazes de
+suportar condições levemente básicas e nucleófilos relativamente fracos, como por exemplo a
+morfolina, e devem ser facilmente removíveis no final da síntese de oligonucleotídeos.
+
+       Segundo o estado da técnica, as propriedades anticarcinogênicas são dependentes da
+natureza da substituição em O-6, uma vez que as propriedades de emparelhamento de bases
+da 6-O-guanina mostraram-se semelhantes às da adenina, codificando incorretamente a
+incorporação de uridina durante a transcrição.
+
+
+
+
+                                                                                                 Página 6
+                                            PI0819828-4
+
+
+                                                                          D8
+                                                       D4
+
+                                                               O-Alquil   D6, D7
+                                                     D1, D3
+
+                                                                               D5
+
+
+
+
+  D7        D6
+                             D5                                                 D4            D5
+
+
+                                                                                           D6, D7
+                                                                               D8
+
+
+
+
+                        D4
+ D8          D1
+
+
+
+  Figura 1: Similaridades entre a matéria pleiteada no pedido PI0819828-4 e os documentos D1 a D9.
+
+
+
+       As variações observadas entre o revelado no estado da técnica e a matéria pleiteada
+pela requerente são explicadas à luz dos documentos D1 a D9, como uma simples otimização
+isostérica e/ou bioisostérica clássica e não clássica, uma vez que o mesmo alvo biológico foi
+influenciado como antagonistas
+
+        A aplicação do bioisosterismo seria óbvio a um técnico no assunto, que desejasse
+modular as propriedades farmacodinâmicas visando sua otimização.
+
+
+
+
+                  Na manifestação apresentada pela requerente na petição 870190100497 de
+07/10/2019, a requerente declara que:
+
+
+
+ Além disso, os compostos reivindicados exibem propriedades de purificação superiores em comparação
+ com os compostos nas referências citadas D1 a D9. As subunidades de morfolino desprotegidas com um
+          par de bases de guanina, como as encontradas em D1, D2 e D3, não puderam ser isoladas em
+quantidades maiores que 5%, tornando-as uma má escolha para reações em larga escala (vide o relatório
+                                          descritivo do presente pedido, página 2, primeiro parágrafo) .
+
+
+
+
+                                                                                                    Página 7
+                                            PI0819828-4
+
+
+          Os rendimentos dos compostos de fórmula geral 1, assim como dos oligonucleotídeos
+sintetizados e isolados no estado da técnica foram superiores aos declarados pela requerente.
+A cristalização dos compostos em meio básico dos compostos obtidos em D3 apresentou um
+rendimento entre 25 a 40 % devidamente caracterizado. Enquanto o documento D4 apresentou
+um rendimento global de 0,28 %.
+
+          O documento D5, por sua vez apresentou um rendimento entre 86 a 90% e 0,5% de
+rendimento global dos compostos isolados e caracterizados.
+
+          Os compostos O-6 alquilícos foram obtidos no documento D6 com um rendimento entre
+76 a 90% após purificação cromatográfica.
+
+          O documento D7, apresentou um rendimento entre 65 a 81 % para os compostos
+sintetizados.
+
+          Os rendimentos globais apresentados pela requerente na produção dos compostos de
+fórmula geral 1 efetivamente sintetizados e descrito no relatório descritivo foi de 0,5% similar ao
+revelado no estado da técnica para compostos similares ao pleiteado.
+
+          Sendo assim, as diferenças apontadas entre o pedido e o estado da técnica, se resume a
+e otimização de uma matéria já descrito e fundamentado no estado da técnica, uma vez que o
+requerente não apresentou nenhum efeito novo ou inesperado em relação ao estado da técnica
+a matéria pleiteada é considerada isenta de atividade inventiva, contrariando os artigos 8° e 13
+da LPI.
+
+
+
+
+                                                                                           Página 8
+                                             PI0819828-4
+
+
+Conclusão
+
+
+
+          Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -     não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -     não apresenta suficiência descritiva (Art. 24 da LPI)
+
+      -     as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+            descritivo (Art. 25 da LPI)
+
+
+
+De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da data
+de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                    Publique-se o indeferimento (9.2).
+
+
+
+                                                          Rio de Janeiro, 19 de novembro de 2019.
+
+
+
+
+Glaucia Barbosa Candido Alves Slana
+
+Pesquisador/ Mat. Nº 1731552
+
+DIRPA / CGPAT I/DIFAR-I
+
+
+
+
+De acordo com o parecer acima, indefiro o presente pedido como Patente de Invenção.
+
+                                                                     Publique-se o indeferimento (9.2).
+
+
+
+
+Alexandre Godinho Silva
+Chefe de Divisão/ Mat. Nº 1568052
+DIRPA / CGPAT I/DIFAR-I
+Del. Comp. - Port. INPI/PR Nº1212/18
+
+
+
+
+                                                                                              Página 9
+

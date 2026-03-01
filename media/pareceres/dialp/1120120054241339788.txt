@@ -1,0 +1,231 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR112012005424-4           N.° de Depósito PCT: BR2010/000289
+ Data de Depósito:                     09/09/2010
+ Prioridade Unionista:                 US 61/240811 (09/09/2009)
+ Depositante:                          Braskem S.A. (BRBA) , Unicamp - Universidade Estadual de
+                                       Campinas (BRSP)
+ Inventor:                             Gonçalo Amarante Guimarães Pereira, Johana Rincones Perez,
+                                       Marcelo Falsarella Carazzolle, Ane Fernanda Beraldi Zeidler, Lucas
+                                       Pederson Parizzi, Luige Armando Llerena Calderón, Maria Carolina de
+                                       Barros Grassi, Inês Lunardi, Luciana Gonzaga de Oliveira, José
+                                       Augusto Rosário Rodrigues, Paulo José Samenho Moran, Antonio Luiz
+                                       Ribeiro de Castro Morschbacker, Luiza Roza, Márcio Henrique dos
+                                       Santos Andrade
+ Título:                               Método para produzir n-propanol, e, microorganismo 
+
+                                                              PARECER
+
+
+           Em 14/10/2019, por meio da petição 870190102963, o Depositante apresentou
+modificações no pedido em resposta a parecer de ciência emitido pelo INPI, código de despacho
+7.1, notificado na RPI 2532 de 16/07/2019. Não foram apresentadas argumentações.
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                           X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)            X
+
+O pedido refere-se a Sequências Biológicas                                                             X
+
+Comentários/Justificativas
+
+ANVISA: O pedido não foi encaminhado à ANVISA para obtenção da anuência prévia prevista
+no art. 229-C da LPI por não conter matéria estipulada no referido dispositivo legal.
+
+PATRIMÔNIO GENÉTICO:                         Em 14/10/2019, por meio da petição 870190102963, o Depositante
+apresentou declaração negativa de acesso ao patrimônio genético nacional em resposta a
+parecer de ciência emitido pelo INPI, código de despacho 7.1, notificado na RPI 2532 de
+16/07/2019.
+
+LISTAGEM DE SEQUÊNCIAS: Em exame anterior, foram apontadas irregularidades na listagem
+de sequências apresentadas. Em 14/10/2019, por meio da petição 870190102963, o Depositante
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                                Página 1
+                                                        BR112012005424-4
+
+
+apresentou nova listagem de sequências, onde as referidas irregularidades foram sanadas.
+Entretanto, mediante exame formal, verificou-se que a nova listagem de sequências apresenta
+caracteres estranhos.
+
+
+                                    Quadro 1  Páginas do pedido examinadas
+            Elemento                                   Páginas         n.o da Petição         Data
+Relatório Descritivo                                    1 a 55         020120020634         09/03/2012
+Listagem de sequências em
+                                                         ----               ----              ----
+formato impresso
+Listagem de sequências*                       Código de Controle       870190102963         14/10/2019
+Quadro Reivindicatório                                   1a4           870190102963         14/10/2019
+Desenhos                                                1 a 27         020120020634         09/03/2012
+Resumo                                                      1          020120020634         09/03/2012
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+     4268D113040BCDA9 (Campo 1) e 07F2B60B24AA53BD (Campo 2).
+
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                      Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                              X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                      X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                 X
+O pedido está de acordo com disposto no art. 32 da LPI                                  X
+Comentários/Justificativas
+       Em parecer anterior, foram apontadas irregularidades no que diz respeito ao
+cumprimento do art. 10 da LPI. A emenda ao quadro reivindicatório apresentada em
+manifestação sana as irregularidades apontadas.
+
+
+
+
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                      Sim         Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                    X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                           X
+Comentários/Justificativas
+       Em parecer anterior, foram apontadas irregularidades no que diz respeito ao
+cumprimento do art. 25 da LPI sobre clareza e fundamentação das reivindicações. A emenda ao
+quadro reivindicatório apresentada em manifestação não sanam as irregularidades apontadas.
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                              Página 2
+                                                        BR112012005424-4
+
+Persistem as seguintes irregularidades:
+
+- Reivindicação emendada 1: Depreendeu-se que é pleiteado método o qual emprega um
+microrganismo geneticamente modificado. Conforme apontado anteriormente, tal microrganismo
+é definido em função de termos não claros os quais fazem referências a proteínas e/ou genes.
+De acordo com o item 6.1 das Diretrizes de Exame de Pedidos de Patente na Área de
+Biotecnologia, instituídas pela instrução normativa 118/2020, proteínas e/ou genes devem ser
+adequadamente definidos em função de suas sequências de aminoácidos ou nucleotídeos
+mencionadas por SEQ ID apresentada na listagem de sequências. A reivindicação 1 foi
+reformulada de forma a especificar a espécie do microrganismo e equivalentes de redução
+empregados, o que claramente não atende ao disposto pelas referidas diretrizes. Dessa forma, a
+reivindicação emendada 1 segue incorrendo em falta de clareza.
+
+- Reivindicações emendadas 2 a 10: Pelas relações de dependência em relação à reivindicação
+1, a irregularidade quanto à falta de clareza se estende às reivindicações 2 a 10, se aplicando o
+mesmo discutido acima. Cabe ressaltar que, em se tratando de método no qual é fundamental o
+emprego de microrganismo geneticamente modificado, não é adequada a definição de
+sequências biológicas determinantes de tal microrganismo mediante emprego do termo aberto
+compreender (reivindicações emendadas 3 a 6). Como já discutido anteriormente, não é
+adequada a menção de sequências biológica em função de atividade enzimática (reivindicação
+9). Conforme apontado anteriormente, as reivindicações devem observar o item 6 e subitens das
+Diretrizes de Exame de Pedidos de Patente na Área de Biotecnologia.
+
+- Reivindicação emendada 11: Assim como apontado para a reivindicação correspondente no
+quadro reivindicatório anterior examinado, é pleiteado microrganismo o qual entende-se tratar de
+microrganismo geneticamente modificado. A reivindicação foi reformulada para incluir os itens
+a a e, os quais tratam de modificações genéticas as quais o microrganismo pode apresentar,
+entretanto, se referem às sequências biológicas em termos de função enzimática e vias
+enzimáticas (as quais se tratam de conjuntos não definidos de enzimas). Conforme os itens 5, 6
+e seus subitens das Diretrizes de Exame de Pedidos de Patente na Área de Biotecnologia,
+instituídas pela instrução normativa 118/2020, tais modificações não são adequadas para
+definição do microrganismo pleiteado. Cabe ainda observar que os termos emendados poderiam
+ser interpretados como acréscimo de matéria, já que não é claro se tais termos constam ou não
+do quadro reivindicatório válido quando do pedido de exame.
+
+- Reivindicações emendadas 1 a 11: Conforme apontado em parecer anterior para as
+reivindicações correspondentes, o relatório descritivo apresenta apenas duas modalidades de
+microrganismo da espécie Propionibacterium acidipropionici, no qual uma álcool desidrogenase
+oriunda de Clostrídium carboxidivorans ou oriunda de Clostrídium acetobutilicum foi expressa.
+Entretanto, a amplitude da matéria das reivindicações indicadas englobará enzimas para as
+quais não são fornecidas informações que permitam ao técnico no assunto assumir que sejam
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                      Página 3
+                                                          BR112012005424-4
+
+efetivas na produção de n-propanol. Adicionalmente, cabe observar que é revelada apenas a
+produção de n-propanol por uma cepa de referência, a qual depreende-se tratar de cepa
+selvagem e, portanto, não modificada. Dessa forma, a matéria das reivindicações indicadas
+seguem sem fundamentação no relatório descritivo.
+
+
+
+
+                                    Quadro 4  Documentos citados no parecer
+
+ Código                                                 Documento                                 Data de publicação
+   ----        ----                                                                                         ----
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                      Cumprimento           Reivindicações
+                                                                            Sim                    1 a 15
+              Aplicação Industrial
+                                                                           Não                      ----
+                                                                            Sim                    1 a 15
+                      Novidade
+                                                                           Não                      ----
+
+                                                                            Sim                     ----
+              Atividade Inventiva
+                                                                           Não                     1 a 15
+Comentários/Justificativas
+
+          Em parecer anterior, foi apontado que a matéria pleiteada, embora apresentasse
+potencial aplicação industrial e atendesse parcialmente ao requisito de novidade, não satisfazia
+o requisito de atividade inventiva diante das anterioridades apontadas. As emendas realizadas
+não sanam as irregularidades então apontadas. Não tendo sido apresentadas argumentações a
+serem consideradas, mantém-se as objeções formuladas em parecer anterior.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -      não atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI)
+
+      -      as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+             descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                                      Publique-se o indeferimento (9.2).
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                          Página 4
+                                                      BR112012005424-4
+
+
+
+
+                                                                    Rio de Janeiro, 16 de dezembro de 2020.
+
+
+
+
+Bruno Leonardo Bozaquel Morais
+Pesquisador/ Mat. Nº 1322859
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+013/19
+
+
+
+
+      Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                 Página 5
+

@@ -1,0 +1,520 @@
+                                         SERVIÇO PÚBLICO FEDERAL
+                                          MINISTÉRIO DA ECONOMIA
+                              INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        PI1007620-4               N.° de Depósito PCT: IB10/052069
+ Data de Depósito:                     11/05/2010
+ Prioridade Unionista:                 EP 09159957.1 (12/05/2009)
+ Depositante:                          THE UNIVERSITY COURT OF THE UNIVERSITY OF GLASGOW
+                                       (GB) , KONINKLIJKE PHILIPS N.V. (NL)
+ Inventor:                             RALF HOFFMANN, MILES D. HOUSLAY, DAVID J.P. HENDERSON
+ Título:                               Fosdiesterase 9a, composição método, método de aquisição de dados
+                                       e imunoensaio para diagnóstico, detecção, monitoramento ou
+                                       pronóstico do câncer de próstata, ou para diagnóstico, detecção
+                                       monitoramento ou pronóstico da progressão do câncer de próstata.
+
+                                                              PARECER
+           O presente pedido refere-se a fosdiesterase 9A (PDE9A) para uso como marcador para o
+câncer de próstata, e ao uso de PDE9A como marcador para diagnosticar, detectar, monitorar ou
+prognosticar câncer de próstata ou a progressão do câncer de próstata.
+
+
+
+          Quanto à exigência preliminar (RPI nº 2578, de 02/06/2020)  Artigo 35 da LPI:
+
+
+           De acordo com o artigo 35 da LPI, incisos I e IV, da Lei nº 9.279, de 1996 (LPI), em
+conformidade com a Resolução INPI/PR N° 241/19, de 03/07/2019, o INPI emitiu parecer de
+Exigência Preliminar, com despacho 6.21, cuja notificação foi publicada pela RPI nº 2578, de
+02/06/2020.
+
+           Por meio da petição nº 870200108375, de 27/08/2020, a depositante apresentou
+manifestação a referida exigência juntando uma nova proposta de quadro reivindicatório,
+emendado conforme a patente europeia EP 2430189 (B1), novas páginas 1 do relatório
+descritivo e resumo, assim como uma nova cópia da listagem de sequências. Cabe ressaltar que
+não foram apresentadas argumentações quanto ao estado da técnica citado no relatório de
+busca.
+
+           O presente exame foi realizado sob a orientação da Norma de Execução SEI nº
+7/2019/DIRPA/PR (páginas 1-19), que estabelece os procedimentos de exame após exigência
+preliminar (6.21  Resolução INPI/PR nº 241/2019).
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                      Página 1
+                                                               PI1007620-4
+
+       Quanto ao parecer técnico anterior (RPI nº 2599, de 27/10/2020):
+
+
+       No parecer técnico anterior, o presente pedido foi objetado por contrariar o disposto nos
+artigos 8º, 11 e 13, 10 (IX), 10 (VIII), 22, 24, 25 e 32 da LPI.
+
+       Por meio da petição nº 870210004764, de 14/01/2021, a depositante apresentou uma
+nova proposta de quadro reivindicatório, novas páginas do relatório descritivo e resumo, uma
+nova cópia da listagem de sequências assim como alguns argumentos em defesa do mérito da
+matéria pleiteada.
+
+  Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                              Sim    Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                  X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)           X
+
+O pedido refere-se a Sequências Biológicas                                                            X
+
+Comentários/Justificativas
+       Quanto ao encaminhamento à ANVISA (art. 229-C da LPI, incluído pela Lei
+        10.196/2001):
+
+       Para fins de atendimento do artigo 229-C da Lei n° 10196/2001, que modificou a Lei n°
+9.279/96 (LPI), e na forma estabelecida pela Portaria Interministerial n° 1065 de 24/05/2012, que
+altera o fluxo de análise para pedidos de patente de produtos e processos farmacêuticos, o
+presente pedido foi encaminhado à ANVISA, com notificação na RPI nº 2526, de 04/06/2019,
+para as providências cabíveis.
+
+       No parecer técnico nº 169/2020/COOPI/GGMED/ANVISA, de 22/04/2020, foi concluído
+que a matéria do presente pedido não está entre aquelas proibidas no país, de acordo com a
+Lista E (Lista de plantas proscritas que podem originar substâncias entorpecentes e/ou
+psicotrópicas) e a Lista F (Lista das substâncias de uso proscrito no Brasil), da Portaria SVS/MS
+n 344, de 12 de maio de 1998, e suas atualizações, de forma que foi sugerida a anuência prévia.
+Assim, por meio do ofício nº 166/2020/COOPI/GGMED/ANVISA, de 04/05/2020, foi solicitado a
+juntada da documentação comprobatória da anuência do presente pedido aos autos do
+processo. Em 19/05/2020, o INPI publicou a notificação da referida anuência na RPI nº 2576.
+
+       Quanto à declaração de acesso ao patrimônio genético nacional:
+
+
+       A depositante voluntariamente apresentou por meio da petição n° 018110043312, de
+09/11/2011, a declaração negativa de acesso aos recursos genéticos nacionais para
+cumprimento da Resolução INPI nº. 207/09, substituída Resolução INPI PR nº 69/2013, na qual
+se pronunciou como segue: "Declaro que o objeto do presente pedido de patente de invenção
+não foi obtido em decorrência de acesso à amostra de componente do patrimônio genético
+nacional, realizado a partir de 30 de junho de 2000..
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                      Página 2
+                                                               PI1007620-4
+
+        O INPI, na RPI nº 2466, de 10/04/2018, emitiu uma exigência formal (6.6.1) para a
+comprovação do cadastramento e/ou autorização de acesso ao Patrimônio Genético Nacional
+e/ou Conhecimento Tradicional Associado, quando pertinente, no prazo de 60 dias a contar da
+publicação na Revista Eletrônica da Propriedade Industrial (RPI). Cabe ressaltar que a
+depositante não apresentou resposta à exigência supracitada. Considerando que a referida
+exigência foi indevida, por economia processual, a documentação apresentada na petição n°
+018110043312, de 09/11/2011, foi aproveitada.
+
+
+
+       Quanto à Listagem de Sequências e apresentação eletrônica  Resolução nº 187, de
+        27/04/2017:
+
+        A depositante apresentou voluntariamente por meio da petição n° 018110043312, de
+09/11/2011, a listagem de sequências para cumprimento da Resolução INPI PR nº 228/09,
+substituída pela Resolução INPI PR nº 187/2017.
+
+        Por meio da petição nº 870200108375, de 27/08/2020, foi apresentada uma nova cópia
+da listagem de sequências nos moldes da Resolução INPI PR nº 228/09, substituída pela
+Resolução INPI PR nº 187/2017.
+
+        Por meio da petição nº nº 870210004764, de 14/01/2021, a depositante apresentou uma
+nova cópia da listagem de sequências. Contudo, no exame formal da referida listagem foi
+identificado que no campo 110, o nome de um dos depositantes não confere exatamente com o
+que consta na petição.
+
+                                     Quadro 1  Páginas do pedido examinadas
+             Elemento                                   Páginas              n.o da Petição     Data
+Relatório Descritivo                                      1-150              870210004764     14/01/2021
+Listagem de sequências em
+                                                            ---                    ---            ---
+formato impresso
+Listagem de sequências*                        Código de Controle            870210004764     14/01/2021
+Quadro Reivindicatório                                     1-8               018110043612     09/11/2011
+Desenhos                                                  1-13               018110043612     09/11/2011
+Resumo                                                     1-2               870210004764     14/01/2021
+       *Listagem de sequências em formato eletrônico referente ao código de controle
+       CAC5C7002E96F495 (Campo 1) e 5CCD60B5D15DA42F (Campo 2).
+
+   ** Para pedidos que incidam no artigo 32 da LPI (vide Quadro 2), o Quadro 1 deve ser
+preenchido com os dados do Quadro Reivindicatório válido, cf denido na Resolução PR
+n° 93/2013 (item 5.2.25.1 da NE nº7/2019).
+
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                Página 3
+                                                              PI1007620-4
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                              Sim      Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)          X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                            X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                X
+O pedido está de acordo com disposto no art. 32 da LPI                                 X
+Comentários/Justificativas
+      Quanto ao artigo 32 da LPI:
+
+       No parecer técnico anterior, proposta de quadro reivindicatório (QR; nº 870200108375,
+de 27/08/2020) foi recusada em sua totalidade por infringir o artigo 32 da LPI (o item 2.5 da
+Resolução INPI PR nº 093/2013). Isso porque, o escopo pleiteado pelas antigas reivindicações 4
+e 18 não está contemplado no quadro reivindicatório válido (petição nº 018110043312,
+09/11/2011). Neste sentido, foi sinalizado que para fins de exame técnico, o quadro
+reivindicatório válido era o apresentado na petição nº 018110043312, 09/11/2011.
+
+       Após a avaliação da nova proposta de quadro reivindicatório (petição nº 870210004764,
+de 14/11/2020), verifica-se que a reivindicação 18 recusada foi excluída. Contudo, a
+reivindicação 4 foi mantida na proposta de quadro reivindicatório ora em análise. Portanto, a
+nova proposta de quadro reivindicatório continua contrariando o disposto no artigo 32 da LPI.
+Cabe ressaltar que nenhum argumento foi apresentado para fundamentar a manutenção do
+escopo recusado na nova proposta de quadro reivindicatório.
+
+       Sendo assim, conforme o item 2.5 das Diretrizes sobre a aplicabilidade do disposto no
+artigo 32 da LPI nos pedidos de patentes, no âmbito do INPI, publicada na Resolução INPI PR
+nº 093/2013, Caso o Requerente, em sua manifestação ao parecer de 7.1, persista no QR
+emendado (não válido por incidir o disposto no artigo 32 da LPI) e os argumentos por ele
+(Requerente) apresentados não forem considerados pertinentes pelo examinador, o
+pedido de patente deverá ser indeferido com base no artigo 32 da LPI.
+
+       Conforme mencionado no parecer técnico anterior, tendo em vista o disposto nos itens
+5.14 e 5.2.25.5 da NE nº 7/2019, no que couber, por economia processual serão apontadas as
+irregularidades identificadas na matéria da nova proposta de quadro reivindicatório ora
+recusada. Neste sentido, as objeções apresentadas valem para os dois quadros avaliados,
+sendo dado destaque apenas quando necessário.
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                    Página 4
+                                                              PI1007620-4
+
+      Quanto ao artigo 22 da LPI:
+
+       No parecer técnico anterior foi apontado que os quadros reivindicatórios (válido e
+recusado) pleiteavam matérias que não compartilhavam do mesmo conceito inventivo e, portanto,
+contrariam o disposto no artigo 22 da LPI.
+
+       Após a análise da nova proposta de quadro reivindicatório, considera-se que a exclusão
+das antigas reivindicações 16 e 17 restringiu o escopo pleiteado ao GRUPO I anteriormente
+identificado. Portanto, a nova proposta de quadro reivindicatório está de acordo com o disposto no
+artigo 22 da LPI. Contudo, tendo em vista a recusa da nova proposta de quadro reivindicatório por
+contrariar o artigo 32 da LPI, ratifica-se que o quadro reivindicatório válido contraria o disposto no
+artigo 22 da LPI.
+
+
+
+      Quanto ao artigo 10 da LPI:
+
+                  - Quanto ao quadro reivindicatório válido:
+
+       As reivindicações 1, 2, 4, 19, 20, 21-24 incluem matéria que não é considerada invenção
+conforme o disposto no artigo 10 (IX) da LPI, portanto, não podem ser aceitas.
+
+
+
+                  - Quanto à nova proposta de quadro reivindicatório ora recusada:
+
+       A atual reivindicação 1 refere-se a uma composição que compreende uma molécula de
+ácido nucleico capaz de se ligar especificamente a um transcrito de PDE9A ou um derivado deste
+e /ou uma molécula de peptídeo capaz de se ligar especificamente a uma proteína PDE9A. A
+molécula é uma complementar a sequência de DNA representada nas SEQ ID N os 1 a 20 ou que
+liga as sequências estabelecidas nas SEQ ID Nos 21 a 40. Tendo em vista que nenhum outro
+componente da composição foi definido, conforme o item 4.2.1.1.1 da Instrução Normativa (IN)
+INPI PR nº 118/2020 - Diretrizes de Exame de Pedidos de Patente na Área de Biotecnologia:
+Composições contendo produto biológico natural: Uma reivindicação de composição cuja única
+característica seja a presença de um determinado produto confere proteção também para esse
+produto em si. Logo, a referida reivindicação 1, tal como pleiteada, contraria o disposto no artigo
+10 (IX) da LPI.
+
+       A atual reivindicação inclui em seu escopo de proteção uma composição compreendendo
+apenas a SEQ ID NO: 45 ou SEQ ID NO:46. Logo, uma composição caracterizada por conter
+apenas um produto que não é considerado invenção. Portanto, a referida reivindicação inclui
+matéria que contraria o disposto no artigo 10 (IX) da LPI.
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                         Página 5
+                                                              PI1007620-4
+
+
+                 Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                                           X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                                         X
+Comentários/Justificativas
+       Tendo em vista que o pedido continua não estando de acordo com o artigo 32 da LPI,
+reitera-se todas as objeções formuladas no parecer técnico anterior para o quadro válido e
+proposta de quadro reivindicatório apresentada em resposta a Exigência Preliminar (6.21).
+       No que se refere a nova proposta de quadro reivindicatório, o presente exame não está
+obrigado a tecer comentários quanto aos artigos 24 e 25 da LPI, conforme a NE nº7/2019, item
+5.2.25.3. Contudo, por economia processual, foi aproveitada a matéria patenteável contida na
+nova proposta de quadro reivindicatório recusada como subsídio ao exame técnico, de acordo
+com o artigo 5º, §4º da Resolução Nº 241/2019.
+
+
+      Sem prejuízo do exposto no Quadro 2, a atual reivindicação 1 é extremamente ampla e
+       imprecisa. Na referida reivindicação está definido que a molécula de ácido nucleico que é
+       capaz de se ligar a um transcrito de PDE é complementar à sequência de DNA
+       representada nas SEQ ID Nos 1 a 20 e tendo um comprimento entre 8 e 60 nucleotídeos.
+       Primeiramente, a expressão molécula de ácido nucleico complementar não pode ser
+       aceita, pois gera falta de clareza e imprecisão à matéria pleiteada. Uma vez que não está
+       definido se tal complementaridade é global, parcial ou em qual porção é observada e,
+       ainda em quais locais da sequência de nucleotídeos podem ocorrer substituições, a
+       caracterização das sequências abrangidas é imprecisa já que abrange inúmeras
+       sequências diferentes contendo de 8 a 60 nucleotídeos, inclusive, sequências não
+       suportadas pelo relatório descritivo ou que não preenchem                                     os requisitos de
+       patenteabilidade. Nesse sentido, a mera definição de que escopo reivindicado inclui
+       sequências complementares gera falta de clareza e precisão e acaba por compreender
+       sequências que fogem ao escopo da matéria revelada. Do mesmo modo, definir as
+       moléculas de peptídeos inclusas no escopo pleiteado apenas por serem capazes de se
+       ligar a proteína PDE9A descritas nas SEQ ID Nos 21 a 40 inviabiliza o entendimento de
+       todo escopo pleiteado apenas com a leitura da reivindicação. Cabe ressaltar que para fins
+       de     clareza,        conforme          orientado         no   item   6.1   da   IN   INPI   PR   nº   118/2020,
+       polinucleotídeos/ácido nucleico e polipeptídeos para efeitos de clareza devem ser
+       caracterizadas pelas sequências de nucleotídeos ou aminoácidos (SEQ ID NO X),
+       respectivamente, que os compõem. Adicionalmente, considera-se ainda que a falta de
+       clareza da referida reivindicação e a ausência de ensinamentos suficientes no inicialmente
+       apresentado, faz com que um técnico no assunto tenha que lançar mão de
+       experimentação adicional e não rotineira para a determinação de todo escopo incluso na
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                            Página 6
+                                                          PI1007620-4
+
+    matéria pleiteada. Logo, ratifica-se que a matéria pleiteada pela atual reivindicação 1 não
+    está de acordo com o artigo 25 da LPI. Tendo em vista que não existem ensinamentos
+    suficientes no inicialmente apresentado para possibilitar a reprodução de todo escopo
+    incluso sem a necessidade de experimentação adicional não rotineira, o artigo 24 da LPI
+    também não está atendido;
+   A redação da atual reivindicação 5 composição para uso ou uso gera falta de clareza
+    quanto ao escopo pleiteado, contrariando o disposto no artigo 25 da LPI. O mesmo se
+    aplica a atual reivindicação 6;
+   Nas atuais reivindicações 5 e 6 é feita referencia a dito ligante de afinidade contudo, nas
+    reivindicações 1 a 3 não existe menção a ligante de afinidade. Tal redação pode gerar falta
+    de clareza ao escopo pleiteado, o que contraria o disposto no artigo 25 da LPI;
+   Cabe ressaltar que para fins de clareza, conforme orientado no item 6.1 a IN INPI PR nº
+    118/2020 - Diretrizes de Exame de Pedidos de Patente na Área de Biotecnologia,
+    polinucleotídeos/ácido nucleico e polipeptídeos para efeitos de clareza devem ser
+    caracterizadas pelas sequências de nucleotídeos ou aminoácidos (SEQ ID NO X),
+    respectivamente, que os compõem. A atual reivindicação 6 define os oligos, sondas,
+    aptâmeros e anticorpos pelas sequências que eles. Principalmente, no que se refere aos
+    aptâmero e anticorpos e/ou variantes, o escopo pleiteada é extremamente amplo e não
+    encontra descrição suficiente no inicialmente apresentado para a reprodução de todo
+    escopo pleiteado sem a necessidade de experimentação adicional e não trivial. Portanto,
+    os artigos 24 e 25 da LPI não estão atendidos;
+   A atual reivindicação 7 não define com clareza o escopo pleiteado. Um método se refere a
+    uma maneira de usar um produto para obter um determinado resultado. Reivindicações de
+    método/processo devem ser definidas de maneira clara e precisa, indicando as etapas
+    essenciais/condições de reação e materiais empregados, incluindo o material de partida,
+    os reagentes necessários, e o produto obtido, com base no pedido originalmente
+    apresentado. Em outras palavras, a combinação de características e etapas do
+    processo/método pleiteado deve definir completamente o escopo para que ela funcione
+    para o propósito identificado. Contudo, ratifica-se que a reivindicação está definida com
+    apenas uma etapa e sem indicar as etapas de como, por exemplo, o nível de PDE9A é
+    utilizado para diagnosticar, monitorar ou prognosticar a progressão do câncer de próstata,
+    portanto, não direciona como realizar o método. Não está claro que nível está
+    correlacionado com o diagnóstico ou prognóstico de câncer de próstata. Logo, tal como
+    pleiteado, não está claro como o método pleiteado atinge o objetivo pretendido, portanto, o
+    artigo 25 da LPI não está atendido;
+   A expressão ou derivados ou variantes homólogas das mesmas (reivindicações 7-14)
+    gera falta de clareza e precisão ao escopo pleiteado, portanto, contraria o disposto no
+    artigo 25 da LPI;
+
+
+
+    Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                         Página 7
+                                                            PI1007620-4
+
+     Conforme mencionado no parecer técnico anterior, na atual reivindicação 8 (b), a
+      expressão determinação do nível de expressão do gene de referência em uma amostra é
+      muito ampla, visto que apenas dois genes foram avaliados (gapdh e pbdg). Contudo, na
+      nova proposta de quadro reivindicatório o item foi mantido sem que nenhum argumento
+      fosse apresentado. Um técnico no assunto sabe que o gene de referência é um fator muito
+      importante nos estudos de expressão gênica. Tipicamente os genes utilizados são os
+      genes que desempenham funções essenciais para a sobrevivência celular e deste modo,
+      em princípio, não variam seu padrão de expressão. Contudo, dado que já era conhecido
+      na técnica que o quesito de invariabilidade não é atendido por todos os genes,
+      considera-se que a identificação do gene de referência não é uma tarefa trivial. Assim,
+      dado o número limitado de concretizações, considera-se que a matéria revelada não
+      fornece descrição suficiente para suportar o amplo escopo incluso na expressão
+      supramencionada. Adicionalmente, não está claro que tipo de amostra é utilizada no
+      método pleiteado. Logo, ratifica-se que os artigos 24 e 25 da LPI não estão atendidos pela
+      referida reivindicação. As mesmas objeções se aplicam as atuais reivindicação 11, 12 e 13;
+     Conforme mencionado no parecer técnico anterior, na atual reivindicação 9 (a) a expressão
+      teste em um indivíduo não é clara quanto ao escopo pleiteado. Consequentemente a
+      etapa (b) também não é clara. Adicionalmente, não está claro que tipo de comparação é
+      realizada no método pleiteado. Logo, o disposto no artigo 25 da LPI não está atendido;
+     A atual reivindicação 10 continua não definindo com clareza a matéria pleiteada. Não está
+      claro como as etapas a-c levam a (d) decidir na presença ou estágio do câncer de
+      próstata ou a progressão do câncer de próstata. Não está claro como e/ou qual diferença
+      na expressão do PDE47 é utilizada para a decisão definida em (d). Neste sentido, o
+      escopo pleiteado não está claro e, portanto, continua contrariando o disposto no artigo 25
+      da LPI;
+     Na atual reivindicação 12 não é claro o escopo incluso pela expressão um indivíduo como
+      elegível para receber uma terapia contra o câncer próstata. A expressão tendo uma
+      alteração no nível de expressão de PDE9A não é clara. Conforme o inicialmente
+      apresentado, a redução do nível de expressão de PDE9A é indicativo da presença do
+      câncer de próstata. Em princípio todo indivíduo diagnosticado com câncer de próstata é
+      elegível para o tratamento. Logo, a referida reivindicação continua não definindo com
+      clareza o escopo pleiteado;
+
+
+
+                                Quadro 4  Documentos citados no parecer
+
+Código                                              Documento              Data de publicação
+ D1                                                 WO9929873                   17/06/1999
+ D2                                             WO2004/053492                   24/06/2004
+
+
+
+      Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                      Página 8
+                                                               PI1007620-4
+
+
+        No que se refere aos documentos do estado da técnica, o presente exame está seguindo
+a determinação dos itens 5.1.6 e 5.2.1 e do art. 5º da NE nº7/2019. Assim, cabe ressaltar que
+como a Busca foi considerada realizada na etapa de exigência preliminar (6.21) - conforme item
+5.2.1 da Norma de Execução supra - os documentos avaliados no presente exame estão
+limitados aos documentos citados na exigência de preliminar (6.21), publicada na RPI nº 2578,
+de 02/06/2020.
+
+        Tendo em vista que a nova proposta de quadro reivindicatório continua
+contrariando o disposto no artigo 32 da LPI, o Quadro 5 foi preenchido com base no
+Quadro Reivindicatório válido.
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade                                   Cumprimento   Reivindicações
+                                                                           Sim         3, 5, 6-18
+             Aplicação Industrial
+                                                                          Não              ---
+                                                                           Sim             ---
+                     Novidade
+                                                                          Não          3, 5, 6-18
+
+                                                                           Sim             ---
+             Atividade Inventiva
+                                                                          Não          3, 5, 6-18
+Comentários/Justificativas
+
+       Quanto ao quadro reivindicatório válido (petição nº 018110043312, 09/11/2011):
+
+        De acordo com o disposto no item 5.1.5 da NE nº7/2019, tendo em vista que as atuais
+reivindicações 1, 2, 4, 19, 20, 21-24 referem-se ou incluem a matéria que não é considerada
+invenção conforme o artigo 10 (IX) da LPI, respectivamente. Deste modo, as referidas
+reivindicações não foram avaliadas quanto aos requisitos de patenteabilidade.
+
+        Tendo em vista que a nova proposta de quadro reivindicatório por contrariar artigo 32 da
+LPI, a análise foi realizada com base no escopo pleiteado no quadro válido que não possui as
+emendas ora rejeitadas.
+
+        O documento D1 revela a utilização de sequências de ácido nucleico e aminoácidos de
+fosfodiesterase no diagnóstico e tratamento de câncer (página 1, linhas 1-5). D1 revela
+sequências de ácido nucleico e aminoácidos de uma PDE9A e métodos para detectar essas
+sequências em amostrar biológicas (página 5, linhas 18-26). A SEQ ID NO: 2 da PDE9A de D1
+exibe identidade superior a 99% com a SEQ ID NO: 20 do presente pedido. Composições
+contendo as referidas sequências para serem utilizadas como sondas para diagnose de câncer
+também são reveladas (página 10, linhas 9-11). Em D1 também é revelado que o nível de
+expressão da PDE9A pode ser utilizado para a determinação de predisposição ao câncer, assim
+como da eficiência do tratamento (página 39). D1 claramente indica que as sequências de
+PDE9A podem ser utilizadas para o disgnóstico de câncer de próstata por meio da comparação
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 9
+                                                                PI1007620-4
+
+
+com valores do nível de expressão de genes padrão, utilizados assim, como referência (página
+39, linhas 4-10). Portanto, considera-se que diante dos ensinamentos de D1 um técnico no
+assunto seria fortemente motivado a utilizar as sequências ora apresentadas como marcadores
+de câncer de prostata.
+
+       Embora D1 revele que o desvio do nível de expressão do gene pde9a seja feita por meio
+da comparação com genes padrão, D1 não revela claramente a utilização de genes de
+manutenção como referência nos métodos de disgnóstico. Contudo, considera-se que tal
+adaptação seria natural para um técnico no assunto. De fato, métodos para detecção dos níveis
+de expressão de genes da família PDE9A utilizando genes de manutenção como referência já
+haviam sido demonstrados na técnica.
+
+       O documento D2 revela sequências de ácido nucleico e aminoácidos de fosfodiesterase
+da PDE9A3 para o diagnóstico de doenças, inclusive, câncer de próstata (página 61, linha 23;
+página 63, linha 22). Para a avaliação quantitativa da expressão de PDE9a3 em tecidos, D2
+revela a normalização da expressão utilizando genes de manutenção como gapdh e hprt (páigna
+84, linhas 20-25). Neste sentido, logo no mesmo campo técnico do presente pedido, já era usual
+utilizar a avaliação dos níveis de PDE normalizados pela expressão de genes de manutenção
+para diagnostico de doenças tumorais. Portanto, considera-se que a matéria ora pleiteada
+decorre de maneira evidente dos ensinamentos da técnica e, portanto, não atende ao disposto
+nos artigos 8º e 13 da LPI.
+
+
+
+Conclusão
+       Com base no artigo 220 da LPI, cabe destacar que a nova proposta de quadro
+reivindicatório contém matéria que não atende ao disposto nos artigos 8º, 13, 10 (IX), 24, 25 e
+32 da LPI.
+       Considerando a recusa da nova proposta de quadro reivindicatório feita com base no
+artigo 32, ratifica-se que o quadro reivindicatório válido não atende ao disposto nos
+artigos 8º, 11, 13, 10 (IX), 22, 24 e 25 da LPI.
+       Sendo assim, conforme o item 2.5 das Diretrizes sobre a aplicabilidade do disposto no
+artigo 32 da LPI nos pedidos de patentes, no âmbito do INPI, publicada na Resolução INPI PR nº
+093/2013, persistindo no quadro reivindicatório emendado matéria que incide no disposto no
+artigo 32 da LPI), o pedido de patente deverá ser indeferido com base no artigo 32 da LPI.
+
+
+      Assim sendo, de acordo com o artigo 37, indefiro o presente pedido, uma vez que:
+
+
+      -      não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+      -      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+      -      não apresenta unidade invenção (Art. 22da LPI)
+      -      não apresenta suficiência descritiva (Art. 24 da LPI)
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                      Página 10
+                                                                PI1007620-4
+
+      -      as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+             descritivo (Art. 25 da LPI)
+      -      não é considerado invenção, uma vez que incide no Art. 10 da LPI
+     -      acréscimo de matéria do pedido ou do escopo das reivindicações (Art. 32 da LPI)
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+      O depositante deve se manifestar quanto ao contido neste parecer em até 90 (noventa)
+dias, a partir da data de publicação na RPI, de acordo com o Art. 36 da LPI.
+
+
+
+                                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                                              Rio de Janeiro, 21 de janeiro de 2021.
+
+
+
+
+Vania Lucia Ferreira Linhares da Silva
+Pesquisador/ Mat. Nº 1473306
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                     Página 11
+

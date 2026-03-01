@@ -1,0 +1,172 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI1103710-5                N.° de Depósito PCT:
+ Data de Depósito:                   29/08/2011
+ Prioridade Unionista:               -
+ Depositante:                        UNIVERSIDADE DE SÃO PAULO - USP (BRSP), FUNDAÇÃO
+                                     UNIVERSIDADE FEDERAL DE SÃO CARLOS - UFSCAR (BRSP)
+ Inventor:                           CLEBER FERRARESI; NIVALDO ANTONIO PARIZOTTO; EUCLIDES
+                                     MATHEUCCI JUNIOR; VANDERLEI SALVADOR BAGNATO
+ Título:                             Dispositivo emissor de luz com formato anatômico para aumento do
+                                     desempenho físico e reparo do tecido muscular e tendíneo
+
+                                                                PARECER
+
+Em 23/03/2022, por meio da petição 870220024710, a Requerente apresentou modificações no
+pedido em resposta ao parecer emitido, notificado na RPI 2660 de 28/12/2021 (despacho 7.1).
+Estas modificações estão consideradas no Quadro 1.
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 15               870210110560           29/11/2021
+Quadro Reivindicatório                                   1e2                 870220024710           23/03/2022
+Desenhos                                                 1e2                 018110033503           29/08/2011
+Resumo                                                      1                870210110560           29/11/2021
+
+
+    Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                    maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+-
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                               PI1103710-5
+
+
+                Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+
+-
+
+                           Quadro 4  Documentos citados no parecer
+
+    Código                               Documento                             Data de publicação
+     D1                                US2003002297                                   02/01/2003
+     D2                                US2007208395                                   06/09/2007
+
+
+      Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade               Cumprimento           Reivindicações
+                                                         Sim                     1-9
+             Aplicação Industrial
+                                                        Não                       -
+                                                         Sim                     1-9
+                  Novidade
+                                                        Não                       -
+
+                                                         Sim                      -
+             Atividade Inventiva
+                                                        Não                      1-9
+Comentários/Justificativas
+
+       Em petição 870220024710 de resposta ao 1º exame técnico emitido na RPI 2660 de
+28/12/2021, a Requerente apresentou argumentação acerca da patenteabilidade do pedido
+perante os documentos do estado da técnica apresentados. As alegações da Requerente foram
+cuidadosamente analisadas e consideradas não persuasivas.
+
+       Ao comparar as características técnicas do presente pedido com as reveladas no
+documento D1, a Requerente é insistente em alegar que o dispositivo pleiteado diferencia-se da
+anterioridade pelo seu formato flexível e anatômico enquanto D1 divulga um emissor de luz a ser
+conectado em peças que circundem uma parte do corpo de interesse, podendo assumir o
+formato de um cinto, faixa ou pulseira, tal como pode ser constatado pelas figuras 6, 7 e 8. A
+Requerente afirma que há uma separação entre o módulo emissor de luz e a pulseira, ou seja,
+não seria o emissor a se encaixar anatomicamente em uma determinada parte do corpo, mas
+sim, a pulseira. A Requerente em seguida pondera que não se tratam de dispositivos iguais
+tampouco semelhantes, mas sim de dispositivos com características bem distintas. Ainda que
+de fato não sejam dispositivos iguais (o que torna o aparelho pleiteado dotado de novidade
+perante o estado da técnica), discorda-se da afirmação de que seriam dispositivos com
+características bem distintas. Na verdade, ambos se utilizam da fototerapia para propósitos
+
+
+
+                                                                                            Página 2
+                                           PI1103710-5
+
+
+semelhantes em faixas do espectro já conhecidas da literatura (como a própria Requerente
+aponta eu sua argumentação), assim como operam numa faixa de potência igualmente
+estabelecida  efetivamente, a faixa pleiteada pela Requerente está totalmente contida no
+intervalo mais amplo adotado em D1, tanto para frequência de onda quanto para potência
+emitida. A única característica técnica que diferencia os dois dispositivos diz respeito, portanto,
+às características construtivas dos mesmos: enquanto um assume o formato de um relógio,
+cinto, pulseira ou bracelete, o outro assume um formato anatômico flexível de forma a circundar
+um membro inferior ou superior do usuário. Considera-se, entretanto, que ao se deparar com o
+dispositivo D1 existente no estado da técnica, o técnico no assunto identificaria o problema
+técnico de que não seria possível posicioná-lo para cobrir uma área maior de forma a cercar
+uma seção de um braço ou perna, por exemplo, e seria impelido a elaborar um novo formato
+construtivo que o fizesse. O técnico no assunto  supondo que não houvesse nenhum outro
+dispositivo no estado da técnica com tais formatos (o que não seria o caso, vide D2 e outros
+documentos elencados em parecer de exigência preliminar 6.22)  buscaria no vestuário comum
+(assim como os dispositivos em formato de cinto, relógio, pulseira ou bracelete contidos em D1
+também se inspiraram em vestuário comum) outra solução e se depararia com os trajes
+esportivos tais como manguitos, munhequeiras, braçadeiras, joelheiras ou tornozeleiras.
+Considera-se, portanto, que o documento D1, quando considerado isoladamente já é o
+suficiente para destituir o presente pedido de atividade inventiva. Ainda assim, cita-se o
+documento D2 que, mesmo utilizando uma outra faixa de frequência para um outro propósito,
+revela por meio da Figura 9 diferentes concretizações assumindo formatos maleáveis e
+anatômicos. Embora a Requerente defenda que o dispositivo de D2 não é maleável e ajustável
+para ser anatômico, deve-se levar em consideração as informações trazidas pelas figuras do
+documento, além das afirmações no relatório descritivo do mesmo, que declara que the
+ensemble effect of such elements on a exible substrate is to substantially conform to a body
+surface as well as deliver a uniform therapeutic treatment over the same surface (parágrafo
+[0015]). Não cabe ao julgo do processo de exame técnico ponderar sobre a veracidade das
+informações contidas num documento de anterioridade, mas sim, constatar que tais informações
+já eram de conhecimento público à época de depósito do pedido a ser analisado.
+      Finalmente, aproveita-se para ressaltar que, ainda que a pesquisa posterior demonstre os
+efeitos benéficos do uso do dispositivo, todo o incremento feito a posteriori da data de depósito
+deste pedido não pode ser levado em consideração na análise do mesmo e que o exame
+técnico dos requisitos de patenteabilidade não são de maneira alguma um exame do mérito da
+pesquisa conduzida.
+
+
+Conclusão
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não
+atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                                           Página 3
+                                        PI1103710-5
+
+
+                                                        Publique-se o indeferimento (9.2).
+
+
+
+                                                      Rio de Janeiro, 28 de maio de 2022.
+
+
+
+
+Bruna Marques Mazoco
+Pesquisador/ Mat. Nº 2316562
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 001/18
+
+
+
+
+                                                                                 Página 4
+

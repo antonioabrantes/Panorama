@@ -1,0 +1,233 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR122019021564-2         N.° de Depósito PCT: EP2010/056913
+ Data de Depósito:                     19/05/2010
+ Prioridade Unionista:                 EP 09 160655.8 (19/05/2009)
+ Depositante:                          DUPONT NUTRITION BIOSCIENCES APS (DK)
+ Inventor:                             RIKKE L. BUNDGAARD JENNER; RENE MIKKELSEN; RIE
+                                       MEJLDAL; KARSTEN MATTHIAS KRAGH; ANJA HEMMINGSEN
+                                       KELLET-SMITH
+ Título:                               POLIPEPTÍDEO TENDO ATIVIDADE DE AMILASE, SEU USO E
+                                       MÉTODO DE PRODUÇÃO DE UM XAROPE DE SACARÍDEO
+
+                                                                 PARECER
+Pedido dividido de PI1012787-9.
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                           x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    x
+
+O pedido refere-se a Sequências Biológicas                                                             x
+
+Comentários/Justificativas
+
+ANVISA - O presente pedido não foi encaminhado à ANVISA para fim de obtenção da anuência
+prévia prevista no art. 229-C da Lei nº 9.279, de 14 de Maio de 1996 (doravante LPI), por não
+conter matéria estipulada no referido dispositivo legal.
+
+
+
+PATRIMÔNIO GENÉTICO: Na petição 870190103322 de 14/10/2019, a requerente declarou que
+não foi acessado o Patrimônio Genético Nacional.
+
+
+
+SEQUÊNCIAS BIOLÓGICAS - Na petição de depósito número 870190103322 de 14/10/2019, a
+requerente depositou a listagem de sequências conforme a Resolução INPI nº 187/2017.
+
+
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas      n.o da Petição             Data
+Relatório Descritivo                                           1-145       870190103322           14/10/2019
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                                Página 1
+                                                        BR122019021564-2
+
+Listagem de sequências*                       Código de Controle       870190103322       14/10/2019
+Quadro Reivindicatório                                    1-2          870190103322       14/10/2019
+Desenhos                                                  1-2          870190103322       14/10/2019
+Resumo                                                      1          870190103322       14/10/2019
+
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+     CAFA635C83374019 (Campo 1) e 17D6A8D3528D1597 (Campo 2).
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                   Sim          Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                            x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                    x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                x
+Comentários/Justificativas
+
+Pela leitura do pedido original (PI1012787-9), foi possível verificar que o mesmo apresentava 23
+conceitos inventivos distintos, listados abaixo: - reivindicações 1 a 17, parcialmente  Referente
+à SEQ ID NO: 12 - reivindicações 1 a 17, parcialmente  Referente à SEQ ID NO: 13 -
+reivindicações 1 a 17, parcialmente  Referente à SEQ ID NO: 14 - reivindicações 1 a 17,
+parcialmente  Referente à SEQ ID NO: 15 - reivindicações 1 a 17, parcialmente  Referente à
+SEQ ID NO: 16 - reivindicações 1 a 17, parcialmente  Referente à SEQ ID NO: 17 -
+reivindicações 1 a 17, parcialmente  Referente à SEQ ID NO: 18 - reivindicações 1 a 17,
+parcialmente  Referente à SEQ ID NO: 19 - reivindicações 1 a 17, parcialmente  Referente à
+SEQ ID NO: 20 - reivindicações 1 a 17, parcialmente  Referente à SEQ ID NO: 21 -
+reivindicações 1 a 17, parcialmente  Referente à SEQ ID NO: 22 - reivindicações 1 a 17,
+parcialmente  Referente à SEQ ID NO: 23 - reivindicações 1 a 17, parcialmente  Referente à
+SEQ ID NO: 24 - reivindicações 1 a 17, parcialmente  Referente à SEQ ID NO: 25 -
+reivindicações 1 a 17, parcialmente  Referente à SEQ ID NO: 26 - reivindicações 1 a 17,
+parcialmente  Referente à SEQ ID NO: 27 - reivindicações 1 a 17, parcialmente  Referente à
+SEQ ID NO: 28 - reivindicações 1 a 17, parcialmente  Referente à SEQ ID NO: 29 -
+reivindicações 1 a 17, parcialmente  Referente à SEQ ID NO: 30 - reivindicações 1 a 17,
+parcialmente  Referente à SEQ ID NO: 31 - reivindicações 1 a 17, parcialmente  Referente à
+SEQ ID NO: 32 - reivindicações 1 a 17, parcialmente  Referente à SEQ ID NO: 33 -
+reivindicações 1 a 17, parcialmente  Referente à SEQ ID NO: 34
+
+Cada SEQ ID NO corresponde a uma ou mais mutações na sequência de aminoácidos da
+enzima amilase PS4 da Pseudomonas saccharophila, utilizando-se como referência a SEQ ID
+NO:1. Cada uma destas SEQ ID corresponde a uma enzima com estabilidade distinta, porém
+superior quando comparada à SEQ ID NO:1. Por outro lado, não há uma característica técnica
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                            Página 2
+                                                         BR122019021564-2
+
+
+que torne estas diferentes mutações pertencentes a um único conceito inventivo. Todas estas
+sequências buscam resolver um problema técnico de maneiras distintas e independentes.
+Constata-se, então, que a matéria ora reivindicada não apresenta unidade de invenção,
+infringindo o disposto no Artigo 22 da Lei 9.279/96 (LPI). Deste modo, apenas o primeiro
+conceito inventivo reivindicado, referente à SEQ ID NO:12, foi examinado. Os demais conceitos
+inventivos poderão ser apresentados na forma de um ou mais pedidos divididos, conforme o
+disposto no Art. 26 da LPI.
+
+
+
+A requerente apresentou novo quadro reivindicatório, contudo não dividiu conforme estipulado
+em exame anterior, incluindo diversas mutações não determinadas adequadamente. Seguindo o
+raciocínio do primeiro exame, este examinador considerou a presente divisão inadequada.
+
+
+
+                  Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                       Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                  x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                                x
+Comentários/Justificativas
+As reivindicações 1-10 não atendem ao disposto no Art. 25 da LPI e na Instrução Normativa nº
+30/2013  Art. 4º (IV), pois a matéria pleiteada não está fundamentada no relatório descritivo do
+pedido pelas seguintes razões: Estas reivindicações pleiteiam uma ou mais substituições em
+diversas posições na SEQ ID NO:1, como 235, 16, 48, 97, 105, 240, 248 entre outros. Contudo, o
+relatório descritivo revela apenas algumas modificações específicas, como as reveladas nos
+exemplos de concretização das Tabelas 1-6, além da Tabela A. Desta forma, as inúmeras
+possibilidades pleiteadas nestas reivindicações carecem de suporte quando observado o relatório
+descritivo do presente pedido de patente.
+
+
+Este dado foi apresentado no exame original e, entretanto, foi mantido pela requerente.
+
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                           Data de publicação
+    D1        US2008/0292747                                                                  27/11/2008
+    D2        US2006/0008890                                                                  12/01/2006
+    D3        WO2007148224                                                                    27/12/2007
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                     Cumprimento   Reivindicações
+
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 3
+                                                          BR122019021564-2
+
+
+                                                                        Sim    1-10
+              Aplicação Industrial
+                                                                        Não      -
+                                                                        Sim    1-10
+                      Novidade
+                                                                        Não      -
+                                                                        Sim    1-10
+              Atividade Inventiva
+                                                                        Não      -
+Comentários/Justificativas
+
+De posse das anterioridades D1, D2 e D3, verifica-se que a combinação de mutações presentes
+não foi revelada pelo estado da técnica. Consequentemente, a referida amilase está de acordo
+com o disposto nos Arts. 8º e 11 da LPI. ATIVIDADE INVENTIVA Os exemplos de concretização
+claramente revelam um ganho técnico promovido pela modificação na enzima quando
+comparada à enzima natural de Pseudomonas saccharophila (SEQ ID NO: 1). No relatório
+descritivo do pedido em análise, é revelado um aumento de 18,9% da atividade enzimática
+residual após aquecimento, quando comparado à enzima natural. Esta característica seria
+vantajosa para a indústria alimentícia, durante o cozimento de pão (Exemplo 10) e na
+consistência do mesmo (Exemplo 12, Figuras 1 e 2). Por um lado, as modificações realizadas no
+presente pedido de patente visam resolver um problema técnico conhecido pelo estado da
+técnica. Diversas mutações em diferentes regiões da enzima foram realizadas por D1, D2 e D3
+para a obtenção de enzimas mais interessantes do ponto de vista industrial. Estas mutações
+foram capazes de gerar um produto mais resistente à altas temperaturas, como demonstrado
+nos exemplos 33 a 35 de D3, por exemplo. Apenas o resíduo 223 já foi modificado por D1, D2 e
+D3, mas em combinações diferentes da apresentada neste pedido. Por outro lado, mesmo que o
+problema técnico também tenha sido resolvido pelas anterioridades aqui citadas, a presente
+invenção em análise pode ser considerada como uma alternativa para a resolução do referido
+problema técnico. Não seria óbvio para um técnico no assunto, na data de prioridade
+reivindicada, realizar as mutações reveladas com o objetivo de produzir uma enzima mais
+estável à variações de temperatura. Dessa forma, pode-se concluir que a enzima apresenta
+atividade inventiva e, com isso, está de acordo com o disposto nos Arts. 8º e 13 da LPI.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -      as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+             descritivo (Art. 25 da LPI)
+
+      -      falta de unidade de invenção (Art. 22 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                      Página 4
+                                                      BR122019021564-2
+
+
+
+
+                                                                           Publique-se o indeferimento (9.2).
+
+
+
+                                                                         Rio de Janeiro, 3 de agosto de 2020.
+
+
+
+
+Luiz Fernando Zmetek Granja
+Pesquisador/ Mat. Nº 2316810
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+009/18
+
+
+
+
+      Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                   Página 5
+

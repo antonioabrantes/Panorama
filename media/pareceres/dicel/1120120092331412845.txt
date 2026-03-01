@@ -1,0 +1,183 @@
+                                         SERVIÇO PÚBLICO FEDERAL
+                                          MINISTÉRIO DA ECONOMIA
+                              INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                         BR112012009233-2           N.° de Depósito PCT:US2010/053172
+ Data de Depósito:                      19/10/2010
+ Prioridade Unionista:                  US 61/253,324 (20/10/2009); US 61/253,315 (20/10/2009); US
+                                        61/263,300 (20/11/2009); US 61/312,003 (09/03/2010); US 61/318,685
+                                        (29/03/2010); US 61/320,061 (01/04/2010); US 61/393,313
+                                        (14/10/2010); US 12/905,709 (15/10/2010); US 12/905,726
+                                        (15/10/2010)
+ Depositante:                           Trading Technologies International, Inc. (US)
+ Inventor:                              Richard Lane, Michael Unetich, Daniel Lidor, Nathan Edwards
+ Título:                                Negociação eletrônica com algoritmo definido pelo usuário 
+
+                                                                     PARECER
+           Em 26/11/2020, por meio da petição nº 870200148914, a Requerente optou por não
+apresentar modificações no pedido em resposta ao parecer emitido, notificado na RPI nº 2591
+de 01/09/2020 (despacho 7.1).
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas            n.o da Petição         Data
+Relatório Descritivo                                          1 à 130            870190098486         02/10/2019
+Quadro Reivindicatório                                        1 à 11             870190098486         02/10/2019
+Desenhos                                                      1 à 43           020120034597-NPRJ      19/04/2012
+Resumo                                                           1               870190098486         02/10/2019
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                        X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                           X
+O pedido está de acordo com disposto no art. 32 da LPI                                            X
+Comentários/Justificativas
+
+
+
+                       Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                                Sim         Não
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                                Página 1
+                                                         BR112012009233-2
+
+
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                       X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                     X
+Comentários/Justificativas
+
+
+                                    Quadro 4  Documentos citados no parecer
+ Código                                                Documento                               Data de publicação
+    D1                                           US 2006129475 A1                                     15/06/2006
+    D2                                              US 7155410 B1                                     26/12/2006
+    D3                                          US 20080109785 A1                                     08/05/2008
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                     Cumprimento        Reivindicações
+                                                                           Sim                 1 à 34
+             Aplicação Industrial
+                                                                          Não                     -
+                                                                           Sim                 1 à 34
+                     Novidade
+                                                                          Não                     -
+                                                                           Sim                    -
+             Atividade Inventiva
+                                                                          Não                  1 à 34
+Comentários/Justificativas
+
+         A requerente argumenta que os documentos D1 à D3 não revelam receber um comando
+de virtualização para o bloco de grupo; converter o bloco de grupo em um bloco de grupo
+virtualizado em resposta ao comando de virtualização, em que o bloco de grupo virtualizado é um
+bloco que quando um evento discreto é recebido em uma entrada do bloco de grupo virtualizado,
+uma nova instância da funcionalidade de algoritmo representada pelo um ou mais blocos
+selecionados no bloco de grupo virtualizado é instanciada.                           Discorda-se da requerente, o
+documento D3 revela gerar instancias de comandos e blocos de componentes da interface
+(parágrafos 0044 e 0045 de D3) e o documento D1 revela instanciar elementos ou blocos de
+elementos virtualizados em resposta a eventos externos (figura 8 e parágrafo 0101 de D1).
+
+         A requerente argumenta que a GUI revelada em D1 não revela janelas análogas à dita
+pluralidade de blocos dispostos na GUI do presente pedido, sendo que a disposição das janelas
+de D1 não especifica uma definição para um algoritmo de negociação.                                   Discorda-se da
+requerente, entende-se que as janelas de D1 são sim análogas aos blocos do presente pedido no
+que se refere à funcionalidade descrita para a gerência delas. Em relação à escolha de uma
+linguagem de programação visual ou ambiente gráfico, entende-se tratar-se de uma escolha de
+projeto, natural a um técnico no assunto, não contendo em si atividade inventiva sobre o cerne da
+matéria pleiteada. O mesmo se aplica ao dito valor de realimentação dinâmica, tratando-se de
+uma opção natural a um técnico no assunto alterar e exibir uma determinada informação quando
+houver alteração em outras informações das quais ela depende. O documento D1 revela método
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                        Página 2
+                                                        BR112012009233-2
+
+
+e sistema para fornecer funcionalidades configuráveis para uma interface gráfica de usuário
+contendo múltiplas janelas direcionada para negociação eletrônica (resumo de D1). Uma das
+funcionalidades descritas em D1 é o controle de múltiplas janelas como se fosse apenas uma,
+inclusive configurando o comportamento e características delas de acordo com preferências do
+usuário, em um modelo cliente servidor, sendo que ambos clientes e servidores possuem
+processadores configurados para executar códigos de programa de computador que
+implementem funcionalidades de negociação eletrônica, e no caso do sistema cliente, exibir uma
+interface gráfica de usuário com funcionalidades para gerenciar múltiplos blocos, no caso, janelas,
+(resumo; figuras 1, 2, 7, 15 à 17; parágrafos 0045 à 0050, 0057 à 0060 de D1). O documento D1
+revela que as informações de negociação eletrônica são obtidas pela aplicação ou programa de
+computador e exibidas nas múltiplas janelas da interface gráfica, sendo possível configurar
+diferentes estratégias de negociação para automatizá-las, podendo ser executadas em conjunto e
+tendo o resultado exibido em outra janela da interface gráfica, podendo o programa de
+computador estar em interface com uma API, com diferentes partes ou módulos integrados e o
+dito programa de computador (ou aplicação) capaz de controlar a interface gráfica, incluindo
+número de janelas, tipos de janelas e configurações individuais das mesmas, além destes blocos
+ou janelas serem selecionados de um grupo de janelas ou blocos (figura 3; parágrafos 0062 à
+0067, 0069 à 0071, 0080 à 0082, 0098 à 0100 de D1).
+
+       Citando o parecer anterior: O documento D2 revela sistema e método para conectar
+objetos negociáveis em um sistema de negociação eletrônica, escolhendo parâmetros para
+conectar os ditos objetos e criando um sistema de classificação (ranking), no qual uma região
+para ranking de objetos negociáveis, determinando pelo dispositivo de computação um ranking
+para a pluralidade de objetos negociáveis baseado nos dados de mercado recebidos e exibindo
+no dispositivo cliente os ditos objetos ordenados pelo ranking, como no caso de ranking de oferta
+e procura, sendo tal informação atualizada de forma dinâmica de acordo com dados recebidos do
+mercado (resumo; figuras 1 à 2A-C; coluna 2: linha 41 à coluna 3: linha 38 e linha 57 à coluna 4:
+linha 46; coluna 6: linha 50 à coluna 7: linha 10 de D2). - em relação à argumentação da
+requerente que o documento D3 não revela ou sugere uma programação gráfica, o documento
+D3 utiliza um sistema de programação visual (parágrafos 0087 à 0089, 0161; reivindicações 1, 12,
+25 e 28 de D3), sendo que o documento D3 ...revela sistema contendo processador configurado
+para executar programa de computador consistindo de blocos de código e memória e método de
+programação utilizando paradigma de programação visual de forma alternativa a um paradigma
+textual no qual a interface gráfica recebe diversos objetos de controle e gera representações
+visuais destes mesmos objetos ou blocos, sendo possível representar as conexões entre os
+diversos objetos e o fluxo de informação entrando e saindo destes objetos de controle através de
+representações gráficas proporcionadas pela interface gráfica, sendo que a interface gráfica é
+configurada para fornecer diversas janelas, incluindo exibir nelas funcionalidades e propriedades
+do algoritmo sendo desenvolvido (resumo; figuras 1 à 11; parágrafos 0017 à 0021, 0035 à 0038,
+0044 à 0045, 0050 à 0053 de D3).
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                       Página 3
+                                                          BR112012009233-2
+
+
+       É mantida a análise anterior, considera-se que um técnico no assunto à luz dos
+ensinamentos divulgados nos documentos D1, D2 e D3 chegaria na matéria técnica pleiteada no
+presente pedido. Entende-se portanto que a matéria presente nas reivindicações 1 e mutatis
+mutandis, 13, 18 e 30, bem como suas respectivas reivindicações dependentes 2 à 12, 14 à 17,
+19 à 29 e 31 à 34 carece de atividade inventiva frente a combinação dos ensinamentos dos
+documentos D1 com D2 e D3.
+
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                             Rio de Janeiro, 29 de Abril de 2021.
+
+                                                                               Publique-se o indeferimento (9.2).
+
+
+Luciano Lauand Viana de Paula
+Pesquisador/ Mat. Nº 2042359
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 001/16
+
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                   Página 4
+

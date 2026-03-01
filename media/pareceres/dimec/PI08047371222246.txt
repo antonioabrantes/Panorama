@@ -1,0 +1,242 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI0804737-5                 N.° de Depósito PCT:
+ Data de Depósito:                   26/05/2008
+ Prioridade Unionista:               -
+ Depositante:                        Universidade Estadual de Campinas - Unicamp (BRSP)
+ Inventor:                           Marco Lúcio Bittencourt, Rafael Augusto de Lima e Silva, Sergio
+                                     Gradella Villalva
+ Título:                             Método de obtenção de um dispositivo vazado, método de
+                                     dimensionamento para realização de cavidades e orifícios e
+                                     dispositivo de baixo peso 
+
+                                                                PARECER
+          Em 31/05/2020, por meio da petição 870200067625, o requerente apresentou sua
+manifestação em resposta ao Parecer Técnico publicado na RPI n.º 2564, de 25/02/2020.
+          Durante a busca realizada, foram encontrados documentos relevantes, no caso, D1
+(JPS55166521), D2 (PI8905558-6), D3 (JPS59229258), D4 (EP1767288), D5 (US2013039),
+além de referências não patentárias, igualmente citadas no relatório de busca. Assim, com base
+nestes documentos, concluiu-se que a matéria pleiteada nas reivindicações apresentadas
+poderia ser considerada como estado da técnica, segundo os artigos 8 e 13 da Lei da
+Propriedade Industrial (LPI), n.º 9279, de 14/05/1996, não sendo, portanto, passível de proteção.
+Além disso, o exame também evidenciou algumas irregularidades formais. Desse modo, foi dado
+uma ciência de parecer (7.1), publicada na RPI n.º 2564, de 25/02/2020. Para fins de
+continuidade do exame estão sendo considerados as páginas abaixo:
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                    1 a 21               018080031665     26/05/2008
+Quadro Reivindicatório                                   1a5                 018080031665     26/05/2008
+Desenhos                                                 1a7                 018080063298     13/10/2008
+Resumo                                                      1                018080031665     26/05/2008
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                                  PI0804737-5
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                                        Sim              Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                     X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                             X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                 X
+O pedido está de acordo com disposto no art. 32 da LPI                                  X
+Comentários/Justificativas
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                        Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                    X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                                  X
+Comentários/Justificativas
+
+         Em 31/05/2020, por meio da petição 870200067625, o requerente apresentou sua
+manifestação em resposta ao Parecer Técnico publicado na RPI n.º 2564, de 25/02/2020.
+         Apesar das irregularidades formais apontadas, o requerente optou por não modificar o
+quadro reivindicatório. Embora o requerente tenha argumentado que as reivindicações tenham
+sido apresentadas de forma mais geral, não específico para um caso específico, a matéria
+pleiteada não está definida de maneira clara, precisa e positiva, bem como algumas
+reivindicações definem a matéria pleiteada em termos do resultado alcançado, contrariando
+desta forma, o Art. 25 da LPI
+         As reivindicações 1, 2, 4 e 18 deverão ser excluídas do quadro reivindicatório e a
+reivindicação 19, deverá ser corrigida. (ver Parecer Técnico - RPI n.º 2564, de 25/02/2020.)
+                             Quadro 4  Documentos citados no parecer
+
+ Código                                     Documento                                         Data de publicação
+    D1                                     JPS55166521                                            25/12/1980
+
+    D2                                     PI8905558-6                                            29/05/1990
+
+    D3                                     JPS59229258                                            16/09/1981
+
+    D4                                      EP1767288                                             28/03/2007
+
+    D5                                      US2013039                                             03/09/1935
+
+             A. R. Heath , P. M. McNamara - Crankshaft Stress AnalysisCombination of
+    D6       Finite Element and Classical Analysis Techniques, J. Eng. Gas Turbines               01/07/1990
+             Power, Jul 1990, 112(3): 268-275 (8 pages)
+
+    D7       Haftka, R. T.; Gürdal, Z. - Elements           Of   Structural   Optimization;         1992
+             Springer-Science+Business Media BV, 1992
+
+    D8       Shigley, J. E., Mitchell, L. D. - Mechanical Engineering Design, 4th                   1983
+             Edition,McGraw-Hill, 1983
+
+
+
+                                                                                                        Página 2
+                                                 PI0804737-5
+
+
+   D9       Mourelatos, Z. P. - A crankshaft system model for structural dynamic analysis         2001
+            of internal combustion engines, Computers and Structures 79, p. 2009-2027,
+            2001
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade                 Cumprimento                     Reivindicações
+                                                           Sim                     3, 5 a 17 e 19 a 22
+           Aplicação Industrial
+                                                           Não                              ---
+                                                           Sim                     3, 5 a 17 e 19 a 22
+                 Novidade
+                                                           Não                              ---
+
+                                                           Sim                              ---
+            Atividade Inventiva
+                                                           Não                     3, 5 a 17 e 19 a 22
+
+
+
+Comentários/Justificativas
+
+        O requerente apresentou sua manifestação em resposta ao Parecer Técnico publicado
+na RPI n.º 2564, de 25/02/2020, através petição 870200067625, de 31/05/2020.
+        Em sua manifestação, o requerente inicialmente argumenta que um virabrequim é um
+componente mecânico submetido a um conjunto complexo de esforços, além de possuir uma
+geometria complexa. Aqui cabe mencionar que embora se reconheça a complexidade do
+problema envolvido, tal complexidade não é requisito suficiente para concessão do privilégio
+requerido. O que deve ser levado em conta é a solução proposta para resolver o problema e
+que, em relação a qual, todos os comentários foram feitos, tomando por base a LPI, bem como a
+Diretriz de Exame de Pedidos de Patente do INPI.
+        Ao longo de sua manifestação, o requerente reconhece várias vezes de que o que está
+sendo reivindicado é um método de dimensionamento que se baseia em conceitos básicos e
+conhecidos da engenharia:
+       O método de dimensionamento é uma das reivindicações do presente pedido de
+        patente. Uma das vantagens do procedimento apresentado é empregar conceitos
+        básicos disponíveis em livros como o documento D8,... - grifo nosso (manifestação ao
+        parecer técnico, pág. 5, 1o parágrafo)
+         após o dimensionamento dos vazados, consideram-se análises com a geometria real
+        do virabrequim para verificar a sua integridade estrutural. - grifo nosso (manifestação
+        ao parecer técnico, pág. 5, 1o parágrafo)
+       O procedimento é suficientemente geral e robusto permitindo dimensionar virabrequins
+        vazados para diferentes aplicações. - grifo nosso (manifestação ao parecer técnico, pág.
+        5, 3o parágrafo
+
+
+
+
+                                                                                                      Página 3
+                                            PI0804737-5
+
+
+       Os trechos acima são apenas alguns exemplos de que o próprio requerente reconhece o
+que fora exposto no Parecer Técnico supracitado, ou seja, de que o método, objetivo do pedido
+em questão, limita-se a descrever dimensionamento de uma árvore de manivelas usando para
+tanto, modelos teóricos simples e análise por elementos finitos, pleiteando características/etapas
+básicas e comuns em qualquer processo de dimensionamento de árvore de um modo geral.
+       Ainda, a realização de uma análise hiperestática para um eixo é procedimento igualmente
+bastante conhecido em qualquer processo de dimensionamento, não caracterizando, tal análise,
+nenhuma atividade inventiva à matéria pleiteada.
+       Na citada manifestação ao parecer técnico o requerente diz que:
+      A Requerente esclarece que as características/etapas básicas citadas são aplicáveis
+       ao dimensionamento de eixos de forma geral. No entanto, a combinação de tais
+       conceitos na forma apresentada não foi considerada na literatura. O fato de conceitos
+       básicos em todas as áreas de conhecimento estarem disponíveis não impede que os
+       mesmos possam ser usados de formas totalmente inovadoras. - grifo nosso. (pág. 5, 6o
+       parágrafo)
+      Assim, não é um conceito básico ou um método numérico que faz a diferença, mas
+       como os mesmos são combinados para obter a solução de um determinado problema. -
+       grifo nosso (pág. 6, 1o parágrafo)
+       Ou seja, o requerente reconhece que está usando conceitos básicos e conhecidos do
+processo de dimensionamento de eixos e combinando os mesmos para obter a solução de um
+problema, o que, uma vez mais, reafirma o exposto no Parecer Técnico (RPI n.º 2564, de
+25/02/2020), de que método de dimensionamento de árvore (modelos teóricos e análise
+numérica, como por exemplo, elementos finitos) é bastante comum e largamente conhecido
+do estado da técnica.
+
+       Ainda, deve-se lembrar que conceitos de engenharia e/ou dimensionamento não
+objetivam abordar casos específicos, mas sim proporcionar uma base que possa vir a ser usada
+e adaptada a cada caso particular que o projetista venha a enfrentar, sendo tal procedimento
+comum a um técnico no assunto.
+
+       Hipoteticamente falando, conceder o privilégio de uso a cada combinação possível de
+conceitos básicos de engenharia/dimensionamento, levaria o projetista/engenheiro a ter que
+descobrir uma combinação destes conceitos capaz de resolver o seu problema e que, ao
+mesmo tempo, não estivesse protegida por uma patente. O que, convenhamos, seria, no
+mínimo, não razoável.
+
+       Por fim, em relação ao objeto pleiteado no pedido, o requerente reconhece o exposto no
+Parecer Técnico (RPI n.º 2564, de 25/02/2020), ou seja, de que ... o desejo de criar
+componentes vazados é bastante antigo como pode ser visto nos documentos D1 a D5.
+(manifestação ao parecer técnico, pág. 5, 5o parágrafo).
+
+
+
+
+                                                                                         Página 4
+                                           PI0804737-5
+
+
+       Com base no acima exposto, bem como no Parecer Técnico publicado na RPI n.º 2564,
+de 25/02/2020 e nas anterioridades D1 a D9 apresentadas, pode-se dizer que as características
+pleiteadas no presente pedido de invenção são conhecidas e óbvias para um técnico no
+assunto, não caracterizando portanto, atividade inventiva.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                              Rio de Janeiro, 5 de junho de 2020.
+
+
+
+
+Marcio Feres Bessa
+Pesquisador/ Mat. Nº 2317389
+DIRPA / CGPAT IV/DIMEC
+Deleg. Comp. - Port. INPI/DIRPA Nº 021/18
+
+
+
+
+                                                                                         Página 5
+

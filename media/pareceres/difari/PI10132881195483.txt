@@ -1,0 +1,349 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI1013288-0               N.° de Depósito PCT:JP2010/061660
+ Data de Depósito:                   09/07/2010
+ Prioridade Unionista:               JP 2009163182 (09/07/2009); JP 2009188464 (17/08/2009)
+ Depositante:                        Raqualia Pharma Inc. (JP)
+ Inventor:                           Nobuyuki Takahashi, Shinichi Koizumi
+ Título:                             Uso de um composto, método de composição farmacêutica para o
+                                     tratamento de doenças em que a motilidade gastrointestinal anormal
+                                     está envolvida, kit e embalagem comercial que compreende uma
+                                     composição farmacêutica contendo o composto 
+
+                                                                PARECER
+
+
+          A requerente apresentou manifestação ao parecer técnico publicado na RPI 2543 de
+01/10/2019, por meio da petição 870190141700 de 30/12/2019, assim como nova via do quadro
+reivindicatório com 4 reivindicações. Para fins de continuidade do exame, as vias consideradas
+no exame técnico estão descritas no quadro 1.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo*                                       1                870190022873     11/03/2019
+Relatório Descritivo                              2 a 12, 14 a 34            020110128233     13/12/2011
+Relatório Descritivo                                       13                020120075359     13/08/2012
+Quadro Reivindicatório                                   1a3                 870190141700     30/12/2019
+Desenhos                                                 1a2                 020110128233     13/12/2011
+Resumo*                                                     1                870190022873     11/03/2019
+*O título foi modificado para: Uso de uma quantidade terapeuticamente eficaz de um composto
+com uma atividade antagonista de bomba de ácido, ou um sal farmaceuticamente aceitável do
+mesmo.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                               PI1013288-0
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                           Sim               Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                         x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                 x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   x
+O pedido está de acordo com disposto no art. 32 da LPI                    x
+
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                        x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                      x
+
+
+
+Comentários/Justificativas
+
+1. O relatório descritivo não descreve de forma clara e suficiente o uso de todas as substâncias
+citadas, possibilitando seu uso por um técnico no assunto, pois não há evidências de que todas
+as substâncias produzirão o mesmo efeito observado com as quatro substâncias que foram
+testadas nos exemplos 1 a 4. Ademais, os modelos de estudo realizados em animais devem
+apresentar a possibilidade de extrapolação para seres humanos ou animais a serem tratados.
+Dessa forma, o relatório descritivo não está de acordo com o disposto no Art. 24 da LPI.
+
+2. A reivindicação 1 está redigida de forma ampla e indefinida por não caracterizar de forma
+precisa os compostos que serão utilizados e nem doença a ser tratada, utilizando sintomas,
+regime terapêutico e mecanismo de ação para definir a doença, contrariando o disposto no Art.
+25 da LPI.
+
+3. As reivindicações 2 e 3 não estão fundamentadas no relatório descritivo, pois nem todos os
+compostos pleiteados tiveram seu uso efetivamente demonstrado, e não é possível extrapolar o
+uso das quatro substâncias testadas para todas as outras, contrariando o disposto no Art. 25 da
+LPI.
+
+4. A reivindicação 4 utiliza um sintoma para caracterizar a doença a ser tratada, contrariando o
+disposto no Art. 25 da LPI.
+
+
+
+
+                                                                                           Página 2
+                                             PI1013288-0
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                                 Documento                               Data de publicação
+    D1                                WO2007072146                                     28/06/2007
+    D2                                WO2008035195                                     27/03/2008
+    D3                                WO2007026916                                     08/03/2007
+    D4                                  WO9955706                                      04/11/1999
+    D5                                WO2000017200                                     30/03/2000
+    D6                                  WO9605177                                      22/02/1996
+    D7                                WO2006136552                                     28/12/2006
+    D8                                WO2000077003                                     21/12/2000
+    D9                    Regulatory Peptides, vol. 52, p. 61-72                         1994
+   D10                             Gut, vol. 33, p. 184-190                              1992
+   D11                Am. J. Digest. Dis. Vol. 11, no. 10, p. 780-789                    1966
+   D12                             Gut, vol. 42, p. 243-250                              1998
+   D13            Arzneim.-Forsch./Drug Res., vol. 54, no. 8, p. 427-435                 2004
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade               Cumprimento               Reivindicações
+                                                      Sim                        1a4
+            Aplicação Industrial
+                                                      Não                          -
+                                                      Sim                          -
+                 Novidade
+                                                      Não                        1a4
+
+                                                      Sim                          -
+            Atividade Inventiva
+                                                      Não                        1a4
+
+
+
+Comentários/Justificativas
+
+         Em exame técnico notificado pela RPI 2543 de 01/10/2019, foi constatado que a matéria
+pleiteada no quadro reivindicatório da petição 870190022873 de 11/03/2019, não apresentava
+novidade nem atividade inventiva, contrariando os artigos 8º, 11 e 13 da LPI.
+         Na manifestação da petição 870190141700 de 30/12/2019, a requerente apresentou um
+novo quadro reivindicatório com 4 reivindicações e os seguintes argumentos em favor da
+patenteabilidade do PI1013288-0:
+
+- O presente pedido se refere ao uso de um antagonista da bomba de ácido para recuperar a
+contração de fase III para tratar desordens da motilidade intestinal quando esta não é
+
+
+
+
+                                                                                             Página 3
+                                           PI1013288-0
+
+
+recuperada apenas suprimindo a secreção de ácido gástrico com um antagonista de receptor
+histamínico H2 ou um inibidor da bomba de prótons;
+
+- Baseada em D9, a requerente argumenta que a relação entre acidificação do trato digestivo e
+contrações de fase III é desconhecida, que o ácido gástrico não é totalmente estimulado apenas
+pela histamina, e que D9 não ensina nem sugere que as contrações de fase III suprimidas por
+outros fatores além da histamina são recuperadas pela administração de um antagonista da
+histamina;
+
+- A requerente apresenta o anexo III, e descreve que este documento demonstra que a
+supressão da secreção de ácido gástrico não está relacionada com a recuperação das
+contrações de fase III, pois quando as contrações de fase III são suprimidas pela estimulação da
+histamina, a administração de um antagonista do receptor de histamina H2 suprime a secreção
+de ácido gástrico para que as contrações de fase III sejam recuperadas (Figura 2D, página
+1473);
+
+- E os fenômenos induzidos pela histamina podem ser recuperados pela administração de um
+antagonista da histamina, enquanto que, quando as contrações de fase III são suprimidas pela
+estimulação com pentagastrina, a administração de famotidina suprime a secreção de ácido
+gástrico, mas não recupera o desaparecimento das contrações de fase III (linhas 10 a 13, coluna
+esquerda e Figura 2C, página 1473, Anexo III;
+
+- No Anexo I, a requerente apresenta resultados experimentais comparativos que demonstram
+que quando as contrações de fase III são suprimidas pela estimulação com pentagastrina, não é
+observada nenhuma recuperação das contrações de fase III pela administração de famotidina
+nem de omeprazol;
+
+- Quando o composto TAK-438, um antagonista da bomba de ácido, é administrado, as
+contrações de fase III são recuperadas,
+
+- Não se pode concluir que a ação de suprimir a secreção de ácido gástrico causa recuperação
+das contrações de fase III, pois quando a ocorrência destas contrações é suprimida pela
+estimulação com pentagastrina, a administração de famotidina ou omeprazol não recupera as
+contrações de fase III, mesmo se a secreção de ácido gástrico for suprimida pela administração
+de antagonistas dos receptores de histamina H2 ou inibidores da bomba de prótons;
+
+- Um técnico no assunto não poderia prever que antagonistas da bomba de ácido podem
+recuperar a motilidade gastrointestinal através da supressão de ácido gástrico pois estes
+fármacos recuperam as contrações de fase III e aumentam/normalizam a motilidade
+gastrointestinal mas esta não pode ser aprimorada pela supressão da secreção de ácido
+gástrico, mas a requerente argumenta que o presente pedido apresenta fármacos eficazes para
+a regulação da função do trato gastrointestinal que melhoram as desordens de motilidade
+gastrointestinal pela recuperação das contrações de fase III;
+
+- Segundo a requerente, este aprimoramento de desordens de motilidade gastrointestinal não é
+revelado ou sugerido nos documentos D1 a D8, que descrevem os ensaios de inibição da
+
+
+
+                                                                                        Página 4
+                                           PI1013288-0
+
+
+secreção de ácido gástrico e não descrevem nenhum ensaio para avaliar a motilidade
+gastrointestinal;
+
+- A inibição da secreção de ácido gástrico não leva à ativação ou normalização da motilidade
+gastrointestinal pois a famotidina e o inibidor da bomba de prótons não conseguem aprimorar a
+motilidade gastrointestinal e, dessa forma, um técnico no assunto não teria pensado numa nova
+utilização de um antagonista de bomba de ácido para recuperar a contração de fase III e
+melhorar a motilidade gastrointestinal anormal;
+
+- Os documentos D1 a D8 não revelam nem sugerem o uso de qualquer composto para
+melhorar a motilidade gastrointestinal anormal e, desta forma, segundo a requerente, o efeito de
+aprimorar a motilidade gastrointestinal apresentado pelo presente pedido não é óbvio para um
+técnico no assunto;
+
+- D10 e D11 descrevem a hipomotilidade antral em pacientes com desordens gastrointestinais
+mas não revelam nem sugerem que o antagonista de bomba de ácido é eficaz para aprimorar a
+motilidade gastrointestinal;
+
+- D12 e D13 não descrevem o termo antagonista de bomba de ácido e D13 não descreve o
+termo recuperação de fase III nem IMC de ocorrência.
+
+
+
+       A requerente argumenta que os documentos D1 a D8 não antecipam a matéria ora
+reivindicada pois não revelam nenhum ensaio que avalie a motilidade gastrointestinal, e D9
+avalia apenas o efeito da histamina e de um antagonista de seus receptores nas contrações de
+fase III. D10 e D11 não revelam que o antagonista de bomba de ácido é eficaz para aprimorar a
+motilidade gastrointestinal; D12 e D13 também não abordam diretamente os termos utilizados no
+presente pedido.
+       No anexo I, a requerente apresenta dados de testes experimentais, E pela observação
+da figura, nota-se que o efeito de inibição das contrações produzido pela pentagastrina é
+diferente nas Figuras A, B e C. Em A, a inibição é quase completa e após a administração de
+TAK-438 há uma reversão desta inibição. Já em B e C, a inibição produzida pela pentagastrina
+na mesma dose, não foi completa como na Figura A, de forma que não tem como comparar de
+forma precisa os efeitos observados com a administração dos fármacos em estudo, assim como
+um único experimento não é capaz de fornecer informações precisas sobre o efeito de um ou
+outro composto. As variações observadas podem estar dentro de uma faixa esperada de
+variações, e após mais experimentos, pode não haver diferença estatisticamente significativa
+entre os diferentes fármacos estudados.
+       No anexo II, uma revisão sobre os inibidores da H,K-ATPase gástrica, os antagonistas de
+bomba de ácido são também chamados de inibidores de bomba de prótons ou bloqueadores de
+ácido que competem com K+. A diferença de mecanismo está no tempo de inibição que é menor
+e na eficácia que parece maior por não precisarem de ativação pelo ácido. A inibição promovida
+por estes fármacos têm sua duração determinada pelos seus níveis plasmáticos por serem
+antagonistas competitivos reversíveis, o que não promove uma inibição prolongada.
+
+
+                                                                                        Página 5
+                                           PI1013288-0
+
+
+       O anexo III apresenta resultados dos efeitos inibitórios da histamina e da pentagastrina
+na atividade gastrointestinal de fase III induzida por motilina e demonstra que a pentagastrina
+inibe esta atividade de fase III gastrointestinal enquanto a histamina inibe esta atividade apenas
+no estômago, e um antagonista dos receptores de histamina reverte os efeitos da histamina mas
+não da pentagastrina. Os autores concluem que o efeito inibitório da pentagastrina na atividade
+de fase III induzida por motilina, apresenta dois mecanismos distintos, um dependente do ácido
+gástrico e outro dependente dos receptores de colecisticinina, enquanto a inibição induzida pela
+histamina é mediada apenas pelo ácido gástrico.
+       Como discutido anteriormente, para um uso ser considerado novo, este deve revelar a
+aplicação de um produto farmacêutico já conhecido para produzir um medicamento para tratar
+ou prevenir uma doença diferente daquela para a qual este produto já era empregado no estado
+da técnica. O presente pedido não apresenta uma doença diferente a ser tratada quando
+reivindica o uso de um composto com uma atividade antagonista de bomba de ácido para a
+fabricação de um medicamento útil para aprimoramento das desordens da motilidade
+gastrointestinal pela diminuição da contração irregular do duodeno dentro de uma hora da
+administração oral seguida pela reativação das contrações de migração inter-digestivas de fase
+III.
+       O termo desordens da motilidade gastrointestinal não define uma doença e sim um
+sintoma que está presente em diversas doenças gastrointestinais, assim como os demais
+termos utilizados, que apresentam resultados observados com um determinado regime
+terapêutico, e também não definem nenhuma doença. Dessa forma, essas características não
+são consideradas características técnicas, e não conferem novidade nem atividade inventiva ao
+uso ora reivindicado.
+       Portanto, o uso ora reivindicado não é novo (reivindicações 1 a 4), pois inibidores de
+bomba de ácido, incluindo os compostos das reivindicações 2 e 3 (D1 a D8), já são utilizados
+para preparar medicamentos para o tratamento de doenças que tem como um dos sintomas
+uma motilidade gastrointestinal anormal, contrariando o disposto no artigo 11 da LPI.
+
+       Entende-se pelos argumentos da requerente que o efeito observado pode ser
+independente da diminuição da acidez estomacal por consequência do uso de inibidores da
+bomba de próton, mas a elucidação do mecanismo pelo qual os antagonistas de bomba de
+ácido atuam na motilidade gastrointestinal não é suficiente para conferir novidade e atividade
+inventiva ao uso reivindicado.
+
+       E ainda que o mecanismo seja diferente, o uso ora reivindicado decorre de maneira óbvia
+a partir do estado da técnica (D1 a D8) que já descrevia os compostos das reivindicações 2 e 3
+como fármacos úteis para o tratamento de diversas doenças como úlcera péptica, gastrite,
+dispepsia funcional, entre diversas outras doenças gastrointestinais e gastroesofágicas. Dessa
+forma, seria óbvio para um técnico no assunto, com base nos documentos D1 a D12, utilizar
+fármacos que atuam na H,K-ATPase para tratar doenças que apresentem uma motilidade
+gastrointestinal anormal.
+
+
+
+
+                                                                                          Página 6
+                                           PI1013288-0
+
+
+       Portanto a matéria ora reivindicada (reivindicações 1 a 4) não é nova e não apresenta
+atividade inventiva, contrariando o disposto nos artigos 11 e 13 da LPI.
+
+
+
+Conclusão
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   não apresenta suficiência descritiva (Art. 24 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                   Publique-se o indeferimento (9.2).
+
+
+
+                                                                  Rio de Janeiro, 17 de abril de 2020.
+
+
+
+
+Luana Braga Pontes
+Pesquisador/ Mat. Nº 1783812
+DIRPA / CGPAT I/DIFAR-I
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/15
+
+
+
+
+                                                                                             Página 7
+

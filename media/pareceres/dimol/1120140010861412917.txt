@@ -1,0 +1,279 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112014001086-2            N.° de Depósito PCT: ES2012/070541
+ Data de Depósito:                   17/07/2012
+ Prioridade Unionista:               ES P201131257 (21/07/2011)
+ Depositante:                        Consejo Superior de Investigaciones CientificasCSIC (ES)
+ Inventor:                           MARIA DEL CARMEN THOMAS CARAZO, MANUEL CARLOS
+                                     LÓPEZ LÓPEZ, DARIÉN LEDESMA ARROYO
+ Título:                             Molécula quimérica útil na imunoterapia contra a leishmaniose, a qual
+                                     compreende um fragmento da proteína pfr1 de leishmania infantum
+                                     com epítopos específicos imunodominantes 
+
+                                                              PARECER
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                              Sim      Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                    x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)     x
+
+O pedido refere-se a Sequências Biológicas                                                              x
+
+Comentários/Justificativas
+
+* Notificação de anuência relacionada com o Art.229-C da LPI (anuência prévia) publicada na
+RPI 2532 de 16/07/2019.
+
+** O INPI emitiu a exigência de código 6.6.1 na RPI 2465 de 03/04/2018, para fins de
+manifestação do depositante quanto à ocorrência de acesso ao Patrimônio Genético nacional
+e/ou Conhecimento Tradicional Associado para obtenção do objeto do presente pedido. Não
+tendo havido manifestação do depositante no prazo de 60 (sessenta) dias contados a partir da
+publicação na RPI, o INPI deu prosseguimento ao exame técnico com o entendimento de que
+não houve acesso ao patrimônio genético nacional e/ou conhecimento tradicional associado,
+conforme consta no texto do despacho de código 6.6.1 publicado na RPI, de acordo com
+entendimento firmado pela Procuradoria Federal Especializada junto ao INPI (PFE-INPI) no
+Parecer           nº         00001/2018/PROCGAB/PFE-INPI/PGF/AGU                  (Processo           INPI       nº
+52400.002142/2018-30), publicado na RPI 2465 de 03/04/2018.
+
+*** A Listagem de Sequências em formato eletrônico encontra-se na petição 870200018247 de
+07/02/2020.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                   Página 1
+                                           BR112014001086-2
+
+                            Quadro 1  Páginas do pedido examinadas
+           Elemento                       Páginas               n.o da Petição         Data
+Relatório Descritivo                       01-32                870200018247         07/02/2020
+Listagem de sequências em
+                                           01-17                860140005121         16/01/2014
+formato impresso
+Listagem de sequências*            Código de Controle           870200018247         07/02/2020
+Quadro Reivindicatório                     01-03                870200018247         07/02/2020
+Desenhos                                   01-10                860140031675         17/03/2014
+Resumo                                       01                 870200018247         07/02/2020
+     *Listagem de sequências em formato eletrônico referente ao código de controle
+     A8C872C43FF994B2 (Campo 1) e FC223C0787D32183 (Campo 2).
+
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                               Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                       x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                          x
+O pedido está de acordo com disposto no art. 32 da LPI                           x
+Comentários/Justificativas -
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                               Sim         Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI             x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                    x
+Comentários/Justificativas
+       O requerente alegou que, com base nas disposições do item 6.1 da Resolução nº
+144/2015, as referidas disposições não se aplicam às sequências de nucleotídeos definidas
+nas reivindicações sob exame. Segundo o requerente, as disposições do item 6.1 da
+Resolução nº 144/2015 não se aplicam à presente invenção, pois a contribuição em relação
+ao estado da técnica fornecida pela mesma não é limitada a sequências nucleotídicas específicas.
+O requerente cita os itens 3.85 e 3.86 da Resolução nº 124/2013. O requerente ainda afirma
+que a contribuição trazida pela presente invenção em relação ao estado da técnica não é restrita a
+sequências de nucleotídeos específicas, mas ao ensinamento de que o fragmento de PFR1 tem
+um epítopo imunodominante e que as proteínas PFR1 reivindicadas, ou proteínas de fusão
+das mesmas, induzem proteção contra a infecção por L. infantum.
+       Após análise dos argumentos do requerente, ainda somos de opinião de que é
+fundamental definir um polinucleotídeo ou seu fragmento pela sua sequência de nucleotídeos,
+uma vez que um dos escopos da reivindicação é o uso deste nucleotídeo para produzir um
+
+
+
+                                                                                          Página 2
+                                      BR112014001086-2
+
+medicamento. A definição do polinucleotídeo como aquele que expressa um polipeptídeo não
+permite a um técnico no assunto determinar qual seria, por exemplo, a sequência nucleotídica
+ideal para expressar seu produto (ver também item item b da página 29 das Diretrizes de Exame
+de Pedidos de Patente na área de biotecnologia).
+       Desta forma, o quadro reivindicatório pleiteia uso de sequência de nucleotídeos ou um
+produto de expressão da referida sequência de nucleotídeos para a fabricação de uma vacina em
+que esses nucleotídeos codificam para a proteína PFR1 ou fragmentos da mesma. Ocorre que o
+que caracteriza uma sequência de ácido nucleico é sua sequência de nucleotídeos, e não o fato
+dele codificar uma proteína (Diretrizes de Exame de Pedidos de Patente na Área de Biotecnologia,
+item 6.1). Desta forma, utilizar a redação sequência nucleotídica que codifica para uma
+proteína... faz com que a matéria não apresente clareza e precisão.
+
+
+
+
+                         Quadro 4  Documentos citados no parecer
+
+ Código                              Documento                             Data de publicação
+    D1       Waeger et al. NCBI protein AAU09406.1                                  2004
+    D3        MORELL, M. ET AL.,VACCINE, vol. 24, no. 49-50, pages 7046             2006
+              7055.
+    D4       PLANELLES, L. ET AL, INFECTION AND IMMUNITY., vol. 69,                 2001
+             no. 10, pages 6558  6563.
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade           Cumprimento               Reivindicações
+                                                  Sim                       01-04
+            Aplicação Industrial
+                                                  Não                          -
+                                                  Sim                       01-04
+                 Novidade
+                                                  Não                          -
+
+                                                  Sim                          -
+            Atividade Inventiva
+                                                  Não                       01-04
+Comentários/Justificativas
+
+         O presente pedido trata de vacina de DNA compreendendo nucleotídeos codificantes da
+proteína paraflagelar PFR1 (paraflagellar rod protein, gene Bank AAU09406.1), sozinha ou
+fusionada ao gene de HSP70, de Leishmania infantum.
+
+         Em 07/02/2020, por meio da petição 870200018247, o Depositante apresentou
+modificações no pedido em resposta ao parecer emitido no âmbito da Resolução Nº 241/2019,
+notificado na RPI 2549 de 12/11/2019 segundo a exigência preliminar (6.21). Não foram
+apresentadas argumentações quanto ao estado da técnica citado no relatório de busca.
+
+
+
+
+                                                                                        Página 3
+                                          BR112014001086-2
+
+
+
+
+       O primeiro parecer técnico foi uma ciência (7.1 publicado na RPI 2587 de 04/08/2020) em
+que se discutia a falta de atividade inventiva e a falta de clareza e precisão.
+
+       Através da petição 870200137324 de 30/10/2020, o requerente apresentou argumentos
+em prol da invenção em que resumia todos os experimentos revelados no presente pedido. Para
+concluir, o requerente afirmou que:
+
+       Em resumo, os resultados do Exemplo 1 mostram que camundongos imunizados
+com as moléculas de teste de PFR1 e posteriormente desafiados, não apresentam
+parasitas   na    medula    óssea,    enquanto    os    grupos       inoculados com     o    plasmídeo
+pCMV4empty ou controle salino (controle) apresentam uma alta carga parasitária em o
+mesmo tecido após 28 dias pós-infecção. Além disso, a carga parasitária no baço e no fígado de
+camundongos imunizados está entre duas a quatro ordens de magnitude menor do que a
+detectada nos grupos controle (plasmídeo pCMV4 vazio ou solução salina). Camundongos
+imunizados com a molécula pPFR1-H70T e infectados por Leishmania, não apresentam
+parasitas no baço após 14 dias pós-infecção.
+
+       Em resumo, os resultados do Exemplo ilustrativo 2 mostram que o fragmento de
+436 aminoácidos da proteína PFR1 tem um desempenho muito semelhante ao da
+proteína completa, obtendo um padrão semelhante de resposta imune (humoral, celular e
+citotóxica). Além disso, esses parâmetros são aqueles especificamente envolvidos na
+proteção    contra o parasita     e, portanto,   os fragmentos se comportam                 de maneira
+semelhante à proteína completa.
+
+       A partir da informação acima mencionada é, portanto, claro que o fragmento
+PFR1 tem pelo menos um epítopo imunodominante, em que o epítopo imunodominante é capaz
+de induzir uma resposta imune citotóxica de células T específicas do antígeno contra os
+cinetoplastídeos que causam a doença leishmaniose em um animal e, assim, conferindo
+proteção contra esta doença.
+
+       O requerente ainda afirma que Nesse sentido, embora o documento D1 revele a
+sequência de PFR1 de Leishmania infantum, este documento é completamente silencioso
+sobre o fato de que o fragmento de PFR1 tem esse epítopo imunodominante. Além disso,
+nenhum dos documentos D3 ou D4 indica que as proteínas PFR1 reivindicadas, ou proteínas
+de fusão    das    mesmas,      induzem    proteção    contra    a     infecção   por   L.    infantum.
+Consequentemente, o mecanismo de ação indicado no presente pedido de patente não
+pode ser derivado de qualquer mecanismo de ação divulgado nas anterioridades citadas
+simplesmente porque a técnica anterior não indica nem sugere que o fragmento de
+PFR1 tenha tal epítopo imunodominante capaz de conferir proteção contra infecção por L.
+infantum. Sem essa informação, é impossível deduzir o segundo uso médico reivindicado. As
+disposições dos itens 9.1.2, subitens 2 e 3, da Resolução nº 208/2018 não são, portanto,
+aplicáveis a matéria das reivindicações sob exame.
+
+
+
+
+                                                                                                Página 4
+                                        BR112014001086-2
+
+
+       Após análise dos argumentos apresentados pelo requerente, ainda somos de opinião de
+que D3 já apresenta o uso de PFRs, inclusive fusionadas com HSP70, em vacinas para tratar
+camundongos infectados com Trypanosoma cruzi. Os mecanismos de defesa envolviam
+resposta de células T como resposta humoral. Escolher uma PFR específica, no caso PFR1, de
+outro cinetoplastídeo, L. infantum, para mostrar que esta proteína apresenta pelo menos um
+epítopo de célula T em sua sequência é óbvio para um técnico no assunto. Esses epítopos
+foram escolhidos pela utilização de ferramentas de bioinformática e depois testados in vitro. A
+sequência de PFR1 já era conhecida, e o uso de PFR-HSP70 também já era conhecido, testar
+estes epítopos fusionados a HSP70 era óbvio, porque era óbvio obter pedaços de sequências
+cada vez menores de proteínas imunogênicas e testar para a presença desses epítopos. Ainda
+que não tenham sido apresentados resultados no estado da técnica que demonstrem que,
+especificamente, PFR1 de L. infantum, apresentasse epítopos MHC restrito que gerariam
+resposta T, esses experimentos já eram comuns na época do presente pedido.
+
+       Portanto, em nossa opinião, o mecanismo de ação de PRF1 podia ser depreendido a
+partir do mecanismo de ação de PRF2 e PRF3 de T. cruzi , ou seja, elicitar resposta imune
+celular e humoral em cinetoplastídeos. A restrição de PRF1 em pedaços menores e definição
+dos seus epítopos era um experimento corriqueiro e a definição de epítopos que elicitam
+resposta imune não gera um outro mecanismo de ação para a proteína.
+
+       Desta forma, baseado no que diz as Diretrizes de Exame de Pedidos de Patente na Área
+de Química (item 9.1.2, subitens 2 e 3) consideramos que a matéria pleiteada não apresenta
+atividade inventiva.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                               Rio de Janeiro, 29 de abril de 2021.
+
+
+
+
+                                                                                          Página 5
+                               BR112014001086-2
+
+
+
+
+Júlia Rolão Araripe
+Pesquisador/ Mat. Nº 1525876
+DIRPA / CGPAT II/DIMOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                  Página 6
+

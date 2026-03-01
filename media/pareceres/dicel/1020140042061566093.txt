@@ -1,0 +1,157 @@
+                                       SERVIÇO PÚBLICO FEDERAL
+                                        MINISTÉRIO DA ECONOMIA
+                            INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102014004206-7        N.° de Depósito PCT:
+ Data de Depósito:                   21/02/2014
+ Prioridade Unionista:               -
+ Depositante:                        SAMSUNG ELETRÔNICA DA AMAZÔNIA LTDA. (BRSP)
+ Inventor:                           FABIO R. PIVA, ORLANDO VOLPATO FILHO, FERNANDO L. KOCH
+ Título:                             Método para pagamento móvel seguro e etiqueta de rf com dispositivo
+                                     antifurto integrado 
+
+                                                                PARECER
+       Em 30/03/2022, por meio da petição nº 870220027574, a Requerente apresentou
+modificações no pedido em resposta ao parecer emitido, notificado na RPI nº 2661 de 04/01/2022
+(despacho 7.1). Estas modificações estão consideradas no Quadro 1.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                 n.o da Petição         Data
+Relatório Descritivo                                    1 à 13                 870160078615         22/12/2016
+Quadro Reivindicatório                                   1à2                   870220027574         30/03/2022
+Desenhos                                                 1à3                 860140021153-NPWB      21/02/2014
+Resumo                                                      1                  870160078615         22/12/2016
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                              Sim         Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                         X
+O pedido está de acordo com disposto no art. 32 da LPI                                          X
+Comentários/Justificativas
+       A requerente restringiu o escopo da matéria da reivindicação 1 e removeu a reivindicação
+3, consequentemente o Quadro Reivindicatório do presente pedido não mais se enquadra no
+disposto no Art. 10(III) da LPI.
+
+                     Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+Artigos da LPI                                                                              Sim         Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                            X
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                          BR102014004206-7
+
+
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI   X
+Comentários/Justificativas
+
+
+                           Quadro 4  Documentos citados no parecer
+ Código                                 Documento                            Data de publicação
+    D3                              US 2006043175 A1                                02/03/2006
+    D1                              US 2005044179 A1                                24/02/2005
+    D6                              US 2009044012 A1                                12/02/2009
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade               Cumprimento             Reivindicações
+                                                       Sim                    1à6
+           Aplicação Industrial
+                                                       Não                      -
+                                                       Sim                    1à6
+                 Novidade
+                                                       Não                      -
+                                                       Sim                      -
+           Atividade Inventiva
+                                                       Não                    1à6
+Comentários/Justificativas
+       A requerente argumenta que os documentos D1 e D3 não revelam a verificação de que o
+dispositivo anti-furto foi desativado corretamente, argumentando que D1 trataria somente do
+acesso sem fio de conteúdo da Internet, utilizando uma câmera portátil ou do dispositivo de
+telefone celular para escanear códigos de barras e baixar automaticamente o conteúdo da web
+associado que está vinculado ao código de barras escaneado enquanto D3 refere-se a um
+terminal de checkout portátil inteligente baseado em mobile banking, etiqueta antirroubo e um
+sistema de checkout para estabelecimentos de varejo. A requerente adicionalmente argumenta
+que nenhum dos documentos citados revela ou sugere: ...receber, pelo dispositivo móvel, uma
+chave Tag-Key única e aleatória correspondente à Tag-Id; desabilitar, usando o dispositivo móvel,
+o dispositivo antifurto na etiqueta de RF ao receber a chave Tag-Key.
+        Citando o parecer anterior, o documento ...D1 revela dispositivo móvel contendo câmera
+para ler códigos de barra, decodificando-os e enviando para um servidor que retornará uma url ao
+dispositivo móvel contendo a informação relativa ao produto, serviço ou conteúdo associado ao
+código de barras lido (resumo; figura 1; parágrafos 0005, 0016 à 0017 de D1). - enquanto o
+documento D3 revela um ...método para pagamento seguro através de dispositivos móveis de
+um usuário compreendendo ler um código de barras de um produto usando a câmera do
+dispositvo para exiibir informações relacionadas ao produto e comprar o produto através de um
+aplicativo de serviço de pagamento no dispositivo móvel que utiliza um serviço de vendas
+hospedado em uma rede de computadores, lendo uma Tag-ID do produto, a dita Tag contendo
+um dispostivio anti-furto que usa tecnologia de rádio (disponível do dispositivo móvel), buscando
+uma chave (Tag-key) única correspondente à dita Tag-ID no serviço de vendas seguro hospedado
+na rede de computadores através de um serviço de gerenciamento de chaves e desabilitando o
+dispositivo anti-furto na Tag RF após receber a Tag-Key (resumo; figuras 1, 2 e 3, parágrafos
+0014 à 0022, 0034 à 0035, 0043 à 0047 de D3). O documento D3 também revela verificar que o
+
+
+
+                                                                                          Página 2
+                                       BR102014004206-7
+
+dispositivo anti-furto foi desativado corretamente, utilizando para isso o dispositivo móvel
+(parágrafos 0021, 0035 à 0037, 0048 de D3).
+         Ainda de acordo com o parecer anterior, o documento D6 revela ...sistema e método para
+identificação segura de uma transação por radio frequência (RFID) através de uma Tag de
+autentificação única gerada utilizando números aleatórios (resumo; figuras 1 e 2; parágrafos 0011
+à 0012, 0032 à 0035, 0039 à 0040, 0045 de D6).
+
+       É mantida a análise anterior, entende-se que o documento D3 revela desativar o
+dispositivo anti-furto (parágrafo 0037 de D3) utilizando um dispositivo móvel (figura 5 de D3) após
+receber uma tag-key única correspondente à dita Tag-ID no serviço de vendas seguro hospedado
+na rede de computadores através de um serviço de gerenciamento de chaves (resumo; figuras 1,
+2 e 3, parágrafos 0014 à 0022, 0034 à 0035, 0043 à 0047 de D3).
+
+       Ainda que a decodificação do código de barras seja feita de forma distinta daquela
+presente nos documentos D1 e D3 (um movimento do dispositivo sobre o código de barras ao
+invés de desativar via RF-ID pelo dispositivo móvel), entende-se natural a um técnico no assunto,
+a partir dos ensinamentos de D6 (resumo; figura 6; parágrafos 0006, 0037, 0044 à 0046, 0076 de
+D6), ao tratar com tecnologia de RF, operar a desativação diretamente na etiqueta por um sinal de
+rádio da mesma forma que envia um sinal indicando que a transação ocorreu corretamente.
+
+       À luz da combinação dos ensinamentos dos documentos D1 com D3 e D6, entende-se que
+um técnico no assunto chegaria à matéria técnica contida na reivindicação 1 e mutatis mutandis
+na reivindicação 4. Consequentemente entende-se que a parte técnica da matéria presente na
+reivindicação 1 e mutatis mutandis na reivindicação 4, bem como suas reivindicações
+dependentes 2 à 3 e 5 à 6 carece de atividade inventiva frente à combinação dos ensinamentos
+dos documentos D1 com D3 e D6, estando em desacordo com o Artigo 8º combinado ao 13 da
+LPI.
+
+
+
+
+Conclusão
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+       -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                               Rio de Janeiro, 30 de abril de 2022.
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+Luciano Lauand Viana de Paula
+Pesquisador/ Mat. Nº 2042359
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 001/16
+
+
+
+
+                                                                                          Página 3
+

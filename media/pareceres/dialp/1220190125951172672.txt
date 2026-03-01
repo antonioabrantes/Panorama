@@ -1,0 +1,339 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                   RELATÓRIO DE BUSCA
+
+ N.° do Pedido:                      BR122019012595-3         N.° de Depósito PCT: US2010/002205
+ Data de Depósito:                   11/08/2010
+ Prioridade Unionista:               US 61/273,928 (11/08/2009)
+ Depositante:                        SANGAMO BIOSCIENCES, INC. (US)
+ Inventor:                           Yannick Doyon
+ Título:                             Organismos homozigotos para modificação direcionada
+
+                                     IPC              C12Q 1/68, C12N 15/09
+ 1  CLASSIFICAÇÃO
+                                     CPC
+ 2 - FERRAMENTAS DE BUSCA
+    EPOQUE      X ESPACENET                                       PATENTSCOPE        X     Google scholar
+    DIALOG         USPTO                                          SINPI
+    CAPES          SITE DO INPI                                   STN
+
+
+3 - REFERÊNCIAS PATENTÁRIAS
+
+                                 Número                                       Tipo       Data de Publicação Relevância *
+
+ US2003232410                                                                A1              18/12/2003           N, I
+ US2005208489                                                                A1              22/09/2005           N, I
+
+4 - REFERÊNCIAS NÃO-PATENTÁRIAS
+
+                                Autor/Publicação                                         Data de publicação   Relevância *
+                                            -                                                    -                 -
+
+
+Observações:
+
+
+                                                                                  Rio de Janeiro, 10 de março de 2020.
+
+ Andre Luiz Jeovanio da Silva
+ Pesquisador/ Mat. Nº 2315191
+ DIRPA / CGPAT II/DIALP
+ Deleg. Comp. - Port. INPI/DIRPA Nº
+ 009/18
+
+
+
+
+ * Relevância dos documentos citados:
+ A documento que define o estado geral da técnica, mas não é considerado de particular relevância;
+ N documento de particular relevância; a invenção reivindicada não pode ser considerada nova quando o documento é
+   considerado isoladamente;
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                         Página 1
+                                                    BR122019012595-3
+I   documento de particular relevância; a invenção reivindicada não pode ser considerada dotada de atividade inventiva ou de ato
+    inventivo quando o documento é considerado isoladamente;
+
+
+
+Y documento de particular relevância; a invenção reivindicada não pode ser considerada dotada de atividade inventiva quando o
+   documento é combinado com um outro documento ou mais de um;
+PN documento patentário, publicado após a data de depósito do pedido em exame, ou da prioridade requerida para o pedido em
+   exame, cuja data de depósito, ou da prioridade reivindicada, é anterior a data de depósito do pedido em exame, ou da
+   prioridade requerida para o pedido em exame; esse documento patentário pertence ao estado da técnica para fins de
+   novidade, se houver correspondente BR, conforme o Art. 11 §2.º e §3.º da LPI.
+
+
+
+
+                                                                                                                       Página 2
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR122019012595-3         N.° de Depósito PCT: US2010/002205
+ Data de Depósito:                     11/08/2010
+ Prioridade Unionista:                 US 61/273,928 (11/08/2009)
+ Depositante:                          SANGAMO BIOSCIENCES, INC. (US)
+ Inventor:                             Yannick Doyon
+ Título:                               Organismos homozigotos para modificação direcionada
+
+                                                              PARECER
+
+
+O pedido de patente de invenção BR122019012595-3 corresponde a uma divisão do pedido
+BR112012003257-7 (pedido original) depositado em 13/02/2012. O pedido original teve solicitação
+de exame realizada por meio da petição nº 800130129686 em 27/06/2013, e obteve
+Conhecimento de parecer técnico de Ciência de parecer (código de despacho 7.1, RPI 2463 de
+20/03/2018), conhecimento de parecer técnico de Ciência de parecer (7.1, RPI 2517 de
+02/04/2019), Indeferimento (9.2, RPI 2539 de 03/09/2019) e Manutenção do Indeferimento com
+notificação na RPI nº 2550 de 19/11/2019 (9.2.4, MANTIDO O INDEFERIMENTO UMA VEZ QUE
+NÃO FOI APRESENTADO RECURSO DENTRO DO PRAZO LEGAL).
+
+
+A solicitação voluntária de divisão do pedido original foi feita através da petição nº 870190056390
+de 18/06/2019, com notificação de publicação do pedido dividido (despacho 2.4) publicada na RPI
+nº 2532 de 16/07/2019 e solicitação de exame por meio da petição nº 800190231563 de
+19/06/2019, ou seja, após o 1º exame do pedido original (parecer técnico de Ciência, 7.1, RPI
+2463 de 20/03/2018), após o 2º exame do pedido original (parecer técnico de Ciência, 7.1, RPI
+2517 de 02/04/2019) e, antes da decisão pelo indeferimento do pedido original (9.2, RPI 2539 de
+03/09/2019).
+
+
+Conforme disposições da Instrução Normativa INPI/PR nº 31/2013 (Art. 28), o pedido dividido é
+considerado como estando na mesma fase processual em que se encontra o pedido
+original, de maneira que, para a análise do presente pedido, foram aproveitados todos os
+documentos, petições e despachos constantes no pedido original até a data de depósito do pedido
+dividido.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                    Página 3
+                                                         BR122019012595-3
+Consequentemente, entende-se que todo o conteúdo que já havia sido discutido até a solicitação
+voluntária de divisão, isto é, nos dois primeiros pareceres técnicos emitidos para o exame do
+pedido original, era de pleno conhecimento da requerente.
+
+
+Pedido dividido gerado a partir de matéria já examinada com incidência no Art. 32
+
+Foi identificado que o quadro reivindicatório do presente pedido dividido é idêntico aquele
+apresentado pelo pedido original por meio da petição nº 870180050605 de 13/06/2018, ao qual foi
+exarado um parecer técnico de ciência de parecer (7.1), notificado por meio da RPI n° 2517 de
+02/04/2019, informando-se que foi identificada a Incidência no Art. 32 da LPI.
+O presente pedido, voluntariamente apresentado em 18/06/2019, após o requerimento de exame
+e 1º exame do pedido original, apresenta em seu quadro reivindicatório reivindicações que
+configuram alteração da matéria reivindicada no quadro original, configurando incidência no Art.
+32 da LPI (vide comentários sobre o quadro 2).
+
+  Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                              Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                           X
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)            X
+
+O pedido refere-se a Sequências Biológicas                                                             X
+
+Comentários/Justificativas
+ANVISA
+O relatório descritivo e quadro reivindicatório válido do pedido original tratam de organismo
+homozigoto para uma modificação em um locus genético tendo no mínimo dois alelos, os quais
+são retirados para substituição com sequências exógenas que não codificam gene repórter ou
+marcador selecionável, compreendendo plantas, animais, sementes; método para produzir o
+referido organismo; kit para produzir o referido organismo; Portanto, foi considerado que a
+matéria pleiteada não necessita da prévia anuência da ANVISA, conforme disposto no art. 229-C
+da LPI, incluído pela Lei 10.196/2001.
+Sequências biológicas
+Através da petição nº 870190056390 de 18/06/2019, a requerente apresenta a Listagem de
+sequências biológicas em formato eletrônico.
+Patrimônio Genético
+Por meio da petição nº 870180050459 de 13/06/2018 (referente ao pedido original), e da petição
+nº 870190056390 de 18/06/2019 (referente ao dividido), a requerente apresenta a Declaração
+Negativa de Acesso ao Patrimônio Genético.
+
+                                     Quadro 1  Páginas do pedido examinadas
+             Elemento                                   Páginas         no da Petição                 Data
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                       Página 4
+                                                        BR122019012595-3
+
+Relatório Descritivo                                      1-58        870190056390         18/06/2019
+Listagem de sequências em
+                                                            -                 -                -
+formato impresso
+Listagem de sequências*                       Código de Controle       870190056390        18/06/2019
+Quadro Reivindicatório                                     1-2         870190056390        18/06/2019
+Desenhos                                                   1-4         870190056390        18/06/2019
+Resumo                                                      1          870190056390        18/06/2019
+      *Listagem de sequências em formato eletrônico referente ao código de controle
+      7C62484DED6D6931 (Campo 1) e 552851ABD1309BB3 (Campo 2).
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                       Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                        X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                               X
+O pedido está de acordo com disposto no art. 32 da LPI                                             X
+Comentários/Justificativas
+
+Incidência no Art. 32 da LPI
+Conforme exposto acima, foi identificado que o quadro reivindicatório do presente pedido dividido
+é idêntico aquele apresentado pelo pedido original por meio da petição nº 870180050605 de
+13/06/2018, no qual foi identificada a Incidência no Art. 32 da LPI - parecer técnico de ciência de
+parecer (7.1), RPI n° 2517 de 02/04/2019.
+
+
+A alteração do preâmbulo das reivindicações do quadro reivindicatório, o título da 1ª página do relatório
+descritivo, do resumo e da Listagem de sequências em formato eletrônico configura incidência no Art. 32
+da LPI, pois o pleito, que passou a ser de Método de produzir um organismo não humano que é
+heterozigoto, em substituição ao anterior (do pedido original) Método de produzir um organismo
+homozigoto, representa uma mudança na matéria alvo de proteção reivindicada, pelo pedido original,
+após a solicitação de exame e após a notificação do primeiro exame técnico 7.1 do pedido original. Cabe
+ressaltar que a incidência no Art. 32 também ocorre porque tal matéria não consta no quadro
+reivindicatório do pedido depositado (original e dividido), tampouco na publicação do PCT
+correspondente (WO2011/019385 de 17/02/2011, depósito PCT/US2010/002205 de 11/08/2010).
+
+
+Assim, o quadro reivindicatório apresentado por meio da petição nº 870190056390 de 18/06/2019 foi
+rejeitado integralmente por contrariar o disposto no Art. 32 da LPI, prosseguindo-se o exame técnico
+com conforme disposto nas Diretrizes sobre a aplicabilidade do disposto no artigo 32 da Lei 9279/96 nos
+pedidos de patentes, no âmbito do INPI (Resol. INPI/PR Nº 093/2013), na condição de pedido dividido,
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                Página 5
+                                                         BR122019012595-3
+que incide no Art. 32 da LPI, com solicitação de divisão feita após análise do pedido original
+(situação 3.ii segundo as referidas diretrizes). Cabe apontar que a solicitação de divisão ocorreu
+após o requerimento de exame, do 1º exame e do 2º exame do pedido original.
+Uma vez que o 2º exame do pedido original já tinha sinalizado a incidência no Art. 32 da LPI
+referente à petição nº 870180050605 de 13/06/2018 (parecer técnico de ciência, 7.1, RPI n°
+2517 de 02/04/2019), e o quadro reivindicatório do presente dividido é idêntico ao quadro
+previamente examinado, uma vez que já houve infração do Pedido Original frente ao disposto no
+referido artigo, e considerando que o Pedido Dividido se encontra na mesma fase processual do
+Pedido Original (conforme o item 6.6 da Resol. INPI/PR nº 17/2013), o pedido de patente deve
+se indeferido, com base no disposto no Art. 32 da LPI, seguindo as disposições das Diretrizes
+sobre a aplicabilidade do disposto no artigo 32 da Lei 9279/96 nos pedidos de patentes, no âmbito do
+INPI (Resol. INPI/PR Nº 093/2013).
+
+                  Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                          X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                        X
+Comentários/Justificativas
+Como o quadro reivindicatório do presente pedido dividido é idêntico aquele apresentado pelo
+pedido original por meio da petição nº 870180050605 de 13/06/2018, no qual foi identificada a
+Incidência no Art. 32 da LPI (2º parecer técnico de ciência, 7.1, RPI n° 2517 de 02/04/2019), o
+quadro reivindicatório apresentado foi rejeitado integralmente por incidência no disposto no Art.
+32 da LPI, e são válidas para a presente análise as considerações anteriormente apresentadas
+no 1º exame do pedido original (parecer técnico de ciência, 7.1, RPI n° 2463 de 20/03/2018),
+petição nº 20120032271 de 13/04/2012: O relatório descritivo do presente pedido não descreve
+suficientemente a invenção de forma a possibilitar sua realização por um técnico no assunto,
+contrariando o disposto no Art. 24 da LPI e Diretrizes de Exame de Pedidos de Patente Bloco I
+Resol. nº 124/2013 (itens 2.13 e 2.15) e o quadro reivindicatório não atende ao disposto no Art.
+25 da LPI, na Instrução Normativa nº 30/2013  Art. 4º (II, III e IV), 5º (I, IV e V) e 6º (I, III) e
+Diretrizes de Exame de Pedidos de Patente na Área de Biotecnologia (instituídas pela Resol. nº
+144/2015 - itens 6.1, 7.2).
+
+
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                    Data de publicação
+    D1        US2003232410A1                                                            18/12/2003
+    D2        US2005208489A1                                                            22/09/2005
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                          Página 6
+                                                        BR122019012595-3
+
+
+    Quadro 5 - Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                    Cumprimento   Reivindicações
+                                                                          Sim            8-16
+            Aplicação Industrial
+                                                                         Não              -
+                                                                          Sim             -
+                    Novidade
+                                                                         Não             8-16
+
+                                                                          Sim             -
+            Atividade Inventiva
+                                                   Não                          8-16
+*O quadro reivindicatório da petição nº 870190056390 de 18/06/2019 foi rejeitado integralmente por
+incidência no Art. 32 da LPI.
+
+
+Comentários/Justificativas
+
+Como o quadro reivindicatório do presente pedido dividido é idêntico aquele apresentado pelo
+pedido original por meio da petição nº 870180050605 de 13/06/2018, no qual foi identificada a
+Incidência no Art. 32 da LPI (2º parecer técnico de ciência, 7.1, RPI n° 2517 de 02/04/2019), o
+quadro reivindicatório apresentado foi rejeitado integralmente por incidência no disposto no Art.
+32 da LPI, e são válidas para a presente análise as considerações anteriormente apresentadas
+no 1º exame do pedido original (parecer técnico de ciência, 7.1, RPI n° 2463 de 20/03/2018),
+petição nº 20120032271 de 13/04/2012, nas quais foi apontado que a matéria pleiteada não
+apresenta novidade nem atividade inventiva mediante os documentos D1 e D2.
+
+
+Além disso, com base no disposto no Art. 32 da LPI, seguindo as disposições das Diretrizes sobre a
+aplicabilidade do disposto no artigo 32 da Lei 9279/96 nos pedidos de patentes, no âmbito do INPI
+(Resol. INPI/PR Nº 093/2013), o presente pedido de patente dividido com solicitação de divisão feita
+após análise do pedido original (situação 3.ii segundo as referidas diretrizes, Resol. INPI/PR Nº
+093/2013), deve se indeferido.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que
+
+      - não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+      - não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      - não apresenta suficiência descritiva (Art. 24 da LPI)
+
+      - as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório descritivo
+      (Art. 25 da LPI)
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                  Página 7
+                                                        BR122019012595-3
+
+      - não é considerado patenteável, uma vez que incide no Art. 18 da LPI
+
+      - acréscimo de matéria do pedido ou do escopo das reivindicações (Art. 32 da LPI)
+
+De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da data
+de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                            Publique-se o indeferimento (9.2).
+
+
+
+                                                                           Rio de Janeiro, 10 de março de 2020.
+
+
+Andre Luiz Jeovanio da Silva
+Pesquisador/ Mat. Nº 2315191
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+009/18
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                   Página 8
+

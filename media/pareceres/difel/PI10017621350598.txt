@@ -1,0 +1,210 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI1001762-3                N.° de Depósito PCT:
+ Data de Depósito:                   18/06/2010
+ Prioridade Unionista:               -
+ Depositante:                        Universidade Federal de Pernambuco (BRPE)
+ Inventor:                           Petrus dAmorim Santa Cruz Oliveira, Luiz Antônio Pereira dos Santos
+ Título:                             Sistema eletrônico de dosimetria de radiação ultravioleta 
+
+                                                              PARECER
+O presente pedido de Patente de Invenção se enquadra no âmbito da RESOLUÇÃO INPI/PR N°
+240, DE 2019, estabelecida no Plano de Ataque ao Backlog de Patentes elaborado pela
+DIRETORA DE PATENTES, PROGRAMAS DE COMPUTADOR E TOPOGRAFIAS DE
+CIRCUITOS INTEGRADOS do INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+(DIRPA).
+
+Por meio dos atos normativos para execução do referido plano, a Administração do INPI avoca a
+responsabilidade sobre os procedimentos adotados no presente exame técnico.
+
+Em 28/12/2020, por meio da petição 870200162188 a Requerente manifestou-se e apresentou
+argumentações em resposta ao parecer emitido no âmbito da Resolução 240/2019, notificado na
+RPI 2595 de 29/09/2020 (despacho 7.1). A Requerente apresentou um novo Quadro
+Reivindicatório, com 7 reivindicações. A Requerente efetuou uma nova revisão do texto e
+apresentou argumentações técnicas em defesa de seu pedido.
+
+Para fins de continuidade do exame estão sendo consideradas as vias abaixo:
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                   1/5 a 5/5             870200109552           29/08/2020
+Quadro Reivindicatório                                 1/2 a 2/2             870200162188           28/12/2020
+Desenhos                                               1/7 a 7/7             870200109552           29/08/2020
+Resumo                                                     1/1               870200109552           29/08/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                               PI1001762-3
+
+
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                       x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   x
+O pedido está de acordo com disposto no art. 32 da LPI                    x
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                  US5306917A                                 26/04/1994
+    D7                               US2010/0096559A1                              22/04/2010
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento            Reivindicações
+                                                         Sim                    1a7
+           Aplicação Industrial
+                                                         Não                     ----
+                                                         Sim                    1a7
+                 Novidade
+                                                         Não                     ----
+
+                                                         Sim                     ----
+           Atividade Inventiva
+                                                         Não                    1a7
+Comentários/Justificativas
+
+A Requerente afirma que não faz sentido o parecer anterior, diante do ineditismo do sistema
+apresentado que produz um sinal elétrico apenas por informação acumulada por efeito de
+memória molecular, e apenas neste momento da leitura por indução da luminescência
+convertida em sinais elétricos e medida a qualquer momento posterior sendo convertida em
+dose e com esta única revisão, requer que seja considerada esta alteração.
+
+Em resposta, leia-se apenas o Abstract de D1, que afirma literalmente o texto abaixo:
+
+Um sistema eletro-óptico destinado ao uso médico que mede e analisa a exposição cumulativa
+à radiação UV de ondas curtas e longas de um indivíduo, conforme detectado pelo sensor 10 do
+sistema conectado ao indivíduo. O sensor 10 registra separadamente sequências de sinais UV-
+
+
+                                                                                          Página 2
+                                           PI1001762-3
+
+
+A e UV-B que são sincronizados no tempo por pulsos de relógio. Após um intervalo
+predeterminado, o sensor 10 é conectado a uma unidade analisadora 12 que processa
+estatisticamente os dados coletados para derivar o fator de risco e gerar informações preditivas.
+
+Portanto, de fato, não existe nenhum ineditismo no sistema apresentado, que produz um sinal
+elétrico apenas por informação acumulada por efeito de memória molecular, e apenas neste
+momento da leitura por indução da luminescência convertida em sinais elétricos reconhecidos
+pelo sistema, medida a qualquer momento posterior é convertida em dose, já que D1 faz
+exatamente o mesmo. Portanto, D1 novamente, destituiria, sozinho, o pleito da reivindicação
+principal, deixando claro, logo no Abstract, que estas características da reivindicação 1 são
+antecipados.
+
+Já os aspectos da multiplicidade de meios de medição do sensor de UV que o sistema fornece,
+ou seja, medição por duas ou três grandezas simultaneamente e, através de circuito eletrônico
+que converte intensidade de luminescência em dose de radiação UV acumulada, a partir de
+sistema controlador (6) que comanda um circuito de sinal óptico (1), um circuito de sinal elétrico
+(3) e circuito de chaveamento (11) para efetuar a medição da luminescência e converter
+eletronicamente na dose de radiação ultravioleta a partir do sinal vindo do circuito digitalizador
+(5) e apresentar o resultado da medição em circuito mostrador (7), como define a reivindicação
+1, são óbvios de D7, mostrado no parecer anterior mas detalhado a seguir.
+
+Observe-se desta vez os circuitos de D7, que mostram várias modalidades de medição de
+sensores de UV, onde as Figuras 5 a 8 mostram a multiplicidade de meios físicos, como
+elétricos, capacitivos, ópticos de medição. A FIG. 5 mostra um detector de UV que compreende
+o elemento de detecção de UV 50 e um LED 52 como o dispositivo de exibição de saída para
+indicar a presença de radiação UV 517. O amplificador 54 funciona como uma unidade de
+medição de tensão sem ganho resistivo na tensão de saída. Um grande resistor R10 está em
+paralelo com o elemento sensor de UV 50 para melhorar a estabilidade da tensão de entrada
+para o amplificador 54. Outro resistor R11 em série com o LED 52 é escolhido com base na
+magnitude da tensão necessária para ativar o LED 52. Com a luz UV 517 iluminando o elemento
+de detecção de UV 50, uma tensão será gerada e, portanto, o LED 52 será ativado para indicar
+a presença da luz UV 517 ([0046]; Fig. 5). Ou seja, a Fig. 5, opera como um buffer de tensão
+(ou seguidor de emissor) gerada pelo sensor gerando uma corrente para o LED, configuração
+com propósito de detecção apenas. Já a Fig. 6 opera com a corrente elétrica do sensor onde a
+tensão de saída V0, do amplificador reflete a fotocorrente Iph do sensor UV 60 de acordo com
+uma relação simples onde a Tensão de saída é igual à multiplicação da fotocorrente do sensor
+Iph por R9 ([0047]; Fig. 6). Já a Fig 7 mostra um circuito capacitivo, onde   um sensor UV pode
+exibir a radiação UV acumulada, funcionando assim como um dosímetro de UV. Utiliza um
+amplificador como um integrador de corrente com alta impedância de entrada, permitindo que a
+fotocorrente Iph flua para o capacitor C5. A tensão de saída do amplificador V0, reflete as cargas
+cumulativas em C5 ([0048]; Fig. 7). Já a Fig. 8, inclui a similaridade de uma chave de seleção
+que ilustra a comutação entre as funções de sensor e dosímetro, como mostrado nas FIGS. 6 e
+7, respectivamente (o que neste caso antecipa diretamente a característica da reivindicação 1
+
+
+                                                                                          Página 3
+                                             PI1001762-3
+
+
+sistema controlador (6) que comanda um circuito de sinal óptico (1), um circuito de sinal elétrico
+(3) e circuito de chaveamento (11)). Como mostrado na FIG. 8, o sensor UV pode detectar tanto
+a intensidade da luz UV 817 quanto a dosagem com um elemento de detecção de UV 80 e um
+dispositivo de saída, de preferência um LCD 86. O elemento de detecção de UV e LCD podem
+ser alternados entre o amplificador de corrente 87 semelhante ao de FIG. 6, e o amplificador de
+carga 88 semelhante ao da FIG. 7. Como tal, o LCD 86 pode alternada ou simultaneamente
+exibir a intensidade ou dosagem da luz UV 817 ([0049]; Fig. 8). Estas transcrições deixam claro
+que o dispositivo de D7 aplica diversos princípios de medição de um sensor de UV, seja
+medindo sua tensão gerada, ou sua corrente gerada ou integrando o sensor em um circuito
+capacitivo. D7 também associa o uso de uma chave de seleção de tipo de medição. D7 também
+deixa claro que todos os circuitos mostrados no pedido que se refiram a medição (Figs. 1 a 6)
+são óbvios ou diretamente implementados dos circuitos de D7.
+
+Portanto, fica demonstrado que o pleito da reivindicação 1 e suas dependentes são óbvias à
+partir de D1 e, mais enfaticamente, de D7 e, assim sendo, o disposto no Artigo 8º da LPI não é
+cumprido por falta de atividade inventiva.
+
+
+
+Conclusão
+
+Do exposto neste parecer, conclui-se que o pedido não apresenta atividade inventiva frente aos
+documentos citados. Foram solicitados e dadas oportunidades para que fosse apontado onde
+estaria(m) a(s) característica(s) inventiva(s) do pedido, mas os argumentos e modificações não
+foram consistentes, mesmo após dois manifestos.
+
+Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da data
+de publicação na RPI, para interposição de recurso.
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 12 de janeiro de 2021.
+
+
+
+
+Peter Michael Beer
+Pesquisador/ Mat. Nº 1547227
+DIRPA / CGPAT III/DIFEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+022/12
+
+
+
+
+                                                                                           Página 4
+

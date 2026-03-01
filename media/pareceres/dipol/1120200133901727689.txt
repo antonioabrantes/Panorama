@@ -1,0 +1,186 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR112020013390-6          N.° de Depósito PCT:EP2018/059957
+ Data de Depósito:     18/04/2018
+ Prioridade Unionista: EP PCT/EP2018/050002 (01/01/2018); EP PCT/EP2018/050003
+                       (01/01/2018)
+ Depositante:          RHODIA OPERATIONS (FR) ; ECOLE SUPERIEURE DE PHYSIQUE
+                       ET DE CHIMIE INDUSTRIELLES DE LA VILLE DE PARIS (FR) ;
+                       CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE
+                       ( C.N.R.S.) (FR)
+ Inventor:             MATHIEU TAUBAN; MICKAËL PRUVOST; ANNIE COLIN; PHILIPPE
+                       POULIN; LISE TROUILLET-FONTI; OLIVIER SANSEAU
+ Título:               Camada, dispositivo e monitor de percepção de pressão, substrato,
+                       material compósito, filme, sistema de múltiplas camadas, uso, e,
+                       processo para fabricação de um material compósito. 
+
+                                                                PARECER
+          Em resposta ao parecer técnico, de 11 de fevereiro de 2023, notificado pela publicação
+na RPI n°2720, de 23 de fevereiro de 2023, a requerente apresentou manifestação na petição
+n°870230042225, de 19 de maio de 2023, onde apresentou um novo quadro reivindicatório,
+além de argumentações, em razão das objeções oferecidas no parecer.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 53               870200081223           30/06/2020
+Quadro Reivindicatório                                   1a7                 870230042225           19/05/2023
+Desenhos                                                 1a7                 870200081223           30/06/2020
+Resumo                                                      1                870200081223           30/06/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+Comentários/Justificativas
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR112020013390-6
+
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                    X
+Comentários/Justificativas
+       Com relação às objeções levantadas no parecer 7.1 em relação aos artigos 24 e 25, a
+requerente argumenta que:
+     A razão de fração de volume de porosidade fechada para fração de volume de porosidade
+aberta não deve ser considerada um parâmetro, mas sim uma característica distintiva do produto.
+
+     As argumentações da requerente foram avaliadas, e pode-se concluir que:
+
+     O relatório descritivo do presente pedido não descreve de forma clara e objetiva a
+invenção de forma a possibilitar sua realização por um técnico no assunto, contrariando o disposto
+no Art. 24 da LPI. Verifica-se a partir do processo de formação do compósito na reivindicação 37,
+não é possível chegar ao produto da reivindicação 1, de modo, que não há no método descrito
+uma forma de controlar os volumes de porosidade aberta e fechada.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                 CN106633891A                                10/05/2017
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                   1 a 38
+            Aplicação Industrial
+                                                        Não
+                                                         Sim
+                 Novidade
+                                                        Não                    1 a 38
+
+                                                         Sim
+            Atividade Inventiva
+                                                        Não                    1 a 38
+
+
+
+Comentários/Justificativas
+
+         Com relação aos documentos mencionados no parecer 7.1, a requerente argumenta que:
+
+
+      O presente pedido apresenta distinção e melhoria funcional perante o processo citado no
+documento D1, pois a tecnologia reivindicada em D1 não menciona e nem sugere uma camada de
+percepção de pressão para perceber baixas pressões, e a fração de volume de porosidade
+fechada.
+
+
+                                                                                          Página 2
+                                           BR112020013390-6
+
+
+
+       As argumentações da requerente foram avaliadas, e pode-se concluir que:
+
+      O documento D1 (Descrição Parágrafos 0010, 0011, 0013, 0053 e 0054) revela um
+material compósito com propriedades de alta constante dielétrica e baixa perda dielétrica, e
+porosidade entre 5 e 45%, que compreende: polidimetilsiloxano como matriz e de 0 a 2,7% em
+peso de uma carga condutora selecionada dentre nanotubos de carbono, negro de fumo, grafite
+ou grafeno, em que os nanotubos de carbono formam nos microporos múltiplos microcapacitores.
+
+Novidade
+
+       No que diz respeito à diretriz de exame de pedidos de Patente sobre patenteabilidade,
+instituída pela Resolução No 169 de 15/07/2016, em seu item 4.15, define para reivindicações de
+produto definidas por parâmetros de desempenho, o examinador deve considerar se as
+características ou parâmetros de desempenho na reivindicação implicam no fato do produto
+reivindicado apresentar uma certa estrutura e/ou composição particular, e se um técnico no
+assunto, a partir das características ou parâmetros de desempenho, não puder distinguir o
+produto reivindicado do descrito no documento de anterioridade, pode-se presumir que o
+produto reivindicado é idêntico ao produto do documento de anterioridade, e desta forma, a
+reivindicação não apresenta novidade.
+
+       Não é explicitamente revelado em D1, uma fração de volume de porosidade fechada, e
+opcionalmente uma fração de volume de porosidade aberta, entretanto, como discutido acima,
+não se pode distinguir o material compósito de D1 do material das reivindicações 1, 14, 17, 21,
+30, 32, 35 e 37, respectivamente. Portanto, as reivindicações 1, 14, 17, 21, 30, 32, 35 e 37 não
+atendem ao requisito novidade, de acordo com o documento D1, estando em desacordo com os
+artigos 8o e 11 da LPI.
+
+       Nas reivindicações dependentes 2 a 13, 15 a 16, 18 a 20, 22 a 29, 31, 33, 34, 36 e 38,
+não foram identificadas características que, mesmo quando combinadas com as características
+da reivindicação independente a que se refere, venha a prover novidade e/ou atividade inventiva
+à matéria.
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -      não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+      -      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -      não apresenta suficiência descritiva (Art. 24 da LPI)
+
+      -      as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+             descritivo (Art. 25 da LPI)
+
+
+
+
+                                                                                            Página 3
+                                      BR112020013390-6
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                            Rio de Janeiro, 12 de junho de 2023.
+
+
+
+
+Mariana Moura Sampaio de Arruda
+Pesquisador/ Mat. Nº 2317393
+DIRPA / CGPAT I/DIPOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/18
+
+
+
+
+                                                                                        Página 4
+

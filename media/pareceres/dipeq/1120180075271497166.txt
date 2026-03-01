@@ -1,0 +1,203 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112018007527-2        N.° de Depósito PCT:CN2016/070453
+ Data de Depósito:                   08/01/2016
+ Prioridade Unionista:               CN 201510750677.1 (06/11/2015)
+ Depositante:                        QINGDAO KINGAGROOT CHEMICAL COMPOUNDS CO., LTD (CN)
+ Inventor:                           LEI LIAN; YURONG ZHENG; BIN HE; XUEGANG PENG; TAO JIN; QI
+                                     CUI
+ Título:                             COMPOSTOS DE PIRAZOLONA OU SAIS DOS MESMOS,
+                                     MÉTODO DE PREPARAÇÃO DOS MESMOS, COMPOSIÇÃO
+                                     HERBICIDA E USO DOS MESMOS
+
+                                                                PARECER
+
+
+         Em 29/09/2021, por meio da petição 870210090052, a Requerente apresentou
+manifestação em resposta ao parecer emitido, notificado na RPI 2635, de 06/07/2021 (despacho
+7.1) e, em anexo, novas vias do relatório descritivo, do quadro reivindicatório (total de 14
+reivindicações) e do resumo. As referidas modificações estão consideradas no Quadro 1.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               No da Petição           Data
+
+Relatório Descritivo                                    1 a 70               870210090052          29/09/2021
+Quadro Reivindicatório                                  1 a 20               870210090052          29/09/2021
+Resumo                                                      1                870210090052          29/09/2021
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                               Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                     X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                             X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                       X
+O pedido está de acordo com disposto no art. 32 da LPI                                        X
+Comentários/Justificativas ______________________________
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1 de 4
+                                           BR112018007527-2
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+Comentários/Justificativas ______________________________
+
+
+
+
+                            Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                   WO9746530                                 11/12/1997
+    D2                                   WO9741106                                 06/11/1997
+    D3                                   WO9626206                                 29/08/1996
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                   1 a 14
+           Aplicação Industrial
+                                                        Não                     -----
+                                                         Sim                    -----
+                 Novidade
+                                                        Não                    1 a 14
+
+                                                         Sim                    -----
+           Atividade Inventiva
+                                                        Não                    1 a 14
+
+Comentários/Justificativas
+
+      Em 29/09/2021, por meio da petição 870210090052, a Requerente apresentou
+manifestação em resposta ao parecer emitido, notificado na RPI 2635, de 06/07/2021 (despacho
+7.1) e, em anexo, novas vias do relatório descritivo, do quadro reivindicatório (total de 14
+reivindicações) e do resumo. As referidas modificações estão consideradas no Quadro 1.
+
+      O novo quadro reivindicatório modificado submetido para exame foi aceito, uma vez que as
+alterações efetuadas limitam-se à matéria inicialmente revelada e atendem ao objetivo de melhor
+esclarecer ou definir a matéria objeto de proteção, atendendo, portanto, ao disposto no artigo 32
+da Lei nº 9.279/96 (LPI).
+
+      Em sua manifestação a requerente alegou que, no intuito de superar as objeções
+levantadas, foi apresentado um novo quadro reivindicatório (total de 14 reivindicações), na qual o
+radical R1R2N- foi restrito para um grupo lactam de 4 a 8 membros (lactamas, vide página 3 do
+relatório descritivo do presente pedido), substituído ou não substituído, que contém 0 a 2
+
+
+
+                                                                                        Página 2 de 4
+                                        BR112018007527-2
+
+
+heteroátomos selecionados de O, S e N. As reivindicações 2 e 4 foram ajustadas de acordo com a
+nova reivindicação 1. Assim, segundo a requerente, os compostos da presente reivindicação 1
+diferem dos compostos divulgados em D1 e D3 pelo menos no radical R1R2N-.
+
+      As alegações da requerente foram consideradas procedentes, em parte, tendo em vista que
+no caso do documento D1, que descreve compostos de Fórmula Geral (I), quando W representa
+CH e Q significa um grupamento Q-2, observa-se que não há mais colidência dos compostos
+classificados como sendo do Tipo II do presente pedido e aqueles ensinados em D1. Em D1 o
+substituinte A é um sistema de anel monocíclico ou bicíclico fundido de 5 a 10 membros, que pode
+ser totalmente aromático ou parcialmente saturado, contendo 1 a 4 heteroátomos selecionados
+independentemente do grupo nitrogênio, oxigênio e enxofre, desde que cada sistema de anel
+heterocíclico não contenha mais de 2 oxigênios e não mais de 2 enxofres, e cada sistema de anel
+é opcionalmente substituído por um ou três R2, desde que quando um átomo de nitrogênio de um
+anel heterocíclico é substituído por R2, então R2 é diferente de halogênio.
+
+      Assim sendo, o radical R1R2N- que, na reivindicação 1, foi restrito para um grupo lactam
+de 4 a 8 membros, substituído ou não substituído, que contém 0 a 2 heteroátomos selecionados
+de O, S e N, difere do substituinte A de D1, apenas pelo fato de que as lactamas constituem um
+anel heterocíclico saturado, enquanto A é um anel aromático ou um anel heterocíclico
+parcialmente saturado. Todavia, não há resultados de testes comparativos que permitam
+identificar um efeito inesperado advindo de tal diferença, de modo que considera-se que os
+compostos pleiteados no presente pedido ainda carecem de atividade inventiva, mediante os
+ensinamentos do documento D1.
+
+      Relativamente ao documento D3 (correspondente BR9607333A, é citado como referência),
+cabe ressaltar que o mesmo revela derivados de pirazolil-benzoil, úteis como herbicidas, nos
+quais o substituinte Q representa um anel pirazólico. O documento D3 ensina compostos
+(reivindicações e página 21, Tabela 1), em que o substituinte Z correspondente ao substituinte
+R1R2N- dos compostos do Tipo II do presente pedido. Z corresponde a um radical heterocíclico de
+5 ou 6 membros, saturado ou insaturado, que contém de 1 a 3 heteroátomos selecionados do
+grupo que inclui oxigênio, enxofre ou nitrogênio (R1R2N-). O grupo lactam, definido no presente
+pedido, é um anel heterocíclico de 4 a 8 membros, saturado, substituído ou não substituído, que
+contém 0 a 2 heteroátomos selecionados de O, S e N. Assim sendo, observa-se que a definição
+do grupo lactam recai dentro da definição dos substituintes Z, divulgada em D3 e, em alguns
+casos, haverá colidência dos compostos reivindicados no presente pedido e aqueles ensinados
+em D3.
+
+      A requerente também argumentou, em sua manifestação, que tornou a reivindicação 5,
+independente, no intuito limitar a matéria pleiteada, superando, assim, as objeções levantadas.
+
+      Na reivindicação 5, além dos compostos em que R 1R2N- representa um grupo lactama,
+R1R2N- significa também um anel pirazolila ou imidazolila, ou seja, R 1R2N- é um sistema de anel
+monocíclico de 5 a 10 membros, que pode ser saturado, parcialmente saturado ou insaturado,
+contendo 1 a 4 heteroátomos selecionados, independentemente, do grupo nitrogênio, oxigênio e
+
+
+
+                                                                                    Página 3 de 4
+                                       BR112018007527-2
+
+
+enxofre. Assim sendo, observa-se que um substituinte pirazolila ou imidazolila, está contido na
+definição do substituinte A de D1 e na definição do substituinte Z de D3, de modo que, também
+nestes casos, haverá colidência de alguns dos compostos reivindicados no presente pedido e
+aqueles ensinados em D1 e D3.
+
+       Perante o exposto, reitera-se que os compostos do Tipo II do presente pedido, ou seja,
+aqueles em que R1R2N- significa um grupo heterocíclico de 3 a 8 membros que contém nitrogênio
+substituído ou não substituído que contém 1 a 3 heteroátomos, não são novos ou inventivos,
+mediante os ensinamentos dos documentos D1 e D3.
+
+
+
+
+Conclusão
+
+
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de novidade (Art .8º e Art. 11 da LPI) e não atende ao requisito de atividade inventiva
+(Art .8º e 13 da LPI).
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                            Rio de Janeiro, 30 de outubro de 2021.
+
+
+
+
+Carla Maria Salerno Polato
+Pesquisador/ Mat. Nº 1485559
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                      Página 4 de 4
+

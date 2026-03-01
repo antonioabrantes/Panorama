@@ -1,0 +1,403 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR122020011494-0          N.° de Depósito PCT:US2016/021700
+ Data de Depósito:                     10/03/2016
+ Prioridade Unionista:                 US US 62/133,016 (13/03/2015)
+ Depositante:                          DOW GLOBAL TECHNOLOGIES LLC (US)
+ Inventor:                             JERZY KLOSIN, KARA A. MILBRANDT, SCOTT D. BOELTER,
+                                       DAVID R. WILSON, MARI S. ROSEN, DEAN M. WELSH, PETER M.
+                                       MARGL, KYOUNG MOO KOH, DAVID M. PEARSON, RAFAEL
+                                       HUACUJA
+ Título:                               Sistema de catalisador 
+
+                                                                    PARECER
+
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas         n.o da Petição           Data
+
+Relatório Descritivo                                          1 a 296         870200071462           08/06/2020
+Quadro Reivindicatório                                         1a4            870210109549           26/11/2021
+Desenhos                                                       1a4            870200071462           08/06/2020
+Resumo                                                          1             870200071462           08/06/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                 Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                       X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                               X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                         X
+O pedido está de acordo com disposto no art. 32 da LPI                                          X
+Comentários/Justificativas
+
+XXX
+
+                      Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                 Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                            X
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                          Página 1 de 9
+                                                         BR122020011494-0
+
+
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                       X
+Comentários/Justificativas
+
+XXX
+
+                                   Quadro 4  Documentos citados no parecer
+
+ Código                                                Documento                                 Data de publicação
+    D1                                            WO2007138545A2                                     06/12/2007
+    D2                                            WO2005123884A2                                     29/12/2005
+    D3                                            WO2005123633A1                                     29/12/2005
+    D4                                            US2006229480A1                                     12/10/2006
+    D5                                            WO2007057458A1                                     24/05/2007
+    D6                                            WO2013168102A1                                     14/11/2013
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                     Cumprimento          Reivindicações
+                                                                           Sim                   1 a 10
+             Aplicação Industrial
+                                                                          Não                      --
+                                                                           Sim                     --
+                     Novidade
+                                                                          Não                    1 a 10
+
+                                                                           Sim                     --
+             Atividade Inventiva
+                                                                          Não                    1 a 10
+Comentários/Justificativas
+
+      Através da petição INPI-RJ nº 870210109549 de 26/11/2021, a requerente apresentou
+manifestação ao parecer de ciência em 1ª instância, notificado na RPI N° 2643, em 31/08/2021,
+apresentando nova via do quadro reivindicatório, com 10 reivindicações, em que contesta os
+critérios de não novidade e não atividade inventiva, relativamente à matéria que se pleiteia
+proteção no presente pedido, frente ao quadro reivindicatório emendado, em contraste com os
+documentos do estado da técnica ora considerados ao exame técnico.
+
+      O presente pedido refere-se a um sistema de catalisador, caracterizado pelo fato de
+compreender: a) uma fonte de cromo, selecionada a partir do grupo consistindo de
+CrCl3(THF)3(triclorotris(tetra-hidrofuranocromo), CrBr3(THF)3, CrI3(THF)3, CrCl3, CrBr3, CrI3,
+CrCl2, CrCl2(THF)2, Cr(acac)3(cromo(III)acetilacetonato), Cr(acetato)3(cromo(III)acetato), Cr(2-
+etil-hexanoato)3(cromo(III)2-etilhexanoato), (THF)3CrMeCl2,(Mes)3Cr(THF), ((TFA)2Cr(OEt)2)2,
+(THF)3CrPh3,            Cr(NMe3)2Cl3,Cr(neopentil)3(THF)3,                       Cr(CH2-C6H4-o-NMe)3,       Cr(TFA)3,
+Cr(CH(SiMe3)2)3,              Cr(Mes)2(THF)3,                  Cr(Mes)2(THF)Cr(Mes)2(THF)2,       Cr(Mes)Cl(THF)2,
+Cr(Mes)Cl(THF)0.5, Cr(p-tolil)Cl2(THF)3,Cr(di-isopropilamida)3, Cr(picolinato)3, CrCl2(THF)2,
+Cr(NO3)3, r(hexafluoroacetilacetonato)3, (THF)3Cr(2,2bifenil)Br, Cr(CO)6, Cr(CO)3(THF)3,
+
+
+
+         Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                      Página 2 de 9
+                                                        BR122020011494-0
+
+Cr(CO)3(NCCH3)3,                (benzeno)Cr(CO)3,                     (tolueno)Cr(CO)3,   acetilacetonatodecromo(III),
+acetatodecromo(III) e misturas dos mesmos;
+
+      b) um ou mais ativadores selecionados a partir do grupo consistindo de ácidos de Lewis
+neutros, compostos metálicos e metaloides do Grupo 13; alumoxanos poliméricos; alumoxanos
+oligoméricos; aluminatos; e ; e,
+
+      c)    pelo menos um composto de ligação contendo fosfaciclo da fórmula:
+
+
+
+
+      em que os substituintes são definidos na reivindicação 1 do presente pedido
+(reivindicação 1).
+
+      Destaca-se das argumentações da requerente que a estrutura do composto de ligação
+contendo fosfacilo da reivindicação 1 do presente pedido não é revelada em D5. A requerente
+argumenta, ainda, que o foco dos documentos do estado da técnica está nas estruturas não
+cíclicas, tanto em ligantes de exemplos enumerados quanto em ligantes sintetizados reais ou
+complexos      de ligante-metal nos                    exemplos, em que a escolha e direcionamento a uma
+estrutura fosfolano não seria óbvia e evidente a um técnico no assunto, notadamente pelo fato
+de   que,      segundo           a     requerente,            um        técnico   no   assunto   espararia   estrutura
+fosfolano(dialquilfosfina) menos ativas tendo em face os ensinamentos do estado da técnica.
+
+      Denota-se que o presente pedido, BR122020011494-0, é um pedido dividido do pedido
+BR112017019446-5, e reivindica uma matéria mais específica que a do pedido originalmente
+depositado, do qual decorre (petição INPI Nº 870200068706, de 02/06/2020), nomeadamente
+quanto aos detalhamentos aos substituintes da reivindicação independente 1, implicando, assim,
+em dupla proteção. Verifica-se, ainda uma evidente duplicidade das referidas matérias, o que
+vem a infringir o disposto no Art. 6º da LPI, em caso de deferimento de ambos os pedidos.
+
+      Segundo o Item 3.142 da Diretriz da Resolução INPI/PR nº 124/2013 acerca da Revisão
+das Diretrizes de Exame e Pedidos de Patentes Módulo 1, publicada na RPI 2241 de
+17/12/2013, no caso de um pedido dividido reivindicar uma matéria mais específica que a do
+pedido original do qual decorre, na ocasião do exame técnico deste pedido dividido, o mesmo
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                      Página 3 de 9
+                                                        BR122020011494-0
+
+deve ser indeferido por não atender ao disposto no artigo 6º da LPI, uma vez que, ratificando
+novamente, o fato implica em dupla proteção, tendo em vista que a matéria mais ampla
+reivindicada no pedido original já abrange o detalhamento reivindicado no pedido dividido.
+
+      Cabe ressaltar que o artigo 6° da LPI estabelece que ao autor de invenção será
+assegurado o direito de obter a patente que lhe garanta a propriedade. Entretanto, vale notar
+que nos Sistemas de Patentes é amplamente aceito o princípio de que, para o mesmo
+requerente, não serão concedidas duas patentes para uma mesma invenção e tal entendimento
+é compartilhado por este INPI. Portanto, para fins de entendimento do artigo 6° da LPI, para uma
+mesma invenção, é vedado o duplo patenteamento (Itens 3.138 e 3.140 da Resolução INPI/PR
+nº 124/2013 acerca da Revisão das Diretrizes de Exame e Pedidos de Patentes Módulo 1,
+publicada na RPI 2241 de 17/12/2013).
+
+      Não obstante as irregularidades ao patenteamento ora apontadas no que compreende o
+pedido originalmente depositado, denota-se que o pedido original, BR112017019446-5, foi
+indeferido, conforme notificado na RPI N° 2624, em 20/04/2021. Sobre tal, considera-se a
+mesma análise técnica referente ao pedido original, nomeadamente com relação aos
+documentos D1 a D6:
+
+      D5 revela, implicitamente, ligantes fosfíclicos com um grupo de ponte >N-R5, portanto, a
+ponte L=N, p= 1 e q= 1 (D5, página 18, linhas 9-12), uma vez que 2x R2 pode formar um
+fosfaciclo e os grupos R2, por sua vez, podem ser (ar)alquil(=sp3 hibridizado C) moléculas, (D5,
+pág 16, linha 28 à pág. 17, linha 9). Isso também se reflete no composto específico ora revelado
+em D5, na página 20, linha 1, com duas moléculas R2=Etil idênticos, em que Etil também é uma
+molécula de R2 geralmente preferida (D5, exemplo, página 17, linha 9). Assim, para chegar a
+uma fosfolana saturada, o fosfaciclo L= C, q de C(R5)q e q de L(R5)q ambos sendo 2, além da
+referida opção cíclica, dois grupos alquilas com pelo menos 2 átomos de carbono, que precisam
+ser selecionados, como, por exemplo, o a molécula substituinte -Etil, bem como os respectivos
+átomos de carbonos beta-conectados.
+
+      No entanto, os grupos R2 em D5 também podem ser grupos alquenil, em particular
+grupos etenil ou propenil (D5, página 17, linha 4). Assim, para chegar ao também fosforeno
+reivindicado (1 ligação dupla) e fosfol (2 ligações duplas) contendo ligantes, dois C2+ alquenil ou
+um C2+ alquenil, juntamente com um grupo de alquila C2+, esses devem ser selecionados, e da
+mesma forma os dois átomos de carbonos beta-conectados.
+
+      Os ditos catalisadores são usados em um sistema catalisador para oligomerização
+olefina, em particular, para tri-e/ou tetramerização seletiva, compreendendo ainda uma fonte de
+cromo (CrCI3, com e sem ligante complexado) e um ou mais ativadores (MAO, TIBAO) (D5,
+exemplos 1-11 e Tb 1).
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                   Página 4 de 9
+                                                        BR122020011494-0
+
+      Assim, entende-se que os ligantes da invenção estão antecipados por D5. Entretanto, a
+matéria difere do objeto de proteção da reivindicação 1 em que uma seleção múltipla de
+constituintes à elaboração do sistema catalítico é proporcionada no presente pedido.
+
+      Comparando a reivindicação 1 a D5, a questão não é se o matéria objeto que se pretende
+proteger na reivindicação 1 deve ter um substituto aromático e/ou uma posição orto à qual um
+substituto polar poderia anexar no átomo fosforoso, além do fosfaciclo, de modo a ser
+antecipado ou previsto por D5. Isso definiria uma estrutura de fosfônio amida, muito distante,
+tanto do D5, quanto do presente pedido. Em vez disso, a questão é como a estrutura atualmente
+definida pode ser derivada de D5, e foi exatamente isto que foi mostrado acima. Portanto,
+entende-se que o problema a ser resolvido de acordo com o presente pedido é o de fornecer um
+sistema catalisador para oligomerização de olefinas, em particular a trimerização e
+tetramerização de etileno, que prevê uma redução da formação de polímeros e melhor eficiência
+e seletividade catalisador.
+
+      Denota-se que não foi demonstrado que o problema do estado da técnica tenha sido
+resolvido, notadamente pelas características técnicas distintivas necessárias à diferenciação
+clara e precisa do estado da técnica, e ao longo de toda a faixa de ligantes que se possa inferir
+dentro do escopo amplo da matéria ora reivindicada (ligantes PNP monofosfacíclicos).
+
+      Ressalta-se, também, que não foram realizados testes comparativos significativos que, no
+caso, incluam a escolha de um composto revelado no presente pedido e de uma substância ou
+composto adequadamente comparativo, escolhido do estado da técnica, em que o dito par de
+comparação possua a máxima semelhança em relação à estrutura e aplicação. Tal exigência de
+comparação para com o estado da técnica mais próximo baseia-se no princípio da dependência
+estrutural das propriedades das substâncias químicas, ou seja, no fato de que essas
+propriedades refletem a estrutura das substâncias. Dadas as propriedades semelhantes a serem
+esperadas, tendo em vista a similaridade estrutural de duas substâncias, a evidência de uma
+melhora abrupta pode ser considerada, então, inesperada e surpreendente, de modo a
+preencher os critérios de patenteabilidade.
+
+      Cabe ressaltar, como já abordado exaustivamente no exame técnico do pedido original,
+BR112017019446-5, que ligantes como L553 não são diretamente comparáveis aos ligantes
+"Sasol" do estado da técnica, por exemplo, 100, uma vez que mais de uma variável experimental
+foi alterada, ou seja, (1) P-C(sp2) é alterada para P-C(sp3); (2) essa alteração é por inserção
+formal de um átomo C(sp3) adicional entre P e Ph, e; (3) os dois C(sp3) ligados para formar um
+ciclo fosfaciclo. Neste caso, quaisquer diferenças de atividade ou seletividade não podem,
+portanto, ser atribuídas a apenas uma dessas alterações, como, por exemplo, (3) conforme
+compreendido no presente pedido. O mesmo se aplica ao bis(fosfito cíclico)amida L430, L431 e
+1,2-bis(dioxafosfinano-1-il)benzeno L453 mutatis mutandis.
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                    Página 5 de 9
+                                                        BR122020011494-0
+
+      Além disso, o ligante L553 ora destacado pela requerente, nem sequer se enquadra na
+reivindicação 1 propriamente dita, uma vez que nenhum dos grupos R3 ou R4 é um hidrocarbil
+substituído. O mesmo se aplica ao outro ligante destacado L565, mutatis mutandis. Portanto,
+não está claro quais características estruturais são responsáveis por resolver qual problema.
+
+      Por outro lado, vários dos ligantes que se enquadram no no escopo da reivindicação 1 (Tb
+4: L615. L628, L636, L664), são os mais altos geradores de subprodutos de polímero. Mais uma
+vez, nenhum deles é diretamente comparável ao ligante Sasol 100, uma vez que várias
+mudanças estruturais foram realizadas.
+
+      Além disso, a estrutura genérica de acordo com a fórmula na reivindicação 1 incluem,
+também, fosforenos e fosfol, uma vez que ambos os anéis-q podem ser 1 ou 2, em que o último
+anel e o isômero 2-fosforeno, como originalmente definido no reivindicação 1 e, ainda, presente
+ao longo do relatório descritivo, em que os dois átomos de anel diretamente ligados a P são
+hibridizados sp3. Uma vez que as espécies P-{C(sp3)}2 foram mostradas em, por exemplo, D1
+para prover uma trimerização mais seletiva, com subproduto ainda menos polimérico, deve-se
+concluir que este característica tem, de fato, uma influência sobre uma etapa inventiva, na
+medida em que, aparentemente, resolve um problema técnico. No entanto, não foram fornecidos
+exemplos para os análogos de fosfato insaturados. Destaca-se que uma propriedade comum
+sobre toda a faixa reivindicada, portanto, não é crível.
+
+      De outra forma, entende-se que a modificação a ser realizada em D5 para se chegar à
+matéria da reivindicação 1, ou seja, empregar uma alternativa cíclica de um ligante
+especificamente divulgado para o mesmo propósito, apareceria de forma direta e, portanto,
+óbvia e evidente para um técnico no assunto, notadamente quando se considera seu
+conhecimento técnico e prático da sua rotina de trabalho.
+
+      Também não pôde ser observado um efeito técnico inesperado e surpreendente sobre
+toda a faixa da reivindicação 1, notadamente com base nos extensos dados experimentais
+apresentados no presente pedido e no estado da técnica. Assim, essencialmente, os resultados
+comparáveis quanto à atividade inventiva são esperados, seguindo os ensinamentos do estado
+da técnica, em que um técnico no assunto seria motivado, de maneira óbvia e evidente a realizar
+uma simples substituição de um grupo fosfacíclico por um grupo dialquilfosfino correspondente
+(ver, por exemplo, D2 (páginas 5, linha 11-6, linha 9; página 9, linhas 4-5; páginas 10, linha 13-
+11, linha 8; página 14, linhas 19-22; reivindicação 1), D3 (página 18, linhas 13-14; páginas 24.
+linha 21-25, linha 1; reivindicações 25, 30), D4 (para. (0072), exemplos 39-44: Ligantes PNP
+com grupos PPh2/'PEt2 e 2x PEt2, opção geral de fosfaciclos, ou seja, 2x Et combinado dá um
+grupo fosfolanil não substituído), ou D5, em virtude de serem apresentadas como alternativas
+igualmente viáveis.
+
+      Em particular, os grupos dialalquilfosfino são conhecidos de D3 ou D4 (exemplos 40, 42,
+44) para reduzir a atividade (consulte, por exemplo, D3, Tb 1, exemplos 17 (= (L)100 na
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                  Página 6 de 9
+                                                        BR122020011494-0
+
+numeração atual do presente pedido) vs 33 e 54. Os ligantes de 1,2 bis-(difenilfosfino)benzeno
+são conhecidos por aumentar a atividade versus os L100, ou similares, "Sasol" ligantes (ver D1,
+exemplos comparativos 6 (ligante 2a) vs 9 (ligante 3a). Ao mesmo tempo, o ligante bis-fosfolano
+correspondente "Me-DuPhos", L372 (presente aplicativo, página 252) reduz a atividade abaixo
+da de L100 (Tb 7. exemplo 44 vs 43). Assim, a substituição simples de Alk2P ao anel fosfolano
+saturado análogo leva a ligantes de atividade comparável.
+
+      D1, que também é considerado relevante, divulga ligantes PNP em um sistema
+catalisador (D1, páginas 9, linha 26 a 10, linha 19; reivindicações 5-9) compreendendo ainda
+uma fonte de cromo e um ou mais ativadores, para oligomerização de olefina, em particular tri-
+e/ou tetramerização seletiva (D1, página 2. Linhas 8-11; reivindicação 2; exemplos trabalhados).
+Os ligantes devem ter pelo menos uma função de doador D, compreendendo múltiplas ligações
+entre 2 átomos adjacentes, ligados através de um grupo de ligação L a um dos P's, -L-D,
+preferencialmente sendo benzil, ou seja, uma molécula com um sp3-C adjacente a P (como
+realizado no ligante 2b. Vide página 14). Ainda, os dois P's estão ligados por um grupo Y, que
+pode ser >N-R7 (R7 que abrange a definição atual de R5. Vide página 8, linhas 15-32). D1
+revela muitos ligantes P-C(sp3), tipicamente benzil (Vide página 11, linhas 27-30) como
+concretizações dos ligantes P-Y-P, sendo Y como acima (D1, página 10, linha 16). Entretanto,
+D1 não revela os ligantes P cíclicos. Assim, a matéria da reivindicação 1 difere da matéria do
+presente pedido, principalmente, na forma em que os análogos cíclicos dos mesmos ligantes
+estão compreendidos na matéria do presente pedido.
+
+      Por outro lado, entende-se que um técnico no assunto, na busca por uma alternativa ao
+ligante de D1, considerando o mesmo complexo para o mesmo fim, tendo em vista o único
+problema a ser resolvido quanto aos ligantes cíclicos P, considerando a ausência de exemplos
+comparativos diretos, seria motivado, de maneira óbvia e evidente, sem qualquer esforço
+extraordinário, a buscar a alternativa, geralmente disponível, de usar os ligantes mono, bis ou
+policíclicos correspondentes. Portanto, tal escolha é entendida como sendo de conhecimento
+geral comum, como, por exemplo, dentro de qualquer um daqueles ligantes revelados em D2 a
+D4, todos divulgando exemplos explicitamente declarados ou trabalhados de, por exemplo,
+ligantes -P(alquil)2 (alquil= etil), enquanto fornece a opção de um grupo de ligação >N-R5 entre
+os dois átomos de fósforo dos ligantes empregados. Assim, cada um dos documentos D2 a D4
+também diz respeito à opção de ter compostos multi-Iigantes, que compreendem a matéria ora
+reivindicada no presente pedido.
+
+      Uma vez que não são observados efeitos inesperados e surpreendentes a partir desta
+modificação direta, a matéria que se pleiteia proteção na reivindicação 1 é vista como
+antecipada por D1, em combinação com qualquer um dos documentos D2 a D4.
+
+      Além disso, a solução também poderia ser vista como antecipada por qualquer um dos
+documentos D2-D4 ou D6, isolados, em que todas as características técnicas são conforme
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                Página 7 de 9
+                                                          BR122020011494-0
+
+reveladas no presente pedido, em que apenas uma escolha trivial, por meio de uma seleção
+múltipla, deva ser envolvida para se chegar à matéria da reivindicação 1.
+
+      Além da opção geral para espécies cíclicas e muitos ligantes PNP específicos, D6 (D6,
+página 12, linhas 10-21) revela, explicitamente, o isômero de difosfinoimina, conforme revelado
+no presente pedido (pág. 57, parágrafo [0093]), bem como espécies multi-ligantes como
+reivindicado na reivindicação 1.
+
+      Por fim, entende-se que as reivindicações dependentes não parecem adicionar quaisquer
+características que possam contribuir para a presença de atividade inventiva, uma vez que são
+oriundas de modificações arbitrárias, de conhecimento da rotina de um técnico no assunto,
+compreendidas no âmbito da sua rotina prática habitual.
+
+Conclusão
+
+      Conclui-se que os argumentos apresentados pela requerente foram aceitos, mas NÃO
+foram considerados persuasivos, e que a matéria que se pleiteia proteção nas reivindicações 1
+a 10 NÃO apresenta novidade e NÃO apresenta atividade inventiva, descumprindo o disposto
+nos artigos 8°, 11 e 13 da LPI.
+
+      Denota-se, ainda, que a matéria que se pleiteia proteção nas reivindicações
+dependentes não conferem, por suas características técnicas particulares, em combinação às
+características técnicas de outras reivindicações, quando se referem, nenhum efeito técnico
+inesperado ou surpreendente capaz de conferir atividade inventiva à matéria ora reivindicada,
+descumprindo o disposto nos artigos 8° e 13 da LPI.
+
+      Adicionalmente, conclui-se que o presente pedido dividido reivindica matéria idêntica a do
+pedido original do qual decorre, pedido BR112017019446-5, não atendendo ao disposto no
+artigo 6° da LPI, uma vez que implica em dupla proteção (Itens 3.141 e 3.142 da Resolução
+INPI/PR nº 124/2013 acerca da Revisão das Diretrizes de Exame e Pedidos de Patentes Módulo
+1, publicada na RPI 2241, de 17/12/2013).
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -      não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI).
+
+      -      não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da
+             LPI).
+
+      -      Incorre em dupla proteção (Art .6º da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a
+partir da data de publicação na RPI, para interposição de recurso.
+
+
+                                                                         Rio de Janeiro, 7 de dezembro de 2021.
+
+
+
+                                                                              Publique-se o indeferimento (9.2).
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                             Página 8 de 9
+                                                      BR122020011494-0
+
+
+
+
+Josias Azeredo Barbosa
+Pesquisador/ Mat. Nº 1882823
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº
+003/14
+
+
+
+
+      Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12        Página 9 de 9
+

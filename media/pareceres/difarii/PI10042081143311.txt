@@ -1,0 +1,233 @@
+                                SERVIÇO PÚBLICO FEDERAL
+                                 MINISTÉRIO DA ECONOMIA
+                     INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                 RELATÓRIO DE EXAME TÉCNICO
+
+N.° do Pedido:              PI1004208-3                N.° de Depósito PCT:
+Data de Depósito:           21/10/2010
+Prioridade Unionista:       -
+Depositante:                Universidade de São Paulo - USP (BRSP)
+Inventor:                   Ana Maria Carmona Ribeiro, ELSA MASSAE MAMIZUKA, LILIAN
+                            BARBASSA
+Título:                     Agente tuberculostático híbrido, composição farmacêutica, processo
+                            de preparação de agente tuberculostático híbrido, método de
+                            tratamento de tuberculose e uso
+
+                                                 PARECER
+
+
+                            Quadro 1  Páginas do pedido examinadas
+             Elemento                    Páginas                n.o da Petição           Data
+
+Relatório Descritivo                       1-40                 870190133577           30/12/1899
+Quadro Reivindicatório                      1-4                 870190133577           13/12/2019
+Desenhos                                    1-8                  18100039530           21/10/2010
+Resumo                                       1                  870190133577           13/12/2019
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                   Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                         X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                 X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                           X
+O pedido está de acordo com disposto no art. 32 da LPI                            X
+Comentários/Justificativas
+
+
+
+                  Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                   Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI              X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI            X
+
+
+@MODELO_SISCAP@                                                                        Página 1 de 5
+                                           PI1004208-3
+
+
+Comentários/Justificativas
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                               Data de publicação
+    D1           CARMONA-RIBEIRO, AM. Interactions between Cationic                   2000
+               Liposomes and Drugs or Biomolecules. An. Acad. Bras. Ci.,
+                                (2000) 72, pp. 39-43
+    D2        LINCOPAN N & CARMONA-RIBEIRO, AM. Lipid-covered drug                    2006
+               particles: combined action of dioctadecyldimethylammonium
+                 bromide and amphotericin B or miconazole. Journal of
+                  Antimicrobial Chemotherapy (2006) 58, pp. 6675
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade             Cumprimento               Reivindicações
+                                                    Sim                        1-28
+            Aplicação Industrial
+                                                    Não                          -
+                                                    Sim                        1-28
+                  Novidade
+                                                    Não                          -
+                                                    Sim                          -
+            Atividade Inventiva
+                                                    Não                        1-28
+
+
+
+Comentários/Justificativas
+
+
+         O primeiro parecer técnico concluiu que a matéria das antigas reivindicações 30 e 32 não
+era considerada invenção, segundo o inciso VIII do Art. 10 da Lei 9279/96; a matéria das
+reivindicações 1-32 não apresentava atividade inventiva frente aos documentos D1 e D2 (Arts.
+8o e 13 da Lei 9279/96); além disso, o relatório carecia de suficiência descritiva (Art. 24 da Lei
+9279/96) para a ampla gama de compostos definidos como dialquildimetilamônio cujo pleito,
+consequentemente, não apresenta fundamentação, e este termo não define de maneira e
+precisa a matéria pleiteada (Art. 25 da Lei 9279/96).
+
+         Com base no novo quadro reivindicatório emendado e em todos os argumentos
+apresentados pela Requerente, entende-se que as objeções sobre método terapêutico,
+suficiência descritiva, fundamentação, clareza e precisão do quadro foram superadas; porém, o
+presente pedido não apresenta atividade inventiva frente aos documentos D1-D2, pelos motivos
+discutidos a seguir.
+
+
+
+
+                                                                                      Página 2 de 5
+                                           PI1004208-3
+
+       A nova reivindicação 1 refere-se a agente tuberculostático híbrido que compreende (a)
+um sal ou mais sais de cloreto, brometo ou iodeto de dihexadecildimetilamônio ou
+dioctadecildimetilamônio e (b) rifampicina adsorvida em (a).
+
+
+       Em concordância com o subsídio da ANVISA, o primeiro parecer técnico concluiu que os
+documentos D1 e D2 não são impeditivos para a novidade porém são relevantes para a
+atividade inventiva do presente pedido.
+
+       Em sua manifestação, a Requerente defende que há no pedido especificidades técnicas
+relevantes que não foram abordadas pelas anterioridades evidenciadas no parecer.
+
+       Primeiramente, a Requerente afirma que a estrutura química particular de diferentes
+fármacos resulta em graus distintos de incorporação e atividade quando estes são combinados
+a bicamadas em geral.
+
+       Segundo a Requerente, tanto D1 quanto D2 tratam de combinações de vesículas de
+DODAB com agentes fungicidas, tais como a anfotericina B (figura 1) e miconazol (figura 2)
+diferentemente do proposto no pedido em tela. A interação entre o DODAB e rifampicina (figura
+3) não poderia ser deduzida a partir da interação entre o DODAB e os fungicidas mencionados,
+uma vez que esses compostos apresentam estruturas químicas distintas.
+
+       Além disso, a Requerente defende que a ação sinérgica favorável para a combinação
+do agente tuberculostático rifampicina com as bicamadas catiônicas de brometo de
+dioctadecildimetilamonio   contra   uma    espécie   de   micobactéria   jamais   fora   reportada
+anteriormente ao depósito do pedido em tela. Tal interação não poderia ser deduzida por um
+técnico no assunto a partir de D1 e D2.
+
+       Após analisá-los atentamente, não é possível concordar com os argumentos da
+Requerente.
+
+       Conforme apontado no primeiro parecer técnico, D1 ensina que lipossomos de DODAB
+são eles próprios adequados para usos como bactericidas e nos quais múltiplos fármacos contra
+múltiplas infecções podem ser incluídas (ver D1 página 40, coluna direita, segundo parágrafo).
+
+       D2, por sua vez, descreve drogas antifúngicas (miconazol e anfotericina B) recobertas
+com dioctadecildimetilamônio (DODAB) e avalia o efeito antifúngico sinérgico da combinação.
+
+       Embora não revelem especificamente rifampicina, D1 e D2 ensinam que outras drogas,
+como miconazol e anfotericina B podem ser recobertas com ou incorporada na bicamada de
+dioctadecildimetilamônio (DODAB).
+
+       Cada droga evidentemente possui suas próprias características físico-químicas, por
+exemplo, sua natureza hidrofóbica/hidrofílica, caráter ácido ou básico etc. Cabe notar, porém,
+que D1 deixa claro que diversos fármacos antimicrobianos podem ser incorporados em DODAB.
+
+       Embora faça uma afirmação genérica, D1 não exclui certos fármacos antimicrobianos
+que sofreriam dificuldades ou impedimentos de serem incorporados em DODAB. Portanto, as
+
+
+
+                                                                                     Página 3 de 5
+                                          PI1004208-3
+
+
+características físico-químicas de um dado fármaco, por exemplo rifampicina, não seriam, a
+princípio, críticas ou impeditivas para a incorporação em DODAB, visto que DODAB permite a
+incorporação de diversos antimicrobianos, segundo D1.
+
+       Sendo assim, a rifampicina figura entre as diversas opções de antimicrobianos
+disponíveis que um técnico no assunto dispõem para formular com DODAB. Na medida em que
+prepara lipossomos de DODAB/rifampicina, o presente pedido não configura a exceção mas sim
+a regra geral de D1, segundo o qual diversos antimicrobianos são passíveis de serem
+formulados com DODAB.
+
+       Cabe salientar ainda que, conforme apontado no subsídio da ANVISA, muitos ensaios
+descritos em D2 são comuns ao presente pedido de invenção como por exemplo: a preparação
+de uma dispersão lipídica de DODAB para formação de vesículas bicamada; a determinação da
+distribuição do tamanho das partículas de DODAB + miconazol e DODAB+anfotericina B através
+do potencial zeta das dispersões [].
+
+       Os lipossomos de DODAB/rifampicina são, portanto, preparados e analisados por
+métodos conhecidos do estado da técnica. Desta forma, os lipossomos produzidos não
+evidenciam características distintas e notáveis sobre aqueles do estado da técnica, uma vez que
+o método de preparação é basicamente o mesmo.
+
+       Com relação ao efeito técnico produzido, o parágrafo [0087] do relatório afirma que a
+formulação DODAB/RIF apresenta efeito sinérgico, a CBF resultou em 0,5 que foi calculado
+através da soma da CBF das duas drogas em combinação. De acordo com Odds, 2003 (ODDS,
+F.C. Synergy, antagonism, and what the chequerboard puts between them (2003) J. Antimicr.
+Chemother., 52, 1) uma CBF  0.5 corresponde a sinergismo das drogas, enquanto que um
+índice > 4 indica antagonismo e entre 0,5 e 4, indica comportamento independente.
+
+       Do exposto acima, observa-se que o valor de CBF de 0,5 é um valor limítrofe, estando
+na fronteira entre um efeito sinérgico e um comportamento independente. Não se trata, portanto,
+de um efeito notável ou surpreendente.
+
+       Enfim, não se observa qualquer característica técnica no presente pedido que possa
+servir de base para justificar uma atividade inventiva ao presente pedido, por exemplo, as
+concentrações específicas de DODAB e rifampicina, tamanho de partículas, ou combinação com
+outros antimicrobianos.
+
+
+
+
+Conclusão
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não
+foram apresentados argumentos técnicos que permitam reverter o entendimento anterior, no
+primeiro parecer técnico (7.1) notificado na RPI 2541 de 17/09/2019, visto que o presente pedido
+encontra-se em desacordo com os Arts. 8o e 13 da Lei 9279/96.
+
+
+
+                                                                                     Página 4 de 5
+                                          PI1004208-3
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                          Rio de Janeiro, 24 de janeiro de 2020.
+
+                                                              Publique-se o indeferimento (9.2).
+
+
+
+
+Dárcio Gomes Pereira
+Pesquisador/ Mat. Nº 1741666
+DIRPA / CGPAT I/DIFAR-II
+Deleg. Comp. - Port. INPI/DIRPA No
+001/15
+
+
+
+
+                                                                                   Página 5 de 5
+

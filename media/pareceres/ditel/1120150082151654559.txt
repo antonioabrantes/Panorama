@@ -1,0 +1,266 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112015008215-7         N.° de Depósito PCT:EP2013/071817
+ Data de Depósito:                   18/10/2013
+ Prioridade Unionista:               EP 12382407.0 (19/10/2012)
+ Depositante:                        LLEIDANETWORKS SERVEIS TELEMATICS, S. A. (ES)
+ Inventor:                           FRANCISCO SAPENA SOLER
+ Título:                             Método para gravação e certificação do recebimento de correio
+                                     eletrônico 
+
+                                                                PARECER
+           O presente pedido refere-se a um método para receber e-mail de um usuário de
+transmissão em um específico endereço de e-mail, gerando prova de todas transações da
+operação para entregar um certificado ao usuário de transmissão como um terceiro confiável do
+emitente e a entrega do e-mail, indicando o conteúdo e os anexos, pelas etapas de recepção em
+um servidor de correio, enviando uma cópia ao recipiente, seus detalhes em uma base de dados
+e seu registro no registro do cliente e na base de dados, onde finalmente uma unidade de
+processamento de dados cria um recebimento eletrônico com dados transacionais, dados
+enviados, e anexos e seus sinais digitais criando o certificado que será enviado ao usuário
+inicial.
+
+           Em 09/11/2020, por meio da petição 870200140669, o Depositante apresentou
+modificações no pedido em resposta ao parecer emitido no âmbito da Resolução Nº 241/2019,
+notificado na RPI 2588 de 11/08/2020 segundo a exigência preliminar (6.21).
+
+           Em        05/11/2022, por meio da petição 870220102559, a Requerente apresentou
+argumentações, sem modificações, no pedido em resposta ao parecer emitido, notificado na RPI
+2692 de 09/08/2022 (despacho 7.1).
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                     1a8                 870200140669     09/11/2020
+Quadro Reivindicatório                                   1a4                 870200140669     09/11/2020
+Desenhos                                                 1a3                 860150064167     13/04/2015
+Resumo                                                      1                870200140669     09/11/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                           BR112015008215-7
+
+
+                                          maio de 1996  LPI
+Artigos da LPI                                                             Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                         X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                 X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                     X
+O pedido está de acordo com disposto no art. 32 da LPI                      X
+Comentários/Justificativas: --
+
+                Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                             Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI        X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                      X
+Comentários/Justificativas
+
+   1. Considera-se que a matéria do pedido atende ao disposto no Artigo 24 da LPI, visto que a
+         suficiência descritiva não foi questionada nos Escritórios/Autoridades consultados para
+         elaboração da exigência preliminar (6.21), conforme a Norma de Execução SEI Nº 7/2019,
+         procedimento P029, item 5.2.11.
+   2. Como não foram alterados os termos indicados no parecer anterior e não foram
+         apresentadas argumentações referente à falta de clareza, mantemos o entendimento do
+         parecer anterior:
+         1. As reivindicações a seguir não atendem ao disposto no Art. 25 da LPI e na Instrução
+            Normativa nº 30/2013  Art. 4º (III), pois a matéria pleiteada não está definida de
+            maneira clara, precisa e positiva pelas seguintes razões:
+            1. Reivindicação 1: O termo envio em modo plano do correio não é claro pois não
+                 especifica em termos técnicos o envio de um e-mail.
+            2. Reivindicações 3, 4 e 13: O termo Janela de certificação não é claro pois não
+                 especifica em termos técnicos um pool de certificações.
+
+
+                             Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                               Data de publicação
+    D1       US 2005/0033958 A1                                                      10/02/2005
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento             Reivindicações
+                                                         Sim                     1 a 13
+            Aplicação Industrial
+                                                         Não                       --
+                  Novidade                               Sim                     1 a 13
+
+
+
+
+                                                                                            Página 2
+                                            BR112015008215-7
+
+
+                                                               Não                                  --
+
+                                                               Sim                                  --
+          Atividade Inventiva
+                                                               Não                                1 a 13
+Comentários/Justificativas
+
+   1. Argumentação do requerente:
+
+      1. Não apenas o certificado digital raiz de chave pública é baixado para o dispositivo,
+          mas também um certificado digital pessoal exclusivo, mais uma vez, qualquer pessoa
+          que use o dispositivo pode acessar esse certificado. Dois certificados que podem ser
+          baixados, manipulados ou transferidos para outro dispositivo e um dispositivo com
+          todos os certificados que podem permitir que qualquer pessoa que acesse o
+          dispositivo    substitua     o     usuário       (aquele        ao     qual    o    certificado     pertence)
+          [..]
+          [0054]    Na      Etapa          28,        o    código         de     segurança          é      transmitido...
+          []
+          [0055]    O      dispositivo           de       rede       de        destino       14     recebe        uma...
+          [...]
+          [0057]   Quando        o    dispositivo         de     rede     de     destino      14    baixa      com...
+          []
+          [0058]   Na    Etapa       30,    o    dispositivo      de      rede    de     origem     12     recebe    a...
+          []
+
+      2. Além disso, o método descrito em D1 afirma que o servidor de e-mail seguro 18
+          adiciona um link eletrônico, como um link de linguagem de marcação de hipertexto
+          ("HTML") especialmente formatado ou Sistema de Nome de Domínio (HONS") ao
+          e-mail ( NOVAMENTE MANIPULANDO A MENSAGEM) que gera uma ou mais
+          mensagens quando o e-mail é aberto no dispositivo de rede de destino 14. Isso
+          significa que o e-mail está modificado. ser avaliado no contexto de todos os recursos
+          cobertos pela nova reivindicação 1; ou seja, D1 modifica o e-mail porque É
+          OBRIGATÓRIO, portanto, esse não é um recurso trivial. conforme D1, o conteúdo é
+          manipulado. Na reivindicação 1, uma cópia do e-mail original sem modificações é
+          enviado para o destino, portanto, o destinatário, usuário destinatário receberá um
+          e-mail não manipulado, na verdade uma cópia do e-mail enviado originalmente para
+          que possa servir como prova de seu conteúdo; usando D1 o conteúdo foi alterado
+          tornando-o inútil s como prova, ou seja, para fins de verificação.
+
+   2. Análise da argumentação:
+
+      1. O requerente, em seu parecer, cita trechos e características do funcionamento de D1,
+          se restringindo a fazer comparações pontuais do conteúdo de D1 com o exposto no
+          relatório descritivo do presente pedido. É importante ressaltar que tais trechos citados
+          pelo requerente não foram apontados no parecer anterior, sendo distintos dos
+          utilizados para analisar a atividade inventiva das reivindicações.
+
+
+                                                                                                               Página 3
+                               BR112015008215-7
+
+
+2. Em sua argumentação o requerente afirma que o e-mail é modificado ou manipulado.
+   Em D1 o e-mail que é assinado digitalmente antes de ser enviado, pelo usuário, como
+   mostra o parágrafo 0067 The e-mail is automatically encrypted and/or digitally signed
+   by the originator using the digital certicates.. Dessa forma, não existe modificação
+   posterior, somente o próprio usuário no ato de enviar o e-mail insere as informações de
+   segurança. O requerente também afirma que o e-mail não é manipulado, porém
+   também afirma que o destinatário, usuário destinatário receberá um e-mail não
+   manipulado, na verdade uma cópia do e-mail enviado originalmente. Tal afirmação já
+   mostra que existe manipulação do e-mail, já que o destinatário não recebe mais o
+   e-mail original, e sim uma cópia do e-mail. É sabido que o e-mail tem um cabeçalho
+   (header) que registra todos os passos do e-mail, a simples modificação desse
+   cabeçalho, por exemplo, ao enviar uma cópia do e-mail ao invés do original já modifica
+   o conteúdo do e-mail.
+
+3. Dessa forma, mantemos o entendimento do parecer anterior. Por clareza, exatamente
+   os mesmos argumentos já apresentados são copiados abaixo:
+
+   1. Reivindicação independente 1: MÉTODO PARA GRAVAÇÃO E CERTIFICAÇÃO
+      DO RECEBIMENTO DE CORREIO ELETRÔNICO, de um usuário de transmissão
+      (1) à um usuário recipiente (11), caracterizado por uma operadora de
+      telecomunicações certificar a referida recepção do texto entregue com todos os
+      seus anexos ao usuário de transmissão (1), que não é um cliente da operadora de
+      telecomunicações, do referido e-mail que é a operadora de telecomunicações do
+      cliente, onde o método compreende as seguintes etapas que são realizadas em
+      uma recepção de um e-mail e o sistema de certificação compreendendo ao menos
+      um servidor de entrada do correio (2), ao menos um servidor de saída do correio (9,
+      19, 28), ao menos uma base de dados (16, 17), um servidor de sinal de tempo (32),
+      uma unidade de processamento de dados (15) e um servidor de certificação (13)
+      que são interconectados na recepção no servidor de entrada do correio (2) de um
+      e-mail enviado para um endereço de destino, este endereço sendo o endereço do
+      usuário recipiente (11) por um usuário de transmissão (1), envio em modo plano do
+      correio sem modificações à um usuário recipiente (11) por seu registro, (É óbvio
+      para um técnico no assunto essa etapas, pois elas se referem ao funcionamento
+      normal de um e-mail, onde existe transmissores e receptores de e-mail, suas
+      respectivas operadoras de serviços de e-mail bem com as suas infraestruturas
+      responsáveis por tratar o envio e recebimento de e-mail)
+
+   2. na inserção e gravação em uma base de dados (16) do operador de
+      telecomunicações de texto e os componentes recebidos do e-mail emitido pelo
+      usuário de transmissão (1), na criação na unidade de processamento de dados (15)
+      de um recebimento eletrônico compreendendo ao menos dados do usuário
+      recipiente (11), os dados emitidos, a recepção dos dados, o conteúdo anexado, e
+      os dados de notificação com relação à recepção do correio se modificações
+
+
+                                                                                 Página 4
+                                              BR112015008215-7
+
+
+                 enviadas ao usuário recipiente (11), (Ver D1, parágrafos 66 a 73, In one
+                 embodiment of the invention, the secure e-mail server 18 logs the message, an
+                 originating IP address, and other identifying information about the originator and
+                 stores it in a database.)
+
+             3. na aplicação no servidor de certificação (13) de um algoritmo de assinatura digital
+                 ao recebimento eletrônico para a criação de um certificado (25), e no envio do
+                 certificado (25) ao usuário de transmissão (1) através de um servidor de saída do
+                 correio (28). (Ver D1, parágrafos 66 a 73 e 89 a 93,  A secure certied receipt is
+                 sent in one or more e-mails to the source network device 12 with details of the
+                 message, including a time stamp indicating when it was accessed, etc.).
+
+          4. Assim, conclui-se que a matéria pleiteada na reivindicação independente 1 não atende
+             ao requisito de atividade inventiva, pois decorre de maneira evidente ou óbvia para um
+             técnico no assunto a partir dos ensinamentos do documento D5.
+
+          5. Nas reivindicações dependentes 2 a 13 não foram identificadas características que,
+             mesmo quando combinadas com as características de qualquer reivindicação
+             independente a que se referem, venham a prover atividade inventiva à matéria.
+
+          6. A matéria pleiteada nas reivindicações 1 a 13 carece de atividade inventiva, pois
+             decorre de maneira óbvia para um técnico no assunto a partir dos ensinamentos
+             contidos na anterioridade D6 não é patenteável por infringir o disposto no artigo 8º,
+             combinado com o artigo 13 da Lei nº 9.279/96 (LPI).
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -     não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -     as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+            descritivo (Art. 25 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                   Publique-se o indeferimento (9.2).
+
+
+
+                                                            Rio de Janeiro, 23 de novembro de 2022.
+
+
+
+
+Daniel de Souza Dias
+Pesquisador/ Mat. Nº 2041265
+DIRPA / CGPAT III/DITEL
+
+
+                                                                                            Página 5
+                               BR112015008215-7
+
+Deleg. Comp. - Port. INPI/DIRPA Nº
+007/16
+
+
+
+
+                                                  Página 6
+

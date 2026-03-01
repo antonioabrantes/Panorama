@@ -1,0 +1,145 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112012013166-4          N.° de Depósito PCT:CN10/076479
+ Data de Depósito:                   31/08/2010
+ Prioridade Unionista:               CN 200910194363.2 (02/12/2009)
+ Depositante:                        SHENZHEN SHI JI GUANG SU INFORMATION TECHNOLOGY CO.,
+                                     LTD. (CN)
+ Inventor:                           Jing Zhang, Xin Deng
+ Título:                             Método e sistema de entrada de wubi 
+
+                                                                PARECER
+
+
+Em 03/11/2020, por meio da petição 870200138379, a Requerente apresentou Manifestação em
+resposta ao parecer emitido, notificado na RPI 2587 de 04/08/2020 (despacho 7.1).
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                  n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 19                  870190107699           24/10/2019
+Quadro Reivindicatório                                   1a8                    870190107699           24/10/2019
+Desenhos                                                 1e2                 020120049477 (Petição     31/05/2012
+                                                                                 de Depósito)
+Resumo                                                      1                   870190107699           24/10/2019
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                   Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                         X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                 X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                           X
+O pedido está de acordo com disposto no art. 32 da LPI                                            X
+Comentários/Justificativas
+
+---
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                  Página 1
+                                           BR112012013166-4
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+Comentários/Justificativas
+---
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+      D1    US2006/0072824 A1                                                      06/04/2006
+
+
+      Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade               Cumprimento           Reivindicações
+                                                         Sim                   1 a 18
+            Aplicação Industrial
+                                                        Não                      ---
+                                                         Sim                   1 a 18
+                 Novidade
+                                                        Não                      ---
+                                                         Sim                     ---
+            Atividade Inventiva
+                                                        Não                    1 a 18
+
+
+
+Comentários/Justificativas
+
+Em sua Manifestação a requerente discorda da conclusão do Parecer de Ciência, alegando que
+o documento D1 falha em ensinar ou sugerir as reivindicações do presente pedido. A requerente
+apresenta argumentações enfatizando que em D1 é utilizado um joystick como meio de entrada,
+enquanto no presente pedido os códigos de pressionamento de tecla são inseridos por meio de
+teclas alfabéticas de um teclado.
+
+De fato o método de entrada do presente pedido (teclado) é diferente daquele utilizado em D1
+(joystick), entretanto as características distintivas das reivindicações do presente pedido
+encontram-se antecipadas em D1. Assim, o presente pedido possui novidade diante de D1, já
+que este não antecipa todas as suas características.
+
+Porém, a matéria reivindicada no presente pedido não possui atividade inventiva porque suas
+características distintivas relevantes encontram-se antecipadas em D1, que revela uma
+biblioteca de palavras que armazena informações de palavras e frequências associadas (D1,
+parágrafos 0014, 0015, 0026 a 0029, 90, 97, 0102 a 0106, 0126 e 0127, e Figuras 8, 10, 13 e
+14); o armazenamento de palavras com índices associados ao vocabulário chinês (D1,
+
+
+
+                                                                                          Página 2
+                                        BR112012013166-4
+
+
+parágrafos 0066, 0074, 0097 e Figuras 5 e 8); módulos de vocabulário chinês para recuperar
+palavras armazenadas de acordo com informações de índices a partir do pressionamento de
+teclas (D1, parágrafos 0030, 0065, 0070, 0102 a 0106, 0127, 0128 e 0129, e Figuras 5, 10, 11 e
+15 a 19). Apenas a substituição do joystick pelo teclado, com suas demais características
+antecipadas por D1, não confere atividade inventiva ao pedido, por ser uma substituição óbvia
+para um técnico no assunto.
+
+Portanto, as reivindicações 1 a 18 não atendem ao requisito atividade inventiva, pois decorre de
+maneira evidente ou óbvia para um técnico no assunto a partir do documento D1.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 29 de dezembro de 2020.
+
+
+
+
+Rodrigo de Paula Pereira
+Pesquisador/ Mat. Nº 1742451
+Deleg. Comp. - Port. INPI/DIRPA Nº
+004/15
+
+
+
+
+                                                                                           Página 3
+

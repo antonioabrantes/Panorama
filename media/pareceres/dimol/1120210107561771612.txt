@@ -1,0 +1,230 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112021010756-8         N.° de Depósito PCT: EP2019/083470
+ Data de Depósito:                   03/12/2019
+ Prioridade Unionista:               EP 18210255.8 (04/12/2018)
+ Depositante:                        BREATH THERAPEUTICS GMBH (DE)
+ Inventor:                           OLIVER DENK
+ Título:                             Composições inaláveis para uso no tratamento de doenças
+                                     pulmonares 
+
+                                                              PARECER
+
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                                      Sim   Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                                  x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)                   x
+
+O pedido refere-se a Sequências Biológicas                                                                            x
+
+Comentários/Justificativas
+
+Tendo em vista que o art. 57 inciso XXVI da Lei Nº 14.195, de 26/08/2021, revogou o art. 229-C
+da Lei Nº 9.279/96 (LPI)  conforme modificada pela Lei Nº 10.196/01 , o pedido não será mais
+encaminhado à Agência Nacional de Vigilância Sanitária (ANVISA) para a análise de prévia
+anuência        relativa      aos      produtos        e    processos        farmacêuticos.   Sendo   assim,    dar-se-á
+prosseguimento ao exame técnico.
+
+Requerente apresentou a declaração negativa de acesso na petição de depósito.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                   n.o da Petição            Data
+Relatório Descritivo                                       1 a 94                870220110887            30/11/2022
+Quadro Reivindicatório                                     1a8                29409162310070455          02/10/2023
+Desenhos                                                   1a3                   870210050068            02/06/2021
+Resumo                                                       1                   870220110887            30/11/2022
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                       Página 1
+                                           BR112021010756-8
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                           Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   x
+O pedido está de acordo com disposto no art. 32 da LPI                    x
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                   x
+Comentários/Justificativas
+
+
+Conforme já discutido no parecer anterior, de acordo com as Diretrizes de Exame de Pedidos de
+Patente na Área de Química, instituídas pela Resolução nº 208/2017, de 27/12/2017, as
+reivindicações de segundo uso médico devem definir o dito novo uso pela doença a ser tratada,
+definições baseadas em esquema terapêutico, tal como definido pelo termo em que a
+composição farmacêutica é para ser administrada ao indivíduo por inalação na forma de
+um aerossol, presente na reivindicação 1, não descrevem um segundo uso médico de forma clara
+e precisa (Art. 25), e não devem ser aceitos nas reivindicações por causarem indefinição à matéria
+(vide item 9.1.4).
+
+Desta forma, para a reivindicação 1, e suas dependentes, será considerado o Uso de uma
+composição farmacêutica compreendendo ciclosporina A na forma lipossomicamente
+solubilizada (L-CsA) caracterizado por ser na fabricação de um medicamento para prevenção
+ou tratamento de asma, asma refratária, bronquite obstrutiva crônica, doenças e inflamações
+pulmonares parenquimatosas, fibróticas e intersticiais, bronquiolite obliterante (BOS) e reações
+de rejeição de transplante de órgão aguda e crônica após transplantes de pulmão.
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1      EP3069711                                                              21/09/2016
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+
+
+                                                                                         Página 2
+                                           BR112021010756-8
+
+      Requisito de Patenteabilidade             Cumprimento                   Reivindicações
+                                                     Sim                           1 a 26
+              Aplicação Industrial
+                                                     Não                              -
+                                                     Sim                         23 a 26
+                   Novidade
+                                                     Não                           1 a 22
+
+                                                     Sim                              -
+              Atividade Inventiva
+                                                     Não                           1 a 26
+Comentários/Justificativas
+
+Conforme já discutido no parecer anterior, o documento D1 (vide par. 67 e 68) descreve o uso
+de     uma       composição     farmacêutica compreendendo        ciclosporina      A        na     forma
+lipossomicamente solubilizada (L-CsA) administrada         na   forma    de    um aerossol para o
+tratamento de bronquiolite obliterante (BOS) e reações de rejeição de transplante de órgão
+aguda e crônica após transplantes de pulmão, em que o aerossol é gerado por
+nebulização da composição farmacêutica usando um nebulizador (eFlow), o nebulizador
+compreendendo (vide par. 46):        uma membrana vibrátil tendo uma pluralidade de aberturas
+(perfurações), as aberturas sendo adaptadas para produzir        um     aerossol     compreendendo
+gotículas com um diâmetro aerodinâmico médio de massa (MMAD) de 2,8 µm (vide tabela 1, p.
+9), e tendo um filtro de exalação (vide par. 49) para inibir a contaminação do ambiente com a
+ciclosporina.
+
+Desta forma, o documento D1 já descreve o uso              de   uma     composição        farmacêutica
+compreendendo ciclosporina A na forma lipossomicamente solubilizada (L-CsA) caracterizado
+por ser na fabricação de um medicamento para prevenção ou tratamento de asma, asma
+refratária,     bronquite     obstrutiva    crônica, doenças     e      inflamações          pulmonares
+parenquimatosas, fibróticas e intersticiais, bronquiolite obliterante (BOS) e reações de rejeição
+de transplante de órgão aguda e crônica após transplantes de pulmão, de forma que as
+reivindicações 1 a 22 não podem ser consideradas novas frente ao documento D1.
+
+
+
+O documento D1 descreve um kit caracterizado por compreender:                    uma        composição
+farmacêutica compreendendo ciclosporina A na forma lipossomicamente solubilizada, fornecida
+na forma de um liofilizado compreendendo ciclosporina A e um veículo aquoso líquido
+estéril, para a reconstituição do liofilizado para formar uma composição farmacêutica líquida
+(vide par. 71) e um nebulizador compreendendo: a) um gerador de aerossol que compreende:
+um reservatório de fluido para conter a composição farmacêutica ou uma interface
+configurada para conectar um reservatório de fluido, e      uma membrana vibrátil tendo uma
+pluralidade de aberturas, as aberturas sendo adaptadas para produzir                    um        aerossol
+compreendendo gotículas com um diâmetro aerodinâmico médio de massa (MMAD) de até
+cerca de 4,0 µm, b) uma câmara para acomodar temporariamente o aerossol gerado pelo
+gerador de aerossol com volume de 95mL (vide par. 73) c) um bocal para liberar o aerossol
+                                                                                                   Página 3
+                                       BR112021010756-8
+
+fornecido pelo nebulizador     ao indivíduo, o bocal tendo um filtro de exalação para inibir a
+contaminação do ambiente com a ciclosporina. O documento D1 descreve ainda o uso de tal kit
+para preparar um medicamento para tratamento e/ou prevenção de doenças pulmonares.
+
+O documento D1 não descreve detalhes relacionados ao bocal. Assim, o kit pleiteado pelas
+reivindicações 26 e 27, e o uso pleiteado pelas reivindicações 24 e 25, podem ser considerados
+novos frente ao descrito por D1.
+
+Partindo de D1 como estado da técnica mais próximo, um técnico no assunto seria capaz de
+prever os detalhamentos de como implementar um filtro na válvula de exalação de um bocal,
+visto que tais características são comuns na tecnologia de vaporizadores.
+
+Conforme já discutido anteriormente, o relatório descritivo apresenta um quadro comparativo
+entre o nebulizador reivindicado e o nebulizador utilizado em D1 utilizando uma câmera de
+mistura com volume de 48mL. De acordo com o relatório, o nebulizador do presente pedido
+entregaria 72% da dose, mentendo um resíduo de 13,1% no nebulizador, enquanto que o
+nebulizador descrito por D1 entregaria 36,5% da dose, retendo 47% de resíduo no nebulizador.
+No entanto, D1 descreve um uma câmera de mistura de 95mL e uma dose entregue de 75,3%
+na configuração 30XL (vide tabela 2). Desta forma, os dados apresentados não podem ser
+considerados válidos, visto que o volume da câmera de mistura utilizado para comparação foi
+diferente do já descrito no estado da técnica, (e utilizado no nebulizador do presente pedido) que
+leva a uma otimização na entrega do medicamento.
+
+A requerente alega que partindo de D1 como documento do estado da técnica mais
+próximo, o problema técnico solucionado pela presente invenção é como proporcionar a
+administração precisa e eficaz de ciclosporina A aos pulmões, mais especificamente aos
+pulmões periféricos de um indivíduo ou paciente, ao mesmo tempo minimizando o risco ou
+extensão de exposição indesejada e potencialmente prejudicial do meio ambiente ou de outros
+indivíduos à ciclosporina A exalada. No entanto, o documento D1 já soluciona tal problema, uma
+vez que descreve um aparelho com o mesmo nível de entrega do medicamento e que possui um
+filtro de exalação para evitar a contaminação do ambiente com a ciclosporina A.
+
+Desta forma, o kit pleiteado pelas reivindicações 23 e 24, bem como seu uso para preparar um
+medicamento para tratamento e/ou prevenção de doenças pulmonares, pleiteado pelas
+reivindicações 25 e 26, não podem ser considerados inventivos frente ao documento D1.
+
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+                                                                                          Página 4
+                                        BR112021010756-8
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 18 de outubro de 2023.
+
+
+
+
+Julia Cordeiro Fontanella
+Pesquisador/ Mat. Nº 1546957
+DIRPA / CGPAT II/DIMOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                        Página 5
+

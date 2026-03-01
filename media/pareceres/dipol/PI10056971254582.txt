@@ -1,0 +1,188 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI1005697-1                  N.° de Depósito PCT:US2010/023443
+ Data de Depósito:                   08/02/2010
+ Prioridade Unionista:               US 12/367,984 (09/02/2009)
+ Depositante:                        NALCO COMPANY (US)
+ Inventor:                           PIOUS V. KURIAN, JEFFREY M. ATKINS, JOHN D. MORRIS,,
+                                     WILLIAM J. WARD
+ Título:                             Iniciador polifuncional e método para sintetizar um polímero estrela
+
+                                                                PARECER
+          Em resposta ao parecer técnico, de 03 de janeiro de 2020, notificado pela publicação na
+RPI n°2558, de 14 de janeiro de 2020, a requerente apresentou manifestação na petição
+n°870200079734, de 26 de junho de 2020, onde apresentou nova página do relatório descritivo,
+um novo quadro reivindicatório e um novo resumo, além de argumentações, em razão das
+objeções oferecidas no parecer.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                        1                870200079734           26/06/2020
+                                                        2 a 31               018110030456           09/08/2011
+Quadro Reivindicatório                                   1a3                 870200079734           26/06/2020
+Desenhos                                                 1a9                 018110030456           09/08/2011
+Resumo                                                      1                870200079734           26/06/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                                   X
+Comentários/Justificativas
+
+          Com relação a objeção mencionada no parecer anterior, a requerente argumenta que:
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                               PI1005697-1
+
+
+      A Lei permite modificações até o exame ser iniciado e concluído, o que não ocorreu aqui,
+pois no despacho anterior de 18.06.19 código 6.20, o INPI não tinha realizado o exame, mas sim
+pedido à Titular que informasse se desejaria alterar as reivindicações, as quais foram
+reformuladas SEM ACRÉSCIMO DE MATÉRIA NOVA, não ferindo, portanto, o Artigo 32.
+
+         A argumentação da requerente foi avaliada, e pode-se concluir que:
+
+      O quadro reivindicatório modificado apresentado na petição 870200079734 de 26/06/2020
+e submetido para exame não pode ser aceito, pois as alterações foram efetuadas após o
+requerimento de exame e modificam substancialmente o escopo de proteção, não tendo sido
+motivadas para satisfazer a necessidade de melhor esclarecer ou definir a matéria objeto de
+proteção, configurando acréscimo de matéria reivindicada, contrariando o disposto no Art. 32 da
+LPI segundo o entendimento da Resolução PR nº 093/2013 (Diretrizes sobre a aplicabilidade do
+disposto no Art. 32 da LPI nos pedidos de patentes, no âmbito do INPI). Convém salientar que a
+adição do trecho pelo menos, dois grupos estabilizadores de radical que são grupo atraentes de
+elétrons na reivindicação 1, caracteriza acréscimo de matéria, pois o relatório descritivo
+anteriormente apresentado nos parágrafos 0012 a 0015, se refere a unidade do iniciador não se
+refere ao número de grupos doadores de elétrons compreendidos no iniciador polifuncional.
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+Comentários/Justificativas
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                 WO0068275A1                                 16/11/2000
+    D2                                 WO0224773A2                                 28/03/2002
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                    1a8
+            Aplicação Industrial
+                                                        Não
+                                                         Sim                    1a8
+                  Novidade
+                                                        Não
+                                                         Sim
+            Atividade Inventiva
+                                                        Não                     1a8
+
+
+
+                                                                                          Página 2
+                                            PI1005697-1
+
+
+
+
+Comentários/Justificativas
+
+       Com relação aos documentos mencionados no parecer, a requerente argumenta que:
+
+       O presente pedido apresenta distinção e melhoria funcional perante os iniciadores citados
+nos documentos D1 e D2, pois as tecnologias reivindicadas em D1 e D2 não mencionam e nem
+sugerem um iniciador tendo como núcleo 2,2-Nitrilotrietilamina.
+
+          As argumentações da requerente foram avaliadas, e pode-se concluir que:
+
+       O documento D1 (Página 1, linhas 12 a 16 e 27 a 35; Página 4, linhas 15 a 20; Exemplo 2)
+revela iniciadores não-simétricos para polimerização via radical livre para obtenção de polímeros
+de estrutura do tipo estrela, contendo um núcleo multifuncional e um radical livre R*, conforme
+mostrado no Exemplo 2, em que um dendrímero (PAMAM) contendo oito grupos amino em sua
+superfície é adicionado a um composto azo com um radical trifenilmetila. O que difere o
+documento D1 do presente pedido consiste no fato de que não é revelado um iniciador contendo
+um grupamento contendo o radical R 2,2-Nitrilotrietilamina.
+
+       O documento D2 não revela um iniciador polifuncional conforme definido na Fórmula I.
+Entretanto, o documento D2 (Descrição Página 6, linha 7 a Página 8, linha 2) revela um polímero
+e seu método de obtenção via radical livre contendo substituintes Z derivados por exemplo de
+iniciadores, em que de forma preferencial, o radical Z representa um radical de fórmula
+-N=N-R5,sendo R5 selecionado dentre uma alquila, arila, -CN, -COOR, -OC(O)R. O que difere o
+documento D2 do presente pedido consiste no fato de que não é revelado um iniciador
+multifuncional de fórmula I.
+
+Novidade
+
+       Em relação aos documentos D1 e D2, as reivindicações 1 a 6 são consideradas novas e
+aceitas para o requisito de novidade conforme art. 11 da Lei da Propriedade Industrial.
+
+Atividade Inventiva
+
+       O documento D1 é considerado a anterioridade mais próxima do objeto das
+reivindicações 1 a 6, pois revela um iniciador multifuncional contendo oito grupos amino
+substituídos por um composto com radical azo substituído com trifenilmetila. D2 apresenta as
+seguintes características similares às revindicações 1 a 6 do presente pedido: polímeros
+derivados de iniciadores via radical livre contendo grupos de impedimento estérico. Assim, a
+matéria pleiteada nas reivindicações 1 a 6 não atende ao requisito de atividade inventiva, pois
+decorre de maneira óbvia para um técnico no assunto a partir da combinação dos ensinamentos
+do documento D1 com os ensinamentos de D2.
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -     não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+                                                                                           Página 3
+                                          PI1005697-1
+
+
+     -   acréscimo de matéria do pedido ou do escopo das reivindicações (Art. 32 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 05 de agosto de 2020.
+
+
+
+
+Mariana Moura Sampaio de Arruda
+Pesquisador/ Mat. Nº 2317393
+DIRPA / CGPAT I/DIPOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/18
+
+
+
+
+                                                                                        Página 4
+

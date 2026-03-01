@@ -1,0 +1,209 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI1010927-7                N.° de Depósito PCT:US2010/034963
+ Data de Depósito:                   14/05/2010
+ Prioridade Unionista:               US 61/178,197 (14/05/2009)
+ Depositante:                        Univation Technologies, LLC (US)
+ Inventor:                           Sun-Chueh Kao, Francis C. Rix, Dongming Li, PARUL A. KHOKHANI,
+                                     C. JEFF HARLAN
+ Título:                             Sistemas catalisadores de metal misturados que têm uma resposta
+                                     de hidrogênio sob medida. 
+
+                                                                PARECER
+         Em resposta ao Parecer Técnico de 18/09/2019, cuja notificação foi publicada na RPI n°
+2542 de 24/09/2019, a requerente apresentou, através da petição nº 870190136593 de
+19/12/2019 alguns esclarecimentos e um novo quadro reivindicatório modificado, em razão das
+objeções oferecidas no referido parecer. O quadro reivindicatório e as reivindicações reformuladas
+pela requerente não foram aceitas.
+
+         De acordo com o relatório descritivo do pedido, a invenção refere-se a sistemas
+catalisadores que pode incluir um ou mais compostos catalisadores com nenhuma ou uma
+resposta ao hidrogênio insignificante.
+
+         Os diplomas legais nacionais que fundamentaram a elaboração deste parecer foram a Lei
+nº 9.279 de 14 de maio de 1996 (Lei da Propriedade Industrial), doravante LPI, a Instrução
+Normativa 30/2013 de 04 de dezembro de 2013, doravante IN 30/2013 e a Instrução Normativa
+31/2013 de 04 de dezembro de 2013, doravante IN 31/2013, diretrizes de exame e resoluções.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                    1 a 79               8701900860128    02/09/2019
+Quadro Reivindicatório                                   1a6                 870190136593     19/12/2019
+Desenhos                                                 1a3                 020110115807     11/11/2011
+Resumo                                                      1                8701900860128    02/09/2019
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                               PI1010927-7
+
+
+Artigos da LPI                                                           Sim               Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                         X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                 X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   X
+O pedido está de acordo com disposto no art. 32 da LPI                    X
+Comentários/Justificativas
+
+
+
+                Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+Comentários/Justificativas
+
+
+
+
+                              Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1        WO2006066126A2                                                          22/06/2006
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento            Reivindicações
+                                                         Sim                   1 a 13
+           Aplicação Industrial
+                                                         Não                      -
+                                                         Sim                   1 a 13
+                    Novidade
+                                                         Não                      -
+                                                         Sim                      -
+              Atividade Inventiva
+                                                         Não                   1 a 13
+
+
+
+Comentários/Justificativas
+
+      A requerente comenta: que o problema técnico solucionado pela presente invenção é
+limitar o número de compostos catalisadores em um sistema de catalisador que tem uma
+resposta de hidrogênio. A reivindicação 1 modificada, o primeiro catalisador tem essencialmente
+nenhuma resposta de hidrogênio, enquanto o segundo catalisador tem uma resposta de
+hidrogênio.     O    pedido    de patente em exame discute que limitar o número de compostos
+catalisadores em um sistema de catalisador que tem uma resposta de hidrogênio pode prover
+benefícios, tais como, permitir o controle das propriedades do polímero que é consideravelmente
+
+
+
+                                                                                            Página 2
+                                         PI1010927-7
+
+
+menos complicado e mais previsível, porque há poucas variáveis independentes que afetam
+a dinâmica da polimerização (tal como catalisadores múltiplos, onde cada um tem uma
+resposta de hidrogênio diferente).
+
+      Examinando as modificações realizadas no quadro reivindicatório, as argumentações da
+requerente apresentadas na manifestação, a matéria conforme revelada no pedido, assim como a
+matéria revelada nos documentos apontados no parecer, não foi possível, entretanto, concordar
+com a requerente pelas razões a seguir, já mencionada no parecer de ciência e mantida neste
+parecer:
+
+      Ao retirar o composto de oxidiazol protegido no quadro anterior (02/09/2019) da
+reivindicação 1 e proteger na nova reivindicação 1 a estrutura mais ampla de um composto
+oxidiazol a requerente continua protegendo o composto inicial e também outros composto citados
+em D1. Desta forma o documento WO2006/066126A2 (publicado em 22/06/2006) (D1) com
+condições de polimerização semelhantes ao presente pedido, tal como os exemplos S-EO3 e S-
+EO4 que são conduzidos na presença e na ausência de hidrogênio (Tabela 3F), ensinam o
+mesmo catalisador protegido na reivindicação 1. O catalisador usado em D1, denominado S-M2,
+refere-se ao catalisador M2 na p.129 suportado em sílica (daí a designação "S"), que corresponde
+exatamente ao complexo protegido na reivindicação 1 do presente pedido. O primeiro mostra uma
+resposta de hidrogênio sobre o segundo, na medida em que o Mw do polímero é menor na
+presença de hidrogênio, ao contrário do apresentado no parágrafo 50 do presente pedido, onde é
+desejada uma reatividade próxima de zero em relação ao hidrogênio. Este efeito pode estar ligado
+à presença de hidrogênio e suas interação com o catalisador. Convém salientar que há uma falta
+de divulgação no presente pedido de como realizar a presente invenção em todo o escopo das
+reivindicações. Além disso, M2 é exatamente o catalisador B do presente pedido, usado no
+exemplo 5 na p.40, que aparentemente, nas condições utilizadas "exibe um movimento muito
+baixo de Mw baixo em uma faixa ampla de hidrogênio", conforme ensinado no presente pedido,
+enquanto, aparentemente, o catalisador C4 mostra uma diminuição de Mw na adição de
+hidrogênio. Na verdade, o catalisador B exibe uma espécie de resposta em relação de hidrogênio,
+conforme mencionado no parágrafo 50 do presente pedido, na medida em que o Mw aumenta
+com a exposição ao hidrogênio, ao contrário da diminuição normalmente esperada, existe,
+portanto, "reatividade" com o hidrogênio. No entanto, esse é, de qualquer modo, o comportamento
+reverso do mesmo catalisador descrito em D1. Além disso não está claro no presente pedido
+quais condições experimentais nenhuma resposta de hidrogênio poderia ser identificada e quais
+condições não seriam esperadas para afetar esse resultado, fato este não apresentado no
+presente pedido. Desta forma D1 tira a atividade inventiva do presente pedido. (Tabela 3F,
+parágrafos 430 a 432, página 129)
+
+      Convém salientar que um técnico no assunto da área de polimerização de poliolefinas ao
+usar catalisadores metalocênicos teriam conhecimento que considerando o processamento do
+polímero, a massa molar e a distribuição de massa molar ou poli-dispersibilidade são fatores
+relevantes que influenciam as propriedades mecânicas e reológicas. É do conhecimento que
+
+
+
+                                                                                       Página 3
+                                          PI1010927-7
+
+
+metalocenos produzem, geralmente, polímeros com distribuição de massa molar estreita, e que
+uso de uma mistura de catalisadores de natureza distinta de metalocenos, permite uma variação
+da distribuição de massa molar durante a polimerização de poliolefinas. Logo a partir de D1 e
+usando uma mistura de catalisadores metalocênicos já conhecidos no estado da técnica e
+variando o teor de hidrogênio no sistema, o técnico no assunto resolveria o mesmo problema
+técnico da invenção.
+
+      Convém salientar, que não foram apresentados testes comparativos considerando os
+argumentos apresentados acima que demonstrem com clareza as características técnicas da
+invenção de modo a substanciar os efeitos técnicos da invenção comparativamente a D1.
+
+      De acordo com as alegações da requerente e mantendo a exposição feita no parecer de
+ciência, fica evidente que o documento D1 em conjunto com os conhecimentos do técnico no
+assunto apresentam conhecimentos suficientes para permitir a um técnico no assunto utilizar
+uma mistura de catalisadores metalocênicos variando a quantidade de hidrogênio, em um
+sistema de catalisador de polimerização de poliolefina, em um processo semelhante ao presente
+pedido. Desta forma a matéria protegida não apresenta atividade inventiva frente ao documento
+D1 que antecipa a matéria reivindicada. Diante do exposto, pode-se concluir que o presente
+pedido não atende aos Artigos 8º e 13 da Lei da Propriedade Industrial n°9279/96.
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                               Rio de Janeiro, 8 de maio de 2020.
+
+
+
+
+Clarice Maria Buarque de Macedo
+Pesquisador/ Mat. Nº 1548780
+DIRPA / CGPAT I/DIPOL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                         Página 4
+

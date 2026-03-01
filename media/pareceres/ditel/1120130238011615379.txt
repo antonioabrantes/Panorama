@@ -1,0 +1,303 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR112013023801-1          N.° de Depósito PCT:US2012/029540
+ Data de Depósito:     16/03/2012
+ Prioridade Unionista: US 61/453,893 (17/03/2011); US 61/494,795 (08/06/2011); US
+                       13/421,819 (15/03/2012)
+ Depositante:          QUALCOMM INCORPORATED (US)
+ Inventor:             XIAOXIA ZHANG, JUN WANG, ZHENGWEI LIU, ANDREA
+                       GARAVAGLIA, KUO-CHUN LEE, GEORGE CHERIAN
+ Título:               Seleção de célula alvo para continuidade de serviço de difusão
+                       multidifusão multimídia 
+
+                                                              PARECER
+          O presente pedido refere-se a métodos e aparelhos em um sistema de comunicação
+móvel sem fio cujo objetivo é proporcionar a continuidade de um serviço MBMS (serviço de
+difusão e multi-difusão multimídia) durante uma transferência entre estações base através de
+melhorias relacionadas à difusão de sinalização.
+
+          O presente pedido originou o pedido dividido BR122020014130-1.
+
+          Em 13/07/2020, através da petição 870200086954, a Requerente apresentou
+argumentações e modificações no pedido em resposta ao parecer emitido no âmbito da
+Resolução Nº 241/2019, notificado na RPI 2571 de 14/04/2020 segundo a exigência preliminar
+(6.21).
+
+          Em 15/06/2022, através da petição 870220052924, a Requerente tempestivamente
+apresentou argumentações e modificações no pedido em resposta ao parecer de ciência
+(despacho 7.1) notificado na RPI 2674 de 05/04/2022, no qual se considerou que o presente
+pedido carecia de clareza nas reivindicações e, do que se pôde compreender, também carecia
+de atividade inventiva por ser mera decorrência do estado da técnica representado por D1
+(WO2008/137354) em combinação com D3 (US2010/0067490).
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                   1 a 122               870200086954     13/07/2020
+
+Quadro Reivindicatório                                   1a5                 870220052924     15/06/2022
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                          Página 1
+                                           BR112013023801-1
+
+
+Desenhos                                  1 a 39               860130007520              14/11/2013
+
+Resumo                                       1                 870200086954               13/07/2020
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                            Sim                 Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                             x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                     x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                       x
+O pedido está de acordo com disposto no art. 32 da LPI                        x
+Comentários/Justificativas -
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                            Sim                 Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI          x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI        x
+Comentários/Justificativas
+
+         Em sua manifestação, a Requerente prestou esclarecimentos sobre a clareza da matéria
+ora reivindicada com base no descrito no Relatório Descritivo do presente pedido,
+esclarecimentos estes que foram considerados satisfatórios pelo presente exame.
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                Data de publicação
+    D1                                WO2008/137354                                      13/11/2008
+
+    D3                                US2010/0067490                                     18/03/2010
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento                Reivindicações
+                                                         Sim                      1 a 11
+            Aplicação Industrial
+                                                         Não                         -
+                                                         Sim                      1 a 11
+                 Novidade
+                                                         Não                         -
+
+            Atividade Inventiva                          Sim                         -
+
+
+
+                                                                                               Página 2
+                                      BR112013023801-1
+
+
+                                                  Não                       1 a 11
+
+
+
+Comentários/Justificativas
+
+      Em sua manifestação, a Requerente argumentou que:
+
+   1. A combinação de características da reivindicação 1 proporciona o efeito técnico vantajoso
+      de que a entidade móvel pode ser entregue a uma célula com intensidade de sinal
+      suficiente para suportar acampamento em modo inativo, evitando assim o modo ativo.
+
+      Portanto, o problema técnico objetivo subjacente à presente invenção é fornecer um
+      método para gerenciar a transferência de MBMS através de um serviço MBSFN que
+      economize os recursos de bateria da entidade móvel.
+
+      O documento WO 2008/137354 (D1) está relacionado à minimização do retardo durante o
+      handover (página 1 de D1), mas não à economia de recursos de bateria.
+
+   2. Além disso, o documento de anterioridade não menciona a intensidade de sinal das
+      células de destino e também a transmissão de conteúdo MBMS armazenado a partir da
+      estação base de origem para a estação base de destino para transmissão por unidifusão
+      para a entidade móvel.
+
+   3. D1 não menciona o armazenamento de conteúdo MBMS transmitindo sozinho o conteúdo
+      MBMS como uma transmissão por unidifusão. Em vez disso, o documento do estado da
+      técnica propõe a entrega do WTRU para uma célula fornecendo o serviço requerido
+      (parágrafos [0031] e [0032] de D1). Este documento não menciona uma solução para o
+      caso em que uma célula de destino não está disponível.
+
+   4. Nos parágrafos [0032] e [0033] seguintes de D1, é revelado que uma transição para o
+      estado ativo é necessária para o caso em que a WTRU esteja em estado ocioso, o que
+      difere dos objetivos a serem alcançados pela matéria pleiteada na presente invenção.
+
+   5. '(...) o problema técnico a ser sanado pelo documento D1 é diferente de fornecer um
+      método para gerenciar transferência de MBMS através de um serviço MBSFN que
+      economiza os recursos de bateria da entidade móvel () o documento D1 não é capaz de
+      () aperfeiçoar os procedimentos de mobilidade de unidifusão e multidifusão para
+      suportar a continuidade de serviço eMBMS em uma variedade de circunstâncias
+      diferentes.'
+
+   6. O documento D3 tem como objetivo fornecer a continuidade de serviço ao assegurar que
+      os pacotes perdidos durante o procedimento de transferência sejam entregues para a
+      estação móvel. Os parágrafos [0052] a [0054] de D3 não mencionam ou sugerem o
+      acampamento pela entidade móvel em modo ocioso nem a seleção de uma estação base
+      de destino que não suporta o serviço MBSFN.
+
+   7. 'O parágrafo [0070] de D3 assume que o eNB de destino fornece o mesmo serviço MBS
+      que o eNB de origem, o que difere da matéria reivindicada na presente invenção, que
+
+
+                                                                                       Página 3
+                                  BR112013023801-1
+
+
+  define selecionar uma estação base de destino que não suporte o serviço MBSFN para a
+  entidade móvel'.
+
+  Análise das argumentações da Requerente:
+
+1. Quanto às argumentações da Requerente presentes no item 1 anterior:
+
+   a) D1 está relacionado não só à minimização do retardo, mas à continuidade do serviço
+      MBMS, que também é um dos objetivos do presente pedido (ver D1, primeiro parágrafo
+      da seção "background" que cita que D1 visa garantir a continuidade do serviço MBMS
+      quando a estação móvel se move de uma área suportando MBSFN para uma outra
+      área não suportando MBSFN dentro da mesma área MBMS).
+
+   b) Além disso, como será detalhado posteriormente, o documento D3 aborda a questão
+      da economia de bateria da estação móvel durante uma transferência da estação móvel
+      entre áreas de serviços de difusão/multifusão.
+
+2. Quanto às argumentações da Requerente presentes no item 2 anterior:
+
+   a) D1 descreve que a estação base servidora 110 envia para a estação móvel (WTRU
+      105) informação sobre células vizinhas candidatas ao handover (etapa 130) e que a
+      estação móvel avalia critérios de re-seleção de célula para determinar uma célula alvo
+      (etapa 135) (ver D1, Figura 1-A, parágrafos 48-50). Um técnico no assunto sabe que
+      intensidade de sinal de paging e intensidade de sinal de informação de sistema
+      suficiente para suportar acampamento por parte da estação móvel podem ser
+      utilizados como critérios para re-seleção de célula, sendo esta característica um mero
+      detalhe de implementação óbvio para um técnico no assunto.
+
+   b) Além disso, D3 sugere tal mero detalhe de implementação (ver D3, parágrafos 32 e 51)
+      e antecipa a transmissão de conteúdo MBMS armazenado a partir da estação base de
+      origem para a estação base de destino para transmissão por unidifusão para a
+      entidade móvel (ver D3, Figura 4, parágrafos 58 e 61).
+
+3. Quanto às argumentações da Requerente presentes no item 3 anterior:
+
+   a) Como visto anteriormente, D3 antecipa o armazenamento de conteúdo MBMS
+      transmitindo o conteúdo MBMS como uma transmissão por unidifusão.
+
+   b) Além disso, o parágrafo 31 de D1 cita que: Se o WTRU quer a transferência para uma
+      célula em uma área não MBSF, as capacidades do WTRU e requisitos podem ser
+      passados em uma mensagem de requisição de transferência da célula servidora
+      eNodeB para a célula alvo eNodeB, ou seja, D1 antecipa a seleção de uma estação
+      base de destino que não suporta o serviço MBSFN para a entidade móvel, cobrindo o
+      caso em que uma célula de destino suportando MBSF não esteja disponível.
+
+4. Quanto às argumentações da Requerente presentes no item 4 anterior, embora a
+  Requerente possua razão em tais argumentações, o documento D3 revela a transferência
+
+
+
+
+                                                                                   Página 4
+                                         BR112013023801-1
+
+
+          sem que a estação móvel tenha que sair do estado ocioso conservando economia de
+          bateria (ver D3, parágrafos 74 e 79).
+
+    5. Quanto às argumentações da Requerente presentes no item 5 anterior:
+
+          a) Como visto anteriormente, D1 provê um método para garantir a continuidade de
+             serviço durante uma transferência de MBMS através de um serviço MBSFN enquanto
+             D3 aperfeiçoa os procedimentos de mobilidade para garantir a continuidade do serviço
+             entre áreas de serviços de difusão/multifusão distintas economizando recursos de
+             bateria.
+
+    6. Quanto às argumentações da Requerente presentes no item 6 anterior:
+
+          a) Em D3 (ver parágrafos 6, 8, 23, 32-38, 74 e Figuras 1 e 7B), é descrito o acampamento
+             na célula de destino pela entidade móvel sem deixar o modo ocioso.
+
+          b) Por sua vez, D1 descreve a seleção de uma estação base de destino que não suporta
+             o serviço MBSFN (ver D1, Figura 1-A, 115 Target CELL eNodeB (NON-MBSFN
+             AREA)).
+
+    7. Quanto às argumentações da Requerente presentes no item 7 anterior:
+
+          a) D3 descreve uma configuração em que o eNB de destino não fornece o mesmo serviço
+             MBS que o eNB de origem (ver D3, Figura 4, parágrafos 56 e 61 de D3) e, como visto
+             anteriormente, selecionar uma estação base de destino que não suporte o serviço
+             MBSFN para a entidade móvel está em D1.
+
+       Sendo assim, frente ao objetivo de gerenciar a transferência de MBMS através de um
+serviço MBSFN que economize os recursos de bateria da entidade móvel, um técnico no assunto
+obviamente uniria ensinamentos de D1 e D3, propondo a matéria ora pleiteada.
+
+       Portanto, as argumentações apresentadas pela Requerente foram consideradas
+insuficientes para sustentar a atividade inventiva da matéria pleiteada frente ao estado da técnica
+representado por D1 em combinação com D3.
+       Sendo assim, a matéria pleiteada pelas reivindicações de 1 a 11 é mera decorrência do
+estado da técnica.
+
+
+
+
+Conclusão
+
+       Face ao exposto nesse parecer, reafirma-se que o presente pedido não atende às
+disposições do Art. 8° combinado com Art. 13 da LPI, conforme apontado na seção de
+comentários/justificativas do 5 deste parecer.
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -     não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+
+
+
+                                                                                           Página 5
+                                      BR112013023801-1
+
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 17 de agosto de 2022.
+
+
+
+
+Carolina Medeiros Carvalho
+Pesquisador/ Mat. Nº 1504559
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+022/12
+
+
+
+
+                                                                                        Página 6
+

@@ -1,0 +1,220 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112012017565-3            N.° de Depósito PCT: US2011/021088
+ Data de Depósito:                   13/01/2011
+ Prioridade Unionista:               US 61/295671 (15/01/2010)
+ Depositante:                        NORTH CAROLINA STATE UNIVERSITY (US)
+ Inventor:                           Ralph E. Dewey, RAMSEY S. LEWIS
+ Título:                             Planta ou parte da planta de tabaco, semente, produto do tabaco,
+                                     métodos para reduzir o potencial carcinogênico de um produto do
+                                     tabaco, para reduzir o nível de nornicotina, ou reduzir a taxa de
+                                     conversão de nicotina em nornicotina, em uma planta ou parte de
+                                     planta de tabaco e para identificar uma planta de tabaco com baixos
+                                     níveis de nornicotina, polinucleotídeo isolado, polipeptídeo isolado e
+                                     mutação em um gene que codifique uma cyp82e10 nicotina
+                                     demetilase".
+
+                                                              PARECER
+
+
+          O presente exame técnico foi realizado à luz da LPI nº 9.279/96 e em observação a Resolução PR
+Nº 144/2015, de 12/03/2015 que institui as Diretrizes de Exame de Pedidos de Patente na área de
+Biotecnologia; a Resolução Nº 124/2013, de 17/12/2013, que institui as Diretrizes de Exame e Pedidos de
+Patentes Módulo 1, a Resolução Nº 169/2016, de 15/07/2016, que institui as Diretrizes de exame de
+pedidos de patentes  Bloco II  Patenteabilidade; a Norma de Execução Nº 2/2015 de 03/07/2015 que
+instituiu o Procedimento para Primeiro Exame de Pedido de Patente e a Resolução nº 093/2013 que instituiu
+as Diretrizes sobre a aplicabilidade do disposto no artigo 32 da Lei 9279/96 nos pedidos de patentes, no
+âmbito do INPI.
+
+
+
+  Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao Conselho
+         de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                              Sim     Não
+
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                           x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    x
+
+O pedido refere-se a Sequências Biológicas                                                             x
+
+Comentários/Justificativas
+
+          O presente pedido não foi encaminhado à ANVISA uma vez que não se enquadra no art. 229-C da
+LPI, incluído pela Lei 10.196/2001.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                 Página 1
+                                           BR112012017565-3
+
+
+       A declaração negativa de acesso referente a Resolução INPI PR n.º 69/2013 foi apresentada por
+meio da petição nº 020120086731 de 14/09/2012.
+
+       Por meio da petição nº 020150005029 de 09/03/2015 foi apresentada a Listagem Eletrônica de
+Sequências (Códigos de controle campos 1 e 2, 0F7C13F41A83EF32 e 33BEB19CACDFCBC9,
+respectivamente), que está em conformidade com a Resolução PR nº 187/2017.
+
+
+
+                              Quadro 1  Páginas do pedido examinadas
+            Elemento                      Páginas                n.o da Petição                   Data
+Relatório Descritivo                       1 a 94                870190072572                   29/07/2019
+Listagem de sequências em
+                                              -                          -                          -
+formato impresso
+Listagem de sequências*             Código de Controle           870190072572                   29/07/2019
+Quadro Reivindicatório                     1 a 10                870200068197                   01/06/2020
+Desenhos                                    1a8                  870190072572                   29/07/2019
+Resumo                                       1                   870190072572                   29/07/2019
+     *Listagem de sequências em formato eletrônico referente ao                   código   de    controle
+     0F7C13F41A83EF32 (Campo 1) e 33BEB19CACDFCBC9 (Campo 2).
+
+
+
+       O presente exame técnico considerou o quadro reivindicatório proposto por meio da petição nº
+870200068197 de 01/06/2020, apresentado em resposta ao parecer de exigência técnica publicada na RPI
+nº 2565 de 03/03/2020.
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n. o 9.279 de 14 de maio de
+                                           1996  LPI
+
+Artigos da LPI                                                                    Sim               Não
+
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                     x
+
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                             x
+
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                            x
+
+O pedido está de acordo com disposto no art. 32 da LPI                             x
+
+Comentários/Justificativas
+
+
+
+
+                   Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                    Sim               Não
+
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                                    x
+
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                                  x
+
+Comentários/Justificativas
+
+
+
+
+                                                                                                        Página 2
+                                           BR112012017565-3
+
+       As reivindicações 1 a 8, 16, 21 e 22 propostas por meio da petição nº 870200068197 de 01/06/2020
+definem as plantas de tabaco a partir das quais serão produzidos os produtos de tabaco pleiteados por
+apresentarem mutações em um gene definido por codificar uma nicotina demetilase definida pela sua
+sequência de aminoácidos. As reivindicações 9 a 15 envolvem a introdução de mutações específicas em
+genes que codificam nicotina demetilase que não foram definidos pela sua sequência de nucleotídeos. A
+definição das plantas envolvidas nos métodos pleiteados e a partir das quais os produtos de tabaco
+pleiteados serão produzidos com base nas proteínas mutantes por elas expressa não pode ser aceita, uma
+vez que não atende aos critérios de clareza e precisão estabelecidos no artigo 25 da LPI. A Resolução PR
+Nº 144/2015, item 6.1, exemplo (b), determina que reivindicações de sequências de DNA caracterizadas por
+codificar um polipeptídeo apresentando a sequência de aminoácidos da proteína representada pela SEQ ID
+NO: correspondente, não atendem ao artigo 25 da LPI.
+       A objeção quanto a falta de clareza da definição proposta já foi discutida nos pareceres técnicos
+anteriores. O primeiro parecer técnico pontua que A caracterização da CYP82E10 nicotina demetilase por
+corresponder a sequência de aminoácidos definida pela SEQ ID NO: correspondente, tal como proposto nas
+reivindicações 2, 6, 10, 21, 25, 29 e 40 (d) (e) não pode ser aceita. A Resolução PR Nº 144/2015 determina
+que reivindicações de sequências de DNA caracterizadas por codificar um polipeptídeo apresentando a
+sequência de aminoácidos da proteína, ainda que representada pela SEQ ID NO: correspondente, não
+atendem ao artigo 25 da LPI. O segundo parecer técnico repete tais argumentos e discute que as
+sequências dos genes que codificam CYP82E10, CYP82E4 ou CYP82E5 consistem da própria invenção,
+logo, são parte essencial da matéria pleiteada e por isso deveriam estar definidas de forma clara e precisa,
+de acordo com o artigo 25 da LPI, seguindo o entendimento institucional sobre a definição apropriada de
+sequências de DNA estabelecida na Resolução nº 144/2015.
+       Dessa forma, considerando que as reivindicações não foram modificadas em observação a essa
+questão, mantém-se nesse parecer técnico a objeção quanto a falta de clareza e precisão das
+reivindicações 1 a 16, 21 e 22, que estão em desacordo com o artigo 25 da LPI.
+
+
+
+                             Quadro 4  Documentos citados no parecer
+
+  Código                                  Documento                                   Data de publicação
+
+
+
+
+         Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+
+       Requisito de Patenteabilidade               Cumprimento                   Reivindicações
+
+                                                         Sim                          1 a 22
+            Aplicação Industrial
+                                                        Não                         nenhuma
+
+                                                         Sim                          1 a 22
+                  Novidade
+                                                        Não                         nenhuma
+
+                                                         Sim                          1 a 22
+             Atividade Inventiva
+                                                        Não                         nenhuma
+
+
+
+
+                                                                                                  Página 3
+                                            BR112012017565-3
+
+
+
+
+Comentários/Justificativas
+
+        As reivindicações 1 a 22 atendem aos requisitos de patenteabilidade estabelecidos no artigo 8º da
+LPI.
+
+
+
+Conclusão
+
+
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que as reivindicações 1 a
+16, 21 e 22 estão indefinidas (Art. 25 da LPI).
+
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da data de
+publicação na RPI, para interposição de recurso.
+
+
+
+                                                                         Publique-se o indeferimento (9.2).
+
+
+
+                                                                     Rio de Janeiro, 12 de agosto de 2020.
+
+
+
+
+Erika Tarré Borges Antonelli
+Pesquisador/ Mat. Nº 1472698
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                                 Página 4
+

@@ -1,0 +1,264 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112013003250-2           N.° de Depósito PCT:CN2011/001346
+ Data de Depósito:                   12/08/2011
+ Prioridade Unionista:               CN 2010102515555 (12/08/2010)
+ Depositante:                        China Petroleum & Chemical Corporation (CN) , Beijing Research
+                                     Institute of Chemical Industry China Petroleum & Chemical
+                                     Corporation (CN)
+ Inventor:                           Mingzhi Gao, Changxiu Liu, Haitao Liu, Xianzhong Li, Xiofan Zhang,
+                                     Xiaoxia Cai, Jianhua Chen, Jing Ma, Jinxing Ma
+ Título:                             Componente catalítico para polimerização de reação de olefina e
+                                     catalisador do mesmo 
+
+                                                                PARECER
+
+
+          Em resposta ao parecer técnico de 16/03/2020, notificado pela publicação na RPI n°
+2568 de 24/03/2020, a requerente apresentou na petição 870200068473, de 02/06/2020
+manifestação onde anexou novas vias do quadro reivindicatório (23 reivindicações), do relatório
+descritivo e resumo bem como esclarecimentos buscando corrigir as falhas apontadas no
+parecer técnico referido
+
+
+          O presente pedido de patente de invenção refere-se a um componente catalítico para
+polimerização de olefina que contém magnésio, titânio, halogênio, e doadores de elétrons, é
+proporcionado na presente invenção. Os doadores de elétrons são selecionados de pelo menos
+um composto de succinato da seguinte fórmula geral (I), e o teor de referidos compostos de
+succinato com a estrutura conforme mostrada na Fórmula (II) nos referidos compostos de
+succinato (I) é inferior a 100%, mas não inferior a 76,1% em peso.
+
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                    1 a 27               870200068473     02/06/2020
+Quadro Reivindicatório                                  1 a 10               870200068473     02/06/2020
+Desenhos                                                    -                       -             -
+Resumo                                                      1                870200068473     02/06/2020
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                            Página 1
+                                          BR112013003250-2
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                           Sim           Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                     x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                             x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   x
+O pedido está de acordo com disposto no art. 32 da LPI                    x
+Comentários/Justificativas--
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim          Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                  x
+Comentários/Justificativas
+       O quadro reivindicatório não é claro e preciso de acordo com o seguinte:
+
+
+
+          a reivindicação 1 principal refere-se a Componente catalítico para polimerização de
+           olefina, caracterizado pelo fato de que compreende magnésio, titânio, halogênio e
+           doador de elétrons, no qual o doador de elétrons é selecionado de pelo menos um dos
+           compostos de succinato conforme mostrado na Fórmula (I), e nos referidos compostos
+           de succinato conforme mostrado na Fórmula (I), o teor do composto de succinato com
+           a fórmula de projeção de Fischer conforme mostrada na Fórmula (II) é superior ou igual
+           a 76,1% em peso, e inferior a 100% em peso:...R1, R2, R3 e R4 podem opcionalmente
+           compreenderem heteroátomos. Entretanto, tal reivindicação não é clara e precisa
+           visto o observado nas páginas 23 e 24 do relatório descritivo que revela A preparação
+           do componente catalítico sólido/ Método A e Método B (observa-se a expressão
+           incorreta anidreto ftálico) e o que é revelado no parágrafo [00013], página 11 do
+           relatório descritivo que afirma que o Referido componente catalítico usado para
+           polimerização de olefina, de acordo com a presente invenção, pode também conter
+           magnésio, titânio, halogênio e doadores de elétrons "a" e "b", no qual "a" é pelo
+           menos um de compostos de succinato, conforme mostrado na Fórmula (I), e nos
+           referidos compostos de succinato, o teor do composto mostrado na Fórmula (II), é
+           inferior a 100%, mas não inferior a 51,0% em peso, e "b" é um composto de ésteres
+           aromáticos, tais como benzoatos ou ftalatos, ou um composto de diéter, conforme
+           mostrado na Fórmula (III), e a razão molar de a para b é de 1:0,01 a 1:100,
+           preferivelmente 1:002 a 1:5...significativamente.
+
+          a reivindicação 18 refere-se a que Componente catalítico, de acordo com a
+           reivindicação 16, caracterizado pelo fato de que o composto de magnésio é dissolvido
+           em um sistema de solvente contendo um composto de epóxi orgânico e um
+           composto de fósforo orgânico...fosforoso
+
+
+
+
+                                                                                        Página 2
+                                      BR112013003250-2
+
+
+
+
+         a reivindicação 21 refere-se a Catalisador de pré-polimerização para polimerização
+          de olefina, caracterizado pelo fato de que compreende um catalisador sólido, como
+          definido na reivindicação 20, e o pré-polímero obtido pela pré-polimerização de referido
+          catalisador sólido e olefina, o aumento da pré-polimerização estando na faixa de 0,1 a
+          1000 g de polímeros de olefina por g de componentes catalíticos sólidos.
+
+
+
+                        Quadro 4  Documentos citados no parecer
+
+ Código                              Documento                              Data de publicação
+
+
+
+
+   Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade           Cumprimento                Reivindicações
+                                                  Sim                        1 a 23
+          Aplicação Industrial
+                                                  Não                           -
+                                                  Sim                        1 a 23
+               Novidade
+                                                  Não                           -
+
+                                                  Sim                           -
+          Atividade Inventiva
+                                                  Não                        1 a 23
+Comentários/Justificativas
+
+      As argumentações da requerente não foram pertinentes de acordo com o seguinte:
+
+
+
+         a requerente relata que a afirmação "... quando o teor de mesômeros é até um
+          determinado grau, a diferença entre a atividade catalítica do catalisador
+          correspondente e a atividade catalítica do catalisador que corresponde ao teor de
+          100% de mesômeros será pequena..." é precisa e também compreensível para
+          aqueles versados na técnica. Entretanto, não é claro e preciso a escolha do intervalo
+          de 76,1% a inferior a 100% (até um determinado grau) visto que, por exemplo, o
+          exemplo 5 (51% Fischer (II)) e exemplo comparativo 4 (100% Fischer (II)) apresenta
+          diferenças de teores de aproximadamente 50%, no entanto, a atividade catalítica (etil
+          éster de ácido 2,3-dimetil succínico) é pequena. Assim, considerando que a atividade
+          catalítica e custo do catalisador (como o próprio requerente afirmou) são fatores
+          importantes em atividade de polimerização, a escolha 76,1% a inferior a 100% é
+          arbitrária visto que, por exemplo, comparando os exemplos 2 (67%Fischer (II)/25,4
+          (Atividade polimerização) e 3 (98,2%/26,9) associado ao composto etil éster de ácido
+          2,3-dipropil succínico pelos fatores revelados acima, seria interessante o teor de 67%
+          com atividades semelhantes e menor custo. Logo, não é possível concordar com a
+          afirmação que o uso do composto de succinato com a fórmula de projeção de Fischer,
+          conforme mostrado na Fórmula (II), em uma faixa de teores específicos definida na
+
+
+
+
+                                                                                         Página 3
+                                        BR112013003250-2
+
+           reivindicação 1 pode não apenas obter um catalisador com um melhor desempenho,
+           mas também economizar bastante. feita na manifestação apresentada.
+
+        Quanto as anterioridades D1-D4, em geral, a requerente manifesta-se afirmando que tais
+documentos não descrevem o teor do composto de succinato com a fórmula de projeção de
+Fischer, conforme mostrado na Fórmula (II). No entanto, tais anterioridades semelhantemente ao
+pleito revela componente catalisador de alta atividade de acordo com o seguinte:
+
+        D1 revela pré-polimerização de um catalisador com propileno em uma quantidade de 0,1
+a 20 gramas de polímero/gramas de catalisador para formar um revestimento nas partículas do
+catalisador a fim de melhorar sua morfologia, atividade, e resistência ao atrito. Cabe ressaltar que
+em sua manifestação é afirmado que O Exemplo 1, no documento D1, descreve que o teor de
+mesômeros no composto de succinato é de 76%. Entretanto, tal afirmação não faz sentido.
+
+        D2 revela a formação de um componente catalisador por dissolução de um composto de
+magnésio em um sistema solvente contendo um composto orgânico epóxi (ex. epóxi
+cloropropano) e um composto de fósforo (ex. tributil fosfato) a fim de produzir um sistema
+catalítico com alta atividade.
+
+         D3 revela polimerização de olefinas na presença de um componente catalisador
+compreendendo magnésio, halogênio e doador de elétron como sendo o dietil 2,3-diisopropil
+succinato (mistura racêmica e meso) em que a forma meso da projeção de Fischer da fórmula
+(II) é de 76% em peso [Tabela 2, Ex. 1; doador externo B; 7,6 / (7,6 + 2,4) * 100 = 76%) e onde R1
+e R2 são grupos C2 alquílicos (etil) e R3 e R4 são grupos C3 (isopropil) alquílicos. É revelado ainda
+que um catalisador para polimerização de olefina é obtido compreendendo o componente
+catalisador previamente produzido, um composto alquil alumínio e um doador de elétron externo
+(ex. Trifluorpropilmetildimetoxisilano). Refere-se ainda a componente catalisador compreendendo
+adicionalmente alquilftalatos (ex. Diisobutil ftalato (DIBP)/exemplo 3/Tabela 2) onde a razão
+molar succinato/DIBP é 1:0,6. Revela ainda um processo de polimerização de olefina na presença
+do catalisador obtido. Cabe ressaltar que no presente pedido, página 6, parágrafo [00011] afirma-
+se que Na presente invenção, o teor do composto de succinato com a fórmula de projeção
+de Fischer, conforme mostrado na Fórmula (II), é preferivelmente 51,0 a 98,0% em peso,
+adicionalmente preferivelmente 67,0 a 98,0% em peso, e ainda adicionalmente preferivelmente,
+76 a 97,0% em peso
+
+        D4 revela componente catalisador para olefina polimerização, compreendendo
+magnésio, titânio, halogênio e doador de elétrons "a", em que o doador de elétrons "a" é
+dietil 2,3-diisopropil succinato, e o componente catalisador compreende ainda um doador de
+elétrons "b" (ex. diéter/9,9- bis (metoximetil) fluoreno) onde a razão molar de "a" para "b" é
+1: 0,60 [11,5% em peso de succinato = 0,0445 moles; 6,9% em peso de farinha = 0,027 moles;
+0,0445: 0,027 = 1: 0,60). Revela ainda que o succinato pode ser uma mistura das formas
+racêmica e meso. Cabe ressaltar que o presente pedido revela em seu relatório descritivo,
+página 11, parágrafo [00013] que o Referido componente catalítico usado para polimerização de
+olefina, de acordo com a presente invenção, pode também conter ...doadores de elétrons "a" e
+"b", no qual "a" é pelo menos um de compostos de succinato, ...e "b" é um composto de
+ésteres aromáticos, tais como benzoatos ou ftalatos, ou um composto de diéter, conforme
+mostrado na Fórmula (III), e a razão molar de a para b é de 1:0,01 a 1:100, preferivelmente
+1:002 a 1:5... e na página 18, parágrafo [00035] que Os doadores externos acima podem ser
+selecionados de....Por exemplo, 9,9-bis(metóxi metil) fluoreno.
+
+
+
+                                                                                           Página 4
+                                        BR112013003250-2
+
+
+
+
+       Logo, considerando o que foi discutido acima e a combinação dos ensinamentos revelados
+nas anterioridades citadas, conclui-se que o mesmo não ressalta com clareza o aperfeiçoamento
+pretendido e, portanto, o pedido não apresenta atividade inventiva.
+
+
+
+
+Conclusão
+
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                            Rio de Janeiro, 7 de outubro de 2020.
+
+
+
+
+Sandra Regina Gomes Fraga
+Pesquisador/ Mat. Nº 1375692
+DIRPA / CGPAT I/DIPOL
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                         Página 5
+

@@ -1,0 +1,254 @@
+                                         SERVIÇO PÚBLICO FEDERAL
+                                          MINISTÉRIO DA ECONOMIA
+                              INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+                                                RELATÓRIO DE EXAME TÉCNICO
+ N.° do Pedido:        BR122020022545-9               N.° de Depósito PCT: US2011/043569
+ Data de Depósito:     11/07/2011
+ Prioridade Unionista: US 61/363,064 (09/07/2010); US 61/424,555 (17/12/2010); US 61/430,819 (07/01/2011);
+                                       US 61/438,572 (01/02/2011); US 61/442,079 (11/02/2011); US 61/470,951 (01/04/2011)
+ Depositante:                          BIOVERATIV THERAPEUTICS INC. (US)
+ Inventor:                             GLENN PIERCE, SAMANTHA TRUEX, ROBERT T. PERTERS, HAIYAUN JIANG
+ Título:                               USO DE POLIPEPTIDEOS DO FATOR IX (FIX) QUIMERICO.
+                                                              PARECER
+
+         O pedido de patente de invenção BR122020022545-9 foi depositado voluntariamente
+através da petição nº. 870200139137, de 05/11/2020, e é decorrente da divisão do pedido original
+BR112013000650-1, de 11/07/2011, para o qual já foram emitidos os despachos 7.1 (cf. RPI 2588
+de 11/08/2020) e 9.2 (RPI 2620 de 23/03/2021). A notificação de depósito do presente pedido
+dividido (despacho 2.4) foi publicada na RPI 2603 de 24/11/2020.
+
+         A primeira análise técnica do pedido dividido BR122020022545-9 revelou que o quadro com
+28 reivindicações da petição nº. 870200139137, de 05/11/2020, não atendia ao disposto nos
+artigos 8º c/c 13, 10 (VIII) e 25 da LPI (cf. despacho 7.1, publicado na RPI 2620 de 23/03/2021).
+A atividade inventiva da matéria foi contestada frente aos documentos WO2009130602 A2 (D1),
+Hansen et al. 2009 (D2) e Shapiro et al. 2010 (D3).
+
+         Por meio da petição nº. 870210055713, de 21/06/2021, a requerente anexou o novo quadro
+com 10 reivindicações e, ainda, as novas vias do relatório (108 páginas) e do resumo (1 página)
+com o título a invenção harmonizado à matéria pleiteada. Quanto aos esclarecimentos prestados,
+tem-se que: (i) as antigas reivindicações 2, 3, 6-12, 14-21 e 23-26 foram excluídas; (ii) as novas
+reivindicacoes 5, 6 e 10 foram inseridas; (iii) a nova reivindicacao 1 especifica que o medicamento
+e para o tratamento, prevencao ou controle do sangramento em um individuo humano com
+hemofilia B e, ainda, define o princípio ativo (i.e. fator FIX humano sem uma sequencia sinal e pro-
+peptideo, ou seja, os aminoacidos 1 a 415 da SEQ ID NO: 2); e (iv) as antigas reivindicações 4, 5,
+13, 22, 27 e 28 (novas 2, 3, 4, 7, 8 e 9 respectivamente) foram ajustadas para especificar detalhes
+do regime de administração e afins.
+
+         Em relação à objeção ao art. 10 (VIII) da LPI, a requerente sustenta que o escopo de
+protecao e para um medicamento que compreende um FIX quimerico cuja quantidade e uma
+caracteristica estrutural que permite que a administracao seja particularmente eficaz ao longo do
+tempo. No que tange à falta de atividade inventiva, os documentos D1 e D2 não orientam um
+tecnico no assunto na preparacao do medicamento para ser administrado conforme ora
+reivindicado (por ex. administravel profilaticamente uma vez por semana, a cada 10-14 dias, para
+uso durante a cirurgia ou tratamento perioperatorio, ou para sangramentos unicos espontaneos).
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                                Página 1 de 5
+                                                          BR122020022545-9
+
+
+Adicionalmente, o técnico no assunto ciente do acumulo de moleculas PEGuiladas no figado 1 não
+teria buscado qualquer orientacao em D1 e D2 para a preparacao de um medicamento constituido
+por FIX humano conjugado com um Fc humano ou albumina humana. Por fim, D3 revela uma
+molecula de rFIXFc de meia-vida aumentada, contudo, nao ensina a forma de administração ora
+pleiteada. Sendo assim, de acordo com a requerente, o tecnico no assunto nao combinaria D3
+com D1- D2 para alcançar a presente invenção.
+                                                                        *****
+      Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+                                                                                                                        Sim Não
+    Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                                      -    X*
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR nº. 69/2013)                       -    X**
+O pedido refere-se a Sequências Biológicas                                                                               X      -
+Comentários/Justificativas:
+       ANVISA: O pedido original BR112013000650-1 fornece o USO DE UM POLIPEPTÍDEO DO FATOR IX DE
+LONGA DURAÇÃO      com aplicação no setor farmacêutico e, por essa razão, a matéria foi encaminhada
+à ANVISA para o provimento das condições estabelecidas no art. 229-C da Lei Nº 10.196/01 que
+alterou a Lei Nº 9.279/96 (LPI) (cf. despacho 7.4 publicado na RPI 2455 de 23/01/2018). Por meio
+do Ofício nº. 021/20/COOPI/GGMED/ANVISA, de 29/01/2020, a referida Agência concedeu a prévia
+anuência com apresentação de subsídios ao pedido (cf. parecer nº. 017/19/COOPI/GGMED/
+ANVISA de 17/01/2020), o que resultou na publicação do despacho 7.5 na RPI 2562 de 11/02/2020.
+
+       De maneira sucinta, a ANVISA considerou que o quadro com 28 reivindicações do pedido
+original (cf. petição nº. 860140115292 de 11/07/2014), incidia no art. 32 da LPI. Segundo a
+Agência a alteração das reivindicacoes de MÉTODO                             DE ADMINISTRAÇÃO   para a categoria de USO   TIPO
+
+FÓRMULA   SUÍÇA nao poderia ser aceita, ja que essas categorias apresentam escopos de proteção
+distintos. Nesse caso, a primeira categoria fornece um metodo de tratamento a um individuo,
+enquanto a segunda se refere à aplicacao de uma substancia ativa ou de uma formulacao na
+preparacao de um medicamento para tratar uma patologia especifica. Portanto, tal alteracao,
+nitidamente, altera o objeto constante do quadro original constituído de 121 reivindicacoes
+subdivididas dentre: método de tratamento (1-72, 101, 108-121); polipeptideo (73-88, 102);
+polinucleotídeo (89-92); celula embrionaria humana cultivada (93-94); metodo de producao (95);
+proteína hibrida (96-100); e preparacao de Fator IX recombinante (103-107).
+
+       A despeito disso, a ANVISA argumentou que as reivindicacoes 1-28 nao seriam passiveis de
+privilegio por estarem relacionadas a um metodo terapeutico, contrariando o art. 10 (VIII) da LPI.
+Destaca-se que o proprio teor do relatório esta vinculado a descricao de metodos terapeuticos e
+ensaios relacionados a tais metodos.
+
+       Além disso, segundo a Agência, as reivindicacoes 1-28 de USO                                   TIPO FÓRMULA   SUÍÇA nao
+poderiam ser aceitas visto que não foi possivel identificar no relatório qualquer ensinamento
+
+1    Pasut, G. & Veronese, F. M. (2007) Polymer-drug conjugation, recent achievements and general strategies. Prog.
+     Polym. Sci. vol. 32, pg. 933-961. Ver p. 942, coluna da esquerda. https://doi.org/10.1016/j.progpolymsci.2007.05.008
+     Veronese, F. M. & Pasut, G. (2005) PEGylation, successful approach to drug delivery. Drug Discov Today. vol. 10,
+     no. 21, pg. 1451-1458. Ver pg. 1454, coluna da direita. https://doi.org/10.1016/S1359-6446(05)03575-0
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                              Página 2 de 5
+                                                        BR122020022545-9
+
+
+relativo ao preparo de medicamentos e, portanto, a matéria carece de suficiencia descritiva (art.
+24 da LPI) e de fundamentação técnica (art. 25 da LPI).
+
+     Tendo em vista a Portaria Conjunta nº 1, de 12 de abril de 2017, e a Instrução Normativa/
+INPI/DIRPA/CGREC nº 01, de 31 de maio de 2017, que regulamentam os procedimentos para
+aplicação do art. 229-C da LPI, o parecer da ANVISA pautado em requisitos de patenteabilidade
+será considerado como subsídio ao exame técnico do INPI, nos termos do art. 31 da LPI.
+
+     Em virtude do entendimento dado pela ANVISA em relação ao pedido original (*), a matéria
+do presente pedido dividido BR122020022545-9 também será considerada anuída e dar-se-á
+prosseguimento à análise técnica.
+
+     Patrimônio genético: Quanto à exigência formal sobre acesso ao patrimônio genético nacional
+(**), a requerente assinalou voluntariamente a declaração negativa de acesso, conforme indicado
+na pág. 6 da petição de depósito nº. 870200139137, de 05/11/2020, do pedido dividido.
+
+     Sequências biológicas: A LISTAGEM                        DE   SEQUÊNCIAS foi apresentada nos formatos impresso e
+eletrônico (padrão OMPI ST.25) via petição de depósito nº. 870200139137, de 05/11/2020. Ainda,
+nesta petição constam a declaração expressa e o código de controle alfanumérico, conforme
+disposto na Resolução INPI PR nº. 187/2017 publicada na RPI 2417 de 02/05/2017. Não foram
+observadas quaisquer irregularidades.
+                                                                      *****
+     Com base na manifestação da requerente, a presente matéria foi avaliada quanto aos
+requisitos de patenteabilidade dispostos na Lei de Propriedade Industrial nº. 9279 de 14/05/1996
+(LPI). O parecer técnico foi elaborado a partir das vias do pedido citadas no Quadro 1 abaixo.
+
+                                    Quadro 1  Páginas do pedido examinadas
+        Elemento                                     Páginas                     Nº da Petição            Data
+Relatório Descritivo                                   1-108                      870210055713          21/06/2021
+Listagem de sequências                                  1-10                      870200139137          05/11/2020
+Listagem de sequências*                     Código de Controle                    870200139137          05/11/2020
+Quadro Reivindicatório                                   1-3                      870210055713          21/06/2021
+Desenhos                                                1-24                      870200139137          05/11/2020
+Resumo                                                    1                       870210055713          21/06/2021
+*Listagem de Sequências em formato eletrônico referente ao código de controle 94D59FB74018CCE1
+(campo 1) e E94569CA21724800 (campo 2).
+
+             Quadro 2 - Considerações referentes aos artigos 10, 18, 22 e 32 da LPI
+                                    Artigos da LPI                                          Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                          X               -
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                   -             X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                      X               -
+O pedido está de acordo com disposto no art. 32 da LPI                                       X               -
+Comentários/Justificativas:
+     A objeção anterior quanto ao art. 10 (VIII) da LPI é mantida uma vez que os argumentos
+apresentados na petição de resposta nº. 870210055713, de 21/06/2021, não foram persuasivos.
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                    Página 3 de 5
+                                                           BR122020022545-9
+
+
+Nesse caso, a despeito das modificações realizadas no novo quadro, o objeto de proteção das
+reivindicações 1-10 de USO TIPO FÓRMULA SUÍÇA continua sendo o regime de dosagem e o intervalo de
+administração do polipeptideo Fator IX quimerico2 em pacientes com hemofilia B, o que claramente
+configura um MÉTODO TERAPÊUTICO e, portanto, incide nas proibições do art. 10 (VIII) da LPI.
+
+                     Quadro 3 - Considerações referentes aos artigos 24 e 25 da LPI
+                                       Artigos da LPI                                       Sim                Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                        X                   -
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                      X                   -
+Comentários/Justificativas:
+      As emendas realizadas no novo quadro (cf. petição nº. 870210055713 de 21/06/2021), a
+saber: (i) cancelamento das antigas reivindicações 20, 21, 23 e 24, pois elas definiam as
+sequências da porção FIX e FcRn BP pelo % de identidade em relação aos compostos parentais;
+(ii) exclusão dos termos aproximadamente, pelo menos, de cerca de, ou mais das antigas
+reivindicações 1, 2, 3, 5, 6, 8, 9, 13, 20, 21, 23, 24, 25 e 26; e (iii) definição do Fator IX de acao
+prolongada pela SEQ ID NO: 2 correspondente superaram as irregularidades apontadas quanto
+aos artigos 3º (III) e 4º (III) da Instrução Normativa nº. 30/2013 (cf. RPI 2241) e o art. 25 da LPI.
+Logo, as novas reivindicações 1-10 estão em conformidade com os artigos 24 e 25 da LPI.
+
+                                     Quadro 4 - Documentos citados no parecer
+Código                                              Documento                                 Data de publicação
+    D1                                          WO2009130602 A2                                     29/10/2009
+             Shapiro, A. D. et al. Safety and prolonged biological activity following a
+             single administration of a recombinant molecular fusion of native human
+    D3                                                                                              17/06/2010
+             coagulation factor IX and the Fc region of immunoglobulin G (IgG) (rFIXFc)
+             to subjects with hemophilia B. Haemophilia, Vol. 16, No. Suppl. 4, pág. 30.
+
+
+         Quadro 5 - Análise dos Requisitos de Patenteabilidade (art. 8º, 11, 13 e 15 da LPI)
+      Requisito de Patenteabilidade                                      Cumprimento              Reivindicações
+                                                                             Sim                        1-10
+               Aplicação Industrial
+                                                                            Não                           -
+                                                                             Sim                        1-10
+                       Novidade
+                                                                            Não                           -
+                                                                             Sim                          -
+               Atividade Inventiva
+                                                                            Não                         1-10
+Comentários/Justificativas:
+      As modificacoes efetuadas no novo quadro e os argumentos apresentados na petição nº.
+870210055713, de 21/06/2021, nao foram suficientes para reverter as objecoes apontadas no
+parecer anterior quanto a falta de atividade inventiva (cf. RPI 2620). Nesse caso, embora os
+documentos citados não revelem especificamente o uso do Fator IX quimérico na dosagem e
+intervalos reivindicados, é sabido que o Fator IX pode ser modificado para prolongar a ½ vida (cf.
+
+2   Vide, por exemplo, a reivindicação 1 que descreve o REGIME DE DOSAGEM e INTERVALO DE ADMINISTRAÇÃO a seguir: (a) 10 IU/
+    Kg a 100 IU/Kg do polipeptideo FIX de longa duracao 1x por semana; (b) 50 IU/Kg a 100 IU/Kg 1x a cada 10 ou 14
+    dias; e (c) 50 IU/Kg a 100 IU/Kg 1x a cada 6 a 48 horas.
+
+
+           Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                   Página 4 de 5
+                                                        BR122020022545-9
+
+
+D1 e D3). Com relação ao clearance dos polímeros PEG, as referências citadas Pasut, G. &
+Veronese, F. M. (2007) e Veronese, F. M. & Pasut, G. (2005) ensinam que o peso molecular do
+PEG determina a via de excreção, ou seja, polímeros abaixo de 20 kDa são eliminados pela urina
+ou fezes, enquanto que, os de peso molecular mais alto são excretados mais lentamente pelo
+fígado. Nesse contexto, os argumentos da requerente estão parcialmente corretos visto que o
+fator FIX de longa duração de D2 (Hansen L. et al. 2009) foi conjugado ao PEG de 40 kDa, esse
+último eliminado predominantemente pelo fígado. Contudo, os polímeros PEG de D1 variam de 2
+kDa a 100 kDa (cf. parágrafos [66] e [67]) e, inclusive, o tempo de ½ vida dos conjugados de 10
+kDa FIX-PEG e 20 kDa FIX-PEG foi comparado ao composto parental não-conjugado FIX (cf.
+Exemplo 8 e Figuras 2, 3 e 4). Posto isso, a presente análise concorda com a requerente retira D2
+do Quadro 4. No entanto, D1 é mantido pois descreve conjugados FIX-PEG de peso molecular
+inferior à 20 kDa que, segundo as referências citadas pela requerente, possuem rotas de excreção
+alternativas ao fígado. Logo, o técnico no assunto visando aprimorar a biodisponibilidade do fator
+FIX em pacientes portadores de hemofilia B, utilizaria os ensinamentos de D1 e D3 para alcançar
+a matéria pleiteada. Cabe reiterar que a determinação do regime de dosagem e do intervalo de
+administração constitui uma prática comum e é destituída de caráter inventivo. Desse modo, a
+matéria pleiteada nas novas reivindicações 1-10 está em desacordo com o art. 8º c/c 13 da LPI.
+
+Conclusão:
+
+     Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+     - não atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI); e
+
+     - não é considerado invenção, uma vez que incide no Art. 10 da LPI.
+
+     De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+                                                                           Publique-se o indeferimento (9.2).
+
+                                                                           Rio de Janeiro, 30 de junho de 2021.
+
+         Juliana Manasfi Figueiredo
+       Pesquisador/ Mat. Nº 1568179
+          DIRPA / CGPAT II/DIMOL
+ Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                              Página 5 de 5
+

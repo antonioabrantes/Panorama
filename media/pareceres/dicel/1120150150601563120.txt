@@ -1,0 +1,184 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR112015015060-8           N.° de Depósito PCT:US2013/077258
+ Data de Depósito:     20/12/2013
+ Prioridade Unionista: US 13/723,239 (21/12/2012); US 13/723,253 (21/12/2012); US
+                       61/740,474 (21/12/2012); US 13/723,242 (21/12/2012); US 13/900,655
+                       (23/05/2013); US PCT/US2013/042350 (23/05/2013)
+ Depositante:          DEKA PRODUCTS LIMITED PARTNERSHIP (US)
+ Inventor:             JOHN J. BIASI, RICHARD M. NEWMAN, ERIC L. PRIBYL, JOHN M.
+                       KERWIN, RAHUL GUPTA
+ Título:               Método implementado por computador, sistema, e aparelho para
+                       cuidados de paciente eletrônicos
+
+                                                              PARECER
+
+
+          O presente pedido, que solicita privilégios de invenção, versa sobre um sistema de
+redução de erro médico, também um método, que pode incluir um software de redução de erro
+médico para utilização na criação e revisão de pelo menos uma biblioteca de drogas. O pedido
+foi objeto de exigência preliminar, publicado na 2571 de 14 de abril de 2020. Através da petição
+870200085940 de 10/07/2020 o requerente apresentou novos subsídios e foi emitido parecer
+7.1, uma vez que o pedido não apresentava itens básicos para caracterizar um sistema, relatório
+descritivo extremamente amplo, desenhos também extremamente amplos e sequer limitou-se a
+apresentar o que de fato faz parte do pedido em questão, além da incidência no Art. 10. Através
+da petição 870220005872 de 24/01/2022 o requerente apresentou argumentação e
+modificações no pedido, TODAVIA, respeitosamente discordamos do requerente pois
+entendemos que o novo texto não foi suficiente para superar as deficiências apontadas nos
+exames anteriores. Sendo assim, opinamos pelo indeferimento.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+          Elemento                                  Páginas                  n.o da Petição     Data
+
+Relatório Descritivo                 504 Págs. (03 a 506 do pdf)             870200085940     10/07/2020
+Quadro Reivindicatório                 07 Págs. (05 a 11 do pdf)             870220005872     24/01/2022
+Desenhos                            206 Págs. (613 a 818 do pdf)             860150165389     31/07/2015
+Resumo                                     01 Pág. (514 do pdf)              870200085940     10/07/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                           BR112015015060-8
+
+Artigos da LPI                                                           Sim          Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                     X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                             X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                  X
+O pedido está de acordo com disposto no art. 32 da LPI                   X
+Comentários/Justificativas
+
+
+
+       O requerente questiona a incidência do pedido no Art. 10. Respeitosamente destacamos
+que a redação imprecisa é a causa das dúvidas, de forma que a LPI e diretriz de exame são
+claras em solicitar um pedido perfeitamente definido, claro e preciso. Da forma como fora
+apresentado, o pedido carece de clareza, definição e precisão, não atendendo ao Art. 24 e 25.
+Outrossim, o requerente não apresentou se o pedido necessita de um software ou não.
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim          Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                    X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                  X
+Comentários/Justificativas
+
+
+
+       Tal como apresentado no exame anterior, as modificações apresentadas pelo requerente
+não atendem à clareza e definição exigidos para uma proteção. Assim como apontado no exame
+anterior e quadro anterior, o requerente não apresentou se o pedido necessita de um software
+ou não. Abaixo, a reivindicação 01 comentada para ilustrar a falta de precisão, clareza, termos
+extremamente amplos do pedido (tal como apresentado no parecer anterior): Sistema de
+redução de erro médico caracterizado pelo fato de que: o sistema é configurado para criação e
+revisão de pelo menos uma biblioteca de drogas, e para prover um de uma pluralidade de
+conjuntos de privilégios para cada um de uma pluralidade de conjuntos de usuários
+[Termo amplo e indefinido], cada um da pluralidade de conjuntos de privilégios dispostos para
+alocar um grau de funcionalidade para um da pluralidade de conjuntos de usuários, o grau de
+funcionalidade configurado para definir a capacidade de um usuário alterar a pelo menos uma
+biblioteca de drogas; o sistema compreendendo pelo menos um servidor; pelo menos um
+computador editor, cada um do pelo menos um computador editor compreendendo um
+processador em comunicação com um display [Sistema não definido, amplo e impossível
+de reproduzir], o pelo menos um computador editor e pelo menos um servidor configurados
+para comunicar através de uma rede em um modelo baseado em cliente  servidor [Sistema
+
+
+                                                                                        Página 2
+                                        BR112015015060-8
+
+não definido, amplo e impossível de reproduzir],; e em que cada uma das pelo menos uma
+biblioteca de drogas é para utilização em pelo menos um dispositivo médico (26),...
+
+
+
+         Embora o requerente tenha apresentado modificação visando sanar a incidência nos
+Arts. 24 e 25, respeitosamente entendemos que o pedido persiste nos problemas apresentados
+em primeiro exame e assim, opinamos pelo indeferimento.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                Documento                              Data de publicação
+     -                                       -                                            -
+Os documentos citados na etapa 6.21 não podem ser superadas sem uma CLARA DEFINIÇÃO
+DAS CARACTERÍSTICAS TÉCNICAS e consequentemente o EFEITO TÉCNICO exigido pela LPI
+para conceder a proteção.
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade               Cumprimento              Reivindicações
+                                                     Sim                      01  22
+             Aplicação Industrial
+                                                    Não                          -
+                                                     Sim                      01  22
+                  Novidade
+                                                    Não                          -
+
+                                                     Sim                      01  22
+             Atividade Inventiva
+                                                    Não                          -
+Comentários/Justificativas
+
+
+
+         Na ausência de definição do sistema e método, fica prejudicada a comparação com os
+documentos do estado da técnica. O pedido, através de redação deficiente, foi incapaz de definir
+claramente o Sistema ou Método, com todas as características e etapas, permitindo uma
+perfeita reprodutibilidade como solicitado pelo Art. 24 e 25 da LPI. Uma vez que o pedido não
+cumpre as definições da LPI e diretriz de exame, o mesmo também não pode se afastar dos
+documentos citados na etapa 6.21.
+
+
+
+Conclusão
+
+
+
+
+         Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+                                                                                              Página 3
+                                        BR112015015060-8
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   não apresenta suficiência descritiva (Art. 24 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                   Publique-se o indeferimento (9.2).
+
+
+
+                                                                  Rio de Janeiro, 24 de abril de 2022.
+
+
+
+
+Edgar Jose Garcia Neto Segundo
+Pesquisador/ Mat. Nº 2357042
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+005/20
+
+
+
+
+                                                                                             Página 4
+

@@ -1,0 +1,299 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+
+ N.° do Pedido:                      BR112017022575-1         N.° de Depósito PCT:FI2016/050271
+ Data de Depósito:                   27/04/2016
+ Prioridade Unionista:               FI 20155307 (27/04/2015)
+ Depositante:                        ANDRITZ OY (FI)
+ Inventor:                           SANNA HÄMÄLÄINEN; PEKKA KITTILÄ; OUTI POUKKA
+ Título:                             MÉTODO DE REGENERAR CATALISADORES USADOS PARA A
+                                     PRODUÇÃO DE LICORES DE COZIMENTO DE POLISSULFETOS
+
+                                                                PARECER
+
+
+         Em 25/01/2021, por meio da petição 870210008484, a Requerente apresentou
+modificações no pedido em resposta ao parecer emitido, notificado na RPI 2600, de 03/11/2020
+(despacho 7.1). Estas modificações estão consideradas no Quadro 1.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               No da Petição           Data
+
+Relatório Descritivo                                    1 a 16               870210008484          25/01/2021
+Quadro Reivindicatório                                   1a4                 870210008484          25/01/2021
+Desenhos                                                 1a2                 870210008484          25/01/2021
+Resumo                                                      1                870210008484          25/01/2021
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                               Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                     X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                             X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                       X
+O pedido está de acordo com disposto no art. 32 da LPI                                        X
+Comentários/Justificativas ______________________________
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1 de 6
+                                           BR112017022575-1
+
+
+                Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                             Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI         X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                       X
+
+Comentários/Justificativas
+       A reivindicação 1 não atende ao disposto no Art. 25 da LPI e na Instrução Normativa nº
+30/2013  Art. 4º (III), pois a matéria pleiteada não está definida de maneira clara, precisa e
+positiva, tendo em vista que não define a composição do licor branco e não define uma faixa
+(limites inferior e superior) para o teor de ferro. Cabe salientar que a expressão quantidades de
+ferro é vaga e imprecisa.
+
+       A reivindicação 2 não atende ao disposto no Art. 25 da LPI e na Instrução Normativa nº
+30/2013  Art. 4º (III), pois a matéria pleiteada não está definida de maneira clara, precisa e
+positiva, tendo em vista que não define uma faixa (limites inferior e superior) para o teor de ferro.
+
+       A reivindicação 3 não atende ao disposto no Art. 25 da LPI e na Instrução Normativa nº
+30/2013  Art. 4º (III), pois a matéria pleiteada não está definida de maneira clara, precisa e
+positiva, tendo em vista que não define a composição do licor branco, nem a composição do licor
+verde. Cabe ressaltar que não há suporte no relatório descritivo para o referido licor verde.
+
+       Na reivindicação 4 deve ser definido o significado de sulfidez (não é um termo descritivo
+padronizado), de modo a atender o disposto no Art. 25 da LPI e na Instrução Normativa nº
+30/2013  Art. 4º (III).
+
+       Acresce frisar que termos técnicos pouco utilizados ou especialmente formulados podem
+ser aceitos, desde que adequadamente definidos e que não haja um equivalente reconhecido na
+técnica (Resolução124/2013, Parágrafo 2.30).
+
+       A reivindicação 6 contém expressões como similar, as quais resultam na falta de clareza e
+precisão da matéria reivindicada, contrariando o disposto no Art. 25 da LPI e na Instrução
+Normativa nº 30/2013  Art. 4º (III). Cabe salientar que a reivindicação 6 pleiteia ácido fórmico ou
+um ácido de alcano similar, ou ácido clorídrico ou ácido mineral similar. Estas definições não
+permitem determinar com clareza, quais ácidos estão englobados no escopo da reivindicação.
+
+       A reivindicação 9 não atende ao disposto no Art. 25 da LPI e na Instrução Normativa nº
+30/2013  Art. 4º (III), pois a matéria pleiteada não está definida de maneira clara, precisa e
+positiva, tendo em vista que é pleiteado na mesma reivindicação que o líquido de lavagem seja
+um ácido inorgânico, tal como ácido clorídrico ou um ácido mineral similar e também é,
+posteriormente, reivindicado que o líquido de lavagem seja um ácido orgânico ou inorgânico.
+Ademais a redação que define a concentração do ácido está confusa (...concentração de ácido de
+cujo líquido é...). Cabe salientar, ainda, que a expressão quantidade adequada causa
+indefinição da matéria reivindicada.
+
+
+                                                                                        Página 2 de 6
+                                       BR112017022575-1
+
+      A reivindicação 10 não atende ao disposto no Art. 25 da LPI e na Instrução Normativa nº
+30/2013  Art. 4º (III), pois a matéria pleiteada não está definida de maneira clara, precisa e
+positiva, tendo em vista que diz que ocorre uma etapa de lavagem na qual um líquido de lavagem
+ácido é usado, e que é realizada em um segundo ponto no tempo, antes do primeiro ponto no
+tempo ou depois disso. Como é possível realizar uma etapa no segundo ponto no tempo, antes
+do primeiro ponto no tempo?
+
+      A reivindicação 11 tenta definir algumas sequências de lavagem. Não está claro se as
+referidas sequências são modalidades alternativas (cláusula "ou") ou cumulativas (cláusula "e"). A
+multiplicidade de alternativas dentro de uma única reivindicação torna difícil determinar,
+claramente, para qual matéria a proteção está sendo solicitada.
+
+      A reivindicação 15 define que o tratamento de lavagem deve ser realizado "...até que a
+queda na pressão seja reduzida em pelo menos 10%...", definindo o objeto em termos do
+resultado alcançado e não pelas características técnicas do objeto, em desacordo ao disposto no
+Art. 25 da LPI.
+
+      Ressalta-se que o pedido não pode ser alterado, de maneira tal, que o mesmo contenha
+matéria que se estenda além do conteúdo do pedido originalmente apresentado  interpretação do
+Art. 32 da LPI segundo a Resolução PR nº 093/2013 (Diretrizes sobre a aplicabilidade do disposto
+no Art. 32 da LPI nos pedidos de patentes, no âmbito do INPI).
+
+
+
+
+                         Quadro 4  Documentos citados no parecer
+ Código                              Documento                               Data de publicação
+    D1                               US4024229                                    17/05/1977
+    D2                                CA814882                                    10/06/1969
+    D3                               US4855123                                    08/08/1989
+    D4                               CA1205930                                    10/06/1986
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento               Reivindicações
+                                                   Sim                       1 a 15
+           Aplicação Industrial
+                                                   Não                         -----
+                                                   Sim                       1 a 15
+                  Novidade
+                                                   Não                         -----
+
+           Atividade Inventiva                     Sim                         -----
+
+                                                   Não                       1 a 15
+
+
+
+
+                                                                                       Página 3 de 6
+                                         BR112017022575-1
+
+
+Comentários/Justificativas
+
+
+       Em 25/01/2021, por meio da petição 870210008484, a requerente apresentou
+manifestação em resposta ao parecer de ciência (despacho 7.1), notificado na RPI 2600, de
+03/11/2020, e, em anexo, novas vias do relatório descritivo, do quadro reivindicatório (total de 15
+reivindicações), do resumo e dos desenhos, as quais foram aceitas e analisadas, conforme
+solicitação.
+
+       O novo quadro reivindicatório modificado submetido para exame foi aceito, uma vez que
+as alterações efetuadas limitam-se à matéria inicialmente revelada e atendem ao objetivo de
+melhor esclarecer ou definir a matéria objeto de proteção, atendendo, portanto, ao disposto no
+artigo 32 da Lei nº 9.279/96 (LPI).
+
+       Em sua manifestação a requerente alegou que a nova reivindicação 1 emendada, pleiteia
+um processo de regeneração em que o catalisador é lavado na ausência de ar/gás de oxigênio,
+para remover o precipitado acumulado no catalisador e que tal característica técnica diferencia a
+matéria objeto de proteção do presente pedido dos ensinamentos de D1, tendo em vista que D1
+é direcionado a um processo em que o redutor (sulfeto ou hidrossulfeto) e o oxidante (oxigênio,
+ar ou oxigênio com outros gases) são colocados em contato com o catalisador e um com o outro
+para produzir de forma otimizada polissulfeto de sódio e hidrossulfeto de sódio.
+
+       Relativamente ao documento D2 a requerente afirmou que o mesmo descreve a
+dissolução de enxofre do catalisador de carvão ativado por líquido branco, pelo que se
+transforma, simultaneamente, em polissulfeto.
+
+       Segundo a requerente, D2 descreve a dissolução do licor branco como parte do processo
+de produção de polissulfuretos, não como uma etapa de regeneração separada do catalisador
+contendo ferro e precipitado de enxofre. Mesmo que a dissolução do enxofre seja mencionada
+em D2, o enxofre removido é puro e não um precipitado de ferro e enxofre do tipo presente, que
+forma um revestimento semelhante ao asfalto no catalisador como na presente invenção.
+
+       Consequentemente, a requerente esclareceu que a presente invenção, como definida na
+reivindicação independente 1 em apenso, e todas as reivindicações dependentes dela, atende
+ao requisito de atividade inventiva em face de D1 e D2.
+
+       No tocante ao documento D3 (US4855123), a requerente esclareceu que o referido
+documento não ensina nem sugere lavar o catalisador de carvão ativado com um líquido de
+lavagem de sulfeto de sódio, sem a presença de ar ou oxigênio gasoso, a fim de remover um
+precipitado acumulado no catalisador de carvão ativado. De acordo com a requerente, D3 é
+direcionado, de maneira geral, a um método de tratamento de uma solução aquosa de sulfeto de
+sódio, tal como, licor branco, com oxigênio, na presença de um catalisador de carvão ativado
+(Resumo; col. 2, linhas 19-31; e col. 4, linhas 33-45).
+
+       Reitera-se que as alegações da requerente não foram consideradas suficientes para
+superar as objeções efetuadas com relação a falta de atividade inventiva do presente pedido de
+
+
+
+                                                                                      Página 4 de 6
+                                       BR112017022575-1
+
+
+patente, mediante o estado da técnica citado, tendo em vista que o documento D1 (coluna 15,
+linha 41 a coluna 16, linha 50) descreve um processo contínuo para a produção de polissulfetos
+a partir de uma solução aquosa de sulfureto de sódio (redutor), na presença de um catalisador
+compreendendo carvão ativado impermeabilizado com PTFE e que contém ferro (coluna 9,
+linhas 20-25). Neste processo, o catalisador é continuamente lavado ou regenerado com sulfeto
+de sódio porque o catalisador está no aparelho de bandejas empilhadas da referência e o sulfeto
+de sódio redutor, que está na forma líquida (coluna 16, linhas 5-9), é continuamente introduzido
+nas bandejas (coluna 15, linhas 41-57). Portanto, embora não seja explicitamente citado, uma
+regeneração do catalisador, com um líquido de lavagem contendo Na2S, está presente no
+processo contínuo de D1.
+      D1 ensina que o licor contendo Na 2S (redutor) pode ser um licor branco derivado do licor
+de polpação do processamento de material lignocelulósico, como madeira (coluna 18, linha 65 a
+coluna 19, linhas 34-38). O licor branco (coluna 19, linha 34) é descrito como uma mistura de
+sulfeto de sódio e hidróxido de sódio (coluna 19, linha 29) e pode ser diluído com água (coluna
+19, linhas 43-45). D1 ensina, no exemplo (coluna 21), a formação do precursor de licor branco,
+que é usado, posteriormente, para a produção de polissulfeto. O licor tem uma concentração de
+álcali ativo de 126,8g/L (coluna 21, linha 22) e uma sulfidez de 25% (coluna 21, linha 44). Este
+licor de alimentação também é considerado como o licor de lavagem que regenera
+inerentemente o catalisador. Ademais, sabe-se de D3 (coluna 6, linhas.15-20) que este licor
+branco contém algum teor de ferro.
+
+      O documento D2 descreve as vantagens da polpação de polissulfeto e descreve,
+especificamente, um processo de adsorção para a preparação de licor de polpação de
+polissulfeto, em que gás sulfeto de hidrogênio é adsorvido em carvão ativado, na presença de ar
+ou oxigênio, o sulfeto de hidrogênio sendo oxidado em enxofre elementar, que é depositado no
+carbono. Uma vez que o carbono está saturado com enxofre, o enxofre é lixiviado por uma
+solução alcalina. Diz-se que os melhores resultados são obtidos pela saturação do sulfeto de
+hidrogênio com vapor de água antes do contato com o carbono e pela remoção do enxofre
+formado por lixiviação alcalina, a fim de deixar algum resíduo alcalino para neutralização do
+ácido sulfúrico formado durante a reação.
+
+      D2 (reivindicações e página 7, linha 25 a página 8, linha 12) divulga um processo para
+preparar polissulfetos por oxidação de um licor de polpação alcalino selecionado de licor branco,
+solução de sulfeto de sódio e solução de hidróxido de sódio na presença de um catalisador de
+carvão ativado. Durante este processo, o enxofre precipitado é extraído pelo licor alcalino.
+Portanto, uma "lavagem" do catalisador com um líquido contendo Na 2S, de modo que o enxofre
+precipitado seja removido, está presente no método de D2. D2 divulga ainda que a lavagem
+ácida pode ser realizada para remover o ferro do catalisador de carbono (página 5, linhas10-11)
+e que a queda de pressão depende do tamanho e da forma das partículas do catalisador (D2,
+página 5, linhas 3-5).
+
+      Além disso, cabe salientar que o uso de lavagem ácida para dissolver metais como o ferro
+é conhecido de D2 e D3 (exemplos, coluna 7, linha 67 a coluna 8, linha 3). O uso de lavagem
+
+
+                                                                                    Página 5 de 6
+                                         BR112017022575-1
+
+
+alcalina com uma solução de Na2S para dissolver enxofre precipitado é conhecido de D2 e D4
+(página 5, linhas 11-13, página 8, linha 23 e reivindicação 2).
+
+      O uso combinado de tratamentos ácidos e alcalinos é conhecido a partir de D2 e o uso
+combinado de lavagem com água e lavagem com ácido é conhecido a partir de D3 (exemplos).
+Especificamente, o Exemplo 2 do documento D3 é dirigido a um tratamento de múltiplos
+estágios, no qual duas etapas de lavagem sequencial com ácido fórmico (solução aquosa a
+4,5%) são realizadas, seguidas de enxágue com água e enxágue com licor branco.
+
+
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º e Art. 13 da LPI) e as reivindicações estão indefinidas e/
+ou não estão fundamentadas no relatório descritivo (Art. 25 da LPI).
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                   Publique-se o indeferimento (9.2).
+
+
+
+                                                                  Rio de Janeiro, 22 de março de 2021.
+
+
+
+
+Carla Maria Salerno Polato
+Pesquisador/ Mat. Nº 1485559
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+
+
+
+
+                                                                                        Página 6 de 6
+

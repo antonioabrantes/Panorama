@@ -1,0 +1,137 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102013014262-0          N.° de Depósito PCT:
+ Data de Depósito:                   07/06/2013
+ Prioridade Unionista:               US 61/657,611 (08/06/2012); US 13/656,506 (19/10/2012)
+ Depositante:                        APPLE INC. (US)
+ Inventor:                           ANANTHAKRISHNA RAMESH, YOSEN LIN, DAMIEN PASCAL
+                                     SORRESSO, JAMES MICHAEL MAGEE, KEVIN JAMES VAN
+                                     VECHTEN, UMESH SURESH VAISHAMPAYAN
+ Título:                             Importância de processo adaptável 
+
+                                                                PARECER
+
+
+Em 06/06/2022, por meio da petição 870220049405, a Requerente apresentou modificações no
+pedido em resposta ao parecer emitido, notificado na RPI 2670 de 08/03/2022 (despacho 7.1).
+Estas modificações estão consideradas no Quadro 1.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                  n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 55                  870220049405           06/06/2022
+Quadro Reivindicatório                                   1a6                    870220049405           06/06/2022
+Desenhos                                                1 a 21               860130000292 (Petição     07/06/2013
+                                                                                 de Depósito)
+Resumo                                                      1                   870220049405           06/06/2022
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                   Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                         X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                 X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                           X
+O pedido está de acordo com disposto no art. 32 da LPI                                            X
+Comentários/Justificativas
+
+---
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                  Página 1
+                                           BR102013014262-0
+
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+Comentários/Justificativas
+---
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+      D1    US2005/183085 A1                                                       18/08/2005
+      D2    US2005/050552 A1                                                       03/03/2005
+
+
+      Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+       Requisito de Patenteabilidade               Cumprimento           Reivindicações
+                                                         Sim                   1 a 16
+            Aplicação Industrial
+                                                        Não                      ---
+                                                         Sim                   1 a 16
+                 Novidade
+                                                        Não                      ---
+
+                                                         Sim                     ---
+            Atividade Inventiva
+                                                        Não                    1 a 16
+Comentários/Justificativas
+Em sua Manifestação, a Requerente argumenta que a lista de gerenciamento de sucessão de
+prioridade de D1 é uma lista na qual blocos de controle de tarefas (TCBs) configurados em estado
+de espera quando a comunicação entre sistemas operacionais é necessária, são conectados em
+uma ordem preferencial. Em vez disso, no presente pedido, a contagem de asserções de
+importância é usada para determinar quando retornar o daemon à importância padrão original
+depois que uma contagem de asserções for zero. E alega ainda que D1 e D2 são omissos quanto
+a asserções, e ainda mais omissos quanto a manter uma contagem de asserções, receber uma
+asserção de descarte, ou decrementar uma contagem de asserções.
+Entretanto, a lista revelada em D1 possui a funcionalidade de manter referências aos processos
+que requisitaram comunicação com o primeiro processo, que corresponde diretamente a
+respectivas asserções de importância para o primeiro processo. Isto é validado pelo fato que,
+quando a lista se torna vazia (seu tamanho/contador é zerado), a prioridade é restaurada para o
+valor padrão um (D1, parágrafo 0054). O fato da lista de D1 compreender limitações adicionais é
+considerado irrelevante para a discussão.
+
+
+
+
+                                                                                          Página 2
+                                      BR102013014262-0
+
+Assim, a matéria pleiteada nas reivindicações 1 a 16 não atende ao requisito de atividade
+inventiva, pois decorre de maneira óbvia para um técnico no assunto a partir da combinação dos
+ensinamentos do documento D1 com os ensinamentos de D2.
+
+
+
+Conclusão
+Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende ao
+requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da data
+de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+
+
+                                                            Rio de Janeiro, 28 de junho de 2022.
+
+
+
+
+Rodrigo de Paula Pereira
+Pesquisador/ Mat. Nº 1742451
+Deleg. Comp. - Port. INPI/DIRPA Nº
+004/15
+
+
+
+
+                                                                                        Página 3
+

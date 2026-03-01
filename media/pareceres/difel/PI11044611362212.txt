@@ -1,0 +1,196 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI1104461-6              N.° de Depósito PCT:
+ Data de Depósito:                   12/09/2011
+ Prioridade Unionista:               US 12/893,038 (29/09/2010)
+ Depositante:                        ACLARA METERS LLC. (US)
+ Inventor:                           CHANDRASHEKHAR SADASHIV NEHETE, SANDEEP YOGRAJ
+                                     NEMADE
+ Título:                             Método para acessar componentes de medidores elétricos e sistema
+                                     de medidor elétrico
+
+                                                              PARECER
+
+
+          O presente pedido sofreu ciência de parecer (7.1), conforme publicado na RPI nº 2583 de
+07/07/2020. Através da petição nº 870200125607 de 05/10/2020, a Requerente apresentou
+manifestação sobre o parecer publicado, além de novas vias do relatório descritivo, quadro
+reivindicatório e Resumo. Portanto, para fins de continuidade de exame estão sendo analisados
+os seguintes documentos:
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+            Elemento                      Páginas                            n.o da Petição           Data
+
+Relatório Descritivo                        1  12                           870200125607           05/10/2020
+Quadro Reivindicatório                      14                              870200125607           05/10/2020
+Desenhos                                    15                        860140154431/NPWB            11/09/2014
+Resumo                                         1                             870200125607           05/10/2020
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                             Página 1/4
+                                               PI1104461-6
+
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                  EP1731914A1                                13/12/2006
+    D2                                US2009168307A1                               02/07/2009
+    D3                                  GB2183852A                                 10/06/1987
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                   1  13
+            Aplicação Industrial
+                                                        Não                      ---
+                                                         Sim                     ---
+                 Novidade
+                                                        Não                    1  13
+
+                                                         Sim                     ---
+            Atividade Inventiva
+                                                        Não                    1  13
+Comentários/Justificativas
+
+
+
+         O novo quadro reivindicatório apresentado pela Requerente não possui alterações em
+relação ao quadro reivindicatório analisado no parecer anterior.
+
+         Em sua manifestação, a Requerente argumenta que:
+
+            (i) nenhum dos documentos D1 a D3, analisados isoladamente ou em
+            combinação, descrevem ou sugerem a etapa fornecer um invólucro de
+            medidor de energia que tem um ou mais compartimentos acessíveis ao
+            serviço operáveis para alojar componentes de infraestrutura de medição
+            avançada.
+
+            (ii) Especificamente, infraestrutura de medição avançada (AMI) se refere a
+            sistemas que medem, coletam e analisam o uso de energia e interagem
+
+
+                                                                                          Página 2/4
+                                          PI1104461-6
+
+
+           com dispositivos avançados, como medidores de eletricidade, medidores
+           de gás, medidores de calor e medidores de água através de vários meios
+           de comunicação sob demanda ou horários pré-definidos. A infraestrutura
+           AMI inclui hardware, software, comunicação, displays de energia,
+           controladores, etc. e que Dispositivos de gerenciamento de energia e
+           placas de circuito AMI localizados nas instalações do cliente podem ser
+           usados para monitorar o consumo de energia e comunicar essas
+           informações a fornecedores, concessionárias e prestadores de serviços.
+           As comunicações AMI também podem ser utilizadas pela concessionária
+           para ajudar os consumidores a alterar manualmente ou automaticamente
+           seus padrões de consumo normal, por exemplo, em resposta a mudanças
+           no preço ou como incentivos projetados para encorajar o menor uso de
+           energia em horários de pico de demanda ou preços de atacado mais altos
+           ou durante períodos de baixa confiabilidade dos sistemas operacionais.
+           Note-se que D1 e D2 não conseguem solucionar tais deficiências de D1.
+
+
+       A argumentação da Requerente foi atentamente analisada. Entretanto, nos colocamos
+respeitosamente em posição de discordância.
+
+       Em relação à argumentação (i), observa-se que D1 revela um invólucro de medidor de
+energia (2, 3) que tem pelo menos um compartimento (23) acessível ao serviço operável (por
+intermédio da abertura da tampa 4) para alojar componentes (10, 11, 12) de infraestrutura de
+medição avançada (parágrafos 0025 a 0033; figuras 1 a 5 e 7). Importante salientar que a
+própria Requerente considera a bateria como um componente de infraestrutura de medição
+avançada, dentre outros (vide, por exemplo, reivindicação 2 do quadro reivindicatório analisado).
+Além disso, em D1, a tampa 8 dá acesso a um outro compartimento, independente do
+compartimento para alocação das baterias, com os componentes inerentes aos dispositivos de
+medição. Portanto, em consonância com a argumentação utilizada na análise dos requisitos de
+patenteabilidade realizada no parecer anterior, consideramos que a matéria pleiteada na
+reivindicação independente 1 é desprovida de novidade face aos ensinamentos de D1, conforme
+art. 11 da LPI. Ademais, a reivindicação independente 7 também de desprovida de novidade,
+mutatis mutandis, face aos ensinamentos de D1.
+
+       Em relação à argumentação (ii), é importante observar que, apesar de o relatório
+descritivo servir de base para a interpretação das reivindicações, são estas últimas que definem
+os direitos do Depositante. Portanto, em qualquer fase do exame, é o teor das reivindicações
+aquele que deve ser submetido à análise da existência dos requisitos de patenteabilidade. Neste
+sentido, verifica-se que as características técnicas relacionadas à infraestrutura de medição
+avançada e seus componente, bem como suas qualidades, vantagens e aplicações, não são
+objeto da matéria reivindicada, uma vez que esta trata basicamente de um método de manipular
+e instalar os componentes em um invólucro, além de um sistema correlato. Tal método, que
+utiliza compartimentos distintos acessíveis de forma independente para tais componentes, é
+
+
+
+                                                                                       Página 3/4
+                                            PI1104461-6
+
+
+revelado em D1 (figs. 1 a 5 e 7; parágrafos 0025 a 0033) ou D2 (figuras 1A, 2A, 2B, 2C, 5C, 6A,
+6B; parágrafos 0028, 0031-0033, 0038, 0040, 0052, 0045, 0067-0069) ou D3 (figuras 1, 3, 4, 8,
+9; p. 1  linhas 7-13; p. 2  linhas 104-123; p. 3  linha 102 a p. 4  linha 4; p. 4  linhas 10-17;
+p. 8  linhas 10-17), que antecipam todas as características pleiteadas nas reivindicações 1 a
+13. Portanto, a matéria pleiteada é desprovida de novidade, conforme art. 11 da LPI.
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o Depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                   Publique-se o indeferimento (9.2).
+
+
+
+                                                            Rio de Janeiro, 09 de fevereiro de 2021.
+
+
+
+
+Bruno Montesano Schettino
+Pesquisador/ Mat. Nº 2042629
+DIRPA / CGPAT III/DIFEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 007/15
+
+
+
+
+                                                                                           Página 4/4
+

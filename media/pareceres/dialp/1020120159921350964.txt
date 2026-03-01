@@ -1,0 +1,270 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR102012015992-9         N.° de Depósito PCT:
+ Data de Depósito:                   28/06/2012
+ Prioridade Unionista:               -
+ Depositante:                        UFRJ (BR/RJ) , Empresa Brasileira de Pesquisa Agropecuária (BRDF)
+ Inventor:                           Marcio Alves Ferreira
+ Título:                             Composições e métodos para modificar a expressão de genes
+                                     usando promotor de genes específicos de flor e fruto de plantas 
+
+                                                              PARECER
+          O presente pedido tem como objetivo prover sequências de promotores que regulam a ex-
+pressão gênica. As sequências foram isoladas a partir de três genes específicos de flor e frutos de
+plantas de algodão e podem ser usadas para direcionar a expressão de genes de interesse em
+flor e frutos.
+
+          No parecer técnico publicado na RPI nº 2589, de 18/08/2020, a Requerente tomou conhe-
+cimento de que o pedido estava em desacordo com as disposições dos artigos 10 (IX), 18 (III), 22,
+24 e 25 da LPI.
+
+          Por meio da petição 870200144526 de 16/11/2020, a Requerente manifestou-se em rela-
+ção ao dito parecer, apresentando nova proposta de quadro reivindicatório, novas vias do relatório
+descritivo e do resumo, bem como reapresentou a listagem de sequências em formato eletrônico.
+Em resumo a Requerente apresenta argumentos em defesa da unidade de invenção e esclareci-
+mentos acerca da fundamentação, clareza e precisão da matéria solicitada.
+
+          Todos os argumentos e documentos apensados foram a considerados a analisados no pre-
+sente exame técnico.
+
+
+
+   Quadro referente à Agência Nacional de Vigilância Sanitária  ANVISA, ao
+ Conselho de Gestão do Patrimônio Genético  CGEN e Sequências Biológicas                             Sim     Não
+O pedido foi encaminhado à ANVISA (art. 229-C da LPI, incluído pela Lei 10.196/2001)                           x
+
+A exigência ref. ao acesso ao patrimônio genético nacional foi emitida (Resol. INPI PR n.º 69/2013)    x
+
+O pedido refere-se a Sequências Biológicas                                                             x
+
+Comentários/Justificativas
+
+         Quanto ao encaminhamento para ANVISA
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                 Página 1
+                                        BR102012015992-9
+
+
+O presente pedido não se enquadra no estabelecido no art. 229-C da LPI, incluído pela Lei
+10.196/2001, portanto não foi necessário realizar encaminhamento prévio à ANVISA.
+
+
+       Quanto à exigência referente ao acesso ao patrimônio genético nacional
+
+O INPI emitiu a exigência de código 6.6.1 na RPI nº 2465 de 03/04/2018, para fins de manifesta-
+ção do depositante quanto à ocorrência de acesso ao Patrimônio Genético nacional e/ou Conhe-
+cimento Tradicional Associado para obtenção do objeto do presente pedido. Não tendo havido
+manifestação do depositante no prazo de 60 (sessenta) dias contados a partir da publicação na
+RPI, o INPI deu prosseguimento ao exame técnico com o entendimento de que não houve aces-
+so ao patrimônio genético nacional e/ou conhecimento tradicional associado, conforme consta
+no texto do despacho de código 6.6.1 publicado na RPI, de acordo com entendimento firmado
+pela   Procuradoria    Federal   Especializada   junto   ao    INPI   (PFE-INPI)   no   Parecer      nº
+00001/2018/PROCGAB/PFE-INPI/PGF/AGU (Processo INPI nº 52400.002142/2018-30), publica-
+do nas RPIs nº 2465 (03/04/2018), 2466 (10/04/2018) e 2467 (17/04/2018), ao qual foi atribuído
+caráter normativo na RPI nº 2485 de 21/08/2018.
+
+
+
+Destaca-se que a depositante não se manifestou em relação a exigência 6.6.1 emitida.
+
+
+
+       Quanto às Sequências Biológicas
+
+Destaca-se que a depositante reapresentou a listagem de sequências em formato digital por
+meio da petição 870200144526 de 16/11/2020. A análise indica ausência do campo 141 como a
+irregularidade que persiste.
+
+                           Quadro 1  Páginas do pedido examinadas
+           Elemento                    Páginas                n.o da Petição              Data
+Relatório Descritivo                    1 a 41                870200144526              16/11/2020
+Listagem de sequências em
+                                          -                           -                     -
+formato impresso
+Listagem de sequências*                                       870200144526              16/11/2020
+                                  Código de Controle
+
+Quadro Reivindicatório                                        870200144526              16/11/2020
+                                        1a6
+
+Desenhos                                1a7                    20120058442              24/07/2012
+Resumo                                    1                   870200144526              16/11/2020
+
+       *Listagem de sequências em formato eletrônico referente ao código de controle
+       E4BF0F2B1F5E9C24 (Campo 1) e 6477622F05C730B4 (Campo 2).
+
+
+
+
+                                                                                                Página 2
+                                         BR102012015992-9
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                          Sim               Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)       x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)               x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                    x
+O pedido está de acordo com disposto no art. 32 da LPI                                     x
+Comentários/Justificativas
+
+       No parecer técnico anterior discutiu-se que as sequências de DNA, os polinucleotídeos,
+os genes quiméricos, os vetores e as composições definidos somente com base nas sequências
+naturais, não são considerados invenção de acordo com o artigo 10 (IX) da LPI. Observa-se que
+no novo quadro apresentado tais matérias continuam incidindo no referido artigo da Lei.
+
+       Também foi discutido no parecer anterior que células, plantas de uma parte, ou um pro-
+págulo ou progênie da mesma, não são patenteáveis segundo o artigo 18 (III). Entretanto, a Re-
+querente manteve tais matérias no novo quadro proposto. Desta forma, as objeções envolvendo
+os artigos 18 (III) da LPI também estão mantidas.
+
+       Em relação a unidade de invenção (artigo 22), o parecer técnico anterior discutiu que o
+pedido revela três diferentes sequências de promotores, que foram isoladas a partir de três ge-
+nes não relacionados. A característica que une estas sequências é o fato de se referirem a pro-
+motores que regulam a expressão de genes específicos de tecidos de flores e frutos. Ao longo
+do relatório descritivo foi demonstrada a identificação dessas sequências promotoras e a avalia-
+ção do padrão de expressão através da atividade do gene repórter GUS. É evidente que o obje-
+tivo do pedido é prover sequências promotoras que possam ser usadas para expressão específi-
+ca de genes de interesse em frutos e flores. Em momento nenhum é relatada possibilidade de
+se utilizar simultaneamente ou alguma combinação dos três promotores para se obter um efeito
+técnico específico.
+
+       Destaca-se que de acordo com as Diretrizes de Exame e Pedidos de Patentes Módulo 1
+- Resolução Nº 124/2013, (itens 3.100 a 3.104), para ter unidade as diversas invenções reivindi-
+cadas em um pedido devem apresentar uma relação técnica entre si, representada por uma ou
+mais características técnicas especiais presentes em todas as invenções reivindicadas.
+       Ocorre que o pedido revela diferentes sequências de promotores que não compartilham
+uma estrutura comum e nem codificam proteínas com propriedades em comum. Ou seja, não há
+nenhuma correlação entre tais sequências, tirando o fato de serem reguladores de expressão
+gênica.
+       Em sua manifestação a requerente defende a unidade de invenção alegando que o qua-
+dro foi alterado de modo a se referir a um regulon - unidade comum de expressão gênica . Ocor-
+re que no relatório descritivo inicialmente depositado (petição 20120058442, de 24/07/2012) não
+havia este conceito de regulon. Tanto que foi verificado que a requerente introduziu tal conceito
+
+
+
+
+                                                                                          Página 3
+                                          BR102012015992-9
+
+
+novo relatório apresentado agora, junto com a manifestação ao parecer anterior (trechos introdu-
+zidos no relatório: página 4 [012], página 6 [020 e 021], página 7 [022, 23] e página 12 [044]).
+
+       Além disso, a requerente alega que o regulon é constituído por três promotores, que po-
+dem estar unidos ou separados, para direcionar a expressão para os tecidos de flores e frutos.
+O que não esclarece como o regulon de fato está organizado. A menção aos três promotores
+unidos induz ao entendimento de que podem estar fusionados uns aos outros. Se o regulon se
+trata de um cassete de expressão, constituído por alguma combinação dos promotores descri-
+tos, a estrutura deste cassete deveria ter sido claramente provida no relatório descritivo ou na
+listagem de sequência inicialmente depositados.
+
+       Pelo exposto, permanece o entendimento de que as matérias do presente pedido não
+apresentam unidade de invenção e não atendem as disposições do artigo 22 da LPI
+       Por fim, cumpre esclarecer que a modificação do relatório descritivo para a inclusão do
+conceito de regulon não pode ser aceita. De acordo com o item 2.22 da Resolução nº 124/2013,
+que institui as Diretrizes de exame de pedidos de patentes Bloco 1, a inclusão de dados, parâ-
+metros ou características da invenção que não constavam do pedido originalmente depositado
+constitui acréscimo de matéria e como tal não pode ser aceita, com base no artigo 32 da LPI.
+
+
+
+                Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+rtigos da LPI                                                             Sim              Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                        x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                      x
+Comentários/Justificativas
+       Da forma como redigidas as reivindicações 1 a 29 estão em desacordo com os artigos 24 e
+25 da LPI. Isso porque induzem ao entendimento de que as SEQ ID NOs 1 a 3, ou seus fragmen -
+tos, podem estar fusionado, quando na verdade o relatório mostra que as sequências regulatórias
+não estão unidas. Além disso, se as sequências formam um cassete de expressão, constituído por
+alguma combinação dos promotores descritos, a estrutura deste cassete deveria ter sido clara-
+mente provida no relatório descritivo ou na listagem de sequência inicialmente depositados e da-
+dos de utilização deveriam ter sido fornecidos. O que não foi o caso. Portanto, as matérias das re-
+feridas reivindicações permanecem em desacordo com os artigos 24 e 25 da LPI.
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                              Data de publicação
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                Cumprimento              Reivindicações
+
+
+                                                                                            Página 4
+                                       BR102012015992-9
+
+
+                                                    Sim                        1 a 29
+          Aplicação Industrial
+                                                    Não                           -
+                                                    Sim                 1 a 29 (parcialmente)
+                Novidade
+                                                    Não                           -
+
+                                                    Sim                 1 a 29 (parcialmente)
+           Atividade Inventiva
+                                                    Não                           -
+Comentários/Justificativas
+
+       Conforme mencionado no parecer anterior, o exame técnico foi emitido com base na in-
+venção grupo 1, ou seja, considerando SEQ ID NO: 1). O presente exame considera que o al-
+cance das reivindicações 1 a 29 não representa uma generalização razoável da matéria concre-
+tizada e considerada nova e inventiva no presente pedido. Neste sentido, o reconhecimento da
+atividade inventiva cabe apenas a matéria concretizada.
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não apresenta suficiência descritiva (Art. 24 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório descriti-
+          vo (Art. 25 da LPI)
+
+      -   não é considerado invenção, uma vez que incide no Art. 10 (IX) da LPI
+
+      -   não é considerado patenteável, uma vez que incide no Art. 18 (III) da LPI
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 12 de janeiro de 2021.
+
+
+
+
+Nathaly Nunes Uchoa
+Pesquisador/ Mat. Nº 1358886
+DIRPA / CGPAT II/DIALP
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+                                                                                           Página 5
+

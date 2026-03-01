@@ -1,0 +1,300 @@
+                              SERVIÇO PÚBLICO FEDERAL
+                               MINISTÉRIO DA ECONOMIA
+                   INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+N.° do Pedido:              BR112013007315-2         N.° de Depósito PCT: CN2010/001732
+                                                     (01/11/2010)
+
+                        Publicação Nacional:     Publicação Internacional: WO2012058781
+                        05/07/2016 (RPI 2374) (A1  10/05/2012)
+Data de Depósito (PCT): 01/11/2010
+Prioridade Unionista:    -
+Depositante:            INTERDIGITAL MADISON PATENT HOLDINGS (FR)
+Inventor(es):           LIAO NING[CN]; WANG XIANLEI[CN]; CHEN ZHIBO[CN]
+Título:                 Método e aparelho para gerenciamento de qualidade de experiência
+                        para serviços de rede..
+
+                                   PARECER DE EXAME TÉCNICO
+
+
+
+       O presente pedido de Patente de Invenção (PI), refere-se a fornece uma solução de
+gerenciamento de QoE (Quality of Experience), em que o feedback de QoE é usado para
+otimizar o uso de técnicas de provisionamento de QoS, melhorando assim a eficiência de
+utilização dos recursos de rede.
+
+
+
+       Para realização industrial do reivindicado como inventivo no presente pedido de PI, um
+método para gerenciamento de QoE para um serviço de rede fornecido a um dispositivo de
+usuário, o método compreendendo: exibir uma interface de usuário no dispositivo de usuário
+para um usuário inserir um valor de QoE esperado do serviço de rede; receber o valor de QoE
+esperado do serviço de rede do usuário; avaliar um valor QoE objetivo do serviço de rede como
+uma função dos parâmetros de QoS da rede; e ajustar os parâmetros de QoS do serviço de rede
+se o valor de QoE objetivo for menor que o valor de QoE esperado.
+
+
+
+       Em 15/06/2021, foi publicada através da RPI Nº 2632, notificação de emissão de parecer
+técnico relativo ao pedido de Patente de Invenção (PI), referente a Ciência de Parecer (7.1),
+decorrendo a partir daquela data o prazo de 90 (noventa) dias para manifestação da Requerente
+quanto ao contido no citado parecer técnico.
+
+
+
+       Em    11/05/2020    e   02/09/2021,     através   das   Petições   870200057934/RJ      e
+870210081001/RJ, a Requerente apresenta os documentos listados no Quadro 1, a seguir, e
+solicita alteração do título do presente pedido para: MÉTODO PARA GERENCIAR QUALIDADE DE
+
+
+                                                                                                    1
+                                          BR112013007315-2
+
+
+EXPERIÊNCIA (QoE) PARA UM SERVIÇO DE REDE FORNECIDO PARA UM DISPOSITIVO DE USUÁRIO, E
+
+APARELHO PARA CONECTAR UMA REDE DE PROVEDOR DE SERVIÇO E UMA REDE DOMÉSTICA..
+
+                            Quadro 1  Páginas do pedido examinadas
+            Elemento                     Páginas               N.o da Petição           Data
+
+Relatório Descritivo (RD): com        10/28  24/28           870210081001/RJ         02/09/2021
+15 (Quinze) folhas, numerada
+como 01/15  15/15.
+Quadro Reivindicatório (QR):          25/28  27/28           870210081001/RJ         02/09/2021
+com      03    (Três) folhas,
+apresentando      09  (Nove)
+reivindicações.
+Desenhos (D´s): com 08 (Oito)         24/32  31/32           870200057934/RJ         11/05/2020
+folhas,    apresentando    09
+(Nove) figuras, numeradas de:
+Fig. 01; Fig. 02a  Fig. 02b,
+Fig. 03  Fig. 08.
+Resumo (R): com 01 (Uma)                  28/28               870210081001/RJ         02/09/2021
+folha.
+
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                  Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                        X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                          X
+O pedido está de acordo com disposto no art. 32 da LPI                           X
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                  Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI             X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI           X
+Comentários/Justificativas
+
+
+        Em pesquisas realizadas em bases de dados de documentos de (e pedidos de) patentes e
+em literatura não patentaria, de acordo com os critérios publicados em 27/02/2020, através da
+RPI 2564, foram encontrados os seguintes documentos capazes de indicar arranjos técnicos
+funcionais semelhantes aos pleiteados no QR do presente pedido:
+
+
+
+
+                                                                                                   2
+                                               BR112013007315-2
+
+
+                              Quadro 4  Documentos citados no parecer
+
+  Código                                      Documento                                     Data de publicação
+ (Relevân
+   cia)
+     D6            WO2009049676 (A1) (ERICSSON HUNGARY LTD[HU)                                  23/04/2009
+     D7          CN101610493 (A) (UNIV NANJING POSTS & TELECOMM                                 23/12/2009
+                                        [CN])
+Comentários/Justificativas
+
+          Muito embora o documento D7, proteja o mesmo objeto do documento D6, sendo
+identicamente relevante, utilizaremos, neste momento, a título ilustrativo para exame do objeto
+reivindicado como inventivo no presente pedido, apenas o documento D6.
+
+
+
+     Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15, da LPI)
+      Requisito de Patenteabilidade                    Cumprimento                     Reivindicações
+                                                             Sim                            01  09
+              Aplicação Industrial
+                                                             Não                                
+
+                                                             Sim                            01  09
+                    Novidade
+                                                             Não                                
+
+                                                             Sim                                
+              Atividade Inventiva
+                                                             Não                            01  09
+
+Comentários/Justificativas
+
+
+
+       No que se refere a sua manifestação, de 02/09/2021, através da Petição
+870210081001/RJ, a Requerente entende que o documento D6, não contempla o reivindicado no
+presente pedido, pois:
+           A reivindicação 1 (nova reivindicação 1) foi modificada de modo a definir um Método para gerenciamento
+de Qualidade de Experiência (QoE) para um serviço de rede fornecido para um dispositivo de usuário compreendendo:
+gerar, por um coordenador, um valor de QoE objetivo para o serviço de rede observado no dispositivo como uma
+função de parâmetros de Qualidade de Serviço (QoS) do serviço de rede; fornecer, por um dispositivo de
+gerenciamento de QoE, uma interface para exibir no dispositivo, a interface incluindo uma pluralidade de símbolos e o
+valor de QoE objetivo gerado pelo coordenador, cada um da dita pluralidade de símbolos correspondendo a um nível de
+QoE selecionável, cada nível de QoE selecionável representando um valor de QoE esperado para o serviço de rede
+observado no dispositivo; receber, pelo dispositivo de gerenciamento de QoE, uma seleção de um da pluralidade de
+símbolos como o valor de QoE esperado do serviço de rede no dispositivo; e transmitir o valor de QoE esperado
+selecionado para o coordenador para uso no ajuste de pelo menos um dentre os parâmetros de QoS do serviço de rede
+em resposta à determinação de que o valor de QoE objetivo gerado é menor do que o valor de QoE esperado recebido
+para o serviço de rede observado no dispositivo.
+          A reivindicação 6 (nova reivindicação 6) foi modificada de forma semelhante a nova reivindicação 1, de
+maneira que os argumentos abaixo são válidos para defender a patenteabilidade de ambas as reivindicações.
+          De forma específica (e entre outras coisas), as referências citadas D6 e D7 não revelam um coordenador que
+gera um valor de QoE (Qualidade de Experiência), observado no dispositivo, em função dos parâmetros de QoS do
+
+
+
+                                                                                                                    3
+                                             BR112013007315-2
+
+serviço de rede. Além disso, as referências citadas não revelam um dispositivo de gerenciamento de QoE que fornece
+um nível de QoE selecionável representando um valor de QoE esperado para o serviço de rede observado no
+dispositivo. Um aspecto chave das novas reivindicações independentes é a "QoE selecionável". As referências D6 e D7
+citadas não revelam este aspecto definido nas novas reivindicações ora apresentadas. Além disso, as referências
+citadas não ensinam que uma QoE que é uma função da QoS (Qualidade de Serviço).
+        Finalmente, as referências citadas não ensinam "transmitir o valor de QoE esperado selecionado para o
+coordenador para uso no ajuste de pelo menos um dentre os parâmetros de QoS do serviço de rede em resposta à
+determinação de que o valor de QoE objetivo gerado é menor do que o valor de QoE esperado recebido.... Este é um
+aspecto chave das reivindicações independentes ora apresentadas que não é revelado em nenhuma das referências
+citadas.. 
+
+
+
+        Através da análise do QR do presente pedido, apresentado em 02/09/2020, através da
+Petição 870210081001/RJ, e mais especificamente suas Reivindicações Independentes do
+Presente Pedido (RI**pp´s), que são as RI01pp (Método ) e RI06pp (Aparelho para
+gerenciar Qualidade de Experiência (QoE) para um serviço de rede fornecido para um
+dispositivo de usuário ), quando confrontadas com o documento D6, constatamos que tanto
+a parte não caracterizante do pedido sob exame, quanto a parte caracterizante, encontram-se
+contempladas naquele documento, como veremos a seguir.
+
+
+
+        Através das Reivindicações Independentes 01 e 06, do presente pedido, (RI01pp e
+RI06pp), a Requerente reivindica:
+
+        RI01pp (RI06pp.) Método (Aparelho) para gerenciamento de Qualidade de Experiência
+(QoE) para um serviço de rede fornecido para um dispositivo de usuário, caracterizado pelo
+fato de que compreende
+        ETAPA01: gerar, por um coordenador, um valor de QoE objetivo para o serviço de
+rede observado no dispositivo como uma função de parâmetros de Qualidade de Serviço (QoS)
+do serviço de rede;
+        ETAPA02: fornecer, por um dispositivo de gerenciamento de QoE, uma interface para
+exibir no dispositivo, a interface incluindo uma pluralidade de símbolos e o valor de QoE
+objetivo gerado pelo coordenador, cada um da dita pluralidade de símbolos correspondendo a
+um nível de QoE selecionável, cada nível de QoE selecionável representando um valor de
+QoE esperado para o serviço de rede observado no dispositivo;
+        ETAPA03: receber, pelo dispositivo de gerenciamento de QoE, uma seleção de um da
+pluralidade de símbolos como o valor de QoE esperado do serviço de rede no dispositivo; e
+        ETAPA04: transmitir o valor de QoE esperado selecionado para o coordenador para
+uso no ajuste de pelo menos um dentre os parâmetros de QoS do serviço de rede em
+resposta à determinação de que o valor de QoE objetivo gerado é menor do que o valor de
+QoE esperado recebido para o serviço de rede observado no dispositivo.
+
+
+       Face ao disposto acima, e às argumentações da Requerente de 02/09/2021, através da
+Petição 870210081001/RJ, voltamos a sustentar QUE o documento de anterioridade (D6)
+
+
+
+                                                                                                                  4
+                                      BR112013007315-2
+
+(WO2009049676 (A1)), ensina tanto através da sua Reivindicação Independente (RI) 01,
+aqui chamadas de RI01_D6, quanto através do seu relatório descritivo, conforme explicado à
+página 05/35, linha 05  página 06/35, lnha 10 e nas Figuras 01 e 06, de D6, incluindo, na sua
+RI01_D6, um método de reserva de recursos em uma rede de telecomunicações, caracterizado
+pelo fato de que compreende: receber uma Qualidade de Experiência (QoE), solicitada de um
+usuário, relativa ao conteúdo de mídia a ser entregue (esperada pelo) ao usuário pela rede,
+contemplando a ETAPA01, da RI01pp; determinar um descritor de Qualidade de Serviço
+(QoS), na dependência da solicitação de QoE (por parte do usuário), contemplando as
+ETAPAS 02 & 03, da RI01pp, e organizar a reserva de recursos na dependência do descritor de
+QoS determinado, em que o descritor de QoS sendo determinado de modo que seu uso na
+etapa de organização resulte em recursos alocados suficientes para atender à QoE
+solicitada, contemplando a ETAPA04, da RI01pp;
+
+
+       Na Figura 06, de D6, descrita em seu relatório descritivo, à página 13/35, linhas 05 
+32, temos uma ilustração esquemática das etapas realizadas pela RI01_D6, receber, no
+BLOCO S2, uma Qualidade de Experiência (QoE), solicitada de um usuário, no BLOCO S1,
+relativa ao conteúdo de mídia a ser entregue (esperada pelo) ao usuário pela rede,
+contemplando a ETAPA01, da RI01pp; determinar um descritor de Qualidade de Serviço
+(QoS), na dependência da solicitação de QoE (por parte do usuário),            no BLOCO S5,
+contemplando as ETAPAS 02 & 03, da RI01pp, e organizar a reserva de recursos na
+dependência do descritor de QoS determinado, em que o descritor de QoS sendo
+determinado de modo que seu uso na etapa de organização resulte em recursos alocados
+suficientes para atender à QoE solicitada, nos BLOCOS S6, S7 e S8, contemplando a
+ETAPA04, da RI01pp;
+
+
+
+       A RI06pp, do presente pedido, por se referir a aparelho, sendo, portanto, a realização da
+sequência lógica da RI01pp, encontra-se identicamente contemplada tanto pelas passagens de
+D6, descritas anteriormente, quanto pela RI18_D6, também referente á categoria de aparelho.
+
+
+
+       Desta forma, a matéria reivindicada através das reivindicações independentes RI01pp e
+RI06pp, do presente pedido, encontra-se totalmente absorvida por D6.
+
+
+       Quanto às demais reivindicações, as mesmas também não são válidas por serem
+dependentes das reivindicações independentes contestadas acima
+
+
+
+Conclusão
+       Sendo assim, face ao exposto, considerando o QR da forma apresentada, somos de
+opinião que o presente pedido carece de atividade inventiva por ser mera decorrência do estado
+da técnica, representado por D6, não possuindo, pois, condições de patenteabilidade.
+
+
+
+
+                                                                                                   5
+                                     BR112013007315-2
+
+       Face às conclusões a que se chegou o Exame Técnico, de acordo com o Art. 37, baseado
+no Art. 8º, combinado com o Art. 13, da LPI, INDEFIRO o presente pedido como PATENTE DE
+INVENÇÃO.
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                              Publique-se o indeferimento (9.2)
+
+
+                                                        Rio de Janeiro, 26 de Outubro de 2021.
+
+
+                                  Edson Ferreira Suisso
+                   Pesquisador em Propriedade Industrial / Mat. Nº 1548985
+                         Deleg. Comp. - Port. INPI/DIRPA Nº 002/11
+                           DIRPA / CGPAT III / DIPAT XV (DIPEQ)
+
+
+
+
+                                                                                              6
+

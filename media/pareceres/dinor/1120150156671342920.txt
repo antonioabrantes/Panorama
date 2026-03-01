@@ -1,0 +1,246 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112015015667-3          N.° de Depósito PCT:US2012/072167
+ Data de Depósito:                   28/12/2012
+ Prioridade Unionista:               -
+ Depositante:                        SUNCOKE TECHNOLOGY AND DEVELOPMENT LLC (US)
+ Inventor:                           JOHN FRANCIS QUANCI, ASHLEY NICOLE SEATON, JUSTIN
+                                     LEIGH PRIEN, JENNIFER RENEE MCLAREN
+ Título:                             Sistemas e métodos para a remoção de mercúrio das emissões 
+
+                                                                PARECER
+         A requerente apresentou tempestivamente por meio da petição nº 870200147460 de
+23/11/2020 sua manifestação em relação à ciência de parecer notificada na RPI 2590, de
+25/08/2020, acompanhado de novas vias do Resumo, do Relatório Descritivo e do Quadro
+Reivindicatório (composto por 9 reivindicações).
+
+         A requerente manifestou-se a respeito do conteúdo da ciência de parecer e realizou
+emendas no quadro reivindicatório (que foi reduzido de 20 para 9 reivindicações). Foram incluídas
+referências à figura 5 dos desenhos, a reivindicação principal foi reformulada com a inclusão da
+antiga reivindicação 3 e a expressão caracterizante foi deslocada. O título foi alterado. O novo
+quadro reivindicatório apresentado foi aceito.
+
+         Com base nas novas reivindicações apresentadas, a requerente alega que as
+irregularidades apontadas na ciência de parecer teriam sido corrigidas.
+
+         O re-exame do pedido foi conduzido conforme apontado no Quadro 1 deste parecer, sob a
+validade das resoluções INPI/PR nº 240 e 241 de 03 de julho de 2019, publicadas na RPI n. o 2531
+de 9 de julho de 2019, e considerando o conteúdo da manifestação da requerente.
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição     Data
+
+Relatório Descritivo                                    1 a 16               870200147460     23/11/2020
+Quadro Reivindicatório                                   1a2                 870200147460     23/11/2020
+Desenhos                                                 1a6                 860150133920     26/06/2015
+Resumo                                                      1                870200147460     23/11/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                         Página 1
+                                           BR112015015667-3
+
+
+                                          maio de 1996  LPI
+Artigos da LPI                                                                Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                             X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                     X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                         X
+O pedido está de acordo com disposto no art. 32 da LPI                          X
+Comentários/Justificativas
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI            X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                          X
+Comentários/Justificativas
+
+      A requerente atendeu parcialmente às solicitações feitas em exame anterior.
+Particularmente, não foram atendidas totalmente as seguintes exigências:
+
+      Na reivindicação 1 foi omitida parcialmente a unidade de medida, o que contraria o
+disposto na Instrução Normativa nº 30/2013  Art. 16 (II).             Não está claro se a suspensão
+formada de 1 a 7% de PAC em água indica razão volumétrica ou mássica, e tampouco se é
+relativa ao volume total ou ao volume de solvente.
+
+      A reivindicação 4 não atende ao disposto no Art. 25 da LPI e na Instrução Normativa nº
+30/2013  Art. 4º (III), pois a matéria pleiteada não está definida de maneira clara, precisa e
+positiva. Não está claro a que se refere detectar um nível de mercúrio, temperatura ou condição
+de umidade. A grandeza nível não se aplica a temperatura ou a umidade, sequer a teor de
+contaminante em uma corrente. O termo condição de umidade também é impreciso.
+
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                                  Data de publicação
+    D1                                US2011223088A1                                    15/09/2011
+    D2                                  US7722843B1                                     25/05/2010
+    D3                                  EP0208490A1                                     14/01/1987
+    D4                                  EP2295129A1                                     16/03/2011
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento                 Reivindicações
+           Aplicação Industrial                          Sim                         1a9
+
+
+                                                                                                Página 2
+                                        BR112015015667-3
+
+
+                                                    Não                           -
+                                                    Sim                           -
+                Novidade
+                                                    Não                         1a9
+
+                                                    Sim                           -
+           Atividade Inventiva
+                                                    Não                         1a9
+
+
+
+Comentários/Justificativas
+
+
+
+      Em sua manifestação, a requerente argumentou que A hidratação do PAC [carvão ativado
+em pó] reduz seu comportamento hidrofílico, reduzindo assim a quantidade de água que atrai
+quando aplicado ao sistema de dessulfuração de gases de combustão. Tal hidrofilicidade é
+relevante ao introduzir PAC além do outro composto, conforme citado na reivindicação 1 ora
+apresentada, uma vez que ajusta a competição por umidade com ele (ver, por exemplo, o
+parágrafo [0003] do pedido conforme apresentado). Em vista disso, a faixa reivindicada para o
+PAC em combinação com outro composto representa um benefício técnico no equilíbrio das
+propriedades hidrofílicas do mesmo. Não há divulgação em nenhum dos documentos citados da
+técnica anterior de tal equilíbrio ocorrendo. A requerente optou por não comentar particularmente
+as anterioridades.
+
+      A partir da manifestação da requerente, depreende-se que o diferencial do pedido estaria
+em obter um efeito sinérgico (equilíbrio das propriedades hidrofílicas) da mistura de 1 a 7% (em
+razão mássica ou volumétrica ou p/v) de PAC com outro composto para obtenção de melhoria das
+propriedades hidrofílicas do PAC e melhor desempenho na retirada de contaminantes (mercúrio)
+da corrente gasosa.
+
+      Inicialmente, é relevante notar que o presente pedido não apresenta nenhuma
+concretização ou evidência que indique a ocorrência de uma etapa vantajosa comparativamente
+ao estado da técnica. A seção do relatório descritivo reservada aos Exemplos não os apresenta,
+limitando-se a listar o quadro reivindicatório originalmente depositado em lugar de exemplos.
+
+      A seguir serão abordados os aspectos das anterioridades do exame anterior e enfatizados
+outros aspectos dos mesmos documentos.
+
+      D1 revela: um sistema de dessulfurização de gás de combustão que compreende i) uma
+fonte de emissões incluindo mercúrio 502; ii) um alojamento 506 que compreende uma entrada
+504 em comunicação com uma fonte de emissões 502 e uma saída em comunicação 508 com
+uma câmara de filtragem 510, iii) uma fonte de carvão ativado hidratado em suspensão 517,519
+e iv) um dispositivo 516, 518 para introduzir carvão ativado hidratado (com teor de umidade
+elevado) no alojamento ([0013], [0020], [0030]-[0032], [0038]-[0039], [0045], [0048]-[0053]; fig.
+4 e 5). Comparativamente à reivindicação 1 do presente pedido, D1 revela um método para
+remover mercúrio de gases de exaustão em um sistema de dessulfuração de gases de
+combustão que compreende as etapas de i) introduzir gases de escape em um equipamento
+
+
+                                                                                           Página 3
+                                         BR112015015667-3
+
+
+(alojamento) (fig. 5, ref. 504); ii) hidratar carvão ativado (fig. 4, ref. 428 e 436); iii) introduzir
+carvão ativado hidratado no equipamento (fig. 5, ref. 516 e 517) e iv) capturar mercúrio dos
+gases de escape (fig 5 ref. 504/506 e/ou 508/510).
+
+      D1 revela ainda o uso de cal de alta absorção ou cal hidratada como sorvente para
+remoção de poluentes de correntes de gás em conjunto com um precursor carbonáceo como
+carvão ativado [0020]. D1 revela ainda diversas modalidades de uso da cal ([0030  [0032]).
+Especificamente, D1 indica remoção de mercúrio ([0052]). Particularmente, a reivindicação 29
+compreende: adicionar um sorvente carbonáceo ativado em uma câmara em que uma corrente
+de gás com contaminantes é disposta. Comparativamente à reivindicação 1 do presente pedido,
+D1 indica adicionar um sorvente com base em outro aditivo (cálcio, reiv. 18) e remover um
+poluente tal como mercúrio (reiv. 28). D1 revela todos os aspectos ora reivindicados, a não ser o
+teor utilizado de carvão ativado.
+
+      D3 revela método para remover mercúrio de gases de exaustão em um sistema de
+dessulfuração de gases de combustão que compreende as etapas de i) preparar uma solução
+aquosa de cal ou carbonato de sódio com carvão ativado aplicada em um atomizador; ii)
+introduzir gases de escape contendo mercúrio e cinzas volantes em um absorvedor [alojamento]
+(rodadas 6 a 8); ii) hidratar carvão ativado; iii) introduzir carvão ativado hidratado no
+equipamento (rodadas 2 a 6 e 8) em teores de 2 % de carvão ativado p/p em relação ao
+conteúdo de sólidos e iv) capturar mercúrio dos gases de escape (p.4, L.34 a p.7, L6; exemplo 1;
+reivindicações 1 e 4-6); v) medir a quantidade de mercúrio capturado por meio de um sensor
+adaptado a um sistema de monitoramento contínuo (p. 7 L 32 a p. 8 L 12). D3 revela ainda ser
+possível introduzir as cinzas volantes no líquido a ser atomizado, de modo a reduzir a
+necessidade de carvão ativado (p.7, L3, 6). Ou seja, D3 indica a introdução de outro aditivo. A
+reanálise do presente pedido evidenciou assim, que D3 antecipa todas as características do
+presente pedido pela seguinte razão: A requerente não define com precisão a unidade da
+suspensão na reivindicação 1, e não indica se o método exige etapas sucessivas em uma ordem
+determinada, mas que apenas compreende as etapas.
+
+      O exame da reivindicação 1 não identificou novidade ou atividade inventiva do presente
+pedido perante D3 isoladamente ou ainda atividade inventiva perante a combinação de D1 e D3.
+Todas as características da reivindicação 1 encontram-se em D3. Adicionalmente, seria óbvio
+para um técnico no assunto com conhecimento das anterioridades introduzir PAC nos teores
+preconizados em D3 no processo de D1.
+
+      As demais reivindicações, dependentes, não agregam quaisquer características técnicas
+que, em combinação com aquelas definidas nas reivindicações principais, levem à ocorrência de
+uma etapa inventiva. Uso de atomizadores, cinzas volantes, medidores de condições do
+escoamento, e as demais características reivindicadas são antecipadas pelas anterioridades.
+
+
+
+Conclusão
+
+
+
+
+                                                                                              Página 4
+                                        BR112015015667-3
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de novidade (Art .8º combinado com Art. 11 da LPI)
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 24 de dezembro de 2020.
+
+
+
+
+Ricardo Moreira dos Santos
+Pesquisador/ Mat. Nº 1840565
+DIRPA / CGPAT I/DINOR
+Deleg. Comp. - Port. INPI/DIRPA Nº
+008/18
+
+
+
+
+                                                                                           Página 5
+

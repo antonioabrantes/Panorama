@@ -1,0 +1,292 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:        BR112012008159-4          N.° de Depósito PCT:US2010/002360
+ Data de Depósito:     27/08/2010
+ Prioridade Unionista: US 61/275,506 (28/08/2009); US 61/396,588 (28/05/2010); US
+                       61/400,146 (22/07/2010)
+ Depositante:          Arena Pharmaceuticals, Inc. (US)
+ Inventor:             Robert M. Jones, Sangdon Han, Lars Thoresen, Jae-Kyu Jung, Sonja
+                       Strah-Pleynet, Xiuwen Zhu, Yifeng Xiong, Dawei Yue
+ Título:               Moduladores de receptor canabinoide 
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 487              870190068993           22/07/2019
+
+Quadro Reivindicatório                                  1 a 34               870200152582           04/12/2020
+
+Desenhos                                                    -                       -                    -
+Resumo                                                      1                870190068993           22/07/2019
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                          X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                  X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                                         X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                                       X
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                   Página 1
+                                            BR112012008159-4
+
+
+Comentários/Justificativas
+
+
+      A requerente em sua manifestação de 04/12/2020 em relação à clareza e precisão declara:
+
+
+
+
+                                            .com base no exposto, o estado da técnica demonstra que a
+                        presente invenção como definida pelas novas reivindicações ora apresentadas é clara
+                         e precisa em todo o seu escopo e, além disso, é suficientemente descrita no relatório
+                                                                                                   descritivo.
+
+
+
+
+        Os termos C1-C4alquila,C1-C6 haloalquila halogênio, heteroarila, heterociclila, e
+hidroxila,C1-C6    haloalcoxi,     C1-C6     alcóxi,     C1-C6     alquila,     C1-C6    alquilamino,     C1-C6
+alquilcarboxamida, ureíla, amino, arila, arilamino, arilcarbonila, arilóxi, carbo-C 1-C6-alcóxi,
+carboxamida, carbóxi, ciano, C3-C7 cicloalquila, C5-C11 bicicloalquila, C3-C7 cicloalquilamino, C2-
+C8dialquilamino,    C2-C8     dialquilsulfonamida,       C1-C6   haloalquila,     heteroarila,    heteroarilóxi,
+heterobiciclila, heterociclila, hidroxila, e fosfono-óxi; C1-C6 alquilamino, arila, arilamino, arilóxi, C5-
+C11   bicicloalquila,   C3-C7    cicloalquila,   C3-C7    cicloalquilamino,      heteroarila,    heterobiciclila,
+heterociclila, e ureíla, C1-C6 alcóxi, C1-C6 alcoxicarbonila, C1-C6 alquila, C1-C6 alquilsulfonila,
+amino, arila, carbóxi,ciano, C3-C7 cicloalquila, C2-C8 dialquilamino, C1-C6 haloalcóxi, C3-C7
+cicloalquila, C1-C6 alcóxi, C1-C6 alquilamino, C1-C6 alquilsulfonila, C2-C8 dialquilamino, C1-C6
+haloalquila, C1-C6 alquileno, C3-C7 cicloalquenileno, C3-C7 cicloalquileno, C1-C6 alcoxicarbonila, C1-
+C6 alquilcarboxamida, C2-C6 alquinila, carbo-C1-C6 alcóxi,                      C5-C11 bicicloalquila, C3-C7
+cicloalquilamino, C2-C8 dialquilsulfonamida, C3-C7 cicloalquila, C3-C7 cicloalquila, C1-C4 acila, C1-
+C4 alquila, C1-C6 haloalcóxi, C1-C6 alquileno, C3-C7 cicloalquileno, C1-C6 alcoxicarbonila, C1-C6
+alquila, C3-C7 cicloalquila, arila, carbóxi, heteroarila, heterociclila, e hidroxila, C 1-C6 alcóxi, C1-C6
+alquila, C1-C6 alquilamino, C1-C6 alquilcarboxamida, ureíla, amino, arila, arilamino, arilcarbonila,
+arilóxi, carbo-C1-C6-alcóxi, carboxamida, carbóxi, ciano, C3-C7 cicloalquila, C5-C11 bicicloalquila,
+C3-C7 cicloalquilamino, C2-C8 dialquilamino, C2-C8 dialquilsulfonamida, C1-C6 haloalquila,
+heteroarila, heteroarilóxi, heterobiciclila, heterociclila, hidroxila, e fosfono-óxi; C 1-C6 alquilamino,
+arila, arilamino, arilóxi, C5-C11 bicicloalquila, C3-C7 cicloalquila, heteroarila, heterobiciclila,
+heterociclila, C1-C6 alcóxi, C1-C6alcoxicarbonila, C1-C6 alquila, C1-C6 alquilsulfonila, amino, arila,
+carbóxi, ciano, C3-C7 cicloalquila, C3-C7 cicloalquilamino, C2-C8 dialquilamino, C1-C6 haloalcóxi,
+C1-C6 haloalquila, halogênio, heteroarila, heterociclila, e hidroxila; e            usados na definição da
+matéria pleiteada nas reivindicações 1 a 2, 10, 16, 17, 20 e 21 são genéricos, impossibilitando a
+definição clara e precisa da matéria objeto da proteção, o que contraria o disposto no artigo 25
+da Lei nº 9.279/96 (LPI) e na Instrução Normativa 030/2013, artigo 4(III). Onde os substituintes
+sejam definidos em conformidade com o Bloco II - 6.9 a 6.14 da Diretrizes de Exame de Pedido
+de Patentes.
+
+
+
+                                                                                                        Página 2
+                                       BR112012008159-4
+
+
+
+      Bloco II - 6.9 a 6.14 da Diretrizes de Exame de Pedido de Patentes, preconiza que: Para
+que todos os compostos de uma fórmula Markush esteja suficientemente descritos, o relatório
+descritivo deve permitir que um técnico no assunto realize a invenção sem experimentação
+indevida. Desde modo, o relatório descritivo deve apresentar exemplos claros de como diferentes
+substituintes previstos na Markush podem ser incorporados ao produto final.          Substituintes
+genericamente definido somente por seu número de carbonos e/ou forma (plana, ciclica..),pode
+gerar dúvida a um técnico no assunto se este pode ser obtido pelo mesmo processo de
+preparação revelado no relatório descritivo, e não apresenta suficiência descritiva não atendento
+ao dispoto no artigo 24 da LPI.
+
+
+
+      O termo opcionalmente na definição da matéria pleiteada nas reivindicações 1, 2, 16, 17,
+20 e 21 são genéricos, impossibilitando a definição clara e precisa da matéria objeto da proteção,
+o que contraria o disposto no artigo 25 da Lei nº 9.279/96 (LPI), na Instrução Normativa 030/2013,
+artigo 4(III) e nas Diretrizes de exame de pedidos de patente- Quimica-2017(Dirpa-Inpi)
+
+
+
+                         Quadro 4  Documentos citados no parecer
+
+ Código                              Documento                               Data de publicação
+    D1                              WO2006129178                                 07/12/2006
+    D2                              WO2006069242                                 29/06/2006
+    D3                              WO2006030124                                 23/03/2006
+
+
+
+
+         O documento D1, descreve moduladores de receptores canabinóides 1 (CBl) ou
+canabinóides 2 (CB2)
+
+
+
+
+         O documento D2, descreve derivados de pirazol fundidos e seus usos em métodos de
+tratamento de distúrbios metabólicos relacionado
+
+
+
+         O documento D3, descreve Derivados de pirazol condensados, método de preparação e
+utilização terapêutica dos mesmos
+
+
+
+
+                                                                                          Página 3
+                                         BR112012008159-4
+
+
+     Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+      Requisito de Patenteabilidade              Cumprimento                  Reivindicações
+                                                       Sim                         1 a 37
+           Aplicação Industrial
+                                                       Não                            -
+                                                       Sim                         1 a 37
+                Novidade
+                                                       Não                            -
+                                                       Sim                            -
+           Atividade Inventiva
+                                                       Não                         1 a 37
+
+
+
+Comentários/Justificativas
+
+
+
+            A matéria pleiteada apresenta novidade e aplicação industrial atendendo aos artigos
+ o
+8 , 11 e 15 da LPI.
+
+
+
+
+Atividade Inventiva
+
+
+     A requerente em sua manifestação de 04/12/2020 em relação ao estado da técnica declara:
+
+
+                           .Assim sendo, em face de todo o acima exposto, resta claro que a presente
+                       invenção, como reivindicada no novo quadro reivindicatório ora apresentado, atende
+                      plenamente aos requisitos de novidade e atividade inventiva frente aos ensinamentos
+                                                                             das referências D1-D3..
+                                                 .Separada ou coletivamente, não há absolutamente
+                                        qualquer sobreposição dos gêneros mais amplos das referências
+                                                                   citadas e da nova reivindicação 1.
+
+
+
+
+       Compostos pirazolinicos moduladores de receptor canabinóides de fórmula geral (I) já
+havia sido revelado no estado da técnica. Os derivados fusos-pirazolinicos N-N descritos no
+estado da técnica, todos mantêm a porção pirazolônica com anel fuso pentaciclico, porção esta
+associada à ação farmacológica. A figura 1, ilustra a semelhança estrutural entre a matéria
+pleiteada e a revelada no estado da técnica. Uma porção amídica, uma porção pirazólica e uma
+em um anel pentaciclico inserido na posição 3, 4-pirazólinico com uma ponte propílica, sendo
+em D1 uma ponte butírica.
+
+
+
+
+                                                                                               Página 4
+                                        BR112012008159-4
+
+
+
+
+                                               BR112012008159-4
+
+
+
+
+                  D1
+
+
+
+
+                                             D2
+
+
+
+
+  Figura 1: Similaridade entre a matéria pleiteada pela requerente no pedido BR112012008159-4 e os
+                                      documentos D1, D2 e D3.
+
+
+
+
+          A eficácia moduladora dos receptores CB1 e CB2 são observadas nos documentos D2 e
+D3.
+          Sendo assim, as diferenças apontadas entre o pedido e o estado da técnica, se resume a
+otimização e um processo já descrito e fundamentado no estado da técnica, uma vez que o
+requerente não apresentou nenhum efeito novo ou inesperado em relação ao estado da técnica
+a matéria pleiteada é considerada isenta de atividade inventiva, contrariando os artigos 8° e 13
+da LPI.
+
+           Uma vez que o requerente não apresentou nenhum efeito novo ou inesperado em
+relação ao estado da técnica a matéria pleiteada nas reivindicações 1 a 40 é considerada isenta
+de atividade inventiva, contrariando os artigos 8° e 13 da LPI.
+
+
+
+
+                                                                                             Página 5
+                                        BR112012008159-4
+
+
+Conclusão
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   não apresenta suficiência descritiva (Art. 24 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 14 de dezembro de 2020.
+
+
+
+
+Glaucia Barbosa Candido Alves Slana
+Pesquisador/ Mat. Nº 1731552
+DIRPA / CGPAT I/DIFAR-I
+Deleg. Comp. - Port. INPI/DIRPA Nº
+006/20
+
+
+
+
+                                                                                           Página 6
+

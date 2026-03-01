@@ -1,0 +1,259 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI1005131-7              N.° de Depósito PCT:
+ Data de Depósito:                   31/03/2010
+ Prioridade Unionista:               US us12/418.373 (03/04/2009)
+ Depositante:                        NATURAEWISE BIOTECH & MEDICAL CORPORATION (US)
+ Inventor:                           HUANGM CHUNG-YANG, CHEN, CHIA-NAN, HUANG- WEI-JAN,
+                                     LIN, CHIA-WEI, HUANG, JING-SHI, CHI, LI-LING, CHEN, AI- LING,
+                                     HUANG, YU-CHEN
+ Título:                             Compostos cinâmicos e derivados do mesmo para inibição de histona
+                                     deacetilase 
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 74               870200015382           31/01/2020
+Quadro Reivindicatório                                  1 a 13               870200107022           25/08/2020
+Desenhos                                                    -                       -                    -
+Resumo                                                      1                870200015382           31/01/2020
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim        Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                          X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                  X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        X
+O pedido está de acordo com disposto no art. 32 da LPI                                         X
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim        Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         X
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                   Página 1
+                                          PI1005131-7
+
+
+Comentários/Justificativas
+
+
+
+       Nenhuma caracterização dos sais, estereoisômeros, enantiômeros, prófármacos e
+solvatos são descritos no relatório descritivo pleiteado pela requerente nas reivindicações 1 e 2
+são descritas no relatório descritivo.
+       Para a descrição clara e suficiente de um solvato, faz-se necessária, obrigatoriamente, a
+identificação química da molécula e da estequiometria, a qual pode ser determinada através de
+técnicas de análisetermogravimétrica (ATG), Karl Fischer ou outras técnicas validadas que
+forneçam tais informações, já que o solvato é considerado um composto químico diferente do
+seu correspondente sem solvatação ou anidro.
+       O uso das expressões genéricas solvatos em reivindicações referentes a um
+composto per se, não identificam os derivados solvatos, do composto de forma clara e
+precisa, o que dificulta o entendimento da matéria reivindicada, não atendendo ao disposto
+no artigo 25 da Lei nº 9.279/96 (LPI) e na Instrução Normativa 030/2013 Art. 4 IV), pois define
+matéria que não está fundamentada no relatório descritivo do pedido, uma vez que tal matéria
+não se encontra suficientemente descrita no relatório descritivo, de modo a fundamentar o amplo
+escopo reivindicado, o que contraria também o disposto no artigo 24 da LPI.
+
+
+       Segundo a resolução INPI 208/2017 parte 3 e 3.1 define que a descrição clara e
+suficiente do estereoisômero na forma pura reside na caracterização da configuração
+absoluta de seu centro quiral no ato do depósito do pedido de patente.
+       Técnicas analíticas, tais como dicroísmo circular, ressonância magnética nuclear (com
+adição de reagente de deslocamento quiral), birrefringência circular, dispersão rotatória óptica,
+cromatografia (com coluna quiral), polarimetria e difratometria de raio X de monocristal podem
+ser utilizadas para a caracterização do enantiômero/atropoisômero/diasteroisômero pleiteado.
+       Os parâmetros do processo de obtenção do estereoisômero, seja por síntese assimétrica
+ou pelo processo de purificação posterior à síntese do composto, devem ser especificados no
+relatório descritivo, de modo a garantir sua reprodutibilidade por um técnico no assunto. Devido
+à possibilidade de racemização dos compostos quirais durante o processo de obtenção, é
+importante que o relatório descritivo revele os reagentes utilizados (principalmente na etapa de
+formação do centro quiral), as condições reacionais, os métodos de isolamento e de purificação
+do estereoisômero obtido pelo referido processo. O relatório deve ainda descrever o eventual
+excesso enantiomérico obtido e o método de análise empregado para sua aferição.
+
+
+
+      Os termos opcionalmente e os usados na definição da matéria pleiteada nas
+reivindicações 1 e 2 são genéricos, impossibilitando a definição clara e precisa da matéria objeto
+da proteção, o que contraria o disposto no artigo 25 da Lei nº 9.279/96 (LPI) e na Instrução
+Normativa 030/2013, artigo 4(III).
+
+
+
+
+                                                                                         Página 2
+                                           PI1005131-7
+
+
+      Os termos C1-4alquila, C2-6alquenila, C1-6alquila N-C1-4, C1-4alquila, alquila-O-C1-4 usados na
+definição da matéria pleiteada nas reivindicações 1 a 3, são genéricos, impossibilitando a
+definição clara e precisa da matéria objeto da proteção, o que contraria o disposto no artigo 25 da
+Lei nº 9.279/96 (LPI) e na Instrução Normativa 030/2013, artigo 4(III). Onde os substituintes sejam
+definidos em conformidade com o Bloco II- 6.9 a 6.14 da Diretrizes de Exame de Pedido de
+Patentes.
+
+
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                                 Data de publicação
+    D1          Marks, P. A et all. Mol Cancer Res, 2007, 5(10), 981-989.              2007
+    D2         Patani G a et al, "bioisosterism: a rational approach in drug           1996
+             design", chemical reviews, vol. 96, no. 8, issn 0009-2665, pages
+                                        3147 - 3176
+    D3                                US RE38506                                    20/04/2004
+    D4                              US2004/0077726                                  22/04/2004
+    D5                              US2004/0266769                                  30/12/2004
+    D6                             US 2004/0235888                                  25/11/2004
+    D7                             US 2004/0127522                                  01/07/2004
+
+
+         O documento D1, descreve um review dos inibidores de histoma deacetilase.
+
+
+
+         O documento D2, descreve um review sobre o estudo de biosterísmo.
+
+
+
+         O documento D3, descreve compostos com atividade inibitória de células neoplásicas e
+suas composições.
+
+
+
+         O documento D4, descreve compostos cinâmicoss e sua atividade inibitória do HDAC.
+
+
+
+         O documento D5, descreve compostos cinâmicoss e sua atividade inibitória do HDAC.
+
+
+
+         O documento D6, descreve compostos cinâmicoss e sua atividade inibitória do HDAC.
+
+
+         O documento D7, descreve compostos cinâmicoss e sua atividade inibitória do HDAC.
+
+
+
+                                                                                           Página 3
+                                           PI1005131-7
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade            Cumprimento                 Reivindicações
+                                                    Sim                        1 a 14
+              Aplicação Industrial
+                                                    Não                           -
+                                                    Sim                        1 a 14
+                   Novidade
+                                                    Não                           -
+                                                    Sim                        1 a 14
+              Atividade Inventiva
+                                                    Não                           -
+
+
+
+Comentários/Justificativas
+
+
+
+       A matéria reivindicada apresenta novidade, atividade inventiva e aplicação industrial (Art.
+8º da LPI).
+
+
+
+       Em exame anterior o parecer publicado na RPI nº 2574 de 05/05/2020 verificou-se que a
+matéria pleiteada infringia os artigos 22, 24 e 25 da LPI e seria passível de proteção desde que
+a requerente cumprisse as seguintes exigências:
+
+
+
+1. Restringisse as reivindicações 8 a 13 ao que realmente foi revelado no relatório descritivo
+para que atendessem ao disposto nos artigos 24 e 25 da Lei 9279/1996 (LPI):
+       Remoção dos termos sais, estereoisômeros, enantiômeros, prófármacos e solvatos
+farmacêuticamente aceitáveis
+
+
+2. Retirada dos compostos da reivindicação 7 ao que realmente foi revelado e caracterizado no
+relatório descritivo para que atendessem ao disposto nos artigos 24 e 25 da Lei 9279/1996 (LPI
+
+
+
+3. Retirada da reivindicação 15 de forma a atender ao artigo 22 da LPI:
+       A estrutura dos compostos pleiteados na reivindicação 15 difere das pleiteadas nas
+reivindicações 1 a 9.
+
+
+
+       Através da petição nº 870200107022 de 25/08/2020 a requerente apresentou
+manifestação sobre o parecer técnico notificado na RPI 2315 e um novo quadro reivindicatório
+com 14 reivindicações.
+
+
+
+
+                                                                                           Página 4
+                                             PI1005131-7
+
+
+          No entanto, a requerente não cumpriu integralmente as exigências formuladas acima
+infringindo os artigos 24 e 25 da LPI. Conforme descrito no quadro 3.
+
+
+          Remoção dos termos sais, estereoisômeros, enantiômeros, prófármacos e solvatos
+farmacêuticamente aceitáveis usados na definição da matéria nas reivindicações 1 e 2.
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -     não apresenta suficiência descritiva (Art. 24 da LPI)
+
+      -     as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+            descritivo (Art. 25 da LPI)
+
+      -
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                    Publique-se o indeferimento (9.2).
+
+
+
+                                                             Rio de Janeiro, 11 de setembro de 2020.
+
+
+
+
+Glaucia Barbosa Candido Alves Slana
+Pesquisador/ Mat. Nº 1731552
+DIRPA / CGPAT I/DIFAR-I
+Deleg. Comp. - Port. INPI/DIRPA Nº
+006/20
+
+
+
+
+                                                                                             Página 5
+

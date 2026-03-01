@@ -1,0 +1,274 @@
+                              SERVIÇO PÚBLICO FEDERAL
+                               MINISTÉRIO DA ECONOMIA
+                 INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+                             RELATÓRIO DE EXAME TÉCNICO
+ N.° do Pedido:        BR112015003727-5            N.° de Depósito PCT:BR2014/000296
+ Data de Depósito:     26/08/2014
+ Prioridade Unionista: US 61/899,472 (04/11/2013); US 62/003,604 (28/05/2014)
+ Depositante:          DOW BRASIL SUDESTE INDUSTRIAL LTDA (BR-SP)
+ Inventor:             Adalberto Ferrari, Alvaro Luiz Gomes, Felipe Nascimento
+ Título:               Composição de petróleo de espuma reduzida e emulsão anti-
+                       espumante
+                                                                PARECER
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição                Data
+
+Relatório Descritivo                                      1-41               870220017125                25/02/2022
+Quadro Reivindicatório                                     1-3               870220090211                03/10/2022
+Desenhos                                                   1-4               020150003957                20/02/2015
+Resumo                                                      1                870220017125                25/02/2022
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim            Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                           x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                   x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                         x
+Comentários/Justificativas
+
+                                    Quadro 4  Documentos citados no parecer
+
+  Código                                               Documento                                    Data de publicação
+      D1                                              US5942469A                                        24/08/1999
+      D3                                              US4329528A                                        11/05/1982
+     D13                                              US3865544A                                          1975
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                                    Página 1
+                                      BR112015003727-5
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade           Cumprimento                Reivindicações
+                                                  Sim                      1-7; 8-13
+          Aplicação Industrial
+                                                  Não
+                                                  Sim                      1-7; 8-13
+                  Novidade
+                                                  Não
+                                                  Sim
+           Atividade Inventiva
+                                                  Não                      1-7; 8-13
+Comentários/Justificativas
+
+       A documentação analisada neste exame técnico se baseia no quadro reivindicatório
+reformulado, com um total de 13 reivindicações, adaptado às disposições da Instrução Normativa
+IN30/2013, e ainda, do arrazoado interposto por manifestação da requerente quanto aos
+questionamentos indicados pelo INPI do escopo reivindicado, apresentados a partir da petição
+nº8870220090211 de 03/10/2022, como resposta ao parecer técnico de ciência notificado na RPI
+nº2687 de 05/07/2022.
+       Baseado nas referências US5942469A(D1), US4329528A(D3) e US3865544A(D13) do
+estado da técnica, a requerente apresenta suas alegações em relação ao parecer de ciência,
+adequando o escopo reivindicado de forma a fundamentar que os documentos D1, D3 e D13 não
+podem antecipar, indicar ou sugerir uma solução técnica equivalente a composição de petróleo de
+espuma reduzida, conforme a descrição das matérias das reivindicações 1-13 do quadro
+reformulado.
+       A solução do problema da técnica visa prover uma composição de espuma reduzida de
+petróleo que envolve um óleo bruto e uma emulsão anti-espuma pré-formada, e ainda, uma fase
+hidrofílica contínua e um poliorganossiloxano disperso na fase hidrofílica contínua, cuja emulsão
+compreende menos de 50%(p/p) do solvente hidrofóbico, para o uso em unidades de produção e
+refino de petróleo. A referida composição tem a finalidade de reduzir a altura da espuma do
+petróleo bruto estocado, permitindo a compactação das unidades de processamento em
+plataformas de petróleo off-shore, gerando mais segurança à etapa de separação água/gás/óleo
+durante o processamento primário de petróleo bruto. O efeito técnico da composição deve-se ao
+desempenho do produto em reduzir o teor de silício residual, e prover a melhora da separação de
+água e gás do petróleo bruto, sobretudo, na etapa de separação trifásica na plataforma de
+produção, como também nas demais unidades de processamento off-shore, ou em terra.
+       No manifesto interposto, a requerente pontua que os compostos de silicone são
+intrinsecamente hidrofóbicos, e que em composições antiespumentes empregadas durante o
+processamento off-shore de petróleo em bruto, é comum a migração dos compostos de silicone
+na emulsão óleo-água para a fase oleosa, quando da separação de fases, sendo estes compostos
+nocivos em óleos empregados como carga de alimentação em processamentos catalíticos de
+refino a jusante, devido a forte tendência destes envenenarem catalisadores em reações de
+hidroconversão.
+       Portanto, o problema técnico a ser resolvido, de acordo com o manifesto apresentado, é
+prover uma composição antiespumante que atue eficazmente na redução à formação de
+
+
+                                                                                         Página 2
+                                       BR112015003727-5
+
+
+espumação em emulsões do tipo óleo-água em processos de produção de petróleo off-shore, que
+pode ainda persistir com a presença de ar na fase oleosa separada, e gerar problemas de
+cavitação em bombas, além da transferência dos compostos de silicone que migram para a fase
+oleosa do óleo em bruto a ser processado.
+       A requerente sustenta que o estado da técnica citado a partir dos documentos D1, D3 e
+D13 descrevem uma série de compostos de silicone, mas que não indica ou descreve, contudo, a
+solução conforme preconizada pelo escopo reivindicado.
+       Em relação ao documento D1, a requerente reconhece ser esta a referência mais próxima,
+mas que difere ao escopo, em relação ao fato de não apresentar na composição um
+poliorganossiloxano com grupos terminais de hidroxila (-OH). A requerente também reconhece em
+seu manifesto que a anterioridade D13 sugere que os grupos terminais dos polisiloxanos ali
+citados não são críticos e que, inclusive, apresentam terminações com o substituinte
+hidroxila, indicando que qualquer siloxano seria adequado à composição ali proposta. Contudo, a
+requerente alega que ambas as anterioridades, D1 e D13, não sugerem ou indicam a prevalência
+ao uso de um polisiloxano apropriado e específico, de forma a selecionar um produto em
+detrimento do outro composto.
+       Ou seja, a requerente sustenta que a seleção específica preconizada pelo escopo
+reivindicado, a saber, a partir do uso de um componente polisiloxano contendo terminação hidroxi
+na composição antiespumante, pôde proporcionar um efeito de redução a migração de silício para
+a fase oleosa de uma emulsão óleo-água, pós separação da referida fração oleosa, sobretudo,
+quando a composição antiespumente apresenta uma quantidade inferior a 1%(p/p) de um
+solvente hidrofóbico.
+       A requerente ressalta que mesmo que o antiespumante em D13 possua um componente
+de silicone, e que se considere que o mesmo contenha terminação hidroxi nas extremidades de
+cadeia, ainda assim, a referência não preconizaria, a um técnico no assunto, a solução
+concebida a partir do uso de quantidades relativamente pequenas de um solvente
+hidrofóbico, até porque em altas concentrações deste na composição, o efeito de evitar a
+migração de silício para a fase oleosa não seria efetivo, devido a alta solubilidade do polisiloxano
+no solvente hidrofóbico.
+       Em relação ao documento D3, a requerente alega que a anterioridade não indica ou
+sugere os meios de combinar um dimetilsiloxano com extremidade terminal hidroxila, fluorado ou
+não, com com um solvente hidrofóbico com um teor extremamente baixo, conforme preconizado
+pelo escopo do pedido, e ressalta que nos exemplos de trabalho em D3, os componentes de
+siloxano com terminação hidroxi apresentam alto teor de solventes hidrofóbicos na composição
+antiespumante, conforme tolueno ou álcool mineral, sendo isto necessário até pelo fato da
+reconhecida insolubilidade dos polímeros de fluorosilicone em óleo.
+       Considerando as argumentações da requerente, e ao reexaminar o presente pedido em
+relação aos documentos D3 e D13, os quais indicam a possibilidade de uso de componentes de
+polisiloxano em composições anti-espumantes, cabe aqui fazer algumas considerações acerca do
+escopo reivindicado.
+
+
+
+
+                                                                                           Página 3
+                                       BR112015003727-5
+
+
+       Inicialmente, é importante ressaltar que o documento D13, que embora não tenha sido
+mencionado no relatório de busca originalmente apresentado, e nem nos documentos de
+subsídios apresentados pela parte interessada, contudo, este atende aos aspectos no âmbito da
+Portaria/INPI/PRnº21 de 26/03/2021 (Art.1o; Art.2o(IV) e Art.3o(I)), notificada na RPI 2642 de
+24/08/2021, a qual normaliza o procedimento de exame em relação à exigência preliminar(6.23), e
+que direciona o emprego de documentos utilizados no exame de um mesmo pedido de patente
+por outros Escritórios Nacionais (EPO, USPTO, JPO, dentre outros), uma vez que a repartição
+americana fez uso deste no decorrer do exame.
+       Em relação ao documento D3, este indica a possibilidade do uso de copolímeros de
+silicone, cujo radical terminal R2, inclusive, pode ser definido a partir do substituinte hidroxila.
+Particularmente, D3 indica o uso de solventes orgânicos na composição antiespumante, conforme
+tolueno, xileno, ciclohexano, dentre outros(ver em D3, reivindicação 20). Contudo, deve-se
+reconhecer que mesmo que D3 indique a possibilidade de componentes de polisiloxano e de
+solvente hidrofóbico na composição, de fato, a quantidade de solvente usado supera em muito a
+quantidade inferior a 1%(p/p), tal como reivindicada, uma vez que D3 descreve um teor de 25-70%
+(p/p) de um solvente hidrocarbônico (ver em D3, coluna 6, linhas 50-55 e reivindicação 19).
+       Em relação ao documento D13, conforme a descrição do exemplo 1 da referência, a
+referência sugere e ensina a formulação de composições anti-espumantes pré-formadas. Na
+referida síntese, é fornecido um agente de controle de espuma compreendido por 88% de
+polidimetilsiloxano, 10% de sílica e 2% resina de siloxano(contendo 75% de sólidos em xileno).
+Em particular 8g do referido agente de controle de espuma é reagido com 2 g de um produto de
+reação oriundo da reação de 100g de xileno, 200g de polímero de triol(polioxipropileno-
+polioximetileno) e 100g de solução de xileno (contendo 50% de sólidos).
+       De acordo com D13, o produto de reação é então obtido, sendo fornecidos 2g deste, em
+conjunto com 50g de poliglicol, para obter uma composição final anti-espumante pré-formada,
+a qual pode ainda ser diluída em água a um teor de 50% de sólidos.
+       Ao verificar as quantidades mássicas e percentuais das reações de síntese da composição
+anti-espumante, descritas a partir do exemplo 1 em D13, é importante ressaltar que o produto de
+reação entre 8g do agente de controle de espuma inicial e 2g da reação (xileno, polímero de triol e
+solução de xileno), a saber, o produto final, que é empregado com uma quantidade mássica de
+2g, para ser esta formulado com 50g de poliglicol, proporcionou um produto anti-espumante final
+com a seguinte composição:
+                             PRODUTO ANTI-ESPUMANTE FINAL
+                               Componente                  % composição
+                             Polidimetilsiloxano               2,71
+                                    Sílica                     0,31
+                                   Resina                      0,06
+                                   Xileno                      0,29
+                     Polioxipropileno-polioxietileno triol     0,38
+                          Copolímero de siloxano               0,09
+                                  Poliglicol                  96,16
+
+
+
+                                                                                           Página 4
+                                       BR112015003727-5
+
+
+       Nesse sentido, a a composição sugere e ensina um teor de solvente hidrofóbico que vai no
+mesmo sentido da matéria reivindicada, diferindo nesse caso, pelo fato que a fase hidrofílica da
+composição, compreendida por poliglicol diferir da água empregada na fase hidrofílica da
+composição reivindicada.
+       Contudo, a referência D13 expressamente declara que a referida composição é diluída em
+água, para prover um teor em sólidos de 50%, ou seja, a composição diluída descrita por D13
+envolveria um teor de solvente hidrofóbico, e um teor de água como fase hidrofílica contínua, que
+se encontram dentro da faixa de composição da emulsão anti-espumante pré-formada do escopo
+reivindicado (ver em D13, coluna 5, linhas 10-12). Os testes ali descritos para a solução diluída a
+50% descrevem, inclusive, um tempo menor de quebra de espuma, conjugado ao efeito integral
+de supressão de espuma(ver em D5, tabela, teste da última linha).
+       Ademais, conforme já mencionado neste parecer, D13 ensina e sugere que os grupos
+terminais dos polisiloxanos ali citados não são críticos e que, inclusive, apresentam
+terminações com o substituinte hidroxila (ver em D13, coluna 3, linhas 5-15).
+       O documento D1 citado sugere e ensina uma composição que envolve uma fração
+multifásica essencialmente formada por petróleo bruto em salmoura, a saber, uma emulsão
+espumosa(a), e por uma composição compreendida por uma emulsão externa tendo água e uma
+fase dispersa (b), a qual é formada por: (i) um agente anti-espumante que inclui derivados de
+silicone, organo silicone, adutos de sílica/silicone, dentre outros e misturas destes; (ii) um
+agente desmulsificante formado por agentes tensoativos não iônicos como etoxilados de
+alquilfenóis e alcoóis, dentre outros, e também tensoativos aniônicos representados sulfonatos e
+carboxilatos etoxilados;(iii) um agente de estabilização como glicóis, polímeros solúveis em água,
+e mistura destes; e (iv) água. D1 traz a indicação que a referida fase dispersa(b) apresenta uma
+composição que envolve um teor de 1-20%(p/p) do agente antiespumante(i); 1-10%(p/p) do
+agente desmulsificante (ii); <20%(p/p) de agente estabilizador e o complemento em água, ou seja,
+uma fase contínua hidrofílica compreendida por água, cujo teor é compreendido por pelo menos
+50%(p/p) (ver em D1, reivindicações 1, 4 e 6).
+       Entretanto, D1 difere por não sinalizar um derivado de siloxano contendo terminações de
+cadeia hidroxi, combinado com um teor de solvente hidrofóbico inferior a 1%(p/p) na composição
+anti-espumante.
+       Contudo, o documento D1, referência mais próxima, que embora descreva uma
+composição de petróleo compreendida por um petróleo em bruto e uma fase dispersa, esta
+formada a partir de uma composição anti-espumante, cujo agente anti-espumante é compreendido
+por derivados de silicone, organo silicone, adutos de sílica/silicone, dentre outros e misturas
+destes,mas que não compreendem siloxanos com extremidade de cadeia formada por
+substituintes hidroxi, ou ainda, não preconiza um agente hidrofóbico com um teor inferior a 1%
+(p/p), mas ao verificar tais deficiências em D1, com base naquilo que descreve o documento D13
+citado, conforme a análise supracitada neste parecer, um técnico no assunto teria os meios de
+modificar e adaptar o documento D1, a partir daquilo que sugere e ensina D13, de forma a
+alcançar o escopo das matérias das reivindicações 1-7 e 8-13, que permanecem carecendo de
+ATIVIDADE INVENTIVA, por estarem em desacordo os Artigos 8o e 13 da LPI.
+
+
+                                                                                          Página 5
+                                      BR112015003727-5
+
+
+
+
+Conclusão
+
+       Portanto, as matérias das reivindicações 1-7 e 8-13, com base nos documentos D1 e D13
+combinados, não apresentam ATIVIDADE INVENTIVA, estando as mesmas em desacordo com
+os Artigos 8o e 13 da LPI.
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido.
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                               Publique-se o indeferimento (9.2).
+
+                                                            Rio de Janeiro, 9 de janeiro de 2023.
+Flávio dos Reis Gonçalves
+Pesquisador/ Mat. Nº 1550074
+DIRPA / CGPAT III/DIPEQ
+Deleg. Comp. - Port. INPI/DIRPA Nº 022/12
+
+
+
+
+                                                                                        Página 6
+

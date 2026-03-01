@@ -1,0 +1,197 @@
+                                SERVIÇO PÚBLICO FEDERAL
+            MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                     INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                RELATÓRIO DE EXAME TÉCNICO
+
+N.° do Pedido:             BR112023000079-3         N.° de Depósito PCT: US2021/039669
+Data de Depósito:          29/06/2021
+Prioridade Unionista:      US 63/048,871 (07/07/2020); US 63/153,652 (25/02/2021)
+Depositante:               AMSTED RAIL COMPANY, INC. (US)
+Inventor:                  EVAN WEINER; BRAD A. MYERS
+Título:                    Métodos para gerenciamento de ativo ferroviário e para
+                           gerenciamento ferroviário baseado em realidade aumentada, e,
+                           sistema
+
+                                               PARECER
+        O presente pedido de patente de invenção sofreu ciência de parecer (7.1) conforme
+publicação na RPI nº 2735 de 06/06/2023. A Requerente apresentou, através da petição
+870230075827 de 26/08/2023, manifestação ao parecer técnico publicado e novo quadro
+reivindicatório. Para fins de continuidade do exame estão sendo consideradas as vias abaixo:
+
+
+
+                            Quadro 1  Páginas do pedido examinadas
+Elemento                             Páginas              Nº da Petição              Data
+
+Relatório Descritivo                  1 a 41                  870230000549         03/01/2023
+Quadro Reivindicatório                1 a 11                  870230075827         26/08/2023
+Desenhos                              1 a 20                  870230000549         03/01/2023
+Resumo                                  1                     870230000549         03/01/2023
+
+
+
+
+              Quadro 2 - Considerações referentes aos Artigos 10, 18, 22 e 32 da LPI
+Artigos da LPI                                                               Sim       Não
+A matéria enquadra-se no Art. 10 da LPI (não se considera invenção)                     X
+A matéria enquadra-se no Art. 18 da LPI (não é patenteável)                             X
+O pedido apresenta Unidade de Invenção (Art. 22 da LPI)                       X
+O pedido está de acordo com disposto no Art. 32 da LPI                        X
+
+
+
+
+O_SISCAP@                                                                          Página 1 de 4
+                                          BR112023000079-3
+
+
+
+
+                 Quadro 3 - Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no Art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no Art. 25 da LPI    X
+Comentários/Justificativas:
+
+
+                            Quadro 4 - Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                US2007150130A1                               28/06/2007
+
+
+
+
+      Quadro 5 - Análise dos Requisitos de Patenteabilidade (Art. 8º, 11, 13 e 15 da LPI)
+      Requisito de Patenteabilidade               Cumprimento            Reivindicações
+                                                        Sim                     1a9
+            Aplicação Industrial
+                                                        Não                    10 a 19
+                                                        Sim                     1a9
+                     Novidade
+                                                        Não                      --
+
+                                                        Sim                      --
+            Atividade Inventiva
+                                                        Não                     1a9
+
+
+
+Comentários/Justificativas:
+
+         Observa-se que foram realizadas algumas modificações no quadro reivindicatório pela
+Requerente em relação à apresentação da matéria pleiteada. Entretanto, nota-se que foi
+mantida a matéria reivindicada.
+
+         Dentre as alegações do Requerente, destaca-se:
+
+       (i) A Requerente está certa de que as reivindicações do presente pedido ora
+apresentadas são dignas de obter proteção patentária nos termos da LPI, por evidenciarem não
+apenas novidade, como também atividade inventiva em relação ao documento D1. As
+reivindicações dependentes também são passíveis de obter proteção patentária nos termos do
+referido direito;
+
+       (ii) O parágrafo [0017] simplesmente ensina a realizar as seguintes operações por um
+computador: receber dados GPS de um ativo em um pátio ferroviário; comparar os dados de
+GPS recebidos com um banco de dados de layout de trilho 108 (que foi previamente gerado a
+
+
+                                                                                      Página 2 de 4
+                                      BR112023000079-3
+
+
+partir de fotografia aérea ou aquisição de GPS); e fornecer uma exibição visual do ativo em um
+monitor de computador;
+
+      (iii) O parágrafo [0029] de D1 simplesmente ensina a gerar um DOQ. Os DOQs são bem
+conhecidos na técnica por comparar uma imagem com deslocamentos (distorções) causados
+pelo relevo do terreno e pelas inclinações da câmera removidas do mesmo. Um técnico no
+assunto entenderia de forma razoável que a geração de um DOQ não envolve a conversão de
+uma imagem em uma imagem editável eletronicamente;
+
+      (iv) O parágrafo [0056] de D1 simplesmente ensina que uma unidade de controle central
+pode ser qualquer um dos tipos de dispositivos listados (por exemplo, microprocessador,
+memória, etc.);
+
+      (v) Ao contrário do dispositivo de comunicação móvel 106, o terminal de computador
+portátil do indivíduo de D1 não captura nenhuma imagem do ativo ferroviário durante a inspeção
+do vagão.
+
+
+
+Analisando as alegações apresentadas ressaltamos que:
+
+
+
+       Deve-se observar que mesmo que o documento D1 não represente exatamente o
+mesmo objeto de invenção do pedido sob análise, as referidas características técnicas
+apontadas são encontradas neste documento, pois pertencem ao mesmo campo de invenção
+(área técnica). As características técnicas, contidas nos parágrafos mencionados pela
+Requerente, quando combinadas por um técnico no assunto evidenciam a falta de atividade
+inventiva da matéria reivindicada.
+
+       A Requerente menciona que um técnico no assunto entenderia de forma razoável que a
+geração de um DOQ não envolve a conversão de uma imagem em uma imagem editável
+eletronicamente. Entretanto, deve-se notar que qualquer imagem, após digitalização, se torna
+editável eletronicamente uma vez que a mesma está na forma digital. Por outro lado, nota-se
+que o documento D1 não menciona somente DOQs, mas também imagens capturadas de forma
+aérea (parágrafo [0026]).
+
+       É mencionado pela Requerente que o terminal de computador portátil do indivíduo de D1
+não captura nenhuma imagem do ativo ferroviário durante a inspeção do vagão. Entretanto, em
+D1 são sugeridos capturas de imagens dos vagões e de toda a região (parágrafo [0026]).
+
+        Adicionalmente, como foi mencionado no parecer anterior, ainda nota-se, no quadro
+reivindicatório, o uso de indivíduos humanos como parte dos métodos ou sistemas, o que está
+em desacordo com o Art. 15 da LPI.
+
+
+
+
+                                                                                  Página 3 de 4
+                                       BR112023000079-3
+
+
+
+       Deve-se notar que, de acordo com o Art. 41 da Lei nº 9.279/96 (LPI), a extensão da
+proteção conferida pela patente será determinada pelo teor das reivindicações, interpretado com
+base no relatório descritivo e nos desenhos, e que ainda de acordo com a Instrução Normativa
+030/2013, Art. 6º, inciso I, as reivindicações dependentes são aquelas que, mantida a unidade
+de invenção, incluem todas as características de outra(s) reivindicação(ões) anterior(es) e
+definem detalhamentos dessas características e/ou características adicionais que não sejam
+consideradas características essenciais da invenção.
+
+
+
+Conclusão
+
+      Face ao exposto, conclui-se que a invenção ora pleiteada decorre de maneira evidente ou
+óbvia, para um técnico no assunto, do estado da técnica, sendo desprovida de atividade inventiva,
+conforme Art. 13 da LPI.
+
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que este não
+atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+                                                          Rio de Janeiro, 05 de setembro de 2023.
+
+
+
+
+Cristiano Augusto Gomes Marques
+Pesquisador/ Mat. Nº 2042539
+DIRPA / CGPAT III/DIFEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+006/16
+
+
+
+
+                                                                                     Página 4 de 4
+

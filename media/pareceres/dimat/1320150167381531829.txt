@@ -1,0 +1,228 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR132015016738-4           N.° de Depósito PCT:
+ Data de Depósito:                   13/07/2015
+ Prioridade Unionista:               US 61/532,420 (08/09/2011)
+ Depositante:                        VALE SA (BRRJ)
+ Inventor:                           ALOÍSIO ANTÔNIO DE MELO BORGES, FLÁVIO DE CASTRO
+                                     DUTRA, HAMILTON PORTO PIMENTA, VALDIRENE GONZAGA DE
+                                     RESENDE @FIG
+ Título:                             Processo de aplicação de grafite esfoliado em aglomerados de
+                                     particulado fino de minério, processo para a preparação dos
+                                     aglomerados de minério com alta resistência mecânica, produto
+                                     aglomerado e uso de grafite esfoliado 
+
+                                                                PARECER
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                     18                 870170094675           05/12/2017
+Quadro Reivindicatório                                   12                 870220001487           06/01/2022
+Desenhos                                                    1                860150148226           13/07/2015
+Resumo                                                      1                860150148226           13/07/2015
+
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                                        BR132015016738-4
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                             Sim          Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI        x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                   x
+Comentários/Justificativas
+Neste parecer serão utilizados os seguintes símbolos:
+LPI  Lei da Propriedade Industrial (Lei N° 9.279/96)
+IN  Instrução Normativa
+RD  relatório descritivo
+QR  quadro reivindicatório
+R  reivindicação
+CA  Certificado de Adição
+
+
+
+
+          A matéria ora em exame corresponde a um pedido de Certificado de Adição da patente
+concedida BR112014005488-6, conforme Art. 76 da LPI.
+
+
+          Após notificação de despacho de exigência 6.1 publicada na RPI nº 2649 em 13/10/2021,
+a requerente impetrou a petição de n° 870220001487 em 06/01/2022, onde apresenta novo
+quadro reivindicatório.
+
+
+          No exame anterior foi solicitado que a expressão aglomerados de particulado fino de
+minério fosse corrigida para pelotas de minério. A requerente não fez a correção alegando que
+discorda da opinião do Examinador, uma vez que o termo aglomerados de particulado fino de
+minério abrange tanto as pelotas de minério, quanto os briquetes de minério, que consistem em
+tipos de aglomerados distintos.
+
+
+          Cabe observar que esta mesma exigência foi feita no exame da patente BR112014005488
+ao qual o Certificado de Adição ora em análise se refere. Naquela ocasião, a requerente
+concordou com as alterações sugeridas. Primeiramente, em relação ao campo técnico ao qual a
+invenção pertence, a requerente escreveu (vide petição n° 870180166290 de 21/12/2018):
+
+
+           [...] o resumo do presente pedido foi adaptado para destacar que o processo ora
+           pleiteado se refere a um ...processo para a preparação de pelotas de minério...,
+           visando sua aplicação em reatores metalúrgicos e em mineração..
+
+
+          Além disso, ao comentar a solicitação de que a expressão aglomerados de particulado
+fino de minério fosse corrigida para pelotas de minério, a requerente se manifestou da seguinte
+forma (vide petição n° 870180166290 de 21/12/2018):
+
+
+
+                                                                                         Página 2
+                                       BR132015016738-4
+
+
+
+        O Examinador afirma que a terminologia utilizada ao longo do pedido deve obedecer à
+        prática consagrada no setor, conforme indicado no Art. 16, inciso IV da IN nº 30/2013. Ele
+        ressalta que no jargão da área os ditos aglomerados de particulado fino de minério
+        utilizados para aplicação em reatores metalúrgicos são conhecidos por pelotas de
+        minério e outros termos deveriam ser revistos.
+        Seguindo a terminologia adequada ao setor técnico da presente invenção, as expressões
+        pellet / pellets / pelotização, foram corrigidas, respectivamente, para pelota /
+        pelotas / pelotação ao longo do relatório descritivo e na Figura 4, cumprindo assim as
+        determinações do Artigo 16 (IV) da IN nº 30/2013.
+
+
+       Para estar de acordo com o disposto no Art. 76 da LPI, a matéria pleiteada no CA não
+deve extrapolar o conceito inventivo da patente à qual se refere. Neste contexto, importa ressaltar
+que a patente deferida com o título PROCESSO PARA A PREPARAÇÃO DE PELOTAS DE
+MINÉRIO, PRODUTO AGLOMERADO, E, USO DE NANOTUBOS DE CARBONO." pleiteia
+processo para a preparação de pelotas de minério (R1), produto aglomerado (R7) e uso de
+nanotubos de carbono caracterizado pelo fato de ser para preparar pelotas de minérios.
+
+
+       No exame anterior foi indicado que a matéria pleiteada na reivindicação 1 deve ser
+adequada às modificações feitas na R1 da patente BR112014005488-6, para que se caracterize
+que ambas as reivindicações fazem parte de um mesmo conceito inventivo. Assim, a etapa (i),
+qual seja, a dispersão de grafite esfoliado ou uma mistura de grafite esfoliado e nanotubos de
+carbono em uma matriz ligante, deveria ser inserida no contexto das etapas da R1 da patente
+BR112014005488-6. Deve-se considerar, ainda, que esta etapa deve ser modificada para excluir a
+possibilidade de uso de grafite esfoliado sem nanotubos de carbono, uma vez que esta
+característica extrapola o conceito inventivo da patente BR112014005488-6.
+
+
+       A requerente não fez a correção alegando que entende que a etapa (i) do presente
+certificado de adição encontra-se inteiramente no contexto da primeira etapa da reivindicação 1 da
+patente BR112014005488-6, onde tem apenas como diferença a aplicação do grafite esfoliado na
+dispersão realizada em uma matriz ligante, característica essa que motivou e justificou o depósito
+do certificado de adição ora em análise. Esta alegação não é persuasiva, uma vez que a R1 da
+patente BR112014005488-6 refere-se a um processo para a preparação de pelotas de minério
+que compreende a dispersão de nanotubos de carbono em uma matriz. Já a R1 do pedido de CA
+ora em análise pleiteia um processo de aplicação de grafite esfoliado em aglomerados de
+particulado fino de minério que compreende a dispersão de grafite esfoliado ou uma mistura de
+grafite esfoliado e nanotubos de carbono em uma matriz, o que extrapola o conceito inventivo da
+matéria reivindicada na patente BR112014005488-6, o que infringe o Art. 76 da LPI.
+
+
+
+
+                                                                                          Página 3
+                                          BR132015016738-4
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                 Documento                                  Data de publicação
+    D1                               WO 2007/080356                                     19/07/2007
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade               Cumprimento                  Reivindicações
+                                                       Sim                          1  12
+           Aplicação Industrial
+                                                       Não                            ---
+                                                       Sim                          1  12
+                  Novidade
+                                                       Não                            ---
+
+                                                       Sim                           N/A*
+            Atividade Inventiva
+                                                       Não                           N/A*
+* De acordo com o Art. 76 da LPI, o requisito de patenteabilidade atividade inventiva não se aplica para
+Certificados de Adição.
+
+
+
+Comentários/Justificativas
+
+
+
+
+         A matéria objeto do Certificado de Adição é considerada nova face do documento do
+estado da técnica apurado (D1). Entretanto, a matéria extrapola o conceito inventivo da patente
+BR112014005488-6, estando em desacordo com o Art. 76 da LPI.
+
+
+
+
+Conclusão
+
+
+
+
+       Assim sendo, indefiro o presente pedido, uma vez que não atende ao disposto no § 3° do
+Art. 76 da LPI.
+
+
+
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+
+                                                                                                Página 4
+                               BR132015016738-4
+
+
+                                                      Publique-se o indeferimento (9.2).
+
+
+
+                                                  Rio de Janeiro, 28 de janeiro de 2022.
+
+
+
+
+Rafael Vieira Camerini
+Pesquisador/ Mat. Nº 2317410
+DIRPA / CGPAT IV/DIMAT
+Deleg. Comp. - Port. INPI/DIRPA Nº
+012/18
+
+
+
+
+                                                                               Página 5
+

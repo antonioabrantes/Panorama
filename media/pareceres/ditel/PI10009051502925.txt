@@ -1,0 +1,190 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      PI1000905-1                N.° de Depósito PCT:
+ Data de Depósito:                   29/03/2010
+ Prioridade Unionista:               EP 09290232.9 (30/03/2009)
+ Depositante:                        INTERDIGITAL MADISON PATENT HOLDINGS (FR)
+ Inventor:                           Xian Jun Ma; Jun Li; Lin Du; Jian Ping Song
+ Título:                             Método e aparelho para atribuir identificadores a serviços de mídia
+
+                                                                PARECER
+          Em 04/06/2020, por meio da petição 870200069966, o Depositante apresentou
+modificações no pedido em resposta ao parecer emitido no âmbito da Resolução Nº 241/2019,
+notificado na RPI 2566 de 10/03/2020 segundo a exigência preliminar (6.21). Não foram
+apresentadas argumentações quanto ao estado da técnica citado no relatório de busca. Nesta
+petição fora proposta a alteração do título para MÉTODO E APARELHO PARA PROCESSAR
+UMA INTERFACE DE USUÁRIO PARA ATRIBUIR UMA COMBINAÇÃO DE CANAL A UM
+SERVIÇO DE MÍDIA.
+
+          Em 20/07/2021 foi publicada, através da RPI nº 2637, uma notificação de Ciência de
+Parecer conforme parecer de exame, que concluiu que o presente pedido carecia de atividade
+inventiva (arts. 8 e 13 da LPI) frente ao documento D1 (WO02/082766 A2).
+          Em 27/09/2021, através da petição nº 870210088725 e portanto tempestivamente, a
+requerente apresentou manifestação a respeito de parecer técnico, apresentando novas vias do
+relatório descritivo, quadro reivindicatório e resumo. Para fins de continuidade estão sendo
+consideradas as seguintes petições:
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição       Data
+
+Relatório Descritivo                                      1-19               870210088725      27/09/2021
+Quadro Reivindicatório                                     1-2               870210088725      27/09/2021
+Desenhos                                                   1-5               870200069966      04/06/2020
+Resumo                                                      1                870210088725      27/09/2021
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                            Página 1
+                                               PI1000905-1
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                           Sim             Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                       X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                               X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                   X
+O pedido está de acordo com disposto no art. 32 da LPI                    X
+Comentários/Justificativas
+
+Não há.
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim             Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI      X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    X
+Comentários/Justificativas
+Não há.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                WO02/082766 A2                               17/10/2002
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento           Reivindicações
+                                                         Sim                     1-6
+            Aplicação Industrial
+                                                         Não                    ------
+                                                         Sim                     1-6
+                 Novidade
+                                                         Não                    ------
+                                                         Sim                    ------
+            Atividade Inventiva
+                                                         Não                     1-6
+
+
+
+Comentários/Justificativas
+
+Análise das argumentações da Requerente:
+
+   1. Em sua argumentação a Requerente afirma que Não há nada em D1 que revele ou sugira
+         como acessar qualquer página específica em um sítio (website) ou que um sítio teria uma
+         pluralidade de páginas. Em vez disso, D1 estabelece uma técnica para acessar sítios
+         diretamente, mas não às páginas da web de tais sítios.. Com relação a tal argumento,
+
+
+
+                                                                                          Página 2
+                                      PI1000905-1
+
+
+   respeitosamente discordamos da afirmação e chamamos a atenção para o exposto no
+   documento de anterioridade D1 (ver parágrafos [0048] e [0049] e; Figs. 9(A) e 9(B)) onde é
+   descrito que uma página (Fig. 9A, bloco 900A) inclui uma tabela de números de canais
+   (Fig. 9A, bloco 910A) e um grupo de logotipos (Fig. 9A, bloco 920A), em que cada um
+   destes logotipos identifica um site de internet e um número de canal associado a este site
+   (parágrafo [0048]). Tais páginas, por sua vez, são associadas de tal forma que a seleção
+   de uma categoria particular, a partir de uma página específica, chama uma página
+   secundária associada a esta primeira página (parágrafo [0049]). É citada inclusive uma
+   situação em que a seleção de um canal 7000, faz com que uma página da categoria de
+   esportes (Fig. 9B, bloco 900B) substitua uma página principal (Fig. 9B, bloco 900A). Desta
+   forma, observa-se em D1 a sugestão de como acessar uma página específica em um sítio
+   e que este sítio seria composto por mais de uma página, diferentemente do afirmado pela
+   Requerente.
+
+2. Em sua argumentação a Requerente também afirma que (...) o esquema de numeração
+   de D1 não permite definir qualquer hierarquia de sítios que seriam divididos em páginas da
+   web.. Com relação a tal argumentação, respeitosamente discordamos da Requerente e
+   também chamamos a atenção para o trecho do documento D1 já relacionado acima (ver
+   parágrafo [0049]) em que é citada uma situação em que a seleção de um canal 7000, faz
+   com que uma página da categoria de esportes (Fig. 9B, bloco 900B) substitua uma página
+   principal (Fig. 9B, bloco 900A). Não obstante, é descrito ainda que múltiplas páginas são
+   associadas de tal forma que números de canais pré-atribuídos são utilizados para linkar
+   diferentes páginas pré-definidas e armazenadas, em vez de sítios de internet associados.
+   Desta forma, observa-se sim em D1 a possibilidade de definir hierarquia de sítios que
+   seriam divididos em páginas da web, diferentemente do afirmado pela Requerente.
+
+3. Por fim, a Requerente também argumenta que () D1 não revela a etapa de atribuir um
+   número de canal principal a um sítio de internet e uma pluralidade de números de canal
+   secundário (540) a páginas do dito sítio de internet, conforme definido na reivindicação
+   independente 1, do presente pedido.. Contudo, discordamos respeitosamente da
+   Requerente, chamando a atenção para os trechos de D1 já citados acima, bem como a
+   hierarquia de sítios e páginas e suas associações a canais primários (por exemplo, canais
+   principais 3000 e 7000, e canais secundários 7100 e 7300, nas figuras 9A, 9B e 10) e
+   secundários, conforme explicitado no parágrafo [0050] de D1, onde a possibilidade de
+   associação de páginas a canais secundários, pode ser claramente observada, por
+   exemplo, na Fig. 10, bloco 910C-2 e nos números de canais secundários (7310, 7314, etc.)
+   associados a páginas relacionadas a equipamentos de golf. Desta forma, observa-se sim
+   em D1 a etapa de atribuir números de canais principais a um sítio de internet e números de
+   canais secundários a páginas de um dito sítio, diferentemente do afirmado pela
+   Requerente.
+
+4. Sendo assim, uma vez que não foram efetuadas novas modificações nas reivindicações
+   independentes 1 e 4, reiteram-se as observações feitas acerca da patenteabilidade de tais
+
+
+                                                                                    Página 3
+                                           PI1000905-1
+
+
+       reivindicações, concluindo-se pela ausência de atividade inventiva destas reivindicações,
+       frente aos conhecimentos obtidos no documento D1.
+
+   5. Com relação às reivindicações dependentes, suas características técnicas constituem-se
+       em mero detalhamento das características técnicas essenciais contidas nas reivindicações
+       independentes 1 e 4, podendo ser consideradas de implementação óbvia frente aos
+       conhecimentos de um técnico no assunto à época, não apresentando atividade inventiva, e
+       estando em desacordo com os artigos 8º e 13 da lei nº 9.279/96 (LPI).
+
+Conclusão
+       Assim, pelo exposto, as alegações e argumentações apresentadas pela Requerente não
+foram suficientes para sustentar que o pedido PI1000905-1 possua atividade inventiva e, desta
+forma, é mantido o exarado em parecer anterior, ou seja, que o presente pedido carece de
+atividade inventiva, estando em desacordo com os artigos 8º e 13 da lei nº 9.279/96 (LPI).
+       Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não
+atende ao requisito de atividade inventiva (Art. 8º combinado com Art. 13 da LPI).
+       De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir
+da data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                 Publique-se o indeferimento (9.2).
+
+
+
+                                                         Rio de Janeiro, 17 de novembro de 2021.
+
+
+
+
+Pedro Paulo Suzano Xavier
+Pesquisador/ Mat. Nº 1460497
+DIRPA / CGPAT III/DIPAT XIV
+Deleg. Comp. - Port. INPI/DIRPA Nº
+001/18
+
+
+
+
+                                                                                          Página 4
+

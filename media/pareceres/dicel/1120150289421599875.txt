@@ -1,0 +1,232 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112015028942-8         N.° de Depósito PCT: US2014/038654
+ Data de Depósito:                   19/05/2014
+ Prioridade Unionista:               US 13/901,497 (23/05/2013)
+ Depositante:                        CAREFUSION 303, INC. (US)
+ Inventor:                           THOMAS WILLIAM UTECH, MARIA CONSOLACION JASKELA,
+                                     WILLIAM LEE WEBSTER
+ Título:                             Agregação com base em componente de pedidos de medicamentos
+
+                                                              PARECER
+O pedido de patente de invenção trata de agregação de pedidos de medicamentos e, mais
+particularmente, de agregação com base em componente de pedidos de medicamentos.
+
+Em 13/05/2020, por meio da petição 870200059194, o depositante apresentou argumentações e
+modificações no pedido em resposta ao parecer emitido no âmbito da Resolução Nº 241/2019,
+notificado na RPI 2563 de 18/02/2020 segundo a exigência preliminar (6.21).
+
+Em 06/06/2020, por meio da petição 870220049359, o depositante apresentou modificações no
+pedido em resposta ao parecer emitido, notificado na RPI 2670 de 08/03/2022 (despacho 7.1).
+Estas modificações estão consideradas no Quadro 1.
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas                 n.o da Petição      Data
+
+Relatório Descritivo                                9/69 a 43/69                870220049359     06/06/2022
+Quadro Reivindicatório                             44/69 a 54/69                870220049359     06/06/2022
+Desenhos*                                              54 a 59               NPWB 860160001872   04/01/2016
+Resumo                                                   55/69                  870220049359     06/06/2022
+*Numeração     correspondente     à      paginação eletrônica do                                    documento
+112015028942-8_PROT860160001872_04-01-2016_260_95_EDEPOSITO.PDF,                                  relativo  à
+petição NPWB 860160001872 de 04/01/2016.
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                            Página 1
+                                         BR112015028942-8
+
+
+ Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                 maio de 1996  LPI
+Artigos da LPI                                                         Sim             Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                  x
+O pedido está de acordo com disposto no art. 32 da LPI                   x
+Comentários/Justificativas
+
+A matéria das reivindicações 1 a 23 não é considerada invenção nem modelo de utilidade, pois
+se trata de esquemas, planos, princípios ou métodos comerciais, se enquadrando no disposto
+no Art. 10 (III) da LPI. De acordo com a Resolução N° 169/2016 (que institui as Diretrizes de
+Exame de Pedidos de Patente  Bloco II  Patenteabilidade), os itens contidos no inciso III do
+artigo 10 da LPI, mesmo quando utilizarem meios técnicos ou tenham utilidade prática não serão
+considerados invenção. O examinador deve identificar se a matéria reivindicada, considerada
+como um todo, soluciona problemas comerciais, contábeis, financeiros, educativos, publicitários,
+de sorteio e/ou de fiscalização, e não um problema técnico (1.9).
+
+Particularmente, a matéria pleiteada diz respeito a método logístico para a gestão/administração
+de agregação de pedidos de medicamentos, em que com o alto custo dos medicamentos,
+qualquer redução no desperdício pode levar a economias de custo significativas. Ou seja, a
+matéria pleiteada é direcionada a um método comercial/administrativo, particularmente um
+método logístico, envolvendo a coleta de informações com o objetivo de facilitar a tomada de
+decisões puramente gerenciais. No contexto da invenção, esta tomada de decisão resulta
+potencialmente na redução de descarte de medicamentos. No entanto, este efeito não é
+consequência de considerações técnicas, mas apenas de restrições logísticas, resultando em
+um método comercial/administrativo que é implementado a partir de elementos computacionais
+(que formam o núcleo das características técnicas) corriqueiros e largamente conhecidos na
+data de prioridade do presente pedido de patente de invenção, como dispositivo eletrônico,
+memória, processadores, interface de usuário, identificação a partir de leitura de códigos de
+barra, dentre outros.
+
+Em sua manifestação (petição 870220049359 de 06/06/2022), o depositante alega
+fundamentalmente que a solução reivindicada melhora o poder e a velocidade de
+processamento, facilita o uso eficiente e oportuno de componentes de medicamentos, bem
+como reduz o desperdício de componentes de medicamentos em um ambiente de preparação
+de medicamentos, conservando assim os recursos físicos, que a reordenação automática
+reivindicada da lista de filas, de modo que o primeiro e o segundo pedidos de medicamentos que
+compartilham um medicamento componente são listados adjacentes um ao outro, melhora a
+velocidade geral de processamento de pedidos do sistema, pois as rotinas de pesquisa
+baseadas na entrada do usuário solicitam ao usuário que procure outros pedidos contendo
+medicamento do mesmo componente, recebendo e processando a entrada do usuário, e só
+
+
+
+                                                                                         Página 2
+                                           BR112015028942-8
+
+
+então a reordenação da fila pode ser omitida, que a fila virtual reivindicada é uma solução
+técnica que também melhora a funcionalidade do próprio computador de preparação. Ou seja,
+exibir pedidos com componentes semelhantes juntos reduz o poder de processamento em
+comparação com a pesquisa e exibição de informações de pedidos aleatórios para todos os
+pedidos possíveis e fornece uma exibição simplificada de informações que reduz o número de
+operações de rolagem a serem tratadas pelo sistema (como assistência médica profissionais
+procuram prescrições com medicamentos do mesmo componente) e que as características
+reivindicadas acima desempenham claramente um papel essencial para alcançar um efeito
+técnico claro, ou seja, o uso eficiente, rápido, oportuno e minimizado de resíduos de
+componentes de medicamentos para atender a pedidos de medicamentos. Contudo, a
+organização de filas de preparação de medicamentos, bem como a exibição de componentes
+semelhantes para facilitar a observação do usuário, de tal maneira que sejam minimizados os
+resíduos de componentes de medicamentos consiste em característica totalmente direcionada à
+logística a coleta de informações com o objetivo de facilitar a tomada de decisões em ambiente
+de agregação de componentes para fabricação de medicamentos diz respeito à implementação
+de método comercial, cujo cerne são etapas de gestão e administração, não podendo ser
+evidenciado caráter técnico. Portanto, a argumentação provida pelo depositante não é
+considerada persuasiva e o enquadramento da matéria pleiteada no Art. 10 (III) da LPI é
+mantido.
+
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                           Sim            Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                     x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI    x
+Comentários/Justificativas
+
+Os Desenhos do presente pedido não descrevem de forma clara e objetiva a invenção de forma
+a possibilitar sua realização por um técnico no assunto, contrariando o disposto no Art. 24 da
+LPI. Particularmente, não foram apresentadas vias do Desenhos em idioma português.
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                  Documento                             Data de publicação
+    D1                                US2010094653 A                               15/04/2010
+
+
+
+
+                                                                                         Página 3
+                                        BR112015028942-8
+
+
+
+     Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+      Requisito de Patenteabilidade          Cumprimento               Reivindicações
+                                                  Sim                          ---
+            Aplicação Industrial
+                                                  Não                          ---
+                                                  Sim                          ---
+                  Novidade
+                                                  Não                          ---
+
+                                                  Sim                          ---
+            Atividade Inventiva
+                                                  Não                          ---
+Comentários/Justificativas
+
+De acordo com o disposto na seção Comentários/Justificativas do Quadro 2, a matéria pleiteada
+está fundamentada na implementação de esquemas, planos, princípios ou métodos comerciais.
+Neste contexto, o Quadro Reivindicatório não é avaliado quanto aos requisitos de
+patenteabilidade (vide Resolução n° 169/2016  Diretrizes de Exame de Pedidos de Patente 
+Bloco II  1.1 e 1.2). No entanto, exclusivamente por economia processual, é comentado
+documento que descreve características da matéria pleiteada; por exemplo, o documento D1
+menciona o emprego de memória, processadores, identificação por meio de leitura de códigos
+de barra e dispositivos eletrônicos diversos em ambiente de gestão de preparação de pedidos
+de doses de medicamentos para pacientes (folha de rosto  abstract 57, parágrafos [0034] a
+[0042] e figs. 3 e 4).
+
+Em    sua    manifestação    (petição   870220049359    de   06/06/2022),   depositante    alega
+fundamentalmente que o sistema de D1 tem a desvantagem de não fornecer nenhum conceito
+para gerenciar eficientemente a preparação de medicamentos e evitar o desperdício de
+componentes de medicamentos na medida do possível. Em particular, D1 não determina um
+conjunto de recipientes de medicamentos que, em conjunto, contenham uma quantidade de
+medicamento que minimize uma quantidade excessiva do medicamento e que o documento D1
+é completamente omisso sobre esse sistema de gerenciamento de preparação de
+medicamentos.
+
+Todas estas características, entretanto, dizem respeito a etapas da implementação de método
+comercial relativo à gestão organizacional de agregação de componentes para a fabricação de
+medicamentos, onde são indicadas quantidades de determinados componentes, pedidos de
+medicamentos são apresentados de maneira adjacente a um usuário etc (observar,
+particularmente, o disposto na seção de Comentários/Justificativas do Quadro 2 do presente
+parecer de exame técnico). Nesse contexto, tal qual previamente indicado, em uma eventual
+discussão acerca de requisitos de patenteabilidade, características que não contribuem ao
+caráter técnico da invenção não são consideradas para avaliação de atividade inventiva. Tal
+situação pode ocorrer se uma característica contribui apenas para a solução de um problema
+não técnico, tal como um problema em um campo excluído pelo artigo 10 da LPI (observar o
+
+
+
+                                                                                          Página 4
+                                       BR112015028942-8
+
+
+disposto na Resolução N° 169/2016 - institui as Diretrizes de Exame de Pedidos de Patente 
+Bloco II  Patenteabilidade  5.18).
+
+
+
+Conclusão
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+
+
+      -   não apresenta suficiência descritiva (Art. 24 da LPI)
+
+      -   não é considerado invenção, uma vez que incide no Art. 10 da LPI
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                    Publique-se o indeferimento (9.2).
+
+
+
+                                                                  Rio de Janeiro, 15 de julho de 2022.
+
+
+
+
+Fábio Vieira Batista de Nazaré
+Pesquisador/ Mat. Nº 1958231
+DIRPA / CGPAT III/DICEL
+Deleg. Comp. - Port. INPI/DIRPA Nº 001/18
+
+
+
+
+                                                                                             Página 5
+

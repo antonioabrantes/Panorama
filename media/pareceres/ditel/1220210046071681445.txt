@@ -1,0 +1,187 @@
+                                        SERVIÇO PÚBLICO FEDERAL
+                                         MINISTÉRIO DA ECONOMIA
+                             INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                                RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                        BR122021004607-7         N.° de Depósito PCT: KR2012/005135
+ Data de Depósito:                     28/06/2012
+ Prioridade Unionista:                 US 61/502,056 (28/06/2011)
+ Depositante:                          SAMSUNG ELECTRONICS CO., LTD. (KR)
+ Inventores:                           ELENA ALSHINA, ALEXANDER ALSHIN
+ Título:                               MÉTODO DE COMPENSAÇÃO DE MOVIMENTO 
+
+                                                                     PARECER
+
+
+Em 04/10/2022, através da RPI2700, foi emitido parecer de ciência (7.1), que segundo o
+entendimento naquele momento, o presente pedido contrariava o artigo 32 da LPI.
+
+
+
+Em 03/01/2023, através da petição 870230000596, em resposta à ciência de parecer, a
+requerente apresentou novas vias do quadro reivindicatório e justificativas pelas alterações.
+
+
+
+                                         Quadro 1  Páginas do pedido examinadas
+                 Elemento                                     Páginas          n.o da Petição           Data
+
+Relatório Descritivo                                          1 - 124          870220123276           29/12/2022
+Quadro Reivindicatório                                           1             870230000596           03/01/2023
+Desenhos                                                       1 - 27          870210023171           11/03/2021
+Resumo                                                           1             870220123276           29/12/2022
+
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                  Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                        X
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                                X
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                          X
+O pedido está de acordo com disposto no art. 32 da LPI                                           X
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.1 27/01/12                                                Página 1
+                                                          BR122021004607-7
+
+
+                   Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                 Sim                 Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                                X
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                              X
+
+
+
+
+                                    Quadro 4  Documentos citados no parecer
+
+ Código                                                 Documento                                       Data de publicação
+   ----                                                        ----                                              ----
+
+
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                                      Cumprimento             Reivindicações
+                                                                            Sim                           ----
+              Aplicação Industrial
+                                                                           Não                            ----
+
+                                                                            Sim                           ----
+                      Novidade
+                                                                           Não                            ----
+
+                                                                            Sim                           ----
+              Atividade Inventiva
+                                                                           Não                            ----
+
+
+
+Comentários/Justificativas
+
+
+
+Analisando a manifestação e comparando o quadro reivindicatório contido na petição
+apresentada [870230000596] do presente pedido com o quadro reivindicatório contido na
+petição [870200107894] do pedido pai [BR112013033703-6] verifica-se que foi retirada uma
+característica o que amplia o quadro reivindicatório, conforme pode ser visto na tabela
+comparativa abaixo:
+
+
+
+          BR112013033703-6 (Pedido pai)                                           BR122021004607-7 (Dividido)
+Método de decodificação de vídeo para                                     MÉTODO DE DECODIFICAÇÃO DE VÍDEO
+interpredição de uma imagem usando                                        PARA INTER PREDIÇÃO DE UMA IMAGEM
+compensação de movimento usando um filtro de                              USANDO COMPENSAÇÃO DE
+interpolação, o método de decodificação de                                MOVIMENTO MEDIANTE UTILIZAÇÃO DE
+vídeo caracterizado pelo fato de que                                      UM FILTRO DE INTERPOLAÇÃO, o método
+compreende:                                                               caracterizado pelo fato de que compreende:
+determinar coeficientes de filtro de filtros de                           Característica ausente.
+
+
+
+          Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                                   Página 2
+                                                        BR122021004607-7
+
+
+interpolação de 7 derivações para gerar pelo
+menos uma amostra de um
+quarto-sub-pel-unidade localizada entre pixels
+de unidades-pelintegrais;
+gerar uma amostra de uma localização 1/4 de                           gerar uma amostra de uma localização de 1/4 de
+pixel ou uma localização 3/4 de pixel                                 pixel ou uma localização de 3/4 de pixel
+interpolando os pixels de unidades-pel-integrais                      mediante interpolação de pixels de unidades de
+usando o filtro de interpolação de 7- derivações;                     pel-integro mediante usar um filtro de
+e.                                                                    interpolação de sete variações;
+intra redizer a imagem usando compensação de                          inter predizer a imagem usando compensação de
+movimento usando a amostra da localização de                          movimento mediante utilizer a amostra de
+1/4 de pixel ou a localização de 3/4 de pixel,                        localização de 1/4 pixel ou a localização de 3/4
+                                                                      de pixel,
+em que o filtro de interpolação de 7 derivações                       no qual o filtro de interpolação de 7 derivações
+para gerar a amostra da localização de 1/4 de                         para gerar a amostra da localização de 1/4 de
+pixel compreende sete coeficientes de filtro: {-1,                    pixel compreende sete coeficientes de filtro: :
+4, -10, 58, 17, -5, 1} e                                              {-1, 4, -10, 58, 17, -5, 1}, e
+o filtro de interpolação de 7 derivações para                         o filtro de interpolação de 7 derivações para
+gerar a amostra da localização de 3/4 pixels                          gerar a amostra da localização de 3/4 de pixel
+compreende sete coeficientes de filtro: {1, -5,                       compreendendo sete coeficientes de filtro: {1,
+17, 58, -10, 4, -1}.                                                  -5, 17, 58, -10, 4, -1}.
+
+
+Retirar características técnicas não são permitidas pois amplia a matéria, conforme diz a
+Resolução 93/2013 (Assunto: Instituir as diretrizes sobre a aplicabilidade do disposto no
+artigo 32 da Lei 9279/96 nos pedidos de patentes, no âmbito do INPI) - 2.2. Das alterações
+não permitidas no QR, (ii) Alterações no QR, voluntárias ou decorrentes de exames técnicos
+(despachos 6.1 ou 7.1) que venham a ampliar a matéria reivindicada, infringirão o disposto no
+artigo 32 da LPI e, por conseguinte, não serão aceitas. Nestas situações, o QR contendo tais
+alterações SERÁ RECUSADO EM SUA TOTALIDADE, mesmo que a alteração incida em
+apenas algumas das reivindicações (ou ainda que incida em apenas em UMA reivindicação),
+devendo o exame técnico ser efetuado tendo como base o QR anterior. Caberá ao examinador
+formular um parecer com despacho 7.1 (ciência de parecer), comunicando claramente a não
+aceitação do QR apresentado, por incidência no artigo 32 da LPI, e que o QR a ser considerado
+para análise de mérito do pedido de patente será o QR válido anterior.
+
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que houve
+acréscimo do escopo da reivindicação nº. 1 (Art. 32 da LPI).
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                            Página 3
+                                                        BR122021004607-7
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                             Publique-se o indeferimento (9.2).
+
+
+
+                                                                       Rio de Janeiro, 01 de fevereiro de 2023.
+
+
+
+
+Elias Lawrence Marques
+Pesquisador/ Mat. Nº 1547032
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+002/11
+
+
+
+
+        Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12                                   Página 4
+

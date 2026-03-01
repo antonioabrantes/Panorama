@@ -1,0 +1,241 @@
+                                      SERVIÇO PÚBLICO FEDERAL
+                                       MINISTÉRIO DA ECONOMIA
+                           INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112020019324-0            N.° de Depósito PCT:CN2018/080747
+ Data de Depósito:                   27/03/2018
+ Prioridade Unionista:               -
+ Depositante:                        HUAWEI TECHNOLOGIES CO., LTD. (CN)
+ Inventor:                           TAO SUN; CONGCHAO ZHU
+ Título:                             Terminal móvel de fotografia 
+
+                                            PARECER
+          Em 06/09/2022 foi publicada através da RPI nº 2696, notificação de Ciência de Parecer
+conforme parecer técnico de primeiro exame do presente pedido. Tal parecer indicou
+irregularidades quanto ao disposto nos Arts. 8º, 13 e 25 da LPI.
+
+          O depositante, através da petição 870220112060 de 02/12/2022, e portanto
+tempestivamente, apresentou manifestação a respeito do parecer técnico propondo nova via do
+quadro reivindicatório com 17 (dezessete) reivindicações e argumentação quanto aos requisitos
+de patenteabilidade da matéria pleiteada.
+
+          Para fins de continuidade do exame, estão sendo consideradas as vias abaixo:
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1 a 89               870210032993           12/04/2021
+Quadro Reivindicatório                                   1a9                 870220112060           02/12/2022
+Desenhos                                                1 a 13               870200119697           24/09/2020
+Resumo                                                      1                870210032993           12/04/2021
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                  maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas ---
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                           BR112020019324-0
+
+
+               Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                               Sim               Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI         x
+Comentários/Justificativas ---
+
+
+                           Quadro 4  Documentos citados no parecer
+
+ Código                                   Documento                                Data de publicação
+    D1      US2013194456 A1                                                             01/08/2013
+    D2      US8655060 B2                                                                18/02/2014
+    D3      US7940325 B2                                                                10/05/2011
+
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade                 Cumprimento                Reivindicações
+                                                         Sim                        1 a 17
+           Aplicação Industrial
+                                                        Não                           ---
+                                                         Sim                        1 a 17
+                 Novidade
+                                                        Não                           ---
+
+                                                         Sim                          ---
+           Atividade Inventiva
+                                                        Não                         1 a 17
+Comentários/Justificativas
+
+      Em sua argumentação, a requerente menciona que apresenta um novo quadro
+reivindicatório mais limitado que o quadro reivindicatório original. Verificou-se que, afora os sinais
+de referência 120 e 180, o quadro apresentado é exatamente o mesmo analisado anteriormente.
+Assim, serão aqui tratados os pontos trazidos pela requerente frente aos apontamentos quanto à
+atividade inventiva dos objetos pleiteados.
+
+      Das argumentações trazidas pela requerente, destacam-se aqui alguns trechos:
+
+                         A reivindicação 1 difere de D1 por pelo menos as características a) e b) listadas
+                         anteriormente.
+
+                         Esta diferença dá origem ao efeito técnico de fornecer um modo de foto noturna
+                         que determina uma cena de foto atual e um status de foto atual e sintetizar uma
+                         imagem alvo de acordo com a cena de foto atual e o status de foto atual para
+                         melhorar o efeito da imagem à noite.
+
+                         O problema técnico objetivo a ser resolvido pode, portanto, ser considerado como
+                         melhorar o efeito da imagem durante a noite.
+
+
+
+
+                                                                                                Página 2
+                                     BR112020019324-0
+
+
+                    A presente invenção resolve o problema técnico e alcança o efeito técnico ao
+                    fornecer o modo de foto noturna conforme definido pela nova reivindicação 1.
+
+                    O próprio D1 não fornece uma dica para os recursos de diferenciação pelos
+                    motivos citados acima.
+
+
+
+    Respeitosamente, discorda-se das alegações da Requerente tendo em vista que:
+
+   Entende-se que o efeito técnico alcançado pelos objetos pleiteados nas reivindicações
+    independentes do pedido em tela é capturar uma imagem em situações de pouca
+    luminosidade e onde o dispositivo de captura pode estar estável ou não. A denominação
+    destas situações (modo noturno, cena escura, retroiluminada...) não se refere à uma
+    característica técnica, apenas nomeia uma determinada combinação de situações que
+    influenciará nos parâmetros de exposição para captura.
+
+   Assim, em primeiro lugar, reitera-se que as seguintes características das reivindicações
+    independentes já estão compreendidas no estado da técnica:
+
+     Método de fotografia implementado por um dispositivo eletrônico, caracterizado pelo
+        fato de que compreende:
+
+        entrar em um modo de foto noturna;
+
+        exibir uma interface de pré-visualização indicando que o dispositivo eletrônico está
+        atualmente no modo de foto noturna;
+
+        receber uma instrução de fotografia quando a interface de pré-visualização é exibida;
+
+        exibir uma interface de fotografia em resposta a receber a instrução de fotografia, em
+        que a interface de fotografia exibe uma indicação de progresso indicando que o
+        dispositivo eletrônico está realizando processamento para gerar uma imagem alvo e
+        exibe uma indicação notificando a um usuário que mantenha o dispositivo eletrônico
+        estável;
+
+        realizar processamento usando quadros para sintetizar a imagem alvo, em que os
+        quadros são obtidos com base em parâmetros de exposição;
+
+     D1: parágrafos 0044, 0049, 0050, 0077; Figura 4;
+
+        D2: coluna 1, linhas 48 a 51; coluna 4, linhas 57 a 64; e
+
+        D3: coluna 4, linhas 11 a 16 e linhas 36 a 41.
+
+   Quanto às características citadas pela requerente em sua argumentação como as
+    características a) e b) e que seriam responsáveis pela atividade inventiva dos objetos
+    pleiteados, reitera-se que:
+
+     as características detalhadas dizem respeito à obtenção de quadros com base na
+        identificação do ambiente e situação de captura: cena com fonte de luz ou cena escura
+
+
+
+                                                                                            Página 3
+                                        BR112020019324-0
+
+
+           em combinação com estado estável ou estado portátil do dispositivo de captura.
+           Porém, há apenas a indicação do uso de parâmetros de exposição, sem que sejam
+           detalhados quais seriam esses parâmetros e como seriam processados. Assim,
+           entende-se que apesar dos documentos D1, D2 e D3 não anteciparem um número de
+           quadros e parâmetros de exposição, no documento D1 é antecipado uma característica
+           que diz respeito a captura de dados de imagens a partir da identificação de um modo
+           de fotografia específico (a figura 4 em D1 exemplifica com o modo backlit), dados
+           de imagens estes capturados com diferentes tempos de exposição. Além disso, D1 cita
+           outros modos de cena além do backlit (ver em D1: parágrafos 0049, 0052; figura 4).
+
+        Além da argumentação já divulgada no parecer anterior, é importante indicar que, no
+           documento D1, é descrita uma técnica de captura de quadros de imagem, obtidos com
+           a variação de um parâmetro de exposição e que esses dados de imagem serão
+           processados para sintetizar uma imagem para gravação/exibição. O parâmetro de
+           exposição citado em D1 na descrição do exemplo do modo backlit é o tempo de
+           exposição, porém, ao descrever o dispositivo de captura, D1 cita parâmetros como a
+           sensibilidade à luz e valor de abertura (ver em D1: parágrafos [0023] e [0024]), tal
+           qual é indicado no pedido em tela (relatório descritivo, parágrafos [0027] e [0028].
+
+           Ademais, o documento D1 também indica a utilização de outros modos de foto e a
+           possível combinação destes, como um citado modo noturno portátil, que é descrito
+           como um modo para capturar imagens a noite com um dispositivo não-estável,
+           indicando que, a depender destes fatores, os parâmetros de exposição irão variar na
+           captura dos quadros de imagens a serem processador para sintetizar a imagem alvo
+           (ver em D1: parágrafos [0077] e [0078]).
+
+           Ou seja, reiteramos o entendimento que o documento D1 é capaz de fornecer para um
+           técnico no assunto à época do depósito do pedido em tela os ensinamentos
+           necessários para derivar de maneira óbvia os objetos pleiteados nas reivindicações
+           independentes no quadro reivindicatório analisado.
+
+
+
+      Sendo assim, mantemos a opinião de que a matéria pleiteada nas reivindicações de 1 a 17
+não apresenta atividade inventiva frente ao revelado no documento D1, descumprindo o disposto
+nos Arts. 8.º e 13 da LPI.
+
+
+
+Conclusão
+
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que não atende
+ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI).
+
+
+
+
+                                                                                            Página 4
+                                      BR112020019324-0
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                  Publique-se o indeferimento (9.2).
+
+
+
+                                                           Rio de Janeiro, 29 de dezembro de 2022.
+
+
+
+
+Camila Duarte Rodrigues Lopes
+Pesquisador/ Mat. Nº 2357468
+DIRPA / CGPAT III/DITEL
+Deleg. Comp. - Port. INPI/DIRPA Nº
+015/18
+
+
+
+
+                                                                                           Página 5
+

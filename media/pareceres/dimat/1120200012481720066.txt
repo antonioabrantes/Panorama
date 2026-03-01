@@ -1,0 +1,237 @@
+                               SERVIÇO PÚBLICO FEDERAL
+           MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS
+                    INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+
+                                             RELATÓRIO DE EXAME TÉCNICO
+
+ N.° do Pedido:                      BR112020001248-3          N.° de Depósito PCT:CA2018/050889
+ Data de Depósito:                   23/07/2018
+ Prioridade Unionista:               US 62/535,730 (21/07/2017)
+ Depositante:                        PYROGENESIS CANADA INC. (CA)
+ Inventor:                           CHRISTOPHER ALEX DORVAL DION; FRANÇOIS PROULX
+ Título:                             Aparelho e processo para produzir pó a partir de uma matéria-prima
+                                     por atomização por plasma e partícula 
+
+                                                                PARECER
+
+
+
+                                      Quadro 1  Páginas do pedido examinadas
+                Elemento                               Páginas               n.o da Petição           Data
+
+Relatório Descritivo                                    1  14               870230040685           15/05/2023
+Quadro Reivindicatório                                   17                 870230040685           15/05/2023
+Desenhos                                                 17                 870200035132           16/03/2020
+Resumo                                                      1                870230040685           15/05/2023
+
+
+  Quadro 2  Considerações referentes aos Artigos 10, 18, 22 e 32 da Lei n.o 9.279 de 14 de
+                                   maio de 1996  LPI
+Artigos da LPI                                                                                Sim       Não
+A matéria enquadra-se no art. 10 da LPI (não se considera invenção)                                      x
+A matéria enquadra-se no art. 18 da LPI (não é patenteável)                                              x
+O pedido apresenta Unidade de Invenção (art. 22 da LPI)                                        x
+O pedido está de acordo com disposto no art. 32 da LPI                                         x
+Comentários/Justificativas
+
+
+
+                    Quadro 3  Considerações referentes aos Artigos 24 e 25 da LPI
+
+Artigos da LPI                                                                                Sim       Não
+O relatório descritivo está de acordo com disposto no art. 24 da LPI                           x
+O quadro reivindicatório está de acordo com disposto no art. 25 da LPI                                   x
+
+
+
+
+Código:5975ce1e23737deeb22c88e902a79153versão1.3 19/04/12@MODELO_SISCAP@                               Página 1
+                                                        BR112020001248-3
+
+Comentários/Justificativas
+Neste parecer serão utilizados os seguintes símbolos:
+LPI  Lei da Propriedade Industrial (Lei N° 9.279/96)
+IN  Instrução Normativa
+RD  relatório descritivo
+QR  quadro reivindicatório
+R  reivindicação
+
+
+
+
+           Após notificação de despacho de ciência de parecer (7.1) publicado na RPI nº 2719 em
+14/02/2023, a requerente impetrou a petição de n° 870230040685 em 15/05/2023, onde apresenta
+novas vias do relatório descritivo, do quadro reivindicatório e do resumo.
+
+
+           As reivindicações 1 e 17 são reivindicações independentes de processo para produzir pó
+a partir de uma matéria-prima por atomização por plasma e, portanto, da mesma categoria.
+Porém, as mesmas não definem diferentes conjuntos de características alternativas e essenciais à
+realização da invenção, contrariando o disposto na IN nº 030/2013  Art. 5º, inciso II e no Art. 25
+da LPI. O mesmo raciocínio se aplica, mutatis mutandis, às reivindicações 25 e 35 (aparelho) e 40
+a 43 (partícula).
+
+
+           A requerente alega que ao se observar o conteúdo reivindicado por cada uma destas,
+seria possível se confirmar a alternatividade pelas mesmas.
+
+
+           A reivindicação 1 apresenta:
+
+
+           1. Processo para produzir pó a partir de uma matéria-prima por atomização por plasma,
+caracterizado pelo fato de que compreende:
+           - atomizar a matéria-prima em partículas líquidas; e
+           - acelerar as partículas líquidas e uma mistura de pelo menos um dentre um gás aquecido
+e plasma, cisalhando as partículas líquidas em partículas mais finas
+
+
+           A reivindicação 17 apresenta:
+
+
+           17. Processo para produzir pó a partir de uma matéria-prima por atomização por plasma,
+caracterizado pelo fato de que compreende:
+           - atomizar a matéria-prima em partículas líquidas; e
+           - prover uma câmara de confinamento (154) a montante de um bocal, a câmara de
+confinamento (154) sendo aquecida e sendo adaptada para fundir a matéria-prima antes de ser
+conduzida ao bocal.
+
+
+
+                                                                                          Página 2
+                                       BR112020001248-3
+          Inicialmente, cabe observar que as partes grifadas nas reivindicações 1 e 17 não são
+etapas alternativas entre si. Não há um processo em que as partículas líquidas são aceleradas
+juntamente com uma mistura de pelo menos um dentre um gás aquecido e plasma, cisalhando as
+partículas líquidas em partículas mais finas, e um outro em que, alternativamente, ou seja, no
+lugar disso, há uma câmara de confinamento (154) a montante de um bocal, a câmara de
+confinamento (154) sendo aquecida e sendo adaptada para fundir a matéria-prima antes de ser
+conduzida ao bocal. Em outras palavras, não faz sentido dizer que as matérias pleiteadas na R1 e
+na R17 são processos alternativos, uma vez que: a) as etapas descritas coexistem em um mesmo
+processo, e b) as referidas etapas têm funções e, portanto, consequências totalmente distintas
+dentro do referido processo. Os parágrafos [038] e [039] corroboram este entendimento.
+
+
+          Além disso, a R17 apresenta duas etapas, a primeira sendo atomizar a matéria-prima em
+partículas líquidas, e a segunda etapa sendo prover uma câmara de confinamento adaptada para
+fundir a matéria-prima antes de ser conduzida ao bocal. Para que houvesse duas etapas de fusão
+da matéria-prima seria necessário que a mesma solidificasse entre uma etapa e outra, o que não
+ocorre.
+
+
+          Em suma, as reivindicações 1 e 17 não tratam de processos alternativos, cujas
+características distintivas estão descritas nas suas partes caracterizantes, mas de um mesmo
+processo caracterizado a partir de etapas diferentes.
+
+
+          As reivindicações 40 a 43 definem o produto a partir do processo utilizado para a sua
+obtenção, o que ocasiona falta de clareza e precisão da matéria pleiteada, contrariando o disposto
+no Art. 25 da LPI e na Resolução nº 124/2013 (3.60).
+
+
+
+
+                          Quadro 4  Documentos citados no parecer
+
+ Código                               Documento                              Data de publicação
+    D1                              WO2015135075                                 17/09/2015
+    D2                                US5707419                                  13/01/1998
+    D3                                EP1725327                                  03/04/2013
+    D4                                EP2027934                                  17/09/2015
+
+
+
+
+                                                                                         Página 3
+                                         BR112020001248-3
+
+    Quadro 5  Análise dos Requisitos de Patenteabilidade (Arts. 8.º, 11, 13 e 15 da LPI)
+     Requisito de Patenteabilidade              Cumprimento               Reivindicações
+                                                         Sim                   1  43
+           Aplicação Industrial
+                                                         Não                     ---
+
+                                                         Sim                   1  43
+                 Novidade
+                                                         Não                     ---
+
+                                                         Sim                     ---
+           Atividade Inventiva
+                                                         Não                   1  43
+
+
+Comentários/Justificativas
+
+
+       D1 ensina um aparelho para produzir pó a partir de uma matéria-prima por atomização de
+plasma (vide figuras de D1), a matéria-prima tipicamente incluindo pelo menos um fio (110), pós,
+barras, lingotes, compreendendo pelo menos uma tocha de plasma (120) para atomizar a
+matéria-prima em partículas líquidas; e um dispositivo (bocal) para acelerar as partículas líquidas,
+inclusive para velocidade supersônica, e uma mistura de pelo menos um gás quente e plasma,
+sendo o referido dispositivo adaptado para cisalhar as partículas líquidas em partículas mais finas
+(vide parágrafos [0046], [0047], [0068], [0069], [0074], [0090], [0091]; reivindicações 1,13,16,17;
+figuras 2a,2b,3,9,10).
+
+
+       D2 ensina as mesmas características técnicas (figuras 1-4; coluna 3, linha 66 - coluna 4,
+linha 9; coluna 5, linhas 7-14; reivindicações 1,2,4).
+
+
+        Desta forma, tanto o aparelho como o método pleiteado não atendem ao requisito de
+atividade inventiva em relação ao estado da técnica, contrariando o disposto no artigo 8° c/c 13 da
+LPI. Consequentemente, as partículas produzidas pelo referido aparelho e método também não
+podem ser consideradas inventivas.
+
+
+        A requerente alega que em D1, o material de alimentação seria apenas transformado em
+material fundido na forma de gotículas fundidas esféricas finamente divididas, enquanto que no
+pedido em tela o objetivo seria cisalhar as partículas líquidas em partículas mais finas. Esta
+alegação não é persuasiva uma vez que, como um técnico no assunto saberia identificar, o
+preceito básico do processo de atomização é a formação de gotículas finas da matéria-prima
+fundida a partir do cisalhamento do material fundido com um gás em alta velocidade. Assim,
+embora os documentos D1 e D2 não citem textualmente o cisalhamento do líquido para formar
+gotículas fundidas esféricas finamente divididas, este ensinamento está implícito em ambos os
+documentos.
+
+                                                                                           Página 4
+                                        BR112020001248-3
+
+
+
+Conclusão
+
+
+      Assim sendo, de acordo com o Art. 37, indefiro o presente pedido, uma vez que:
+
+      -   não atende ao requisito de atividade inventiva (Art .8º combinado com Art. 13 da LPI)
+
+      -   as reivindicações estão indefinidas e/ou não estão fundamentadas no relatório
+          descritivo (Art. 25 da LPI)
+
+
+
+      De acordo com o Art. 212 da LPI, o depositante tem prazo de 60 (sessenta) dias, a partir da
+data de publicação na RPI, para interposição de recurso.
+
+
+
+                                                                Publique-se o indeferimento (9.2).
+
+
+
+                                                              Rio de Janeiro, 22 de maio de 2023.
+
+
+
+
+Rafael Vieira Camerini
+Pesquisador/ Mat. Nº 2317410
+DIRPA / CGPAT IV/DIMAT
+Deleg. Comp. - Port. INPI/DIRPA Nº
+012/18
+
+
+
+
+                                                                                         Página 5
+
