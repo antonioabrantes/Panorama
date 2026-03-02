@@ -61,7 +61,7 @@ def search_datajud_api(tribunal: TribunalLiteral, process_number: str) -> str:
     
 class JuriAi:
     DATAJUD_BASE_URL = "https://api-publica.datajud.cnj.jus.br"
-    DATAJUD_API_KEY = "cDZHYzlZa0JadVREZDJCendQbXY6SkJlTzNjLV9TRENyQk1RdnFKZGRQdw=="
+    DATAJUD_API_KEY = ""
     VECTOR_DB_TABLE = "documentos"
     VECTOR_DB_URI = "lancedb"
     MEMORY_DB_FILE = "db.sqlite3"
